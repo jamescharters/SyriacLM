@@ -1,0 +1,20 @@
+# Optional extras for the *neural* sub-project (continued pretraining + transfer).
+#
+# NOT needed for the core stylometry pipeline or the paper. The runnable Phase-0
+# tools in this folder (config.py, transliterate.py, aggregate.py, and the SEDRA
+# loader's parsing) use only the Python standard library plus what the parent
+# repo already installs (gensim/numpy). Install the heavy extras below only to
+# train models (Phases 1+):
+#
+#     .venv/bin/python -m pip install -r neural/requirements-neural.txt
+#
+# Tested target: Python 3.13 (same venv as the parent repo). All deps auto-detect
+# CPU / Apple-Silicon MPS / CUDA; no CUDA required.
+
+torch>=2.5             # shared with the paper's neural baselines
+transformers>=4.44     # CANINE / ByT5 / Semitic encoders
+datasets>=2.20         # streaming + sharded corpora
+tokenizers>=0.19
+peft>=0.12             # LoRA / adapters for parameter-efficient continued pretraining
+accelerate>=0.33       # device placement / mixed precision
+text-fabric>=12.0      # read ETCBC morphological annotation (root / lexeme / features)
