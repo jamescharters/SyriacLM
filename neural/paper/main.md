@@ -34,8 +34,11 @@ tokenizer-free byte model (CANINE) reaches AUC 0.870 off the shelf; transliterat
 Syriac into Hebrew script and encoding it with a Hebrew model reaches 0.888; and a
 larger multilingual model whose tokenizer represents Syriac as character fallback
 reaches only 0.798 — so script coverage, not language count, is what matters. A
-supervised verification head over either encoder gives the strongest separation
-(≈ 0.96 ± 0.03), though it is seed-sensitive on the small author pool. Continued
+supervised verification head lifts either encoder to ≈ 0.96 ± 0.03, on par with the
+count-based baselines rather than beating them and seed-sensitive on the small
+author pool: the neural representations match, but do not beat, those baselines at
+document-level authorship, so the value of the transfer comparison is the mechanism
+it exposes, not a new best. Continued
 pretraining improves the intrinsic language-model objective but not document-level
 authorship; an explicit root/pattern factorisation does not beat a flat encoder when
 the consonantal skeleton is already visible. Code, the evaluation harness, and the
@@ -223,6 +226,14 @@ lexical entries.
 
 ## 6. Transfer for a Zero-Resource Abjad
 
+The count-based representations remain the strongest here: word2vec (0.946),
+FastText (0.915), and Delta (0.907) separate authors better than any neural
+representation we test. The question this section answers is therefore not whether
+a neural model wins document-level authorship — on 2.18M tokens and about eleven
+authors it does not — but which transfer route is the right inductive bias for a
+zero-resource abjad, and why. The answer is a tokenizer-coverage effect the numbers
+below make concrete.
+
 **A tokenizer-free byte encoder transfers.** Off the shelf, with no Syriac training,
 CANINE encodes each form by mean-pooling its codepoint encoding and reaches AUC 0.870 /
 0.849 — the first demonstration that a pretrained multilingual byte model transfers to
@@ -247,10 +258,12 @@ into 2.51 real subwords per word (96.5% covered) against Glot500's 7.05. The ord
 a zero-resource abjad: char-fallback multilingual (0.798) < tokenizer-free byte (0.870) <
 shared-script Semitic transfer (0.888).
 
-**A supervised head gives the best separation, with a caveat.** Adding the prior study's
-leave-one-author-out supervised-contrastive head over the encoder vectors gives the
-strongest separation: CANINE + head 0.961 ± 0.030 at floor 1000, Hebrew + head
-0.946 ± 0.040. Two cautions: the head trains on an 11-author cohort and is
+**A supervised head matches, not beats, the count-based metric.** Adding the prior
+study's leave-one-author-out supervised-contrastive head over the encoder vectors
+gives the strongest *neural* separation: CANINE + head 0.961 ± 0.030 at floor 1000,
+Hebrew + head 0.946 ± 0.040. This is on par with the same head over the count-based
+FastText vectors (0.966 in the prior study) rather than above it: the head, not the
+encoder, supplies the gain. Two cautions: the head trains on an 11-author cohort and is
 nondeterministic across runs even at a fixed seed, so we report five-seed mean ± SD
 rather than a single value (an earlier single run read 0.99, an optimistic draw); and at
 floor 2000 the spread is large (± 0.10 for CANINE), so CANINE and Hebrew with the head
