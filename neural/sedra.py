@@ -60,10 +60,11 @@ SEDRA_CITATION = (
 # In SEDRA's CAL-style ASCII, vowels are the lowercase aeiou; the consonantal
 # skeleton is written with uppercase letters (and a few punctuation letter-signs).
 SEDRA_VOWELS: frozenset[str] = frozenset("aeiou")
-# Diacritic / pointing marks that are part of the vocalisation but not vowels
-# (quššaya, rukkaka, linea occultans, seyame marker, etc.). These ride on top of
-# the skeleton and are predicted as part of the pointing target.
-SEDRA_DIACRITICS: frozenset[str] = frozenset(",_*")
+# Diacritic / pointing marks that are part of the vocalisation but not vowels:
+# quššaya (') and rukkaka (,) on bgdkpt, linea occultans (_), and the marker (*).
+# Verified empirically against the SEDRA 3 WORDS.TXT vocalised field. These ride
+# on top of the skeleton and are predicted as part of the pointing target.
+SEDRA_DIACRITICS: frozenset[str] = frozenset("',_*")
 
 
 @dataclass(frozen=True)
@@ -131,12 +132,14 @@ def consonant_vowel_channels(vocalised: str) -> tuple[str, str]:
 # Loading a user-provided SEDRA source (guarded; no data shipped).
 # --------------------------------------------------------------------------- #
 def _default_source_candidates() -> list[Path]:
-    """Likely locations of a user-provided SEDRA source."""
+    """Likely locations of a user-provided / extracted SEDRA word table."""
+    here = Path(__file__).resolve().parent          # neural/
     home = Path.home()
     return [
-        Path("sedra_cache/words.json"),                       # local, pre-extracted
+        here / "sedra_cache" / "words.json",                 # neural.sedra_build output
+        Path("neural/sedra_cache/words.json"),               # from repo root
+        Path("sedra_cache/words.json"),                      # local, pre-extracted
         home / ".cache" / "sedrajs" / "words.json",
-        home / "node_modules" / "sedrajs" / "sedra" / "words.js",
     ]
 
 

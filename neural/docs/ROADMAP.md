@@ -59,8 +59,15 @@ a passing leakage assertion; `sedra --selftest`, `morphology --selftest`,
   *inductive bias for the script* (tokenizer-free CANINE), not the one with the
   largest language count. (The newest derivative, EMMA-500 / Llama-3.1-8B, shares
   the Glot lineage's tokenizer, so the same coverage limit is expected; not run.)
-- [ ] Twist 1 (pointing restoration) remains; gated on a SEDRA source for
-  vocalization supervision.
+- [x] **Twist 1 — the first neural Syriac vocaliser** ✅. Pointing restoration as
+  *morphological self-supervision*: the SEDRA vocalised lexicon
+  ([`sedra_build.py`](../sedra_build.py), 29,699 words, license-aware/git-ignored)
+  supervises a BiLSTM that predicts the vowel/diacritic of each consonant slot
+  ([`vocalizer.py`](../vocalizer.py)). Held-out SEDRA words: **per-position
+  pointing accuracy 0.811** (majority baseline 0.507) and **full-word exact match
+  0.361** (baseline 0.003 — 120×). Honest caveat: SEDRA is New-Testament-scoped,
+  so this is held-out *NT-vocabulary*; cross-register transfer to classical text
+  is the open question (no openly vocalised classical gold exists).
 
 **Exit check (met):** a pretrained neural encoder plugs into the bake-off and
 reports same/cross-author AUC on the identical cohort. This is the tractable next

@@ -76,8 +76,11 @@ default at tens-of-millions of tokens; **continued pretraining** is the frame.
 | [`pretrain.py`](pretrain.py) | ⛓ guarded (`--plan` runs) | the above + compute |
 | [`benchmark.py`](benchmark.py) | ✅ `--plan`/`--selftest`; ⛓ checkpoint needs torch | optional |
 | [`restoration.py`](restoration.py) | ✅ runnable (`--demo`) | `torch` (ships with the parent) |
+| [`sedra_build.py`](sedra_build.py) | ✅ runnable | stdlib + a user-provided SEDRA source (license-gated) |
+| [`vocalizer.py`](vocalizer.py) | ✅ runnable (`--demo`) | `torch` + the SEDRA table |
 | [`canine_encoder.py`](canine_encoder.py) | ✅ runnable | `transformers` + a CANINE download |
 | [`canine_pretrain.py`](canine_pretrain.py) | ✅ runnable | `transformers` + `peft` + compute |
+| [`hf_encoder.py`](hf_encoder.py) | ✅ runnable | `transformers` + `sentencepiece` |
 
 "Guarded" follows the parent repo's `_TORCH` pattern: the module imports cleanly
 and prints precise install instructions if a heavy dependency is absent, so the
