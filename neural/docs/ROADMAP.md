@@ -110,9 +110,14 @@ misses the script.
   morphology once the scripts are aligned. This gives a clean three-way story:
   char-fallback multilingual (Glot500 **0.798**) < tokenizer-free byte
   (CANINE **0.870**) < shared-script Semitic transfer (Hebrew **0.888**).
-- [ ] Stack the supervised AV head on the Hebrew-transfer vectors; extend to a
-  full curriculum (Arabic too, Aramaic intermediate) and back-translation off the
-  biblical parallel texts (real Syriac target side).
+- [x] **AV head stacks on the transfer base** (`--transliterate hebrew --av-head`):
+  the supervised leave-one-author-out projection lifts the Hebrew-transfer vectors
+  to **0.965** [0.933, 0.987] / **0.881** [0.847, 0.993] (from 0.888 / 0.857, a
+  **+0.077** floor-1000 gain). So the AV head is a *general-purpose* booster, not a
+  CANINE-specific trick — though CANINE + AV head (0.991 / 0.916) still tops the
+  table, so the best overall pipeline is unchanged.
+- [ ] Extend to a full curriculum (Arabic too, Aramaic intermediate) and
+  back-translation off the biblical parallel texts (real Syriac target side).
 
 ## P4 — Twist 3: textual restoration (application) ✅ runnable, working
 
