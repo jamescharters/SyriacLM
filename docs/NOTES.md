@@ -13,9 +13,11 @@ Last updated: 2026-06-23.
 A full arXiv-style write-up lives in [`paper/`](../paper/) (`main.tex`,
 `references.bib`, `tables/`), built with **XeLaTeX** (native Syriac via Noto Sans
 Syriac, always paired with transliteration). All table numbers are produced by
-[`paper_experiments.py`](../paper_experiments.py) (reproducible, seeded) and the
+[`paper_experiments.py`](../paper_experiments.py) (reproducible, seeded), the
 neural baselines by [`nn_baselines.py`](../nn_baselines.py) (PyTorch; byte-LM +
-char-Transformer). Headline additions beyond the sections below:
+char-Transformer), the supervised AV head by [`av_head.py`](../av_head.py), and
+the cross-corpus validation by [`etcbc_corpus.py`](../etcbc_corpus.py). Headline
+additions beyond the sections below:
 
 - **Subword ablation (vs. word2vec):** word2vec's morphology margin *degrades for
   rare forms* (+0.125 → +0.076) while FastText holds (+0.32 / +0.29). FastText
@@ -23,12 +25,24 @@ char-Transformer). Headline additions beyond the sections below:
 - **Representation bake-off (same/cross AUC, floor 1000):** word2vec 0.946,
   FastText 0.915, Delta 0.907, char-Transformer 0.845, byte-LM 0.762. Honest
   finding: subword's win is *intrinsic* (rare/OOV), not at the document level.
+- **Supervised AV head (SupCon MLP over FastText vectors, leave-one-author-out):**
+  best separation AUC 0.966 (floor 1000) — beats all unsupervised methods. Leakage
+  check: leaky head (trains on test author) hits 0.999, honest LOAO 0.966. Does
+  *not* beat word2vec on attribution top-1 (contrastive ≠ nearest-centroid).
 - **Bootstrap + multi-seed:** restricted all-words AUC 0.900 [0.830, 0.950];
   five-seed 0.886 ± 0.007. (Cluster bootstrap over authors; a duplicate-author
   pairing bug was fixed so the point estimate lies inside the CI.)
 - **Genre-matched test:** AUC 0.900 → 0.883 when cross-author pairs share genre →
   signal survives. **Neural LM quality:** byte-LM 0.861 bpb, char-Transformer
   0.823 bpb (≪ 8-bpb uniform baseline).
+- **Cross-corpus validation (independent ETCBC corpora, MIT):** SyrNT
+  (Greek-source, 27 books, 110k tok) + Peshitta (Hebrew-source, 65 books, 426k
+  tok), both plain Unicode Syriac, same tokenizer, NOT new authors. (a) Coverage:
+  SyrNT 100% type/token (1 OOV form); Peshitta 72.5% type / 95.4% token, 12,424
+  OOV all FastText-vectorized (word2vec 0%), 55% root-prefix NN. (b) Translationese:
+  scoring authors by cosine to SyrNT, Pseudo-Clementines rank #2 (0.773, 91st pct),
+  behind only the (translated) Pauline corpus; native poets Ephrem/Jacob/Narsai
+  last (negative). External corroboration of the translationese reading.
 - **Cohort note:** `paper_experiments.py` excludes the disputed ids and
   "Anonymous" from the cohorts, so it reports 20 authors (full) / 11 (restricted),
   vs. 22 / 13 in `stylometry.py`. Keep paper numbers internally consistent with

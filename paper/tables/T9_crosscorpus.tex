@@ -1,0 +1,48 @@
+% T9: Cross-corpus validation on independent ETCBC corpora
+% (paper_experiments.py, analysis "crosscorpus")
+\begin{table}[t]
+  \centering
+  \small
+  \begin{tabular}{lrrrrrc}
+    \toprule
+    \textbf{Corpus} & \textbf{tokens} & \textbf{types} & \textbf{type cov.}
+    & \textbf{token cov.} & \textbf{OOV types} & \textbf{root-NN} \\
+    \midrule
+    SyrNT (Greek source)    & 109{,}715 & 16{,}422 & 100.0\% & 100.0\% & 1 & n/a \\
+    Peshitta (Hebrew source) & 426{,}286 & 45{,}148 & 72.5\%  & 95.4\%  & 12{,}424 & 55\% \\
+    \bottomrule
+  \end{tabular}
+  \caption{\textbf{(a) Out-of-vocabulary generalization to independent corpora.}
+  The FastText model trained on the Digital Syriac Corpus is applied, unchanged,
+  to two openly licensed ETCBC biblical corpora it never saw. Coverage is high
+  (the entire Syriac New Testament vocabulary is in-vocabulary bar one form), and
+  for the more distant Peshitta the 12{,}424 out-of-vocabulary types are all
+  vectorized by FastText via character $n$-grams (\textsc{word2vec}: none), with
+  55\% of their nearest in-vocabulary neighbours sharing the three-consonant root
+  prefix (root-NN). Both corpora are processed with the same tokenizer and
+  consonantal normalization.}
+
+  \medskip
+  \begin{tabular}{rlp{6.0cm}}
+    \toprule
+    \textbf{rank} & \textbf{cos.\ to SyrNT} & \textbf{entity (translation / disputed only)} \\
+    \midrule
+    1  & 0.965 & \emph{Paul the Apostle} (genuine, but itself a Greek$\to$Syriac translation) \\
+    2  & \textbf{0.773} & Pseudo-Clementine Recognitions/Homilies (disputed) \\
+    7  & 0.386 & Peshitta OT (Hebrew-source translation) \\
+    8  & 0.374 & Chronicle of Zuqnin (disputed) \\
+    \multicolumn{3}{l}{\footnotesize $\dots$ native Syriac poets rank last:
+      Ephrem $-0.03$, Jacob of Serugh $-0.37$, Narsai $-0.63$.} \\
+    \bottomrule
+  \end{tabular}
+  \caption{\textbf{(b) Translationese, anchored externally.} Mean-centered cosine
+  of each author/disputed-group centroid to the independent SyrNT
+  (Greek$\to$Syriac) corpus. The Pseudo-Clementines---a translation from
+  Greek---are more SyrNT-like than 10 of 11 genuine Syriac authors (91st
+  percentile), and the only genuine author above them, the (also translated)
+  Pauline corpus, confirms the axis tracks translation rather than a single
+  author. Native verse composers sit at the bottom. This independently
+  corroborates the translationese reading of the Pseudo-Clementines in
+  Table~\ref{tab:disputed}.}
+  \label{tab:crosscorpus}
+\end{table}

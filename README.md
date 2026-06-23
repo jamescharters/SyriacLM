@@ -44,6 +44,7 @@ away diacritics (seyame, vowel points) so forms align by consonantal root.
 | [`authorship.py`](authorship.py) | **FastText vs Burrows's Delta**, **disputed-text attribution**, and a **genre control** within Ephrem. |
 | [`nn_baselines.py`](nn_baselines.py) | From-scratch **byte-LM** (LSTM) and **char-Transformer** causal language models (PyTorch) used as representation baselines. |
 | [`av_head.py`](av_head.py) | Small **supervised contrastive authorship-verification head** over the FastText vectors, evaluated leave-one-author-out (PyTorch, CPU). |
+| [`etcbc_corpus.py`](etcbc_corpus.py) | Loads two independent **ETCBC** corpora (Syriac NT, Peshitta OT) for cross-corpus OOV + translationese validation. |
 | [`paper_experiments.py`](paper_experiments.py) | Produces every paper table: subword ablation, OOV, hyperparameter sweep, bootstrap CIs, multi-seed variance, representation bake-off, genre-matched test, LM quality. |
 | [`paper/`](paper/) | The arXiv preprint: `main.tex` (XeLaTeX), `references.bib`, and `tables/`. |
 

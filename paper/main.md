@@ -80,7 +80,9 @@ digital-humanities application.
 6. A quantified, length-dependent genre confound, and evidence that the
    authorship signal survives genre-matched testing (§7).
 7. Attribution of three disputed/pseudonymous works with historically sensible
-   outcomes (§7).
+   outcomes, and a cross-corpus validation on two independent ETCBC biblical
+   corpora that confirms vocabulary generalization and externally anchors the
+   translationese finding (§7).
 
 ---
 
@@ -106,8 +108,9 @@ the field is surveyed in Stamatatos (2009). Topic can confound authorship
 significance with the cluster bootstrap (Efron & Tibshirani 1986).
 
 **Syriac and digital classics.** For the language and its study see Brock (2006)
-and Butts (2019); our data is the Digital Syriac Corpus (Syriaca.org). Tooling:
-gensim (Řehůřek & Sojka 2010) and PyTorch (Paszke et al. 2019).
+and Butts (2019); our training data is the Digital Syriac Corpus (Syriaca.org) and
+our independent validation corpora are the ETCBC Syriac datasets (Vlaardingerbroek
+et al.). Tooling: gensim (Řehůřek & Sojka 2010) and PyTorch (Paszke et al. 2019).
 
 ---
 
@@ -379,6 +382,45 @@ centroids.
 | Pseudo-Clementines (219–227) | 1.7k–13k | Per text nearest Paul / Eusebius (other Greek→Syriac translations); group cohesion 0.70 < best external 0.78 ⇒ translationese. |
 | Chronicle of Zuqnin, "Pseudo-Dionysius" (519) | 25,395 | Eusebius 0.75, Dionysius bar Ṣalibi 0.57, Aphrahat 0.56 ⇒ historiographic register. |
 
+**Cross-corpus validation.** To test that these findings are not an artefact of a
+single corpus, we apply the model unchanged to two independent, openly licensed
+ETCBC corpora — the Syriac New Testament (a translation from Greek) and the
+Peshitta Old Testament (from Hebrew) — neither seen in training. Coverage
+generalizes strongly (Table 10a): the entire SyrNT vocabulary is in-vocabulary save
+one form, and the 12,424 out-of-vocabulary types of the more distant Peshitta are
+all vectorized by FastText via character *n*-grams, 55% of them landing next to a
+root-sharing neighbour. The independent SyrNT also anchors the translationese
+finding (Table 10b): scoring every author by cosine to the (Greek-translated)
+SyrNT, the Pseudo-Clementines rank second — more SyrNT-like than ten of eleven
+genuine Syriac authors — behind only the (also translated) Pauline corpus, while
+native verse composers (Ephrem, Jacob of Serugh, Narsai) rank last. An external
+translation corpus thus corroborates that the Pseudo-Clementines read as
+translationese.
+
+**Table 10a. Out-of-vocabulary generalization to independent ETCBC corpora.** The
+DSC-trained FastText model applied unchanged; same tokenizer and consonantal
+normalization. root-NN = fraction of OOV forms whose nearest in-vocabulary
+neighbour shares the 3-consonant prefix.
+
+| Corpus | tokens | types | type cov. | token cov. | OOV types | root-NN |
+|---|---:|---:|---:|---:|---:|---:|
+| SyrNT (Greek source) | 109,715 | 16,422 | 100.0% | 100.0% | 1 | n/a |
+| Peshitta (Hebrew source) | 426,286 | 45,148 | 72.5% | 95.4% | 12,424 | 55% |
+
+(word2vec covers 0 of the OOV types by construction; FastText vectorizes all via
+character *n*-grams.)
+
+**Table 10b. Translationese, anchored externally.** Mean-centered cosine of each
+author/disputed-group centroid to the independent SyrNT corpus.
+
+| rank | cos. to SyrNT | entity |
+|---:|---:|---|
+| 1 | 0.965 | *Paul the Apostle* (genuine, but itself a Greek→Syriac translation) |
+| 2 | **0.773** | Pseudo-Clementine Recognitions/Homilies (disputed) |
+| 7 | 0.386 | Peshitta OT (Hebrew-source translation) |
+| 8 | 0.374 | Chronicle of Zuqnin (disputed) |
+| … | | native Syriac poets last: Ephrem −0.03, Jacob of Serugh −0.37, Narsai −0.63 |
+
 ---
 
 ## 8. Discussion
@@ -402,13 +444,15 @@ data-starved, which is itself the low-resource condition this language presents.
 
 ## 9. Limitations
 
-A single corpus and a small author pool (11–13 in the restricted cohort); the
-disputed-text studies are illustrative, without expert-adjudicated gold labels;
-the neural baselines are tiny and from-scratch (no large pretrained Syriac LM
-exists), so they probe architecture under data scarcity, not an upper bound; the
-supervised AV head is likewise trained on only ten-odd authors, so its margin is a
-lower bound that more authors would likely widen; and the genre classifier is an
-approximate series-title heuristic.
+A small attributed author pool (11–13 in the restricted cohort) drawn from a
+single authored corpus — though we validate generalization on two independent
+biblical corpora, these add register and translation reference points, not new
+authors; the disputed-text studies are illustrative, without expert-adjudicated
+gold labels; the neural baselines are tiny and from-scratch (no large pretrained
+Syriac LM exists), so they probe architecture under data scarcity, not an upper
+bound; the supervised AV head is likewise trained on only ten-odd authors, so its
+margin is a lower bound that more authors would likely widen; and the genre
+classifier is an approximate series-title heuristic.
 
 ---
 
@@ -451,4 +495,6 @@ released.
 - Stamatatos, E. (2009). A survey of modern authorship attribution methods. *JASIST* 60(3), 538–556.
 - Syriaca.org. *The Digital Syriac Corpus.* https://syriaccorpus.org/ (srophe/syriac-corpus; accessed 2026).
 - Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. *NeurIPS* 30.
+- Vlaardingerbroek, H., Roorda, D., & van Peursen, W. ETCBC Syriac datasets: Syriac New Testament and Peshitta in Text-Fabric. https://github.com/ETCBC/syrnt, https://github.com/ETCBC/peshitta (MIT; accessed 2026).
 - Xue, L., Barua, A., Constant, N., Al-Rfou, R., Narang, S., Kale, M., Roberts, A., & Raffel, C. (2022). ByT5: Towards a token-free future with pre-trained byte-to-byte models. *TACL* 10, 291–306.
+

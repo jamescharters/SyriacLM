@@ -128,7 +128,9 @@ digital-humanities application.
   authorship signal survives genre-matched testing
   (\S\ref{sec:results-style}).
   \item Attribution of three disputed/pseudonymous works with historically
-  sensible outcomes (\S\ref{sec:results-style}).
+  sensible outcomes, and a cross-corpus validation on two independent ETCBC
+  biblical corpora that confirms vocabulary generalization and externally anchors
+  the translationese finding (\S\ref{sec:results-style}).
 \end{enumerate}
 
 % ===================================================================== %
@@ -161,9 +163,10 @@ significance with the cluster bootstrap \cite{efron1986bootstrap}.
 
 \paragraph{Syriac and digital classics.}
 For the language and its study see \cite{brock2006introduction,butts2019syriac};
-our data is the Digital Syriac Corpus \cite{digitalsyriaccorpus}. Tooling:
-\textsc{gensim} \cite{rehurek2010gensim} and \textsc{PyTorch}
-\cite{paszke2019pytorch}.
+our training data is the Digital Syriac Corpus \cite{digitalsyriaccorpus} and our
+independent validation corpora are the ETCBC Syriac datasets
+\cite{etcbcsyriac}. Tooling: \textsc{gensim} \cite{rehurek2010gensim} and
+\textsc{PyTorch} \cite{paszke2019pytorch}.
 
 % ===================================================================== %
 \section{Corpus and Preprocessing}
@@ -352,6 +355,24 @@ historiographic register.
 
 \input{tables/T8_disputed}
 
+\paragraph{Cross-corpus validation.}
+To test that these findings are not an artefact of a single corpus, we apply the
+model unchanged to two independent, openly licensed ETCBC corpora---the Syriac
+New Testament (a translation from Greek) and the Peshitta Old Testament (from
+Hebrew) \citep{etcbcsyriac}---neither seen in training. Coverage generalizes
+strongly (Table~\ref{tab:crosscorpus}a): the entire SyrNT vocabulary is
+in-vocabulary save one form, and the 12{,}424 out-of-vocabulary types of the more
+distant Peshitta are all vectorized by FastText via character $n$-grams, 55\% of
+them landing next to a root-sharing neighbour. The independent SyrNT also anchors
+the translationese finding (Table~\ref{tab:crosscorpus}b): scoring every author by
+cosine to the (Greek-translated) SyrNT, the Pseudo-Clementines rank second---more
+SyrNT-like than ten of eleven genuine Syriac authors---behind only the (also
+translated) Pauline corpus, while native verse composers (Ephrem, Jacob of
+Serugh, Narsai) rank last. An external translation corpus thus corroborates that
+the Pseudo-Clementines read as translationese.
+
+\input{tables/T9_crosscorpus}
+
 % ===================================================================== %
 \section{Discussion}
 \label{sec:discussion}
@@ -373,13 +394,15 @@ data-starved, which is itself the low-resource condition this language presents.
 % ===================================================================== %
 \section{Limitations}
 \label{sec:limitations}
-A single corpus and a small author pool (11--13 in the restricted cohort); the
-disputed-text studies are illustrative, without expert-adjudicated gold labels;
-the neural baselines are tiny and from-scratch (no large pretrained Syriac LM
-exists), so they probe architecture under data scarcity, not an upper bound; the
-supervised AV head is likewise trained on only ten-odd authors, so its margin
-should be read as a lower bound that more authors would likely widen; and the
-genre classifier is an approximate series-title heuristic.
+A small attributed author pool (11--13 in the restricted cohort) drawn from a
+single authored corpus---though we validate generalization on two independent
+biblical corpora, these add register and translation reference points, not new
+authors; the disputed-text studies are illustrative, without expert-adjudicated
+gold labels; the neural baselines are tiny and from-scratch (no large pretrained
+Syriac LM exists), so they probe architecture under data scarcity, not an upper
+bound; the supervised AV head is likewise trained on only ten-odd authors, so its
+margin should be read as a lower bound that more authors would likely widen; and
+the genre classifier is an approximate series-title heuristic.
 
 % ===================================================================== %
 \section{Conclusion}

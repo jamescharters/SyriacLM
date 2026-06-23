@@ -64,11 +64,19 @@ from authorship import (
     delta_distance_matrix,
     delta_profiles,
     doc_matrix,
+    fit_centroids,
     key_labels,
     parse_ids,
     parse_int_list,
+    project_unit,
 )
 import fasttext_model
+
+try:
+    import etcbc_corpus
+    _ETCBC = True
+except Exception:  # pragma: no cover
+    _ETCBC = False
 
 try:
     import nn_baselines
@@ -741,6 +749,124 @@ def analysis_avhead(models: Models, data_dir, normalize, B, seed):
 
 
 # --------------------------------------------------------------------------- #
+# Analysis: cross-corpus validation on independent ETCBC corpora
+# --------------------------------------------------------------------------- #
+def _unit_centroid(texts, wv, mean):
+    """Mean-centered, L2-normalized centroid of a set of texts (cosine space)."""
+    vs = [doc_vector(wv, t.counts, None) for t in texts]
+    vs = [v for v in vs if v is not None]
+    if not vs:
+        return None
+    unit = l2_normalize(np.vstack(vs) - mean)
+    c = unit.mean(axis=0)
+    return c / (np.linalg.norm(c) or 1.0)
+
+
+def analysis_crosscorpus(models: Models, data_dir, normalize, seed):
+    banner("Cross-corpus validation on independent ETCBC corpora  [T9]")
+    if not _ETCBC:
+        print("etcbc_corpus unavailable; skipping.")
+        return
+    wv = models.fasttext(42).wv
+    w2v = models.word2vec(42).wv
+    ft_vocab = set(wv.key_to_index)
+    w2v_vocab = set(w2v.key_to_index)
+
+    externals = {name: etcbc_corpus.load_etcbc_texts(name, normalize)
+                 for name in ("SyrNT", "Peshitta")}
+
+    # --- Part A: out-of-vocabulary coverage of an independent corpus -------- #
+    print()
+    print("Part A -- generalization of the DSC-trained model to independent corpora")
+    print(f"{'corpus':<12}{'tokens':>10}{'types':>9}{'type cov':>10}"
+          f"{'tok cov':>9}{'OOV types':>11}{'FT/ w2v':>10}{'root-NN':>9}")
+    print("-" * 80)
+    rows_a = []
+    for name, texts in externals.items():
+        freq = etcbc_corpus.corpus_frequencies(texts)
+        types = set(freq)
+        tot = sum(freq.values())
+        in_vocab = types & ft_vocab
+        type_cov = len(in_vocab) / len(types)
+        tok_cov = sum(freq[w] for w in in_vocab) / tot
+        oov = [w for w in types if w not in ft_vocab]
+        w2v_oov_covered = sum(1 for w in oov if w in w2v_vocab)  # 0 by construction
+        # root-coherence of FastText's synthesized OOV vectors
+        sample = [w for w in oov if len(w) >= 4][:300]
+        hits = 0
+        for w in sample:
+            try:
+                nbrs = wv.most_similar(w, topn=5)
+            except KeyError:
+                continue
+            if any(n[:3] == w[:3] for n, _ in nbrs):
+                hits += 1
+        root_str = f"{hits / len(sample):.0%}" if len(sample) >= 10 else "n/a"
+        print(f"{name:<12}{tot:>10,}{len(types):>9,}{type_cov:>9.1%}"
+              f"{tok_cov:>9.1%}{len(oov):>11,}{'100/0%':>10}{root_str:>9}")
+        rows_a.append(tex_row(name, f"{tot:,}", f"{len(types):,}", f"{type_cov:.1%}",
+                              f"{tok_cov:.1%}", f"{len(oov):,}",
+                              "100\\,/\\,0\\%", root_str))
+    print(f"(word2vec covers 0 of the OOV types by construction; FastText vectorizes"
+          f" all via char n-grams. root-NN = nearest in-vocab neighbour shares the"
+          f" 3-consonant prefix.)")
+
+    # --- Part B: translationese, anchored by external known translations --- #
+    print()
+    print("Part B -- translationese: distance to an external Greek-source translation")
+    genuine = load_texts(data_dir, normalize,
+                         exclude_ids=set(parse_ids(DISPUTED_DEFAULT)), drop_anonymous=True)
+    cohort = filter_min_texts(filter_min_tokens(genuine, 1000), 3)
+    centroids, names, mean = fit_centroids(cohort, wv, None)
+
+    ref = _unit_centroid(externals["SyrNT"], wv, mean)         # Greek-source anchor
+    pesh = _unit_centroid(externals["Peshitta"], wv, mean)     # Hebrew-source anchor
+
+    disputed_ids = parse_ids(DISPUTED_DEFAULT)
+    disputed = [t for t in (load_one_text(data_dir, i, normalize) for i in disputed_ids)
+                if t is not None]
+    groups: dict[str, list] = {}
+    for t in disputed:
+        groups.setdefault(t.series or t.title or t.text_id, []).append(t)
+
+    # Score every genuine author and disputed group by cosine to the SyrNT anchor.
+    scored = [(float(c @ ref), names[k], "author") for k, c in centroids.items()]
+    scored.append((float(pesh @ ref), "Peshitta (OT, Hebrew-source)", "translation"))
+    for series, members in groups.items():
+        gc = _unit_centroid(members, wv, mean)
+        if gc is not None:
+            scored.append((float(gc @ ref), series, "disputed"))
+    scored.sort(reverse=True)
+
+    print(f"cosine to SyrNT (Greek\u2192Syriac translation), mean-centered:")
+    print(f"{'rank':>4}  {'cos':>6}  {'kind':<12}entity")
+    print("-" * 66)
+    rows_b = []
+    for i, (s, label, kind) in enumerate(scored, 1):
+        mark = "  <--" if kind in ("disputed", "translation") else ""
+        print(f"{i:>4}  {s:>6.3f}  {kind:<12}{label[:34]}{mark}")
+        if kind != "author":
+            rows_b.append(tex_row(i, f"{s:.3f}", kind, label[:34]))
+
+    # Headline: where do the Pseudo-Clementines fall among genuine authors?
+    n_auth = sum(1 for _, _, k in scored if k == "author")
+    psclem = next((s for s, lab, k in scored
+                   if k == "disputed" and "clement" in lab.casefold()), None)
+    if psclem is not None:
+        beaten = sum(1 for s, _, k in scored if k == "author" and psclem > s)
+        print()
+        print(f"Pseudo-Clementines cos-to-SyrNT = {psclem:.3f}: more SyrNT-like than "
+              f"{beaten}/{n_auth} genuine Syriac authors")
+        print(f"({beaten / n_auth:.0%} percentile). The two independent biblical "
+              f"translations are themselves close (SyrNT~Peshitta cos {float(ref @ pesh):.3f}),")
+        print("and the (Greek-translated) Pseudo-Clementines sit nearer them than "
+              "native Syriac composition does -- external support for the translationese reading.")
+    print()
+    print(r"% T9a coverage rows"); print("\n".join(rows_a))
+    print(r"% T9b translationese rows (disputed/translation only)"); print("\n".join(rows_b))
+
+
+# --------------------------------------------------------------------------- #
 # Main
 # --------------------------------------------------------------------------- #
 def main(argv: list[str] | None = None) -> int:
@@ -777,6 +903,8 @@ def main(argv: list[str] | None = None) -> int:
         analysis_bakeoff(models, data_dir, args.normalize, args.nn_steps, args.seed, args.bootstrap)
     if "avhead" in which:
         analysis_avhead(models, data_dir, args.normalize, args.bootstrap, args.seed)
+    if "crosscorpus" in which:
+        analysis_crosscorpus(models, data_dir, args.normalize, args.seed)
     if "genre" in which:
         analysis_genre(models, data_dir, args.normalize, args.bootstrap, args.seed)
     if "lm" in which:

@@ -133,6 +133,21 @@ def iter_words(body: ET.Element):
                 yield token
 
 
+def iter_words_text(text: str):
+    """Tokenize a plain Unicode-Syriac string with the same rules as iter_words.
+
+    Used for corpora distributed as plain ``.txt`` (e.g. the ETCBC datasets)
+    rather than TEI. Latin digits, verse numbers and references are ignored
+    because only runs containing a Syriac letter are yielded.
+    """
+    if not text:
+        return
+    text = text.translate(_INVISIBLE)
+    for token in WORD_RE.findall(text):
+        if LETTER_RE.search(token):
+            yield token
+
+
 def strip_marks(token: str) -> str:
     return "".join(
         ch for ch in unicodedata.normalize("NFD", token) if not unicodedata.combining(ch)
