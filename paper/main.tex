@@ -70,7 +70,9 @@ common component is essential (it lifts \auc{} from $0.73$ to $0.89$), compare
 against Burrows's Delta and against from-scratch byte- and character-level neural
 language models, quantify a length-dependent genre confound and show the signal
 survives genre-matched testing ($0.900\to0.883$), and apply the pipeline to three
-disputed or pseudonymous works with historically sensible results. Notably, the
+disputed or pseudonymous works with historically sensible results. A small
+supervised verification head trained on the embeddings and evaluated
+leave-one-author-out gives the best separation (\auc{} $0.97$). Notably, the
 subword advantage is largest \emph{intrinsically}---on rare and out-of-vocabulary
 forms---while at the document level a plain \textsc{word2vec} is competitive.
 Code, seeds, and trained models are released.
@@ -112,8 +114,9 @@ digital-humanities application.
   (\S\ref{sec:results-model}).
   \item A representation bake-off on identical data and evaluation---char
   $n$-gram \textsc{FastText} vs.\ \textsc{word2vec} vs.\ Burrows's Delta vs.\ a
-  from-scratch byte-level recurrent LM vs.\ a tiny character Transformer
-  (\S\ref{sec:results-style}).
+  from-scratch byte-level recurrent LM vs.\ a tiny character Transformer vs.\ a
+  small supervised authorship-verification head, the last evaluated
+  leave-one-author-out (\S\ref{sec:results-style}).
   \item An embedding-geometry finding: averaged document vectors are strongly
   anisotropic, and label-free common-component removal is necessary for the
   authorship signal to emerge---it lifts \auc{} from $0.73$ to $0.89$
@@ -240,7 +243,12 @@ $z$-difference (Manhattan distance) as the Delta distance.
 We attribute a text to the nearest author \emph{centroid}---cosine for the
 embeddings, mean Delta for Delta---under strict leave-one-out: the held-out text
 is removed from its own author's centroid before scoring. We report top-1 and
-top-3 accuracy.
+top-3 accuracy. As a learned alternative we also train a small
+supervised-contrastive projection \citep{khosla2020supcon} (a one-hidden-layer
+MLP) on the document vectors so that same-author texts are pulled together; it is
+evaluated \emph{leave-one-author-out} (the head is trained only on other
+authors), so its embeddings are out-of-sample and comparable to the unsupervised
+methods.
 
 \paragraph{Uncertainty.}
 Because text pairs are dependent, we bootstrap over \emph{authors} (clusters):
@@ -308,13 +316,20 @@ yields mean \auc{} $\approx 0.51$: the pipeline finds no boundary where there is
 none, so the cross-author signal is genuine.
 
 \paragraph{Representation bake-off.}
-Table~\ref{tab:bakeoff} compares all five representations on \auc{} and
-attribution. The count-based methods are strongest and statistically
-comparable---\textsc{word2vec} ($0.946$), FastText ($0.915$), and Delta
-($0.907$) at the 1000-token floor---with overlapping CIs; document-level mean
-pooling washes out FastText's subword advantage, which is intrinsic rather than
-downstream. The tiny from-scratch neural LMs are data-limited, the
-char-Transformer ($0.845$) ahead of the byte-LM ($0.762$).
+Table~\ref{tab:bakeoff} compares all representations on \auc{} and attribution.
+Among \emph{unsupervised} methods the count-based ones are strongest and
+statistically comparable---\textsc{word2vec} ($0.946$), FastText ($0.915$), and
+Delta ($0.907$) at the 1000-token floor---with overlapping CIs; document-level
+mean pooling washes out FastText's subword advantage, which is intrinsic rather
+than downstream. The tiny from-scratch neural LMs are data-limited, the
+char-Transformer ($0.845$) ahead of the byte-LM ($0.762$). A small
+\emph{supervised} contrastive AV head trained on the FastText vectors and
+evaluated leave-one-author-out gives the best separation \auc{} ($0.966$),
+confirming that a learned metric on top of the embeddings helps; a deliberately
+leaky variant that trains on the test author reaches $0.999$, so the LOAO number
+is a genuine out-of-sample gain. The head does not improve closed-set
+attribution (top-1 $0.922$), as its objective targets pairwise verification, not
+nearest-centroid classification.
 
 \input{tables/T6_bakeoff}
 
@@ -361,8 +376,10 @@ data-starved, which is itself the low-resource condition this language presents.
 A single corpus and a small author pool (11--13 in the restricted cohort); the
 disputed-text studies are illustrative, without expert-adjudicated gold labels;
 the neural baselines are tiny and from-scratch (no large pretrained Syriac LM
-exists), so they probe architecture under data scarcity, not an upper bound; and
-the genre classifier is an approximate series-title heuristic.
+exists), so they probe architecture under data scarcity, not an upper bound; the
+supervised AV head is likewise trained on only ten-odd authors, so its margin
+should be read as a lower bound that more authors would likely widen; and the
+genre classifier is an approximate series-title heuristic.
 
 % ===================================================================== %
 \section{Conclusion}

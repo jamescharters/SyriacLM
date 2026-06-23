@@ -31,10 +31,12 @@ component is essential (it lifts AUC from 0.73 to 0.89), compare against Burrows
 Delta and against from-scratch byte- and character-level neural language models,
 quantify a length-dependent genre confound and show the signal survives
 genre-matched testing (0.900 → 0.883), and apply the pipeline to three disputed or
-pseudonymous works with historically sensible results. Notably, the subword
-advantage is largest *intrinsically* — on rare and out-of-vocabulary forms — while
-at the document level a plain **word2vec** is competitive. Code, seeds, and
-trained models are released.
+pseudonymous works with historically sensible results. A small supervised
+verification head trained on the embeddings and evaluated leave-one-author-out
+gives the best separation (AUC 0.97). Notably, the subword advantage is largest
+*intrinsically* — on rare and out-of-vocabulary forms — while at the document
+level a plain **word2vec** is competitive. Code, seeds, and trained models are
+released.
 
 ---
 
@@ -68,7 +70,8 @@ digital-humanities application.
    an out-of-vocabulary generalization test (§6).
 3. A representation bake-off on identical data and evaluation — char *n*-gram
    **FastText** vs. **word2vec** vs. Burrows's Delta vs. a from-scratch
-   byte-level recurrent LM vs. a tiny character Transformer (§7).
+   byte-level recurrent LM vs. a tiny character Transformer vs. a small
+   supervised authorship-verification head (evaluated leave-one-author-out) (§7).
 4. An embedding-geometry finding: averaged document vectors are strongly
    anisotropic, and label-free common-component removal is necessary for the
    authorship signal to emerge — it lifts AUC from 0.73 to 0.89 (§4, §7).
@@ -191,7 +194,11 @@ mean absolute *z*-difference (Manhattan distance) as the Delta distance.
 **Attribution.** We attribute a text to the nearest author *centroid* — cosine
 for the embeddings, mean Delta for Delta — under strict leave-one-out: the
 held-out text is removed from its own author's centroid before scoring. We report
-top-1 and top-3 accuracy.
+top-1 and top-3 accuracy. As a learned alternative we also train a small
+supervised-contrastive projection (Khosla et al. 2020) (a one-hidden-layer MLP)
+on the document vectors so that same-author texts are pulled together; it is
+evaluated *leave-one-author-out* (the head is trained only on other authors), so
+its embeddings are out-of-sample and comparable to the unsupervised methods.
 
 **Uncertainty.** Because text pairs are dependent, we bootstrap over *authors*
 (clusters): resampling author groups with replacement ($B=1000$) and recomputing
@@ -305,31 +312,41 @@ component.
 over 20 random halves yields mean AUC ≈ 0.51: the pipeline finds no boundary where
 there is none, so the cross-author signal is genuine.
 
-**Representation bake-off.** Table 7 compares all five representations on AUC and
-attribution. The count-based methods are strongest and statistically comparable —
-word2vec (0.946), FastText (0.915), and Delta (0.907) at the 1000-token floor —
-with overlapping CIs; document-level mean pooling washes out FastText's subword
-advantage, which is intrinsic rather than downstream. The tiny from-scratch
-neural LMs are data-limited, the char-Transformer (0.845) ahead of the byte-LM
-(0.762).
+**Representation bake-off.** Table 7 compares all representations on AUC and
+attribution. Among *unsupervised* methods the count-based ones are strongest and
+statistically comparable — word2vec (0.946), FastText (0.915), and Delta (0.907)
+at the 1000-token floor — with overlapping CIs; document-level mean pooling washes
+out FastText's subword advantage, which is intrinsic rather than downstream. The
+tiny from-scratch neural LMs are data-limited, the char-Transformer (0.845) ahead
+of the byte-LM (0.762). A small *supervised* contrastive AV head trained on the
+FastText vectors and evaluated leave-one-author-out gives the best separation AUC
+(0.966); a deliberately leaky variant that trains on the test author reaches
+0.999, so the LOAO number is a genuine out-of-sample gain. The head does not
+improve closed-set attribution (top-1 0.922), as its objective targets pairwise
+verification, not nearest-centroid classification.
 
 **Table 7. Representation bake-off.** Centered cosine AUC (author-cluster
 bootstrap 95% CI) and leave-one-out nearest-centroid attribution (11 authors).
+All rows are unsupervised except the AV head, which is trained leave-one-author-out
+(no test author seen in training) on the FastText vectors; **bold** marks the best
+AUC per token floor.
 
 | Floor | Representation | AUC | 95% CI | top-1 | top-3 |
 |---|---|---:|---|---:|---:|
 | ≥ 1000 tok | FastText (char *n*-gram) | 0.915 | [0.866, 0.956] | 0.930 | 0.973 |
-| ≥ 1000 tok | word2vec | **0.946** | [0.873, 0.977] | 0.965 | 0.988 |
+| ≥ 1000 tok | word2vec | 0.946 | [0.873, 0.977] | 0.965 | 0.988 |
 | ≥ 1000 tok | byte-LM | 0.762 | [0.695, 0.853] | 0.680 | 0.855 |
 | ≥ 1000 tok | char-Transformer | 0.845 | [0.791, 0.925] | 0.812 | 0.961 |
 | ≥ 1000 tok | Burrows's Delta (MFW 100) | 0.907 | — | 0.957 | 0.992 |
 | ≥ 1000 tok | Burrows's Delta (MFW 200) | 0.898 | — | 0.969 | 0.988 |
+| ≥ 1000 tok | *AV head (LOAO, supervised)* | **0.966** | [0.877, 0.991] | 0.922 | 0.980 |
 | ≥ 2000 tok | FastText (char *n*-gram) | 0.900 | [0.830, 0.950] | 0.930 | 0.965 |
-| ≥ 2000 tok | word2vec | **0.938** | [0.842, 0.976] | 0.975 | 0.990 |
+| ≥ 2000 tok | word2vec | 0.938 | [0.842, 0.976] | 0.975 | 0.990 |
 | ≥ 2000 tok | byte-LM | 0.763 | [0.696, 0.866] | 0.721 | 0.871 |
 | ≥ 2000 tok | char-Transformer | 0.819 | [0.789, 0.900] | 0.836 | 0.960 |
 | ≥ 2000 tok | Burrows's Delta (MFW 100) | 0.940 | — | 0.970 | 0.985 |
 | ≥ 2000 tok | Burrows's Delta (MFW 200) | 0.924 | — | 0.975 | 0.985 |
+| ≥ 2000 tok | *AV head (LOAO, supervised)* | **0.954** | [0.779, 0.987] | 0.905 | 0.960 |
 
 **Genre confound.** Within Ephrem, hymns vs. prose separate weakly when short
 hymns dominate but strongly at matched length (AUC 0.59 → 0.86); genre/register is
@@ -388,8 +405,10 @@ data-starved, which is itself the low-resource condition this language presents.
 A single corpus and a small author pool (11–13 in the restricted cohort); the
 disputed-text studies are illustrative, without expert-adjudicated gold labels;
 the neural baselines are tiny and from-scratch (no large pretrained Syriac LM
-exists), so they probe architecture under data scarcity, not an upper bound; and
-the genre classifier is an approximate series-title heuristic.
+exists), so they probe architecture under data scarcity, not an upper bound; the
+supervised AV head is likewise trained on only ten-odd authors, so its margin is a
+lower bound that more authors would likely widen; and the genre classifier is an
+approximate series-title heuristic.
 
 ---
 
@@ -422,6 +441,7 @@ released.
 - Ethayarajh, K. (2019). How contextual are contextualized word representations? *EMNLP-IJCNLP*, 55–65.
 - Evert, S., Proisl, T., Jannidis, F., Reger, I., Pielström, S., Schöch, C., & Vitt, T. (2017). Understanding and explaining Delta measures for authorship attribution. *Digital Scholarship in the Humanities* 32(suppl. 2), ii4–ii16.
 - Kestemont, M. (2014). Function words in authorship attribution: From black magic to theory? *CLfL*, 59–66.
+- Khosla, P., Teterwak, P., Wang, C., Sarna, A., Tian, Y., Isola, P., Maschinot, A., Liu, C., & Krishnan, D. (2020). Supervised contrastive learning. *NeurIPS* 33, 18661–18673.
 - Kim, Y., Jernite, Y., Sontag, D., & Rush, A. M. (2016). Character-aware neural language models. *AAAI*.
 - Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. *NeurIPS* 26.
 - Mu, J., & Viswanath, P. (2018). All-but-the-top: Simple and effective postprocessing for word representations. *ICLR*.

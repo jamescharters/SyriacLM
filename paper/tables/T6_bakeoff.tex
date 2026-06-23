@@ -7,30 +7,37 @@
     \textbf{Floor} & \textbf{Representation} & \textbf{\auc{}} & \textbf{95\% CI}
     & \textbf{top-1} & \textbf{top-3} \\
     \midrule
-    \multirow{6}{*}{$\geq 1000$ tok}
+    \multirow{7}{*}{$\geq 1000$ tok}
       & FastText (char $n$-gram) & 0.915 & [0.866, 0.956] & 0.930 & 0.973 \\
       & word2vec                 & 0.946 & [0.873, 0.977] & 0.965 & 0.988 \\
       & byte-LM                  & 0.762 & [0.695, 0.853] & 0.680 & 0.855 \\
       & char-Transformer         & 0.845 & [0.791, 0.925] & 0.812 & 0.961 \\
       & Burrows's Delta (MFW 100) & 0.907 & ---           & 0.957 & 0.992 \\
       & Burrows's Delta (MFW 200) & 0.898 & ---           & 0.969 & 0.988 \\
+      & \textit{AV head (LOAO, supervised)} & \textbf{0.966} & [0.877, 0.991] & 0.922 & 0.980 \\
     \midrule
-    \multirow{6}{*}{$\geq 2000$ tok}
+    \multirow{7}{*}{$\geq 2000$ tok}
       & FastText (char $n$-gram) & 0.900 & [0.830, 0.950] & 0.930 & 0.965 \\
       & word2vec                 & 0.938 & [0.842, 0.976] & 0.975 & 0.990 \\
       & byte-LM                  & 0.763 & [0.696, 0.866] & 0.721 & 0.871 \\
       & char-Transformer         & 0.819 & [0.789, 0.900] & 0.836 & 0.960 \\
       & Burrows's Delta (MFW 100) & 0.940 & ---           & 0.970 & 0.985 \\
       & Burrows's Delta (MFW 200) & 0.924 & ---           & 0.975 & 0.985 \\
+      & \textit{AV head (LOAO, supervised)} & \textbf{0.954} & [0.779, 0.987] & 0.905 & 0.960 \\
     \bottomrule
   \end{tabular}
   \caption{Representation bake-off on the same cohorts (11 authors): same/cross
   separation \auc{} (mean-centered cosine, author-cluster bootstrap 95\% CI) and
   leave-one-out nearest-centroid attribution. The count-based representations
-  (word2vec, FastText, Delta) are the strongest and statistically comparable;
-  the document-level mean pooling washes out FastText's subword advantage, which
-  is instead intrinsic (Tables~\ref{tab:morph},~\ref{tab:oov}). The tiny
-  from-scratch neural LMs are data-limited on 2.18M tokens, with the
-  char-Transformer ahead of the byte-LM.}
+  (word2vec, FastText, Delta) are the strongest \emph{unsupervised} methods and
+  statistically comparable; the document-level mean pooling washes out FastText's
+  subword advantage, which is instead intrinsic
+  (Tables~\ref{tab:morph},~\ref{tab:oov}). The tiny from-scratch neural LMs are
+  data-limited on 2.18M tokens, with the char-Transformer ahead of the byte-LM.
+  The only \emph{supervised} row, a small contrastive AV head trained on the
+  FastText vectors and evaluated leave-one-author-out (so no test author is seen
+  in training), gives the best separation \auc{}; it does not improve closed-set
+  attribution, as its objective targets pairwise verification rather than
+  nearest-centroid classification.}
   \label{tab:bakeoff}
 \end{table}

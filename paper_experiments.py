@@ -76,6 +76,12 @@ try:
 except Exception:  # pragma: no cover
     _TORCH = False
 
+try:
+    import av_head
+    _AVHEAD = av_head._TORCH
+except Exception:  # pragma: no cover
+    _AVHEAD = False
+
 SEEDS = [42, 7, 13, 101, 2024]
 DISPUTED_DEFAULT = "690,219-227,519"
 
@@ -610,6 +616,10 @@ def analysis_bakeoff(models: Models, data_dir, normalize, max_steps, seed, B):
         Mw2, kept2 = doc_matrix(cohort, models.word2vec(42).wv, None)
         report("word2vec (all)", Mw2, kept2)
 
+        if _AVHEAD:
+            M_av = av_head.leave_author_out_projection(Mft, key_labels(kept), seed=seed)
+            report("AV head (LOAO)", M_av, kept)
+
         if _TORCH:
             for which in ("byte-LM", "char-Transformer"):
                 enc = nn_baselines.NeuralEncoder(models.neural(which, max_steps, seed))
@@ -696,6 +706,41 @@ def analysis_lm(models: Models, max_steps, seed):
 
 
 # --------------------------------------------------------------------------- #
+# Analysis: supervised AV head (standalone / fast)
+# --------------------------------------------------------------------------- #
+def analysis_avhead(models: Models, data_dir, normalize, B, seed):
+    banner("Supervised AV head (leave-one-author-out)  [T6 row]")
+    if not _AVHEAD:
+        print("PyTorch not available; skipping AV head.")
+        return
+    genuine, _, _ = _cohorts(data_dir, normalize)
+    wv = models.fasttext(42).wv
+
+    print("A tiny supervised-contrastive projection over the FastText document")
+    print("vectors, embedded leave-one-author-out so no test author is seen in")
+    print("training. Comparable to the unsupervised rows; uses the same scoring.")
+    print()
+    print(f"{'cohort':<26}{'AUC':>7}{'95% CI':>16}{'top-1':>8}{'top-3':>8}")
+    print("-" * 65)
+    rows = []
+    for floor in (1000, 2000):
+        cohort = filter_min_texts(filter_min_tokens(genuine, floor), 3)
+        Mft, kept = doc_matrix(cohort, wv, None)
+        klab = key_labels(kept)
+        M_av = av_head.leave_author_out_projection(Mft, klab, seed=seed)
+        auc = separation(remove_common_component(M_av), klab)["auc"]
+        _, lo, hi = bootstrap_auc_ci(M_av, klab, B=B, seed=seed)
+        loo = centroid_loo(M_av, klab, metric="cosine")
+        n_auth = len(set(klab.tolist()))
+        print(f"{'>=3 texts, >=' + str(floor):<26}{auc:>7.3f}  [{lo:.3f}, {hi:.3f}]"
+              f"{loo['top1']:>8.3f}{loo['top3']:>8.3f}")
+        rows.append(tex_row(f"{floor}", "AV head (LOAO)", f"{auc:.3f}",
+                            f"[{lo:.3f}, {hi:.3f}]", f"{loo['top1']:.3f}", f"{loo['top3']:.3f}"))
+    print()
+    print(r"% T6 AV-head rows"); print("\n".join(rows))
+
+
+# --------------------------------------------------------------------------- #
 # Main
 # --------------------------------------------------------------------------- #
 def main(argv: list[str] | None = None) -> int:
@@ -730,6 +775,8 @@ def main(argv: list[str] | None = None) -> int:
         analysis_sep(models, data_dir, args.normalize, args.bootstrap, args.seed)
     if "bakeoff" in which:
         analysis_bakeoff(models, data_dir, args.normalize, args.nn_steps, args.seed, args.bootstrap)
+    if "avhead" in which:
+        analysis_avhead(models, data_dir, args.normalize, args.bootstrap, args.seed)
     if "genre" in which:
         analysis_genre(models, data_dir, args.normalize, args.bootstrap, args.seed)
     if "lm" in which:
