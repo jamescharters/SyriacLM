@@ -2,26 +2,26 @@
 % (paper_experiments.py, analysis "morph"; related vs frequency-matched control)
 \begin{table}[t]
   \centering
-  \begin{tabular}{llrrrr}
+  \begin{tabular}{llrrrrr}
     \toprule
     \textbf{Representation} & \textbf{Band} & \textbf{$n$} &
-    \textbf{related} & \textbf{control} & \textbf{margin} \\
+    \textbf{related} & \textbf{control} & \textbf{margin} & \textbf{acc} \\
     \midrule
     \multirow{2}{*}{FastText (char $n$-gram)}
-      & freq $\geq 100$ & 27 & 0.601 & 0.284 & $+0.317$ \\
-      & rare $< 100$    & 22 & 0.640 & 0.353 & $+0.287$ \\
+      & freq $\geq 100$ & 27 & 0.601 & 0.284 & $+0.317$ & 0.96 \\
+      & rare $< 100$    & 22 & 0.640 & 0.353 & $+0.287$ & 0.95 \\
     \addlinespace
     \multirow{2}{*}{word2vec (no subword)}
-      & freq $\geq 100$ & 27 & 0.490 & 0.365 & $+0.125$ \\
-      & rare $< 100$    & 22 & 0.498 & 0.422 & $+0.076$ \\
+      & freq $\geq 100$ & 27 & 0.490 & 0.365 & $+0.125$ & 0.85 \\
+      & rare $< 100$    & 22 & 0.498 & 0.422 & $+0.076$ & 0.77 \\
     \addlinespace
     \multirow{2}{*}{byte-LM}
-      & freq $\geq 100$ & 27 & 0.988 & 0.967 & $+0.021$ \\
-      & rare $< 100$    & 22 & 0.992 & 0.968 & $+0.025$ \\
+      & freq $\geq 100$ & 27 & 0.988 & 0.967 & $+0.021$ & 0.93 \\
+      & rare $< 100$    & 22 & 0.992 & 0.968 & $+0.025$ & 1.00 \\
     \addlinespace
     \multirow{2}{*}{char-Transformer}
-      & freq $\geq 100$ & 27 & 0.916 & 0.790 & $+0.126$ \\
-      & rare $< 100$    & 22 & 0.936 & 0.774 & $+0.162$ \\
+      & freq $\geq 100$ & 27 & 0.916 & 0.790 & $+0.126$ & 0.96 \\
+      & rare $< 100$    & 22 & 0.936 & 0.774 & $+0.162$ & 1.00 \\
     \bottomrule
   \end{tabular}
   \caption{Morphological coherence by frequency band: mean cosine between

@@ -31,9 +31,9 @@ document vectors separate same- from cross-author text pairs with AUC up to
 yields chance AUC (≈ 0.51); mean-centering to remove a dominant anisotropic
 component is essential (AUC 0.73 → 0.89). We compare against Burrows's Delta,
 byte- and character-level neural language models, and a supervised verification
-head, quantify a length-dependent genre confound (the signal survives
-genre-matched testing, 0.900 → 0.883), and read three disputed or pseudonymous
-works with historically sensible results. The honest picture: the subword
+head (best separation, AUC 0.966), quantify a length-dependent genre confound (the
+signal survives genre-matched testing, 0.900 → 0.883), and read three disputed or
+pseudonymous works with historically sensible results. The honest picture: the subword
 advantage is intrinsic — on the long tail — while at the document level a plain
 **word2vec** is competitive with FastText and Delta, so we present authorship as
 an application of the representation rather than a claim that subword embeddings
@@ -322,11 +322,6 @@ author-cluster bootstrap 95% CI, *B* = 1000). AUC = 0.5 is chance.
 | Full | 0.874 ± 0.006 | 0.870 | 0.885 |
 | Restricted | 0.886 ± 0.007 | 0.880 | 0.900 |
 
-A negative control that splits one author into two pseudo-authors gives mean AUC
-≈ 0.51 (chance). Raw (uncentered) cosines yield far lower AUC (e.g. 0.73 vs. 0.83
-full, all words), demonstrating the necessity of removing the anisotropic common
-component.
-
 **Negative control.** Splitting a single author (Ephrem) into two pseudo-authors
 over 20 random halves yields mean AUC ≈ 0.51: the pipeline finds no boundary where
 there is none, so the cross-author signal is genuine.
@@ -443,50 +438,86 @@ author/disputed-group centroid to the independent SyrNT corpus.
 
 The results separate two questions that are often conflated. *Where does the
 subword inductive bias help?* Intrinsically and on the long tail: FastText's
-morphological margin is largest for rare forms, and it alone assigns coherent
-vectors to the 23% of held-out forms that are out-of-vocabulary. *What wins the
-document-level stylometry task?* Here a plain word2vec is competitive with, even
-slightly ahead of, FastText: averaging hundreds of word vectors per document
-washes out the subword detail, and frequency-profile methods (Delta) remain
-strong. We report this honestly rather than overclaiming for subword embeddings.
+morphological margin is largest for rare forms, and it alone assigns a vector to
+every one of the 23% of held-out forms that are out-of-vocabulary — vectors that
+are root-consistent for a majority of cases (a 56% nearest-neighbour root match)
+and that carry over to two unseen biblical corpora, including the more distant
+Peshitta whose 12,424 out-of-vocabulary types are all synthesized from character
+*n*-grams. *What wins the document-level stylometry task?* Here a plain word2vec
+is competitive with, even slightly ahead of, FastText: averaging hundreds of word
+vectors per document washes out the subword detail, and frequency-profile methods
+(Delta) remain strong — so the subword advantage is intrinsic, not a
+document-level stylometry win.
+
+Two methodological findings generalize beyond Syriac. First, averaged document
+vectors are strongly anisotropic, and the authorship signal emerges only after
+label-free common-component removal (AUC 0.73→0.89) — an inexpensive, transferable
+preprocessing step for embedding-based stylometry. Second, where labels exist, a
+small supervised-contrastive verification head over the same vectors, evaluated
+leave-one-author-out, gives the strongest separation (AUC 0.966), showing that the
+embeddings carry authorial signal a learned metric can sharpen.
+
 The authorship signal itself is genuine — it passes a negative control and
 survives genre matching — and reflects style rather than topic alone. The
 Pseudo-Clementine result is a reminder that translated texts carry the
-translator's, not the named author's, fingerprint. Finally, the tiny
-from-scratch neural LMs trail the count-based methods: on 2.18M tokens they are
-data-starved, which is itself the low-resource condition this language presents.
+translator's, not the named author's, fingerprint, a reading independently
+corroborated by the external SyrNT corpus. Finally, the tiny from-scratch neural
+LMs trail the count-based methods: on 2.18M tokens they are data-starved, which is
+itself the low-resource condition this language presents. We expect the broader
+recipe — a `min_count`=1 character *n*-gram model with mean-centered document
+vectors — to transfer to other templatic, low-resource languages such as Classical
+Arabic, Hebrew, Ge'ez, and other Aramaic dialects, where the same hapax-heavy,
+root-and-pattern morphology obtains.
 
 ---
 
 ## 9. Limitations
 
 The most important limitation is scale: the attributed author pool is small
-(11–13 in the restricted cohort) and drawn from a *single* authored corpus.
+(11 in the restricted cohort, 20 in the full) and drawn from a *single* authored
+corpus.
 Although we validate that the representation generalizes to two independent
 biblical corpora, those are translations that add register and reference points,
 *not* new authors, so they do not enlarge the pool. The absolute AUC values
 should therefore be read as cohort-specific and as supporting *relative*
 comparisons between representations rather than as population estimates of
-attributability for Syriac at large. Further, the disputed-text studies are
-illustrative, without expert-adjudicated gold labels; the neural baselines are
-tiny and from-scratch (no large pretrained Syriac LM exists), so they probe
-architecture under data scarcity, not an upper bound; the supervised AV head is
-likewise trained on only ten-odd authors, so its margin is a lower bound that more
-authors would likely widen; and the genre classifier is an approximate
-series-title heuristic.
+attributability for Syriac at large. The few author clusters also limit the
+author-level bootstrap itself: with so few groups the resampled confidence
+intervals are necessarily coarse and likely optimistic, so we read them as
+indicative rather than exact.
+
+Several further caveats apply. We normalize by stripping combining diacritics
+(Section 3), which aligns inflected forms by their consonantal skeleton but
+discards seyame and vocalic information that can distinguish otherwise identical
+skeletons; we do not test robustness to retaining diacritics. Author identity is
+taken from corpus metadata, and our merging of name-only authors into their
+URI-identified counterparts (Section 3) can introduce label noise. Composition
+date is uncontrolled, so part of the cross-author signal may track diachronic
+change rather than individual style — an analogue of the genre confound we do
+test. Finally, the disputed-text studies are illustrative, without
+expert-adjudicated gold labels; the neural baselines are tiny and from-scratch (no
+large pretrained Syriac LM exists), so they probe architecture under data
+scarcity, not an upper bound; the supervised AV head is likewise trained on only
+ten-odd authors, so its margin may change in either direction as the pool grows;
+and the genre classifier is an approximate series-title heuristic.
 
 ---
 
 ## 10. Conclusion
 
-We presented a character *n*-gram FastText model for Classical Syriac and a
-stylometric study built on it. The subword bias is well suited to a templatic,
-hapax-heavy, low-resource language — most clearly on rare and unseen forms — and
-the resulting document vectors carry a robust, controlled authorship signal that
-is competitive with Burrows's Delta and that yields historically sensible
-readings of disputed texts. Future work includes per-stanza representations for
-short verse, supervised authorship verification, larger pretrained byte-level
-models, and further disputed dossiers.
+We presented a released character *n*-gram FastText model for Classical Syriac
+and the controls needed to use it. The subword inductive bias is well suited to a
+templatic, hapax-heavy, low-resource language — most clearly intrinsically and on
+the long tail, where it stays morphologically coherent on rare forms and
+vectorizes every out-of-vocabulary form, including across two unseen biblical
+corpora. We further show that averaged document vectors are anisotropic and that
+label-free mean-centering is what makes a downstream signal usable. As an
+application, the resulting document vectors carry a robust, controlled authorship
+signal — competitive with Burrows's Delta, and sharpened further by a supervised
+verification head — that yields historically sensible readings of disputed texts.
+Future work includes per-stanza representations for short verse, an ablation that
+retains diacritics, diachronic and larger multi-corpus author pools, larger
+pretrained byte-level models, and further disputed dossiers.
 
 **Reproducibility.** All experiments are seeded and driven by released scripts
 (`fasttext_model.py`, `stylometry.py`, `authorship.py`, `nn_baselines.py`,
