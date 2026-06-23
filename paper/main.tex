@@ -54,28 +54,30 @@ with an Application to Authorship Analysis}
 \begin{abstract}
 Classical Syriac is a major literary language of late antiquity that remains
 severely under-resourced in NLP, yet it raises rich, unresolved questions of
-authorship. We train a character $n$-gram \textsc{FastText} model on the Digital
-Syriac Corpus (632 texts; 2.18M tokens) and argue that subword representations
-are the appropriate inductive bias for a templatic, root-and-pattern language
-whose vocabulary is 50\% \emph{hapax legomena}. Intrinsically, the embeddings are
-morphologically coherent---forms sharing a triconsonantal root are closer than
-semantically adjacent forms built on different roots---and a subword ablation
-against \textsc{word2vec} shows the gap is largest for rare and out-of-vocabulary
-forms. We then apply the embeddings to authorship: averaged document vectors
-separate same- from cross-author text pairs with \auc{} up to $0.90$
-(author-cluster bootstrap 95\% CIs; stable across five seeds, $0.886\pm0.007$),
-validated by a negative control in which a single author split in two yields
-chance \auc{} ($\approx 0.51$). We find that mean-centering to remove a dominant
-common component is essential (it lifts \auc{} from $0.73$ to $0.89$), compare
-against Burrows's Delta and against from-scratch byte- and character-level neural
-language models, quantify a length-dependent genre confound and show the signal
-survives genre-matched testing ($0.900\to0.883$), and apply the pipeline to three
-disputed or pseudonymous works with historically sensible results. A small
-supervised verification head trained on the embeddings and evaluated
-leave-one-author-out gives the best separation (\auc{} $0.97$). Notably, the
-subword advantage is largest \emph{intrinsically}---on rare and out-of-vocabulary
-forms---while at the document level a plain \textsc{word2vec} is competitive.
-Code, seeds, and trained models are released.
+authorship. Our primary contribution is a released character $n$-gram
+\textsc{FastText} model trained on the Digital Syriac Corpus (632 texts; 2.18M
+tokens); we argue that subword representations are the appropriate inductive bias
+for a templatic, root-and-pattern language whose vocabulary is 50\% \emph{hapax
+legomena}. Intrinsically, the embeddings are morphologically coherent---forms
+sharing a triconsonantal root are closer than semantically adjacent forms built
+on different roots---and a subword ablation against \textsc{word2vec} shows the
+advantage is largest exactly where it should be: on rare and out-of-vocabulary
+forms. Applied unchanged to two independent ETCBC biblical corpora, the model
+covers their vocabulary and vectorizes every unseen form. As an application we
+turn to authorship: averaged document vectors separate same- from cross-author
+text pairs with \auc{} up to $0.90$ (author-cluster bootstrap 95\% CIs; stable
+across five seeds, $0.886\pm0.007$), validated by a negative control in which a
+single author split in two yields chance \auc{} ($\approx 0.51$); mean-centering
+to remove a dominant anisotropic component is essential (\auc{} $0.73\to0.89$). We
+compare against Burrows's Delta, byte- and character-level neural language models,
+and a supervised verification head, quantify a length-dependent genre confound
+(the signal survives genre-matched testing, $0.900\to0.883$), and read three
+disputed or pseudonymous works with historically sensible results. The honest
+picture: the subword advantage is intrinsic---on the long tail---while at the
+document level a plain \textsc{word2vec} is competitive with FastText and Delta,
+so we present authorship as an application of the representation rather than a
+claim that subword embeddings win it. Code, seeds, and trained models are
+released.
 \end{abstract}
 
 % ===================================================================== %
@@ -100,7 +102,10 @@ together with heavy inflection and a long tail of rare forms, motivates a
 let unseen forms receive a vector at all.
 
 This paper makes a dual contribution---a representation-learning study and a
-digital-humanities application.
+digital-humanities application. To our knowledge it is the first application of
+distributional subword embeddings to authorship analysis in Classical Syriac;
+the methods themselves are established, so we emphasize careful controls,
+baseline comparison, and honest reporting over methodological novelty.
 
 \paragraph{Contributions.}
 \begin{enumerate}
@@ -158,15 +163,27 @@ interpretations \cite{argamon2008interpreting,evert2017understanding}, is the
 standard baseline; function words are classic markers
 \cite{kestemont2014function}, and the field is surveyed in
 \cite{stamatatos2009survey}. Topic can confound authorship
-\cite{seroussi2014authorship}; we test an analogous genre confound. We assess
-significance with the cluster bootstrap \cite{efron1986bootstrap}.
+\cite{seroussi2014authorship}; we test an analogous genre confound. Translated
+texts are known to attribute less reliably than originals---across the European
+Literary Text Collection, translations score lower than their source-language
+counterparts \cite{schoch2024multilingual}---which frames our finding that the
+(translated) Pseudo-Clementines read as translationese. We assess significance
+with the cluster bootstrap \cite{efron1986bootstrap}.
 
 \paragraph{Syriac and digital classics.}
-For the language and its study see \cite{brock2006introduction,butts2019syriac};
-our training data is the Digital Syriac Corpus \cite{digitalsyriaccorpus} and our
-independent validation corpora are the ETCBC Syriac datasets
-\cite{etcbcsyriac}. Tooling: \textsc{gensim} \cite{rehurek2010gensim} and
-\textsc{PyTorch} \cite{paszke2019pytorch}.
+Syriac NLP is nascent: recent work includes a Transformer morphological parser
+that borrows Hebrew data to offset Syriac's scarcity
+\cite{naaijer2023transformer}, but we are not aware of prior \emph{stylometric} or
+authorship-attribution work on Classical Syriac using distributional
+representations. The authorship questions themselves are long-standing in
+philology---for instance, the corpus attributed to Ephrem has been reassessed on
+text-critical and metrical grounds \cite{hartung2018authorship}; our contribution
+is a complementary, quantitative perspective rather than a replacement for that
+scholarship. For the language and its study see
+\cite{brock2006introduction,butts2019syriac}; our training data is the Digital
+Syriac Corpus \cite{digitalsyriaccorpus} and our independent validation corpora
+are the ETCBC Syriac datasets \cite{etcbcsyriac}. Tooling: \textsc{gensim}
+\cite{rehurek2010gensim} and \textsc{PyTorch} \cite{paszke2019pytorch}.
 
 % ===================================================================== %
 \section{Corpus and Preprocessing}
@@ -394,15 +411,20 @@ data-starved, which is itself the low-resource condition this language presents.
 % ===================================================================== %
 \section{Limitations}
 \label{sec:limitations}
-A small attributed author pool (11--13 in the restricted cohort) drawn from a
-single authored corpus---though we validate generalization on two independent
-biblical corpora, these add register and translation reference points, not new
-authors; the disputed-text studies are illustrative, without expert-adjudicated
-gold labels; the neural baselines are tiny and from-scratch (no large pretrained
-Syriac LM exists), so they probe architecture under data scarcity, not an upper
-bound; the supervised AV head is likewise trained on only ten-odd authors, so its
-margin should be read as a lower bound that more authors would likely widen; and
-the genre classifier is an approximate series-title heuristic.
+The most important limitation is scale: the attributed author pool is small
+(11--13 in the restricted cohort) and drawn from a \emph{single} authored corpus.
+Although we validate that the representation generalizes to two independent
+biblical corpora, those are translations that add register and reference points,
+\emph{not} new authors, so they do not enlarge the pool. The absolute \auc{}
+values should therefore be read as cohort-specific and as supporting
+\emph{relative} comparisons between representations rather than as population
+estimates of attributability for Syriac at large. Further, the disputed-text
+studies are illustrative, without expert-adjudicated gold labels; the neural
+baselines are tiny and from-scratch (no large pretrained Syriac LM exists), so
+they probe architecture under data scarcity, not an upper bound; the supervised
+AV head is likewise trained on only ten-odd authors, so its margin is a lower
+bound that more authors would likely widen; and the genre classifier is an
+approximate series-title heuristic.
 
 % ===================================================================== %
 \section{Conclusion}
