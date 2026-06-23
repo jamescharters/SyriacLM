@@ -1,0 +1,318 @@
+% References for: Pointing as Morphology (the neural/ companion paper).
+% Placeholder bibliography; verify details (volumes, pages, DOIs) before submission.
+% Several entries are shared verbatim with the parent FastText paper's references.
+
+% --------------------------------------------------------------------------- %
+% Subword / tokenizer-free / multilingual representation models
+% --------------------------------------------------------------------------- %
+@article{bojanowski2017enriching,
+  title   = {Enriching Word Vectors with Subword Information},
+  author  = {Bojanowski, Piotr and Grave, Edouard and Joulin, Armand and Mikolov, Tomas},
+  journal = {Transactions of the Association for Computational Linguistics},
+  volume  = {5},
+  pages   = {135--146},
+  year    = {2017},
+  doi     = {10.1162/tacl_a_00051}
+}
+
+@inproceedings{mikolov2013distributed,
+  title     = {Distributed Representations of Words and Phrases and their Compositionality},
+  author    = {Mikolov, Tomas and Sutskever, Ilya and Chen, Kai and Corrado, Greg S. and Dean, Jeff},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  volume    = {26},
+  year      = {2013}
+}
+
+@inproceedings{vaswani2017attention,
+  title     = {Attention Is All You Need},
+  author    = {Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and
+               Jones, Llion and Gomez, Aidan N. and Kaiser, {\L}ukasz and Polosukhin, Illia},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  volume    = {30},
+  year      = {2017}
+}
+
+@article{clark2022canine,
+  title   = {{CANINE}: Pre-training an Efficient Tokenization-Free Encoder for
+             Language Representation},
+  author  = {Clark, Jonathan H. and Garrette, Dan and Turc, Iulia and Wieting, John},
+  journal = {Transactions of the Association for Computational Linguistics},
+  volume  = {10},
+  pages   = {73--91},
+  year    = {2022},
+  doi     = {10.1162/tacl_a_00448}
+}
+
+@article{xue2022byt5,
+  title   = {{ByT5}: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models},
+  author  = {Xue, Linting and Barua, Aditya and Constant, Noah and Al-Rfou, Rami and
+             Narang, Sharan and Kale, Mihir and Roberts, Adam and Raffel, Colin},
+  journal = {Transactions of the Association for Computational Linguistics},
+  volume  = {10},
+  pages   = {291--306},
+  year    = {2022},
+  doi     = {10.1162/tacl_a_00461}
+}
+
+@inproceedings{kim2016character,
+  title     = {Character-Aware Neural Language Models},
+  author    = {Kim, Yoon and Jernite, Yacine and Sontag, David and Rush, Alexander M.},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2016}
+}
+
+@inproceedings{conneau2020xlmr,
+  title     = {Unsupervised Cross-lingual Representation Learning at Scale},
+  author    = {Conneau, Alexis and Khandelwal, Kartikay and Goyal, Naman and
+               Chaudhary, Vishrav and Wenzek, Guillaume and Guzm{\'a}n, Francisco and
+               Grave, Edouard and Ott, Myle and Zettlemoyer, Luke and Stoyanov, Veselin},
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for
+               Computational Linguistics (ACL)},
+  pages     = {8440--8451},
+  year      = {2020},
+  doi       = {10.18653/v1/2020.acl-main.747}
+}
+
+@inproceedings{imani2023glot500,
+  title     = {{Glot500}: Scaling Multilingual Corpora and Language Models to 500 Languages},
+  author    = {ImaniGooghari, Ayyoob and Lin, Peiqin and Kargaran, Amir Hossein and
+               Severini, Silvia and Jalili Sabet, Masoud and Kassner, Nora and
+               Ma, Chunlan and Schmid, Helmut and Martins, Andr{\'e} F. T. and
+               Yvon, Fran{\c{c}}ois and Sch{\"u}tze, Hinrich},
+  booktitle = {Proceedings of the 61st Annual Meeting of the Association for
+               Computational Linguistics (ACL)},
+  pages     = {1082--1117},
+  year      = {2023},
+  doi       = {10.18653/v1/2023.acl-long.61}
+}
+
+@inproceedings{seker2022alephbert,
+  title     = {{AlephBERT}: Language Model Pre-training and Evaluation from Sub-Word
+               to Sentence Level},
+  author    = {Seker, Amit and Bandel, Elron and Bareket, Dan and Brusilovsky, Idan and
+               Greenfeld, Refael Shaked and Tsarfaty, Reut},
+  booktitle = {Proceedings of the 60th Annual Meeting of the Association for
+               Computational Linguistics (ACL)},
+  pages     = {46--56},
+  year      = {2022},
+  doi       = {10.18653/v1/2022.acl-long.4}
+}
+
+% --------------------------------------------------------------------------- %
+% Transfer / adaptation / efficient fine-tuning
+% --------------------------------------------------------------------------- %
+@inproceedings{hu2022lora,
+  title     = {{LoRA}: Low-Rank Adaptation of Large Language Models},
+  author    = {Hu, Edward J. and Shen, Yelong and Wallis, Phillip and
+               Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and
+               Chen, Weizhu},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2022}
+}
+
+@inproceedings{gururangan2020dapt,
+  title     = {Don't Stop Pretraining: Adapt Language Models to Domains and Tasks},
+  author    = {Gururangan, Suchin and Marasovi{\'c}, Ana and Swayamdipta, Swabha and
+               Lo, Kyle and Beltagy, Iz and Downey, Doug and Smith, Noah A.},
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for
+               Computational Linguistics (ACL)},
+  pages     = {8342--8360},
+  year      = {2020},
+  doi       = {10.18653/v1/2020.acl-main.740}
+}
+
+@inproceedings{houlsby2019adapters,
+  title     = {Parameter-Efficient Transfer Learning for {NLP}},
+  author    = {Houlsby, Neil and Giurgiu, Andrei and Jastrzebski, Stanislaw and
+               Morrone, Bruna and de Laroussilhe, Quentin and Gesmundo, Andrea and
+               Attariyan, Mona and Gelly, Sylvain},
+  booktitle = {Proceedings of the 36th International Conference on Machine Learning (ICML)},
+  pages     = {2790--2799},
+  year      = {2019}
+}
+
+% --------------------------------------------------------------------------- %
+% Diacritization / vocalization (related Semitic languages)
+% --------------------------------------------------------------------------- %
+@inproceedings{gershuni2022hebrew,
+  title     = {Restoring Hebrew Diacritics Without a Dictionary},
+  author    = {Gershuni, Elazar and Pinter, Yuval},
+  booktitle = {Findings of the Association for Computational Linguistics: NAACL 2022},
+  pages     = {1010--1018},
+  year      = {2022},
+  doi       = {10.18653/v1/2022.findings-naacl.75}
+}
+
+@inproceedings{zalmout2019arabic,
+  title     = {Joint Diacritization, Lemmatization, Normalization, and Fine-Grained
+               Morphological Tagging},
+  author    = {Zalmout, Nasser and Habash, Nizar},
+  booktitle = {Proceedings of the 57th Annual Meeting of the Association for
+               Computational Linguistics (ACL)},
+  pages     = {1268--1279},
+  year      = {2019},
+  doi       = {10.18653/v1/P19-1121}
+}
+
+% --------------------------------------------------------------------------- %
+% Stylometry / authorship / verification
+% --------------------------------------------------------------------------- %
+@article{burrows2002delta,
+  title   = {`Delta': a Measure of Stylistic Difference and a Guide to Likely Authorship},
+  author  = {Burrows, John},
+  journal = {Literary and Linguistic Computing},
+  volume  = {17},
+  number  = {3},
+  pages   = {267--287},
+  year    = {2002},
+  doi     = {10.1093/llc/17.3.267}
+}
+
+@article{stamatatos2009survey,
+  title   = {A Survey of Modern Authorship Attribution Methods},
+  author  = {Stamatatos, Efstathios},
+  journal = {Journal of the American Society for Information Science and Technology},
+  volume  = {60},
+  number  = {3},
+  pages   = {538--556},
+  year    = {2009},
+  doi     = {10.1002/asi.21001}
+}
+
+@inproceedings{khosla2020supcon,
+  title     = {Supervised Contrastive Learning},
+  author    = {Khosla, Prannay and Teterwak, Piotr and Wang, Chen and Sarna, Aaron and
+               Tian, Yonglong and Isola, Phillip and Maschinot, Aaron and Liu, Ce and
+               Krishnan, Dilip},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  volume    = {33},
+  pages     = {18661--18673},
+  year      = {2020}
+}
+
+@article{hartung2018authorship,
+  title   = {The Authorship and Dating of the Syriac Corpus Attributed to
+             {Ephrem} of {Nisibis}: A Reassessment},
+  author  = {Hartung, Blake},
+  journal = {Zeitschrift f{\"u}r Antikes Christentum / Journal of Ancient Christianity},
+  volume  = {22},
+  number  = {2},
+  pages   = {296--321},
+  year    = {2018},
+  doi     = {10.1515/zac-2018-0033}
+}
+
+% --------------------------------------------------------------------------- %
+% Neural methods for ancient / historical languages
+% --------------------------------------------------------------------------- %
+@article{assael2022ithaca,
+  title   = {Restoring and Attributing Ancient Texts Using Deep Neural Networks},
+  author  = {Assael, Yannis and Sommerschield, Thea and Shillingford, Brendan and
+             Bordbar, Mahyar and Pavlopoulos, John and Chatzipanagiotou, Marita and
+             Androutsopoulos, Ion and Prag, Jonathan and de Freitas, Nando},
+  journal = {Nature},
+  volume  = {603},
+  pages   = {280--283},
+  year    = {2022},
+  doi     = {10.1038/s41586-022-04448-z}
+}
+
+@inproceedings{naaijer2023transformer,
+  title     = {A Transformer-based Parser for {Syriac} Morphology},
+  author    = {Naaijer, Martijn and Sikkel, Constantijn and Coeckelbergs, Mathias and
+               Attema, Jisk and {Van Peursen}, Willem Th.},
+  booktitle = {Proceedings of the Ancient Language Processing Workshop (ALP)},
+  pages     = {23--29},
+  address   = {Varna, Bulgaria},
+  publisher = {INCOMA Ltd.},
+  year      = {2023}
+}
+
+% --------------------------------------------------------------------------- %
+% Syriac language, data, and tooling
+% --------------------------------------------------------------------------- %
+@book{brock2006introduction,
+  title     = {An Introduction to Syriac Studies},
+  author    = {Brock, Sebastian P.},
+  publisher = {Gorgias Press},
+  year      = {2006}
+}
+
+@incollection{butts2019syriac,
+  title     = {The Classical Syriac Language},
+  author    = {Butts, Aaron Michael},
+  booktitle = {The Syriac World},
+  editor    = {King, Daniel},
+  publisher = {Routledge},
+  pages     = {222--242},
+  year      = {2019}
+}
+
+@inproceedings{kiraz1994sedra,
+  title     = {Automatic Concordance Generation of {Syriac} Texts},
+  author    = {Kiraz, George A.},
+  booktitle = {VI Symposium Syriacum 1992},
+  editor    = {Lavenant, Ren{\'e}},
+  series    = {Orientalia Christiana Analecta},
+  volume    = {247},
+  address   = {Rome},
+  year      = {1994}
+}
+
+@misc{digitalsyriaccorpus,
+  title        = {The Digital {Syriac} Corpus},
+  author       = {{Syriaca.org}},
+  howpublished = {\url{https://syriaccorpus.org/}},
+  note         = {srophe/syriac-corpus; accessed 2026},
+  year         = {2026}
+}
+
+@misc{etcbcsyriac,
+  title        = {{ETCBC} {Syriac} Datasets: Syriac New Testament and Peshitta in Text-Fabric},
+  author       = {Vlaardingerbroek, Hannes and Roorda, Dirk and {van Peursen}, Wido},
+  howpublished = {\url{https://github.com/ETCBC/syrnt}, \url{https://github.com/ETCBC/peshitta}},
+  note         = {Eep Talstra Centre for Bible and Computer (ETCBC); MIT license; accessed 2026},
+  year         = {2026}
+}
+
+@article{efron1986bootstrap,
+  title   = {Bootstrap Methods for Standard Errors, Confidence Intervals, and Other
+             Measures of Statistical Accuracy},
+  author  = {Efron, Bradley and Tibshirani, Robert},
+  journal = {Statistical Science},
+  volume  = {1},
+  number  = {1},
+  pages   = {54--75},
+  year    = {1986}
+}
+
+@inproceedings{wolf2020transformers,
+  title     = {Transformers: State-of-the-Art Natural Language Processing},
+  author    = {Wolf, Thomas and Debut, Lysandre and Sanh, Victor and Chaumond, Julien and
+               Delangue, Clement and Moi, Anthony and Cistac, Pierric and Rault, Tim and
+               Louf, R{\'e}mi and Funtowicz, Morgan and others},
+  booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural
+               Language Processing: System Demonstrations (EMNLP)},
+  pages     = {38--45},
+  year      = {2020},
+  doi       = {10.18653/v1/2020.emnlp-demos.6}
+}
+
+@incollection{paszke2019pytorch,
+  title     = {{PyTorch}: An Imperative Style, High-Performance Deep Learning Library},
+  author    = {Paszke, Adam and Gross, Sam and Massa, Francisco and others},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  volume    = {32},
+  year      = {2019}
+}
+
+@article{shumailov2024collapse,
+  title   = {{AI} Models Collapse When Trained on Recursively Generated Data},
+  author  = {Shumailov, Ilia and Shumaylov, Zakhar and Zhao, Yiren and
+             Papernot, Nicolas and Anderson, Ross and Gal, Yarin},
+  journal = {Nature},
+  volume  = {631},
+  pages   = {755--759},
+  year    = {2024},
+  doi     = {10.1038/s41586-024-07566-y}
+}

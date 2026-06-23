@@ -1,0 +1,484 @@
+% !TEX program = xelatex
+% Pointing as Morphology -- the neural/ companion paper.
+% Build:  xelatex main && bibtex main && xelatex main && xelatex main
+% Requires XeLaTeX + a Syriac-capable font (Noto Sans Syriac). If that font is
+% absent, comment out the \newfontfamily\syriacfont line; the \syr macro then
+% falls back to the main font (Syriac may not render, transliteration still does).
+
+\documentclass[11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{microtype}
+\usepackage[round]{natbib}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+
+% --- Fonts / Syriac support (XeLaTeX) ------------------------------------ %
+\usepackage{fontspec}
+% Right-to-left Syriac font. If "Noto Sans Syriac" is not installed, comment the
+% next line out; the macro below then falls back to the main font, and the
+% accompanying transliteration always renders regardless.
+\newfontfamily\syriacfont[Script=Syriac]{Noto Sans Syriac}
+\providecommand{\syriacfont}{}            % no-op fallback if the line above is removed
+\providecommand{\RL}[1]{#1}               % overwritten by the bidi package below
+
+% \syr{script}{transliteration}{gloss}: native Syriac + translit + English,
+% so readers who cannot read the script always have an anchor.
+\newcommand{\syrscript}[1]{{\syriacfont\RL{#1}}}
+\newcommand{\syr}[3]{\syrscript{#1}~(\textit{#2}, `#3')}
+\newcommand{\syrt}[2]{\syrscript{#1}~(\textit{#2})}
+
+\newcommand{\auc}{\textsc{auc}}
+\newcommand{\cal}[1]{\texttt{#1}}         % CAL-ASCII transliteration of skeletons
+\newcommand{\todo}[1]{\textcolor{red}{[#1]}}
+
+% The bidi package must be loaded LAST (after hyperref and other packages).
+\usepackage{bidi}
+
+\title{Pointing as Morphology:\\
+A Self-Supervised Vocaliser and Cross-Script Transfer\\
+for Classical Syriac}
+
+\author{Anonymous\\ \texttt{TODO: affiliation} \and Anonymous\\ \texttt{TODO: affiliation}}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Classical Syriac has no large pretrained language model, and from-scratch
+pretraining is ruled out by scale: the openly digitised corpus is on the order of
+a few million tokens, one to two orders of magnitude short of what monolingual
+pretraining needs. We therefore ask how to build useful neural representations for
+Syriac by injecting information from sources other than more Syriac text, and we
+report what works and what does not on the same authorship cohort and metric as a
+prior count-based study. Our central result is a vocaliser that treats the
+restoration of Syriac pointing as a morphological task: in a defective abjad the
+unwritten vowels are the \emph{pattern} morpheme of a root-and-pattern system, so
+predicting them is recovering morphology, not orthographic decoration. Trained on
+the SEDRA lexicon, the model restores held-out pointing at $0.825$ per slot. We
+then show it generalises to a different register: although the Digital Syriac
+Corpus was assumed to be consonantal, $56\%$ of its tokens in fact carry vowel
+points, which we turn into a $134{,}000$-form classical gold set by deriving the
+mark-to-vowel mapping from data; on it the lexicon-trained vocaliser reaches
+$0.638\pm0.028$ vowel accuracy on in-vocabulary forms and $0.594\pm0.019$ on forms
+whose consonantal skeleton it never saw. For document-level authorship we compare
+three transfer routes for a zero-resource abjad: a tokenizer-free byte model
+(CANINE) reaches \auc{} $0.870$ off the shelf; transliterating Syriac into Hebrew
+script and encoding it with a Hebrew model reaches $0.888$; and a larger
+multilingual model whose tokenizer represents Syriac as character fallback reaches
+only $0.798$ -- so script coverage, not language count, is what matters. A
+supervised verification head over either encoder gives the strongest separation
+($\approx 0.96\pm0.03$), though it is seed-sensitive on the small author pool.
+Continued pretraining improves the intrinsic language-model objective but not
+document-level authorship; an explicit root/pattern factorisation does not beat a
+flat encoder when the consonantal skeleton is already visible. Code, the
+evaluation harness, and the gold-set construction are released; the SEDRA-derived
+data is regenerated locally under its licence rather than redistributed.
+\end{abstract}
+
+% ===================================================================== %
+\section{Introduction}
+\label{sec:intro}
+
+Classical Syriac---a dialect of Aramaic and a principal literary language of late
+antique Christianity---has a large, partly anonymous or contested corpus and very
+little modern language technology. There is no large pretrained Syriac language
+model, and the reason is not architectural but quantitative: a from-scratch
+monolingual Transformer expects on the order of $10^{8}$--$10^{9}$ tokens, whereas
+the Digital Syriac Corpus (DSC) holds about $2.18$M and even aggregating every
+openly digitised Syriac text reaches only the low tens of millions. Pretraining
+from scratch is therefore the wrong tool, and so is the tempting shortcut of
+generating ``more Syriac'' from a model fit on Syriac, which adds no information
+and risks degenerate feedback \citep{shumailov2024collapse}.
+
+If new information cannot come from more raw Syriac, it must come from elsewhere.
+We organise the design around three such sources. \textbf{Structure}: the
+root-and-pattern grammar can be supplied as explicit supervision. \textbf{Transfer}:
+knowledge can be carried over from byte- or character-level models and from related
+Semitic languages. \textbf{Real text}: the genuinely new tokens that do exist
+(here, a vocalisation signal that the corpus turns out to contain) can be put to
+work. This paper develops one method in each category and evaluates them against
+the cohort and metric of a prior count-based study of the same corpus, so that the
+neural numbers are directly comparable.
+
+The work is deliberately a study of \emph{methods and findings} rather than of new
+architectures: the components---a tokenizer-free encoder \citep{clark2022canine},
+low-rank adaptation \citep{hu2022lora}, a Hebrew model \citep{seker2022alephbert},
+a supervised-contrastive head \citep{khosla2020supcon}, a sequence labeller---are
+all established. The contribution is what they reveal about Syriac and, more
+generally, about modelling a zero-resource Semitic abjad.
+
+\paragraph{Contributions.}
+\begin{enumerate}
+  \item \textbf{Pointing as morphology.} We frame vocalisation restoration as
+  recovery of the root-and-pattern \emph{pattern} morpheme and build a vocaliser
+  for Classical Syriac (\S\ref{sec:vocaliser}). To our knowledge it is the first
+  neural Syriac vocaliser; diacritisation itself is established for Arabic and
+  Hebrew \citep{zalmout2019arabic,gershuni2022hebrew}, so the novelty is the
+  language and the morphological framing.
+  \item \textbf{A classical vocalisation gold set.} We show the DSC is $56\%$
+  vocalised, derive the mapping from its Unicode vowel points to a phonemic label
+  set directly from data, and release the construction of a $134{,}000$-form
+  classical gold set on which cross-register transfer can be measured
+  (\S\ref{sec:vocaliser}).
+  \item \textbf{Transfer routes for an abjad.} We compare a tokenizer-free byte
+  encoder, cross-script transfer through Hebrew, and a large multilingual model on
+  identical authorship evaluation, and explain the ordering by tokenizer coverage
+  (\S\ref{sec:transfer}).
+  \item \textbf{What does and does not help.} A supervised verification head gives
+  the best authorship separation but is seed-sensitive on a small author pool;
+  continued pretraining helps the intrinsic objective but not authorship; and an
+  explicit root/pattern factorisation does not beat a flat encoder
+  (\S\ref{sec:transfer},~\S\ref{sec:other}). We report these as results, with the
+  conditions under which each holds.
+\end{enumerate}
+
+% ===================================================================== %
+\section{Related Work}
+\label{sec:related}
+
+\paragraph{Tokenizer-free and multilingual encoders.}
+Subword vocabularies built for high-resource languages cover an abjad like Syriac
+poorly. Tokenizer-free models avoid the problem by reading bytes or codepoints:
+CANINE encodes Unicode codepoints directly \citep{clark2022canine} and ByT5
+operates on bytes \citep{xue2022byt5}, both extending character-aware modelling
+\citep{kim2016character} to the Transformer \citep{vaswani2017attention}.
+Massively multilingual subword models such as XLM-R \citep{conneau2020xlmr} and
+Glot500 \citep{imani2023glot500} cover hundreds of languages, but nominal coverage
+of a script does not guarantee useful subwords for it, as we show.
+
+\paragraph{Cross-lingual transfer and adaptation.}
+When target data is scarce, knowledge is transferred from related languages or
+adapted with few parameters. Continued in-domain pretraining \citep{gururangan2020dapt}
+and parameter-efficient methods---adapters \citep{houlsby2019adapters} and
+low-rank adaptation \citep{hu2022lora}---are the standard tools at our data scale.
+Syriac and Hebrew are both $22$-letter Aramaic-derived abjads, which motivates
+transliterating Syriac into Hebrew script to reuse a Hebrew model
+\citep{seker2022alephbert}; a Syriac morphological parser has likewise borrowed
+Hebrew data to offset scarcity \citep{naaijer2023transformer}.
+
+\paragraph{Diacritisation and vocalisation.}
+Restoring vowels to a consonantal script is well studied for Arabic
+\citep{zalmout2019arabic} and Hebrew \citep{gershuni2022hebrew}, typically as a
+sequence-labelling or reading-aid task. We reuse that machinery but reframe the
+objective: for a root-and-pattern language the pointing \emph{is} the pattern
+morpheme, so vocalisation is morphological self-supervision rather than a
+downstream convenience.
+
+\paragraph{Authorship and restoration.}
+Burrows's Delta \citep{burrows2002delta} and the broader attribution literature
+\citep{stamatatos2009survey} provide the stylometric baselines; a
+supervised-contrastive head \citep{khosla2020supcon} provides a learned metric. We
+assess uncertainty with the author-cluster bootstrap \citep{efron1986bootstrap}.
+For application, neural restoration of damaged ancient text is established for
+Greek and Latin \citep{assael2022ithaca}; we include a Syriac character-level
+restorer as a demonstrator. The authorship questions are long-standing in
+philology; the corpus attributed to Ephrem, for instance, has been reassessed on
+text-critical grounds \citep{hartung2018authorship}. For the language see
+\citet{brock2006introduction,butts2019syriac}; the data is the DSC
+\citep{digitalsyriaccorpus}, ETCBC Syriac \citep{etcbcsyriac}, and the SEDRA
+lexicon \citep{kiraz1994sedra}; tooling is \textsc{PyTorch}
+\citep{paszke2019pytorch} and \textsc{Transformers} \citep{wolf2020transformers}.
+
+% ===================================================================== %
+\section{Data and Resources}
+\label{sec:data}
+
+\paragraph{Corpora.}
+The DSC (the \texttt{srophe/syriac-corpus} TEI/XML release) provides $632$
+authored texts and $2.18$M tokens of classical prose and verse; it is our running
+text and, below, our classical vocalisation gold. The ETCBC Syriac New Testament
+and Peshitta \citep{etcbcsyriac} provide additional consonantal running text with
+morphological annotation. The SEDRA~3 lexicon \citep{kiraz1994sedra} provides
+$29{,}699$ word forms with explicit vocalisation, root, and morphology; it is the
+supervision for the vocaliser. SEDRA is distributed for academic use without
+redistribution of altered versions, so we ship the code that regenerates the
+derived data from a user-provided SEDRA source rather than the data itself, and we
+cite Kiraz as required.
+
+\paragraph{The CAL skeleton alphabet and transliteration.}
+SEDRA encodes forms in a CAL-style ASCII alphabet that is \emph{non-phonetic}: the
+letter is a fixed slot in the Aramaic alphabet order, so for instance \cal{K} is
+\emph{Heth}, \cal{C} is \emph{Kaph}, \cal{;} is \emph{Yudh}, \cal{/} is
+\emph{Sadhe}, and \cal{X} is \emph{Qaph}. We add a deterministic Syriac$\leftrightarrow$CAL
+map (and a Syriac$\to$Hebrew map for the transfer experiment); all $29{,}699$
+SEDRA skeletons round-trip exactly through it. A vocalised SEDRA form interleaves
+lowercase vowels and diacritics with the consonantal skeleton, e.g.\
+\cal{AaB,oHaOH\_;} has skeleton \cal{ABHOH;} (\syrt{ܐܒܗܘܗܝ}{abāhaw(hy)}).
+
+\paragraph{The corpus is vocalised.}
+The DSC was assumed to be consonantal, and the prior count-based study strips
+combining marks. In fact $55.9\%$ of DSC tokens---across $600$ of $632$
+files---carry Syriac vowel points (U+0730--U+074A: \emph{pthaha}, \emph{zqapha},
+\emph{rbasa}, \emph{hbasa}, \emph{esasa}, the East-Syriac dotted \emph{zlama}s,
+and \emph{qu\v{s}\v{s}aya}/\emph{rukkaka}). This is a genuine classical
+vocalisation signal, distinct in register from SEDRA's New-Testament lexicon, and
+\S\ref{sec:vocaliser} turns it into an evaluation gold set.
+
+% ===================================================================== %
+\section{Pointing as Morphology: A Syriac Vocaliser}
+\label{sec:vocaliser}
+
+\paragraph{Objective.}
+A Syriac word is a consonantal root interleaved with a vocalic pattern; the script
+writes the consonants and usually omits the pattern. Restoring the pointing is
+therefore recovering the pattern morpheme. We frame it as sequence labelling: the
+input is the consonant skeleton, and for each consonant slot the model predicts
+the vowel/diacritic string that follows it (one of $30$ classes including
+``bare''). Every position is supervised, so the model cannot collapse to the prior
+the way a sparsely-masked objective can on small data. The model is a two-layer
+bidirectional LSTM ($603$K parameters), the standard diacritiser architecture.
+
+\paragraph{Held-out lexicon accuracy.}
+On a $90/10$ type-level split of SEDRA, the vocaliser restores $0.825$ of slots
+correctly (per-consonant majority baseline $0.507$) and reproduces $0.397$ of full
+words exactly (baseline $0.003$); see the upper block of Table~\ref{tab:vocaliser}.
+These are held-out \emph{New-Testament-vocabulary} forms, which raises the obvious
+question of register.
+
+\paragraph{Cross-register evaluation on classical text.}
+We answer it with the DSC vocalisation signal. Because the corpus marks vowels with
+Unicode points and SEDRA marks them with CAL letters, we need a mapping between the
+two; rather than assert one, we \emph{derive} it from data. Aligning the $541{,}416$
+DSC tokens whose consonantal skeleton has a unique SEDRA vocalisation, we tally,
+per consonant slot, which Unicode mark co-occurs with which CAL vowel. The vowels
+map cleanly---\emph{pthaha}$\to$\cal{a}, \emph{zqapha}$\to$\cal{o},
+\emph{rbasa}$\to$\cal{e}, \emph{hbasa}$\to$\cal{i}, \emph{esasa}$\to$\cal{u} at
+$0.90$--$0.98$ purity---while reading and grammatical marks fall below threshold and
+are treated as unvocalised (Table~\ref{tab:vowelmap}). Applying the derived map to
+all vocalised DSC tokens yields a gold set of $133{,}960$ unique
+(skeleton, pattern) forms, of which $47{,}973$ have a skeleton in SEDRA's
+vocabulary and $85{,}987$ do not.
+
+Classical scribes point selectively, so the fair metric is vowel accuracy on the
+slots that are actually pointed. The lexicon-trained vocaliser, applied unchanged
+to classical text, reaches $0.638\pm0.028$ on in-vocabulary skeletons and
+$0.594\pm0.019$ on out-of-vocabulary skeletons---forms whose consonantal skeleton
+never appeared in training (mean $\pm$ SD over five seeds; per-consonant baselines
+$0.40$ and $0.45$; lower block of Table~\ref{tab:vocaliser}). The small gap between
+the in- and out-of-vocabulary splits indicates the model has learned the
+root-and-pattern regularity rather than memorised lexical entries, which is the
+property that makes vocalisation a useful morphological objective.
+
+\begin{table}[t]
+  \centering
+  \input{tables/TN_vocalizer}
+  \caption{The vocaliser on held-out SEDRA lexicon forms (upper) and on classical
+  DSC text (lower). Cross-register figures are vowel accuracy on pointed slots,
+  mean $\pm$ SD over five seeds; the out-of-vocabulary split contains consonantal
+  skeletons unseen in training.}
+  \label{tab:vocaliser}
+\end{table}
+
+\begin{table}[t]
+  \centering
+  \input{tables/TN_vowelmap}
+  \caption{The Unicode-point$\to$CAL-vowel mapping \emph{derived from data} by
+  aligning DSC tokens to uniquely-vocalised SEDRA skeletons. Marks accepted as
+  vowels are starred; reading and grammatical marks (not shown) fall below the
+  majority threshold and are treated as unvocalised.}
+  \label{tab:vowelmap}
+\end{table}
+
+% ===================================================================== %
+\section{Transfer for a Zero-Resource Abjad}
+\label{sec:transfer}
+
+We now turn to document-level authorship. The evaluation is the prior study's:
+centred-cosine separation \auc{} between same- and cross-author text pairs, on the
+same cohort, at token floors $1000$ and $2000$. \auc{} is the probability that a
+same-author pair is scored more similar than a cross-author pair; $0.5$ is chance.
+Table~\ref{tab:bakeoff} collects the results, with the prior study's count-based
+baselines for reference---FastText \citep{bojanowski2017enriching},
+\textsc{word2vec} \citep{mikolov2013distributed}, and Burrows's Delta
+\citep{burrows2002delta}.
+
+\paragraph{A tokenizer-free byte encoder transfers.}
+Off the shelf, with no Syriac training, CANINE encodes each form by mean-pooling
+its codepoint encoding and reaches \auc{} $0.870$ / $0.849$. This is the first
+demonstration that a pretrained multilingual byte model transfers to Syriac
+authorship, and it already exceeds from-scratch byte- and character-level models
+trained on the corpus.
+
+\paragraph{Continued pretraining helps the LM, not authorship.}
+Adapting CANINE to Syriac with LoRA ($1.06$M of $133$M parameters) lowers held-out
+masked pseudo-bits-per-byte from $2.000$ to $1.859$ and raises masked-codepoint
+accuracy from $0.307$ to $0.342$ relative to a frozen linear probe
+(Table~\ref{tab:intrinsic}), so the encoder demonstrably learns Syriac. It does
+\emph{not} improve authorship separation (\auc{} $0.857$ / $0.838$, slightly below
+off the shelf): the masked objective is local, and document-mean pooling washes out
+what it sharpens. The transfer win is the off-the-shelf encoder; the adaptation win
+is the intrinsic objective.
+
+\paragraph{Script coverage beats language count.}
+Glot500, a subword model covering $500$+ languages including a nominal Syriac, does
+worse than CANINE (\auc{} $0.798$ / $0.781$). The cause is concrete: its tokenizer
+breaks Syriac into $7.05$ pieces per word with no Syriac subwords---character
+fallback---whereas a model that actually covers the script should produce real
+subwords. Nominal language coverage is not script coverage.
+
+\paragraph{Cross-script transfer through Hebrew.}
+Mapping Syriac into Hebrew script (a near $1{:}1$ abjad correspondence) and
+encoding it with a Hebrew model (AlephBERT) reaches \auc{} $0.888$ / $0.857$, above
+CANINE. The tokenizer confirms the mechanism: AlephBERT segments transliterated
+Syriac into $2.51$ real subwords per word ($96.5\%$ covered), against Glot500's
+$7.05$. This gives a clean ordering for a zero-resource abjad: char-fallback
+multilingual ($0.798$) $<$ tokenizer-free byte ($0.870$) $<$ shared-script Semitic
+transfer ($0.888$).
+
+\paragraph{A supervised head gives the best separation, with a caveat.}
+Adding the prior study's leave-one-author-out supervised-contrastive head over the
+encoder vectors gives the strongest separation: CANINE $+$ head $0.961\pm0.030$ at
+floor $1000$, Hebrew $+$ head $0.946\pm0.040$. Two cautions attach to these
+numbers. The head trains on an $11$-author cohort and is nondeterministic across
+runs even at a fixed seed, so we report a five-seed mean $\pm$ SD rather than a
+single value; an earlier single run read $0.99$, which the sweep shows was an
+optimistic draw. And at floor $2000$ the spread is large ($\pm0.10$ for CANINE), so
+we do not read a single best pipeline there: CANINE and Hebrew with the head
+overlap within their seed variation. The head is a real and general improvement
+over raw cosine, but its margin on this cohort should be read as a range.
+
+\begin{table}[t]
+  \centering
+  \input{tables/TN_bakeoff}
+  \caption{Authorship separation \auc{} at token floors $1000$ / $2000$, same
+  cohort and metric as the prior count-based study (its FastText, word2vec, and
+  Delta numbers shown for reference). AV-head rows are five-seed mean $\pm$ SD; all
+  other neural rows are deterministic given the encoder.}
+  \label{tab:bakeoff}
+\end{table}
+
+\begin{table}[t]
+  \centering
+  \input{tables/TN_intrinsic}
+  \caption{Intrinsic language-model effect of LoRA continued pretraining against a
+  frozen linear probe, isolated with an identical masked pseudo-bits-per-byte
+  scorer (bidirectional, so comparable only among CANINE variants).}
+  \label{tab:intrinsic}
+\end{table}
+
+% ===================================================================== %
+\section{Factored Morphology and Textual Restoration}
+\label{sec:other}
+
+\paragraph{Explicit root/pattern factorisation does not help here.}
+SEDRA's encoding splits every form into a consonant (root) channel and a vowel
+(pattern) channel for free, which invites a two-stream encoder with explicit root
+and pattern tiers. We compare it against a flat encoder reading the raw vocalised
+characters, both trained with the same supervised-contrastive objective on the
+root and evaluated by root-nearest-neighbour retrieval (Table~\ref{tab:factored}).
+The factored model does not beat the flat one ($0.972$ vs.\ $0.978$ on seen roots,
+$0.994$ vs.\ $0.994$ on unseen roots). Retrieval is near ceiling for both because
+the consonantal skeleton is directly visible in the input, so surface overlap
+already encodes the root; making the split explicit adds nothing when the split is
+free. The factorisation would matter only where the channels are not separable by
+inspection.
+
+\paragraph{Character-level restoration.}
+As an application demonstrator we train a causal character Transformer
+($620$K parameters) on the DSC and evaluate lacuna restoration by synthetic
+masking of held-out text. It restores masked characters at $0.443$ and whole spans
+exactly at $0.089$, against a unigram floor near $0.19$ on the character metric,
+and its fills are morphologically valid Syriac. A bidirectional masked objective at
+this model and data scale collapses to the unigram prior; the causal objective,
+which supervises every position, is what learns. This is a small but working Syriac
+restorer in the spirit of neural restoration for other ancient languages
+\citep{assael2022ithaca}.
+
+\begin{table}[t]
+  \centering
+  \input{tables/TN_factored}
+  \caption{Factored root/pattern encoder vs.\ a flat encoder, root-nearest-neighbour
+  retrieval on SEDRA forms split by root. ``Unseen'' roots are absent from training,
+  the decisive generalisation case; both models are near ceiling.}
+  \label{tab:factored}
+\end{table}
+
+% ===================================================================== %
+\section{Discussion}
+\label{sec:discussion}
+
+The results divide along the line between intrinsic and document-level objectives,
+the same division the prior count-based study found. Intrinsically, structure and
+transfer both pay off: the vocaliser learns the pattern morpheme well enough to
+generalise across register and to unseen skeletons, and continued pretraining
+measurably improves the language-model objective. At the document level, the
+picture is different. Continued pretraining does not help authorship, because
+mean-pooling discards the local signal it sharpens; the supervised head helps most,
+because it learns a metric directly on the pooled vectors. The practical
+recommendation for a zero-resource abjad follows from the transfer ordering: prefer
+a tokenizer-free encoder or transliteration into a related-language model's script
+over a large multilingual model whose tokenizer misses the script, and add a
+supervised head where author labels exist.
+
+Two of our results are negative under their stated conditions, and both are
+informative. Factoring root from pattern does not help when the skeleton is already
+visible, which says the intrinsic root signal is easy and locates the difficulty
+elsewhere. The supervised head's instability on an $11$-author cohort is a caution
+about single-run headline numbers on small pools generally, not only here. The
+broader method---inject structure through a morphological objective, transfer
+through script rather than language count, and learn a metric for the document
+task---should carry to other templatic, low-resource languages with the same
+root-and-pattern, hapax-heavy profile.
+
+% ===================================================================== %
+\section{Limitations}
+\label{sec:limitations}
+
+The vocaliser's supervision is the New-Testament-scoped SEDRA lexicon; we measure
+cross-register transfer to classical text but still train on one register. The
+classical gold itself has limits we make explicit: scribes point partially, so we
+score only pointed slots; one East-Syriac mark (U+073C) is genuinely ambiguous
+between a vowel and the \emph{rukkaka} dot; and a few archaic variant letters pass
+through the CAL map unconverted. The authorship cohort is small---about $11$
+authors at the higher token floor, from a single corpus---so absolute \auc{} values
+are cohort-specific and support relative comparison between representations rather
+than population estimates; the supervised head's seed sensitivity is a direct
+consequence of that scale, and its floor-$2000$ numbers are too noisy to rank. The
+neural models are intentionally small and run on a single corpus; they probe
+method under data scarcity, not an upper bound. Continued pretraining was tuned
+lightly and not pushed; a different adaptation budget might change the intrinsic
+numbers, though not the qualitative split between intrinsic and document-level
+effects.
+
+% ===================================================================== %
+\section{Conclusion}
+\label{sec:conclusion}
+
+We treated the problem of building neural representations for a language with too
+little text to pretrain on by injecting information from three other sources:
+structure, through a vocaliser that restores Syriac pointing as the pattern
+morpheme of a root-and-pattern system; transfer, through tokenizer-free and
+cross-script encoders; and the corpus's own latent vocalisation signal, which we
+turned into a classical gold set by deriving its mark-to-vowel mapping from data.
+The vocaliser generalises across register and to unseen skeletons; cross-script
+transfer through Hebrew outperforms both a byte encoder and a larger multilingual
+model whose tokenizer misses the script; and a supervised head gives the best
+authorship separation, within a seed range we report rather than a single number.
+The negative results---no gain from explicit factorisation, no authorship gain from
+continued pretraining---sharpen rather than weaken the account of where each kind of
+information helps. The code, evaluation harness, and gold-set construction are
+released, with SEDRA-derived data regenerated locally under its licence.
+
+% ===================================================================== %
+\section*{Reproducibility}
+All numbers are produced by a single driver (\texttt{neural/results.py}) that runs
+each experiment, writes a JSON manifest, and emits the table files used here, so no
+value is transcribed by hand; the off-the-shelf and intrinsic numbers are
+deterministic given the encoder, and the seed-sensitive AV-head numbers are
+reported as five-seed mean $\pm$ SD. Experiments run on a single Apple-silicon
+(MPS) device. The DSC \citep{digitalsyriaccorpus} and ETCBC corpora
+\citep{etcbcsyriac} are openly licensed; the SEDRA lexicon \citep{kiraz1994sedra}
+is licence-restricted, so we release the code that regenerates the derived data
+from a user-provided SEDRA source rather than the data, and cite Kiraz as required.
+
+% ===================================================================== %
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\end{document}
