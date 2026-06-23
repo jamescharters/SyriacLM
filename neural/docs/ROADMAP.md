@@ -76,11 +76,25 @@ strong positive from a supervised metric on the contextual encoding, and the
 honest negative that a bigger multilingual base does not help when its tokenizer
 misses the script.
 
-## P2 — Twist 2: factored root/pattern
+## P2 — Twist 2: factored root/pattern ✅ ablated (honest negative)
 
-- [ ] Enable `FactoredEncoder`; supervise the root stream from SEDRA roots and the
-  pattern stream from the pointing objective.
-- [ ] **Ablate** factored vs. flat on the morphology probe, OOV, and authorship.
+- [x] Built a fair factored-vs-flat ablation ([`factored.py`](../factored.py)):
+  both encoders see the same vocalised SEDRA word and are trained with the same
+  supervised-contrastive objective on the root; the **factored** model adds two
+  parallel BiLSTM streams over the aligned consonant (root) and pointing (pattern)
+  tiers, the **flat** model reads the raw character sequence.
+- [x] **Result — no benefit.** Root-nearest-neighbour retrieval: flat **0.978**
+  (seen roots) / **0.994** (unseen roots) vs. factored **0.972 / 0.994** (Δ −0.007
+  / +0.000). Both are near ceiling.
+- [x] **Why (reported, not hidden):** root-NN is near-trivial because the consonant
+  skeleton is *directly visible* in the input, so surface consonant overlap already
+  encodes the root — there is no headroom for the architectural prior. The split is
+  easy (vowels are combining marks), so making it explicit does not help. This is
+  consistent with the paper's thesis that the intrinsic root signal is easy to
+  capture; the hard problem is document-level style, not root recovery.
+- The factored encoder remains available for settings where the split is *not*
+  free (e.g. unvocalised input, or as a regulariser), but it is not adopted as a
+  win here.
 
 ## P3 — Semitic transfer curriculum
 

@@ -78,6 +78,7 @@ default at tens-of-millions of tokens; **continued pretraining** is the frame.
 | [`restoration.py`](restoration.py) | ✅ runnable (`--demo`) | `torch` (ships with the parent) |
 | [`sedra_build.py`](sedra_build.py) | ✅ runnable | stdlib + a user-provided SEDRA source (license-gated) |
 | [`vocalizer.py`](vocalizer.py) | ✅ runnable (`--demo`) | `torch` + the SEDRA table |
+| [`factored.py`](factored.py) | ✅ runnable (`--demo`) | `torch` + the SEDRA table |
 | [`canine_encoder.py`](canine_encoder.py) | ✅ runnable | `transformers` + a CANINE download |
 | [`canine_pretrain.py`](canine_pretrain.py) | ✅ runnable | `transformers` + `peft` + compute |
 | [`hf_encoder.py`](hf_encoder.py) | ✅ runnable | `transformers` + `sentencepiece` |
