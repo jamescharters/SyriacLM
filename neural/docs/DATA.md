@@ -10,7 +10,7 @@ constraints that shape what this sub-project can release.
 | **Digital Syriac Corpus** (`srophe/syriac-corpus`) | 632 classical authored TEI texts, 2.18M tokens | **Partly** (~56% of tokens carry vowel points) | CC BY 4.0 | Primary running-text corpus; also **classical vocalization gold** (see below) |
 | **ETCBC SyrNT** (`ETCBC/syrnt`) | Syriac NT, ~109k tokens, Text-Fabric morphology | No (consonantal running text) | MIT | Running text + morphology labels |
 | **ETCBC Peshitta** (`ETCBC/peshitta`) | Syriac OT, ~426k tokens | No (consonantal) | MIT | Running text (register/translation reference) |
-| **SEDRA 3** (`peshitta/sedrajs`; Beth Mardutho / G. Kiraz) | Vocalized lexicon: word/lexeme/root + full morphology | **Yes** (`vocalised` field) | **MIT *with restrictions*** | Twist 1/2 vocalization + root supervision |
+| **SEDRA 3** (`peshitta/sedrajs`; Beth Mardutho / G. Kiraz) — the openly-distributed text DB, *not* the current web-based SEDRA IV (2015, ~65k words) | Vocalized lexicon: word/lexeme/root + full morphology | **Yes** (`vocalised` field) | **MIT *with restrictions*** | Twist 1/2 vocalization + root supervision |
 | **CAL** (cal.huc.edu) | ~3M parsed Aramaic words, vocalized | Yes | Access-restricted (search UI) | Reference only, not bulk training |
 
 ## The data gate for Twist 1 — CLOSED

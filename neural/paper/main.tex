@@ -197,9 +197,14 @@ The DSC (the \texttt{srophe/syriac-corpus} TEI/XML release) provides $632$
 authored texts and $2.18$M tokens of classical prose and verse; it is our running
 text and, below, our classical vocalisation gold. The ETCBC Syriac New Testament
 and Peshitta \citep{etcbcsyriac} provide additional consonantal running text with
-morphological annotation. The SEDRA~3 lexicon \citep{kiraz1994sedra} provides
-$29{,}699$ word forms with explicit vocalisation, root, and morphology; it is the
-supervision for the vocaliser. SEDRA is distributed for academic use without
+morphological annotation. The vocaliser's supervision is the openly distributed
+text-database release of the Syriac Electronic Data Research Archive,
+\textbf{SEDRA~3} \citep{kiraz1994sedra}, which provides $29{,}699$ word forms with
+explicit vocalisation, root, and morphology. We use this release rather than the
+current web-based \textbf{SEDRA~IV} (a relational database and API, launched 2015,
+now $\sim$$65{,}000$ words; \citealp{sedraproject}) because SEDRA~3 is the version
+available as offline flat files and is scoped to the vocalised New-Testament
+vocabulary we need. SEDRA is distributed for academic use without
 redistribution of altered versions, so we ship the code that regenerates the
 derived data from a user-provided SEDRA source rather than the data itself, and we
 cite Kiraz as required.

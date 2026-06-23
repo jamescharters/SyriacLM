@@ -131,9 +131,13 @@ bootstrap. Neural restoration of damaged ancient text is established for Greek a
 
 **Corpora.** The DSC (`srophe/syriac-corpus`) provides 632 authored texts and 2.18M
 tokens of classical prose and verse. The ETCBC Syriac New Testament and Peshitta provide
-additional consonantal running text with morphology. The SEDRA 3 lexicon (Kiraz, 1994)
-provides 29,699 word forms with explicit vocalisation, root, and morphology; it is the
-vocaliser's supervision. SEDRA is distributed for academic use without redistribution of
+additional consonantal running text with morphology. The vocaliser's supervision is the
+openly distributed text-database release of the Syriac Electronic Data Research Archive,
+**SEDRA 3** (Kiraz, 1994), which provides 29,699 word forms with explicit vocalisation,
+root, and morphology. We use this release rather than the current web-based **SEDRA IV**
+(a relational database and API, launched 2015, now ~65,000 words) because SEDRA 3 is the
+version available as offline flat files and is scoped to the vocalised New-Testament
+vocabulary we need. SEDRA is distributed for academic use without redistribution of
 altered versions, so we ship the code that regenerates the derived data from a
 user-provided SEDRA source and cite Kiraz as required.
 
