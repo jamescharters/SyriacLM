@@ -261,15 +261,19 @@ if _TORCH:
         default = glob.most_common(1)[0][0]
         return {c: cnt.most_common(1)[0][0] for c, cnt in by_c.items()}, default
 
-    def cross_register_eval(res, max_eval=20000, seed=42):
+    def cross_register_eval(res, max_eval=20000, seed=42, harvested=None):
         """Evaluate the SEDRA-trained vocaliser on held-out *classical* DSC gold.
 
         The fair metric given DSC's partial pointing is **vowel accuracy on the
         slots the classical scribe actually pointed** (gold vowel present), split
         by whether the consonantal skeleton is in SEDRA's vocabulary (seen form)
         or out of it (the decisive cross-register generalisation).
+
+        ``harvested`` (the return of ``dsc_gold.harvest``) may be passed in to
+        avoid re-walking the corpus across repeated calls (e.g. multi-seed runs).
         """
-        harvested = dsc_gold.harvest()
+        if harvested is None:
+            harvested = dsc_gold.harvest()
         gold = harvested["gold"]
         maj, default = _sedra_consonant_vowel_majority()
         rng = np.random.default_rng(seed)

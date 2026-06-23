@@ -38,12 +38,15 @@ a passing leakage assertion; `sedra --selftest`, `morphology --selftest`,
   it doesn't transfer to authorship separation. The transfer win is the
   off-the-shelf encoder; the adaptation win is the intrinsic LM metric.
 - [x] **Supervised AV head on CANINE vectors** (the paper's leave-one-author-out
-  SupCon projection, reused read-only): centered AUC **0.991 [0.979, 0.999]** /
-  **0.916 [0.893, 1.000]** at floors 1000 / 2000 (author-cluster bootstrap, B=1000).
-  The floor-1000 lower bound (0.979) is **above** the FastText AV head (0.966) — the
-  strongest authorship separation in the project, and the clearest demonstration
-  that a learned metric on the contextual CANINE encoding beats raw cosine.
-  Run: `neural.canine_encoder --av-head`.
+  SupCon projection, reused read-only): over five seeds, centered AUC
+  **0.961 $\pm$ 0.030** (floor 1000) / **0.917 $\pm$ 0.099** (floor 2000). The AV
+  head lifts the off-the-shelf encoder (0.870 / 0.849) by ~0.09 at floor 1000 and
+  is the project's best authorship separation, comparable to the FastText AV head
+  (0.966). Two caveats matter: the projection trains on a tiny cohort (11 authors)
+  and is **nondeterministic across runs even at a fixed seed** (MPS), so the figure
+  is a seed mean $\pm$ SD, not a single value — an earlier single run read 0.991,
+  which the multi-seed sweep shows was an optimistic draw; and the floor-2000 split
+  is too noisy ($\pm$0.10) to headline. Run: `neural.results --run canine`.
 - [x] **Intrinsic LM gain isolated** (frozen linear-probe vs. LoRA, identical
   masked *pseudo* bits-per-byte scorer — bidirectional, so CANINE-variants-only,
   not vs. the autoregressive byte-LM): frozen **2.000** bpb / 0.307 acc → LoRA
@@ -123,13 +126,15 @@ misses the script.
   char-fallback multilingual (Glot500 **0.798**) < tokenizer-free byte
   (CANINE **0.870**) < shared-script Semitic transfer (Hebrew **0.888**).
 - [x] **AV head stacks on the transfer base** (`--transliterate hebrew --av-head`):
-  the supervised leave-one-author-out projection lifts the Hebrew-transfer vectors
-  to **0.965** [0.933, 0.987] / **0.881** [0.847, 0.993] (from 0.888 / 0.857, a
-  **+0.077** floor-1000 gain). So the AV head is a *general-purpose* booster, not a
-  CANINE-specific trick — though CANINE + AV head (0.991 / 0.916) still tops the
-  table, so the best overall pipeline is unchanged.
+  over five seeds, the supervised leave-one-author-out projection lifts the
+  Hebrew-transfer vectors to **0.946 $\pm$ 0.040** (floor 1000) / **0.924 $\pm$ 0.046**
+  (floor 2000), from 0.888 / 0.857. The AV head is therefore a general-purpose
+  booster rather than CANINE-specific, and on this cohort CANINE + AV head
+  (0.961 $\pm$ 0.030) and Hebrew + AV head overlap within their seed spread, so the
+  best pipeline is not separable here. (All AV-head figures are seed mean $\pm$ SD;
+  the projection is MPS-nondeterministic on the 11-author cohort.)
 - [ ] Extend to a full curriculum (Arabic too, Aramaic intermediate) and
-  back-translation off the biblical parallel texts (real Syriac target side).aea
+  back-translation off the biblical parallel texts (real Syriac target side).
 
 ## P4 — Twist 3: textual restoration (application) ✅ runnable, working
 

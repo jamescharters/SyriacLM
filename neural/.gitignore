@@ -21,6 +21,11 @@ data/
 sedra_cache/
 *.sedra.json
 
+# Results manifest is a regenerable cache (the single source of truth for paper
+# numbers is rebuilt by results.py; the rendered paper/tables/*.tex are committed,
+# mirroring how the parent commits tables but not paper_results.txt).
+paper/results.json
+
 # Python noise
 __pycache__/
 *.pyc

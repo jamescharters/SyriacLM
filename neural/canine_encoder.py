@@ -156,12 +156,15 @@ if _HF:
 
 
 def authorship_auc(wv, floors: list[int], normalize: bool = True,
-                   use_av_head: bool = False, seed: int = 42) -> list[dict]:
+                   use_av_head: bool = False, seed: int = 42,
+                   bootstrap: bool = True) -> list[dict]:
     """Compute centered same/cross-author AUC for CANINE on each token floor,
     using the paper's exact cohort and metric. With ``use_av_head`` a supervised
     leave-one-author-out projection (parent ``av_head``) is applied first, exactly
     as in the paper's bake-off, so the number is comparable to the FastText AV-head
-    row."""
+    row. ``bootstrap`` may be turned off to skip the per-run author-cluster CI
+    (e.g. when sweeping many seeds, where the seed spread is the variability
+    measure)."""
     data_dir = ensure_corpus(DEFAULT_CACHE)
     genuine = load_texts(data_dir, normalize,
                          exclude_ids=set(parse_ids(DISPUTED_DEFAULT)),
@@ -188,7 +191,7 @@ def authorship_auc(wv, floors: list[int], normalize: bool = True,
             M = av_head.leave_author_out_projection(M, labels, seed=seed)
         auc = separation(remove_common_component(M), labels)["auc"]
         ci = None
-        if use_av_head and _BOOT:
+        if use_av_head and bootstrap and _BOOT:
             # author-cluster bootstrap CI -- important context for the surprising
             # AV-head numbers (and identical machinery to the paper's bake-off).
             _, lo, hi = bootstrap_auc_ci(M, labels, B=1000, seed=seed)
