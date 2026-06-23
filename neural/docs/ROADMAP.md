@@ -96,10 +96,23 @@ misses the script.
   free (e.g. unvocalised input, or as a regulariser), but it is not adopted as a
   win here.
 
-## P3 — Semitic transfer curriculum
+## P3 — Semitic transfer curriculum ✅ first transfer win
 
-- [ ] Hebrew/Arabic → Aramaic → Syriac via transliteration; PEFT adapters.
-- [ ] Back-translation off the biblical parallel texts (real Syriac target side).
+- [x] **Hebrew transfer via transliteration** ([`hf_encoder.py`](../hf_encoder.py)
+  `--transliterate hebrew`): map Syriac into Hebrew script (a ~1:1 abjad
+  correspondence, [`transliterate.py`](../transliterate.py)) and encode with a
+  Hebrew-pretrained model (AlephBERT). Authorship AUC **0.888 / 0.857** at floors
+  1000 / 2000 — **above** off-the-shelf CANINE-c (0.870 / 0.849), the first transfer
+  model to beat it.
+- [x] **Why it works (tokenizer-confirmed):** AlephBERT segments transliterated
+  Syriac into **2.51 real subwords/word** (96.5% covered), vs. Glot500's character
+  fallback (7.05/word). A related-language model *does* carry usable Semitic
+  morphology once the scripts are aligned. This gives a clean three-way story:
+  char-fallback multilingual (Glot500 **0.798**) < tokenizer-free byte
+  (CANINE **0.870**) < shared-script Semitic transfer (Hebrew **0.888**).
+- [ ] Stack the supervised AV head on the Hebrew-transfer vectors; extend to a
+  full curriculum (Arabic too, Aramaic intermediate) and back-translation off the
+  biblical parallel texts (real Syriac target side).
 
 ## P4 — Twist 3: textual restoration (application) ✅ runnable, working
 

@@ -42,6 +42,22 @@ from stylometry import load_texts, filter_min_texts, filter_min_tokens
 from authorship import parse_ids
 # reuse the exact scoring pipeline (cohort + centering + AUC + AV head + CI)
 from neural.canine_encoder import authorship_auc, DISPUTED_DEFAULT
+from neural.transliterate import syriac_to_hebrew, syriac_to_latin
+
+# Cross-script preprocessors for the Semitic-transfer test (P3): a Hebrew-
+# pretrained model only shares morphology with Syriac if Syriac is first mapped
+# into Hebrew letters (the two are ~1:1 abjads). ``none`` feeds the native script.
+PREPROCESSORS = {
+    "none": None,
+    "hebrew": lambda s: syriac_to_hebrew(s),
+    "latin": lambda s: syriac_to_latin(s),
+}
+# Sensible default base per script (overridable with --model).
+DEFAULT_MODEL_FOR = {
+    "none": "cis-lmu/glot500-base",
+    "hebrew": "onlplab/alephbert-base",   # Hebrew BERT (WordPiece)
+    "latin": "cis-lmu/glot500-base",
+}
 
 try:
     import torch
@@ -129,12 +145,12 @@ def _device():
     return torch.device("cpu")
 
 
-def tokenizer_coverage(tokenizer, forms, sample: int = 3000) -> dict:
+def tokenizer_coverage(tokenizer, forms, sample: int = 3000, preprocess=None) -> dict:
     """Fraction of Syriac forms that tokenize to real (non-``<unk>``) subwords.
 
-    ``frac_all_unk`` near 1 means the base does not cover the Syriac *script* at
-    all (authorship numbers would be meaningless); a low ``frac_with_unk`` and a
-    moderate ``mean_subwords`` means genuine coverage.
+    ``frac_all_unk`` near 1 means the base does not cover the (possibly
+    transliterated) script at all (authorship numbers would be meaningless); a low
+    ``frac_with_unk`` and a moderate ``mean_subwords`` means genuine coverage.
     """
     unk = tokenizer.unk_token_id
     forms = list(forms)
@@ -143,7 +159,8 @@ def tokenizer_coverage(tokenizer, forms, sample: int = 3000) -> dict:
         forms = [forms[i] for i in rng.choice(len(forms), size=sample, replace=False)]
     n_with_unk = n_all_unk = total_sub = counted = 0
     for f in forms:
-        ids = tokenizer(f, add_special_tokens=False)["input_ids"]
+        text = preprocess(f) if preprocess else f
+        ids = tokenizer(text, add_special_tokens=False)["input_ids"]
         if not ids:
             continue
         counted += 1
@@ -172,12 +189,13 @@ if _HF:
         """
 
         def __init__(self, model, tokenizer, device, batch_size: int = 64,
-                     max_length: int = 64):
+                     max_length: int = 64, preprocess=None):
             self.model = model
             self.tok = tokenizer
             self.device = device
             self.batch_size = batch_size
             self.max_length = max_length
+            self.preprocess = preprocess        # e.g. Syriac -> Hebrew script
             self.vector_size = int(model.config.hidden_size)
             self._cache: dict[str, np.ndarray] = {}
 
@@ -185,7 +203,10 @@ if _HF:
             return True  # the subword tokenizer always yields *some* ids
 
         def _encode_batch(self, forms: list[str]) -> None:
-            enc = self.tok(forms, return_tensors="pt", padding=True,
+            # cache stays keyed by the original Syriac form; only the text the
+            # model sees is transliterated, so the scoring pipeline is unchanged.
+            texts = [self.preprocess(f) for f in forms] if self.preprocess else forms
+            enc = self.tok(texts, return_tensors="pt", padding=True,
                            truncation=True, max_length=self.max_length)
             enc = {k: v.to(self.device) for k, v in enc.items()}
             with torch.no_grad():
@@ -221,8 +242,11 @@ def _all_forms(normalize: bool) -> list[str]:
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--model", default="cis-lmu/glot500-base",
-                    help="any HuggingFace encoder id (default: Glot500-m)")
+    ap.add_argument("--model", default=None,
+                    help="any HuggingFace encoder id (default depends on --transliterate)")
+    ap.add_argument("--transliterate", choices=sorted(PREPROCESSORS), default="none",
+                    help="map Syriac into another script before tokenizing "
+                         "(hebrew tests Semitic transfer via a Hebrew model)")
     ap.add_argument("--floors", default="1000,2000")
     ap.add_argument("--av-head", action="store_true",
                     help="apply the supervised leave-one-author-out AV head")
@@ -238,13 +262,17 @@ def main(argv: list[str] | None = None) -> int:
               file=sys.stderr)
         return 2
 
+    model_id = args.model or DEFAULT_MODEL_FOR[args.transliterate]
+    preprocess = PREPROCESSORS[args.transliterate]
     normalize = not args.no_normalize
-    print(f"loading tokenizer for {args.model} ...", file=sys.stderr)
-    tok = _load_tokenizer(args.model)
+    print(f"loading tokenizer for {model_id} "
+          f"(script: {args.transliterate}) ...", file=sys.stderr)
+    tok = _load_tokenizer(model_id)
 
     forms = _all_forms(normalize)
-    cov = tokenizer_coverage(tok, forms)
-    print(f"\n=== Syriac tokenizer coverage: {args.model} ===")
+    cov = tokenizer_coverage(tok, forms, preprocess=preprocess)
+    script_note = "" if args.transliterate == "none" else f" via {args.transliterate} script"
+    print(f"\n=== tokenizer coverage: {model_id}{script_note} ===")
     print(f"  forms checked         : {cov['forms_checked']:,}")
     print(f"  mean subwords / form  : {cov['mean_subwords_per_form']}")
     print(f"  forms with any <unk>  : {cov['frac_with_any_unk']:.1%}")
@@ -261,8 +289,8 @@ def main(argv: list[str] | None = None) -> int:
         return 0
 
     device = _device()
-    print(f"\nloading {args.model} on {device} ...", file=sys.stderr)
-    model = AutoModel.from_pretrained(args.model).to(device)
+    print(f"\nloading {model_id} on {device} ...", file=sys.stderr)
+    model = AutoModel.from_pretrained(model_id).to(device)
     model.eval()
     # Guard the SP-shim id scheme: the model's embedding table must cover every id
     # the shim can emit (a wrong fairseq offset would otherwise index garbage).
@@ -275,12 +303,12 @@ def main(argv: list[str] | None = None) -> int:
         else:
             print(f"  SP-shim id scheme verified (model vocab {mvocab:,} ~ "
                   f"shim {tok.vocab_size:,}).", file=sys.stderr)
-    wv = HFWordVectors(model, tok, device)
+    wv = HFWordVectors(model, tok, device, preprocess=preprocess)
 
     floors = [int(x) for x in args.floors.split(",") if x.strip()]
     rows = authorship_auc(wv, floors, normalize=normalize,
                           use_av_head=args.av_head, seed=args.seed)
-    tag = f"{args.model}" + (" + AV head (LOAO)" if args.av_head else "")
+    tag = f"{model_id}{script_note}" + (" + AV head (LOAO)" if args.av_head else "")
     print(f"\n=== authorship separation AUC: {tag} ===")
     print("(centered cosine; same cohort + metric as paper Table 6)")
     has_ci = any(r.get("ci") for r in rows)
