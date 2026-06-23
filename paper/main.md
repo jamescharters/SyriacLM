@@ -1,0 +1,434 @@
+# Character *n*-gram Embeddings for Classical Syriac: Subword Modeling of a Templatic Low-Resource Language, with an Application to Authorship Analysis
+
+**Anonymous** · *TODO: affiliation*  
+
+> **Note.** This is a Markdown rendering of the paper for easy reading. The
+> canonical, citable source is [`paper/main.tex`](main.tex) (XeLaTeX). All numbers
+> are produced by [`../paper_experiments.py`](../paper_experiments.py); the neural
+> baselines by [`../nn_baselines.py`](../nn_baselines.py). Syriac forms are shown
+> in script where a Syriac font is available, always followed by transliteration
+> and an English gloss.
+
+---
+
+## Abstract
+
+Classical Syriac is a major literary language of late antiquity that remains
+severely under-resourced in NLP, yet it raises rich, unresolved questions of
+authorship. We train a character *n*-gram **FastText** model on the Digital
+Syriac Corpus (632 texts; 2.18M tokens) and argue that subword representations
+are the appropriate inductive bias for a templatic, root-and-pattern language
+whose vocabulary is 50% *hapax legomena*. Intrinsically, the embeddings are
+morphologically coherent — forms sharing a triconsonantal root are closer than
+semantically adjacent forms built on different roots — and a subword ablation
+against **word2vec** shows the gap is largest for rare and out-of-vocabulary
+forms. We then apply the embeddings to authorship: averaged document vectors
+separate same- from cross-author text pairs with AUC up to **0.90**
+(author-cluster bootstrap 95% CIs; stable across five seeds, 0.886 ± 0.007),
+validated by a negative control in which a single author split in two yields
+chance AUC (≈ 0.51). We find that mean-centering to remove a dominant common
+component is essential (it lifts AUC from 0.73 to 0.89), compare against Burrows's
+Delta and against from-scratch byte- and character-level neural language models,
+quantify a length-dependent genre confound and show the signal survives
+genre-matched testing (0.900 → 0.883), and apply the pipeline to three disputed or
+pseudonymous works with historically sensible results. Notably, the subword
+advantage is largest *intrinsically* — on rare and out-of-vocabulary forms — while
+at the document level a plain **word2vec** is competitive. Code, seeds, and
+trained models are released.
+
+---
+
+## 1. Introduction
+
+Classical Syriac — a dialect of Aramaic and a principal language of eastern
+Christianity — preserves a vast literature, much of it anonymous, pseudonymous, or
+of contested authorship. Computational stylometry could help, but Syriac is
+low-resource: there is no large pretrained language model, limited annotated
+data, and the writing system carries optional diacritics that fragment surface
+forms.
+
+Syriac morphology is *templatic* (root-and-pattern): most words are built by
+interleaving a consonantal root, typically three consonants, with vocalic and
+affixal patterns. As a result, forms that share a root — e.g. ܡܠܟܐ (*malkā*,
+'king') and ܡܠܟܘܬܐ (*malkūtā*, 'kingdom') — are semantically and morphologically
+related but orthographically distinct. This, together with heavy inflection and a
+long tail of rare forms, motivates a *subword* model: character *n*-grams let
+related forms share parameters and let unseen forms receive a vector at all.
+
+This paper makes a dual contribution — a representation-learning study and a
+digital-humanities application.
+
+**Contributions.**
+
+1. A released character *n*-gram **FastText** model for Classical Syriac (2.18M
+   tokens), with `min_count=1` so that every form, including the 50% of the
+   vocabulary that is hapax, receives a representation (§4).
+2. Intrinsic validation: a morphological-coherence probe and a subword ablation
+   against **word2vec**, showing the subword advantage grows for rare forms, plus
+   an out-of-vocabulary generalization test (§6).
+3. A representation bake-off on identical data and evaluation — char *n*-gram
+   **FastText** vs. **word2vec** vs. Burrows's Delta vs. a from-scratch
+   byte-level recurrent LM vs. a tiny character Transformer (§7).
+4. An embedding-geometry finding: averaged document vectors are strongly
+   anisotropic, and label-free common-component removal is necessary for the
+   authorship signal to emerge — it lifts AUC from 0.73 to 0.89 (§4, §7).
+5. A robust same-/cross-author signal (centered AUC up to 0.90, bootstrap CIs,
+   multi-seed) validated by a negative control (§7).
+6. A quantified, length-dependent genre confound, and evidence that the
+   authorship signal survives genre-matched testing (§7).
+7. Attribution of three disputed/pseudonymous works with historically sensible
+   outcomes (§7).
+
+---
+
+## 2. Related Work
+
+**Subword and character embeddings.** FastText represents a word as a bag of
+character *n*-grams (Bojanowski et al. 2017), extending word2vec (Mikolov et al.
+2013) to compose vectors for unseen forms — attractive for morphologically rich
+and low-resource languages. Character-aware neural models (Kim et al. 2016) and
+token-free byte models such as ByT5 (Xue et al. 2022) pursue the same goal with
+neural architectures (Vaswani et al. 2017).
+
+**Embedding geometry.** Averaged embeddings are anisotropic: they share a
+dominant common direction that inflates cosine similarities. "All-but-the-top"
+postprocessing (Mu & Viswanath 2018) and analyses of contextual geometry
+(Ethayarajh 2019) motivate the mean-centering we apply.
+
+**Stylometry and authorship.** Burrows's Delta (Burrows 2002), with its
+geometric and probabilistic interpretations (Argamon 2008; Evert et al. 2017), is
+the standard baseline; function words are classic markers (Kestemont 2014), and
+the field is surveyed in Stamatatos (2009). Topic can confound authorship
+(Seroussi et al. 2014); we test an analogous genre confound. We assess
+significance with the cluster bootstrap (Efron & Tibshirani 1986).
+
+**Syriac and digital classics.** For the language and its study see Brock (2006)
+and Butts (2019); our data is the Digital Syriac Corpus (Syriaca.org). Tooling:
+gensim (Řehůřek & Sojka 2010) and PyTorch (Paszke et al. 2019).
+
+---
+
+## 3. Corpus and Preprocessing
+
+We use the Digital Syriac Corpus (the `srophe/syriac-corpus` TEI/XML release):
+632 texts, one author credited per text for 631 of them. Table 1 summarizes the
+corpus. The most striking property for a representation model is the vocabulary's
+long tail: half of all distinct forms occur exactly once.
+
+**Table 1. Corpus statistics** (after preprocessing; normalized = diacritics
+stripped).
+
+| Statistic | Value |
+|---|---:|
+| TEI files parsed | 632 |
+| Single-author texts | 631 |
+| Distinct authors | 45 |
+| &nbsp;&nbsp;authors with ≥ 2 texts | 22 |
+| Syriac word tokens | 2,179,065 |
+| Surface word forms | 371,922 |
+| Forms (diacritics stripped) | 141,595 |
+| Hapax legomena (*n* = 1) | 70,870 (50.0%) |
+| Rare forms (*n* ≤ 5) | 111,911 (79.0%) |
+
+**Tokenization.** We extract maximal runs of Syriac letters (U+0710–U+074F) and
+combining marks, requiring at least one letter, and discarding invisible joiners
+and bidi controls. By default we *normalize* by stripping combining diacritics
+(seyame, vowel points), which aligns inflected forms by their consonantal
+skeleton; we report this setting throughout.
+
+**Metadata caveats.** Genre is not encoded in these headers; we recover an
+approximate genre label from the series title (§7). Texts marked *Anonymous*
+collapse to a single non-author and are excluded from author-level analyses.
+Authors named without a `syriaca.org` identifier are merged into their
+URI-identified counterpart by name.
+
+---
+
+## 4. Model and Representations
+
+**FastText.** We train a skip-gram FastText model: 100 dimensions, character
+*n*-grams of length 2–5, $2\times10^{5}$ hash buckets, window 5, 10 epochs, and
+crucially `min_count=1` so every form is in the vocabulary. Each TEI text is one
+"sentence." The rationale is templatic morphology (§1): shared character
+*n*-grams tie together forms of a common root, and the same mechanism synthesizes
+vectors for forms unseen in training.
+
+**Document and word vectors.** A document is the frequency-weighted mean of its
+word vectors. For stylometry we also consider a *function-word* variant
+restricted to the 200 most frequent forms, the topic-independent markers of
+classical stylometry.
+
+**Anisotropy and mean-centering.** Averaged document vectors share a large common
+component: raw cosine similarities cluster near 1 even across authors. We
+therefore subtract the corpus-mean document vector (a label-free, unsupervised
+step) before computing cosines. §7 shows this is essential rather than cosmetic.
+
+**Neural baselines.** As architectural contrasts we train two tiny causal
+language models from scratch on the same corpus: a byte-level LSTM (**byte-LM**)
+over UTF-8 bytes, and a small character Transformer (**char-Transformer**) over
+Unicode codepoints. Both yield a document vector by mean-pooling final-layer
+hidden states, and a word vector by the same pooling over an isolated form, so
+they enter the same intrinsic and downstream evaluations. On 2.18M tokens these
+models are deliberately small and data-limited; they probe architecture, not
+scale.
+
+---
+
+## 5. Stylometry Methods
+
+**Separation AUC.** Given document vectors and author labels, we score every text
+pair by cosine similarity and report
+
+$$\mathrm{AUC} = \Pr(\text{same-author pair more similar than cross-author pair}),$$
+
+computed via the Mann–Whitney statistic; 0.5 is chance. We also report Cohen's
+*d* between the two pair-similarity distributions.
+
+**Burrows's Delta.** For each text we form relative frequencies of the top-*k*
+most frequent corpus forms, *z*-score each feature across the corpus, and take the
+mean absolute *z*-difference (Manhattan distance) as the Delta distance.
+
+**Attribution.** We attribute a text to the nearest author *centroid* — cosine
+for the embeddings, mean Delta for Delta — under strict leave-one-out: the
+held-out text is removed from its own author's centroid before scoring. We report
+top-1 and top-3 accuracy.
+
+**Uncertainty.** Because text pairs are dependent, we bootstrap over *authors*
+(clusters): resampling author groups with replacement ($B=1000$) and recomputing
+AUC gives percentile 95% confidence intervals. We additionally retrain FastText
+under five seeds to report variance.
+
+---
+
+## 6. Results: The Model
+
+**Morphological coherence and the subword ablation.** Table 2 reports, for a
+fixed set of 8 corpus-verified root families (49 related pairs), the mean cosine
+between root-sharing forms and a frequency-matched control on a different root.
+FastText shows the largest margin (+0.32 frequent, +0.29 rare). The decisive
+contrast is with the no-subword word2vec baseline, whose margin is smaller and
+*degrades for rare forms* (+0.125 → +0.076; accuracy 0.85 → 0.77), while FastText
+stays robust (0.96 → 0.95). The neural models rank related above control but with
+cosines compressed by anisotropy.
+
+**Table 2. Morphological coherence by frequency band.** Mean cosine between
+root-sharing forms (*related*) vs. a frequency-matched form on a different root
+(*control*); *acc* is the fraction of pairs with related > control.
+
+| Representation | Band | *n* | related | control | margin | acc |
+|---|---|---:|---:|---:|---:|---:|
+| FastText (char *n*-gram) | freq ≥ 100 | 27 | 0.601 | 0.284 | **+0.317** | 0.96 |
+| FastText (char *n*-gram) | rare < 100 | 22 | 0.640 | 0.353 | **+0.287** | 0.95 |
+| word2vec (no subword) | freq ≥ 100 | 27 | 0.490 | 0.365 | +0.125 | 0.85 |
+| word2vec (no subword) | rare < 100 | 22 | 0.498 | 0.422 | +0.076 | 0.77 |
+| byte-LM | freq ≥ 100 | 27 | 0.988 | 0.967 | +0.021 | 0.93 |
+| byte-LM | rare < 100 | 22 | 0.992 | 0.968 | +0.025 | 1.00 |
+| char-Transformer | freq ≥ 100 | 27 | 0.916 | 0.790 | +0.126 | 0.96 |
+| char-Transformer | rare < 100 | 22 | 0.936 | 0.774 | +0.162 | 1.00 |
+
+**Out-of-vocabulary generalization.** With models trained on a 90% file split,
+9,023 forms (23.3% of the held-out vocabulary) are truly unseen. FastText
+synthesizes a vector for *every* one from its character *n*-grams (word2vec:
+none), and for a 300-form sample the nearest in-vocabulary neighbour shares the
+three-consonant root prefix 56% of the time (Table 3) — the synthesized vectors
+are morphologically coherent.
+
+**Table 3. Out-of-vocabulary generalization.**
+
+| Representation | OOV forms vectorized | coverage | NN shares root prefix |
+|---|---:|---:|---:|
+| FastText (char *n*-gram) | 9,023 / 9,023 | 100% | 169 / 300 (56%) |
+| word2vec (no subword) | 0 / 9,023 | 0% | n/a |
+
+**Hyperparameter sensitivity.** The morphology margin and downstream AUC are
+stable across *n*-gram range, dimension, and skip-gram vs. CBOW (Table 4; AUC in
+[0.888, 0.916]), so the results are not an artefact of a particular setting.
+
+**Table 4. FastText hyperparameter sensitivity** (restricted cohort; base:
+dim = 100, *n*-grams 2–5, skip-gram).
+
+| Configuration | morph. cosine | centered AUC |
+|---|---:|---:|
+| *n*-grams 2–4 | 0.633 | 0.896 |
+| *n*-grams 2–5 (default) | 0.618 | 0.898 |
+| *n*-grams 3–6 | 0.606 | 0.916 |
+| dim = 50 | 0.635 | 0.888 |
+| dim = 200 | 0.611 | 0.901 |
+| CBOW (sg = 0) | 0.585 | 0.910 |
+
+**Neural LM quality.** Table 5 confirms the from-scratch LMs learn Syriac:
+held-out bits-per-byte of 0.86 (byte-LM) and 0.82 (char-Transformer), far below
+the 8-bpb uniform-byte baseline.
+
+**Table 5. Neural language-model quality** (single seed, 2000 steps,
+Apple-Silicon MPS). Perplexity is per modeling unit (byte vs. character).
+
+| Model | Params | bits/byte | perplexity | train (s) |
+|---|---:|---:|---:|---:|
+| byte-LM (LSTM, UTF-8 bytes) | 1,020,672 | 0.861 | 1.8 | 102 |
+| char-Transformer (codepoints) | 289,824 | 0.823 | 2.8 | 107 |
+
+---
+
+## 7. Results: Authorship
+
+**Same- vs. cross-author separation.** Table 6 reports AUC with author-cluster
+bootstrap CIs for the full and restricted cohorts, all-words and function-words.
+Mean-centered AUC reaches 0.885 (full) and 0.900 (restricted, all words); the raw
+(uncentered) figures are far lower (e.g. 0.73 vs. 0.89 full), demonstrating that
+the anisotropic common component must be removed. Across five training seeds the
+restricted AUC is 0.886 ± 0.007, so the signal is stable.
+
+**Table 6a. Same/cross-author separation AUC** (mean-centered cosine;
+author-cluster bootstrap 95% CI, *B* = 1000). AUC = 0.5 is chance.
+
+| Cohort | Features | AUC | 95% CI |
+|---|---|---:|---|
+| Full (≥ 2 texts; 20 authors, 494 texts) | all words | 0.885 | [0.791, 0.961] |
+| Full | function words | 0.840 | [0.758, 0.942] |
+| Restricted (≥ 3 texts, ≥ 2000 tok; 11 authors, 201 texts) | all words | 0.900 | [0.830, 0.950] |
+| Restricted | function words | 0.890 | [0.838, 0.952] |
+
+**Table 6b. Variation across five FastText seeds** (all words, centered).
+
+| Cohort | mean ± SD AUC | min | max |
+|---|---:|---:|---:|
+| Full | 0.874 ± 0.006 | 0.870 | 0.885 |
+| Restricted | 0.886 ± 0.007 | 0.880 | 0.900 |
+
+A negative control that splits one author into two pseudo-authors gives mean AUC
+≈ 0.51 (chance). Raw (uncentered) cosines yield far lower AUC (e.g. 0.73 vs. 0.83
+full, all words), demonstrating the necessity of removing the anisotropic common
+component.
+
+**Negative control.** Splitting a single author (Ephrem) into two pseudo-authors
+over 20 random halves yields mean AUC ≈ 0.51: the pipeline finds no boundary where
+there is none, so the cross-author signal is genuine.
+
+**Representation bake-off.** Table 7 compares all five representations on AUC and
+attribution. The count-based methods are strongest and statistically comparable —
+word2vec (0.946), FastText (0.915), and Delta (0.907) at the 1000-token floor —
+with overlapping CIs; document-level mean pooling washes out FastText's subword
+advantage, which is intrinsic rather than downstream. The tiny from-scratch
+neural LMs are data-limited, the char-Transformer (0.845) ahead of the byte-LM
+(0.762).
+
+**Table 7. Representation bake-off.** Centered cosine AUC (author-cluster
+bootstrap 95% CI) and leave-one-out nearest-centroid attribution (11 authors).
+
+| Floor | Representation | AUC | 95% CI | top-1 | top-3 |
+|---|---|---:|---|---:|---:|
+| ≥ 1000 tok | FastText (char *n*-gram) | 0.915 | [0.866, 0.956] | 0.930 | 0.973 |
+| ≥ 1000 tok | word2vec | **0.946** | [0.873, 0.977] | 0.965 | 0.988 |
+| ≥ 1000 tok | byte-LM | 0.762 | [0.695, 0.853] | 0.680 | 0.855 |
+| ≥ 1000 tok | char-Transformer | 0.845 | [0.791, 0.925] | 0.812 | 0.961 |
+| ≥ 1000 tok | Burrows's Delta (MFW 100) | 0.907 | — | 0.957 | 0.992 |
+| ≥ 1000 tok | Burrows's Delta (MFW 200) | 0.898 | — | 0.969 | 0.988 |
+| ≥ 2000 tok | FastText (char *n*-gram) | 0.900 | [0.830, 0.950] | 0.930 | 0.965 |
+| ≥ 2000 tok | word2vec | **0.938** | [0.842, 0.976] | 0.975 | 0.990 |
+| ≥ 2000 tok | byte-LM | 0.763 | [0.696, 0.866] | 0.721 | 0.871 |
+| ≥ 2000 tok | char-Transformer | 0.819 | [0.789, 0.900] | 0.836 | 0.960 |
+| ≥ 2000 tok | Burrows's Delta (MFW 100) | 0.940 | — | 0.970 | 0.985 |
+| ≥ 2000 tok | Burrows's Delta (MFW 200) | 0.924 | — | 0.975 | 0.985 |
+
+**Genre confound.** Within Ephrem, hymns vs. prose separate weakly when short
+hymns dominate but strongly at matched length (AUC 0.59 → 0.86); genre/register is
+thus a real confound. Yet restricting cross-author comparisons to same-genre pairs
+barely lowers separation (Table 8; 0.900 → 0.883), so the authorship signal is not
+merely a genre effect.
+
+**Table 8. Genre-matched cross-author separation** (restricted cohort). Genre
+classifier coverage 60%; labels: *mēmrē* 106, prose 9, letter 4, *madrāšē* 1,
+other 81.
+
+| Cross-author pairs | AUC | same pairs | cross pairs |
+|---|---:|---:|---:|
+| Unmatched (all genres) | 0.900 | 3,872 | 16,228 |
+| Genre-matched (same genre) | 0.883 | 3,645 | 5,202 |
+
+**Disputed texts.** Table 9 applies the attributor (leave-one-out top-1 0.93 on
+known authors) to three held-out cases. The letter transmitted under Ephrem's name
+ranks him *last* of eleven and at the 0th percentile of his genuine texts; the
+Pseudo-Clementines cluster with translated works (Paul, Eusebius) rather than with
+each other; and the Chronicle of Zuqnin is nearest Eusebius, a historiographic
+register.
+
+**Table 9. Attribution of held-out disputed texts** against known-author
+centroids.
+
+| Text (files) | Tokens | Nearest known authors (cosine) / verdict |
+|---|---:|---|
+| Letter to Mar Papa, under Ephrem's name (690) | 1,126 | Paul 0.48, Aphrahat 0.44, Eusebius 0.36; Ephrem ranks **last (11/11)**, 0th percentile of his genuine texts ⇒ *not* Ephrem. |
+| Pseudo-Clementines (219–227) | 1.7k–13k | Per text nearest Paul / Eusebius (other Greek→Syriac translations); group cohesion 0.70 < best external 0.78 ⇒ translationese. |
+| Chronicle of Zuqnin, "Pseudo-Dionysius" (519) | 25,395 | Eusebius 0.75, Dionysius bar Ṣalibi 0.57, Aphrahat 0.56 ⇒ historiographic register. |
+
+---
+
+## 8. Discussion
+
+The results separate two questions that are often conflated. *Where does the
+subword inductive bias help?* Intrinsically and on the long tail: FastText's
+morphological margin is largest for rare forms, and it alone assigns coherent
+vectors to the 23% of held-out forms that are out-of-vocabulary. *What wins the
+document-level stylometry task?* Here a plain word2vec is competitive with, even
+slightly ahead of, FastText: averaging hundreds of word vectors per document
+washes out the subword detail, and frequency-profile methods (Delta) remain
+strong. We report this honestly rather than overclaiming for subword embeddings.
+The authorship signal itself is genuine — it passes a negative control and
+survives genre matching — and reflects style rather than topic alone. The
+Pseudo-Clementine result is a reminder that translated texts carry the
+translator's, not the named author's, fingerprint. Finally, the tiny
+from-scratch neural LMs trail the count-based methods: on 2.18M tokens they are
+data-starved, which is itself the low-resource condition this language presents.
+
+---
+
+## 9. Limitations
+
+A single corpus and a small author pool (11–13 in the restricted cohort); the
+disputed-text studies are illustrative, without expert-adjudicated gold labels;
+the neural baselines are tiny and from-scratch (no large pretrained Syriac LM
+exists), so they probe architecture under data scarcity, not an upper bound; and
+the genre classifier is an approximate series-title heuristic.
+
+---
+
+## 10. Conclusion
+
+We presented a character *n*-gram FastText model for Classical Syriac and a
+stylometric study built on it. The subword bias is well suited to a templatic,
+hapax-heavy, low-resource language — most clearly on rare and unseen forms — and
+the resulting document vectors carry a robust, controlled authorship signal that
+is competitive with Burrows's Delta and that yields historically sensible
+readings of disputed texts. Future work includes per-stanza representations for
+short verse, supervised authorship verification, larger pretrained byte-level
+models, and further disputed dossiers.
+
+**Reproducibility.** All experiments are seeded and driven by released scripts
+(`fasttext_model.py`, `stylometry.py`, `authorship.py`, `nn_baselines.py`,
+`paper_experiments.py`); the corpus is CC BY 4.0 (Syriaca.org); trained models are
+released.
+
+---
+
+## References
+
+- Argamon, S. (2008). Interpreting Burrows's Delta: Geometric and probabilistic foundations. *Literary and Linguistic Computing* 23(2), 131–147.
+- Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). Enriching word vectors with subword information. *TACL* 5, 135–146.
+- Brock, S. P. (2006). *An Introduction to Syriac Studies.* Gorgias Press.
+- Burrows, J. (2002). 'Delta': a measure of stylistic difference and a guide to likely authorship. *Literary and Linguistic Computing* 17(3), 267–287.
+- Butts, A. M. (2019). The Classical Syriac language. In D. King (ed.), *The Syriac World*, 222–242. Routledge.
+- Efron, B., & Tibshirani, R. (1986). Bootstrap methods for standard errors, confidence intervals, and other measures of statistical accuracy. *Statistical Science* 1(1), 54–75.
+- Ethayarajh, K. (2019). How contextual are contextualized word representations? *EMNLP-IJCNLP*, 55–65.
+- Evert, S., Proisl, T., Jannidis, F., Reger, I., Pielström, S., Schöch, C., & Vitt, T. (2017). Understanding and explaining Delta measures for authorship attribution. *Digital Scholarship in the Humanities* 32(suppl. 2), ii4–ii16.
+- Kestemont, M. (2014). Function words in authorship attribution: From black magic to theory? *CLfL*, 59–66.
+- Kim, Y., Jernite, Y., Sontag, D., & Rush, A. M. (2016). Character-aware neural language models. *AAAI*.
+- Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). Distributed representations of words and phrases and their compositionality. *NeurIPS* 26.
+- Mu, J., & Viswanath, P. (2018). All-but-the-top: Simple and effective postprocessing for word representations. *ICLR*.
+- Paszke, A., Gross, S., Massa, F., et al. (2019). PyTorch: An imperative style, high-performance deep learning library. *NeurIPS* 32.
+- Řehůřek, R., & Sojka, P. (2010). Software framework for topic modelling with large corpora. *LREC Workshop on New Challenges for NLP Frameworks*, 45–50.
+- Seroussi, Y., Zukerman, I., & Bohnert, F. (2014). Authorship attribution with topic models. *Computational Linguistics* 40(2), 269–310.
+- Stamatatos, E. (2009). A survey of modern authorship attribution methods. *JASIST* 60(3), 538–556.
+- Syriaca.org. *The Digital Syriac Corpus.* https://syriaccorpus.org/ (srophe/syriac-corpus; accessed 2026).
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. *NeurIPS* 30.
+- Xue, L., Barua, A., Constant, N., Al-Rfou, R., Narang, S., Kale, M., Roberts, A., & Raffel, C. (2022). ByT5: Towards a token-free future with pre-trained byte-to-byte models. *TACL* 10, 291–306.

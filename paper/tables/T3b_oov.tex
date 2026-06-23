@@ -1,0 +1,22 @@
+% T3b: Out-of-vocabulary generalization (paper_experiments.py, analysis "oov")
+% Models trained on a 90% file split; OOV = forms appearing only in the held-out 10%.
+\begin{table}[t]
+  \centering
+  \begin{tabular}{lccc}
+    \toprule
+    \textbf{Representation} & \textbf{OOV forms vectorized} & \textbf{coverage}
+    & \textbf{NN shares root prefix} \\
+    \midrule
+    FastText (char $n$-gram) & 9{,}023 / 9{,}023 & 100\% & 169 / 300 \;(56\%) \\
+    word2vec (no subword)    & 0 / 9{,}023      & 0\%   & n/a \\
+    \bottomrule
+  \end{tabular}
+  \caption{Out-of-vocabulary generalization. With models trained on a 90\% file
+  split, 9{,}023 forms (23.3\% of the held-out vocabulary) are truly unseen.
+  FastText synthesizes a vector for \emph{every} one from its character
+  $n$-grams, and for a 300-form sample the nearest in-vocabulary neighbour shares
+  the three-consonant root prefix 56\% of the time---evidence the synthesized
+  vectors are morphologically coherent. \textsc{word2vec} cannot represent any
+  unseen form.}
+  \label{tab:oov}
+\end{table}

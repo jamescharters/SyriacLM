@@ -1,0 +1,22 @@
+% T1: Corpus statistics (from script.py / vocab_stats.py, normalized)
+\begin{table}[t]
+  \centering
+  \begin{tabular}{lr}
+    \toprule
+    \textbf{Statistic} & \textbf{Value} \\
+    \midrule
+    TEI files parsed              & 632 \\
+    Single-author texts           & 631 \\
+    Distinct authors              & 45 \\
+    \quad authors with $\geq 2$ texts & 22 \\
+    Syriac word tokens            & 2{,}179{,}065 \\
+    Surface word forms            & 371{,}922 \\
+    Forms (diacritics stripped)   & 141{,}595 \\
+    Hapax legomena ($n{=}1$)      & 70{,}870 \;(50.0\%) \\
+    Rare forms ($n\leq 5$)        & 111{,}911 \;(79.0\%) \\
+    \bottomrule
+  \end{tabular}
+  \caption{The Digital Syriac Corpus after preprocessing. Half the vocabulary is
+  hapax, motivating a subword model with no frequency cutoff.}
+  \label{tab:corpus}
+\end{table}

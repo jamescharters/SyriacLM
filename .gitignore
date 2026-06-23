@@ -1,0 +1,15 @@
+# Python virtual environment
+.venv/
+
+# Trained FastText model artifacts (regenerate with: python fasttext_model.py --save ...)
+syriac_fasttext.model
+syriac_fasttext.model.*
+
+# Trained neural baseline checkpoints + experiment run logs
+*.pt
+paper_results.txt
+paper_results.err
+
+# Python caches
+__pycache__/
+*.pyc

@@ -1,0 +1,12 @@
+# Optional extras for the neural baselines (nn_baselines.py, paper_experiments.py).
+#
+# These are NOT needed for the core pipeline (script.py, vocab_stats.py,
+# fasttext_model.py, stylometry.py, authorship.py). Install only to reproduce the
+# byte-LM and char-Transformer experiments in the paper:
+#
+#     .venv/bin/python -m pip install -r requirements-nn.txt
+#
+# Tested with Python 3.13 and torch 2.12 (CPU / Apple-Silicon MPS). No CUDA is
+# required; the code auto-detects MPS, CUDA, or CPU.
+
+torch>=2.5

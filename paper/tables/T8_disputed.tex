@@ -1,0 +1,28 @@
+% T8: Disputed / pseudonymous text attribution (from authorship.py, floor 1000)
+\begin{table}[t]
+  \centering
+  \small
+  \begin{tabular}{p{2.9cm}rp{6.6cm}}
+    \toprule
+    \textbf{Text (files)} & \textbf{Tokens} & \textbf{Nearest known authors (cosine) / verdict} \\
+    \midrule
+    Letter to Mar Papa, under Ephrem's name (690)
+      & 1{,}126
+      & Paul 0.48, Aphrahat 0.44, Eusebius 0.36; Ephrem ranks \textbf{last (11/11)},
+        0th percentile of his genuine texts $\Rightarrow$ \emph{not} Ephrem. \\
+    \addlinespace
+    Pseudo-Clementines (219--227)
+      & 1.7k--13k
+      & Per text nearest Paul / Eusebius (other Greek$\to$Syriac translations);
+        group cohesion 0.70 $<$ best external 0.78 $\Rightarrow$ translationese. \\
+    \addlinespace
+    Chronicle of Zuqnin, ``Pseudo-Dionysius'' (519)
+      & 25{,}395
+      & Eusebius 0.75, Dionysius bar \d{S}alibi 0.57, Aphrahat 0.56 $\Rightarrow$
+        historiographic register. \\
+    \bottomrule
+  \end{tabular}
+  \caption{Attribution of held-out disputed texts against known-author centroids.
+  Leave-one-out top-1 accuracy on the known authors is $0.93$.}
+  \label{tab:disputed}
+\end{table}

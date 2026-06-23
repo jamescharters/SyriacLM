@@ -1,0 +1,35 @@
+% T3a: Morphological coherence + subword ablation by frequency band
+% (paper_experiments.py, analysis "morph"; related vs frequency-matched control)
+\begin{table}[t]
+  \centering
+  \begin{tabular}{llrrrr}
+    \toprule
+    \textbf{Representation} & \textbf{Band} & \textbf{$n$} &
+    \textbf{related} & \textbf{control} & \textbf{margin} \\
+    \midrule
+    \multirow{2}{*}{FastText (char $n$-gram)}
+      & freq $\geq 100$ & 27 & 0.601 & 0.284 & $+0.317$ \\
+      & rare $< 100$    & 22 & 0.640 & 0.353 & $+0.287$ \\
+    \addlinespace
+    \multirow{2}{*}{word2vec (no subword)}
+      & freq $\geq 100$ & 27 & 0.490 & 0.365 & $+0.125$ \\
+      & rare $< 100$    & 22 & 0.498 & 0.422 & $+0.076$ \\
+    \addlinespace
+    \multirow{2}{*}{byte-LM}
+      & freq $\geq 100$ & 27 & 0.988 & 0.967 & $+0.021$ \\
+      & rare $< 100$    & 22 & 0.992 & 0.968 & $+0.025$ \\
+    \addlinespace
+    \multirow{2}{*}{char-Transformer}
+      & freq $\geq 100$ & 27 & 0.916 & 0.790 & $+0.126$ \\
+      & rare $< 100$    & 22 & 0.936 & 0.774 & $+0.162$ \\
+    \bottomrule
+  \end{tabular}
+  \caption{Morphological coherence by frequency band: mean cosine between
+  root-sharing forms (\emph{related}) versus a frequency-matched form on a
+  different root (\emph{control}), over 8 curated triconsonantal root families
+  (49 related pairs). FastText shows the largest margin; the no-subword
+  \textsc{word2vec} baseline is weaker and \emph{degrades for rare forms}
+  ($+0.125\!\to\!+0.076$), whereas FastText stays robust. Neural models'
+  raw cosines are compressed by anisotropy but still rank related above control.}
+  \label{tab:morph}
+\end{table}

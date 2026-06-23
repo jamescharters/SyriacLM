@@ -1,0 +1,18 @@
+% TLM: Neural language-model quality (paper_experiments.py, analysis "lm")
+\begin{table}[t]
+  \centering
+  \begin{tabular}{lrccc}
+    \toprule
+    \textbf{Model} & \textbf{Params} & \textbf{bits/byte} & \textbf{perplexity} & \textbf{train (s)} \\
+    \midrule
+    byte-LM (LSTM, UTF-8 bytes)        & 1{,}020{,}672 & 0.861 & 1.8 & 102 \\
+    char-Transformer (codepoints)      & 289{,}824     & 0.823 & 2.8 & 107 \\
+    \bottomrule
+  \end{tabular}
+  \caption{Quality of the from-scratch neural language models (single seed, 2000
+  steps, Apple-Silicon MPS). Held-out bits-per-byte far below the 8-bpb
+  uniform-byte baseline confirms both models learn Syriac; perplexity is per
+  modeling unit (byte vs.\ character). These small models supply the neural rows
+  of Tables~\ref{tab:morph} and~\ref{tab:bakeoff}.}
+  \label{tab:lm}
+\end{table}

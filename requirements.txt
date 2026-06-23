@@ -1,0 +1,22 @@
+# Syriac corpus stylometry — Python dependencies
+#
+# Tested with Python 3.13 (see note below). Install into a virtualenv:
+#     python3.13 -m venv .venv
+#     .venv/bin/python -m pip install -r requirements.txt
+#
+# NOTE ON PYTHON VERSION
+# ----------------------
+# Use Python 3.13, NOT 3.14. As of late 2025 there are no gensim/scipy binary
+# wheels for CPython 3.14, so installation falls back to (failing) source builds.
+# The pinned versions below all ship 3.13 wheels for macOS/Linux.
+#
+# Only gensim is a true direct dependency; numpy and scipy are pulled in by it
+# but are imported directly by the analysis scripts, so they are pinned here too.
+# smart_open and wrapt are transitive gensim dependencies, pinned for a fully
+# reproducible environment.
+
+gensim==4.4.0
+numpy==2.2.6          # keep <2.3; 2.5 + Py3.14 was the original install failure
+scipy==1.18.0
+smart_open==7.6.1     # transitive (gensim)
+wrapt==2.2.2          # transitive (smart_open)

@@ -1,0 +1,20 @@
+% T7: Genre-matched cross-author separation (paper_experiments.py, analysis "genre")
+\begin{table}[t]
+  \centering
+  \begin{tabular}{lccc}
+    \toprule
+    \textbf{Cross-author pairs} & \textbf{\auc{}} & \textbf{same pairs} & \textbf{cross pairs} \\
+    \midrule
+    Unmatched (all genres)        & 0.900 & 3{,}872 & 16{,}228 \\
+    Genre-matched (same genre)    & 0.883 & 3{,}645 & 5{,}202 \\
+    \bottomrule
+  \end{tabular}
+  \caption{Genre as a confound. On the restricted cohort, restricting cross-author
+  comparisons to pairs of the \emph{same} (approximate, series-title) genre barely
+  lowers separation \auc{} ($0.900\!\to\!0.883$): the authorship signal is not an
+  artefact of genre. (Genre classifier coverage 60\%; labels: \emph{m\=emr\=e} 106,
+  prose 9, letter 4, \emph{madr\=a\v{s}\=e} 1, other 81.) Within a single author,
+  by contrast, hymns vs.\ prose separate strongly once length is matched
+  (\auc{} $0.59\!\to\!0.86$), so genre is real but separable from authorship.}
+  \label{tab:genre}
+\end{table}

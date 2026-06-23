@@ -1,0 +1,37 @@
+% T5: Same/cross-author separation AUC with bootstrap CIs + multi-seed
+% (paper_experiments.py, analysis "sep"; mean-centered cosine; B=1000)
+\begin{table}[t]
+  \centering
+  \begin{tabular}{llcc}
+    \toprule
+    \textbf{Cohort} & \textbf{Features} & \textbf{\auc{}} & \textbf{95\% CI} \\
+    \midrule
+    \multirow{2}{*}{Full ($\geq 2$ texts; 20 authors, 494 texts)}
+      & all words      & 0.885 & [0.791, 0.961] \\
+      & function words & 0.840 & [0.758, 0.942] \\
+    \addlinespace
+    \multirow{2}{*}{Restricted ($\geq 3$ texts, $\geq 2000$ tok; 11 authors, 201 texts)}
+      & all words      & 0.900 & [0.830, 0.950] \\
+      & function words & 0.890 & [0.838, 0.952] \\
+    \bottomrule
+  \end{tabular}
+
+  \medskip
+  \begin{tabular}{lccc}
+    \toprule
+    \textbf{Cohort} & \textbf{mean $\pm$ SD \auc{}} & \textbf{min} & \textbf{max} \\
+    \midrule
+    Full       & $0.874 \pm 0.006$ & 0.870 & 0.885 \\
+    Restricted & $0.886 \pm 0.007$ & 0.880 & 0.900 \\
+    \bottomrule
+  \end{tabular}
+  \caption{\textbf{Top:} same/cross-author separation \auc{} (mean-centered
+  cosine) with author-cluster bootstrap 95\% confidence intervals ($B{=}1000$).
+  \auc{}${=}0.5$ is chance. \textbf{Bottom:} variation across five independent
+  FastText training seeds (all words), confirming the signal is stable. A
+  negative control that splits one author into two pseudo-authors gives mean
+  \auc{} ${\approx}\,0.51$ (chance). Raw (uncentered) cosines yield far lower
+  \auc{} (e.g.\ 0.73 vs.\ 0.83 full, all words), demonstrating the necessity of
+  removing the anisotropic common component.}
+  \label{tab:sep}
+\end{table}

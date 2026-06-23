@@ -1,0 +1,22 @@
+% T4: FastText hyperparameter sensitivity (paper_experiments.py, analysis "hyper")
+% Restricted cohort (>=3 texts, >=1000 tokens). Base: dim=100, n-grams 2-5, skip-gram.
+\begin{table}[t]
+  \centering
+  \begin{tabular}{lcc}
+    \toprule
+    \textbf{Configuration} & \textbf{morph.\ cosine} & \textbf{centered \auc{}} \\
+    \midrule
+    $n$-grams 2--4          & 0.633 & 0.896 \\
+    $n$-grams 2--5 (default) & 0.618 & 0.898 \\
+    $n$-grams 3--6          & 0.606 & 0.916 \\
+    dim $=50$               & 0.635 & 0.888 \\
+    dim $=200$              & 0.611 & 0.901 \\
+    CBOW (sg$=0$)           & 0.585 & 0.910 \\
+    \bottomrule
+  \end{tabular}
+  \caption{FastText hyperparameter sensitivity. Mean root-pair cosine and
+  same/cross-author \auc{} (mean-centered, all words) are stable across $n$-gram
+  range, dimension, and skip-gram vs.\ CBOW, so the headline results are not an
+  artefact of a particular configuration.}
+  \label{tab:hyper}
+\end{table}
