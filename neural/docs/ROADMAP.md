@@ -37,12 +37,26 @@ a passing leakage assertion; `sedra --selftest`, `morphology --selftest`,
   characters/morphology), and mean-pooling washes it out at the document level, so
   it doesn't transfer to authorship separation. The transfer win is the
   off-the-shelf encoder; the adaptation win is the intrinsic LM metric.
-- [ ] Twist 1 (pointing restoration) and bits-per-byte vs. the byte-LM remain to
-  do; gated on a SEDRA source for vocalization supervision.
+- [x] **Supervised AV head on CANINE vectors** (the paper's leave-one-author-out
+  SupCon projection, reused read-only): centered AUC **0.991 [0.979, 0.999]** /
+  **0.916 [0.893, 1.000]** at floors 1000 / 2000 (author-cluster bootstrap, B=1000).
+  The floor-1000 lower bound (0.979) is **above** the FastText AV head (0.966) — the
+  strongest authorship separation in the project, and the clearest demonstration
+  that a learned metric on the contextual CANINE encoding beats raw cosine.
+  Run: `neural.canine_encoder --av-head`.
+- [x] **Intrinsic LM gain isolated** (frozen linear-probe vs. LoRA, identical
+  masked *pseudo* bits-per-byte scorer — bidirectional, so CANINE-variants-only,
+  not vs. the autoregressive byte-LM): frozen **2.000** bpb / 0.307 acc → LoRA
+  **1.859** bpb / 0.342 acc. Adapting 0.79% of params measurably improves the LM.
+  Run: `neural.canine_pretrain --freeze-encoder` for the control.
+- [ ] Twist 1 (pointing restoration) remains; gated on a SEDRA source for
+  vocalization supervision. A stronger multilingual base (Glot500 / MaLA-500, if
+  they cover `syc`) is the highest-leverage upgrade to the transfer baseline.
 
 **Exit check (met):** a pretrained neural encoder plugs into the bake-off and
 reports same/cross-author AUC on the identical cohort. This is the tractable next
-paper — including the honest negative on continued-pretraining for authorship.
+paper — including the honest negative on continued-pretraining for authorship and
+the strong positive from a supervised metric on the contextual encoding.
 
 ## P2 — Twist 2: factored root/pattern
 

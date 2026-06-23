@@ -47,6 +47,18 @@ from stylometry import (
 from authorship import doc_matrix, key_labels, parse_ids
 
 try:
+    import av_head            # parent supervised AV head (read-only reuse)
+    _AVHEAD = av_head._TORCH
+except Exception:  # pragma: no cover
+    _AVHEAD = False
+
+try:
+    from paper_experiments import bootstrap_auc_ci
+    _BOOT = True
+except Exception:  # pragma: no cover
+    _BOOT = False
+
+try:
     import torch
     from transformers import CanineModel
     _HF = True
@@ -143,9 +155,13 @@ if _HF:
         return model
 
 
-def authorship_auc(wv, floors: list[int], normalize: bool = True) -> list[dict]:
+def authorship_auc(wv, floors: list[int], normalize: bool = True,
+                   use_av_head: bool = False, seed: int = 42) -> list[dict]:
     """Compute centered same/cross-author AUC for CANINE on each token floor,
-    using the paper's exact cohort and metric."""
+    using the paper's exact cohort and metric. With ``use_av_head`` a supervised
+    leave-one-author-out projection (parent ``av_head``) is applied first, exactly
+    as in the paper's bake-off, so the number is comparable to the FastText AV-head
+    row."""
     data_dir = ensure_corpus(DEFAULT_CACHE)
     genuine = load_texts(data_dir, normalize,
                          exclude_ids=set(parse_ids(DISPUTED_DEFAULT)),
@@ -166,8 +182,18 @@ def authorship_auc(wv, floors: list[int], normalize: bool = True) -> list[dict]:
                             "texts": 0, "authors": 0})
             continue
         labels = key_labels(kept)
+        if use_av_head:
+            if not _AVHEAD:
+                raise RuntimeError("av_head requires PyTorch (parent av_head._TORCH).")
+            M = av_head.leave_author_out_projection(M, labels, seed=seed)
         auc = separation(remove_common_component(M), labels)["auc"]
-        results.append({"floor": floor, "auc": auc, "texts": len(kept),
+        ci = None
+        if use_av_head and _BOOT:
+            # author-cluster bootstrap CI -- important context for the surprising
+            # AV-head numbers (and identical machinery to the paper's bake-off).
+            _, lo, hi = bootstrap_auc_ci(M, labels, B=1000, seed=seed)
+            ci = (lo, hi)
+        results.append({"floor": floor, "auc": auc, "ci": ci, "texts": len(kept),
                         "authors": len(set(labels.tolist()))})
     return results
 
@@ -180,6 +206,9 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--base", default=DEFAULT_BASE)
     ap.add_argument("--checkpoint", default=None,
                     help="LoRA/continued-pretrain checkpoint to evaluate")
+    ap.add_argument("--av-head", action="store_true",
+                    help="apply the supervised leave-one-author-out AV head before scoring")
+    ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--no-normalize", action="store_true")
     args = ap.parse_args(argv)
 
@@ -198,12 +227,21 @@ def main(argv: list[str] | None = None) -> int:
     wv = CanineWordVectors(model, device)
 
     tag = "CANINE-c (continued-pretrained)" if args.checkpoint else "CANINE-c (off-the-shelf)"
-    rows = authorship_auc(wv, floors, normalize=not args.no_normalize)
+    if args.av_head:
+        tag += " + AV head (LOAO)"
+    rows = authorship_auc(wv, floors, normalize=not args.no_normalize,
+                          use_av_head=args.av_head, seed=args.seed)
     print(f"\n=== authorship separation AUC: {tag} ===")
     print("(centered cosine; same cohort + metric as paper Table 6)")
-    print(f"  {'floor':>6}  {'AUC':>6}  texts  authors")
+    has_ci = any(r.get("ci") for r in rows)
+    header = f"  {'floor':>6}  {'AUC':>6}" + (f"  {'95% CI':>16}" if has_ci else "") + "  texts  authors"
+    print(header)
     for r in rows:
-        print(f"  {r['floor']:>6}  {r['auc']:.3f}   {r['texts']:>3}    {r['authors']:>2}")
+        line = f"  {r['floor']:>6}  {r['auc']:.3f}"
+        if has_ci:
+            line += f"  [{r['ci'][0]:.3f}, {r['ci'][1]:.3f}]" if r.get("ci") else "  {:>16}".format("")
+        line += f"   {r['texts']:>3}    {r['authors']:>2}"
+        print(line)
     print("\nReference (paper Table 6): FastText 0.915/0.900, word2vec 0.946/0.938,")
     print("Delta 0.907/0.940, AV head 0.966/0.954 at floors 1000/2000.")
     return 0

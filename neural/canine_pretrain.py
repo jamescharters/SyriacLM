@@ -93,14 +93,23 @@ if _HF:
         """CANINE encoder (LoRA-adapted) + a linear codepoint-prediction head."""
 
         def __init__(self, base: str, out_vocab: int, lora_r: int, lora_alpha: int,
-                     lora_dropout: float):
+                     lora_dropout: float, freeze_encoder: bool = False):
             super().__init__()
             enc = CanineModel.from_pretrained(base)
-            lora = LoraConfig(
-                r=lora_r, lora_alpha=lora_alpha, lora_dropout=lora_dropout,
-                bias="none",
-                target_modules=["query", "key", "value"])
-            self.encoder = get_peft_model(enc, lora)
+            self.frozen = freeze_encoder
+            if freeze_encoder:
+                # Linear-probe baseline: the encoder is frozen and only the
+                # codepoint head trains. The gap between this and the LoRA model
+                # isolates exactly what adapting the encoder bought.
+                for p in enc.parameters():
+                    p.requires_grad = False
+                self.encoder = enc
+            else:
+                lora = LoraConfig(
+                    r=lora_r, lora_alpha=lora_alpha, lora_dropout=lora_dropout,
+                    bias="none",
+                    target_modules=["query", "key", "value"])
+                self.encoder = get_peft_model(enc, lora)
             self.head = nn.Linear(enc.config.hidden_size, out_vocab)
 
         def forward(self, input_ids, attention_mask):
@@ -109,7 +118,8 @@ if _HF:
 
         def save_adapter(self, out_dir: Path) -> None:
             out_dir.mkdir(parents=True, exist_ok=True)
-            self.encoder.save_pretrained(str(out_dir))
+            if not self.frozen:
+                self.encoder.save_pretrained(str(out_dir))
             torch.save(self.head.state_dict(), out_dir / "codepoint_head.pt")
 
     def _device():
@@ -153,7 +163,7 @@ if _HF:
     def train(*, base: str, data_dir: Path, out_dir: Path, steps: int, window: int,
               batch_size: int, lr: float, mask_fraction: float, max_span: int,
               lora_r: int, lora_alpha: int, lora_dropout: float, max_windows: int,
-              seed: int) -> dict:
+              seed: int, freeze_encoder: bool = False) -> dict:
         import random
         random.seed(seed); np.random.seed(seed); torch.manual_seed(seed)
         device = _device()
@@ -165,7 +175,7 @@ if _HF:
         val_w = make_windows(val_texts, window, max(1000, max_windows // 10))
 
         model = CanineForCodepointMLM(base, len(itos), lora_r, lora_alpha,
-                                      lora_dropout).to(device)
+                                      lora_dropout, freeze_encoder=freeze_encoder).to(device)
         trainable = sum(p.numel() for p in model.parameters() if p.requires_grad)
         total = sum(p.numel() for p in model.parameters())
         opt = torch.optim.AdamW((p for p in model.parameters() if p.requires_grad),
@@ -200,18 +210,22 @@ if _HF:
                       file=sys.stderr, flush=True)
         train_s = time.time() - t0
 
-        # held-out masked-codepoint accuracy
+        # held-out masked-codepoint accuracy + masked pseudo bits-per-byte
         val_acc = evaluate(model, val_w, stoi, len(itos), mask_fraction, max_span, device)
+        val_bpb = masked_bits_per_byte(model, val_w, val_texts, stoi, len(itos),
+                                       mask_fraction, max_span, device)
 
         model.save_adapter(out_dir)
         (out_dir / "pretrain_meta.json").write_text(json.dumps({
             "base": base, "steps": steps, "trainable_params": trainable,
             "total_params": total, "train_seconds": round(train_s, 1),
-            "val_masked_accuracy": val_acc, "device": str(device),
+            "val_masked_accuracy": val_acc, "val_masked_bits_per_byte": val_bpb,
+            "frozen_encoder": freeze_encoder, "device": str(device),
             "out_vocab": len(itos), "window": window,
         }, indent=2), encoding="utf-8")
         return {"trainable": trainable, "total": total, "train_seconds": round(train_s, 1),
-                "val_masked_accuracy": val_acc, "out_dir": str(out_dir),
+                "val_masked_accuracy": val_acc, "val_masked_bits_per_byte": val_bpb,
+                "frozen": freeze_encoder, "out_dir": str(out_dir),
                 "device": str(device)}
 
     @torch.no_grad()
@@ -231,6 +245,37 @@ if _HF:
         model.train()
         return round(correct / max(total, 1), 4)
 
+    @torch.no_grad()
+    def masked_bits_per_byte(model, windows, texts, stoi, vocab_size,
+                             mask_fraction, max_span, device) -> float:
+        """Masked **pseudo** bits-per-byte on held-out text.
+
+        CANINE is bidirectional, so this is a *pseudo*-likelihood (each masked
+        codepoint scored from both-side context) and is therefore NOT directly
+        comparable to the autoregressive byte-LM's bits-per-byte -- it only
+        supports comparing CANINE variants to each other (frozen vs LoRA). The
+        per-codepoint NLL is converted to bits/byte using the corpus's mean UTF-8
+        bytes per codepoint.
+        """
+        rng = np.random.default_rng(2024)
+        nll, n = 0.0, 0
+        for i in range(0, len(windows), 32):
+            batch = windows[i:i + 32]
+            inp, tgt = mask_batch(batch, stoi, rng, vocab_size, mask_fraction, max_span)
+            ids = torch.from_numpy(inp).to(device)
+            attn = torch.from_numpy((batch != PAD).astype(np.int64)).to(device)
+            yb = torch.from_numpy(tgt).to(device)
+            logits = model(ids, attn)
+            l = F.cross_entropy(logits.reshape(-1, logits.size(-1)),
+                                yb.reshape(-1), ignore_index=-100, reduction="sum")
+            nll += float(l.item())
+            n += int((tgt != -100).sum())
+        bits_per_cp = (nll / max(n, 1)) / np.log(2)
+        total_chars = sum(len(t) for t in texts)
+        total_bytes = sum(len(t.encode("utf-8")) for t in texts)
+        bytes_per_cp = total_bytes / max(total_chars, 1)
+        return round(bits_per_cp / bytes_per_cp, 4)
+
 
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__,
@@ -249,6 +294,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--lora-alpha", type=int, default=32)
     ap.add_argument("--lora-dropout", type=float, default=0.05)
     ap.add_argument("--max-windows", type=int, default=12000)
+    ap.add_argument("--freeze-encoder", action="store_true",
+                    help="linear-probe baseline: freeze the encoder, train only the head")
     ap.add_argument("--seed", type=int, default=42)
     args = ap.parse_args(argv)
 
@@ -258,21 +305,25 @@ def main(argv: list[str] | None = None) -> int:
               file=sys.stderr)
         return 2
 
-    print(f"LoRA continued-pretraining {args.base} on {args.data} ...", file=sys.stderr)
+    mode = "linear-probe (frozen encoder)" if args.freeze_encoder else "LoRA continued-pretraining"
+    print(f"{mode}: {args.base} on {args.data} ...", file=sys.stderr)
     m = train(base=args.base, data_dir=args.data, out_dir=args.out, steps=args.steps,
               window=args.window, batch_size=args.batch_size, lr=args.lr,
               mask_fraction=args.mask_fraction, max_span=args.max_span,
               lora_r=args.lora_r, lora_alpha=args.lora_alpha,
               lora_dropout=args.lora_dropout, max_windows=args.max_windows,
-              seed=args.seed)
-    print("\n=== LoRA continued-pretraining done ===")
+              seed=args.seed, freeze_encoder=args.freeze_encoder)
+    print(f"\n=== {mode} done ===")
     print(f"  trainable params : {m['trainable']:,} / {m['total']:,} "
-          f"({100*m['trainable']/m['total']:.2f}% adapted)")
+          f"({100*m['trainable']/m['total']:.2f}% trained)")
     print(f"  train time       : {m['train_seconds']}s on {m['device']}")
     print(f"  val masked acc   : {m['val_masked_accuracy']:.3f}")
-    print(f"  saved adapter    : {m['out_dir']}")
-    print("\nevaluate authorship AUC with:")
-    print(f"  .venv/bin/python -m neural.canine_encoder --checkpoint {m['out_dir']}")
+    print(f"  val masked p-bpb : {m['val_masked_bits_per_byte']:.3f}  "
+          f"(pseudo bits/byte; CANINE variants only, NOT vs the autoregressive byte-LM)")
+    print(f"  saved to         : {m['out_dir']}")
+    if not args.freeze_encoder:
+        print("\nevaluate authorship AUC with:")
+        print(f"  .venv/bin/python -m neural.canine_encoder --checkpoint {m['out_dir']}")
     return 0
 
 
