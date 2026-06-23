@@ -15,6 +15,7 @@ torch>=2.5             # shared with the paper's neural baselines
 transformers>=4.44     # CANINE / ByT5 / Semitic encoders
 datasets>=2.20         # streaming + sharded corpora
 tokenizers>=0.19
+truststore>=0.9        # verify HuggingFace TLS via the OS trust store (corporate proxies)
 peft>=0.12             # LoRA / adapters for parameter-efficient continued pretraining
 accelerate>=0.33       # device placement / mixed precision
 text-fabric>=12.0      # read ETCBC morphological annotation (root / lexeme / features)

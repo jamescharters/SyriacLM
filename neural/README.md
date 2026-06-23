@@ -76,6 +76,8 @@ default at tens-of-millions of tokens; **continued pretraining** is the frame.
 | [`pretrain.py`](pretrain.py) | ⛓ guarded (`--plan` runs) | the above + compute |
 | [`benchmark.py`](benchmark.py) | ✅ `--plan`/`--selftest`; ⛓ checkpoint needs torch | optional |
 | [`restoration.py`](restoration.py) | ✅ runnable (`--demo`) | `torch` (ships with the parent) |
+| [`canine_encoder.py`](canine_encoder.py) | ✅ runnable | `transformers` + a CANINE download |
+| [`canine_pretrain.py`](canine_pretrain.py) | ✅ runnable | `transformers` + `peft` + compute |
 
 "Guarded" follows the parent repo's `_TORCH` pattern: the module imports cleanly
 and prints precise install instructions if a heavy dependency is absent, so the
@@ -104,7 +106,19 @@ scaffold never breaks and the Phase-0 tools always run.
 .venv/bin/python -m pip install -r neural/requirements-neural.txt
 .venv/bin/python -m neural.pretrain --plan          # describe a run
 .venv/bin/python -m neural.benchmark --plan         # describe the eval
+
+# Phase 1 — CANINE-c (tokenizer-free, zero-OOV) authorship transfer:
+.venv/bin/python -m neural.canine_encoder --floors 1000,2000        # off-the-shelf AUC
+.venv/bin/python -m neural.canine_pretrain --steps 1500             # LoRA-adapt to Syriac
+.venv/bin/python -m neural.canine_encoder \
+    --checkpoint ~/.cache/syriac-neural/checkpoints/canine-lora     # adapted AUC
 ```
+
+> **Corporate-TLS note.** If `transformers` cannot reach HuggingFace
+> (`CERTIFICATE_VERIFY_FAILED`) behind a TLS-intercepting proxy, install
+> `truststore` (`pip install truststore`); the CANINE modules inject it at import
+> so Python verifies through the OS trust store (the same one `curl` uses). No
+> certificate verification is ever disabled.
 
 Checkpoints and aggregated/derived corpora are large and/or license-restricted —
 they live in `~/.cache` and are git-ignored ([`.gitignore`](.gitignore)); they are

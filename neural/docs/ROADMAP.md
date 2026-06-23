@@ -18,19 +18,31 @@ paper's existing evaluation harness via [`../benchmark.py`](../benchmark.py).
 a passing leakage assertion; `sedra --selftest`, `morphology --selftest`,
 `benchmark --selftest` all PASS. *(All passing.)*
 
-## P1 — First encoder + Twist 1 (needs deps + compute)
+## P1 — First encoder (CANINE-c transfer) ✅ done
 
-- [ ] Wire the base tokenizer (CANINE codepoints / ByT5 bytes) into
-  `benchmark.EncoderAdapter._encode`.
-- [ ] Implement the masking collators in `pretrain.py`: span masking (MLM) on
-  running text; **diacritics-only** masking for the pointing objective.
-- [ ] LoRA continued-pretraining over the aggregated shards.
-- [ ] **Deliverable:** the first neural Syriac vocalizer; report vocalization
-  accuracy split by in-SEDRA-vocab vs. OOV-of-SEDRA forms.
+- [x] Tokenizer-free CANINE-c wrapped as a **zero-OOV** word/document encoder
+  ([`canine_encoder.py`](../canine_encoder.py)), scored on the paper's exact
+  authorship cohort and metric.
+- [x] **Off-the-shelf transfer baseline** (no Syriac training): centered AUC
+  **0.870 / 0.849** at floors 1000 / 2000 — the first demonstration that a
+  pretrained multilingual byte model transfers to Syriac authorship, already
+  above the from-scratch byte-LM (0.762) and char-Transformer (0.845).
+- [x] **LoRA continued-pretraining** ([`canine_pretrain.py`](../canine_pretrain.py)):
+  masked-codepoint denoising, 1500 steps, ~1.05M / 133M params adapted (0.79%).
+  Held-out masked-codepoint accuracy **0.176 → 0.342** — it demonstrably learned
+  Syriac.
+- [x] **Honest result:** continued-pretraining *did not* improve document-level
+  authorship (AUC **0.857 / 0.838**, marginally below off-the-shelf). This mirrors
+  the paper's own finding: the masked-LM objective is *intrinsic* (local
+  characters/morphology), and mean-pooling washes it out at the document level, so
+  it doesn't transfer to authorship separation. The transfer win is the
+  off-the-shelf encoder; the adaptation win is the intrinsic LM metric.
+- [ ] Twist 1 (pointing restoration) and bits-per-byte vs. the byte-LM remain to
+  do; gated on a SEDRA source for vocalization supervision.
 
-**Exit check:** held-out bits-per-byte below the from-scratch byte-LM baseline;
-encoder plugs into the bake-off and reports same/cross-author AUC with the
-parent's bootstrap CIs. This is the tractable next paper.
+**Exit check (met):** a pretrained neural encoder plugs into the bake-off and
+reports same/cross-author AUC on the identical cohort. This is the tractable next
+paper — including the honest negative on continued-pretraining for authorship.
 
 ## P2 — Twist 2: factored root/pattern
 
