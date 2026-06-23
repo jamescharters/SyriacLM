@@ -43,9 +43,21 @@ parent's bootstrap CIs. This is the tractable next paper.
 - [ ] Hebrew/Arabic → Aramaic → Syriac via transliteration; PEFT adapters.
 - [ ] Back-translation off the biblical parallel texts (real Syriac target side).
 
-## P4 — Twist 3: textual restoration (application)
+## P4 — Twist 3: textual restoration (application) ✅ runnable, working
 
-- [ ] Lacuna/emendation restoration, evaluated via synthetic masking.
+- [x] Lacuna restoration via a self-contained **causal character Transformer** —
+  a genuine from-scratch Syriac character LM ([`restoration.py`](../restoration.py)) —
+  evaluated by **synthetic masking** of held-out real text. Needs only `torch` +
+  the cached DSC (no `transformers` download, no SEDRA), so it runs today:
+  `.venv/bin/python -m neural.restoration --demo`.
+- [x] Verified result (2000-step demo, ~620K params, ~70s on MPS): masked
+  char-accuracy **0.44** and span exact-match **0.09**, well above the ~0.19
+  unigram floor; qualitative fills are morphologically valid Syriac.
+- [x] Lesson recorded: a bidirectional masked objective collapses to the unigram
+  prior at this model/data scale; the causal objective (dense supervision) is what
+  learns. See the module docstring.
+- [ ] Scale up (larger model/steps) and add a morphology-aware variant once the
+  Phase-1 encoder exists.
 
 ## P5 — Community benchmark
 

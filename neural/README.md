@@ -75,6 +75,7 @@ default at tens-of-millions of tokens; **continued pretraining** is the frame.
 | [`modeling.py`](modeling.py) | ⛓ guarded | `transformers`, `torch`, `peft` |
 | [`pretrain.py`](pretrain.py) | ⛓ guarded (`--plan` runs) | the above + compute |
 | [`benchmark.py`](benchmark.py) | ✅ `--plan`/`--selftest`; ⛓ checkpoint needs torch | optional |
+| [`restoration.py`](restoration.py) | ✅ runnable (`--demo`) | `torch` (ships with the parent) |
 
 "Guarded" follows the parent repo's `_TORCH` pattern: the module imports cleanly
 and prints precise install instructions if a heavy dependency is absent, so the
