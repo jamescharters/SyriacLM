@@ -77,7 +77,8 @@ default at tens-of-millions of tokens; **continued pretraining** is the frame.
 | [`benchmark.py`](benchmark.py) | ✅ `--plan`/`--selftest`; ⛓ checkpoint needs torch | optional |
 | [`restoration.py`](restoration.py) | ✅ runnable (`--demo`) | `torch` (ships with the parent) |
 | [`sedra_build.py`](sedra_build.py) | ✅ runnable | stdlib + a user-provided SEDRA source (license-gated) |
-| [`vocalizer.py`](vocalizer.py) | ✅ runnable (`--demo`) | `torch` + the SEDRA table |
+| [`vocalizer.py`](vocalizer.py) | ✅ runnable (`--demo`, `--cross-register`) | `torch` + the SEDRA table |
+| [`dsc_gold.py`](dsc_gold.py) | ✅ runnable (`--report`) | reuses cached DSC + SEDRA, no new deps |
 | [`factored.py`](factored.py) | ✅ runnable (`--demo`) | `torch` + the SEDRA table |
 | [`canine_encoder.py`](canine_encoder.py) | ✅ runnable | `transformers` + a CANINE download |
 | [`canine_pretrain.py`](canine_pretrain.py) | ✅ runnable | `transformers` + `peft` + compute |

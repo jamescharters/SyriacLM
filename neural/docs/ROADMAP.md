@@ -65,9 +65,21 @@ a passing leakage assertion; `sedra --selftest`, `morphology --selftest`,
   supervises a BiLSTM that predicts the vowel/diacritic of each consonant slot
   ([`vocalizer.py`](../vocalizer.py)). Held-out SEDRA words: **per-position
   pointing accuracy 0.811** (majority baseline 0.507) and **full-word exact match
-  0.361** (baseline 0.003 — 120×). Honest caveat: SEDRA is New-Testament-scoped,
-  so this is held-out *NT-vocabulary*; cross-register transfer to classical text
-  is the open question (no openly vocalised classical gold exists).
+  0.361** (baseline 0.003 — 120×).
+- [x] **Cross-register validation on *classical* text** ✅ (`--cross-register`).
+  The standing assumption that "no vocalised classical gold exists" was **false**:
+  ~56% of Digital Syriac Corpus tokens carry Syriac vowel points. A new harvester
+  ([`dsc_gold.py`](../dsc_gold.py)) *derives* the Unicode-point→CAL vowel mapping
+  from data (aligning 541K DSC tokens to unambiguous SEDRA skeletons; vowels map at
+  0.90–0.98 purity) and builds a 134K-form gold set. Given DSC's partial pointing,
+  the fair metric is **vowel accuracy on the slots the scribe actually pointed**.
+  The NT-only vocaliser generalises to classical Syriac at **0.63** (in SEDRA
+  vocab; per-consonant baseline 0.40) and **0.59** on **out-of-SEDRA-vocabulary**
+  forms (baseline 0.45) — unseen consonantal skeletons, the decisive cross-register
+  case, so the transfer is genuine templatic generalisation, not memorisation.
+  Honest caveats: classical pointing is partial (we score only pointed slots), the
+  East-Syriac U+073C dotted mark is vowel/rukkaka-ambiguous, and a few archaic
+  variant letters pass through unmapped.
 
 **Exit check (met):** a pretrained neural encoder plugs into the bake-off and
 reports same/cross-author AUC on the identical cohort. This is the tractable next
@@ -117,7 +129,7 @@ misses the script.
   CANINE-specific trick — though CANINE + AV head (0.991 / 0.916) still tops the
   table, so the best overall pipeline is unchanged.
 - [ ] Extend to a full curriculum (Arabic too, Aramaic intermediate) and
-  back-translation off the biblical parallel texts (real Syriac target side).
+  back-translation off the biblical parallel texts (real Syriac target side).aea
 
 ## P4 — Twist 3: textual restoration (application) ✅ runnable, working
 

@@ -18,11 +18,13 @@ diacritiser architecture) is enough.
 
 Honest framing: neural diacritisation is established for Arabic/Hebrew; the novelty
 here is Syriac-first and the *reframing* as morphological pretraining. The SEDRA
-lexicon is New-Testament-scoped, so accuracy is reported on held-out SEDRA words
-and the cross-register transfer to classical text is left as the open question it
-is (no openly vocalised classical gold exists).
+lexicon is New-Testament-scoped, so the headline accuracy is reported on held-out
+SEDRA words; we then test cross-register generalisation directly against
+*classical* running text using the ~56%-vocalised Digital Syriac Corpus as gold
+(see ``neural.dsc_gold`` and ``--cross-register``).
 
-    .venv/bin/python -m neural.vocalizer --demo        # train + evaluate
+    .venv/bin/python -m neural.vocalizer --demo            # train + evaluate (SEDRA)
+    .venv/bin/python -m neural.vocalizer --cross-register  # + classical DSC gold
 """
 
 from __future__ import annotations
@@ -43,6 +45,7 @@ except Exception:  # pragma: no cover
     _TORCH = False
 
 from neural import sedra
+from neural import dsc_gold
 
 PAD = 0
 
@@ -221,10 +224,111 @@ if _TORCH:
         return out
 
 
+    @torch.no_grad()
+    def _predict_vowels(res, skeletons, batch=256):
+        """Predicted vowel (a/e/i/o/u or '') per consonant slot for each skeleton."""
+        model, ctoi = res["model"], res["ctoi"]
+        labels, maxlen, device = res["labels"], res["maxlen_"], res["device_"]
+        label_vowel = [dsc_gold._vowel_of(l) for l in labels]
+        out: list[list[str]] = []
+        for s in range(0, len(skeletons), batch):
+            chunk = skeletons[s:s + batch]
+            x = np.zeros((len(chunk), maxlen), dtype=np.int64)
+            for i, sk in enumerate(chunk):
+                for j, c in enumerate(sk[:maxlen]):
+                    x[i, j] = ctoi.get(c, 0)
+            pred = model(torch.from_numpy(x).to(device)).argmax(-1).cpu().numpy()
+            for i, sk in enumerate(chunk):
+                out.append([label_vowel[pred[i, j]] for j in range(min(len(sk), maxlen))])
+        return out
+
+    def _sedra_consonant_vowel_majority():
+        """Per-CAL-consonant most-common *vowel* from SEDRA -- a lookup baseline.
+
+        Conditioned on the slot being vocalised (bare slots are excluded), so it
+        is the fair comparison for the marked-slot metric: given this consonant
+        carries a vowel, predict its most likely one.
+        """
+        by_c: dict[str, Counter] = {}
+        glob: Counter = Counter()
+        for skel, pts in load_pairs():
+            for c, p in zip(skel, pts):
+                v = dsc_gold._vowel_of(p)
+                if not v:
+                    continue
+                by_c.setdefault(c, Counter())[v] += 1
+                glob[v] += 1
+        default = glob.most_common(1)[0][0]
+        return {c: cnt.most_common(1)[0][0] for c, cnt in by_c.items()}, default
+
+    def cross_register_eval(res, max_eval=20000, seed=42):
+        """Evaluate the SEDRA-trained vocaliser on held-out *classical* DSC gold.
+
+        The fair metric given DSC's partial pointing is **vowel accuracy on the
+        slots the classical scribe actually pointed** (gold vowel present), split
+        by whether the consonantal skeleton is in SEDRA's vocabulary (seen form)
+        or out of it (the decisive cross-register generalisation).
+        """
+        harvested = dsc_gold.harvest()
+        gold = harvested["gold"]
+        maj, default = _sedra_consonant_vowel_majority()
+        rng = np.random.default_rng(seed)
+
+        def cap(items):
+            if len(items) > max_eval:
+                idx = rng.choice(len(items), size=max_eval, replace=False)
+                return [items[i] for i in idx]
+            return items
+
+        def eval_split(items):
+            preds = _predict_vowels(res, [s for s, _ in items])
+            correct = total = base_correct = 0
+            for (skel, gvowels), pv in zip(items, preds):
+                for j, gv in enumerate(gvowels):
+                    if not gv or j >= len(pv):
+                        continue
+                    total += 1
+                    correct += int(pv[j] == gv)
+                    base_correct += int(maj.get(skel[j], default) == gv)
+            return {"n_words": len(items), "marked_slots": total,
+                    "vowel_acc": correct / max(total, 1),
+                    "baseline_acc": base_correct / max(total, 1)}
+
+        return {
+            "in_vocab": eval_split(cap(gold["in_vocab"])),
+            "oov": eval_split(cap(gold["oov"])),
+            "vowel_map": harvested["derived"]["vowel_map"],
+            "aligned_tokens": harvested["derived"]["aligned_tokens"],
+            "gold_stats": {k: gold[k] for k in ("n_tokens", "n_marked_slots", "n_types")},
+            "harvest": harvested,
+        }
+
+    @torch.no_grad()
+    def cross_register_examples(res, eval_res, k=8, seed=1):
+        """Qualitative OOV-of-SEDRA classical words: predicted vs gold vocalisation."""
+        from neural.transliterate import cal_to_syriac
+        oov = eval_res["harvest"]["gold"]["oov"]
+        cand = [(s, v) for s, v in oov if sum(1 for x in v if x) >= 2]
+        if not cand:
+            return []
+        rng = np.random.default_rng(seed)
+        picks = [cand[i] for i in rng.choice(len(cand), size=min(k, len(cand)), replace=False)]
+        preds = _predict_vowels(res, [s for s, _ in picks])
+        rows = []
+        for (skel, gv), pv in zip(picks, preds):
+            pred_str = "".join(c + (pv[j] if j < len(pv) and pv[j] else "")
+                               for j, c in enumerate(skel))
+            gold_str = "".join(c + (gv[j] or "") for j, c in enumerate(skel))
+            rows.append((cal_to_syriac(skel), skel, pred_str, gold_str))
+        return rows
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--demo", action="store_true", help="train + evaluate")
+    ap.add_argument("--cross-register", action="store_true",
+                    help="also evaluate on held-out *classical* DSC vocalisation gold")
     ap.add_argument("--epochs", type=int, default=8)
     ap.add_argument("--seed", type=int, default=42)
     args = ap.parse_args(argv)
@@ -232,7 +336,7 @@ def main(argv: list[str] | None = None) -> int:
     if not _TORCH:
         print("torch is required for the vocaliser.", file=sys.stderr)
         return 2
-    if not args.demo:
+    if not (args.demo or args.cross_register):
         ap.print_help()
         return 1
 
@@ -255,9 +359,35 @@ def main(argv: list[str] | None = None) -> int:
     for skel, pred, true in vocalize_examples(res):
         flag = "OK" if pred == true else "x"
         print(f"   [{flag}] {skel:<12} -> {pred:<18} (truth {true})")
-    print("\nNote: SEDRA is New-Testament-scoped; these are held-out NT-vocabulary")
-    print("words. Cross-register transfer to classical text is the open question.")
-    print("Cite SEDRA (Kiraz); see neural/docs/DATA.md.")
+    print("\nNote: SEDRA is New-Testament-scoped; the numbers above are held-out")
+    print("NT-vocabulary words. Cite SEDRA (Kiraz); see neural/docs/DATA.md.")
+
+    if args.cross_register:
+        print("\n=== CROSS-REGISTER: held-out *classical* DSC vocalisation gold ===")
+        try:
+            ev = cross_register_eval(res, seed=args.seed)
+        except RuntimeError as exc:
+            print(exc, file=sys.stderr)
+            return 2
+        gs = ev["gold_stats"]
+        print(f"  Unicode->CAL vowel map derived from {ev['aligned_tokens']:,} "
+              f"DSC tokens aligned to unambiguous SEDRA skeletons.")
+        print(f"  DSC gold: {gs['n_tokens']:,} vocalised tokens, "
+              f"{gs['n_marked_slots']:,} pointed slots, {gs['n_types']:,} unique forms.")
+        print("  Metric = vowel accuracy on slots the classical scribe actually pointed.")
+        for name, split in (("in SEDRA vocab", ev["in_vocab"]),
+                            ("OOV of SEDRA  ", ev["oov"])):
+            print(f"   {name}: vowel acc {split['vowel_acc']:.3f}  "
+                  f"(per-consonant baseline {split['baseline_acc']:.3f})  "
+                  f"on {split['marked_slots']:,} slots / {split['n_words']:,} forms")
+        print("\n  --- OOV-of-SEDRA classical examples (Syriac / predicted / gold) ---")
+        for syr, skel, pred, gold in cross_register_examples(res, ev):
+            flag = "OK" if pred == gold else "~"
+            print(f"   [{flag}] {syr}  {skel:<12} pred {pred:<16} gold {gold}")
+        print("\n  Honest reading: DSC points partially (a classical scribe vocalises")
+        print("  selectively), so we score only pointed slots; the OOV-of-SEDRA split")
+        print("  is the true cross-register generalisation. Cite the Digital Syriac")
+        print("  Corpus (data) and SEDRA/Kiraz (alignment).")
     return 0
 
 
