@@ -49,14 +49,25 @@ a passing leakage assertion; `sedra --selftest`, `morphology --selftest`,
   not vs. the autoregressive byte-LM): frozen **2.000** bpb / 0.307 acc → LoRA
   **1.859** bpb / 0.342 acc. Adapting 0.79% of params measurably improves the LM.
   Run: `neural.canine_pretrain --freeze-encoder` for the control.
+- [x] **SOTA-currency check — Glot500-m** ([`hf_encoder.py`](../hf_encoder.py)):
+  tested a newer massively-multilingual base (XLM-R extended to 511 languages,
+  2023). **Honest negative:** authorship AUC **0.798 / 0.781**, *below* CANINE-c
+  (0.870 / 0.849). The cause is concrete — a tokenizer-coverage check shows
+  Glot500 tokenizes Syriac as **pure character fallback** (~7 pieces/word, no
+  Syriac subwords), so its "511 languages" does not meaningfully include Syriac.
+  The lesson: for a zero-resource abjad the right base is the one with the right
+  *inductive bias for the script* (tokenizer-free CANINE), not the one with the
+  largest language count. (The newest derivative, EMMA-500 / Llama-3.1-8B, shares
+  the Glot lineage's tokenizer, so the same coverage limit is expected; not run.)
 - [ ] Twist 1 (pointing restoration) remains; gated on a SEDRA source for
-  vocalization supervision. A stronger multilingual base (Glot500 / MaLA-500, if
-  they cover `syc`) is the highest-leverage upgrade to the transfer baseline.
+  vocalization supervision.
 
 **Exit check (met):** a pretrained neural encoder plugs into the bake-off and
 reports same/cross-author AUC on the identical cohort. This is the tractable next
-paper — including the honest negative on continued-pretraining for authorship and
-the strong positive from a supervised metric on the contextual encoding.
+paper — including the honest negative on continued-pretraining for authorship, the
+strong positive from a supervised metric on the contextual encoding, and the
+honest negative that a bigger multilingual base does not help when its tokenizer
+misses the script.
 
 ## P2 — Twist 2: factored root/pattern
 

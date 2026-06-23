@@ -169,7 +169,7 @@ def authorship_auc(wv, floors: list[int], normalize: bool = True,
     # warm the cache with every form that can appear in any cohort
     allforms = {tok for t in genuine for tok in t.counts}
     if hasattr(wv, "precompute"):
-        print(f"encoding {len(allforms):,} unique forms with CANINE ...",
+        print(f"encoding {len(allforms):,} unique forms with the encoder ...",
               file=sys.stderr)
         wv.precompute(allforms)
 
