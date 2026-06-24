@@ -155,6 +155,15 @@ def encode(forms: list[str], wv) -> np.ndarray:
     return np.stack([wv[f] for f in forms]).astype(np.float64)
 
 
+def _free(device) -> None:
+    """Release encoder memory between models (MPS cache is not auto-freed)."""
+    try:
+        if getattr(device, "type", None) == "mps":
+            torch.mps.empty_cache()
+    except Exception:  # pragma: no cover
+        pass
+
+
 def _standardise(train: np.ndarray, *others: np.ndarray):
     mu = train.mean(0)
     sd = train.std(0) + 1e-8
@@ -241,11 +250,98 @@ def erase_classmeans(Xfit: np.ndarray, labels: np.ndarray, k: int) -> np.ndarray
     return np.eye(Xfit.shape[1]) - B.T @ B
 
 
+def erase_leace(Xfit: np.ndarray, y: np.ndarray, ridge: float = 1e-3) -> np.ndarray:
+    """Closed-form LEACE eraser (Belrose et al., 2023) for one binary concept.
+
+    Returns a (d x d) matrix ``P`` such that ``X @ P`` is the least-squares
+    concept-erased representation -- the linear map that makes the concept
+    linearly unpredictable while changing the representation as little as possible
+    (measured in the Mahalanobis norm). ``Xfit`` is assumed mean-centred, as
+    produced by ``_standardise``; the eraser is then a pure right-multiplication,
+    so it drops into the same ``X @ P`` call sites as the INLP eraser. This is the
+    principled closed-form counterpart to the iterative ``erase_binary``.
+    """
+    n, d = Xfit.shape
+    z = y.astype(np.float64)
+    z = z - z.mean()
+    sigma = (Xfit.T @ Xfit) / n + ridge * np.eye(d)
+    s_xz = (Xfit.T @ z) / n                      # (d,) cross-covariance
+    evals, evecs = np.linalg.eigh(sigma)
+    evals = np.clip(evals, 1e-8, None)
+    whiten = (evecs * evals ** -0.5) @ evecs.T   # sigma^{-1/2}
+    unwhiten = (evecs * evals ** 0.5) @ evecs.T  # sigma^{+1/2}
+    v = whiten @ s_xz
+    nv = np.linalg.norm(v)
+    if nv < 1e-12:
+        return np.eye(d)
+    vhat = v / nv
+    # remove the concept direction in the whitened space, then map back
+    return whiten @ (np.eye(d) - np.outer(vhat, vhat)) @ unwhiten
+
+
+_ERASERS = {"inlp": erase_binary, "leace": erase_leace}
+
+
+# --------------------------------------------------------------------------- #
+# Compositionality: is the factor a single, composable direction? (analogy)
+# --------------------------------------------------------------------------- #
+def compositionality(Xtr, ytr, Xte, yte, lex_te) -> dict:
+    """Test whether the factor behaves as one consistent additive offset.
+
+    Two complementary, positive-direction views (the dual of erasure):
+
+    * ``offset_consistency`` -- the mean cosine of each held-out lexeme's
+      ``val1 - val0`` difference vector to the global mean offset. ~1 means every
+      lexeme moves in the same direction when the factor flips.
+    * ``analogy_top1`` -- add the *train* mean offset to each held-out ``val0``
+      form and retrieve the nearest ``val1`` form; the hit rate that the nearest
+      neighbour is the same lexeme's ``val1`` form (word2vec-style analogy).
+    """
+    off = Xtr[ytr == 1].mean(0) - Xtr[ytr == 0].mean(0)
+
+    diffs = []
+    for lab in np.unique(lex_te):
+        m = lex_te == lab
+        x0 = Xte[m & (yte == 0)]
+        x1 = Xte[m & (yte == 1)]
+        if len(x0) and len(x1):
+            diffs.append(x1[0] - x0[0])
+    diffs = np.asarray(diffs)
+    consistency = float("nan")
+    if len(diffs) >= 2:
+        mhat = diffs.mean(0)
+        mhat = mhat / (np.linalg.norm(mhat) + 1e-12)
+        cos = diffs @ mhat / (np.linalg.norm(diffs, axis=1) + 1e-12)
+        consistency = float(cos.mean())
+
+    idx0 = np.where(yte == 0)[0]
+    idx1 = np.where(yte == 1)[0]
+    analogy = float("nan")
+    chance = float("nan")
+    if len(idx0) and len(idx1):
+        q = Xte[idx0] + off
+        g = Xte[idx1]
+        qn = q / (np.linalg.norm(q, axis=1, keepdims=True) + 1e-12)
+        gn = g / (np.linalg.norm(g, axis=1, keepdims=True) + 1e-12)
+        with np.errstate(divide="ignore", over="ignore", invalid="ignore"):
+            sims = qn @ gn.T
+        nn = sims.argmax(1)
+        analogy = float(np.mean(lex_te[idx0] == lex_te[idx1][nn]))
+        chance = 1.0 / len(idx1)
+    return {"offset_consistency": round(consistency, 3),
+            "analogy_top1": round(analogy, 3),
+            "analogy_chance": round(chance, 4)}
+
+
 # --------------------------------------------------------------------------- #
 # Experiment
 # --------------------------------------------------------------------------- #
-def run(grid: list[dict], wv, *, seed: int = 42,
+def run(grid: list[dict], wv, *, seed: int = 42, erase: str = "inlp",
+        with_composition: bool = True,
         lex_k_grid: tuple[int, ...] = (16, 32, 64, 128, 256, 512)) -> dict:
+    if erase not in _ERASERS:
+        raise ValueError(f"unknown erase method {erase!r}; choose from {list(_ERASERS)}")
+    erase_factor = _ERASERS[erase]
     lex = np.array([g["lexeme"] for g in grid])
     y = np.array([g["label"] for g in grid])
 
@@ -261,7 +357,7 @@ def run(grid: list[dict], wv, *, seed: int = 42,
 
     out = {"n_pairs": len(grid) // 2, "n_lexemes": len(uniq),
            "n_test_lexemes": len(te_lex), "chance_lexeme_nn": round(chance_r, 4),
-           "results": {}}
+           "erase": erase, "results": {}}
 
     # encoding hits torch; the probes/erasure below raise only the spurious
     # Apple-Silicon Accelerate BLAS FP flags, which we silence.
@@ -275,7 +371,7 @@ def run(grid: list[dict], wv, *, seed: int = 42,
             r_orig = lexeme_nn(Xte, lex[te])
 
             # erase the FACTOR (low-rank binary): fit on train, re-measure on test
-            Pf = erase_binary(Xtr, y[tr])
+            Pf = erase_factor(Xtr, y[tr])
             p_after_f = factor_probe(Xtr @ Pf, y[tr], Xte @ Pf, y[te])
             r_keep = lexeme_nn(Xte @ Pf, lex[te])
 
@@ -307,7 +403,45 @@ def run(grid: list[dict], wv, *, seed: int = 42,
                 "erase_lexeme__factor_acc": picked["factor_acc"],
                 "lexeme_erase_sweep": sweep,
             }
+            if with_composition:
+                out["results"][cond]["composition"] = compositionality(
+                    Xtr, y[tr], Xte, y[te], lex[te])
     return out
+
+
+def run_seeds(grid: list[dict], wv, *, seeds=(42, 7, 13, 101, 2024),
+              erase: str = "inlp") -> dict:
+    """Run the matrix over several split seeds and aggregate mean/SD per metric.
+
+    The encoder cache makes repeated runs cheap (each form is encoded once). Only
+    the train/test lexeme split varies across seeds; the grid sampling is fixed,
+    so the spread is the split sensitivity of the selectivity matrix.
+    """
+    runs = [run(grid, wv, seed=s, erase=erase) for s in seeds]
+    agg = {"seeds": list(seeds), "erase": erase,
+           "n_pairs": runs[0]["n_pairs"], "n_lexemes": runs[0]["n_lexemes"],
+           "n_test_lexemes": runs[0]["n_test_lexemes"],
+           "chance_lexeme_nn": runs[0]["chance_lexeme_nn"], "results": {}}
+    keys = ("factor_acc", "lexeme_nn", "erase_factor__factor_acc",
+            "erase_factor__lexeme_nn", "erase_lexeme__factor_acc",
+            "erase_lexeme__lexeme_nn")
+    comp_keys = ("offset_consistency", "analogy_top1")
+    for cond in ("voc", "cons"):
+        cell = {}
+        for k in keys:
+            vals = np.array([r["results"][cond][k] for r in runs], dtype=float)
+            cell[k] = {"mean": round(float(vals.mean()), 3),
+                       "sd": round(float(vals.std(ddof=0)), 3)}
+        comp = {}
+        for k in comp_keys:
+            vals = np.array([r["results"][cond]["composition"][k] for r in runs],
+                            dtype=float)
+            comp[k] = {"mean": round(float(np.nanmean(vals)), 3),
+                       "sd": round(float(np.nanstd(vals)), 3)}
+        comp["analogy_chance"] = runs[0]["results"][cond]["composition"]["analogy_chance"]
+        cell["composition"] = comp
+        agg["results"][cond] = cell
+    return agg
 
 
 def _print(out: dict, factor: str, encoder_label: str) -> None:
@@ -355,7 +489,7 @@ def _print_summary(rows: list[tuple]) -> None:
 # --------------------------------------------------------------------------- #
 # Encoders (all expose the precompute / wv[token] interface)
 # --------------------------------------------------------------------------- #
-ENCODERS = ("canine", "canine-syriac", "hebrew")
+ENCODERS = ("canine", "canine-syriac", "canine-random", "hebrew")
 
 
 def build_encoder(name: str, device):
@@ -370,6 +504,16 @@ def build_encoder(name: str, device):
                 "(run neural.canine_pretrain first)")
         return CanineWordVectors(load_canine(SYRIAC_CANINE).to(device), device), \
             "Syriac-tuned CANINE (LoRA)"
+    if name == "canine-random":
+        # Same architecture and byte inputs as off-the-shelf CANINE, but random
+        # weights: a control isolating whether the factorisation is a product of
+        # *pretraining* rather than of the architecture or the raw codepoints.
+        from transformers import CanineModel, CanineConfig
+        from neural.canine_encoder import DEFAULT_BASE
+        cfg = CanineConfig.from_pretrained(DEFAULT_BASE)
+        model = CanineModel(cfg)
+        model.eval()
+        return CanineWordVectors(model.to(device), device), "random-init CANINE"
     if name == "hebrew":
         from transformers import AutoModel, AutoTokenizer
         from neural.hf_encoder import HFWordVectors
@@ -444,11 +588,7 @@ def main(argv: list[str] | None = None) -> int:
                 rv["erase_factor__lexeme_nn"], rv["erase_lexeme__lexeme_nn"],
                 rc["factor_acc"]))
         del wv
-        try:
-            if device.type == "mps":
-                torch.mps.empty_cache()
-        except Exception:
-            pass
+        _free(device)
 
     _print_summary(summary)
     return 0

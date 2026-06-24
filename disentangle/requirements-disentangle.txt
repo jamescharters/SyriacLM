@@ -1,0 +1,10 @@
+# Optional extras for the disentanglement sub-project (paper 3).
+#
+# The probes and erasure are numpy-only. The heavy dependencies (torch,
+# transformers) are shared with the neural/ sub-project -- install
+# neural/requirements-neural.txt for the encoders. The only addition here is
+# matplotlib, used solely by disentangle/figures.py to render the paper figures.
+#
+#     .venv/bin/python -m pip install -r disentangle/requirements-disentangle.txt
+
+matplotlib>=3.8

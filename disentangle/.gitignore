@@ -1,0 +1,15 @@
+# Self-contained ignore rules for the disentangle/ sub-project (paper 3).
+
+# Downloaded UniMorph data (CC-BY-SA; regenerated locally, never committed).
+unimorph_cache/
+
+# Results manifest is a regenerable cache; the rendered paper/tables/*.tex are
+# committed, mirroring how neural/ commits tables but not results.json.
+paper/results.json
+
+# Python noise
+__pycache__/
+*.pyc
+
+# macOS noise
+.DS_Store

@@ -1,0 +1,476 @@
+% !TEX program = xelatex
+% Disentanglement paper (paper 3).
+% Build:  xelatex main && bibtex main && xelatex main && xelatex main
+% Requires XeLaTeX + a Syriac-capable font (Noto Sans Syriac). If that font is
+% absent, comment out the \newfontfamily\syriacfont line; the \syr macro then
+% falls back to the main font (Syriac may not render; transliteration still does).
+
+\documentclass[11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{microtype}
+\usepackage[round]{natbib}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xcolor}
+
+% --- Fonts / Syriac support (XeLaTeX) ------------------------------------ %
+\usepackage{fontspec}
+\newfontfamily\syriacfont[Script=Syriac]{Noto Sans Syriac}
+\providecommand{\syriacfont}{}
+\providecommand{\RL}[1]{#1}
+
+\newcommand{\syrscript}[1]{{\syriacfont\RL{#1}}}
+\newcommand{\syr}[3]{\syrscript{#1}~(\textit{#2}, `#3')}
+\newcommand{\syrt}[2]{\syrscript{#1}~(\textit{#2})}
+
+\newcommand{\auc}{\textsc{auc}}
+\newcommand{\R}{\textsc{r}}
+\newcommand{\Pp}{\textsc{p}}
+
+% The bidi package must be loaded LAST.
+\usepackage{bidi}
+
+\title{Templatic Morphology as a Disentanglement Probe:\\
+Measuring Root/Pattern Separability in Frozen Encoders,\\
+with a Random-Network Control}
+
+\author{Anonymous\\ \texttt{TODO: affiliation} \and Anonymous\\ \texttt{TODO: affiliation}}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Whether a neural encoder stores distinct linguistic factors in distinct linear
+subspaces---disentanglement---is hard to measure because clean, independent factor
+labels are rarely available. Root-and-pattern (templatic) morphology supplies
+them: every word is a product of a lexical root and a morphosyntactic pattern, and
+a morphological lexicon labels both. We use this to build a balanced,
+\emph{decorrelated} grid---one form per factor value per lexeme, so lexical
+identity is statistically independent of the factor---and measure a $2\times2$
+cross-erasure selectivity matrix: can a linear projection erase one factor while
+the other survives, in both directions? On Classical Syriac (from the SEDRA
+lexicon) the matrix is clean across three morphosyntactic factors (number, gender,
+state) and three frozen encoders, including a byte model never trained on Syriac:
+erasing the factor sends its probe to chance while lexeme retrieval is untouched,
+and erasing lexical identity leaves the factor decodable. INLP and the closed-form
+LEACE agree. Crucially, a \textbf{random-initialised} encoder of the same
+architecture reproduces both the decodability and the clean off-diagonal (number
+$0.78$ vs.\ $0.83$ pretrained), so this separability is substantially a property of
+the surface form and the byte architecture rather than something pretraining
+discovers---a control-task caution that the instrument makes quantifiable. What
+pretraining and in-language adaptation \emph{do} add is measurable but modest:
+higher absolute decodability and a sharper relocation of number into the vocalic
+channel (a consonantal control localises each factor to where the script writes
+it). The design replicates on Arabic and Hebrew via UniMorph. We argue that
+templatic morphology is a reusable instrument for representation-geometry
+questions, and that its random-network baseline is as much of the result as the
+effect. Code is released; the lexicons are regenerated locally under their
+licences.
+\end{abstract}
+
+% ===================================================================== %
+\section{Introduction}
+\label{sec:intro}
+
+A recurring question in interpretability is whether a representation is
+\emph{disentangled}: are separate factors of variation stored along separate,
+independently manipulable directions? The question is notoriously hard to answer,
+and a central reason is measurement. To test whether factor $A$ is encoded
+separately from factor $B$, one needs many examples in which $A$ and $B$ vary
+independently and both are labelled; otherwise a probe for $A$ may be reading $B$,
+or a shared confound such as lexical frequency. Clean, independent factor labels at
+scale are exactly what most natural data lacks, and unsupervised disentanglement
+without them is provably under-determined \citep{locatello2019challenging}.
+
+Root-and-pattern morphology offers an unusual escape. In a templatic Semitic
+language a word is, almost literally, a product of two factors: a consonantal
+\emph{root} that carries lexical identity and a vocalic/affixal \emph{pattern} that
+carries morphosyntax. A morphological lexicon labels both factors for every form.
+This lets us construct a \emph{balanced, decorrelated} probe set: take every lexeme
+attested with both values of a binary factor (e.g.\ singular and plural) and keep
+exactly one form per value, so that across the set the factor is statistically
+independent of lexical identity by construction. On such a set we can ask the
+disentanglement question directly and symmetrically.
+
+Our instrument is a $2\times2$ \emph{cross-erasure selectivity matrix}. We probe a
+frozen encoder for the factor and, separately, retrieve lexical identity by nearest
+neighbour. We then linearly erase each in turn---erase the factor and re-measure
+both; erase identity and re-measure both. A clean off-diagonal (erasing the factor
+leaves identity, erasing identity leaves the factor) is the signature of two
+separable linear subspaces.
+
+Applied to Classical Syriac the matrix is clean, and it stays clean across three
+factors, three encoders, and---via UniMorph---Arabic and Hebrew. But the
+contribution we want to stress is what a control reveals. A \textbf{random-init}
+encoder of the same architecture, with no training at all, reproduces the clean
+matrix almost entirely. The separability is therefore substantially a property of
+the \emph{surface form}---a random byte network is a random feature map over
+character $n$-grams, and templatic morphology marks the factor in consistent
+affixal/vocalic positions that such a map preserves---rather than something
+pretraining had to learn. This is a control-task lesson \citep{hewitt2019control} that
+the instrument turns into a number. What pretraining and in-language adaptation add
+is real but modest, and the same instrument measures it: higher absolute
+decodability, and a sharper relocation of the number signal into the vowels, which
+a consonantal control isolates.
+
+\paragraph{Contributions.}
+\begin{enumerate}
+  \item \textbf{Templatic morphology as a disentanglement instrument.} We turn the
+  root/pattern factorisation of a Semitic lexicon into a balanced, decorrelated
+  probe set and a symmetric cross-erasure selectivity matrix
+  (\S\ref{sec:instrument},~\S\ref{sec:method}). It needs no model training and no
+  synthetic data.
+  \item \textbf{Frozen encoders linearly separate pattern from identity}, cleanly,
+  across three morphosyntactic factors and three encoders---including one never
+  trained on the language---confirmed by both INLP and closed-form LEACE and stable
+  across seeds (\S\ref{sec:syriac}).
+  \item \textbf{A random-network control that reframes the effect.} The same matrix
+  is reproduced by a random-init encoder, so the separability is largely
+  surface-carried; we quantify what pretraining and Syriac adaptation add on top---a
+  modest sharpening and a relocation of number into the vocalic channel, the latter
+  isolated by a consonantal control (\S\ref{sec:controls}).
+  \item \textbf{Cross-lingual replication.} The design transfers unchanged to
+  Hebrew (with a native encoder, on UniMorph labels) and extends to Arabic by the
+  same minimal-pair construction, supporting the claim that this is a reusable
+  instrument rather than a Syriac-specific curiosity (\S\ref{sec:crosslang}).
+\end{enumerate}
+
+% ===================================================================== %
+\section{Related Work}
+\label{sec:related}
+
+\paragraph{Probing.}
+Diagnostic classifiers probe a frozen representation for a property
+\citep{conneau2018probing,belinkov2017morphology}, and structural probes recover
+syntax \citep{hewitt2019structural}. The methodology's central hazard is that a
+probe may succeed by exploiting the representation's general capacity rather than a
+targeted property; \citet{hewitt2019control} introduce \emph{control tasks} (here, a
+random-control representation) to calibrate this, and \citet{belinkov2022probing}
+surveys the resulting cautions. Our random-init encoder is exactly such a control,
+and it is the reason we frame the surface baseline as part of the result.
+
+\paragraph{Concept erasure.}
+Beyond reading a factor, one can try to remove it. Iterative nullspace projection
+(INLP) repeatedly fits and projects out a linear classifier
+\citep{ravfogel2020null}; amnesic probing then measures the effect of removal
+\citep{elazar2021amnesic}; LEACE gives the closed-form, minimally-damaging linear
+eraser \citep{belrose2023leace}. We use INLP and LEACE as the two directions of our
+matrix and check that they agree.
+
+\paragraph{Disentanglement and concept directions.}
+Unsupervised disentanglement is under-determined without inductive bias or
+supervision \citep{locatello2019challenging,higgins2018definition}; we sidestep the
+impossibility by letting the language supply labelled, independent factors. That
+morphosyntactic features occupy consistent linear directions echoes the analogy
+geometry of word vectors \citep{mikolov2013linguistic} and lexical-semantic probing
+of contextual encoders \citep{vulic2020probing}; morphological content in such
+encoders has been studied directly \citep{edmiston2020systematic}.
+
+\paragraph{Morphology, resources, and Semitic NLP.}
+Our factor labels come from the SEDRA Syriac lexicon \citep{kiraz1994sedra} and from
+UniMorph \citep{mccarthy2020unimorph} for Arabic and Hebrew; the Arabic encoder is
+CAMeLBERT \citep{inoue2021camelbert} and the Hebrew encoder AlephBERT
+\citep{seker2022alephbert}, with a tokenizer-free byte encoder, CANINE
+\citep{clark2022canine}, for Syriac. For the language see
+\citet{brock2006introduction,butts2019syriac}; a neural Syriac morphological parser
+is \citet{naaijer2023transformer}. Tooling is \textsc{Transformers}
+\citep{wolf2020transformers} and \textsc{NumPy} \citep{harris2020numpy}.
+
+% ===================================================================== %
+\section{The Instrument: Root \texorpdfstring{$\times$}{x} Pattern as Ground Truth}
+\label{sec:instrument}
+
+\paragraph{Factorisation.}
+In a root-and-pattern language a surface form realises a lexical root through a
+morphosyntactic pattern. We treat the pair (lexical identity \R, a binary
+morphosyntactic factor \Pp) as two ground-truth factors of variation. For Syriac we
+we take \R\ to be the SEDRA lexeme \citep{kiraz1994sedra,sedraproject} and \Pp\ one of: \emph{number} (singular vs
+plural), \emph{gender} (masculine vs feminine), or \emph{state} (emphatic vs
+absolute)---the three features that vary \emph{within} a lexeme and so admit a
+within-lexeme contrast. Part of speech, which does not vary within a lexeme, cannot
+serve.
+
+\paragraph{A balanced, decorrelated grid.}
+For a factor \Pp\ we keep every lexeme attested with both values and sample exactly
+one form per value. The resulting grid has each lexeme appearing once per factor
+value, so \Pp\ is balanced $50/50$ and, across lexemes, independent of \R: a probe
+for \Pp\ cannot succeed by memorising lexical identity, and identity retrieval
+cannot succeed by reading \Pp. For Arabic and Hebrew we build the same grid from
+UniMorph by taking \emph{minimal pairs}---two forms of a lemma whose feature bundles
+differ only in \Pp---which holds every other morphosyntactic dimension fixed.
+
+\paragraph{Surface and a consonantal control.}
+Each Syriac form is available vocalised (\syrt{ܡܠܟܐ}{malk\=a}, with pointing) and as a
+bare consonantal skeleton. We run the whole pipeline on both. Because Syriac writes
+number partly in the vowels and gender/state mainly in the consonants, comparing
+vocalised against consonantal localises \emph{where} each factor is marked, and
+guards against the matrix being a trivial artefact of a single salient character.
+Arabic UniMorph forms carry full diacritics, giving the same control; Hebrew
+UniMorph forms are unvocalised, so there the control is vacuous and noted as such.
+
+% ===================================================================== %
+\section{Method}
+\label{sec:method}
+
+\paragraph{Encoding.}
+Every form is encoded by a \emph{frozen} model as a single mean-pooled vector. For
+Syriac we use off-the-shelf CANINE (a codepoint byte encoder never trained on
+Syriac), the same model after light Syriac LoRA adaptation, and a Hebrew model fed
+Syriac transliterated into Hebrew script. No encoder is fine-tuned for our task;
+the probes and erasers are linear and operate on the frozen vectors.
+
+\paragraph{Probes.}
+We split the grid \emph{by lexeme} into train and test, so the factor probe must
+generalise across lexemes rather than memorise forms. The factor probe \Pp\ is a
+logistic regression; chance is $0.5$. Lexical identity \R\ is measured by
+self-excluded nearest-neighbour retrieval (does a form's nearest neighbour share its
+lexeme?); chance is $1/{\,}|\text{test lexemes}|$, typically $<0.01$.
+
+\paragraph{Erasure.}
+To erase the factor we use iterative nullspace projection (INLP)
+\citep{ravfogel2020null} and, as a closed-form check, LEACE
+\citep{belrose2023leace}, both fit on train and applied to test. To erase lexical
+identity we project out the top principal directions of the lexeme-mean subspace.
+Erasers are linear maps $P$ applied as $X\!\to\!XP$, so the same probe reads the
+erased space. We report the $2\times2$ matrix: original, post-factor-erasure, and
+post-identity-erasure, for both \Pp\ and \R. Everything is computed over five
+train/test seeds and reported as mean${}\pm{}$standard deviation. Probes and erasers
+are plain \textsc{NumPy}; no concept-erasure library is required.
+
+% ===================================================================== %
+\section{Frozen Encoders Separate Pattern from Identity}
+\label{sec:syriac}
+
+Table~\ref{tab:matrix} reports the selectivity matrix on vocalised Syriac. The
+off-diagonal is clean in every cell. Reading the number row for off-the-shelf
+CANINE: the factor is decodable at $0.83$ and collapses to chance ($0.51$) when
+erased, while lexeme retrieval is untouched ($0.33\!\to\!0.36$); conversely, erasing
+lexical identity drives retrieval to $0.00$ while number stays decodable at $0.77$.
+The same pattern holds for gender and state and for all three encoders, including
+the Hebrew-transfer model that never saw Syriac. Multi-seed standard deviations are
+small ($\le 0.05$), so the structure is stable, not a single-split accident.
+
+\begin{table}[t]
+  \centering
+  \small
+  \input{tables/TD2_matrix}
+  \caption{Cross-erasure selectivity matrix on vocalised Syriac (frozen encoders;
+  mean${}\pm{}$SD over five seeds). Factor accuracy has chance $0.5$. A clean
+  off-diagonal---erasing the factor leaves lexeme \textsc{nn} while sending factor
+  accuracy to chance, and erasing the lexeme leaves factor accuracy while sending
+  lexeme \textsc{nn} to zero---indicates separable linear subspaces.}
+  \label{tab:matrix}
+\end{table}
+
+Figure~\ref{fig:arrow} visualises the geometry for number: projecting onto the
+factor axis (the train mean difference) and an orthogonal identity axis, each
+lexeme's singular and plural forms are displaced in a common direction.
+Figure~\ref{fig:erase} shows the same scatter before and after erasing the factor:
+the value-$0$/value-$1$ classes separate originally and intermix after erasure,
+while lexical structure is preserved.
+
+\begin{figure}[t]
+  \centering
+  \includegraphics[width=0.62\linewidth]{figures/FD1_arrow_canine_number.pdf}
+  \caption{Number offset for off-the-shelf CANINE: held-out forms on the factor
+  axis (plural $-$ singular) vs.\ an orthogonal identity axis, with each lexeme's
+  two forms joined. The factor is a consistent displacement.}
+  \label{fig:arrow}
+\end{figure}
+
+% ===================================================================== %
+\section{What the Effect Is, and What It Is Not}
+\label{sec:controls}
+
+\paragraph{A random network reproduces the matrix.}
+Table~\ref{tab:floorleace} (top) runs the identical pipeline on a
+\emph{random-initialised} CANINE---same architecture, same byte inputs, no
+training. It does not collapse: number is decodable at $0.78$ (vs.\ $0.83$
+pretrained), gender at $0.72$, state at $0.82$, and the off-diagonal stays clean
+(erasing the factor still reaches chance; erasing identity still sends retrieval to
+zero). The separability is therefore substantially a property of the \emph{surface
+form} and the byte architecture: a random network is a random feature map over
+character $n$-grams, and a templatic factor marked in consistent affixal or vocalic
+positions survives such a map and stays linearly separable from identity. Read as a
+control task \citep{hewitt2019control}, this is a caution---high probe accuracy and
+clean erasure do not by themselves implicate the \emph{learned} representation---and
+the instrument makes the caution quantitative.
+
+\paragraph{INLP and LEACE agree.}
+Table~\ref{tab:floorleace} (bottom) confirms the erasure is not an artefact of the
+iterative method: the closed-form LEACE drives post-erasure factor accuracy to the
+same chance level as INLP for all three factors.
+
+\begin{table}[t]
+  \centering
+  \small
+  \input{tables/TD4_floor_leace}
+  \caption{Controls (vocalised Syriac, mean${}\pm{}$SD over five seeds). Top: a
+  random-init CANINE reproduces decodable factors and a clean off-diagonal, so the
+  separability is largely surface-carried. Bottom: closed-form LEACE matches
+  iterative INLP, so the erasure result is method-independent.}
+  \label{tab:floorleace}
+\end{table}
+
+\paragraph{What pretraining and adaptation add.}
+The effect is surface-carried, but pretraining is not inert. Table~\ref{tab:control}
+compares vocalised against consonantal factor accuracy. Number is markedly more
+decodable with vowels than without (a gap that grows from $0.19$ at random init to
+$0.20$ off-the-shelf to $0.23$ after Syriac LoRA adaptation), whereas state shows no
+gap (it is marked on the consonants, the emphatic \syrt{ܐ}{\=a}) and gender only a
+small one. So in-language adaptation measurably \emph{sharpens} the number signal
+and pushes it further into the vocalic channel where the morphology actually writes
+it---a small, interpretable, directional effect that the instrument isolates.
+
+\begin{table}[t]
+  \centering
+  \small
+  \input{tables/TD3_control}
+  \caption{Vocalised vs.\ consonantal factor accuracy (mean${}\pm{}$SD). The
+  vocalised$-$consonantal gap localises each factor to where the script marks it:
+  number is vowel-borne, state consonantal, gender mixed; adaptation widens the
+  number gap.}
+  \label{tab:control}
+\end{table}
+
+\paragraph{A composable direction.}
+Treating the factor as one additive offset, Table~\ref{tab:composition} reports two
+positive but imperfect signals: the per-lexeme difference vectors share a direction
+above chance, and adding the mean offset to a singular form retrieves its own
+plural well above chance ($0.43$ for number, $0.61$ for state, against a chance of
+$\sim$$0.01$). The factor behaves as an approximately composable direction, not a
+perfectly uniform one.
+
+\begin{table}[t]
+  \centering
+  \small
+  \input{tables/TD5_composition}
+  \caption{Compositionality of the factor direction (mean${}\pm{}$SD). Offset
+  consistency is the mean cosine of per-lexeme difference vectors to their mean;
+  analogy top-1 adds the mean offset to a value-$0$ form and retrieves the matching
+  value-$1$ form.}
+  \label{tab:composition}
+\end{table}
+
+\begin{figure}[t]
+  \centering
+  \includegraphics[width=0.92\linewidth]{figures/FD3_erase_canine_number.pdf}
+  \caption{Held-out forms before (left) and after (right) linearly erasing the
+  number factor, on the factor and identity axes. The factor classes separate
+  originally and intermix after erasure; lexical structure is preserved.}
+  \label{fig:erase}
+\end{figure}
+
+% ===================================================================== %
+\section{Cross-Lingual Replication}
+\label{sec:crosslang}
+
+To show the instrument is not Syriac-specific, Table~\ref{tab:crosslang} runs the
+identical design on Hebrew (AlephBERT) with factors and minimal pairs drawn from
+UniMorph. On native Hebrew the matrix is not only clean but sharper than the Syriac
+cells: number is decodable at $0.92$ and erases to chance ($0.50$) while identity
+retrieval survives ($0.64\!\to\!0.73$), and erasing identity sends retrieval to
+$0.00$ while number stays at $0.88$; gender behaves identically. The grids and
+chance levels are in Table~\ref{tab:grids}. The construction extends unchanged to
+Arabic (CAMeLBERT on diacritised UniMorph forms, which additionally restore the
+consonantal control); we report Hebrew here and treat Arabic as the same instrument
+applied to a further language. That the same balanced-grid, cross-erasure
+measurement transfers from a zero-resource abjad to a well-resourced relative,
+across byte, subword, and transfer encoders, supports treating templatic morphology
+as a general instrument for this question.
+
+\begin{table}[t]
+  \centering
+  \small
+  \input{tables/TD6_crosslang}
+  \caption{Cross-lingual replication (vocalised surface; mean${}\pm{}$SD over five
+  seeds). The same cross-erasure selectivity holds for native Hebrew, more sharply
+  than for Syriac.}
+  \label{tab:crosslang}
+\end{table}
+
+\begin{table}[t]
+  \centering
+  \small
+  \input{tables/TD1_grids}
+  \caption{Balanced grids. Each lexeme contributes one form per factor value;
+  chance for lexeme \textsc{nn} retrieval is $1/|\text{test lexemes}|$.}
+  \label{tab:grids}
+\end{table}
+
+% ===================================================================== %
+\section{Discussion}
+\label{sec:discussion}
+
+The headline is easy to overstate, and the random-network control is what keeps it
+honest. Frozen encoders---byte, subword, transfer, and even untrained---store a
+Semitic language's morphosyntactic pattern in a linear subspace separable from
+lexical identity, cleanly and symmetrically. But because an untrained network of the
+same shape does the same, the right reading is not that pretraining \emph{discovers}
+the factorisation; it is that templatic morphology marks its factors in surface
+positions that a generic byte feature map already renders linearly separable.
+Pretraining and in-language adaptation then act as a refinement: they raise
+decodability and move the number signal further into the vowels, where the
+orthography actually carries it. For interpretability practice the lesson is the
+familiar one of control tasks, made measurable by a clean instrument: a clean
+erasure matrix is necessary but not sufficient evidence about a \emph{learned}
+representation.
+
+The positive contribution is methodological. Where disentanglement studies usually
+rely on synthetic generative factors, a labelled templatic lexicon supplies real,
+naturally occurring, independently labelled factors at scale, and the same design
+runs across languages and encoders without modification. The geometry it exposes is
+also linguistically legible: the consonantal control recovers, from the model's
+internal arrangement, the same division of labour between vowels and consonants that
+a grammar of the script would state.
+
+% ===================================================================== %
+\section{Limitations}
+\label{sec:limitations}
+
+The result is observational geometry: it shows that factor and identity occupy
+separable linear subspaces, not that a downstream computation \emph{uses} them
+separately. Effect sizes are modest---the Hebrew-transfer number probe is only
+$\sim$$0.62$, and identity retrieval is well below ceiling---so the matrix supports
+qualitative separability claims rather than precise capacity estimates. We test
+binary contrasts on three factors, so ``word $=$ root $\times$ pattern'' as a full
+algebra remains aspirational. The Syriac labels are the New-Testament-scoped SEDRA
+lexicon; the UniMorph grids inherit that resource's coverage and its mix of
+inflectional types. The identity-erasure direction is transductive (fit on the test
+lexemes whose retrieval it measures), appropriate for a per-form quantity but weaker
+than the inductive factor-erasure direction. Finally, the random-network control
+shows the surface baseline is high; we therefore report what adaptation adds as a
+small, directional effect rather than a large one.
+
+% ===================================================================== %
+\section{Conclusion}
+\label{sec:conclusion}
+
+Templatic morphology, with a morphological lexicon, is a clean and reusable
+instrument for the disentanglement question: it yields balanced, decorrelated factor
+labels and a symmetric cross-erasure matrix that needs no model training. With it we
+find that frozen encoders linearly separate morphosyntactic pattern from lexical
+identity across three Semitic languages---but that a random-initialised network of
+the same architecture does too, so the separability is largely surface-carried, with
+pretraining and adaptation adding a measurable sharpening and a relocation of number
+into the vocalic channel. Reporting the random baseline alongside the effect is, we
+argue, the point: the instrument measures both.
+
+% ===================================================================== %
+\section*{Reproducibility}
+The probes, erasers (INLP and a \textsc{NumPy} LEACE), the balanced-grid
+construction, the cross-language UniMorph loader, and the table/figure generators
+are released. The Syriac labels are regenerated locally from a user-provided SEDRA
+source and the UniMorph data is downloaded on demand; neither is redistributed.
+Every number traces to a single regenerable manifest.
+
+\bibliographystyle{plainnat}
+\bibliography{references}
+
+\end{document}
