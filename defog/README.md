@@ -1,23 +1,32 @@
 # Syriac Bipartite DeFoG
 
+> **Status (2026-06-24): exploratory; NOT a strong core-ML result.** The bipartite
+> structure does not beat a generic copy baseline by much, and a training-free
+> lookup beats every neural model at this scale. The original "template
+> generation" framing turned out to be near-trivial. What stands up is a
+> low-resource compositional-generalisation **benchmark** plus a mechanism
+> **finding** (seq2seq fails on unseen roots by overfitting radical identity).
+> Read [docs/FINDINGS.md](docs/FINDINGS.md) for the full, self-critical write-up
+> with all numbers before building on this.
+
 ## What this is
 
 A **generative** model of Semitic non-concatenative morphology: coupled discrete
 flow matching over bipartite root–template graphs.
 
-The core claim: Syriac/Semitic word generation is structurally a *bipartite graph
-co-generation* problem, not sequence transduction. A surface form like ܟܬܒ (ktb,
-"he wrote") is a consonantal root set R={k,t,b} interdigitated into a positional
-template T=[C1aC2aC3]. Crucially the **template is determined by the
-morphosyntactic features** (number, gender, state, person, tense, category), not
-by the root — so the well-posed task is compositional:
+The original claim (which we then tested and largely walked back — see
+[docs/FINDINGS.md](docs/FINDINGS.md)): Syriac/Semitic word generation is
+structurally a *bipartite graph co-generation* problem, not sequence
+transduction. A surface form like ܟܬܒ (ktb, "he wrote") is a consonantal root set
+R={k,t,b} interdigitated into a positional template T=[C1aC2aC3], where the
+template is determined by the morphosyntactic features (number, gender, state,
+person, tense, category).
 
-> given a (possibly novel) root **and** a feature spec, generate the interdigitated form.
-
-The CS/AI question is *systematic generalisation*: does a model that has seen a
-root inflected one way, and a pattern realised on other roots, compose the two
-for a **root it has never seen**? The bipartite set×sequence factorisation is the
-Semitic-specific inductive bias we test this with.
+The CS/AI question we wanted to ask was *systematic generalisation*: does a model
+that has seen a root inflected one way, and a pattern realised on other roots,
+compose the two for a **root it has never seen**? The bipartite set×sequence
+factorisation is the Semitic-specific inductive bias we tested — and the controls
+below show it does not, on its own, earn its keep.
 
 This implementation:
 1. Reads real SEDRA IV data from the shared local `corpora/sedra_cache` (no network)
@@ -33,21 +42,26 @@ This implementation:
 - Template encoder: positional transformer (order-sensitive over slots)
 - Coupling: cross-attention between R and T representations
 - Morphological conditioning: per-feature embeddings summed into a pattern vector
-  (the signal that makes template generation well-posed)
+  (intended to make template generation well-posed; see the caveat below)
 - Flow: discrete CTMC (continuous-time Markov chain) over joint (R,T) state
 
-### Why feature conditioning matters (ablation)
-Each root realises ~9 distinct templates, so **root alone underdetermines the
-template**. On held-out roots (30 epochs, 150 roots, seed 42):
+### What the controls showed (read this before trusting the model)
+Predicting the **template** from (root, features) turned out to be near-trivial:
+a training-free lookup table beats the neural model **without ever seeing the
+root** (held-out roots: lookup exact 0.27 vs model 0.15), because templates are
+feature-determined. The genuinely root-dependent task is **reinflection**
+(root + features → inflected *form*). On that task, held-out-root exact match
+(3-seed means, 40 epochs / 150 roots):
 
-| zero-shot, novel roots | morph **ON** | morph **OFF** (`--no-morph`) | majority baseline |
-|---|---|---|---|
-| template per-slot acc  | **0.61** | 0.50 | 0.54 |
-| template **exact match** | **0.15** | 0.06 | 0.01 |
+| model | held-out exact | seen-root exact |
+|---|---|---|
+| plain char-seq2seq | 0.067 | 0.21 |
+| copy-seq2seq (pointer-generator) | 0.153 | 0.17 |
+| structured reinflector | 0.176 | 0.23 |
+| structured-lookup (training-free) | **0.211** | — |
 
-With the feature spec the model composes pattern×root for unseen roots (exact
-match ~18× baseline); without it, accuracy collapses to the marginal-pattern
-floor. Longer training widens the gap.
+The structural model wins on every seed but only marginally over a generic copy
+baseline, and the lookup tops them all. See [docs/FINDINGS.md](docs/FINDINGS.md).
 
 ### Data pipeline
 ```
@@ -59,9 +73,13 @@ BipartiteMorphGraph objects → DataLoader
 ## Files
 - `data.py`      — local SEDRA IV reader (`corpora/sedra_cache`) + morphological parser
 - `graph.py`     — BipartiteMorphGraph construction + morphological feature schema
-- `model.py`     — Bipartite DeFoG architecture + feature conditioning
+- `model.py`     — Bipartite DeFoG architecture + feature conditioning (template task)
 - `train.py`     — Training loop + zero-shot (root, features) → template eval
-- `run.py`       — Entry point
+- `run.py`       — Entry point for the discrete-flow model
+- `lookup_baseline.py`     — training-free feature→template table (shows the template task is trivial)
+- `reinflect_baseline.py`  — char seq2seq + `--copy` pointer-generator (reinflection baselines)
+- `structured_reinflect.py`— slot-sequence structured reinflector (the structural model)
+- `docs/FINDINGS.md`       — **honest assessment, full results, and the verdict**
 
 ## Usage
 
