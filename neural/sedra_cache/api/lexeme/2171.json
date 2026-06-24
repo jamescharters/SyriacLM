@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 2171,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2171.json"
+        },
+        "syriac": "\u0723\u0723\u0710",
+        "glosses": {
+            "English": [
+                "moth",
+                "maggot, worm",
+                "moth",
+                "decay."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1296,
+            "uri": "https://sedra.bethmardutho.org/api/root/1296.json"
+        },
+        "words": [
+            {
+                "id": 14434,
+                "uri": "https://sedra.bethmardutho.org/api/word/14434.json"
+            },
+            {
+                "id": 14433,
+                "uri": "https://sedra.bethmardutho.org/api/word/14433.json"
+            },
+            {
+                "id": 14435,
+                "uri": "https://sedra.bethmardutho.org/api/word/14435.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15619,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15619.json"
+        },
+        "syriac": "\u0725\u0718\u0710",
+        "glosses": {
+            "English": [
+                "IIa to bark",
+                "Ia to groan",
+                "to howl",
+                "IIIa to make to groan, to oppress."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2097,
+            "uri": "https://sedra.bethmardutho.org/api/root/2097.json"
+        },
+        "words": [
+            {
+                "id": 42016,
+                "uri": "https://sedra.bethmardutho.org/api/word/42016.json"
+            },
+            {
+                "id": 41538,
+                "uri": "https://sedra.bethmardutho.org/api/word/41538.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

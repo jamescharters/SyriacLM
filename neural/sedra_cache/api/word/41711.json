@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0722\u071f\u072b\u072a",
+        "western": "\u0722\u0736\u071f\u072b\u0730\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15705,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15705.json"
+        },
+        "stem": "\u071f\u072b\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0633\u0646, \u0646\u0641\u0639"
+            ],
+            "eng": [
+                "to apply oneself diligently",
+                "IIa to accomplish successfully",
+                "to be serviceable",
+                "to be active, act diligently",
+                "IIIa to produce good results, to have success, to succeed.",
+                "Ia to prosper, succeed",
+                "IIp to prosper, succeed"
+            ],
+            "fre": [
+                "\u00eatre bon, utile"
+            ]
+        },
+        "word": {
+            "id": 41711,
+            "uri": "https://sedra.bethmardutho.org/api/word/41711.json"
+        }
+    }
+]

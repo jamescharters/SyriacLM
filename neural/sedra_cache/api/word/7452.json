@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u071a\u0728\u0717",
+        "western": "\u071a\u0730\u0728\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1126,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1126.json"
+        },
+        "stem": "\u071a\u0728\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u0627\u062d\u0629",
+                "\u0638\u0647\u0631",
+                "\u0643\u0644\u064a\u0629"
+            ],
+            "eng": [
+                "loins",
+                "back (of the body)",
+                "back, loin."
+            ],
+            "fre": [
+                "dos",
+                "rein",
+                "surface"
+            ]
+        },
+        "word": {
+            "id": 7452,
+            "uri": "https://sedra.bethmardutho.org/api/word/7452.json"
+        }
+    }
+]

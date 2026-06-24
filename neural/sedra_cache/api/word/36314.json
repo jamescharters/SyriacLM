@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0728\u0712\u0710",
+        "western": "\u0729\u0730\u0728\u0733\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14235,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14235.json"
+        },
+        "stem": "\u0729\u0728\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u062d\u0627\u0645"
+            ],
+            "eng": [
+                "butcher."
+            ],
+            "fre": [
+                "boucher"
+            ]
+        },
+        "word": {
+            "id": 36314,
+            "uri": "https://sedra.bethmardutho.org/api/word/36314.json"
+        }
+    }
+]

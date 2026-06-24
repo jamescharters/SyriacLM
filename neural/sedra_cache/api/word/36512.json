@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0723\u071d\u0723",
+        "western": "\u0710\u0736\u071f\u0723\u073a\u071d\u0723",
+        "number": "singular",
+        "lexeme": {
+            "id": 12211,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12211.json"
+        },
+        "stem": "\u0710\u071f\u0723\u071d\u0723",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0628\u064a\u0639\u0629",
+                "\u062b\u0628\u0627\u062a"
+            ],
+            "eng": [
+                "constitution, habit."
+            ],
+            "fre": [
+                "nature",
+                "fixit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 36512,
+            "uri": "https://sedra.bethmardutho.org/api/word/36512.json"
+        }
+    }
+]

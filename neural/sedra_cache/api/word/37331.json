@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0719\u0720\u0713\u0710",
+        "western": "\u0719\u0736\u0720\u0713\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11178,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11178.json"
+        },
+        "stem": "\u0719\u0720\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u064a\u0627\u0621, \u0628\u0647\u0627\u0621"
+            ],
+            "eng": [
+                "brightness, shining."
+            ],
+            "fre": [
+                "\u00e9clat, splendeur"
+            ]
+        },
+        "word": {
+            "id": 37331,
+            "uri": "https://sedra.bethmardutho.org/api/word/37331.json"
+        }
+    }
+]

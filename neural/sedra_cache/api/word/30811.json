@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u0712\u0718\u072b\u0710",
+        "western": "\u071a\u0733\u0712\u073d\u0718\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8280,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8280.json"
+        },
+        "stem": "\u071a\u0712\u0718\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0627\u0645"
+            ],
+            "eng": [
+                "comprehensive, containing",
+                "convincing."
+            ],
+            "fre": [
+                "g\u00e9n\u00e9ral"
+            ]
+        },
+        "word": {
+            "id": 30811,
+            "uri": "https://sedra.bethmardutho.org/api/word/30811.json"
+        }
+    }
+]

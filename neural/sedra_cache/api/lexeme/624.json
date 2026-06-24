@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 624,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/624.json"
+        },
+        "syriac": "\u0713\u072a\u0712\u0710",
+        "glosses": {
+            "English": [
+                "leprosy"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 400,
+            "uri": "https://sedra.bethmardutho.org/api/root/400.json"
+        },
+        "words": [
+            {
+                "id": 3964,
+                "uri": "https://sedra.bethmardutho.org/api/word/3964.json"
+            },
+            {
+                "id": 3965,
+                "uri": "https://sedra.bethmardutho.org/api/word/3965.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

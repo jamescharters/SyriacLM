@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1465,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1465.json"
+        },
+        "syriac": "\u071f\u0712\u072a\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0628\u0631\u064a\u062a"
+            ],
+            "French": [
+                "soufre"
+            ],
+            "English": [
+                "sulphur",
+                "brimstone",
+                "Kth. matches.",
+                "sulphur, brimstone"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 868,
+            "uri": "https://sedra.bethmardutho.org/api/root/868.json"
+        },
+        "words": [
+            {
+                "id": 9721,
+                "uri": "https://sedra.bethmardutho.org/api/word/9721.json"
+            },
+            {
+                "id": 9720,
+                "uri": "https://sedra.bethmardutho.org/api/word/9720.json"
+            },
+            {
+                "id": 9719,
+                "uri": "https://sedra.bethmardutho.org/api/word/9719.json"
+            },
+            {
+                "id": 9722,
+                "uri": "https://sedra.bethmardutho.org/api/word/9722.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u0720\u071d",
+        "western": "\u071a\u0720\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1043,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1043.json"
+        },
+        "stem": "\u071a\u0720\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp to become sweet.",
+                "be sweet",
+                "IIa, IIIa to sweeten",
+                "Ia to be, become sweet"
+            ]
+        },
+        "word": {
+            "id": 7070,
+            "uri": "https://sedra.bethmardutho.org/api/word/7070.json"
+        }
+    }
+]

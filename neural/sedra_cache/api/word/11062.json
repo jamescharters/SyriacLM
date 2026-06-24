@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0715",
+        "western": "\u0720\u0721\u0730\u0715\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1678,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1678.json"
+        },
+        "stem": "\u0720\u0721\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0646\u0636\u0645"
+            ],
+            "eng": [
+                "join",
+                "IIa to bring together, connect, compile",
+                "IIp to be connected, related, to be set (to music).",
+                "to accord with",
+                "Ia to put together, compile"
+            ],
+            "fre": [
+                "s&#39;unir"
+            ]
+        },
+        "word": {
+            "id": 11062,
+            "uri": "https://sedra.bethmardutho.org/api/word/11062.json"
+        }
+    }
+]

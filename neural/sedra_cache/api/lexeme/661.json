@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 661,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/661.json"
+        },
+        "syriac": "\u0715\u0718\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "misery",
+                "misery, wretchedness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 420,
+            "uri": "https://sedra.bethmardutho.org/api/root/420.json"
+        },
+        "words": [
+            {
+                "id": 4182,
+                "uri": "https://sedra.bethmardutho.org/api/word/4182.json"
+            },
+            {
+                "id": 4181,
+                "uri": "https://sedra.bethmardutho.org/api/word/4181.json"
+            },
+            {
+                "id": 4180,
+                "uri": "https://sedra.bethmardutho.org/api/word/4180.json"
+            },
+            {
+                "id": 4179,
+                "uri": "https://sedra.bethmardutho.org/api/word/4179.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

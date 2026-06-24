@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 1525,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1525.json"
+        },
+        "syriac": "\u071f\u0720\u0725\u0715\u0722",
+        "glosses": {
+            "English": [
+                "always"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2030,
+            "uri": "https://sedra.bethmardutho.org/api/root/2030.json"
+        },
+        "words": [
+            {
+                "id": 10028,
+                "uri": "https://sedra.bethmardutho.org/api/word/10028.json"
+            },
+            {
+                "id": 9929,
+                "uri": "https://sedra.bethmardutho.org/api/word/9929.json"
+            }
+        ],
+        "category": "idiom",
+        "kaylo": "p\u02bfal"
+    }
+]

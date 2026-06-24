@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 451,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/451.json"
+        },
+        "syriac": "\u0712\u0729\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062a\u0634",
+                "\u062b\u0642\u0628"
+            ],
+            "French": [
+                "chercher",
+                "trouer"
+            ],
+            "English": [
+                "seek",
+                "bore",
+                "Ia to ask, question",
+                "to perforate",
+                "Ip",
+                "IIa to examine",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 305,
+            "uri": "https://sedra.bethmardutho.org/api/root/305.json"
+        },
+        "words": [
+            {
+                "id": 3145,
+                "uri": "https://sedra.bethmardutho.org/api/word/3145.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

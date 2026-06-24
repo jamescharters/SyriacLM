@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0721\u0721\u0720\u0710",
+        "western": "\u0721\u0730\u0721\u0720\u0736\u0710",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1769,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1769.json"
+        },
+        "stem": "\u0721\u0721\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "consolation"
+            ]
+        },
+        "word": {
+            "id": 11682,
+            "uri": "https://sedra.bethmardutho.org/api/word/11682.json"
+        }
+    }
+]

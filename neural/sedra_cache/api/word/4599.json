@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u071f\u072a\u0710",
+        "western": "\u0715\u0741\u0736\u071f\u0742\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 707,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/707.json"
+        },
+        "stem": "\u0715\u071f\u072a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "male",
+                "<span class=\"selectableFont\">\u072a\u073a\u071d\u072b \u0715\u0736\u071f\u072a\u0733\u0710</span> battering ram.",
+                "male, masculine",
+                "ram"
+            ]
+        },
+        "word": {
+            "id": 4599,
+            "uri": "https://sedra.bethmardutho.org/api/word/4599.json"
+        }
+    }
+]

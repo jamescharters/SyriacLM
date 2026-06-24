@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2828,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2828.json"
+        },
+        "syriac": "\u0729\u0720\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062f\u062d, \u0639\u0638\u0645 (\u0645\u0636)",
+                "\u0635\u062f\u0642 \u0639\u0644\u0649",
+                "\u00a0"
+            ],
+            "French": [
+                "louer, c\u00e9l\u00e9brer",
+                "approuver",
+                "\u00a0"
+            ],
+            "English": [
+                "laud",
+                "IIa to applaud, praise",
+                "IIp.",
+                "a Pharisee, belonging to an approved heresy"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03b1\u03bb\u1ff6\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1673,
+            "uri": "https://sedra.bethmardutho.org/api/root/1673.json"
+        },
+        "words": [
+            {
+                "id": 58178,
+                "uri": "https://sedra.bethmardutho.org/api/word/58178.json"
+            },
+            {
+                "id": 18398,
+                "uri": "https://sedra.bethmardutho.org/api/word/18398.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

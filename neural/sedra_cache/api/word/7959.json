@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u0718\u071d\u0712\u0710",
+        "western": "\u071b\u073d\u0718\u071d\u0733\u0712\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1202,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1202.json"
+        },
+        "stem": "\u071b\u0718\u071d\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "readiness",
+                "preparation, readiness.",
+                "preparation",
+                "promptitude",
+                "preparedness"
+            ]
+        },
+        "word": {
+            "id": 7959,
+            "uri": "https://sedra.bethmardutho.org/api/word/7959.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0718\u0722\u0729\u0722\u071d\u0710",
+        "western": "\u0723\u073d\u0718\u0722\u0729\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13526,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13526.json"
+        },
+        "stem": "\u0723\u0718\u0722\u0729\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0631\u0648\u0631\u064a"
+            ],
+            "eng": [
+                "necessary, needful."
+            ],
+            "fre": [
+                "n\u00e9cessaire"
+            ]
+        },
+        "word": {
+            "id": 35688,
+            "uri": "https://sedra.bethmardutho.org/api/word/35688.json"
+        }
+    }
+]

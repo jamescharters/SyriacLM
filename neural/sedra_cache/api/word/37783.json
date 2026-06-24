@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0729\u071d\u0721\u0722\u0710",
+        "western": "\u0721\u0729\u073a\u071d\u0721\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14078,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14078.json"
+        },
+        "stem": "\u0721\u0729\u071d\u0721\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u0627\u0641\u0638 \u0639\u0644\u0649, \u0645\u0646\u0642\u0630",
+                "\u0645\u0624\u0633\u0633"
+            ],
+            "eng": [
+                "persistent.",
+                "restorer",
+                "one who raises from the dead"
+            ],
+            "fre": [
+                "fondateur",
+                "mainteneur, sauveur"
+            ]
+        },
+        "word": {
+            "id": 37783,
+            "uri": "https://sedra.bethmardutho.org/api/word/37783.json"
+        }
+    }
+]

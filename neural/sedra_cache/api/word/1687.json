@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0718\u0710\u0723\u072a\u0717",
+        "western": "\u0718\u0730\u0710\u0723\u072a\u0736\u0717",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 235,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/235.json"
+        },
+        "stem": "\u0710\u0723\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fasten",
+                "Ia to bind, to fasten, Kth. to take prisoner",
+                "Ip.",
+                "bind"
+            ]
+        },
+        "word": {
+            "id": 1687,
+            "uri": "https://sedra.bethmardutho.org/api/word/1687.json"
+        }
+    }
+]

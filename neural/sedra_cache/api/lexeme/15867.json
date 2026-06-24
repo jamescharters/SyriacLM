@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15867,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15867.json"
+        },
+        "syriac": "\u0729\u072b",
+        "glosses": {
+            "English": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u073d\u0718\u072b</span> & <span class=\"selectableFont\">\u0722\u0736\u0729\u0730\u072b</span>, Ia to pick up sticks (etc.)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3061,
+            "uri": "https://sedra.bethmardutho.org/api/root/3061.json"
+        },
+        "words": [
+            {
+                "id": 42116,
+                "uri": "https://sedra.bethmardutho.org/api/word/42116.json"
+            },
+            {
+                "id": 41976,
+                "uri": "https://sedra.bethmardutho.org/api/word/41976.json"
+            },
+            {
+                "id": 40775,
+                "uri": "https://sedra.bethmardutho.org/api/word/40775.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

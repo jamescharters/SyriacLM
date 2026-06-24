@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 15593,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15593.json"
+        },
+        "syriac": "\u072b\u0726\u0720",
+        "glosses": {
+            "English": [
+                "weaken",
+                "low",
+                "humble",
+                "IIp to be wearied, worn out",
+                "Ia to be low",
+                "to be abased",
+                "IIa to bring low, to cast down",
+                "IIIa to bring low, to humble, to overpower.",
+                "to be weakened"
+            ],
+            "Arabic": [
+                "\u0633\u0641\u0644, \u062f\u0646\u064a",
+                "\u062e\u0645\u062f \u0646\u0634\u0627\u0637\u0647"
+            ],
+            "French": [
+                "\u00eatre bas, vil",
+                "\u00eatre abattu"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2316,
+            "uri": "https://sedra.bethmardutho.org/api/root/2316.json"
+        },
+        "words": [
+            {
+                "id": 21768,
+                "uri": "https://sedra.bethmardutho.org/api/word/21768.json"
+            },
+            {
+                "id": 21769,
+                "uri": "https://sedra.bethmardutho.org/api/word/21769.json"
+            },
+            {
+                "id": 21767,
+                "uri": "https://sedra.bethmardutho.org/api/word/21767.json"
+            },
+            {
+                "id": 41632,
+                "uri": "https://sedra.bethmardutho.org/api/word/41632.json"
+            },
+            {
+                "id": 41541,
+                "uri": "https://sedra.bethmardutho.org/api/word/41541.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0725\u072a\u071b",
+        "western": "\u0725\u0730\u072a\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15076,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15076.json"
+        },
+        "stem": "\u0725\u072a\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0631\u0637"
+            ],
+            "eng": [
+                "IIa to fart."
+            ],
+            "fre": [
+                "p\u00e9ter"
+            ]
+        },
+        "word": {
+            "id": 40333,
+            "uri": "https://sedra.bethmardutho.org/api/word/40333.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14948,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14948.json"
+        },
+        "syriac": "\u072c\u071f\u072c\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u063a\u0627"
+            ],
+            "French": [
+                "mugir"
+            ],
+            "English": [
+                "IVa to bellow."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3101,
+            "uri": "https://sedra.bethmardutho.org/api/root/3101.json"
+        },
+        "words": [
+            {
+                "id": 41272,
+                "uri": "https://sedra.bethmardutho.org/api/word/41272.json"
+            },
+            {
+                "id": 40797,
+                "uri": "https://sedra.bethmardutho.org/api/word/40797.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

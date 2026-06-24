@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0717",
+        "western": "\u0715\u0741\u0721\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 719,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/719.json"
+        },
+        "stem": "\u0715\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "blood",
+                "blood, bloodshed",
+                "sap, juice (of plants)."
+            ]
+        },
+        "word": {
+            "id": 4647,
+            "uri": "https://sedra.bethmardutho.org/api/word/4647.json"
+        }
+    }
+]

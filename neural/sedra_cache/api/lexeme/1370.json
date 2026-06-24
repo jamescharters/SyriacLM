@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1370,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1370.json"
+        },
+        "syriac": "\u0721\u072b\u0718\u071a\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0646\u0641\u0631\u062f",
+                "\u0641\u0631\u062f\u064a"
+            ],
+            "French": [
+                "solitaire",
+                "singulier"
+            ],
+            "English": [
+                "desolate",
+                "solitary",
+                "alone"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 819,
+            "uri": "https://sedra.bethmardutho.org/api/root/819.json"
+        },
+        "words": [
+            {
+                "id": 9011,
+                "uri": "https://sedra.bethmardutho.org/api/word/9011.json"
+            },
+            {
+                "id": 29304,
+                "uri": "https://sedra.bethmardutho.org/api/word/29304.json"
+            },
+            {
+                "id": 9012,
+                "uri": "https://sedra.bethmardutho.org/api/word/9012.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "shaph\u02bfel"
+    }
+]

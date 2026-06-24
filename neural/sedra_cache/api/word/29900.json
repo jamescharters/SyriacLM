@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u072b\u071f\u071d\u072c\u0710",
+        "western": "\u071f\u0730\u072b\u071f\u073a\u071d\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6911,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6911.json"
+        },
+        "stem": "\u071f\u072b\u071f\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u0641\u0629"
+            ],
+            "eng": [
+                "room."
+            ],
+            "fre": [
+                "chambre"
+            ]
+        },
+        "word": {
+            "id": 29900,
+            "uri": "https://sedra.bethmardutho.org/api/word/29900.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 789,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/789.json"
+        },
+        "syriac": "\u0717\u071d\u0715\u071d\u0722",
+        "glosses": {
+            "English": [
+                "then",
+                "afterwards",
+                "next",
+                "then."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 500,
+            "uri": "https://sedra.bethmardutho.org/api/root/500.json"
+        },
+        "words": [
+            {
+                "id": 5129,
+                "uri": "https://sedra.bethmardutho.org/api/word/5129.json"
+            },
+            {
+                "id": 4377,
+                "uri": "https://sedra.bethmardutho.org/api/word/4377.json"
+            },
+            {
+                "id": 4375,
+                "uri": "https://sedra.bethmardutho.org/api/word/4375.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

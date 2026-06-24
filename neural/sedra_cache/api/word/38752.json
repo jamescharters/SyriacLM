@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u0712\u0718\u072c\u0710",
+        "western": "\u071f\u0712\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7863,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7863.json"
+        },
+        "stem": "\u071f\u0712\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0628\u0644"
+            ],
+            "eng": [
+                "dung."
+            ],
+            "fre": [
+                "excr\u00e9ment, bouse"
+            ]
+        },
+        "word": {
+            "id": 38752,
+            "uri": "https://sedra.bethmardutho.org/api/word/38752.json"
+        }
+    }
+]

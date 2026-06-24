@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 28524,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28524.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0710\u0729\u0720\u071d\u0715\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u03b5\u1f50\u03c1\u03bf\u03ba\u03bb\u03cd\u03b4\u03c9\u03bd"
+            ],
+            "English": [
+                "a storm from the East",
+                "euroaquilo, the northeast wind"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f50\u03c1\u03b1\u03ba\u03cd\u03bb\u03c9\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 54898,
+                "uri": "https://sedra.bethmardutho.org/api/word/54898.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

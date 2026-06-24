@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u071f\u0718\u072a\u0717\u0722\u071d\u071f",
+        "western": "\u071f\u0741\u073d\u0718\u072a\u0717\u0733\u0722\u0730\u071d\u071f\u0741",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1580,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1580.json"
+        },
+        "stem": "\u071f\u0718\u072a\u0717\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "infirmity",
+                "ailment",
+                "sickness",
+                "sickness, illness.",
+                "disease"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 10398,
+            "uri": "https://sedra.bethmardutho.org/api/word/10398.json"
+        }
+    }
+]

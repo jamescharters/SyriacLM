@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2206,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2206.json"
+        },
+        "syriac": "\u0723\u072a\u071b",
+        "glosses": {
+            "English": [
+                "to make a stroke, line",
+                "to lacerate",
+                "trace",
+                "draw",
+                "IIp.",
+                "IIa to tear off skin",
+                "Ia to scratch",
+                "to write"
+            ],
+            "Arabic": [
+                "\u0634\u0643",
+                "\u0643\u062a\u0628",
+                "\u062e\u0637, \u0631\u0633\u0645"
+            ],
+            "French": [
+                "piquer",
+                "\u00e9crire",
+                "tracer, dessiner"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1321,
+            "uri": "https://sedra.bethmardutho.org/api/root/1321.json"
+        },
+        "words": [
+            {
+                "id": 14590,
+                "uri": "https://sedra.bethmardutho.org/api/word/14590.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

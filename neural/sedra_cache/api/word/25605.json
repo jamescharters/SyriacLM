@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u071d\u072a\u072c\u0722",
+        "western": "\u071d\u0733\u072a\u072c\u0741\u0733\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1429,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1429.json"
+        },
+        "stem": "\u071d\u072a\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to cause to inherit.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u072a\u0736\u072c</span> to leave an inheritance",
+                "to cause to inherit, to distribute.",
+                "Ip to be made heir",
+                "to be made to inherit",
+                "to be heir",
+                "Ia to inherit, to take possession",
+                "heir",
+                "inherit"
+            ]
+        },
+        "word": {
+            "id": 25605,
+            "uri": "https://sedra.bethmardutho.org/api/word/25605.json"
+        }
+    }
+]

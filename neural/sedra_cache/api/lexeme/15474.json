@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15474,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15474.json"
+        },
+        "syriac": "\u072b\u072a\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u062d\u0641"
+            ],
+            "French": [
+                "ramper"
+            ],
+            "English": [
+                "Ia to creep."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3079,
+            "uri": "https://sedra.bethmardutho.org/api/root/3079.json"
+        },
+        "words": [
+            {
+                "id": 41881,
+                "uri": "https://sedra.bethmardutho.org/api/word/41881.json"
+            },
+            {
+                "id": 40946,
+                "uri": "https://sedra.bethmardutho.org/api/word/40946.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

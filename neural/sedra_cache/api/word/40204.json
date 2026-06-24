@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u0713\u0719\u071d",
+        "western": "\u0713\u0730\u0719\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15281,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15281.json"
+        },
+        "stem": "\u0713\u0719\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0645",
+                "\u0637\u0631\u062f",
+                "\u00a0",
+                "\u0623\u0639\u0642\u0631",
+                "\u0623\u062b\u0643\u0644",
+                "\u0637\u0631\u062d"
+            ],
+            "eng": [
+                "IIa to bereave, to deprive",
+                "To deprive",
+                "To bereave, deprive of",
+                "To be bereaved",
+                "IIp."
+            ],
+            "fre": [
+                "priver",
+                "rendre st\u00e9rile",
+                "avorter",
+                "priver d&#39;enfants",
+                "rejeter",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40204,
+            "uri": "https://sedra.bethmardutho.org/api/word/40204.json"
+        }
+    }
+]

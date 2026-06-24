@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 17,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/17.json"
+        },
+        "syriac": "\u0710\u0712\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u062c\u0631",
+                "\u062c\u0648\u0647\u0631"
+            ],
+            "French": [
+                "pierre",
+                "gemme"
+            ],
+            "English": [
+                "stone",
+                "stone",
+                "+ <span class=\"selectableFont\">\u0715\u072b\u0308\u0733\u0725\u0736\u0710</span> sundial."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 12,
+            "uri": "https://sedra.bethmardutho.org/api/root/12.json"
+        },
+        "words": [
+            {
+                "id": 163,
+                "uri": "https://sedra.bethmardutho.org/api/word/163.json"
+            },
+            {
+                "id": 164,
+                "uri": "https://sedra.bethmardutho.org/api/word/164.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

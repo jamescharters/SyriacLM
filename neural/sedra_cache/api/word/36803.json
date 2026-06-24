@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0729\u0710",
+        "western": "\u0729\u0733\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10943,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10943.json"
+        },
+        "stem": "\u0729\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u062c\u0639"
+            ],
+            "eng": [
+                "pelican."
+            ],
+            "fre": [
+                "p\u00e9lican"
+            ]
+        },
+        "word": {
+            "id": 36803,
+            "uri": "https://sedra.bethmardutho.org/api/word/36803.json"
+        }
+    }
+]

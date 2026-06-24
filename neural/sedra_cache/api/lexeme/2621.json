@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2621,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2621.json"
+        },
+        "syriac": "\u0726\u072a\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0642"
+            ],
+            "French": [
+                "fendre"
+            ],
+            "English": [
+                "IIa to tear open, to rip apart",
+                "burst",
+                "IIIa to rip to pieces.",
+                "IIp to burst open",
+                "Ia to rip up",
+                "Ip to burst asunder"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1555,
+            "uri": "https://sedra.bethmardutho.org/api/root/1555.json"
+        },
+        "words": [
+            {
+                "id": 17087,
+                "uri": "https://sedra.bethmardutho.org/api/word/17087.json"
+            },
+            {
+                "id": 17089,
+                "uri": "https://sedra.bethmardutho.org/api/word/17089.json"
+            },
+            {
+                "id": 17088,
+                "uri": "https://sedra.bethmardutho.org/api/word/17088.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

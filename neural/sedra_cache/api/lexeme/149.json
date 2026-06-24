@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 149,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/149.json"
+        },
+        "syriac": "\u0710\u0720\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Alans"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 113,
+            "uri": "https://sedra.bethmardutho.org/api/root/113.json"
+        },
+        "words": [
+            {
+                "id": 978,
+                "uri": "https://sedra.bethmardutho.org/api/word/978.json"
+            },
+            {
+                "id": 22760,
+                "uri": "https://sedra.bethmardutho.org/api/word/22760.json"
+            },
+            {
+                "id": 979,
+                "uri": "https://sedra.bethmardutho.org/api/word/979.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15607,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15607.json"
+        },
+        "syriac": "\u072b\u0712\u071b",
+        "glosses": {
+            "English": [
+                "to engrave",
+                "IIp to be beaten by rods.",
+                "Ia to float, to fly loose",
+                "IIa to hammer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2637,
+            "uri": "https://sedra.bethmardutho.org/api/root/2637.json"
+        },
+        "words": [
+            {
+                "id": 41654,
+                "uri": "https://sedra.bethmardutho.org/api/word/41654.json"
+            },
+            {
+                "id": 41585,
+                "uri": "https://sedra.bethmardutho.org/api/word/41585.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

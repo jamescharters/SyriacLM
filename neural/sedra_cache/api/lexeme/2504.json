@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2504,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2504.json"
+        },
+        "syriac": "\u0721\u0726\u071d\u0723\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u0642\u0646\u0627\u0639",
+                "\u0635\u0644\u0627\u0629, \u062a\u062d\u0631\u064a\u0636"
+            ],
+            "French": [
+                "persuasion",
+                "pri\u00e8re, exhortation"
+            ],
+            "English": [
+                "persuasion",
+                "persuasion, intercession, supplication."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1489,
+            "uri": "https://sedra.bethmardutho.org/api/root/1489.json"
+        },
+        "words": [
+            {
+                "id": 16344,
+                "uri": "https://sedra.bethmardutho.org/api/word/16344.json"
+            },
+            {
+                "id": 16343,
+                "uri": "https://sedra.bethmardutho.org/api/word/16343.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

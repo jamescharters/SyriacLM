@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072b\u0718\u071a\u072c\u0710",
+        "western": "\u0721\u072b\u073d\u0718\u071a\u072c\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1873,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1873.json"
+        },
+        "stem": "\u0721\u072b\u0718\u071a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "measure",
+                "proportion",
+                "meter.",
+                "age, position",
+                "moderation",
+                "measure"
+            ]
+        },
+        "word": {
+            "id": 12332,
+            "uri": "https://sedra.bethmardutho.org/api/word/12332.json"
+        }
+    }
+]

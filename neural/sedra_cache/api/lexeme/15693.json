@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 15693,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15693.json"
+        },
+        "syriac": "\u072b\u071a\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0631 (\u0645\u062a)",
+                "\u0635\u0641\u0649 (\u0645\u0636)",
+                "\u0633\u0627\u0644, \u0646\u0628\u0639",
+                "\u0627\u0646\u0642\u0637\u0639",
+                "\u00a0"
+            ],
+            "French": [
+                "laisser tomber goutte \u00e0 goutte",
+                "filtrer",
+                "couler, sourdre",
+                "cesser",
+                "\u00a0"
+            ],
+            "English": [
+                "to flow (of tears)",
+                "Ia to trickle, exude, drip",
+                "to filter",
+                "IIIa to let trickle, to pour.",
+                "Ip, IIp to be strained",
+                "IIa to liquefy, to refine, to strain off"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2086,
+            "uri": "https://sedra.bethmardutho.org/api/root/2086.json"
+        },
+        "words": [
+            {
+                "id": 42092,
+                "uri": "https://sedra.bethmardutho.org/api/word/42092.json"
+            },
+            {
+                "id": 40296,
+                "uri": "https://sedra.bethmardutho.org/api/word/40296.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

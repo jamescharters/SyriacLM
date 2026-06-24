@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 275,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/275.json"
+        },
+        "syriac": "\u072a\u0718\u0712\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0628\u0639"
+            ],
+            "French": [
+                "quart"
+            ],
+            "English": [
+                "fourth part",
+                "quarter."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 202,
+            "uri": "https://sedra.bethmardutho.org/api/root/202.json"
+        },
+        "words": [
+            {
+                "id": 1865,
+                "uri": "https://sedra.bethmardutho.org/api/word/1865.json"
+            },
+            {
+                "id": 1864,
+                "uri": "https://sedra.bethmardutho.org/api/word/1864.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

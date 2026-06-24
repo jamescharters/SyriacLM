@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 3190,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3190.json"
+        },
+        "syriac": "\u072b\u071d\u072b\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "chain",
+                "chain, link.",
+                "chain, fetter",
+                "series."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1859,
+            "uri": "https://sedra.bethmardutho.org/api/root/1859.json"
+        },
+        "words": [
+            {
+                "id": 20894,
+                "uri": "https://sedra.bethmardutho.org/api/word/20894.json"
+            },
+            {
+                "id": 20891,
+                "uri": "https://sedra.bethmardutho.org/api/word/20891.json"
+            },
+            {
+                "id": 20890,
+                "uri": "https://sedra.bethmardutho.org/api/word/20890.json"
+            },
+            {
+                "id": 20889,
+                "uri": "https://sedra.bethmardutho.org/api/word/20889.json"
+            },
+            {
+                "id": 20888,
+                "uri": "https://sedra.bethmardutho.org/api/word/20888.json"
+            },
+            {
+                "id": 20893,
+                "uri": "https://sedra.bethmardutho.org/api/word/20893.json"
+            },
+            {
+                "id": 20892,
+                "uri": "https://sedra.bethmardutho.org/api/word/20892.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

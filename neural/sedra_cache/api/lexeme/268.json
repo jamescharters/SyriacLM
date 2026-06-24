@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 268,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/268.json"
+        },
+        "syriac": "\u0710\u072a\u0712\u0725\u071d\u0722",
+        "glosses": {
+            "English": [
+                "forty",
+                "forty",
+                "forty days of Lent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 202,
+            "uri": "https://sedra.bethmardutho.org/api/root/202.json"
+        },
+        "words": [
+            {
+                "id": 1857,
+                "uri": "https://sedra.bethmardutho.org/api/word/1857.json"
+            },
+            {
+                "id": 1856,
+                "uri": "https://sedra.bethmardutho.org/api/word/1856.json"
+            },
+            {
+                "id": 1855,
+                "uri": "https://sedra.bethmardutho.org/api/word/1855.json"
+            },
+            {
+                "id": 1854,
+                "uri": "https://sedra.bethmardutho.org/api/word/1854.json"
+            },
+            {
+                "id": 1853,
+                "uri": "https://sedra.bethmardutho.org/api/word/1853.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

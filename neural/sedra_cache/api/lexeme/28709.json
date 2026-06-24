@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28709,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28709.json"
+        },
+        "syriac": "\u0710\u071b\u072a\u071f\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f00\u03c4\u03ac\u03c1\u03b1\u03c7\u03bf\u03c2"
+            ],
+            "English": [
+                "not disturbed, without confusion"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c4\u03ac\u03c1\u03b1\u03c7\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49233,
+                "uri": "https://sedra.bethmardutho.org/api/word/49233.json"
+            },
+            {
+                "id": 55083,
+                "uri": "https://sedra.bethmardutho.org/api/word/55083.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

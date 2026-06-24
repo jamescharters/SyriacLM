@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 3268,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3268.json"
+        },
+        "syriac": "\u072b\u0721\u072b\u0710",
+        "glosses": {
+            "English": [
+                "sun",
+                "sun."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1904,
+            "uri": "https://sedra.bethmardutho.org/api/root/1904.json"
+        },
+        "words": [
+            {
+                "id": 21617,
+                "uri": "https://sedra.bethmardutho.org/api/word/21617.json"
+            },
+            {
+                "id": 21616,
+                "uri": "https://sedra.bethmardutho.org/api/word/21616.json"
+            },
+            {
+                "id": 21615,
+                "uri": "https://sedra.bethmardutho.org/api/word/21615.json"
+            },
+            {
+                "id": 21618,
+                "uri": "https://sedra.bethmardutho.org/api/word/21618.json"
+            },
+            {
+                "id": 21619,
+                "uri": "https://sedra.bethmardutho.org/api/word/21619.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

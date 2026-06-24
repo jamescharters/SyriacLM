@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15681,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15681.json"
+        },
+        "syriac": "\u0712\u0729",
+        "glosses": {
+            "English": [
+                "Ia to decay, become rotten",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0712\u0736\u0729</span> to cause to waste away."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2733,
+            "uri": "https://sedra.bethmardutho.org/api/root/2733.json"
+        },
+        "words": [
+            {
+                "id": 52630,
+                "uri": "https://sedra.bethmardutho.org/api/word/52630.json"
+            },
+            {
+                "id": 42034,
+                "uri": "https://sedra.bethmardutho.org/api/word/42034.json"
+            },
+            {
+                "id": 41436,
+                "uri": "https://sedra.bethmardutho.org/api/word/41436.json"
+            },
+            {
+                "id": 40029,
+                "uri": "https://sedra.bethmardutho.org/api/word/40029.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

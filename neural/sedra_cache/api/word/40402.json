@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071a\u0726",
+        "western": "\u071a\u0733\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15422,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15422.json"
+        },
+        "stem": "\u071a\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to sprinkle, rub, cleanse, wash."
+            ]
+        },
+        "word": {
+            "id": 40402,
+            "uri": "https://sedra.bethmardutho.org/api/word/40402.json"
+        }
+    }
+]

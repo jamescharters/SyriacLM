@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071a\u071b",
+        "western": "\u071a\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1008,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1008.json"
+        },
+        "stem": "\u071a\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to dig, dig out",
+                "IIp.",
+                "dig",
+                "IIa to plough",
+                "to gouge out, to engrave",
+                "to excavate"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 6728,
+            "uri": "https://sedra.bethmardutho.org/api/word/6728.json"
+        }
+    }
+]

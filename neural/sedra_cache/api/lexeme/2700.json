@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 2700,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2700.json"
+        },
+        "syriac": "\u0728\u0721\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0634\u0631\u0642",
+                "\u0646\u0628\u062a"
+            ],
+            "French": [
+                "briller",
+                "germer"
+            ],
+            "English": [
+                "IIIa to illuminate, shine forth.",
+                "shine",
+                "IIp to be resplendent",
+                "Ia, Ip to shine forth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1598,
+            "uri": "https://sedra.bethmardutho.org/api/root/1598.json"
+        },
+        "words": [
+            {
+                "id": 17558,
+                "uri": "https://sedra.bethmardutho.org/api/word/17558.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

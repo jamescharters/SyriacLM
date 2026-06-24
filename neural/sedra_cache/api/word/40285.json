@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0729\u072a",
+        "western": "\u0729\u0730\u072a\u0729\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14782,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14782.json"
+        },
+        "stem": "\u0729\u072a\u0729\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to cackle."
+            ]
+        },
+        "word": {
+            "id": 40285,
+            "uri": "https://sedra.bethmardutho.org/api/word/40285.json"
+        }
+    }
+]

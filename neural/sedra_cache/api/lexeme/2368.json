@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2368,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2368.json"
+        },
+        "syriac": "\u0725\u0722\u0718\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0631\u064a\u0628"
+            ],
+            "French": [
+                "\u00e9tranger"
+            ],
+            "English": [
+                "absent",
+                "foreigner",
+                "someone away from home",
+                "foreigner",
+                "departed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1404,
+            "uri": "https://sedra.bethmardutho.org/api/root/1404.json"
+        },
+        "words": [
+            {
+                "id": 22833,
+                "uri": "https://sedra.bethmardutho.org/api/word/22833.json"
+            },
+            {
+                "id": 15796,
+                "uri": "https://sedra.bethmardutho.org/api/word/15796.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2093,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2093.json"
+        },
+        "syriac": "\u0723\u0718\u071f\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0641\u0629 (\u0627\u0644\u0645\u0631\u0643\u0628)"
+            ],
+            "French": [
+                "gouvernail"
+            ],
+            "English": [
+                "rudder",
+                "rudder, helm."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1249,
+            "uri": "https://sedra.bethmardutho.org/api/root/1249.json"
+        },
+        "words": [
+            {
+                "id": 13937,
+                "uri": "https://sedra.bethmardutho.org/api/word/13937.json"
+            },
+            {
+                "id": 13939,
+                "uri": "https://sedra.bethmardutho.org/api/word/13939.json"
+            },
+            {
+                "id": 13938,
+                "uri": "https://sedra.bethmardutho.org/api/word/13938.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

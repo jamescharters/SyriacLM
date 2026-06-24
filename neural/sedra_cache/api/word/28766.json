@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0718\u072a\u072c\u071a",
+        "western": "\u0718\u072a\u0733\u072c\u0742\u0730\u071a",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3089,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3089.json"
+        },
+        "stem": "\u072a\u072c\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0636\u0637\u0631\u0645",
+                "\u0641\u0627\u0631",
+                "\u063a\u0644\u0649"
+            ],
+            "eng": [
+                "to be fervent",
+                "to grow hot",
+                "Ia to bubble up",
+                "IIIa to heat, to boil",
+                "boil",
+                "to make fervent",
+                "be fervent in spirit",
+                "IIIp to be brought to the boil."
+            ],
+            "fre": [
+                "br\u00fbler",
+                "bouillir",
+                "bouillonner"
+            ]
+        },
+        "word": {
+            "id": 28766,
+            "uri": "https://sedra.bethmardutho.org/api/word/28766.json"
+        }
+    }
+]

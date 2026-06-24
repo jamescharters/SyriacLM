@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0725\u0722\u071b",
+        "western": "\u0725\u0722\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15679,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15679.json"
+        },
+        "stem": "\u0725\u0722\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to smell (of body, from sweat etc.)."
+            ]
+        },
+        "word": {
+            "id": 41051,
+            "uri": "https://sedra.bethmardutho.org/api/word/41051.json"
+        }
+    }
+]

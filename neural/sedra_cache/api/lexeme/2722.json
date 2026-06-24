@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2722,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2722.json"
+        },
+        "syriac": "\u0729\u0712\u0710",
+        "glosses": {
+            "English": [
+                "cab",
+                "measure (for solids)."
+            ]
+        },
+        "etymologies": {
+            "Hebrew": [
+                "\u05e7\u05b8\u05d1"
+            ]
+        },
+        "root": {
+            "id": 1614,
+            "uri": "https://sedra.bethmardutho.org/api/root/1614.json"
+        },
+        "words": [
+            {
+                "id": 17648,
+                "uri": "https://sedra.bethmardutho.org/api/word/17648.json"
+            },
+            {
+                "id": 17647,
+                "uri": "https://sedra.bethmardutho.org/api/word/17647.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

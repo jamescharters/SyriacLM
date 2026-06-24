@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0726\u072a\u0722\u0723",
+        "western": "\u0726\u0741\u0730\u072a\u0722\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "palpel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2595,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2595.json"
+        },
+        "stem": "\u0726\u072a\u0722\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0633\u0645, \u0641\u0631\u0642",
+                "\u0627\u0647\u062a\u0645 \u0628\u0640 , \u062f\u0628\u0631",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVp.",
+                "provide",
+                "IVa to administer, oversee, manage",
+                "to provide for, care for"
+            ],
+            "fre": [
+                "\u00a0",
+                "s&#39;occuper de, administrer",
+                "diviser, distribuer"
+            ]
+        },
+        "word": {
+            "id": 16886,
+            "uri": "https://sedra.bethmardutho.org/api/word/16886.json"
+        }
+    }
+]

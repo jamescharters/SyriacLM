@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u071f\u071d\u0720\u0710",
+        "western": "\u0722\u071f\u0742\u073a\u071d\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1964,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1964.json"
+        },
+        "stem": "\u0722\u071f\u071d\u0720\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0627\u0634"
+            ],
+            "eng": [
+                "deceitful, perfidious.",
+                "deceitful",
+                "wily"
+            ],
+            "fre": [
+                "trompeur"
+            ]
+        },
+        "word": {
+            "id": 12860,
+            "uri": "https://sedra.bethmardutho.org/api/word/12860.json"
+        }
+    }
+]

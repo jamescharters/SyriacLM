@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0726\u072a\u0718\u072b\u0718\u072c\u0710",
+        "western": "\u0726\u0741\u0733\u072a\u073d\u0718\u072b\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2616,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2616.json"
+        },
+        "stem": "\u0726\u072a\u0718\u072b\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0635\u064a\u0631\u0629, \u0630\u0643\u0627\u0621, \u0641\u0637\u0646\u0629"
+            ],
+            "eng": [
+                "difference.",
+                "discrimination",
+                "discernment",
+                "discernment, discrimination"
+            ],
+            "fre": [
+                "discernement, intelligence, prudence"
+            ]
+        },
+        "word": {
+            "id": 17033,
+            "uri": "https://sedra.bethmardutho.org/api/word/17033.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15019,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15019.json"
+        },
+        "syriac": "\u0715\u0720\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0646\u0642\u0635",
+                "\u0637\u0644\u0642 (\u0645\u0636)"
+            ],
+            "French": [
+                "diminuer",
+                "r\u00e9pudier"
+            ],
+            "English": [
+                "to repudiate",
+                "to be easy",
+                "to be designated",
+                "IIIa to diminish, lessen",
+                "IIp to be diminished, become few",
+                "to show.",
+                "IIa to designate, specify"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2189,
+            "uri": "https://sedra.bethmardutho.org/api/root/2189.json"
+        },
+        "words": [
+            {
+                "id": 40567,
+                "uri": "https://sedra.bethmardutho.org/api/word/40567.json"
+            },
+            {
+                "id": 40475,
+                "uri": "https://sedra.bethmardutho.org/api/word/40475.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

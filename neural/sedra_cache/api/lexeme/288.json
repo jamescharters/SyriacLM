@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 288,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/288.json"
+        },
+        "syriac": "\u0710\u072a\u071f\u071d\u0726\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Archippus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 212,
+            "uri": "https://sedra.bethmardutho.org/api/root/212.json"
+        },
+        "words": [
+            {
+                "id": 1910,
+                "uri": "https://sedra.bethmardutho.org/api/word/1910.json"
+            },
+            {
+                "id": 1909,
+                "uri": "https://sedra.bethmardutho.org/api/word/1909.json"
+            },
+            {
+                "id": 1908,
+                "uri": "https://sedra.bethmardutho.org/api/word/1908.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0725\u072c",
+        "western": "\u0710\u0730\u072a\u0725\u0736\u072c",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14800,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14800.json"
+        },
+        "stem": "\u072a\u0725\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to foam at the mouth",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072a\u0725\u0736\u072c</span> to foam (at the mouth)",
+                "foam (at the mouth)",
+                "to palpitate.",
+                "to make to palpitate."
+            ]
+        },
+        "word": {
+            "id": 42318,
+            "uri": "https://sedra.bethmardutho.org/api/word/42318.json"
+        }
+    }
+]

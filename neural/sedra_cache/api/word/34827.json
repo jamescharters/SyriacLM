@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0719\u072a\u0722\u071d\u071f\u0710",
+        "western": "\u0719\u0730\u072a\u0722\u073a\u071d\u071f\u0733\u0710",
+        "eastern": "\u0719\u0732\u072a\u0722\u071d\u073c\u071f\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5270,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5270.json"
+        },
+        "stem": "\u0719\u072a\u0722\u071d\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0631\u0646\u064a\u0642"
+            ],
+            "eng": [
+                "arsenic",
+                "arsenic."
+            ],
+            "fre": [
+                "arsenic"
+            ],
+            "grc": [
+                "\u03c3\u03b1\u03bd\u03b4\u03b1\u03c1\u1f71\u03c7\u03b7\u03c2"
+            ]
+        },
+        "word": {
+            "id": 34827,
+            "uri": "https://sedra.bethmardutho.org/api/word/34827.json"
+        }
+    }
+]

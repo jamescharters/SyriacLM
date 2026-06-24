@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15650,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15650.json"
+        },
+        "syriac": "\u0722\u071a\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0644\u0641"
+            ],
+            "French": [
+                "d\u00e9p\u00e9rir"
+            ],
+            "English": [
+                "Ia to pine away",
+                "IIp to decay (of teeth)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2848,
+            "uri": "https://sedra.bethmardutho.org/api/root/2848.json"
+        },
+        "words": [
+            {
+                "id": 41866,
+                "uri": "https://sedra.bethmardutho.org/api/word/41866.json"
+            },
+            {
+                "id": 40035,
+                "uri": "https://sedra.bethmardutho.org/api/word/40035.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

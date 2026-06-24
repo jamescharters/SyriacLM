@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u0723\u0725\u072a\u0717",
+        "western": "\u0715\u0741\u0723\u0730\u0725\u072a\u0733\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 2176,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2176.json"
+        },
+        "stem": "\u0723\u0725\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hair",
+                "hair."
+            ]
+        },
+        "word": {
+            "id": 14489,
+            "uri": "https://sedra.bethmardutho.org/api/word/14489.json"
+        }
+    }
+]

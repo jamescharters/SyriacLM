@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u071d\u0720\u0718\u0715\u0710",
+        "western": "\u071d\u0730\u0720\u073d\u0718\u0715\u0742\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1373,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1373.json"
+        },
+        "stem": "\u071d\u0720\u0718\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0644\u062f \u0635\u063a\u064a\u0631"
+            ],
+            "eng": [
+                "infant, baby, suckling.",
+                "infant",
+                "child",
+                "babe"
+            ],
+            "fre": [
+                "petit enfant"
+            ]
+        },
+        "word": {
+            "id": 9067,
+            "uri": "https://sedra.bethmardutho.org/api/word/9067.json"
+        }
+    }
+]

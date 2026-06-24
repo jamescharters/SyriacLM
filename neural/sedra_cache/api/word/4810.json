@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u0729",
+        "western": "\u0715\u0741\u0730\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 743,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/743.json"
+        },
+        "stem": "\u0715\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp.",
+                "to break into pieces",
+                "Ia to pound, to grind",
+                "Ip",
+                "IIa to break to pieces, to grind to powder",
+                "break in pieces"
+            ]
+        },
+        "word": {
+            "id": 4810,
+            "uri": "https://sedra.bethmardutho.org/api/word/4810.json"
+        }
+    }
+]

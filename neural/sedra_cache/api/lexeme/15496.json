@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15496,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15496.json"
+        },
+        "syriac": "\u0722\u0725\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0628\u0639"
+            ],
+            "French": [
+                "grogner"
+            ],
+            "English": [
+                "Ia to grunt."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2259,
+            "uri": "https://sedra.bethmardutho.org/api/root/2259.json"
+        },
+        "words": [
+            {
+                "id": 41688,
+                "uri": "https://sedra.bethmardutho.org/api/word/41688.json"
+            },
+            {
+                "id": 40474,
+                "uri": "https://sedra.bethmardutho.org/api/word/40474.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

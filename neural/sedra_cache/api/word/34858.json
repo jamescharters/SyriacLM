@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0717\u071b\u0710",
+        "western": "\u0721\u0730\u072a\u0717\u0733\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13262,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13262.json"
+        },
+        "stem": "\u0721\u072a\u0717\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0636\u0644",
+                "\u0646\u0634\u0627\u0637"
+            ],
+            "eng": [
+                "endeavor.",
+                "resources, riches"
+            ],
+            "fre": [
+                "m\u00e9rite",
+                "activit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 34858,
+            "uri": "https://sedra.bethmardutho.org/api/word/34858.json"
+        }
+    }
+]

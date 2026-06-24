@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1770,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1770.json"
+        },
+        "syriac": "\u0721\u072b\u0721\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "full",
+                "complete",
+                "perfect"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1058,
+            "uri": "https://sedra.bethmardutho.org/api/root/1058.json"
+        },
+        "words": [
+            {
+                "id": 11686,
+                "uri": "https://sedra.bethmardutho.org/api/word/11686.json"
+            },
+            {
+                "id": 11685,
+                "uri": "https://sedra.bethmardutho.org/api/word/11685.json"
+            },
+            {
+                "id": 11693,
+                "uri": "https://sedra.bethmardutho.org/api/word/11693.json"
+            },
+            {
+                "id": 11691,
+                "uri": "https://sedra.bethmardutho.org/api/word/11691.json"
+            },
+            {
+                "id": 11689,
+                "uri": "https://sedra.bethmardutho.org/api/word/11689.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "shaph\u02bfel"
+    }
+]

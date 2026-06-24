@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071d\u072a\u071a",
+        "western": "\u071d\u073a\u072a\u0730\u071a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1424.json"
+        },
+        "stem": "\u071d\u072a\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "month",
+                "month."
+            ]
+        },
+        "word": {
+            "id": 9448,
+            "uri": "https://sedra.bethmardutho.org/api/word/9448.json"
+        }
+    }
+]

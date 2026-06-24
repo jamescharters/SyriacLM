@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15134,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15134.json"
+        },
+        "syriac": "\u0726\u072a\u0713",
+        "glosses": {
+            "English": [
+                "to make bright.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u072a\u0736\u0713</span> to shine, to glitter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2915,
+            "uri": "https://sedra.bethmardutho.org/api/root/2915.json"
+        },
+        "words": [
+            {
+                "id": 40611,
+                "uri": "https://sedra.bethmardutho.org/api/word/40611.json"
+            },
+            {
+                "id": 40448,
+                "uri": "https://sedra.bethmardutho.org/api/word/40448.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

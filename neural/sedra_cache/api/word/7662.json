@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071a\u072b\u071d\u0722\u0722",
+        "western": "\u071a\u0733\u072b\u073a\u071d\u0722\u0730\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1167,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1167.json"
+        },
+        "stem": "\u071a\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to suffer, be sad, sorrowful",
+                "feel",
+                "suffer",
+                "be sorry",
+                "to cause to suffer.",
+                "IIIp to be subjected to suffering.",
+                "IIIa to cause suffering",
+                "to sadden"
+            ]
+        },
+        "word": {
+            "id": 7662,
+            "uri": "https://sedra.bethmardutho.org/api/word/7662.json"
+        }
+    }
+]

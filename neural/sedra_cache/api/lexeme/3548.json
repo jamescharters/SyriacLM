@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3548,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3548.json"
+        },
+        "syriac": "\u072b\u071b\u071d\u0710",
+        "glosses": {
+            "English": [
+                "fool",
+                "mad, crazy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1848,
+            "uri": "https://sedra.bethmardutho.org/api/root/1848.json"
+        },
+        "words": [
+            {
+                "id": 20831,
+                "uri": "https://sedra.bethmardutho.org/api/word/20831.json"
+            },
+            {
+                "id": 20830,
+                "uri": "https://sedra.bethmardutho.org/api/word/20830.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

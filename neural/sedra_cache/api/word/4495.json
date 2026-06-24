@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0715\u071d\u0722\u072c\u071f\u0718\u0722",
+        "western": "\u0721\u0715\u0742\u073a\u071d\u0722\u0331\u072c\u0741\u071f\u0742\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 694,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/694.json"
+        },
+        "stem": "\u0721\u0715\u071d\u0722\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "city"
+            ]
+        },
+        "word": {
+            "id": 4495,
+            "uri": "https://sedra.bethmardutho.org/api/word/4495.json"
+        }
+    }
+]

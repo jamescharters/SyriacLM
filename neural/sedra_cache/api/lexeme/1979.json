@@ -1,0 +1,69 @@
+[
+    {
+        "lexeme": {
+            "id": 1979,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1979.json"
+        },
+        "syriac": "\u0722\u071f\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "bite",
+                "to gnaw",
+                "Ia to bite, to sting",
+                "Ip",
+                "IIp.",
+                "IIa to bite, sting repeatedly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1180,
+            "uri": "https://sedra.bethmardutho.org/api/root/1180.json"
+        },
+        "words": [
+            {
+                "id": 12926,
+                "uri": "https://sedra.bethmardutho.org/api/word/12926.json"
+            },
+            {
+                "id": 12924,
+                "uri": "https://sedra.bethmardutho.org/api/word/12924.json"
+            },
+            {
+                "id": 12927,
+                "uri": "https://sedra.bethmardutho.org/api/word/12927.json"
+            },
+            {
+                "id": 26586,
+                "uri": "https://sedra.bethmardutho.org/api/word/26586.json"
+            },
+            {
+                "id": 26585,
+                "uri": "https://sedra.bethmardutho.org/api/word/26585.json"
+            },
+            {
+                "id": 12928,
+                "uri": "https://sedra.bethmardutho.org/api/word/12928.json"
+            },
+            {
+                "id": 26584,
+                "uri": "https://sedra.bethmardutho.org/api/word/26584.json"
+            },
+            {
+                "id": 26583,
+                "uri": "https://sedra.bethmardutho.org/api/word/26583.json"
+            },
+            {
+                "id": 12925,
+                "uri": "https://sedra.bethmardutho.org/api/word/12925.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

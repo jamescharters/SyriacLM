@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0718\u072a\u0712\u0710",
+        "western": "\u0722\u073d\u0718\u072a\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14167,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14167.json"
+        },
+        "stem": "\u0722\u0718\u072a\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0635\u0646, \u0641\u0631\u0639"
+            ],
+            "eng": [
+                "shoot, offshoot, sucker."
+            ],
+            "fre": [
+                "branche, rejeton"
+            ]
+        },
+        "word": {
+            "id": 37885,
+            "uri": "https://sedra.bethmardutho.org/api/word/37885.json"
+        }
+    }
+]

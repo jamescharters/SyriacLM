@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 321,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/321.json"
+        },
+        "syriac": "\u0710\u072c\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062a\u0627\u0646"
+            ],
+            "French": [
+                "\u00e2nesse"
+            ],
+            "English": [
+                "ass.",
+                "ass"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 237,
+            "uri": "https://sedra.bethmardutho.org/api/root/237.json"
+        },
+        "words": [
+            {
+                "id": 2171,
+                "uri": "https://sedra.bethmardutho.org/api/word/2171.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

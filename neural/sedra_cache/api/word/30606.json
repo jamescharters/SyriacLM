@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0723\u0726\u071d\u072a\u0710",
+        "western": "\u0723\u0726\u073a\u071d\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9875,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9875.json"
+        },
+        "stem": "\u0723\u0726\u071d\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0639\u0627\u0644\u0645, \u0645\u0627\u0647\u0631",
+                "\u00a0"
+            ],
+            "eng": [
+                "sphere, ball",
+                "Kth. <span class=\"selectableFont\">\u0723\u0726\u073a\u071d\u072a \u072a\u0308</span><span class=\"selectableFont\">\u0736\u0713\u0720\u0736\u0710</span> football (game).",
+                "cohort"
+            ],
+            "fre": [
+                "troupe\u2026",
+                "docte, habile",
+                "sph\u00e8re\u2026"
+            ]
+        },
+        "word": {
+            "id": 30606,
+            "uri": "https://sedra.bethmardutho.org/api/word/30606.json"
+        }
+    }
+]

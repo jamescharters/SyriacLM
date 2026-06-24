@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1405,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1405.json"
+        },
+        "syriac": "\u071d\u0725\u0729\u0718\u0712",
+        "glosses": {
+            "English": [
+                "James"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 839,
+            "uri": "https://sedra.bethmardutho.org/api/root/839.json"
+        },
+        "words": [
+            {
+                "id": 9313,
+                "uri": "https://sedra.bethmardutho.org/api/word/9313.json"
+            },
+            {
+                "id": 9314,
+                "uri": "https://sedra.bethmardutho.org/api/word/9314.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

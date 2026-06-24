@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0725\u0713\u0722\u0710",
+        "western": "\u0725\u0713\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6874,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6874.json"
+        },
+        "stem": "\u0725\u0713\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0648\u062a",
+                "\u062c\u062d\u064a\u0645",
+                "\u0627\u0636\u062c\u0627\u0639",
+                "\u062e\u0631\u0627\u0628"
+            ],
+            "eng": [
+                "death.",
+                "prostration",
+                "humiliation"
+            ],
+            "fre": [
+                "enfers",
+                "mort",
+                "\u00e9tat couch\u00e9",
+                "destruction"
+            ]
+        },
+        "word": {
+            "id": 38540,
+            "uri": "https://sedra.bethmardutho.org/api/word/38540.json"
+        }
+    }
+]

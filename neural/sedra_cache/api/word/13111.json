@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0718\u0722\u0726\u0728",
+        "western": "\u0718\u0730\u0722\u0726\u0742\u0730\u0728",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1998,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1998.json"
+        },
+        "stem": "\u0722\u0726\u0728",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ip to be shaken",
+                "shake off",
+                "to lay eggs",
+                "Ia to shake, toss",
+                "to shake off",
+                "IIa to shatter",
+                "to be emptied out, purged.",
+                "to purge, empty out",
+                "to be emptied",
+                "IIp to be stirred up, shaken",
+                "to evacuate"
+            ]
+        },
+        "word": {
+            "id": 13111,
+            "uri": "https://sedra.bethmardutho.org/api/word/13111.json"
+        }
+    }
+]

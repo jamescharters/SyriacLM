@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u0712\u071d\u0712\u0718\u072c\u0710",
+        "western": "\u0720\u0712\u073a\u071d\u0712\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11597,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11597.json"
+        },
+        "stem": "\u0720\u0712\u071d\u0712\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0633\u0627\u0644\u0629"
+            ],
+            "eng": [
+                "courage, fortitude."
+            ],
+            "fre": [
+                "vaillance"
+            ]
+        },
+        "word": {
+            "id": 35408,
+            "uri": "https://sedra.bethmardutho.org/api/word/35408.json"
+        }
+    }
+]

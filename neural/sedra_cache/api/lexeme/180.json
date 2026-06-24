@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 180,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/180.json"
+        },
+        "syriac": "\u0710\u0722\u0715\u072a\u0710\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Andrew"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 133,
+            "uri": "https://sedra.bethmardutho.org/api/root/133.json"
+        },
+        "words": [
+            {
+                "id": 1378,
+                "uri": "https://sedra.bethmardutho.org/api/word/1378.json"
+            },
+            {
+                "id": 1377,
+                "uri": "https://sedra.bethmardutho.org/api/word/1377.json"
+            },
+            {
+                "id": 1376,
+                "uri": "https://sedra.bethmardutho.org/api/word/1376.json"
+            },
+            {
+                "id": 1375,
+                "uri": "https://sedra.bethmardutho.org/api/word/1375.json"
+            },
+            {
+                "id": 1374,
+                "uri": "https://sedra.bethmardutho.org/api/word/1374.json"
+            },
+            {
+                "id": 1373,
+                "uri": "https://sedra.bethmardutho.org/api/word/1373.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

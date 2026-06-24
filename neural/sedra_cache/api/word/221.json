@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0710\u0715\u071d",
+        "western": "\u0710\u0730\u0715\u0741\u073a\u071d",
+        "eastern": "\u0710\u0732\u0715\u0741\u0732\u071d",
+        "lexeme": {
+            "id": 31,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/31.json"
+        },
+        "stem": "\u0710\u0715\u071d",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Addi"
+            ]
+        },
+        "word": {
+            "id": 221,
+            "uri": "https://sedra.bethmardutho.org/api/word/221.json"
+        }
+    }
+]

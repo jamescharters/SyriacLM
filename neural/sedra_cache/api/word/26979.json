@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u072c\u072c\u0723\u071d\u0721",
+        "western": "\u0721\u0736\u072c\u0741\u072c\u0741\u0723\u073a\u071d\u0721",
+        "tense": "participle",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2114,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2114.json"
+        },
+        "stem": "\u0723\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "<span class=\"selectableFont\">\u0723\u0733\u0721 \u0712\u072a\u073a\u071d\u072b\u0733\u0710</span> to punish",
+                "to constitute",
+                "to appoint",
+                "IIp.",
+                "Ia to set, put, place",
+                "Ip",
+                "<span class=\"selectableFont\">\u0723\u0733\u0721 \u0712\u072a\u0736\u0725\u071d\u0733\u0722\u0733\u0710</span> to resolve",
+                "IIa <span class=\"selectableFont\">\u0723\u0730\u071d\u0736\u0721</span> to point (a text)",
+                "put",
+                "place"
+            ]
+        },
+        "word": {
+            "id": 26979,
+            "uri": "https://sedra.bethmardutho.org/api/word/26979.json"
+        }
+    }
+]

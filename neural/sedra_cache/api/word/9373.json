@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071d\u0729\u0715\u0722\u0710",
+        "western": "\u071d\u0730\u0729\u0715\u0741\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1414,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1414.json"
+        },
+        "stem": "\u071d\u0729\u0715\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0627\u0631, \u062d\u0631\u064a\u0642",
+                "\u062d\u0631\u0627\u0631\u0629"
+            ],
+            "eng": [
+                "fuel",
+                "heat, inflammation.",
+                "conflagration",
+                "burning",
+                "conflagration, fire, burning"
+            ],
+            "fre": [
+                "chaleur",
+                "feu, incendie"
+            ]
+        },
+        "word": {
+            "id": 9373,
+            "uri": "https://sedra.bethmardutho.org/api/word/9373.json"
+        }
+    }
+]

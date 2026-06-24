@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 27079,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27079.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u071d\u0710",
+        "glosses": {
+            "Greek": [
+                "\u03b5\u1f54\u03bd\u03b9\u03b1 (misspelled in Payne Smith)"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f54\u03bd\u03bf\u03b9\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 48815,
+                "uri": "https://sedra.bethmardutho.org/api/word/48815.json"
+            },
+            {
+                "id": 53453,
+                "uri": "https://sedra.bethmardutho.org/api/word/53453.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

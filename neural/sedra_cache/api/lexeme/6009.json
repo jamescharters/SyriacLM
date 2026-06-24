@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 6009,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6009.json"
+        },
+        "syriac": "\u0726\u072a\u0729\u0720\u071d\u071b\u0710",
+        "glosses": {
+            "English": [
+                "advocate",
+                "Paraclete",
+                "intercessor, advocate.",
+                "comforter"
+            ],
+            "Arabic": [
+                "\u0634\u0641\u064a\u0639, \u0645\u0639\u0632"
+            ],
+            "French": [
+                "intercesseur, paraclet"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c0\u03b1\u03c1\u03ac\u03ba\u03bb\u03b7\u03c4\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 17026,
+                "uri": "https://sedra.bethmardutho.org/api/word/17026.json"
+            },
+            {
+                "id": 17027,
+                "uri": "https://sedra.bethmardutho.org/api/word/17027.json"
+            },
+            {
+                "id": 31543,
+                "uri": "https://sedra.bethmardutho.org/api/word/31543.json"
+            }
+        ]
+    }
+]

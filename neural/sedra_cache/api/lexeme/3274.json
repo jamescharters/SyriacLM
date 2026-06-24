@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 3274,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3274.json"
+        },
+        "syriac": "\u072b\u0722\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0643\u0627\u0644, \u062a\u0639\u0630\u064a\u0628"
+            ],
+            "French": [
+                "supplice, tourment"
+            ],
+            "English": [
+                "torture",
+                "torment, torture."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1908,
+            "uri": "https://sedra.bethmardutho.org/api/root/1908.json"
+        },
+        "words": [
+            {
+                "id": 21664,
+                "uri": "https://sedra.bethmardutho.org/api/word/21664.json"
+            },
+            {
+                "id": 21666,
+                "uri": "https://sedra.bethmardutho.org/api/word/21666.json"
+            },
+            {
+                "id": 21665,
+                "uri": "https://sedra.bethmardutho.org/api/word/21665.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

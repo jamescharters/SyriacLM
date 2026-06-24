@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2048,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2048.json"
+        },
+        "syriac": "\u0723\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "]\u0639\u062c\u0648\u0632[",
+                "\u062c\u062f",
+                "\u0642\u062f\u064a\u0645"
+            ],
+            "French": [
+                "vieillard\u2026",
+                "a\u00efeul",
+                "vieux, ancien"
+            ],
+            "English": [
+                "old",
+                "aged",
+                "old man",
+                "elder."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1226,
+            "uri": "https://sedra.bethmardutho.org/api/root/1226.json"
+        },
+        "words": [
+            {
+                "id": 13474,
+                "uri": "https://sedra.bethmardutho.org/api/word/13474.json"
+            },
+            {
+                "id": 13476,
+                "uri": "https://sedra.bethmardutho.org/api/word/13476.json"
+            },
+            {
+                "id": 13475,
+                "uri": "https://sedra.bethmardutho.org/api/word/13475.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

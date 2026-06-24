@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0720\u0710",
+        "western": "\u0720\u0721\u0736\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1793,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1793.json"
+        },
+        "stem": "\u0721\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "m. the Word (God).",
+                "word",
+                "case",
+                "cause",
+                "matter",
+                "word, saying, sentence",
+                "word",
+                "Gram. verb",
+                "matter, affair"
+            ]
+        },
+        "word": {
+            "id": 11930,
+            "uri": "https://sedra.bethmardutho.org/api/word/11930.json"
+        }
+    }
+]

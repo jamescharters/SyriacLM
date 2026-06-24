@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u072c\u072a\u0710",
+        "western": "\u0722\u0736\u072c\u072a\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15863,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15863.json"
+        },
+        "stem": "\u072c\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to soak.",
+                "Ia to be damp",
+                "Ip to become soaked"
+            ]
+        },
+        "word": {
+            "id": 42022,
+            "uri": "https://sedra.bethmardutho.org/api/word/42022.json"
+        }
+    }
+]

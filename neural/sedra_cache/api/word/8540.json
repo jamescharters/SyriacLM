@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071d\u0715\u071d\u0725\u072c\u0710",
+        "western": "\u071d\u073a\u0715\u0742\u073a\u071d\u0725\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1302,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1302.json"
+        },
+        "stem": "\u071d\u0715\u071d\u0725\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "known",
+                "Gram. determined.",
+                "evident, manifest",
+                "famous, well-known, notable",
+                "specific, certain, fixed, particular, appointed",
+                "notable",
+                "certain (one)",
+                "apparent"
+            ]
+        },
+        "word": {
+            "id": 8540,
+            "uri": "https://sedra.bethmardutho.org/api/word/8540.json"
+        }
+    }
+]

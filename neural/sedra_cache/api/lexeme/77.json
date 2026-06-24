@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 77,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/77.json"
+        },
+        "syriac": "\u0710\u071d\u0719\u0713\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0633\u0648\u0644",
+                "\u0646\u0627\u0626\u0628"
+            ],
+            "French": [
+                "messager",
+                "l\u00e9gat"
+            ],
+            "English": [
+                "ambassador",
+                "messenger",
+                "name of a star",
+                "messenger, envoy",
+                "Kth. ambassador.",
+                "ambassador",
+                "legate",
+                "representative",
+                "envoy"
+            ]
+        },
+        "etymologies": {
+            "Persian, Middle (Pahlavi)": [
+                "*izgand"
+            ]
+        },
+        "root": {
+            "id": 61,
+            "uri": "https://sedra.bethmardutho.org/api/root/61.json"
+        },
+        "words": [
+            {
+                "id": 608,
+                "uri": "https://sedra.bethmardutho.org/api/word/608.json"
+            },
+            {
+                "id": 610,
+                "uri": "https://sedra.bethmardutho.org/api/word/610.json"
+            },
+            {
+                "id": 609,
+                "uri": "https://sedra.bethmardutho.org/api/word/609.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

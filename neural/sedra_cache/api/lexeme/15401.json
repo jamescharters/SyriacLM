@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15401,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15401.json"
+        },
+        "syriac": "\u0722\u0725\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to draw away, lead away",
+                "to roll on ground",
+                "IIa to drag away",
+                "Ip",
+                "IIp.",
+                "to tear at"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2811,
+            "uri": "https://sedra.bethmardutho.org/api/root/2811.json"
+        },
+        "words": [
+            {
+                "id": 41739,
+                "uri": "https://sedra.bethmardutho.org/api/word/41739.json"
+            },
+            {
+                "id": 40207,
+                "uri": "https://sedra.bethmardutho.org/api/word/40207.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 28782,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28782.json"
+        },
+        "syriac": "\u0710\u071d\u0715\u072a\u071d\u0718\u0721\u0717\u0722\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f31\u03b4\u03c1\u03c5\u03bc\u03ad\u03bd\u03bf\u03b9"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f31\u03b4\u03c1\u03cd\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 49286,
+                "uri": "https://sedra.bethmardutho.org/api/word/49286.json"
+            },
+            {
+                "id": 55156,
+                "uri": "https://sedra.bethmardutho.org/api/word/55156.json"
+            }
+        ],
+        "category": "participle adjective"
+    }
+]

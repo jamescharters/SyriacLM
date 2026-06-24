@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072b\u0715\u0720",
+        "western": "\u072b\u0715\u0742\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3124,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3124.json"
+        },
+        "stem": "\u072b\u0715\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0627\u0644\u0642, \u062e\u062f\u0639"
+            ],
+            "eng": [
+                "IIp.",
+                "Ia to soothe, cajole",
+                "flatter",
+                "entice",
+                "IIa to beguile, entice"
+            ],
+            "fre": [
+                "flatter, tromper"
+            ]
+        },
+        "word": {
+            "id": 20428,
+            "uri": "https://sedra.bethmardutho.org/api/word/20428.json"
+        }
+    }
+]

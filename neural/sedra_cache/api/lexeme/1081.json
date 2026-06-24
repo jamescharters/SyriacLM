@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 1081,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1081.json"
+        },
+        "syriac": "\u071a\u0721\u072c\u0710",
+        "glosses": {
+            "English": [
+                "anger",
+                "wrath",
+                "fury",
+                "rage, fury",
+                "heat."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 649,
+            "uri": "https://sedra.bethmardutho.org/api/root/649.json"
+        },
+        "words": [
+            {
+                "id": 7246,
+                "uri": "https://sedra.bethmardutho.org/api/word/7246.json"
+            },
+            {
+                "id": 7244,
+                "uri": "https://sedra.bethmardutho.org/api/word/7244.json"
+            },
+            {
+                "id": 24076,
+                "uri": "https://sedra.bethmardutho.org/api/word/24076.json"
+            },
+            {
+                "id": 7247,
+                "uri": "https://sedra.bethmardutho.org/api/word/7247.json"
+            },
+            {
+                "id": 7245,
+                "uri": "https://sedra.bethmardutho.org/api/word/7245.json"
+            },
+            {
+                "id": 7248,
+                "uri": "https://sedra.bethmardutho.org/api/word/7248.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

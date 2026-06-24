@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 3246,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3246.json"
+        },
+        "syriac": "\u0721\u072b\u072c\u0721\u0725\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0627\u0639\u0629"
+            ],
+            "French": [
+                "ob\u00e9issance"
+            ],
+            "English": [
+                "obedience",
+                "obedience."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1888,
+            "uri": "https://sedra.bethmardutho.org/api/root/1888.json"
+        },
+        "words": [
+            {
+                "id": 21391,
+                "uri": "https://sedra.bethmardutho.org/api/word/21391.json"
+            },
+            {
+                "id": 28694,
+                "uri": "https://sedra.bethmardutho.org/api/word/28694.json"
+            },
+            {
+                "id": 21392,
+                "uri": "https://sedra.bethmardutho.org/api/word/21392.json"
+            },
+            {
+                "id": 21390,
+                "uri": "https://sedra.bethmardutho.org/api/word/21390.json"
+            },
+            {
+                "id": 21394,
+                "uri": "https://sedra.bethmardutho.org/api/word/21394.json"
+            },
+            {
+                "id": 21393,
+                "uri": "https://sedra.bethmardutho.org/api/word/21393.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethp\u02bfel"
+    }
+]

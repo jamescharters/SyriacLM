@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1483,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1483.json"
+        },
+        "syriac": "\u071f\u0718\u0720\u071d\u072c\u0710",
+        "glosses": {
+            "English": [
+                "rein",
+                "kidney",
+                "Lit. pl. innermost parts.",
+                "kidneys, reins"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 880,
+            "uri": "https://sedra.bethmardutho.org/api/root/880.json"
+        },
+        "words": [
+            {
+                "id": 10062,
+                "uri": "https://sedra.bethmardutho.org/api/word/10062.json"
+            },
+            {
+                "id": 9783,
+                "uri": "https://sedra.bethmardutho.org/api/word/9783.json"
+            },
+            {
+                "id": 42223,
+                "uri": "https://sedra.bethmardutho.org/api/word/42223.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

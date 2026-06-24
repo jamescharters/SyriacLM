@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0721\u071d\u0719\u072a\u0722\u0710",
+        "western": "\u0721\u071d\u0719\u072a\u0733\u0722\u0733\u0710",
+        "lexeme": {
+            "id": 33519,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33519.json"
+        },
+        "stem": "\u0721\u071d\u0719\u072a\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "girdle, sash"
+            ],
+            "lat": [
+                "cingulum"
+            ]
+        },
+        "word": {
+            "id": 59874,
+            "uri": "https://sedra.bethmardutho.org/api/word/59874.json"
+        }
+    }
+]

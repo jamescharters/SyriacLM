@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u072b\u0710\u0719\u0710",
+        "western": "\u072b\u0730\u0710\u0719\u0730\u0710",
+        "lexeme": {
+            "id": 32139,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/32139.json"
+        },
+        "stem": "\u072b\u0710\u0719\u0710",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "a certain man"
+            ]
+        },
+        "word": {
+            "id": 58513,
+            "uri": "https://sedra.bethmardutho.org/api/word/58513.json"
+        }
+    }
+]

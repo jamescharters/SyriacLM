@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0722\u0710",
+        "western": "\u0710\u0331\u0722\u0733\u0710",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 178,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/178.json"
+        },
+        "stem": "\u0710\u0722\u0710",
+        "category": "pronoun",
+        "isLexicalForm": "false",
+        "isEnclitic": "true",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "I",
+                "I."
+            ]
+        },
+        "word": {
+            "id": 1370,
+            "uri": "https://sedra.bethmardutho.org/api/word/1370.json"
+        }
+    }
+]

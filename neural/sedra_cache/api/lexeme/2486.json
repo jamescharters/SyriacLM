@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 2486,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2486.json"
+        },
+        "syriac": "\u0726\u071b\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0646\u0635\u0631\u0641",
+                "\u062a\u0648\u0641\u064a",
+                "\u0627\u0646\u0642\u0637\u0639, \u0646\u0642\u0635",
+                "\u0627\u0646\u0641\u0635\u0644",
+                "\u062a\u0641\u0637\u0631 (\u062e\u0628\u0632)"
+            ],
+            "French": [
+                "s&#39;en aller",
+                "mourir",
+                "cesser, faire d\u00e9faut",
+                "\u00eatre coup\u00e9, s\u00e9par\u00e9",
+                "n&#39;\u00eatre pas ferment\u00e9 (pain)"
+            ],
+            "English": [
+                "IIIa to thrust out",
+                "to pass away",
+                "depart",
+                "cease",
+                "to dismiss, to dissolve.",
+                "Ia to leave, cease, end",
+                "to bring to an end",
+                "to thrust out (the lips), to pout"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1473,
+            "uri": "https://sedra.bethmardutho.org/api/root/1473.json"
+        },
+        "words": [
+            {
+                "id": 16299,
+                "uri": "https://sedra.bethmardutho.org/api/word/16299.json"
+            },
+            {
+                "id": 16298,
+                "uri": "https://sedra.bethmardutho.org/api/word/16298.json"
+            },
+            {
+                "id": 16300,
+                "uri": "https://sedra.bethmardutho.org/api/word/16300.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

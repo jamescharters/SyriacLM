@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 817,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/817.json"
+        },
+        "syriac": "\u0717\u072a\u0718\u0715\u0723",
+        "glosses": {
+            "English": [
+                "Herod Agrippa I"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 519,
+            "uri": "https://sedra.bethmardutho.org/api/root/519.json"
+        },
+        "words": [
+            {
+                "id": 5333,
+                "uri": "https://sedra.bethmardutho.org/api/word/5333.json"
+            },
+            {
+                "id": 5334,
+                "uri": "https://sedra.bethmardutho.org/api/word/5334.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

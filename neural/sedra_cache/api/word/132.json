@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0718\u0712\u0710",
+        "western": "\u0710\u0730\u0712\u0741\u073d\u0718\u0712\u0742\u0733\u0710",
+        "eastern": "\u0710\u0732\u0712\u0741\u0718\u0712\u0742\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8.json"
+        },
+        "stem": "\u0710\u0712\u0718\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0628\u0627\u0628\u0629"
+            ],
+            "eng": [
+                "flute",
+                "flute, pipe",
+                "pipe",
+                "channel."
+            ],
+            "fre": [
+                "fl\u00fbte"
+            ]
+        },
+        "word": {
+            "id": 132,
+            "uri": "https://sedra.bethmardutho.org/api/word/132.json"
+        }
+    }
+]

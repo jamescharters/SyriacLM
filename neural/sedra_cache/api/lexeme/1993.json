@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1993,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1993.json"
+        },
+        "syriac": "\u0722\u0726\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "breathe",
+                "Ia to breathe",
+                "Ip to be inflated, distended",
+                "to blow, to inflate",
+                "IIp to swell up.",
+                "IIa to winnow",
+                "to swell"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1189,
+            "uri": "https://sedra.bethmardutho.org/api/root/1189.json"
+        },
+        "words": [
+            {
+                "id": 13062,
+                "uri": "https://sedra.bethmardutho.org/api/word/13062.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

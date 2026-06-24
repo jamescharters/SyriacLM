@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0718\u072a\u072b\u0720\u0721",
+        "western": "\u0715\u0741\u073d\u0710\u0718\u072a\u073a\u072b\u0720\u0736\u0721",
+        "lexeme": {
+            "id": 62,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/62.json"
+        },
+        "stem": "\u0710\u0718\u072a\u072b\u0720\u0721",
+        "category": "proper noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Jerusalem"
+            ]
+        },
+        "word": {
+            "id": 330,
+            "uri": "https://sedra.bethmardutho.org/api/word/330.json"
+        }
+    }
+]

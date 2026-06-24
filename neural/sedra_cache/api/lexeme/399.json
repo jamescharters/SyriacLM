@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 399,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/399.json"
+        },
+        "syriac": "\u0712\u0720\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u062c\u0645",
+                "\u0623\u0633\u0643\u062a",
+                "\u00a0"
+            ],
+            "French": [
+                "museler",
+                "faire taire",
+                "\u00a0"
+            ],
+            "English": [
+                "muzzle",
+                "Ip to be silenced",
+                "to be refuted.",
+                "Ia to muzzle, silence"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 275,
+            "uri": "https://sedra.bethmardutho.org/api/root/275.json"
+        },
+        "words": [
+            {
+                "id": 2767,
+                "uri": "https://sedra.bethmardutho.org/api/word/2767.json"
+            },
+            {
+                "id": 2768,
+                "uri": "https://sedra.bethmardutho.org/api/word/2768.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

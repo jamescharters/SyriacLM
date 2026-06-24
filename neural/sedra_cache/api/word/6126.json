@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u0712\u0720\u0710",
+        "western": "\u071a\u0730\u0712\u0742\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 935,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/935.json"
+        },
+        "stem": "\u071a\u0712\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "cable",
+                "line, series, row.",
+                "measured piece of land, allotment",
+                "rope, cord",
+                "measuring line",
+                "rope"
+            ]
+        },
+        "word": {
+            "id": 6126,
+            "uri": "https://sedra.bethmardutho.org/api/word/6126.json"
+        }
+    }
+]

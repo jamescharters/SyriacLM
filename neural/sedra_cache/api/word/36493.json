@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0721\u0718\u072b\u071f",
+        "western": "\u0721\u073d\u0718\u072b\u0733\u071f",
+        "number": "singular",
+        "lexeme": {
+            "id": 5887,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5887.json"
+        },
+        "stem": "\u0721\u0718\u072b\u071f",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u0643"
+            ],
+            "eng": [
+                "musk."
+            ],
+            "fre": [
+                "musc"
+            ]
+        },
+        "word": {
+            "id": 36493,
+            "uri": "https://sedra.bethmardutho.org/api/word/36493.json"
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "syriac": "\u0718\u0710\u0728\u071b\u072a\u071d",
+        "western": "\u0718\u0736\u0710\u0728\u071b\u072a\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2716,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2716.json"
+        },
+        "stem": "\u0728\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0642, \u062e\u0632\u0642",
+                "\u0641\u062a\u062d",
+                "\u0642\u0644\u0639",
+                "\u0627\u062c\u062a\u0627\u0632",
+                "\u0627\u062e\u062a\u0631\u0642"
+            ],
+            "eng": [
+                "IIa to tear, burst open",
+                "Ip to be torn",
+                "break out against",
+                "Ia to rend apart, tear",
+                "IIp.",
+                "to hesitate",
+                "burst",
+                "rend"
+            ],
+            "fre": [
+                "p\u00e9n\u00e9trer",
+                "fendre, d\u00e9chirer",
+                "arracher",
+                "franchir",
+                "ouvrir"
+            ]
+        },
+        "word": {
+            "id": 17623,
+            "uri": "https://sedra.bethmardutho.org/api/word/17623.json"
+        }
+    }
+]

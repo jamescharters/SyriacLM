@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0713\u0715",
+        "western": "\u0713\u0741\u0730\u0715\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 511,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/511.json"
+        },
+        "stem": "\u0713\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "cut",
+                "cut off",
+                "Ip.",
+                "Ia to cut off (e.g. a web)",
+                "to sunder"
+            ]
+        },
+        "word": {
+            "id": 3488,
+            "uri": "https://sedra.bethmardutho.org/api/word/3488.json"
+        }
+    }
+]

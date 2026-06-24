@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15501,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15501.json"
+        },
+        "syriac": "\u0726\u071b\u071a",
+        "glosses": {
+            "English": [
+                "Ia to spread."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2159,
+            "uri": "https://sedra.bethmardutho.org/api/root/2159.json"
+        },
+        "words": [
+            {
+                "id": 41598,
+                "uri": "https://sedra.bethmardutho.org/api/word/41598.json"
+            },
+            {
+                "id": 41281,
+                "uri": "https://sedra.bethmardutho.org/api/word/41281.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

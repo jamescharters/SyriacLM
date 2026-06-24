@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 14790,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14790.json"
+        },
+        "syriac": "\u071f\u071a",
+        "glosses": {
+            "English": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u0730\u071a</span> to blow (a fire), exhale, puff.",
+                "to blow (a fire)",
+                "to exhale, to puff."
+            ],
+            "Arabic": [
+                "\u0646\u0641\u0633",
+                "\u0646\u0641\u062d"
+            ],
+            "French": [
+                "souffler",
+                "exhaler"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 40308,
+                "uri": "https://sedra.bethmardutho.org/api/word/40308.json"
+            },
+            {
+                "id": 40778,
+                "uri": "https://sedra.bethmardutho.org/api/word/40778.json"
+            },
+            {
+                "id": 40969,
+                "uri": "https://sedra.bethmardutho.org/api/word/40969.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

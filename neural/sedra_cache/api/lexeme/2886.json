@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2886,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2886.json"
+        },
+        "syriac": "\u0729\u072a\u071f\u0715\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u062c\u0631 \u064a\u0645\u0627\u0646"
+            ],
+            "French": [
+                "calc\u00e9doine"
+            ],
+            "English": [
+                "chalcedony",
+                "chalcedony, carnelian."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c7\u03b1\u03bb\u03ba\u03b7\u03b4\u03ce\u03bd"
+            ]
+        },
+        "root": {
+            "id": 1710,
+            "uri": "https://sedra.bethmardutho.org/api/root/1710.json"
+        },
+        "words": [
+            {
+                "id": 18832,
+                "uri": "https://sedra.bethmardutho.org/api/word/18832.json"
+            },
+            {
+                "id": 18831,
+                "uri": "https://sedra.bethmardutho.org/api/word/18831.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

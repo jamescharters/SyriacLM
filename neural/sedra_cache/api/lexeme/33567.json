@@ -1,0 +1,27 @@
+[
+    {
+        "lexeme": {
+            "id": 33567,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33567.json"
+        },
+        "syriac": "\u0717\u071d\u072a\u0718\u0715\u071d\u0723",
+        "glosses": {
+            "Latin": [
+                "Herodes",
+                "Herod"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 59923,
+                "uri": "https://sedra.bethmardutho.org/api/word/59923.json"
+            },
+            {
+                "id": 59922,
+                "uri": "https://sedra.bethmardutho.org/api/word/59922.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

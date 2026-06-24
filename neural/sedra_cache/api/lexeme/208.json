@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 208,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/208.json"
+        },
+        "syriac": "\u0710\u0723\u071b\u0718\u071f\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0646\u0635\u0631"
+            ],
+            "French": [
+                "\u00e9l\u00e9ment"
+            ],
+            "English": [
+                "element",
+                "body"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u1fd6\u03bf\u03bd"
+            ]
+        },
+        "root": {
+            "id": 156,
+            "uri": "https://sedra.bethmardutho.org/api/root/156.json"
+        },
+        "words": [
+            {
+                "id": 50373,
+                "uri": "https://sedra.bethmardutho.org/api/word/50373.json"
+            },
+            {
+                "id": 1532,
+                "uri": "https://sedra.bethmardutho.org/api/word/1532.json"
+            },
+            {
+                "id": 1530,
+                "uri": "https://sedra.bethmardutho.org/api/word/1530.json"
+            },
+            {
+                "id": 29540,
+                "uri": "https://sedra.bethmardutho.org/api/word/29540.json"
+            },
+            {
+                "id": 1531,
+                "uri": "https://sedra.bethmardutho.org/api/word/1531.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

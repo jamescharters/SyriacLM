@@ -1,0 +1,75 @@
+[
+    {
+        "lexeme": {
+            "id": 15240,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15240.json"
+        },
+        "syriac": "\u071b\u0722\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u062f\u0646\u0633",
+                "\u062f\u0646\u0633 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "\u00eatre souill\u00e9",
+                "souiller",
+                "\u00a0"
+            ],
+            "English": [
+                "to deflower",
+                "IIa to profane, to pollute, defile",
+                "soiled",
+                "soil",
+                "defile",
+                "pollute",
+                "to commit an abomination.",
+                "IIp to be defiled, polluted"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2328,
+            "uri": "https://sedra.bethmardutho.org/api/root/2328.json"
+        },
+        "words": [
+            {
+                "id": 8191,
+                "uri": "https://sedra.bethmardutho.org/api/word/8191.json"
+            },
+            {
+                "id": 8192,
+                "uri": "https://sedra.bethmardutho.org/api/word/8192.json"
+            },
+            {
+                "id": 25156,
+                "uri": "https://sedra.bethmardutho.org/api/word/25156.json"
+            },
+            {
+                "id": 25157,
+                "uri": "https://sedra.bethmardutho.org/api/word/25157.json"
+            },
+            {
+                "id": 25158,
+                "uri": "https://sedra.bethmardutho.org/api/word/25158.json"
+            },
+            {
+                "id": 25159,
+                "uri": "https://sedra.bethmardutho.org/api/word/25159.json"
+            },
+            {
+                "id": 8193,
+                "uri": "https://sedra.bethmardutho.org/api/word/8193.json"
+            },
+            {
+                "id": 40586,
+                "uri": "https://sedra.bethmardutho.org/api/word/40586.json"
+            },
+            {
+                "id": 40435,
+                "uri": "https://sedra.bethmardutho.org/api/word/40435.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

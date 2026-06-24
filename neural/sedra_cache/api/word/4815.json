@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0715\u0715\u0729\u072a\u0718",
+        "western": "\u0715\u0741\u0730\u0715\u0742\u0729\u0730\u072a\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 746,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/746.json"
+        },
+        "stem": "\u0715\u0729\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0641\u0630",
+                "",
+                "\u0646\u0637\u062d, \u0636\u0631\u0628"
+            ],
+            "eng": [
+                "smote",
+                "hit",
+                "Ip",
+                "pierce",
+                "prick",
+                "IIIp to thrust with the horn.",
+                "IIa to butt, gore, wound",
+                "Ia to pierce, stab"
+            ],
+            "fre": [
+                "",
+                "transpercer",
+                "frapper ( de la corne), frapper"
+            ]
+        },
+        "word": {
+            "id": 4815,
+            "uri": "https://sedra.bethmardutho.org/api/word/4815.json"
+        }
+    }
+]

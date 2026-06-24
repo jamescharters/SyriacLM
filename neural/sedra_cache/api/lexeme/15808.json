@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15808,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15808.json"
+        },
+        "syriac": "\u072b\u072a\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0634\u0639\u0644",
+                "\u0623\u0638\u0644\u0645\u062a (\u0639\u064a\u0646)",
+                "\u0623\u062e\u0637\u0623"
+            ],
+            "French": [
+                "allumer",
+                "s&#39;obscurcir (\u0153il)",
+                "p\u00e9cher"
+            ],
+            "English": [
+                "IIp to be illumined",
+                "to become dim",
+                "Ia to light (fire)",
+                "IIIa to dazzle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2349,
+            "uri": "https://sedra.bethmardutho.org/api/root/2349.json"
+        },
+        "words": [
+            {
+                "id": 41834,
+                "uri": "https://sedra.bethmardutho.org/api/word/41834.json"
+            },
+            {
+                "id": 39956,
+                "uri": "https://sedra.bethmardutho.org/api/word/39956.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

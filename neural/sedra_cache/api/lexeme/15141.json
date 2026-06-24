@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15141,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15141.json"
+        },
+        "syriac": "\u071f\u0720\u0715",
+        "glosses": {
+            "English": [
+                "to practice divination.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u0720\u0736\u0715</span> to consult the stars"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2437,
+            "uri": "https://sedra.bethmardutho.org/api/root/2437.json"
+        },
+        "words": [
+            {
+                "id": 40983,
+                "uri": "https://sedra.bethmardutho.org/api/word/40983.json"
+            },
+            {
+                "id": 40948,
+                "uri": "https://sedra.bethmardutho.org/api/word/40948.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

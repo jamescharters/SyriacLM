@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0726",
+        "western": "\u0729\u0726",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15033,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15033.json"
+        },
+        "stem": "\u0729\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to take care of.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0729\u073a\u071d\u0726</span> to pay attention to"
+            ]
+        },
+        "word": {
+            "id": 39894,
+            "uri": "https://sedra.bethmardutho.org/api/word/39894.json"
+        }
+    }
+]

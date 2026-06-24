@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0722\u0723\u072a",
+        "western": "\u0722\u0723\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15717,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15717.json"
+        },
+        "stem": "\u0722\u0723\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u073d\u0718\u072a</span>, Ia to spread."
+            ]
+        },
+        "word": {
+            "id": 41327,
+            "uri": "https://sedra.bethmardutho.org/api/word/41327.json"
+        }
+    }
+]

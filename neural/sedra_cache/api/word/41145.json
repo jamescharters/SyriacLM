@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0726\u071a\u072c",
+        "western": "\u0726\u071a\u0730\u072c",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15374,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15374.json"
+        },
+        "stem": "\u0726\u071a\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0641\u0631",
+                "\u062b\u0642\u0628"
+            ],
+            "eng": [
+                "IIa to cleave, to part asunder",
+                "Ia to dig",
+                "to bore",
+                "IIp to be undermined, to collapse."
+            ],
+            "fre": [
+                "perforer",
+                "creuser"
+            ]
+        },
+        "word": {
+            "id": 41145,
+            "uri": "https://sedra.bethmardutho.org/api/word/41145.json"
+        }
+    }
+]

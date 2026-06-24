@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 920,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/920.json"
+        },
+        "syriac": "\u071a\u072a\u0718\u072a\u0710",
+        "glosses": {
+            "English": [
+                "freedom",
+                "liberty",
+                "manumission",
+                "emancipation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 582,
+            "uri": "https://sedra.bethmardutho.org/api/root/582.json"
+        },
+        "words": [
+            {
+                "id": 5986,
+                "uri": "https://sedra.bethmardutho.org/api/word/5986.json"
+            },
+            {
+                "id": 5987,
+                "uri": "https://sedra.bethmardutho.org/api/word/5987.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

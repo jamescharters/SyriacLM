@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 2801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2801.json"
+        },
+        "syriac": "\u0729\u071b\u0713\u072a\u0722\u0710",
+        "glosses": {
+            "English": [
+                "accuser"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03b1\u03c4\u03ae\u03b3\u03bf\u03c1\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1652,
+            "uri": "https://sedra.bethmardutho.org/api/root/1652.json"
+        },
+        "words": [
+            {
+                "id": 27934,
+                "uri": "https://sedra.bethmardutho.org/api/word/27934.json"
+            },
+            {
+                "id": 27933,
+                "uri": "https://sedra.bethmardutho.org/api/word/27933.json"
+            },
+            {
+                "id": 18307,
+                "uri": "https://sedra.bethmardutho.org/api/word/18307.json"
+            },
+            {
+                "id": 18306,
+                "uri": "https://sedra.bethmardutho.org/api/word/18306.json"
+            },
+            {
+                "id": 18308,
+                "uri": "https://sedra.bethmardutho.org/api/word/18308.json"
+            },
+            {
+                "id": 18303,
+                "uri": "https://sedra.bethmardutho.org/api/word/18303.json"
+            },
+            {
+                "id": 18305,
+                "uri": "https://sedra.bethmardutho.org/api/word/18305.json"
+            },
+            {
+                "id": 18304,
+                "uri": "https://sedra.bethmardutho.org/api/word/18304.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p"
+    }
+]

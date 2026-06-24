@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0719\u072a\u0715",
+        "western": "\u0719\u072a\u0730\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15568,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15568.json"
+        },
+        "stem": "\u0719\u072a\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062c\u0628\u0631"
+            ],
+            "eng": [
+                "to tie tightly",
+                "Ia to constrain",
+                "IIa to gird."
+            ],
+            "fre": [
+                "contraindre"
+            ]
+        },
+        "word": {
+            "id": 40051,
+            "uri": "https://sedra.bethmardutho.org/api/word/40051.json"
+        }
+    }
+]

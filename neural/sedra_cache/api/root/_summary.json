@@ -1,0 +1,16 @@
+{
+  "endpoint": "root",
+  "base_url": "https://sedra.bethmardutho.org/api/root",
+  "range": [
+    1,
+    4999
+  ],
+  "out_dir": "/Users/chartja/Github/syriac/neural/sedra_cache/api/root",
+  "requested": 4989,
+  "ok": 3455,
+  "missing_this_run": 1534,
+  "missing_total": 1534,
+  "error": 0,
+  "interrupted": false,
+  "elapsed_sec": 624.8
+}

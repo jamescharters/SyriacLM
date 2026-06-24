@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u071d\u0725\u0710",
+        "western": "\u071d\u073a\u0725\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1395,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1395.json"
+        },
+        "stem": "\u071d\u0725\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "spring up",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0725\u073a\u071d</span> to make to grow",
+                "Ia to sprout, bud, spring up",
+                "to sprout, put forth.",
+                "produce",
+                "germinate",
+                "sprout",
+                "to make to grow."
+            ]
+        },
+        "word": {
+            "id": 9282,
+            "uri": "https://sedra.bethmardutho.org/api/word/9282.json"
+        }
+    }
+]

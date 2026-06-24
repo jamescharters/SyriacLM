@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1209,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1209.json"
+        },
+        "syriac": "\u071b\u0713\u072a",
+        "glosses": {
+            "English": [
+                "violence",
+                "molest",
+                "vexatious",
+                "to harm, molest.",
+                "Ip, IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u071b\u0730\u0713\u0730\u072a</span> to deal hardly with"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 709,
+            "uri": "https://sedra.bethmardutho.org/api/root/709.json"
+        },
+        "words": [
+            {
+                "id": 8003,
+                "uri": "https://sedra.bethmardutho.org/api/word/8003.json"
+            },
+            {
+                "id": 8002,
+                "uri": "https://sedra.bethmardutho.org/api/word/8002.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

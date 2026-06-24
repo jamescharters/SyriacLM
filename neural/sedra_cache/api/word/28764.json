@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u072a\u072c\u071d\u0722",
+        "western": "\u0721\u0730\u072a\u072c\u0741\u0736\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "aph\u02bfel",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3087,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3087.json"
+        },
+        "stem": "\u072a\u072c\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072a\u072c\u073a\u071d</span> to admonish, to instruct",
+                "IIIp.",
+                "admonish",
+                "advise",
+                "instruct",
+                "to admonish."
+            ]
+        },
+        "word": {
+            "id": 28764,
+            "uri": "https://sedra.bethmardutho.org/api/word/28764.json"
+        }
+    }
+]

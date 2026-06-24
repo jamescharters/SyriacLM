@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2086,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2086.json"
+        },
+        "syriac": "\u0723\u071d\u0713\u0710",
+        "glosses": {
+            "English": [
+                "limit.",
+                "hedge",
+                "fence",
+                "barrier",
+                "partition",
+                "fence, hedge"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1244,
+            "uri": "https://sedra.bethmardutho.org/api/root/1244.json"
+        },
+        "words": [
+            {
+                "id": 13913,
+                "uri": "https://sedra.bethmardutho.org/api/word/13913.json"
+            },
+            {
+                "id": 13912,
+                "uri": "https://sedra.bethmardutho.org/api/word/13912.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

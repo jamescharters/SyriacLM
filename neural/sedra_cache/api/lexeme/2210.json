@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 2210,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2210.json"
+        },
+        "syriac": "\u0723\u072a\u071d\u0729\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0637\u0644\u0627\u0646"
+            ],
+            "French": [
+                "vanit\u00e9"
+            ],
+            "English": [
+                "vanity",
+                "emptiness",
+                "vanity",
+                "emptiness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1322,
+            "uri": "https://sedra.bethmardutho.org/api/root/1322.json"
+        },
+        "words": [
+            {
+                "id": 14604,
+                "uri": "https://sedra.bethmardutho.org/api/word/14604.json"
+            },
+            {
+                "id": 14608,
+                "uri": "https://sedra.bethmardutho.org/api/word/14608.json"
+            },
+            {
+                "id": 14606,
+                "uri": "https://sedra.bethmardutho.org/api/word/14606.json"
+            },
+            {
+                "id": 14605,
+                "uri": "https://sedra.bethmardutho.org/api/word/14605.json"
+            },
+            {
+                "id": 14607,
+                "uri": "https://sedra.bethmardutho.org/api/word/14607.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

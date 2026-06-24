@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0729\u0712\u0718\u072a\u0717",
+        "western": "\u0729\u0712\u0742\u073d\u0718\u072a\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2733,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2733.json"
+        },
+        "stem": "\u0729\u0712\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0641\u0646"
+            ],
+            "eng": [
+                "sepulchre",
+                "tomb",
+                "place of burial."
+            ],
+            "fre": [
+                "s\u00e9pulture"
+            ]
+        },
+        "word": {
+            "id": 17772,
+            "uri": "https://sedra.bethmardutho.org/api/word/17772.json"
+        }
+    }
+]

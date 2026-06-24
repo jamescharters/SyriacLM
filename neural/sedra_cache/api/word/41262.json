@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0720\u072b",
+        "western": "\u0721\u0720\u0730\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15552,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15552.json"
+        },
+        "stem": "\u0721\u0720\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to pluck (feathers)",
+                "Ia to peel",
+                "Ip."
+            ]
+        },
+        "word": {
+            "id": 41262,
+            "uri": "https://sedra.bethmardutho.org/api/word/41262.json"
+        }
+    }
+]

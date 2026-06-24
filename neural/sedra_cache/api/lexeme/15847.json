@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 15847,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15847.json"
+        },
+        "syriac": "\u0723\u0726",
+        "glosses": {
+            "English": [
+                "to cause to disappear, finish off.",
+                "to destroy.",
+                "to be consumed",
+                "Ia to come to an end",
+                "to disappear",
+                "Ip",
+                "to consume",
+                "to perish",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0723\u073a\u071d\u0726</span> to cause to disappear"
+            ],
+            "Arabic": [
+                "\u062e\u0631\u0628 (\u0645\u0636)"
+            ],
+            "French": [
+                "d\u00e9truire"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3119,
+            "uri": "https://sedra.bethmardutho.org/api/root/3119.json"
+        },
+        "words": [
+            {
+                "id": 42106,
+                "uri": "https://sedra.bethmardutho.org/api/word/42106.json"
+            },
+            {
+                "id": 41426,
+                "uri": "https://sedra.bethmardutho.org/api/word/41426.json"
+            },
+            {
+                "id": 41064,
+                "uri": "https://sedra.bethmardutho.org/api/word/41064.json"
+            },
+            {
+                "id": 40110,
+                "uri": "https://sedra.bethmardutho.org/api/word/40110.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

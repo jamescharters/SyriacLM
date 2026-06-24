@@ -1,0 +1,54 @@
+[
+    {
+        "syriac": "\u0723\u0712\u0720",
+        "western": "\u0723\u0733\u0712\u0742\u0736\u0720",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2050,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2050.json"
+        },
+        "stem": "\u0723\u0712\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062e\u0630, \u0630\u0647\u0628 \u0628\u0640",
+                "\u00a0",
+                "\u062d\u0645\u0644",
+                "\u0627\u062d\u062a\u0645\u0644"
+            ],
+            "eng": [
+                "to be made to suffer.",
+                "IIIp to suffer",
+                "to bestow wedding gifts on",
+                "to bear",
+                "IIIa to inflict, to impose on, to lay upon",
+                "bear",
+                "IIa to fetch",
+                "suffer",
+                "cause to bear",
+                "impose",
+                "inflict",
+                "Ia to carry, bear",
+                "Ip"
+            ],
+            "fre": [
+                " recevoir, emporter",
+                "porter",
+                "\u00a0",
+                "supporter"
+            ]
+        },
+        "word": {
+            "id": 13482,
+            "uri": "https://sedra.bethmardutho.org/api/word/13482.json"
+        }
+    }
+]

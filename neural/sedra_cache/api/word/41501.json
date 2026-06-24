@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0725\u0713\u0715",
+        "western": "\u0725\u0713\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15934,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15934.json"
+        },
+        "stem": "\u0725\u0713\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u062f\u0631"
+            ],
+            "eng": [
+                "Ia to be benumbed."
+            ],
+            "fre": [
+                "\u00eatre engourdi"
+            ]
+        },
+        "word": {
+            "id": 41501,
+            "uri": "https://sedra.bethmardutho.org/api/word/41501.json"
+        }
+    }
+]

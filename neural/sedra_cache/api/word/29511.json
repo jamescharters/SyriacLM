@@ -1,0 +1,53 @@
+[
+    {
+        "syriac": "\u072c\u0720\u0710",
+        "western": "\u072c\u0741\u0720\u0736\u0710",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3395,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3395.json"
+        },
+        "stem": "\u072c\u0720\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0646\u062f",
+                "\u0639\u0644\u0642 (\u0645\u0636)",
+                "\u0623\u0648\u0635\u0644 \u0628\u0640",
+                "\u062a\u0632\u064a\u0646 \u0628\u0640",
+                "\u062d\u0641\u0638\u0647 \u0645\u0639\u0644\u0642\u0627\u064b",
+                "\u0631\u0641\u0639"
+            ],
+            "eng": [
+                "IIp to be hung up",
+                "to remove",
+                "hang up",
+                "to adhere to",
+                "IIIa to make hang",
+                "Ip",
+                "Ia to lift up, to suspend, to hang",
+                "to clutch."
+            ],
+            "fre": [
+                "joindre",
+                "s\u2019orner de",
+                "lever",
+                "tenir suspendu",
+                "suspendre",
+                "soutenir"
+            ]
+        },
+        "word": {
+            "id": 29511,
+            "uri": "https://sedra.bethmardutho.org/api/word/29511.json"
+        }
+    }
+]

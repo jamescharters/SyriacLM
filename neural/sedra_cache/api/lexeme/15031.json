@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15031,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15031.json"
+        },
+        "syriac": "\u0721\u072a\u071d",
+        "glosses": {
+            "English": [
+                "IIIa to strive.",
+                "IIp",
+                "to imitate",
+                "IIa to contend",
+                "to emulate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2373,
+            "uri": "https://sedra.bethmardutho.org/api/root/2373.json"
+        },
+        "words": [
+            {
+                "id": 41042,
+                "uri": "https://sedra.bethmardutho.org/api/word/41042.json"
+            },
+            {
+                "id": 40910,
+                "uri": "https://sedra.bethmardutho.org/api/word/40910.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

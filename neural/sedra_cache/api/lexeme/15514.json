@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15514,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15514.json"
+        },
+        "syriac": "\u072a\u0723\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0631",
+                "\u0633\u0627\u0644",
+                "\u0633\u0643\u0628",
+                "\u0642\u0637\u0631 (\u0645\u0636)"
+            ],
+            "French": [
+                "d\u00e9goutter",
+                "couler",
+                "verser",
+                "distiller"
+            ],
+            "English": [
+                "Ia to flow gently",
+                "IIIa.",
+                "to drip",
+                "to pour",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2111,
+            "uri": "https://sedra.bethmardutho.org/api/root/2111.json"
+        },
+        "words": [
+            {
+                "id": 41731,
+                "uri": "https://sedra.bethmardutho.org/api/word/41731.json"
+            },
+            {
+                "id": 41579,
+                "uri": "https://sedra.bethmardutho.org/api/word/41579.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

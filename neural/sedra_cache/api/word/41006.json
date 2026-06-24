@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u0726\u072a",
+        "western": "\u0710\u0730\u0726\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15520,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15520.json"
+        },
+        "stem": "\u0722\u0726\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0631\u0628 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to shun, to shy away from",
+                "Ia to snort, neigh, bleat",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u0730\u072a</span> to put to flight."
+            ],
+            "fre": [
+                "mettre en fuite"
+            ]
+        },
+        "word": {
+            "id": 41006,
+            "uri": "https://sedra.bethmardutho.org/api/word/41006.json"
+        }
+    }
+]

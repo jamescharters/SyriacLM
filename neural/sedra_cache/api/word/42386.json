@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u0713\u071d\u072a",
+        "western": "\u0710\u0730\u0713\u073a\u071d\u072a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 540,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/540.json"
+        },
+        "stem": "\u0713\u0718\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to commit adultery",
+                "Ia, IIa to commit adultery",
+                "IIIa to deflower, to ravish",
+                "IIp to go whoring",
+                "commit adultery",
+                "to cause to commit adultery."
+            ]
+        },
+        "word": {
+            "id": 42386,
+            "uri": "https://sedra.bethmardutho.org/api/word/42386.json"
+        }
+    }
+]

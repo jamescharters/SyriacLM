@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0725\u0722\u0712\u072c\u0710",
+        "western": "\u0725\u0736\u0722\u0712\u0742\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "common",
+        "lexeme": {
+            "id": 11790,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11790.json"
+        },
+        "stem": "\u0725\u0722\u0712\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0646\u0628",
+                "\u0639\u0646\u0628\u064a\u0629"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u0725\u0736\u0722\u0308\u0712\u0736\u0710</span> grapes, bunch of grapes.",
+                "grapes",
+                "<span class=\"selectableFont\">\u0725\u0736\u0722\u0308\u0712\u0736\u0710</span> grapes, bunch of grapes."
+            ],
+            "fre": [
+                "baie",
+                "raisin"
+            ]
+        },
+        "word": {
+            "id": 15786,
+            "uri": "https://sedra.bethmardutho.org/api/word/15786.json"
+        }
+    }
+]

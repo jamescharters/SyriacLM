@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 981,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/981.json"
+        },
+        "syriac": "\u071a\u0718\u071b\u072a\u0710",
+        "glosses": {
+            "English": [
+                "rod",
+                "staff",
+                "staff, rod, scepter."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 605,
+            "uri": "https://sedra.bethmardutho.org/api/root/605.json"
+        },
+        "words": [
+            {
+                "id": 6461,
+                "uri": "https://sedra.bethmardutho.org/api/word/6461.json"
+            },
+            {
+                "id": 6459,
+                "uri": "https://sedra.bethmardutho.org/api/word/6459.json"
+            },
+            {
+                "id": 6458,
+                "uri": "https://sedra.bethmardutho.org/api/word/6458.json"
+            },
+            {
+                "id": 6457,
+                "uri": "https://sedra.bethmardutho.org/api/word/6457.json"
+            },
+            {
+                "id": 6462,
+                "uri": "https://sedra.bethmardutho.org/api/word/6462.json"
+            },
+            {
+                "id": 6460,
+                "uri": "https://sedra.bethmardutho.org/api/word/6460.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0710\u0720\u0719",
+        "western": "\u0710\u0730\u0720\u0736\u0719",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15411,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15411.json"
+        },
+        "stem": "\u0720\u0719",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0641\u0639",
+                "\u0623\u0632\u0639\u062c"
+            ],
+            "eng": [
+                "IIIp.",
+                "to be compressed, to contract",
+                "to importune.",
+                "to be compressed",
+                "Ip to be pestered, annoyed, harassed",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0720\u0736\u0719</span> to importune, annoy, molest",
+                "to contract, to cause to shrink",
+                "Ia to be importunate, tiresome",
+                "IIp to be disquieted"
+            ],
+            "fre": [
+                "pousser",
+                "importuner"
+            ]
+        },
+        "word": {
+            "id": 40683,
+            "uri": "https://sedra.bethmardutho.org/api/word/40683.json"
+        }
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 1150,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1150.json"
+        },
+        "syriac": "\u071a\u072a\u071d\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0627\u062f, \u0630\u0631\u0628",
+                "\u0633\u0631\u064a\u0639, \u0646\u0634\u064a\u0637",
+                "\u0642\u0648\u064a, \u0642\u0627\u0633"
+            ],
+            "French": [
+                "tranchant, pointu",
+                "prompt, vif",
+                "fort , dur"
+            ],
+            "English": [
+                "shrill.",
+                "sharp",
+                "incisive",
+                "keen",
+                "fervent",
+                "prompt, swift",
+                "sharp, sudden, acute, severe"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 687,
+            "uri": "https://sedra.bethmardutho.org/api/root/687.json"
+        },
+        "words": [
+            {
+                "id": 46042,
+                "uri": "https://sedra.bethmardutho.org/api/word/46042.json"
+            },
+            {
+                "id": 7560,
+                "uri": "https://sedra.bethmardutho.org/api/word/7560.json"
+            },
+            {
+                "id": 7563,
+                "uri": "https://sedra.bethmardutho.org/api/word/7563.json"
+            },
+            {
+                "id": 7562,
+                "uri": "https://sedra.bethmardutho.org/api/word/7562.json"
+            },
+            {
+                "id": 7561,
+                "uri": "https://sedra.bethmardutho.org/api/word/7561.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

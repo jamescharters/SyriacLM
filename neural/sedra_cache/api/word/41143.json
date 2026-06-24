@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0712\u071d\u072c\u071d",
+        "western": "\u0712\u0730\u071d\u072c\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14653,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14653.json"
+        },
+        "stem": "\u0712\u071d\u072c\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u062a\u0645\u0627\u0644",
+                "\u0627\u0642\u062a\u0628\u0644 \u0643\u0639\u0627\u0626\u0644\u064a",
+                "\u0646\u0633\u0628"
+            ],
+            "eng": [
+                "to domesticate, tame",
+                "IVp to become familiar with.",
+                "IVa to bring into a family"
+            ],
+            "fre": [
+                "admettre comme familier",
+                "attribuer",
+                "gagner \u00e0 soi"
+            ]
+        },
+        "word": {
+            "id": 41143,
+            "uri": "https://sedra.bethmardutho.org/api/word/41143.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0713\u0720\u071d\u0715\u0710",
+        "western": "\u0713\u0741\u0720\u073a\u071d\u0715\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 577,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/577.json"
+        },
+        "stem": "\u0713\u0720\u071d\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0644\u064a\u062f",
+                "\u0628\u0631\u062f"
+            ],
+            "eng": [
+                "ice.",
+                "crystal",
+                "ice"
+            ],
+            "fre": [
+                "froid",
+                "glace"
+            ]
+        },
+        "word": {
+            "id": 3774,
+            "uri": "https://sedra.bethmardutho.org/api/word/3774.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 884,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/884.json"
+        },
+        "syriac": "\u0719\u0720\u0713",
+        "glosses": {
+            "English": [
+                "shine",
+                "IIIp to be enlightened.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0719\u0720\u0736\u0713</span> to shine, be radiant"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 564,
+            "uri": "https://sedra.bethmardutho.org/api/root/564.json"
+        },
+        "words": [
+            {
+                "id": 5741,
+                "uri": "https://sedra.bethmardutho.org/api/word/5741.json"
+            },
+            {
+                "id": 5740,
+                "uri": "https://sedra.bethmardutho.org/api/word/5740.json"
+            },
+            {
+                "id": 5742,
+                "uri": "https://sedra.bethmardutho.org/api/word/5742.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072a\u071f\u0712\u0710",
+        "western": "\u072a\u071f\u0733\u0712\u0733\u0710",
+        "lexeme": {
+            "id": 16706,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16706.json"
+        },
+        "stem": "\u072a\u071f\u0712\u0710",
+        "category": "substantive",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u064a\u0631 (\u0646\u062c\u0645)"
+            ],
+            "eng": [
+                "rudder-bands"
+            ],
+            "fre": [
+                "cours (d&#39;un astre)"
+            ]
+        },
+        "word": {
+            "id": 43080,
+            "uri": "https://sedra.bethmardutho.org/api/word/43080.json"
+        }
+    }
+]

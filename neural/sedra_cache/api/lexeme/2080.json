@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2080,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2080.json"
+        },
+        "syriac": "\u0723\u0717\u072a\u0710",
+        "glosses": {
+            "English": [
+                "moon",
+                "moon."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1241,
+            "uri": "https://sedra.bethmardutho.org/api/root/1241.json"
+        },
+        "words": [
+            {
+                "id": 13878,
+                "uri": "https://sedra.bethmardutho.org/api/word/13878.json"
+            },
+            {
+                "id": 13877,
+                "uri": "https://sedra.bethmardutho.org/api/word/13877.json"
+            },
+            {
+                "id": 13876,
+                "uri": "https://sedra.bethmardutho.org/api/word/13876.json"
+            },
+            {
+                "id": 13879,
+                "uri": "https://sedra.bethmardutho.org/api/word/13879.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

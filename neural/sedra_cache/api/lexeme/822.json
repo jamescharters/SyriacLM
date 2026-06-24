@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 822,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/822.json"
+        },
+        "syriac": "\u0717\u072a\u0721\u0713\u0722\u071d\u0723",
+        "glosses": {
+            "English": [
+                "Hermogenes"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 524,
+            "uri": "https://sedra.bethmardutho.org/api/root/524.json"
+        },
+        "words": [
+            {
+                "id": 5346,
+                "uri": "https://sedra.bethmardutho.org/api/word/5346.json"
+            },
+            {
+                "id": 5347,
+                "uri": "https://sedra.bethmardutho.org/api/word/5347.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 3054,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3054.json"
+        },
+        "syriac": "\u072a\u0725\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0631\u062a\u0639\u062f",
+                "\u062e\u0627\u0626\u0641"
+            ],
+            "French": [
+                "trembler",
+                "qui craint"
+            ],
+            "English": [
+                "tremble",
+                "shake",
+                "quiver",
+                "sway",
+                "Ia to quiver, to oscillate",
+                "IIIa.",
+                "to be shaken"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1778,
+            "uri": "https://sedra.bethmardutho.org/api/root/1778.json"
+        },
+        "words": [
+            {
+                "id": 28710,
+                "uri": "https://sedra.bethmardutho.org/api/word/28710.json"
+            },
+            {
+                "id": 28709,
+                "uri": "https://sedra.bethmardutho.org/api/word/28709.json"
+            },
+            {
+                "id": 19935,
+                "uri": "https://sedra.bethmardutho.org/api/word/19935.json"
+            },
+            {
+                "id": 28712,
+                "uri": "https://sedra.bethmardutho.org/api/word/28712.json"
+            },
+            {
+                "id": 28711,
+                "uri": "https://sedra.bethmardutho.org/api/word/28711.json"
+            },
+            {
+                "id": 19938,
+                "uri": "https://sedra.bethmardutho.org/api/word/19938.json"
+            },
+            {
+                "id": 19937,
+                "uri": "https://sedra.bethmardutho.org/api/word/19937.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

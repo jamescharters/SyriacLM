@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15710,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15710.json"
+        },
+        "syriac": "\u0722\u0728\u0726",
+        "glosses": {
+            "English": [
+                "to be sharp (of taste)",
+                "to scold",
+                "Ia to hiss, to whistle",
+                "to be clear",
+                "to be strong",
+                "IIa to reject.",
+                "Ip to exude, to perspire"
+            ],
+            "Arabic": [
+                "\u0648\u0636\u062d",
+                "\u0639\u0630\u0628",
+                "\u0642\u0648\u064a"
+            ],
+            "French": [
+                "\u00eatre clair",
+                "\u00eatre savoureux",
+                "\u00eatre fort"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2456,
+            "uri": "https://sedra.bethmardutho.org/api/root/2456.json"
+        },
+        "words": [
+            {
+                "id": 41944,
+                "uri": "https://sedra.bethmardutho.org/api/word/41944.json"
+            },
+            {
+                "id": 41245,
+                "uri": "https://sedra.bethmardutho.org/api/word/41245.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

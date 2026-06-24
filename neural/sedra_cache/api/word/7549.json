@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u071a\u072a\u0721\u0710",
+        "western": "\u0715\u0741\u071a\u0736\u072a\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1146,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1146.json"
+        },
+        "stem": "\u071a\u072a\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "anathema",
+                "votive offering.",
+                "ban, anathema",
+                "curse"
+            ]
+        },
+        "word": {
+            "id": 7549,
+            "uri": "https://sedra.bethmardutho.org/api/word/7549.json"
+        }
+    }
+]

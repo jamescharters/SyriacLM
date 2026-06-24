@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0713\u071d\u0718\u072a\u0710",
+        "western": "\u0713\u0741\u073a\u071d\u073d\u0718\u072a\u0733\u0710",
+        "eastern": "\u0713\u071d\u073c\u0718\u073c\u072a\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 542,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/542.json"
+        },
+        "stem": "\u0713\u071d\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u064a\u0628",
+                "\u0645\u0633\u062a\u0647\u062f"
+            ],
+            "eng": [
+                "proselyte",
+                "farcing (in Psalter).",
+                "alien, stranger",
+                "proselyte"
+            ],
+            "fre": [
+                "\u00e9tranger",
+                "pros\u00e9lyte"
+            ]
+        },
+        "word": {
+            "id": 3612,
+            "uri": "https://sedra.bethmardutho.org/api/word/3612.json"
+        }
+    }
+]

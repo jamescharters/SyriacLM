@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071d\u0712\u0712",
+        "western": "\u071d\u0730\u0712\u0736\u0712",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15221,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15221.json"
+        },
+        "stem": "\u071d\u0712\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to blow (horn etc.)",
+                "IIa to make a joyful noise",
+                "to shout."
+            ]
+        },
+        "word": {
+            "id": 40350,
+            "uri": "https://sedra.bethmardutho.org/api/word/40350.json"
+        }
+    }
+]

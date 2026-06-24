@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0715\u071f\u0712\u072a\u071d\u072c\u0710",
+        "western": "\u0715\u0741\u071f\u0742\u0736\u0712\u0742\u072a\u073a\u071d\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1465,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1465.json"
+        },
+        "stem": "\u071f\u0712\u072a\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0628\u0631\u064a\u062a"
+            ],
+            "eng": [
+                "Kth. matches.",
+                "brimstone",
+                "sulphur",
+                "sulphur, brimstone"
+            ],
+            "fre": [
+                "soufre"
+            ]
+        },
+        "word": {
+            "id": 9719,
+            "uri": "https://sedra.bethmardutho.org/api/word/9719.json"
+        }
+    }
+]

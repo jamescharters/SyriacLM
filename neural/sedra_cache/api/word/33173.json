@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u0729\u072a\u0710",
+        "western": "\u0722\u0729\u0733\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5708,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5708.json"
+        },
+        "stem": "\u0722\u0729\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0631\u0637",
+                "\u0643\u0647\u0641"
+            ],
+            "eng": [
+                "cave.",
+                "incision"
+            ],
+            "fre": [
+                "incision",
+                "caverne"
+            ]
+        },
+        "word": {
+            "id": 33173,
+            "uri": "https://sedra.bethmardutho.org/api/word/33173.json"
+        }
+    }
+]

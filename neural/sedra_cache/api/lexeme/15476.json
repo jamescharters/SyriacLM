@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15476,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15476.json"
+        },
+        "syriac": "\u0726\u0723\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u062d\u062a (\u062d\u062c\u0631\u0627\u064b)"
+            ],
+            "French": [
+                "tailler (une pierre)"
+            ],
+            "English": [
+                "Ip.",
+                "Ia to quarry",
+                "to cut (stone)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2363,
+            "uri": "https://sedra.bethmardutho.org/api/root/2363.json"
+        },
+        "words": [
+            {
+                "id": 41854,
+                "uri": "https://sedra.bethmardutho.org/api/word/41854.json"
+            },
+            {
+                "id": 40646,
+                "uri": "https://sedra.bethmardutho.org/api/word/40646.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

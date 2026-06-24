@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0721\u071d\u072a\u0710",
+        "western": "\u0710\u0730\u0721\u073a\u071d\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14521,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14521.json"
+        },
+        "stem": "\u0710\u0721\u071d\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0627\u0643\u0645"
+            ],
+            "eng": [
+                "prefect, emir."
+            ],
+            "fre": [
+                "pr\u00e9fet"
+            ]
+        },
+        "word": {
+            "id": 36315,
+            "uri": "https://sedra.bethmardutho.org/api/word/36315.json"
+        }
+    }
+]

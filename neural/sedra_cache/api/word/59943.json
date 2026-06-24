@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0717\u071f\u071d\u0722\u0718\u0723",
+        "western": "\u0717\u0736\u071f\u071d\u0722\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 33588,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33588.json"
+        },
+        "stem": "\u0717\u071f\u071d\u0722\u0718\u0723",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "name of a plant",
+                "sea-urchin"
+            ],
+            "lat": [
+                "nom. plantae",
+                "echinus"
+            ]
+        },
+        "word": {
+            "id": 59943,
+            "uri": "https://sedra.bethmardutho.org/api/word/59943.json"
+        }
+    }
+]

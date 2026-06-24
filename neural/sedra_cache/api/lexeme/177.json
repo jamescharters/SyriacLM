@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 177,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/177.json"
+        },
+        "syriac": "\u0710\u0722\u0715\u071d\u0722",
+        "glosses": {
+            "English": [
+                "but if"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 130,
+            "uri": "https://sedra.bethmardutho.org/api/root/130.json"
+        },
+        "words": [
+            {
+                "id": 1361,
+                "uri": "https://sedra.bethmardutho.org/api/word/1361.json"
+            },
+            {
+                "id": 1357,
+                "uri": "https://sedra.bethmardutho.org/api/word/1357.json"
+            },
+            {
+                "id": 1362,
+                "uri": "https://sedra.bethmardutho.org/api/word/1362.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

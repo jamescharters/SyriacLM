@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u072c\u0720\u072c\u0721\u0710\u0710",
+        "western": "\u072c\u0741\u0720\u0733\u072c\u0742\u0721\u0733\u0710\u0710",
+        "lexeme": {
+            "id": 3400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3400.json"
+        },
+        "stem": "\u072c\u0720\u072c\u0721\u0710\u0710",
+        "category": "numeral",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "three hundred",
+                "three hundred."
+            ]
+        },
+        "word": {
+            "id": 22528,
+            "uri": "https://sedra.bethmardutho.org/api/word/22528.json"
+        }
+    }
+]

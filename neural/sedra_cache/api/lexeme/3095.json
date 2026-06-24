@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 3095,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3095.json"
+        },
+        "syriac": "\u072b\u0710\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "request",
+                "petition",
+                "request",
+                "consultation",
+                "petition",
+                "loan."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1800,
+            "uri": "https://sedra.bethmardutho.org/api/root/1800.json"
+        },
+        "words": [
+            {
+                "id": 20166,
+                "uri": "https://sedra.bethmardutho.org/api/word/20166.json"
+            },
+            {
+                "id": 20165,
+                "uri": "https://sedra.bethmardutho.org/api/word/20165.json"
+            },
+            {
+                "id": 20164,
+                "uri": "https://sedra.bethmardutho.org/api/word/20164.json"
+            },
+            {
+                "id": 20163,
+                "uri": "https://sedra.bethmardutho.org/api/word/20163.json"
+            },
+            {
+                "id": 20162,
+                "uri": "https://sedra.bethmardutho.org/api/word/20162.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15311,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15311.json"
+        },
+        "syriac": "\u071f\u0722\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0645\u0649 (\u0645\u0636)",
+                "\u0639\u0646\u064a",
+                "\u00a0"
+            ],
+            "French": [
+                "nommer",
+                "signifier",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to name, designate",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2261,
+            "uri": "https://sedra.bethmardutho.org/api/root/2261.json"
+        },
+        "words": [
+            {
+                "id": 40562,
+                "uri": "https://sedra.bethmardutho.org/api/word/40562.json"
+            },
+            {
+                "id": 40438,
+                "uri": "https://sedra.bethmardutho.org/api/word/40438.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 3215,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3215.json"
+        },
+        "syriac": "\u072b\u0720\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u062c\u0631\u064a\u062f"
+            ],
+            "French": [
+                "d\u00e9pouillement"
+            ],
+            "English": [
+                "putting off",
+                "laying aside.",
+                "taking off (of clothes), undressing"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1874,
+            "uri": "https://sedra.bethmardutho.org/api/root/1874.json"
+        },
+        "words": [
+            {
+                "id": 21101,
+                "uri": "https://sedra.bethmardutho.org/api/word/21101.json"
+            },
+            {
+                "id": 21099,
+                "uri": "https://sedra.bethmardutho.org/api/word/21099.json"
+            },
+            {
+                "id": 21098,
+                "uri": "https://sedra.bethmardutho.org/api/word/21098.json"
+            },
+            {
+                "id": 21100,
+                "uri": "https://sedra.bethmardutho.org/api/word/21100.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

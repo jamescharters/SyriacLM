@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0719\u0729\u0718\u0726\u0710",
+        "western": "\u0719\u0733\u0729\u073d\u0718\u0726\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5632,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5632.json"
+        },
+        "stem": "\u0719\u0729\u0718\u0726\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0627\u0644\u0628",
+                "\u064a\u0647\u0648\u062f\u064a"
+            ],
+            "eng": [
+                "crucifier."
+            ],
+            "fre": [
+                "qui crucifie",
+                "juif"
+            ]
+        },
+        "word": {
+            "id": 34420,
+            "uri": "https://sedra.bethmardutho.org/api/word/34420.json"
+        }
+    }
+]

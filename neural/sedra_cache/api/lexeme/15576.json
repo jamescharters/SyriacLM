@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15576,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15576.json"
+        },
+        "syriac": "\u072c\u071f",
+        "glosses": {
+            "English": [
+                "to cease",
+                "IIa to fence in, to restrain, to coerce",
+                "IIp",
+                "IIIa to put a stop to.",
+                "to be ashamed",
+                "to hold back",
+                "Ia fut. <span class=\"selectableFont\">\u0722\u072c\u073d\u0718\u071f</span>, to be contained, restrained"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2144,
+            "uri": "https://sedra.bethmardutho.org/api/root/2144.json"
+        },
+        "words": [
+            {
+                "id": 41956,
+                "uri": "https://sedra.bethmardutho.org/api/word/41956.json"
+            },
+            {
+                "id": 40984,
+                "uri": "https://sedra.bethmardutho.org/api/word/40984.json"
+            },
+            {
+                "id": 39929,
+                "uri": "https://sedra.bethmardutho.org/api/word/39929.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

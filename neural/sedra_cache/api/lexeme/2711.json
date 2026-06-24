@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2711,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2711.json"
+        },
+        "syriac": "\u0728\u0726\u072a\u0710",
+        "glosses": {
+            "English": [
+                "daybreak",
+                "morning",
+                "morning, dawn."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1603,
+            "uri": "https://sedra.bethmardutho.org/api/root/1603.json"
+        },
+        "words": [
+            {
+                "id": 17606,
+                "uri": "https://sedra.bethmardutho.org/api/word/17606.json"
+            },
+            {
+                "id": 17605,
+                "uri": "https://sedra.bethmardutho.org/api/word/17605.json"
+            },
+            {
+                "id": 17604,
+                "uri": "https://sedra.bethmardutho.org/api/word/17604.json"
+            },
+            {
+                "id": 25924,
+                "uri": "https://sedra.bethmardutho.org/api/word/25924.json"
+            },
+            {
+                "id": 17608,
+                "uri": "https://sedra.bethmardutho.org/api/word/17608.json"
+            },
+            {
+                "id": 17607,
+                "uri": "https://sedra.bethmardutho.org/api/word/17607.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

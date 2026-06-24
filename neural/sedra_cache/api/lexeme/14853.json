@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 14853,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14853.json"
+        },
+        "syriac": "\u0720\u0723\u071b\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0631\u0642"
+            ],
+            "French": [
+                "voler"
+            ],
+            "English": [
+                "IVp to be seized, carried off by robber, brigands.",
+                "IVa to make a raid, maraud, rob"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2831,
+            "uri": "https://sedra.bethmardutho.org/api/root/2831.json"
+        },
+        "words": [
+            {
+                "id": 41331,
+                "uri": "https://sedra.bethmardutho.org/api/word/41331.json"
+            },
+            {
+                "id": 40458,
+                "uri": "https://sedra.bethmardutho.org/api/word/40458.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

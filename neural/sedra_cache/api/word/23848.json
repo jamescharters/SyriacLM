@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0713\u0723\u072a",
+        "western": "\u0715\u0741\u0713\u0742\u0733\u0723\u0730\u072a",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 613,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/613.json"
+        },
+        "stem": "\u0713\u0723\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0623\u0631",
+                "\u062e\u0627\u0631"
+            ],
+            "eng": [
+                "Ia to roar, howl, bellow.",
+                "roar"
+            ],
+            "fre": [
+                "rugir",
+                "mugir"
+            ]
+        },
+        "word": {
+            "id": 23848,
+            "uri": "https://sedra.bethmardutho.org/api/word/23848.json"
+        }
+    }
+]

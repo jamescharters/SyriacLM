@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 935,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/935.json"
+        },
+        "syriac": "\u071a\u0712\u0720\u0710",
+        "glosses": {
+            "English": [
+                "rope",
+                "cable",
+                "measuring line",
+                "rope, cord",
+                "measured piece of land, allotment",
+                "line, series, row."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 588,
+            "uri": "https://sedra.bethmardutho.org/api/root/588.json"
+        },
+        "words": [
+            {
+                "id": 10024,
+                "uri": "https://sedra.bethmardutho.org/api/word/10024.json"
+            },
+            {
+                "id": 6126,
+                "uri": "https://sedra.bethmardutho.org/api/word/6126.json"
+            },
+            {
+                "id": 6124,
+                "uri": "https://sedra.bethmardutho.org/api/word/6124.json"
+            },
+            {
+                "id": 6125,
+                "uri": "https://sedra.bethmardutho.org/api/word/6125.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

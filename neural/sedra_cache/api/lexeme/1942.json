@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 1942,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1942.json"
+        },
+        "syriac": "\u0722\u071a\u0720\u0710",
+        "glosses": {
+            "English": [
+                "valley",
+                "torrent",
+                "gorge",
+                "valley."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1160,
+            "uri": "https://sedra.bethmardutho.org/api/root/1160.json"
+        },
+        "words": [
+            {
+                "id": 22815,
+                "uri": "https://sedra.bethmardutho.org/api/word/22815.json"
+            },
+            {
+                "id": 12694,
+                "uri": "https://sedra.bethmardutho.org/api/word/12694.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

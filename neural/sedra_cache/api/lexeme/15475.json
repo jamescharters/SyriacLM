@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15475,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15475.json"
+        },
+        "syriac": "\u0722\u0725\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0623\u0631"
+            ],
+            "French": [
+                "rugire"
+            ],
+            "English": [
+                "to roar.",
+                "Ia to bray, to growl",
+                "to creak"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2471,
+            "uri": "https://sedra.bethmardutho.org/api/root/2471.json"
+        },
+        "words": [
+            {
+                "id": 41830,
+                "uri": "https://sedra.bethmardutho.org/api/word/41830.json"
+            },
+            {
+                "id": 41180,
+                "uri": "https://sedra.bethmardutho.org/api/word/41180.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

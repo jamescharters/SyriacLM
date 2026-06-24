@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u0715\u071a\u0721\u072b\u071d\u0722",
+        "western": "\u0718\u0730\u0715\u0742\u071a\u0730\u0721\u072b\u073a\u071d\u0722",
+        "lexeme": {
+            "id": 1077,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1077.json"
+        },
+        "stem": "\u071a\u0721\u072b\u071d\u0722",
+        "category": "numeral",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0645\u0633\u0648\u0646"
+            ],
+            "eng": [
+                "fifty",
+                "fifty."
+            ],
+            "fre": [
+                "cinquante"
+            ]
+        },
+        "word": {
+            "id": 7235,
+            "uri": "https://sedra.bethmardutho.org/api/word/7235.json"
+        }
+    }
+]

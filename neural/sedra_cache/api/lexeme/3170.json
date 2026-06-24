@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 3170,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3170.json"
+        },
+        "syriac": "\u072b\u071a\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0639\u0630\u064a\u0628",
+                "\u0634\u0642\u0627\u0621",
+                "\u062a\u0639\u0628",
+                "\u062d\u0632\u0646",
+                "\u0645\u0634\u0627\u062c\u0631\u0629",
+                "\u0627\u0636\u0637\u0631\u0627\u0628"
+            ],
+            "French": [
+                "tourment",
+                "mis\u00e8re",
+                "fatigue",
+                "chagrin",
+                "dispute",
+                "trouble"
+            ],
+            "English": [
+                "harassment",
+                "vexation",
+                "fatigue",
+                "wear and tear",
+                "pounding."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1844,
+            "uri": "https://sedra.bethmardutho.org/api/root/1844.json"
+        },
+        "words": [
+            {
+                "id": 20812,
+                "uri": "https://sedra.bethmardutho.org/api/word/20812.json"
+            },
+            {
+                "id": 20813,
+                "uri": "https://sedra.bethmardutho.org/api/word/20813.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0719\u0725\u072a",
+        "western": "\u0719\u0725\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 906,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/906.json"
+        },
+        "stem": "\u0719\u0725\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u063a\u0631, \u0642\u0644",
+                "\u0646\u0642\u0635"
+            ],
+            "eng": [
+                "IIIa to make less, reduce",
+                "to be hemmed in",
+                "diminish",
+                "Ip to be diminished",
+                "Ia to lessen, diminish",
+                "to think little of."
+            ],
+            "fre": [
+                "manquer",
+                "devenir petit ou peu"
+            ]
+        },
+        "word": {
+            "id": 5859,
+            "uri": "https://sedra.bethmardutho.org/api/word/5859.json"
+        }
+    }
+]

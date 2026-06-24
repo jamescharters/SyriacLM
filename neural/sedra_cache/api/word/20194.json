@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0718\u0720\u072b\u0712\u0712\u0718\u0717\u071d",
+        "western": "\u0718\u0720\u0730\u072b\u0712\u0742\u0733\u0712\u0742\u0730\u0718\u0717\u0331\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 3101,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3101.json"
+        },
+        "stem": "\u072b\u0712\u0712\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "neighbor",
+                "neighbor",
+                "neighboring."
+            ]
+        },
+        "word": {
+            "id": 20194,
+            "uri": "https://sedra.bethmardutho.org/api/word/20194.json"
+        }
+    }
+]

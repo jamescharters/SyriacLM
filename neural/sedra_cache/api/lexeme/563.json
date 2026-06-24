@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 563,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/563.json"
+        },
+        "syriac": "\u0713\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0634\u0629",
+                "\u0642\u0630\u0649",
+                "\u0639\u0634\u0628 \u064a\u0627\u0628\u0633"
+            ],
+            "French": [
+                "paille",
+                "f\u00e9tu",
+                "herbe s\u00e8che"
+            ],
+            "English": [
+                "straw",
+                "chip",
+                "straw, chip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 371,
+            "uri": "https://sedra.bethmardutho.org/api/root/371.json"
+        },
+        "words": [
+            {
+                "id": 3691,
+                "uri": "https://sedra.bethmardutho.org/api/word/3691.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2038,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2038.json"
+        },
+        "syriac": "\u0722\u072b\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0633\u0631"
+            ],
+            "French": [
+                "aigle"
+            ],
+            "English": [
+                "eagle",
+                "eagle",
+                "gabled roof ridge."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1217,
+            "uri": "https://sedra.bethmardutho.org/api/root/1217.json"
+        },
+        "words": [
+            {
+                "id": 13437,
+                "uri": "https://sedra.bethmardutho.org/api/word/13437.json"
+            },
+            {
+                "id": 13436,
+                "uri": "https://sedra.bethmardutho.org/api/word/13436.json"
+            },
+            {
+                "id": 13439,
+                "uri": "https://sedra.bethmardutho.org/api/word/13439.json"
+            },
+            {
+                "id": 13438,
+                "uri": "https://sedra.bethmardutho.org/api/word/13438.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

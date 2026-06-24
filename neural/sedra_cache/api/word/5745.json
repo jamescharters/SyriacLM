@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0719\u0720\u0717\u0719",
+        "western": "\u0719\u0730\u0720\u0717\u0736\u0719",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 886,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/886.json"
+        },
+        "stem": "\u0719\u0720\u0717\u0719",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0648\u062c\u0632"
+            ],
+            "eng": [
+                "IVp to be cut short, to fail, to be reduced.",
+                "shortened",
+                "be reduced",
+                "IVa to cut short (of time)"
+            ],
+            "fre": [
+                "abr\u00e9ger"
+            ]
+        },
+        "word": {
+            "id": 5745,
+            "uri": "https://sedra.bethmardutho.org/api/word/5745.json"
+        }
+    }
+]

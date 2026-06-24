@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2510,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2510.json"
+        },
+        "syriac": "\u0726\u071d\u072a\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0628\u062e\u0631\u0629"
+            ],
+            "French": [
+                "encensoir"
+            ],
+            "English": [
+                "censer",
+                "thurible",
+                "censer",
+                "incense."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c0\u03cd\u03c1\u03c9\u03bc\u03b1"
+            ]
+        },
+        "root": {
+            "id": 1491,
+            "uri": "https://sedra.bethmardutho.org/api/root/1491.json"
+        },
+        "words": [
+            {
+                "id": 16386,
+                "uri": "https://sedra.bethmardutho.org/api/word/16386.json"
+            },
+            {
+                "id": 16387,
+                "uri": "https://sedra.bethmardutho.org/api/word/16387.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

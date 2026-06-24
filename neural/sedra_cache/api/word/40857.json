@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0715\u071d\u0720",
+        "western": "\u0715\u0730\u071d\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15222,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15222.json"
+        },
+        "stem": "\u0715\u071d\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0643",
+                "\u0623\u062b\u0627\u0631",
+                "",
+                "\u062e\u062f\u0645"
+            ],
+            "eng": [
+                "IIa to serve, attend."
+            ],
+            "fre": [
+                "",
+                "agiter",
+                "servir",
+                "exciter"
+            ]
+        },
+        "word": {
+            "id": 40857,
+            "uri": "https://sedra.bethmardutho.org/api/word/40857.json"
+        }
+    }
+]

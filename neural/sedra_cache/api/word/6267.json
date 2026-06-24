@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0722\u071a\u0715\u0718\u0722\u0722\u071d",
+        "western": "\u0722\u071a\u0730\u0715\u0741\u073d\u0718\u0722\u0733\u0722\u071d",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 956,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/956.json"
+        },
+        "stem": "\u071a\u0715\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "rejoice",
+                "IIp.",
+                "Ia to be glad, rejoice",
+                "IIa, IIIa to gladden",
+                "gladden",
+                "be glad"
+            ]
+        },
+        "word": {
+            "id": 6267,
+            "uri": "https://sedra.bethmardutho.org/api/word/6267.json"
+        }
+    }
+]

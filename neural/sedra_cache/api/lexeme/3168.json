@@ -1,0 +1,97 @@
+[
+    {
+        "lexeme": {
+            "id": 3168,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3168.json"
+        },
+        "syriac": "\u072b\u071a\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u062f\u0641\u0623",
+                "\u062d\u0645\u064a"
+            ],
+            "French": [
+                "se chauffer",
+                "\u00eatre chaud"
+            ],
+            "English": [
+                "warm",
+                "IIa to warm",
+                "to keep warm",
+                "Ia to grow, feel warm",
+                "IIp.",
+                "to warm oneself",
+                "to parch",
+                "<span class=\"selectableFont\">\u0721\u072b\u0730\u071a\u0730\u0722</span> ulcerated"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1843,
+            "uri": "https://sedra.bethmardutho.org/api/root/1843.json"
+        },
+        "words": [
+            {
+                "id": 29020,
+                "uri": "https://sedra.bethmardutho.org/api/word/29020.json"
+            },
+            {
+                "id": 29019,
+                "uri": "https://sedra.bethmardutho.org/api/word/29019.json"
+            },
+            {
+                "id": 29018,
+                "uri": "https://sedra.bethmardutho.org/api/word/29018.json"
+            },
+            {
+                "id": 29017,
+                "uri": "https://sedra.bethmardutho.org/api/word/29017.json"
+            },
+            {
+                "id": 20797,
+                "uri": "https://sedra.bethmardutho.org/api/word/20797.json"
+            },
+            {
+                "id": 20796,
+                "uri": "https://sedra.bethmardutho.org/api/word/20796.json"
+            },
+            {
+                "id": 20795,
+                "uri": "https://sedra.bethmardutho.org/api/word/20795.json"
+            },
+            {
+                "id": 20794,
+                "uri": "https://sedra.bethmardutho.org/api/word/20794.json"
+            },
+            {
+                "id": 29022,
+                "uri": "https://sedra.bethmardutho.org/api/word/29022.json"
+            },
+            {
+                "id": 29021,
+                "uri": "https://sedra.bethmardutho.org/api/word/29021.json"
+            },
+            {
+                "id": 20801,
+                "uri": "https://sedra.bethmardutho.org/api/word/20801.json"
+            },
+            {
+                "id": 20800,
+                "uri": "https://sedra.bethmardutho.org/api/word/20800.json"
+            },
+            {
+                "id": 20799,
+                "uri": "https://sedra.bethmardutho.org/api/word/20799.json"
+            },
+            {
+                "id": 20798,
+                "uri": "https://sedra.bethmardutho.org/api/word/20798.json"
+            },
+            {
+                "id": 20802,
+                "uri": "https://sedra.bethmardutho.org/api/word/20802.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

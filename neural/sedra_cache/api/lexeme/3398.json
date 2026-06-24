@@ -1,0 +1,77 @@
+[
+    {
+        "lexeme": {
+            "id": 3398,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3398.json"
+        },
+        "syriac": "\u072c\u0720\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0644\u0627\u062b\u0629"
+            ],
+            "French": [
+                "trois"
+            ],
+            "English": [
+                "three",
+                "three."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1973,
+            "uri": "https://sedra.bethmardutho.org/api/root/1973.json"
+        },
+        "words": [
+            {
+                "id": 22515,
+                "uri": "https://sedra.bethmardutho.org/api/word/22515.json"
+            },
+            {
+                "id": 22521,
+                "uri": "https://sedra.bethmardutho.org/api/word/22521.json"
+            },
+            {
+                "id": 22518,
+                "uri": "https://sedra.bethmardutho.org/api/word/22518.json"
+            },
+            {
+                "id": 22517,
+                "uri": "https://sedra.bethmardutho.org/api/word/22517.json"
+            },
+            {
+                "id": 22516,
+                "uri": "https://sedra.bethmardutho.org/api/word/22516.json"
+            },
+            {
+                "id": 22514,
+                "uri": "https://sedra.bethmardutho.org/api/word/22514.json"
+            },
+            {
+                "id": 22513,
+                "uri": "https://sedra.bethmardutho.org/api/word/22513.json"
+            },
+            {
+                "id": 22512,
+                "uri": "https://sedra.bethmardutho.org/api/word/22512.json"
+            },
+            {
+                "id": 22520,
+                "uri": "https://sedra.bethmardutho.org/api/word/22520.json"
+            },
+            {
+                "id": 22522,
+                "uri": "https://sedra.bethmardutho.org/api/word/22522.json"
+            },
+            {
+                "id": 22523,
+                "uri": "https://sedra.bethmardutho.org/api/word/22523.json"
+            },
+            {
+                "id": 22519,
+                "uri": "https://sedra.bethmardutho.org/api/word/22519.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

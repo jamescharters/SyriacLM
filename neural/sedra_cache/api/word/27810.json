@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072a\u0717\u071d\u0712\u072c\u071d",
+        "western": "\u072a\u0717\u073a\u071d\u0712\u0742\u0730\u072c\u0741\u071d",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "suffixType": "contraction",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 2952,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2952.json"
+        },
+        "stem": "\u072a\u0717\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be frightened",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072a\u0717\u0736\u0712</span> to be agitated",
+                "IIp to be alarmed, terrified",
+                "IIIa to trouble, to cause disquiet, to alarm.",
+                "hurry",
+                "agitate"
+            ]
+        },
+        "word": {
+            "id": 27810,
+            "uri": "https://sedra.bethmardutho.org/api/word/27810.json"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0721\u0710\u0723",
+        "western": "\u0710\u073a\u071d\u0721\u0730\u0710\u0733\u0723",
+        "eastern": "\u0710\u071d\u073c\u0721\u0710\u0723",
+        "lexeme": {
+            "id": 28959,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28959.json"
+        },
+        "stem": "\u0710\u071d\u0721\u0710\u0723",
+        "category": "pronoun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u1f21\u03bc\u1fb6\u03c2"
+            ],
+            "lat": [
+                "nos"
+            ]
+        },
+        "word": {
+            "id": 49485,
+            "uri": "https://sedra.bethmardutho.org/api/word/49485.json"
+        }
+    }
+]

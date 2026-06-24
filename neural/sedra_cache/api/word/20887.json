@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072b\u071d\u072b\u0710",
+        "western": "\u072b\u073a\u071d\u072b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3189,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3189.json"
+        },
+        "stem": "\u072b\u071d\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "alabaster vase",
+                "marble.",
+                "marble",
+                "marble"
+            ]
+        },
+        "word": {
+            "id": 20887,
+            "uri": "https://sedra.bethmardutho.org/api/word/20887.json"
+        }
+    }
+]

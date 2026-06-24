@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15696,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15696.json"
+        },
+        "syriac": "\u0720\u0712\u0715",
+        "glosses": {
+            "English": [
+                "Ia to thicken, make dense, compact",
+                "IIa to solidify, thicken",
+                "IIp to be condensed, become dense.",
+                "Ip to be condensed, solidified, become heavy"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3106,
+            "uri": "https://sedra.bethmardutho.org/api/root/3106.json"
+        },
+        "words": [
+            {
+                "id": 42163,
+                "uri": "https://sedra.bethmardutho.org/api/word/42163.json"
+            },
+            {
+                "id": 40602,
+                "uri": "https://sedra.bethmardutho.org/api/word/40602.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

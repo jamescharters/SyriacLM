@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072a\u0719\u0710",
+        "western": "\u072a\u0719\u0710",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15056,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15056.json"
+        },
+        "stem": "\u072a\u0719\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIp to mortify oneself.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072a\u0719\u073a\u071d</span> to be wasted away, to dry up"
+            ]
+        },
+        "word": {
+            "id": 40170,
+            "uri": "https://sedra.bethmardutho.org/api/word/40170.json"
+        }
+    }
+]

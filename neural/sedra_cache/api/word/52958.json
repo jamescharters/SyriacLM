@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0713\u0718\u0721\u072a\u072a\u0710",
+        "western": "\u0713\u073d\u0718\u0721\u072a\u0308\u0733\u072a\u0736\u0710",
+        "lexeme": {
+            "id": 13779,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13779.json"
+        },
+        "stem": "\u0713\u0718\u0721\u072a\u072a\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0628\u0646 \u0639\u0631\u0633"
+            ],
+            "eng": [
+                "weasel."
+            ],
+            "fre": [
+                "belette"
+            ]
+        },
+        "word": {
+            "id": 52958,
+            "uri": "https://sedra.bethmardutho.org/api/word/52958.json"
+        }
+    }
+]

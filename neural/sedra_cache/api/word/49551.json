@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0726\u0718\u0715\u072a\u0718\u0721\u0722\u0718\u0722",
+        "western": "\u0710\u073a\u071d\u0726\u0733\u0718\u0715\u072a\u073d\u0718\u0721\u0722\u0733\u0718\u0722",
+        "eastern": "\u0710\u071d\u073c\u0726\u0718\u0307\u0715\u072a\u0718\u0721\u0722\u0718\u0722",
+        "lexeme": {
+            "id": 29082,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29082.json"
+        },
+        "stem": "\u0710\u071d\u0726\u0718\u0715\u072a\u0718\u0721\u0722\u0718\u0722",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hippodrome"
+            ],
+            "grc": [
+                "\u1f31\u03c0\u03c0\u03cc\u03b4\u03c1\u03bf\u03bc\u03bf\u03bd"
+            ],
+            "lat": [
+                "hippodromus"
+            ]
+        },
+        "word": {
+            "id": 49551,
+            "uri": "https://sedra.bethmardutho.org/api/word/49551.json"
+        }
+    }
+]

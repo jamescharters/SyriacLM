@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0718\u0720\u0718\u072c\u0710",
+        "western": "\u0710\u0733\u071f\u073d\u0718\u0720\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10807,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10807.json"
+        },
+        "stem": "\u0710\u071f\u0718\u0720\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0647\u0645"
+            ],
+            "eng": [
+                "gluttony, voracity."
+            ],
+            "fre": [
+                "voracit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 32085,
+            "uri": "https://sedra.bethmardutho.org/api/word/32085.json"
+        }
+    }
+]

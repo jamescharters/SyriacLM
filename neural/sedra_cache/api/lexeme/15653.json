@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15653,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15653.json"
+        },
+        "syriac": "\u0728\u0722\u071a",
+        "glosses": {
+            "English": [
+                "Ia to shut up."
+            ],
+            "Arabic": [
+                "\u062d\u0635\u0631"
+            ],
+            "French": [
+                "enfermer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2838,
+            "uri": "https://sedra.bethmardutho.org/api/root/2838.json"
+        },
+        "words": [
+            {
+                "id": 41591,
+                "uri": "https://sedra.bethmardutho.org/api/word/41591.json"
+            },
+            {
+                "id": 40803,
+                "uri": "https://sedra.bethmardutho.org/api/word/40803.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

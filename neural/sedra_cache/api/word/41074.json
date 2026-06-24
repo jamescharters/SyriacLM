@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072a\u071a",
+        "western": "\u0721\u072a\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15536,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15536.json"
+        },
+        "stem": "\u0721\u072a\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIp to be done rashly.",
+                "Ia to be rash, headstrong",
+                "dare",
+                "IIIa to dare, venture, be bold"
+            ]
+        },
+        "word": {
+            "id": 41074,
+            "uri": "https://sedra.bethmardutho.org/api/word/41074.json"
+        }
+    }
+]

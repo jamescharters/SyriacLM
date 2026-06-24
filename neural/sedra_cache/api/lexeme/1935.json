@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 1935,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1935.json"
+        },
+        "syriac": "\u0722\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "fish.",
+                "fish"
+            ],
+            "Arabic": [
+                "\u0633\u0645\u0643\u0629"
+            ],
+            "French": [
+                "poisson"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1154,
+            "uri": "https://sedra.bethmardutho.org/api/root/1154.json"
+        },
+        "words": [
+            {
+                "id": 12667,
+                "uri": "https://sedra.bethmardutho.org/api/word/12667.json"
+            },
+            {
+                "id": 12666,
+                "uri": "https://sedra.bethmardutho.org/api/word/12666.json"
+            },
+            {
+                "id": 12665,
+                "uri": "https://sedra.bethmardutho.org/api/word/12665.json"
+            },
+            {
+                "id": 12664,
+                "uri": "https://sedra.bethmardutho.org/api/word/12664.json"
+            },
+            {
+                "id": 12663,
+                "uri": "https://sedra.bethmardutho.org/api/word/12663.json"
+            },
+            {
+                "id": 12670,
+                "uri": "https://sedra.bethmardutho.org/api/word/12670.json"
+            },
+            {
+                "id": 12669,
+                "uri": "https://sedra.bethmardutho.org/api/word/12669.json"
+            },
+            {
+                "id": 12668,
+                "uri": "https://sedra.bethmardutho.org/api/word/12668.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

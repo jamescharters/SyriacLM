@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2393,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2393.json"
+        },
+        "syriac": "\u0725\u0728\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0639\u0633, \u0639\u0635\u0631",
+                "\u0639\u0630\u0628 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "fouler, presser, exprimer",
+                "tourmenter",
+                "\u00a0"
+            ],
+            "English": [
+                "trample",
+                "squeeze",
+                "Ia to tread, to squeeze, to crush",
+                "IIp.",
+                "IIa to coerce, to subdue",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1418,
+            "uri": "https://sedra.bethmardutho.org/api/root/1418.json"
+        },
+        "words": [
+            {
+                "id": 15885,
+                "uri": "https://sedra.bethmardutho.org/api/word/15885.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

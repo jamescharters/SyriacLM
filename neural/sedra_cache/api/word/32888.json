@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0725\u071d\u0723\u0718\u072c\u0710",
+        "western": "\u0721\u0725\u073a\u071d\u0723\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11289,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11289.json"
+        },
+        "stem": "\u0721\u0725\u071d\u0723\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0633\u0627\u062f"
+            ],
+            "eng": [
+                "convulsion",
+                "perversity."
+            ],
+            "fre": [
+                "corruption"
+            ]
+        },
+        "word": {
+            "id": 32888,
+            "uri": "https://sedra.bethmardutho.org/api/word/32888.json"
+        }
+    }
+]

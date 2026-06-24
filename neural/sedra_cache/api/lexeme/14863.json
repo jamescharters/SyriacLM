@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14863,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14863.json"
+        },
+        "syriac": "\u0725\u072a\u0719\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u00a0",
+                "\u062e\u0644\u0637, \u0634\u0631\u0628\u0643, \u062d\u0628\u0643"
+            ],
+            "French": [
+                "emm\u00ealer",
+                "emm\u00ealer, entrem\u00ealer"
+            ],
+            "English": [
+                "IVa to entwine, to interweave",
+                "IVp to be intertwined, to be joined, to be tangled."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3008,
+            "uri": "https://sedra.bethmardutho.org/api/root/3008.json"
+        },
+        "words": [
+            {
+                "id": 45971,
+                "uri": "https://sedra.bethmardutho.org/api/word/45971.json"
+            },
+            {
+                "id": 41389,
+                "uri": "https://sedra.bethmardutho.org/api/word/41389.json"
+            },
+            {
+                "id": 40509,
+                "uri": "https://sedra.bethmardutho.org/api/word/40509.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

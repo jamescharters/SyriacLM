@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2489,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2489.json"
+        },
+        "syriac": "\u0726\u071d\u0720\u0715\u0720\u0726\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Philadelphia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1476,
+            "uri": "https://sedra.bethmardutho.org/api/root/1476.json"
+        },
+        "words": [
+            {
+                "id": 16306,
+                "uri": "https://sedra.bethmardutho.org/api/word/16306.json"
+            },
+            {
+                "id": 16305,
+                "uri": "https://sedra.bethmardutho.org/api/word/16305.json"
+            },
+            {
+                "id": 16304,
+                "uri": "https://sedra.bethmardutho.org/api/word/16304.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

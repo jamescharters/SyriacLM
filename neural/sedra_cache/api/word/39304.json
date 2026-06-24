@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0722\u0718\u0729\u0726\u0710",
+        "western": "\u0722\u073d\u0718\u0729\u0733\u0726\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13285,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13285.json"
+        },
+        "stem": "\u0722\u0718\u0729\u0726\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062a\u062d\u0627\u062f, \u0627\u062a\u0635\u0627\u0644"
+            ],
+            "eng": [
+                "(family) ties",
+                "association, fellowship",
+                "Gram. suffix."
+            ],
+            "fre": [
+                "adh\u00e9sion, union"
+            ]
+        },
+        "word": {
+            "id": 39304,
+            "uri": "https://sedra.bethmardutho.org/api/word/39304.json"
+        }
+    }
+]

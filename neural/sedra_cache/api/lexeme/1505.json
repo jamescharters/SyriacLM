@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 1505,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1505.json"
+        },
+        "syriac": "\u071f\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "window",
+                "lattice",
+                "window."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 889,
+            "uri": "https://sedra.bethmardutho.org/api/root/889.json"
+        },
+        "words": [
+            {
+                "id": 9890,
+                "uri": "https://sedra.bethmardutho.org/api/word/9890.json"
+            },
+            {
+                "id": 9889,
+                "uri": "https://sedra.bethmardutho.org/api/word/9889.json"
+            },
+            {
+                "id": 42226,
+                "uri": "https://sedra.bethmardutho.org/api/word/42226.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0712\u0718\u071a\u072b\u071d\u0722\u0710",
+        "western": "\u0712\u073d\u0718\u071a\u072b\u073a\u071d\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8947,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8947.json"
+        },
+        "stem": "\u0712\u0718\u071a\u072b\u071d\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0639\u0634\u0627\u0628 \u0628\u0627\u0637\u0644\u0629"
+            ],
+            "eng": [
+                "first growth (of grass, crop)."
+            ],
+            "fre": [
+                "herbes folles"
+            ]
+        },
+        "word": {
+            "id": 34157,
+            "uri": "https://sedra.bethmardutho.org/api/word/34157.json"
+        }
+    }
+]

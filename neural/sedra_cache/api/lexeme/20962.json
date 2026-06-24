@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 20962,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20962.json"
+        },
+        "syriac": "\u0710\u0712\u072a\u0718\u071b\u0718\u0722\u071d\u0722\u0718\u0722",
+        "glosses": {
+            "Latin": [
+                "abrotonum"
+            ],
+            "Greek": [
+                "\u1f00\u03b2\u03c1\u03bf\u03c4\u03cc\u03bd\u03b9\u03bd\u03bf\u03bd"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "abrotonum"
+            ]
+        },
+        "words": [
+            {
+                "id": 48287,
+                "uri": "https://sedra.bethmardutho.org/api/word/48287.json"
+            },
+            {
+                "id": 47336,
+                "uri": "https://sedra.bethmardutho.org/api/word/47336.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

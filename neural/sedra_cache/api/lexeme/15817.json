@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15817,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15817.json"
+        },
+        "syriac": "\u071b\u072a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u062f\u0644",
+                "\u062a\u062f\u0628\u0631, \u0627\u062e\u062a\u0628\u0631"
+            ],
+            "French": [
+                "\u00eatre honn\u00eate",
+                "\u00eatre expert"
+            ],
+            "English": [
+                "Ia to select."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2806,
+            "uri": "https://sedra.bethmardutho.org/api/root/2806.json"
+        },
+        "words": [
+            {
+                "id": 42048,
+                "uri": "https://sedra.bethmardutho.org/api/word/42048.json"
+            },
+            {
+                "id": 40657,
+                "uri": "https://sedra.bethmardutho.org/api/word/40657.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

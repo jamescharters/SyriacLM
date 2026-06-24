@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u0710\u0719\u0720\u072c\u0710",
+        "western": "\u0721\u073a\u0710\u0719\u0730\u0720\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5294,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5294.json"
+        },
+        "stem": "\u0721\u0710\u0719\u0720\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0646\u0637\u0644\u0627\u0642",
+                "\u0645\u0648\u062a"
+            ],
+            "eng": [
+                "departure, journeying."
+            ],
+            "fre": [
+                "depart",
+                "mort"
+            ]
+        },
+        "word": {
+            "id": 31683,
+            "uri": "https://sedra.bethmardutho.org/api/word/31683.json"
+        }
+    }
+]

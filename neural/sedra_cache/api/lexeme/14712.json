@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 14712,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14712.json"
+        },
+        "syriac": "\u0729\u071d\u072c\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0632\u0641 \u0627\u0644\u0642\u064a\u062b\u0627\u0631\u0629",
+                "\u063a\u0646\u0649 (\u0645\u0636)"
+            ],
+            "French": [
+                "jouer de la cithara",
+                "chanter"
+            ],
+            "English": [
+                "IVa to play the cithern (etc.)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2991,
+            "uri": "https://sedra.bethmardutho.org/api/root/2991.json"
+        },
+        "words": [
+            {
+                "id": 41459,
+                "uri": "https://sedra.bethmardutho.org/api/word/41459.json"
+            },
+            {
+                "id": 40252,
+                "uri": "https://sedra.bethmardutho.org/api/word/40252.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

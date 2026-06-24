@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u072a\u071b",
+        "western": "\u0729\u072a\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15486,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15486.json"
+        },
+        "stem": "\u0729\u072a\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0631\u0636"
+            ],
+            "eng": [
+                "Ia, IIa to nibble, gnaw."
+            ],
+            "fre": [
+                "ronger"
+            ]
+        },
+        "word": {
+            "id": 40109,
+            "uri": "https://sedra.bethmardutho.org/api/word/40109.json"
+        }
+    }
+]

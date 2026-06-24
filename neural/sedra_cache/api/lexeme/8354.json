@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 8354,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8354.json"
+        },
+        "syriac": "\u0726\u072a\u0723\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0627\u0641\u0631",
+                "\u0631\u062c\u0644",
+                "\u0628\u0627\u0637\u0646 (\u0627\u0644\u0642\u062f\u0645)",
+                "\u0633\u0646 (\u0645\u0633\u0644\u0641\u0629)"
+            ],
+            "French": [
+                "corne (du sabot)",
+                "pied",
+                "plante (du pied)",
+                "dent (de herse)"
+            ],
+            "English": [
+                "sole (of foot)",
+                "footstep",
+                "hoof."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 30261,
+                "uri": "https://sedra.bethmardutho.org/api/word/30261.json"
+            }
+        ]
+    }
+]

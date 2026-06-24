@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u0725\u0718\u0715\u072a\u0722\u0710",
+        "western": "\u0720\u0725\u073d\u0718\u0715\u0742\u072a\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2254,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2254.json"
+        },
+        "stem": "\u0725\u0718\u0715\u072a\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "advantage, benefit.",
+                "help, assistance",
+                "advantage",
+                "help"
+            ]
+        },
+        "word": {
+            "id": 15039,
+            "uri": "https://sedra.bethmardutho.org/api/word/15039.json"
+        }
+    }
+]

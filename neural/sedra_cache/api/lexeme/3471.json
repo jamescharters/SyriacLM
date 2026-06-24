@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 3471,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3471.json"
+        },
+        "syriac": "\u0712\u071d\u0722\u072c",
+        "glosses": {
+            "English": [
+                "between"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 264,
+            "uri": "https://sedra.bethmardutho.org/api/root/264.json"
+        },
+        "words": [
+            {
+                "id": 2642,
+                "uri": "https://sedra.bethmardutho.org/api/word/2642.json"
+            },
+            {
+                "id": 2636,
+                "uri": "https://sedra.bethmardutho.org/api/word/2636.json"
+            },
+            {
+                "id": 2638,
+                "uri": "https://sedra.bethmardutho.org/api/word/2638.json"
+            },
+            {
+                "id": 2637,
+                "uri": "https://sedra.bethmardutho.org/api/word/2637.json"
+            }
+        ],
+        "category": "preposition"
+    }
+]

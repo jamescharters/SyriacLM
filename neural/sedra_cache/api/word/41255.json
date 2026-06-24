@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0723\u0729\u0712\u0720",
+        "western": "\u0723\u0730\u0729\u0712\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14816,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14816.json"
+        },
+        "stem": "\u0723\u0729\u0712\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0631\u0633\u0644 \u0644\u0645\u0644\u0627\u0642\u0627\u0629",
+                "\u062d\u0636\u0631",
+                "\u0636\u0627\u062f",
+                "\u0639\u0627\u0631\u0636",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVa to oppose",
+                "IVp to happen, to occur by chance",
+                "to chance to be present."
+            ],
+            "fre": [
+                "opposer",
+                "envoyer au davant",
+                "s&#39;opposer\u2026",
+                "s&#39;opposer",
+                "\u00eatre pr\u00e9sent"
+            ]
+        },
+        "word": {
+            "id": 41255,
+            "uri": "https://sedra.bethmardutho.org/api/word/41255.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15106,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15106.json"
+        },
+        "syriac": "\u072c\u072a\u0710",
+        "glosses": {
+            "English": [
+                "IIa to instruct",
+                "IIp",
+                "IVa <span class=\"selectableFont\">\u072c\u0730\u072a\u0710\u073a\u071d</span> to bring up."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2120,
+            "uri": "https://sedra.bethmardutho.org/api/root/2120.json"
+        },
+        "words": [
+            {
+                "id": 40992,
+                "uri": "https://sedra.bethmardutho.org/api/word/40992.json"
+            },
+            {
+                "id": 40958,
+                "uri": "https://sedra.bethmardutho.org/api/word/40958.json"
+            },
+            {
+                "id": 40003,
+                "uri": "https://sedra.bethmardutho.org/api/word/40003.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

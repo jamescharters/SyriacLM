@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u0720\u072c\u0710",
+        "western": "\u071a\u0736\u0720\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1034,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1034.json"
+        },
+        "stem": "\u071a\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0645\u062f"
+            ],
+            "eng": [
+                "sheath",
+                "sheath, scabbard.",
+                "scabbard"
+            ],
+            "fre": [
+                "fourreau"
+            ]
+        },
+        "word": {
+            "id": 7053,
+            "uri": "https://sedra.bethmardutho.org/api/word/7053.json"
+        }
+    }
+]

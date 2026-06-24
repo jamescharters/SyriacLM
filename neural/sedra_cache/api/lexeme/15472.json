@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15472,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15472.json"
+        },
+        "syriac": "\u0726\u071a",
+        "glosses": {
+            "English": [
+                "to toil",
+                "Ia to fail (of voice)",
+                "IIa to catch in a snare",
+                "IIp to be shattered."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2224,
+            "uri": "https://sedra.bethmardutho.org/api/root/2224.json"
+        },
+        "words": [
+            {
+                "id": 41886,
+                "uri": "https://sedra.bethmardutho.org/api/word/41886.json"
+            },
+            {
+                "id": 40504,
+                "uri": "https://sedra.bethmardutho.org/api/word/40504.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

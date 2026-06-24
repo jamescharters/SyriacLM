@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 29051,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29051.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u071f\u071d\u0715\u071d\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f30\u03c3\u03c7\u03b9\u03ac\u03b4\u03b1, \u03bb\u03b5\u03c5\u03ba\u03ac\u03ba\u03b1\u03bd\u03b8\u03b1"
+            ],
+            "English": [
+                "white thistle"
+            ],
+            "Latin": [
+                "Tyrimnus leucographus, tuberous thistle, Cnicus tuberosus"
+            ]
+        },
+        "etymologies": {
+            "Akkadian": [
+                "\u1f30\u03c3\u03c7\u03b9\u03ac\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55425,
+                "uri": "https://sedra.bethmardutho.org/api/word/55425.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 3105,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3105.json"
+        },
+        "syriac": "\u072b\u0712\u0720\u0710",
+        "glosses": {
+            "English": [
+                "blade",
+                "ear",
+                "spike",
+                "sign of the Zodiac (Virgo).",
+                "m., <span class=\"selectableFont\">\u072b\u0736\u0712\u0736\u0720\u072c\u0733\u0710</span> f. (pl. <span class=\"selectableFont\">\u072b\u0736\u0712\u0308\u0720\u0736\u0710</span>) spike, blade (of corn)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1807,
+            "uri": "https://sedra.bethmardutho.org/api/root/1807.json"
+        },
+        "words": [
+            {
+                "id": 20217,
+                "uri": "https://sedra.bethmardutho.org/api/word/20217.json"
+            },
+            {
+                "id": 20219,
+                "uri": "https://sedra.bethmardutho.org/api/word/20219.json"
+            },
+            {
+                "id": 20218,
+                "uri": "https://sedra.bethmardutho.org/api/word/20218.json"
+            },
+            {
+                "id": 42238,
+                "uri": "https://sedra.bethmardutho.org/api/word/42238.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

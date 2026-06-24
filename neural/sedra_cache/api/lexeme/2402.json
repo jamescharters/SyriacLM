@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 2402,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2402.json"
+        },
+        "syriac": "\u0725\u0729\u072a\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0642\u0631\u0628"
+            ],
+            "French": [
+                "scorpion"
+            ],
+            "English": [
+                "scorpion",
+                "scorpion."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1422,
+            "uri": "https://sedra.bethmardutho.org/api/root/1422.json"
+        },
+        "words": [
+            {
+                "id": 15941,
+                "uri": "https://sedra.bethmardutho.org/api/word/15941.json"
+            },
+            {
+                "id": 15940,
+                "uri": "https://sedra.bethmardutho.org/api/word/15940.json"
+            },
+            {
+                "id": 15939,
+                "uri": "https://sedra.bethmardutho.org/api/word/15939.json"
+            },
+            {
+                "id": 15943,
+                "uri": "https://sedra.bethmardutho.org/api/word/15943.json"
+            },
+            {
+                "id": 15942,
+                "uri": "https://sedra.bethmardutho.org/api/word/15942.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

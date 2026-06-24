@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2469,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2469.json"
+        },
+        "syriac": "\u0726\u0718\u072a\u0723\u0710",
+        "glosses": {
+            "English": [
+                "way",
+                "means",
+                "trick",
+                "means, way",
+                "ruse."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c0\u03cc\u03c1\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1463,
+            "uri": "https://sedra.bethmardutho.org/api/root/1463.json"
+        },
+        "words": [
+            {
+                "id": 46007,
+                "uri": "https://sedra.bethmardutho.org/api/word/46007.json"
+            },
+            {
+                "id": 16251,
+                "uri": "https://sedra.bethmardutho.org/api/word/16251.json"
+            },
+            {
+                "id": 16250,
+                "uri": "https://sedra.bethmardutho.org/api/word/16250.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

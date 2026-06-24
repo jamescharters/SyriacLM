@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u072a\u071a",
+        "western": "\u0710\u0730\u072a\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15012,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15012.json"
+        },
+        "stem": "\u0710\u072a\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0627\u062d, \u062a\u0631\u0643"
+            ],
+            "eng": [
+                "IIa to go on one\u2019s way."
+            ],
+            "fre": [
+                "s&#39;en aller, quitter"
+            ]
+        },
+        "word": {
+            "id": 39886,
+            "uri": "https://sedra.bethmardutho.org/api/word/39886.json"
+        }
+    }
+]

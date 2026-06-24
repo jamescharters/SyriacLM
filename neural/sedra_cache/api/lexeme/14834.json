@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14834,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14834.json"
+        },
+        "syriac": "\u0723\u072a\u0723\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0633\u0627\u0621 \u0627\u0644\u0643\u062a\u0627\u0628\u0629"
+            ],
+            "French": [
+                "\u00e9crire mal"
+            ],
+            "English": [
+                "IVa to scrawl, to write badly."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3177,
+            "uri": "https://sedra.bethmardutho.org/api/root/3177.json"
+        },
+        "words": [
+            {
+                "id": 40577,
+                "uri": "https://sedra.bethmardutho.org/api/word/40577.json"
+            },
+            {
+                "id": 40120,
+                "uri": "https://sedra.bethmardutho.org/api/word/40120.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

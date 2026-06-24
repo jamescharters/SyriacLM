@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072c\u0718\u0720\u0715\u072c\u0710",
+        "western": "\u072c\u0730\u0718\u0720\u0736\u0715\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9489,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9489.json"
+        },
+        "stem": "\u072c\u0718\u0720\u0715\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0646\u0633\u0627\u0644",
+                "\u062e\u0644\u0642",
+                "\u0623\u0635\u0644",
+                "\u0646\u0633\u0644"
+            ],
+            "eng": [
+                "descent, stock, kindred."
+            ],
+            "fre": [
+                "race",
+                "origine",
+                "g\u00e9n\u00e9ration",
+                "cr\u00e9ation"
+            ]
+        },
+        "word": {
+            "id": 38576,
+            "uri": "https://sedra.bethmardutho.org/api/word/38576.json"
+        }
+    }
+]

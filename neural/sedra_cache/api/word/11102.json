@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u0723\u071b\u071d\u0710",
+        "western": "\u0720\u0736\u0723\u071b\u0733\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1684,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1684.json"
+        },
+        "stem": "\u0720\u0723\u071b\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "brigand",
+                "robber, brigand",
+                "predatory.",
+                "robber"
+            ]
+        },
+        "word": {
+            "id": 11102,
+            "uri": "https://sedra.bethmardutho.org/api/word/11102.json"
+        }
+    }
+]

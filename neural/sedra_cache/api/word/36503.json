@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0720\u0710",
+        "western": "\u0729\u0308\u0730\u0720\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8938,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8938.json"
+        },
+        "stem": "\u0729\u0720\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0641\u0629"
+            ],
+            "eng": [
+                "large basket."
+            ],
+            "fre": [
+                "corbeille"
+            ]
+        },
+        "word": {
+            "id": 36503,
+            "uri": "https://sedra.bethmardutho.org/api/word/36503.json"
+        }
+    }
+]

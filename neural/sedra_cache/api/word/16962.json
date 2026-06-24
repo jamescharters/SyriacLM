@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0715\u0726\u0718\u072a\u0729\u0722\u0710",
+        "western": "\u0715\u0741\u0726\u0742\u073d\u0718\u072a\u0729\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2610,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2610.json"
+        },
+        "stem": "\u0726\u0718\u072a\u0729\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062f\u064a\u0629",
+                "\u0641\u062f\u0627\u0621"
+            ],
+            "eng": [
+                "salvation.",
+                "deliverance",
+                "redemption",
+                "salvation",
+                "redemption"
+            ],
+            "fre": [
+                "ran\u00e7on",
+                "r\u00e9demption"
+            ]
+        },
+        "word": {
+            "id": 16962,
+            "uri": "https://sedra.bethmardutho.org/api/word/16962.json"
+        }
+    }
+]

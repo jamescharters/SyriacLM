@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 3020,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3020.json"
+        },
+        "syriac": "\u072a\u071d\u072b\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0626\u0627\u0633\u0629, \u0625\u062f\u0627\u0631\u0629, \u0633\u0644\u0637\u0629",
+                "\u062d\u0628\u0631\u064a\u0629"
+            ],
+            "French": [
+                "pr\u00e9sidence, direction, pouvoir",
+                "pontificat"
+            ],
+            "English": [
+                "primacy",
+                "principality",
+                "sovereignty",
+                "governorship",
+                "Kth. presidency.",
+                "office of power"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1760,
+            "uri": "https://sedra.bethmardutho.org/api/root/1760.json"
+        },
+        "words": [
+            {
+                "id": 19706,
+                "uri": "https://sedra.bethmardutho.org/api/word/19706.json"
+            },
+            {
+                "id": 19705,
+                "uri": "https://sedra.bethmardutho.org/api/word/19705.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

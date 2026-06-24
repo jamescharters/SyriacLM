@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2366,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2366.json"
+        },
+        "syriac": "\u0725\u0718\u0722\u0715\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0647\u0627\u0628",
+                "\u0627\u0646\u062a\u0647\u0627\u0621, \u0645\u0648\u062a"
+            ],
+            "French": [
+                "d\u00e9part",
+                "fin, mort"
+            ],
+            "English": [
+                "departure",
+                "decease",
+                "departure",
+                "death."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1404,
+            "uri": "https://sedra.bethmardutho.org/api/root/1404.json"
+        },
+        "words": [
+            {
+                "id": 15787,
+                "uri": "https://sedra.bethmardutho.org/api/word/15787.json"
+            },
+            {
+                "id": 15788,
+                "uri": "https://sedra.bethmardutho.org/api/word/15788.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

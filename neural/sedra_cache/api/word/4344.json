@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u071d\u0718\u0722\u0710",
+        "western": "\u0715\u0741\u0730\u071d\u0718\u0733\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 686,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/686.json"
+        },
+        "stem": "\u0715\u071d\u0718\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "possessed (with a demon)",
+                "Kth. crazy, idiot.",
+                "demoniac, madman",
+                "demoniac"
+            ]
+        },
+        "word": {
+            "id": 4344,
+            "uri": "https://sedra.bethmardutho.org/api/word/4344.json"
+        }
+    }
+]

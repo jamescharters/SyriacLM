@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0723\u0729\u072c\u0710",
+        "western": "\u0721\u0730\u0723\u0730\u0729\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5009,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5009.json"
+        },
+        "stem": "\u0721\u0723\u0729\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "taking up.",
+                "ascent, climb, pass"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 31869,
+            "uri": "https://sedra.bethmardutho.org/api/word/31869.json"
+        }
+    }
+]

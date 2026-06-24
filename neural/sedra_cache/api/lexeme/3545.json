@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 3545,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3545.json"
+        },
+        "syriac": "\u0726\u0728\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0",
+                "\u0642\u0631\u0639\u0629",
+                "\u0639\u0645\u0648\u062f (\u0641\u064a \u0643\u062a\u0627\u0628)"
+            ],
+            "French": [
+                "sort\u2026",
+                "sort",
+                "colonne ( de livre)"
+            ],
+            "English": [
+                "column, page (of book).",
+                "part, share, lot"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1193,
+            "uri": "https://sedra.bethmardutho.org/api/root/1193.json"
+        },
+        "words": [
+            {
+                "id": 46014,
+                "uri": "https://sedra.bethmardutho.org/api/word/46014.json"
+            },
+            {
+                "id": 23072,
+                "uri": "https://sedra.bethmardutho.org/api/word/23072.json"
+            },
+            {
+                "id": 22753,
+                "uri": "https://sedra.bethmardutho.org/api/word/22753.json"
+            },
+            {
+                "id": 42212,
+                "uri": "https://sedra.bethmardutho.org/api/word/42212.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

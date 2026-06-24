@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15934,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15934.json"
+        },
+        "syriac": "\u0725\u0713\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u062f\u0631"
+            ],
+            "French": [
+                "\u00eatre engourdi"
+            ],
+            "English": [
+                "Ia to be benumbed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2531,
+            "uri": "https://sedra.bethmardutho.org/api/root/2531.json"
+        },
+        "words": [
+            {
+                "id": 41980,
+                "uri": "https://sedra.bethmardutho.org/api/word/41980.json"
+            },
+            {
+                "id": 41646,
+                "uri": "https://sedra.bethmardutho.org/api/word/41646.json"
+            },
+            {
+                "id": 41501,
+                "uri": "https://sedra.bethmardutho.org/api/word/41501.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

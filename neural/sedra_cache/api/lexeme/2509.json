@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2509,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2509.json"
+        },
+        "syriac": "\u0726\u071d\u0723\u071d\u0715\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Pisidia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1490,
+            "uri": "https://sedra.bethmardutho.org/api/root/1490.json"
+        },
+        "words": [
+            {
+                "id": 16384,
+                "uri": "https://sedra.bethmardutho.org/api/word/16384.json"
+            },
+            {
+                "id": 16385,
+                "uri": "https://sedra.bethmardutho.org/api/word/16385.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

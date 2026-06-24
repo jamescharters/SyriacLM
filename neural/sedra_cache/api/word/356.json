@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0719\u0720\u071d\u0722",
+        "western": "\u0715\u0741\u0733\u0710\u0719\u073a\u0720\u0331\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 65,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/65.json"
+        },
+        "stem": "\u0710\u0719\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "<span class=\"selectableFont\">\u0710\u0733\u0719\u0736\u0720</span> fit for, good for.",
+                "depart",
+                "Ia to go",
+                "go"
+            ]
+        },
+        "word": {
+            "id": 356,
+            "uri": "https://sedra.bethmardutho.org/api/word/356.json"
+        }
+    }
+]

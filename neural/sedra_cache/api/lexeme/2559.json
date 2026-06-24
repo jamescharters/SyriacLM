@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2559,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2559.json"
+        },
+        "syriac": "\u0726\u0726\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Paphos"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1517,
+            "uri": "https://sedra.bethmardutho.org/api/root/1517.json"
+        },
+        "words": [
+            {
+                "id": 16675,
+                "uri": "https://sedra.bethmardutho.org/api/word/16675.json"
+            },
+            {
+                "id": 16676,
+                "uri": "https://sedra.bethmardutho.org/api/word/16676.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

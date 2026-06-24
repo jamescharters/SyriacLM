@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0722\u0726\u072a\u0718\u0721",
+        "western": "\u0722\u0736\u0726\u072a\u073d\u0718\u0721",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15766,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15766.json"
+        },
+        "stem": "\u0726\u072a\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0631\u0645"
+            ],
+            "eng": [
+                "to chop up",
+                "Ip",
+                "IIa to slice, cut up.",
+                "Ia to hack, to cut in pieces"
+            ],
+            "fre": [
+                "hacher"
+            ]
+        },
+        "word": {
+            "id": 42005,
+            "uri": "https://sedra.bethmardutho.org/api/word/42005.json"
+        }
+    }
+]

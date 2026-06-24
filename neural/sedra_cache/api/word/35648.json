@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0726\u0710",
+        "western": "\u0729\u0730\u072a\u0726\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9908,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9908.json"
+        },
+        "stem": "\u0729\u072a\u0726\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0642\u0627\u0628 \u0639\u0631\u064a\u0636"
+            ],
+            "eng": [
+                "woman\u2019s veil."
+            ],
+            "fre": [
+                "grand voile (de femme)"
+            ]
+        },
+        "word": {
+            "id": 35648,
+            "uri": "https://sedra.bethmardutho.org/api/word/35648.json"
+        }
+    }
+]

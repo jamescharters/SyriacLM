@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0718\u0712\u0719\u072c\u0710",
+        "western": "\u0718\u0712\u0742\u0736\u0719\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 359,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/359.json"
+        },
+        "stem": "\u0712\u0719\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "booty",
+                "plunder, spoil.",
+                "spoil"
+            ]
+        },
+        "word": {
+            "id": 1745,
+            "uri": "https://sedra.bethmardutho.org/api/word/1745.json"
+        }
+    }
+]

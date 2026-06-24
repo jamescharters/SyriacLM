@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0719",
+        "western": "\u0729\u0718\u0730\u0719",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15791,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15791.json"
+        },
+        "stem": "\u0729\u0718\u0719",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to leap",
+                "to exult.",
+                "to palpitate",
+                "IIa to skip"
+            ]
+        },
+        "word": {
+            "id": 40548,
+            "uri": "https://sedra.bethmardutho.org/api/word/40548.json"
+        }
+    }
+]

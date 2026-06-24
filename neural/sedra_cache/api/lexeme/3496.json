@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3496,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3496.json"
+        },
+        "syriac": "\u0721\u071b\u071d\u0712\u0710",
+        "glosses": {
+            "English": [
+                "prepared",
+                "ready",
+                "ready."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 704,
+            "uri": "https://sedra.bethmardutho.org/api/root/704.json"
+        },
+        "words": [
+            {
+                "id": 23942,
+                "uri": "https://sedra.bethmardutho.org/api/word/23942.json"
+            },
+            {
+                "id": 7920,
+                "uri": "https://sedra.bethmardutho.org/api/word/7920.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

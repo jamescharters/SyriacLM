@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u072a\u071d\u0722\u0710",
+        "western": "\u072b\u0736\u072a\u071d\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3323,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3323.json"
+        },
+        "stem": "\u072b\u072a\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "breastplate",
+                "ligament",
+                "breastplate",
+                "joint, articulation.",
+                "joint"
+            ]
+        },
+        "word": {
+            "id": 22164,
+            "uri": "https://sedra.bethmardutho.org/api/word/22164.json"
+        }
+    }
+]

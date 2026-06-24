@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071a\u0719\u071d\u072a\u0722",
+        "western": "\u071a\u0719\u073a\u071d\u072a\u0733\u0722",
+        "number": "singular",
+        "lexeme": {
+            "id": 9837,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9837.json"
+        },
+        "stem": "\u071a\u0719\u071d\u072a\u0722",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0647\u0631 \u062d\u0632\u064a\u0631\u0627\u0646"
+            ],
+            "eng": [
+                "June."
+            ],
+            "fre": [
+                "mois de juin"
+            ]
+        },
+        "word": {
+            "id": 30134,
+            "uri": "https://sedra.bethmardutho.org/api/word/30134.json"
+        }
+    }
+]

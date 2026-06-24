@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15422,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15422.json"
+        },
+        "syriac": "\u071a\u0726",
+        "glosses": {
+            "English": [
+                "Ia to sprinkle, rub, cleanse, wash."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2742,
+            "uri": "https://sedra.bethmardutho.org/api/root/2742.json"
+        },
+        "words": [
+            {
+                "id": 42138,
+                "uri": "https://sedra.bethmardutho.org/api/word/42138.json"
+            },
+            {
+                "id": 40402,
+                "uri": "https://sedra.bethmardutho.org/api/word/40402.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0710\u071a\u0715\u0717",
+        "western": "\u0720\u0721\u0736\u0710\u071a\u0715\u0741\u0736\u0717",
+        "tense": "infinitive",
+        "kaylo": "p\u02bfal",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 71,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/71.json"
+        },
+        "stem": "\u0710\u071a\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to hand to",
+                "kindle",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u071a\u0736\u0715</span> to kindle",
+                "to let out.",
+                "take",
+                "hold",
+                "cause to take",
+                "let out",
+                "apprehend",
+                "maintain",
+                "close (a door)",
+                "Ia to take, hold, seize",
+                "to hold, contain, possess",
+                "IIa to shut, close, grasp",
+                "to be closed, shut",
+                "Ip to be taken, caught, held"
+            ]
+        },
+        "word": {
+            "id": 532,
+            "uri": "https://sedra.bethmardutho.org/api/word/532.json"
+        }
+    }
+]

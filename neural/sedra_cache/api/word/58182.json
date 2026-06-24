@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0729\u0720\u0726",
+        "western": "\u0729\u0720\u0730\u0726",
+        "lexeme": {
+            "id": 2829,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2829.json"
+        },
+        "stem": "\u0729\u0720\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0632\u0639 \u0645\u0642\u0634\u0631\u0627\u064b",
+                "\u0646\u0632\u0639 \u0627\u0644\u062b\u0648\u0628",
+                "\u00a0",
+                "\u0642\u0634\u0631 (\u0645\u0636)"
+            ],
+            "eng": [
+                "peeled beans",
+                "Ia, IIa to peel, shell, scrape off",
+                "peel off",
+                "IIp."
+            ],
+            "fre": [
+                "\u00e9corcer, peler",
+                "enlever en r\u00e2clant",
+                "\u00a0",
+                "\u00f4ter le rev\u00eatement"
+            ]
+        },
+        "word": {
+            "id": 58182,
+            "uri": "https://sedra.bethmardutho.org/api/word/58182.json"
+        }
+    }
+]

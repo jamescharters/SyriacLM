@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 15152,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15152.json"
+        },
+        "syriac": "\u0713\u072a\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u062b",
+                "\u062d\u0631\u0636 (\u0645\u0636)",
+                "\u0639\u0632\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "exciter",
+                "provoquer",
+                "inviter",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to excite, stimulate, provoke, entice",
+                "stir up",
+                "incite",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2658,
+            "uri": "https://sedra.bethmardutho.org/api/root/2658.json"
+        },
+        "words": [
+            {
+                "id": 53263,
+                "uri": "https://sedra.bethmardutho.org/api/word/53263.json"
+            },
+            {
+                "id": 3956,
+                "uri": "https://sedra.bethmardutho.org/api/word/3956.json"
+            },
+            {
+                "id": 3971,
+                "uri": "https://sedra.bethmardutho.org/api/word/3971.json"
+            },
+            {
+                "id": 3970,
+                "uri": "https://sedra.bethmardutho.org/api/word/3970.json"
+            },
+            {
+                "id": 41066,
+                "uri": "https://sedra.bethmardutho.org/api/word/41066.json"
+            },
+            {
+                "id": 40874,
+                "uri": "https://sedra.bethmardutho.org/api/word/40874.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

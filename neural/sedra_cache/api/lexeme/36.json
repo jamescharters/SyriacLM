@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 36,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/36.json"
+        },
+        "syriac": "\u0710\u0715\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0648\u0639, \u062c\u0646\u0633",
+                "\u062b\u0645\u0631\u0629, \u0625\u0646\u062a\u0627\u062c"
+            ],
+            "French": [
+                "esp\u00e8ce, genre",
+                "fruit, produit"
+            ],
+            "English": [
+                "profit",
+                "fruit",
+                "species, kind",
+                "fruit, produce."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f36\u03b4\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 29,
+            "uri": "https://sedra.bethmardutho.org/api/root/29.json"
+        },
+        "words": [
+            {
+                "id": 250,
+                "uri": "https://sedra.bethmardutho.org/api/word/250.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

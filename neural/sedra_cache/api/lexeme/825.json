@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 825,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/825.json"
+        },
+        "syriac": "\u0717\u072a\u0723\u071d\u0723",
+        "glosses": {
+            "English": [
+                "heresy",
+                "sect",
+                "heresy."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f35\u03c1\u03b5\u03c3\u03b9\u03c2"
+            ]
+        },
+        "root": {
+            "id": 526,
+            "uri": "https://sedra.bethmardutho.org/api/root/526.json"
+        },
+        "words": [
+            {
+                "id": 29332,
+                "uri": "https://sedra.bethmardutho.org/api/word/29332.json"
+            },
+            {
+                "id": 5350,
+                "uri": "https://sedra.bethmardutho.org/api/word/5350.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

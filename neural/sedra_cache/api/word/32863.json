@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072c\u0721\u071d\u0721\u0718\u072c\u0710",
+        "western": "\u072c\u0730\u0721\u073a\u071d\u0721\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9460,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9460.json"
+        },
+        "stem": "\u072c\u0721\u071d\u0721\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u062a\u0642\u0627\u0645\u0629, \u0628\u0633\u0627\u0637\u0629",
+                "\u0643\u0645\u0627\u0644"
+            ],
+            "eng": [
+                "integrity",
+                "innocence, guilessness."
+            ],
+            "fre": [
+                "droiture, simplicit\u00e9",
+                "perfection"
+            ]
+        },
+        "word": {
+            "id": 32863,
+            "uri": "https://sedra.bethmardutho.org/api/word/32863.json"
+        }
+    }
+]

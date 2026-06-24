@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0728\u072c\u0710",
+        "western": "\u0729\u0730\u0718\u0728\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13281,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13281.json"
+        },
+        "stem": "\u0729\u0718\u0728\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0635\u0644\u0629 \u0645\u0646 \u0634\u0639\u0631"
+            ],
+            "eng": [
+                "curl, lock of hair."
+            ],
+            "fre": [
+                "boucle de cheveux"
+            ]
+        },
+        "word": {
+            "id": 34648,
+            "uri": "https://sedra.bethmardutho.org/api/word/34648.json"
+        }
+    }
+]

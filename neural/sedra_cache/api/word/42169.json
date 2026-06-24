@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u0723\u0713\u0718\u0726",
+        "western": "\u0722\u0736\u0723\u0713\u073d\u0718\u0726",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15450,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15450.json"
+        },
+        "stem": "\u0723\u0713\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "maim",
+                "IIa to harm, damage",
+                "Ip, IIp to be damaged, injured",
+                "Ia to injure, to maim",
+                "affict",
+                "hurt",
+                "to detract from",
+                "to diminish."
+            ]
+        },
+        "word": {
+            "id": 42169,
+            "uri": "https://sedra.bethmardutho.org/api/word/42169.json"
+        }
+    }
+]

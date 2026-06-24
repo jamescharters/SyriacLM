@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0728\u0718\u0712\u0725\u0722\u0710",
+        "western": "\u0728\u073d\u0718\u0712\u0725\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6063,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6063.json"
+        },
+        "stem": "\u0728\u0718\u0712\u0725\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0648\u0646"
+            ],
+            "eng": [
+                "dye",
+                "dyed garment."
+            ],
+            "fre": [
+                "couleur"
+            ]
+        },
+        "word": {
+            "id": 37501,
+            "uri": "https://sedra.bethmardutho.org/api/word/37501.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u072b\u072a\u071f\u0710",
+        "western": "\u0718\u072b\u0730\u072a\u071f\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3327,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3327.json"
+        },
+        "stem": "\u072b\u072a\u071f\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "<span class=\"selectableFont\">\u0718\u072b\u0730\u072a\u071f\u0733\u0710</span>, <span class=\"selectableFont\">\u0718\u0730\u0715\u072b\u0730\u072a\u071f\u0733\u0710</span> etc.",
+                "remnant, rest",
+                "remainder",
+                "rest",
+                "residue"
+            ]
+        },
+        "word": {
+            "id": 22176,
+            "uri": "https://sedra.bethmardutho.org/api/word/22176.json"
+        }
+    }
+]

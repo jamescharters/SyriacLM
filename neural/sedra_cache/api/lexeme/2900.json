@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 2900,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2900.json"
+        },
+        "syriac": "\u0729\u072b\u0710",
+        "glosses": {
+            "English": [
+                "harden"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f54\u03b4\u03b9\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1719,
+            "uri": "https://sedra.bethmardutho.org/api/root/1719.json"
+        },
+        "words": [
+            {
+                "id": 28389,
+                "uri": "https://sedra.bethmardutho.org/api/word/28389.json"
+            },
+            {
+                "id": 28388,
+                "uri": "https://sedra.bethmardutho.org/api/word/28388.json"
+            },
+            {
+                "id": 28387,
+                "uri": "https://sedra.bethmardutho.org/api/word/28387.json"
+            },
+            {
+                "id": 28386,
+                "uri": "https://sedra.bethmardutho.org/api/word/28386.json"
+            },
+            {
+                "id": 18888,
+                "uri": "https://sedra.bethmardutho.org/api/word/18888.json"
+            },
+            {
+                "id": 18892,
+                "uri": "https://sedra.bethmardutho.org/api/word/18892.json"
+            },
+            {
+                "id": 18891,
+                "uri": "https://sedra.bethmardutho.org/api/word/18891.json"
+            },
+            {
+                "id": 18890,
+                "uri": "https://sedra.bethmardutho.org/api/word/18890.json"
+            },
+            {
+                "id": 18889,
+                "uri": "https://sedra.bethmardutho.org/api/word/18889.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

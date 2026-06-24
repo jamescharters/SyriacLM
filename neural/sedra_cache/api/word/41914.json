@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0729\u072a\u072b",
+        "western": "\u0722\u0736\u0729\u072a\u0730\u072b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15877,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15877.json"
+        },
+        "stem": "\u0729\u072a\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u072a\u073d\u0718\u072b</span> & <span class=\"selectableFont\">\u0722\u0736\u0729\u072a\u0730\u072b</span>, Ia to become chilled, to freeze",
+                "IIa to cool, chill, ice",
+                "IIp to be put in the shade."
+            ]
+        },
+        "word": {
+            "id": 41914,
+            "uri": "https://sedra.bethmardutho.org/api/word/41914.json"
+        }
+    }
+]

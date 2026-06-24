@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14835,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14835.json"
+        },
+        "syriac": "\u071f\u072a\u071f\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0633\u0645"
+            ],
+            "French": [
+                "marquer au fer"
+            ],
+            "English": [
+                "IVa to brand."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2753,
+            "uri": "https://sedra.bethmardutho.org/api/root/2753.json"
+        },
+        "words": [
+            {
+                "id": 41310,
+                "uri": "https://sedra.bethmardutho.org/api/word/41310.json"
+            },
+            {
+                "id": 40770,
+                "uri": "https://sedra.bethmardutho.org/api/word/40770.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

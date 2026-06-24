@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15403,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15403.json"
+        },
+        "syriac": "\u071a\u072a\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0644\u0642, \u0630\u0631\u0628"
+            ],
+            "French": [
+                "\u00eatre pointu, tranchant"
+            ],
+            "English": [
+                "IIa to sharpen, to stimulate",
+                "IIp to be stimulated",
+                "to urge on.",
+                "Ia to be sharp",
+                "IIIa to sharpen"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2719,
+            "uri": "https://sedra.bethmardutho.org/api/root/2719.json"
+        },
+        "words": [
+            {
+                "id": 41895,
+                "uri": "https://sedra.bethmardutho.org/api/word/41895.json"
+            },
+            {
+                "id": 41283,
+                "uri": "https://sedra.bethmardutho.org/api/word/41283.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

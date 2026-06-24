@@ -1,0 +1,55 @@
+[
+    {
+        "syriac": "\u0717\u071d\u0721\u0722\u071d\u0722\u071d",
+        "western": "\u0717\u0730\u071d\u0721\u0736\u0722\u073a\u071d\u0722\u071d",
+        "tense": "imperative",
+        "kaylo": "pay\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 165,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/165.json"
+        },
+        "stem": "\u0717\u071d\u0721\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0648\u062b\u0642",
+                "\u0648\u0643\u0644",
+                "\u0623\u0646\u0633 (\u0645\u0636)",
+                "\u0623\u0648\u062d\u0649 \u062b\u0642\u0629",
+                "\u0623\u062a\u0642\u0646 \u0634\u063a\u0644\u0647"
+            ],
+            "eng": [
+                "to have faith in",
+                "believe",
+                "IVp.",
+                "to trust",
+                "IVa to believe",
+                "trust in"
+            ],
+            "fre": [
+                "croire",
+                "rendre familier",
+                "confier",
+                "inspirer confiance",
+                "avoir confiance",
+                "travailler avec art"
+            ]
+        },
+        "word": {
+            "id": 1144,
+            "uri": "https://sedra.bethmardutho.org/api/word/1144.json"
+        }
+    }
+]

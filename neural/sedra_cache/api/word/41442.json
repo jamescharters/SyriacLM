@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072b\u0720\u072b\u0720",
+        "western": "\u072b\u0730\u0720\u072b\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15253,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15253.json"
+        },
+        "stem": "\u072b\u0720\u072b\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "concatenate.",
+                "IVa <span class=\"selectableFont\">\u072b\u0730\u0720\u072b\u0736\u0720</span> trace back in a chain"
+            ]
+        },
+        "word": {
+            "id": 41442,
+            "uri": "https://sedra.bethmardutho.org/api/word/41442.json"
+        }
+    }
+]

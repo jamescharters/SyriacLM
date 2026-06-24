@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1015,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1015.json"
+        },
+        "syriac": "\u071a\u071b\u0718\u0726\u071d\u0710",
+        "glosses": {
+            "English": [
+                "extortion",
+                "robbery",
+                "spoil.",
+                "seizure by force, snatching",
+                "rape"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 619,
+            "uri": "https://sedra.bethmardutho.org/api/root/619.json"
+        },
+        "words": [
+            {
+                "id": 6798,
+                "uri": "https://sedra.bethmardutho.org/api/word/6798.json"
+            },
+            {
+                "id": 6799,
+                "uri": "https://sedra.bethmardutho.org/api/word/6799.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

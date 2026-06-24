@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0720\u071d\u0710",
+        "western": "\u0729\u0736\u0720\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13546,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13546.json"
+        },
+        "stem": "\u0729\u0720\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0627\u0643\u0646 \u0642\u0644\u064a\u0629"
+            ],
+            "eng": [
+                "inhabitant of cell."
+            ],
+            "fre": [
+                "habitant de la cellule"
+            ]
+        },
+        "word": {
+            "id": 34386,
+            "uri": "https://sedra.bethmardutho.org/api/word/34386.json"
+        }
+    }
+]

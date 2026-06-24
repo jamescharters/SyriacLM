@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u072a\u071f",
+        "western": "\u0710\u0736\u072a\u0730\u071f\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 285,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/285.json"
+        },
+        "stem": "\u0710\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "prolong",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u072a\u0736\u071f</span> lengthen.",
+                "IIa to prolong",
+                "Ia to be long",
+                "enlarge"
+            ]
+        },
+        "word": {
+            "id": 1895,
+            "uri": "https://sedra.bethmardutho.org/api/word/1895.json"
+        }
+    }
+]

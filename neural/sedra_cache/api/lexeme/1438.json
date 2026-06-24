@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1438,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1438.json"
+        },
+        "syriac": "\u072c\u0718\u072c\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0631\u064a\u0628"
+            ],
+            "French": [
+                "\u00e9tranger"
+            ],
+            "English": [
+                "settler",
+                "stranger",
+                "sojourner",
+                "foreigner, settler, lodger."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 856,
+            "uri": "https://sedra.bethmardutho.org/api/root/856.json"
+        },
+        "words": [
+            {
+                "id": 9558,
+                "uri": "https://sedra.bethmardutho.org/api/word/9558.json"
+            },
+            {
+                "id": 9560,
+                "uri": "https://sedra.bethmardutho.org/api/word/9560.json"
+            },
+            {
+                "id": 9559,
+                "uri": "https://sedra.bethmardutho.org/api/word/9559.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

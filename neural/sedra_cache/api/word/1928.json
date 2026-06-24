@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0721\u0720\u072c\u0710",
+        "western": "\u0710\u0730\u072a\u0721\u0720\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 295,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/295.json"
+        },
+        "stem": "\u0710\u072a\u0721\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "widow",
+                "widow."
+            ]
+        },
+        "word": {
+            "id": 1928,
+            "uri": "https://sedra.bethmardutho.org/api/word/1928.json"
+        }
+    }
+]

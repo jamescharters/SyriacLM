@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15493,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15493.json"
+        },
+        "syriac": "\u0713\u0720\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0645\u0647\u0645 \u0648\u0623\u0646\u064a\u0627\u0628\u0647 \u0645\u0643\u0634\u0648\u0641\u0629 (\u0643\u0644\u0628 \u063a\u0636\u0628\u0627\u0646)"
+            ],
+            "French": [
+                "grogner en montrant les dents ( chien irrit\u00e9)"
+            ],
+            "English": [
+                "to growl",
+                "IIa to gape, have the lips wide apart.",
+                "Ia to wrinkle, to frown",
+                "to show the teeth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3159,
+            "uri": "https://sedra.bethmardutho.org/api/root/3159.json"
+        },
+        "words": [
+            {
+                "id": 41762,
+                "uri": "https://sedra.bethmardutho.org/api/word/41762.json"
+            },
+            {
+                "id": 41525,
+                "uri": "https://sedra.bethmardutho.org/api/word/41525.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 28843,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28843.json"
+        },
+        "syriac": "\u0710\u071d\u0718\u0726\u0718\u0723\u071b\u0710\u0723\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f51\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2"
+            ],
+            "English": [
+                "substantial nature, substance",
+                "substance, actual existence, reality, real nature, essence"
+            ],
+            "Latin": [
+                "persona"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f51\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49348,
+                "uri": "https://sedra.bethmardutho.org/api/word/49348.json"
+            },
+            {
+                "id": 55217,
+                "uri": "https://sedra.bethmardutho.org/api/word/55217.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

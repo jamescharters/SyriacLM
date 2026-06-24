@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0729\u0726",
+        "western": "\u0729\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15822,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15822.json"
+        },
+        "stem": "\u0729\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to settle down, subside",
+                "to shrink",
+                "to congeal",
+                "IIa to brood over."
+            ]
+        },
+        "word": {
+            "id": 39809,
+            "uri": "https://sedra.bethmardutho.org/api/word/39809.json"
+        }
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0712\u0729\u072a",
+        "western": "\u0712\u0729\u0730\u072a",
+        "eastern": "\u0712\u0729\u0732\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 451,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/451.json"
+        },
+        "stem": "\u0712\u0729\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062a\u0634",
+                "\u062b\u0642\u0628"
+            ],
+            "eng": [
+                "IIp.",
+                "IIa to examine",
+                "to perforate",
+                "Ia to ask, question",
+                "bore",
+                "seek",
+                "Ip"
+            ],
+            "fre": [
+                "chercher",
+                "trouer"
+            ]
+        },
+        "word": {
+            "id": 3145,
+            "uri": "https://sedra.bethmardutho.org/api/word/3145.json"
+        }
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "lexeme": {
+            "id": 2642,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2642.json"
+        },
+        "syriac": "\u0726\u072c\u0713\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0644\u0627\u0645",
+                "\u062c\u0645\u0644\u0629, \u062c\u0632\u0621",
+                "\u0634\u0637\u0631, \u062c\u0632\u0621 \u0634\u0639\u0631",
+                "\u062c\u0648\u0627\u0628",
+                "\u0634\u064a\u0621, \u062d\u062f\u062b, \u0639\u0645\u0644"
+            ],
+            "French": [
+                "parole",
+                "phrase, proposition, membre",
+                "h\u00e9mistiche, pied",
+                "r\u00e9ponse",
+                "chose, fait, acte"
+            ],
+            "English": [
+                "word",
+                "versicle.",
+                "word, phrase, expression, sentence",
+                "word",
+                "saying",
+                "versicle",
+                "thing"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1565,
+            "uri": "https://sedra.bethmardutho.org/api/root/1565.json"
+        },
+        "words": [
+            {
+                "id": 17161,
+                "uri": "https://sedra.bethmardutho.org/api/word/17161.json"
+            },
+            {
+                "id": 26087,
+                "uri": "https://sedra.bethmardutho.org/api/word/26087.json"
+            },
+            {
+                "id": 17158,
+                "uri": "https://sedra.bethmardutho.org/api/word/17158.json"
+            },
+            {
+                "id": 17164,
+                "uri": "https://sedra.bethmardutho.org/api/word/17164.json"
+            },
+            {
+                "id": 17160,
+                "uri": "https://sedra.bethmardutho.org/api/word/17160.json"
+            },
+            {
+                "id": 17159,
+                "uri": "https://sedra.bethmardutho.org/api/word/17159.json"
+            },
+            {
+                "id": 17163,
+                "uri": "https://sedra.bethmardutho.org/api/word/17163.json"
+            },
+            {
+                "id": 17162,
+                "uri": "https://sedra.bethmardutho.org/api/word/17162.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "syriac": "\u0710\u0726\u0722\u0710",
+        "western": "\u0710\u0730\u0726\u0742\u0722\u0733\u0710",
+        "tense": "imperative",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2539,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2539.json"
+        },
+        "stem": "\u0726\u0722\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0627\u0644 (\u0646\u0647\u0627\u0631)",
+                "\u062b\u0627\u0646\u064a\u0629",
+                "\u0639\u0627\u062f",
+                "\u0627\u0647\u062a\u062f\u0649",
+                "\u0627\u0644\u062a\u0641\u062a, \u062f\u0627\u0631"
+            ],
+            "eng": [
+                "give back",
+                "IIa to restore",
+                "cause to turn",
+                "to return",
+                "to convert",
+                "IIIa to bring back",
+                "Ip",
+                "Ia to turn, to return",
+                "IIp",
+                "to turn.",
+                "to respond, answer, reply",
+                "return",
+                "answer"
+            ],
+            "fre": [
+                "tourner (intr.), se tourner",
+                "se convertir",
+                "revenir",
+                "d\u00e9cliner (jour)",
+                "de nouveau"
+            ]
+        },
+        "word": {
+            "id": 16561,
+            "uri": "https://sedra.bethmardutho.org/api/word/16561.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0725\u072a\u071d\u0728\u072c\u0710",
+        "western": "\u0725\u072a\u073a\u071d\u0728\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14008,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14008.json"
+        },
+        "stem": "\u0725\u072a\u071d\u0728\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0627\u062f\u062b, \u0648\u0627\u0642\u0639\u0629"
+            ],
+            "eng": [
+                "accident",
+                "<span class=\"selectableFont\">\u0725\u072a\u0308\u073a\u071d\u0728\u0733\u072c\u0733\u0710</span> unforeseen events."
+            ],
+            "fre": [
+                "accident, fait"
+            ]
+        },
+        "word": {
+            "id": 32147,
+            "uri": "https://sedra.bethmardutho.org/api/word/32147.json"
+        }
+    }
+]

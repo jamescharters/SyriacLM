@@ -1,0 +1,75 @@
+[
+    {
+        "lexeme": {
+            "id": 420,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/420.json"
+        },
+        "syriac": "\u0712\u0723\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062d\u062a\u0642\u0631",
+                "\u0644\u0627\u0645",
+                "\u062f\u062d\u0636"
+            ],
+            "French": [
+                "m\u00e9priser",
+                "bl\u00e2mer",
+                "r\u00e9futer"
+            ],
+            "English": [
+                "despise",
+                "contemn",
+                "condemn",
+                "hazard",
+                "Ia to despise",
+                "IIp.",
+                "to blame, reprove",
+                "IIa to scorn"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 288,
+            "uri": "https://sedra.bethmardutho.org/api/root/288.json"
+        },
+        "words": [
+            {
+                "id": 2905,
+                "uri": "https://sedra.bethmardutho.org/api/word/2905.json"
+            },
+            {
+                "id": 23546,
+                "uri": "https://sedra.bethmardutho.org/api/word/23546.json"
+            },
+            {
+                "id": 23545,
+                "uri": "https://sedra.bethmardutho.org/api/word/23545.json"
+            },
+            {
+                "id": 23544,
+                "uri": "https://sedra.bethmardutho.org/api/word/23544.json"
+            },
+            {
+                "id": 23543,
+                "uri": "https://sedra.bethmardutho.org/api/word/23543.json"
+            },
+            {
+                "id": 22769,
+                "uri": "https://sedra.bethmardutho.org/api/word/22769.json"
+            },
+            {
+                "id": 2907,
+                "uri": "https://sedra.bethmardutho.org/api/word/2907.json"
+            },
+            {
+                "id": 2906,
+                "uri": "https://sedra.bethmardutho.org/api/word/2906.json"
+            },
+            {
+                "id": 2904,
+                "uri": "https://sedra.bethmardutho.org/api/word/2904.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

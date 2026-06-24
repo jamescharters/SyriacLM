@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u0718\u0713\u0720\u0713\u0710",
+        "western": "\u0720\u073d\u0718\u0713\u0720\u0733\u0713\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14347,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14347.json"
+        },
+        "stem": "\u0720\u0718\u0713\u0720\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u062c\u0644\u062c\u0629"
+            ],
+            "eng": [
+                "stammering."
+            ],
+            "fre": [
+                "balbutiement"
+            ]
+        },
+        "word": {
+            "id": 34517,
+            "uri": "https://sedra.bethmardutho.org/api/word/34517.json"
+        }
+    }
+]

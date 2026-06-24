@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0715\u0721\u072c",
+        "western": "\u0729\u073d\u0718\u0715\u0721\u0730\u072c",
+        "number": "singular",
+        "lexeme": {
+            "id": 12112,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12112.json"
+        },
+        "stem": "\u0729\u0718\u0715\u0721\u072c",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u062f\u0627\u0645"
+            ],
+            "eng": [
+                "before, in front of."
+            ],
+            "fre": [
+                "devant"
+            ]
+        },
+        "word": {
+            "id": 34176,
+            "uri": "https://sedra.bethmardutho.org/api/word/34176.json"
+        }
+    }
+]

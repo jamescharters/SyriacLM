@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071b\u0721\u0721",
+        "western": "\u071b\u0730\u0721\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15153,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15153.json"
+        },
+        "stem": "\u071b\u0721\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0642\u0647\u0631( \u0627\u0644\u0634\u0647\u0648\u0629)",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIIa = IIa.",
+                "IIa to stop up, block",
+                "to repress, restrain",
+                "IIp"
+            ],
+            "fre": [
+                "\u00a0",
+                "r\u00e9primer (la passion)"
+            ]
+        },
+        "word": {
+            "id": 41551,
+            "uri": "https://sedra.bethmardutho.org/api/word/41551.json"
+        }
+    }
+]

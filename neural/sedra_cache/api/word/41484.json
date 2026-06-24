@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u071a\u0712",
+        "western": "\u0722\u071a\u0736\u0712",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15522,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15522.json"
+        },
+        "stem": "\u0722\u071a\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to emaciate, to make thin.",
+                "Ia to grow lean, to waste away"
+            ]
+        },
+        "word": {
+            "id": 41484,
+            "uri": "https://sedra.bethmardutho.org/api/word/41484.json"
+        }
+    }
+]

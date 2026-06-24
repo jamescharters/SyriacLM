@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072b\u072a\u072b",
+        "western": "\u072b\u072a\u072b",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15123,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15123.json"
+        },
+        "stem": "\u072b\u072a\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072b\u072a\u0736\u072b</span> to root, to establish."
+            ]
+        },
+        "word": {
+            "id": 40539,
+            "uri": "https://sedra.bethmardutho.org/api/word/40539.json"
+        }
+    }
+]

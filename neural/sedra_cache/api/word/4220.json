@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0718\u0720\u0710",
+        "western": "\u0715\u0741\u0730\u0718\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 668,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/668.json"
+        },
+        "stem": "\u0715\u0718\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0644\u0648"
+            ],
+            "eng": [
+                "Aquarius.",
+                "bucket",
+                "bucket"
+            ],
+            "fre": [
+                "seau"
+            ]
+        },
+        "word": {
+            "id": 4220,
+            "uri": "https://sedra.bethmardutho.org/api/word/4220.json"
+        }
+    }
+]

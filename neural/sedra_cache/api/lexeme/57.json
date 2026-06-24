@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 57,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/57.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0729\u0720\u071d\u0715\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Euraquilo",
+                "wind"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f50\u03c1\u03bf\u03ba\u03bb\u03cd\u03b4\u03c9\u03bd"
+            ]
+        },
+        "root": {
+            "id": 46,
+            "uri": "https://sedra.bethmardutho.org/api/root/46.json"
+        },
+        "words": [
+            {
+                "id": 298,
+                "uri": "https://sedra.bethmardutho.org/api/word/298.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

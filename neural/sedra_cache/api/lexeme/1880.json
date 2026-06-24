@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1880,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1880.json"
+        },
+        "syriac": "\u0721\u072c\u071d",
+        "glosses": {
+            "English": [
+                "Matthew"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1123,
+            "uri": "https://sedra.bethmardutho.org/api/root/1123.json"
+        },
+        "words": [
+            {
+                "id": 12356,
+                "uri": "https://sedra.bethmardutho.org/api/word/12356.json"
+            },
+            {
+                "id": 12355,
+                "uri": "https://sedra.bethmardutho.org/api/word/12355.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

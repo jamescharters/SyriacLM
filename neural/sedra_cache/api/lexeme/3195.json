@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 3195,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3195.json"
+        },
+        "syriac": "\u072b\u071f\u071d\u0721",
+        "glosses": {
+            "English": [
+                "Sychem"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1863,
+            "uri": "https://sedra.bethmardutho.org/api/root/1863.json"
+        },
+        "words": [
+            {
+                "id": 21000,
+                "uri": "https://sedra.bethmardutho.org/api/word/21000.json"
+            },
+            {
+                "id": 20999,
+                "uri": "https://sedra.bethmardutho.org/api/word/20999.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

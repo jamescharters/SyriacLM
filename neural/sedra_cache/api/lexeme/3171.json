@@ -1,0 +1,69 @@
+[
+    {
+        "lexeme": {
+            "id": 3171,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3171.json"
+        },
+        "syriac": "\u072b\u071a\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0633\u0648\u062f",
+                "\u062e\u0627\u0641",
+                "\u0627\u062c\u062a\u0645\u0639"
+            ],
+            "French": [
+                "\u00eatre ou devenir noir",
+                "craindre",
+                "se r\u00e9unir"
+            ],
+            "English": [
+                "fear",
+                "compel"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1845,
+            "uri": "https://sedra.bethmardutho.org/api/root/1845.json"
+        },
+        "words": [
+            {
+                "id": 29028,
+                "uri": "https://sedra.bethmardutho.org/api/word/29028.json"
+            },
+            {
+                "id": 29027,
+                "uri": "https://sedra.bethmardutho.org/api/word/29027.json"
+            },
+            {
+                "id": 20815,
+                "uri": "https://sedra.bethmardutho.org/api/word/20815.json"
+            },
+            {
+                "id": 20814,
+                "uri": "https://sedra.bethmardutho.org/api/word/20814.json"
+            },
+            {
+                "id": 29030,
+                "uri": "https://sedra.bethmardutho.org/api/word/29030.json"
+            },
+            {
+                "id": 29029,
+                "uri": "https://sedra.bethmardutho.org/api/word/29029.json"
+            },
+            {
+                "id": 20818,
+                "uri": "https://sedra.bethmardutho.org/api/word/20818.json"
+            },
+            {
+                "id": 20817,
+                "uri": "https://sedra.bethmardutho.org/api/word/20817.json"
+            },
+            {
+                "id": 20816,
+                "uri": "https://sedra.bethmardutho.org/api/word/20816.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

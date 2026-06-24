@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2088,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2088.json"
+        },
+        "syriac": "\u0723\u0718\u0718\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0628\u0627\u062f\u0631\u0629",
+                "\u0634\u0648\u0642",
+                "\u0641\u0631\u062d",
+                "\u062a\u062d\u0631\u064a\u0636"
+            ],
+            "French": [
+                "empressement",
+                "d\u00e9sir",
+                "joie",
+                "exhortation"
+            ],
+            "English": [
+                "eagerness",
+                "readiness",
+                "promptitude",
+                "longing, strong desire."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1246,
+            "uri": "https://sedra.bethmardutho.org/api/root/1246.json"
+        },
+        "words": [
+            {
+                "id": 13918,
+                "uri": "https://sedra.bethmardutho.org/api/word/13918.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

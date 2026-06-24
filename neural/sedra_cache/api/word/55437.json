@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0723\u072a\u0710",
+        "western": "\u0710\u071d\u0723\u072a\u0308\u0710",
+        "lexeme": {
+            "id": 29063,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29063.json"
+        },
+        "stem": "\u0710\u071d\u0723\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hazelwort"
+            ],
+            "grc": [
+                "\u1f04\u03c3\u03b1\u03c1\u03bf\u03bd"
+            ],
+            "lat": [
+                "Asarum europaeum"
+            ]
+        },
+        "word": {
+            "id": 55437,
+            "uri": "https://sedra.bethmardutho.org/api/word/55437.json"
+        }
+    }
+]

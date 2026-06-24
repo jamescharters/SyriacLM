@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0712\u071d\u072c",
+        "western": "\u0710\u0730\u0712\u073a\u071d\u072c",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 387,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/387.json"
+        },
+        "stem": "\u0712\u0718\u072c",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to withhold.",
+                "Ia to spend the night",
+                "IIIa to leave through the night",
+                "remain",
+                "lodge"
+            ]
+        },
+        "word": {
+            "id": 42344,
+            "uri": "https://sedra.bethmardutho.org/api/word/42344.json"
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 15694,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15694.json"
+        },
+        "syriac": "\u0713\u072a\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0639\u0643, \u0646\u0632\u0639"
+            ],
+            "French": [
+                "grater , \u00f4ter"
+            ],
+            "English": [
+                "IIa to scrape",
+                "to be left destitute",
+                "IIp.",
+                "Ip to be scraped off, stripped",
+                "to strip",
+                "to erase",
+                "to be made plain",
+                "Ia to scrape, scrape off, lay bare"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2239,
+            "uri": "https://sedra.bethmardutho.org/api/root/2239.json"
+        },
+        "words": [
+            {
+                "id": 53275,
+                "uri": "https://sedra.bethmardutho.org/api/word/53275.json"
+            },
+            {
+                "id": 41602,
+                "uri": "https://sedra.bethmardutho.org/api/word/41602.json"
+            },
+            {
+                "id": 39968,
+                "uri": "https://sedra.bethmardutho.org/api/word/39968.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072b\u0712\u0725\u071d\u0722\u071d\u0710",
+        "western": "\u072b\u0730\u0712\u0725\u073a\u071d\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5630,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5630.json"
+        },
+        "stem": "\u072b\u0712\u0725\u071d\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0644\u0633\u0628\u0639\u0648\u0646"
+            ],
+            "eng": [
+                "in the Syrohexapla version.",
+                "the Septuagint",
+                "seventieth"
+            ],
+            "fre": [
+                "soixante-dixi\u00e8me"
+            ]
+        },
+        "word": {
+            "id": 36369,
+            "uri": "https://sedra.bethmardutho.org/api/word/36369.json"
+        }
+    }
+]

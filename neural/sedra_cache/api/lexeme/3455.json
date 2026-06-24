@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3455,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3455.json"
+        },
+        "syriac": "\u072c\u072b\u0725\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0633\u0639\u0648\u0646"
+            ],
+            "French": [
+                "quatre- vingt dix"
+            ],
+            "English": [
+                "ninety",
+                "lot",
+                "portion",
+                "ninety."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2002,
+            "uri": "https://sedra.bethmardutho.org/api/root/2002.json"
+        },
+        "words": [
+            {
+                "id": 22752,
+                "uri": "https://sedra.bethmardutho.org/api/word/22752.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

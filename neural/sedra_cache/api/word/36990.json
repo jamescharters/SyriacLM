@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072a\u071d\u0721\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u072a\u073a\u071d\u0721\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7932,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7932.json"
+        },
+        "stem": "\u0721\u072a\u071d\u0721\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0632\u0639"
+            ],
+            "eng": [
+                "raising up",
+                "abrogation, negation, removal."
+            ],
+            "fre": [
+                "action d&#39;\u00f4ter"
+            ]
+        },
+        "word": {
+            "id": 36990,
+            "uri": "https://sedra.bethmardutho.org/api/word/36990.json"
+        }
+    }
+]

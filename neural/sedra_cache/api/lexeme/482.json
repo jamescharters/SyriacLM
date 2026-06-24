@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 482,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/482.json"
+        },
+        "syriac": "\u0712\u072a\u0722\u0712\u0710",
+        "glosses": {
+            "English": [
+                "Barnabas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 324,
+            "uri": "https://sedra.bethmardutho.org/api/root/324.json"
+        },
+        "words": [
+            {
+                "id": 3354,
+                "uri": "https://sedra.bethmardutho.org/api/word/3354.json"
+            },
+            {
+                "id": 3353,
+                "uri": "https://sedra.bethmardutho.org/api/word/3353.json"
+            },
+            {
+                "id": 3352,
+                "uri": "https://sedra.bethmardutho.org/api/word/3352.json"
+            },
+            {
+                "id": 3351,
+                "uri": "https://sedra.bethmardutho.org/api/word/3351.json"
+            },
+            {
+                "id": 3350,
+                "uri": "https://sedra.bethmardutho.org/api/word/3350.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

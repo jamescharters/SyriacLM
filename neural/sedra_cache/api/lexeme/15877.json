@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15877,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15877.json"
+        },
+        "syriac": "\u0729\u072a\u072b",
+        "glosses": {
+            "English": [
+                "IIp to be put in the shade.",
+                "IIa to cool, chill, ice",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u072a\u073d\u0718\u072b</span> & <span class=\"selectableFont\">\u0722\u0736\u0729\u072a\u0730\u072b</span>, Ia to become chilled, to freeze"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2941,
+            "uri": "https://sedra.bethmardutho.org/api/root/2941.json"
+        },
+        "words": [
+            {
+                "id": 41947,
+                "uri": "https://sedra.bethmardutho.org/api/word/41947.json"
+            },
+            {
+                "id": 41914,
+                "uri": "https://sedra.bethmardutho.org/api/word/41914.json"
+            },
+            {
+                "id": 40235,
+                "uri": "https://sedra.bethmardutho.org/api/word/40235.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

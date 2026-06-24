@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0720\u0718\u072c",
+        "western": "\u0720\u0718\u072c",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15224,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15224.json"
+        },
+        "stem": "\u0720\u0718\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIp to be joined, connected.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0720\u0718\u0736\u072c</span> to put together, join, annex"
+            ]
+        },
+        "word": {
+            "id": 41087,
+            "uri": "https://sedra.bethmardutho.org/api/word/41087.json"
+        }
+    }
+]

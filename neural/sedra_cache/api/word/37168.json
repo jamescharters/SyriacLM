@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u071d\u072c\u0712\u0710",
+        "western": "\u071d\u0730\u072c\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5140,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5140.json"
+        },
+        "stem": "\u071d\u072c\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0642\u0627\u0645, \u0645\u0633\u0643\u0646",
+                "\u0623\u0631\u0636 \u0645\u0623\u0647\u0648\u0644\u0629",
+                "\u0633\u0643\u0627\u0646",
+                "\u0645\u0623\u0647\u0648\u0644"
+            ],
+            "eng": [
+                "habitation, inhabited place",
+                "seat."
+            ],
+            "fre": [
+                "demeure",
+                "terre habit\u00e9e",
+                "habitants",
+                "habit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 37168,
+            "uri": "https://sedra.bethmardutho.org/api/word/37168.json"
+        }
+    }
+]

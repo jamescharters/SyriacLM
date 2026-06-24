@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15321,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15321.json"
+        },
+        "syriac": "\u0726\u072b",
+        "glosses": {
+            "English": [
+                "IVp.",
+                "to dissolve",
+                "IIIa to waste away, IVa <span class=\"selectableFont\">\u0726\u0730\u0718\u072b\u0736\u072b</span> to put an end to",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0726\u0730\u072b\u0730\u072b</span> to be relaxed, to be dissolved"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2537,
+            "uri": "https://sedra.bethmardutho.org/api/root/2537.json"
+        },
+        "words": [
+            {
+                "id": 41003,
+                "uri": "https://sedra.bethmardutho.org/api/word/41003.json"
+            },
+            {
+                "id": 40794,
+                "uri": "https://sedra.bethmardutho.org/api/word/40794.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

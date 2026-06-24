@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 373,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/373.json"
+        },
+        "syriac": "\u0712\u071b\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0628\u0644 \u0628\u0640"
+            ],
+            "French": [
+                "concevoir"
+            ],
+            "English": [
+                "IIIa to make pregnant, impregnate.",
+                "conceive",
+                "Ia to conceive",
+                "Ip",
+                "IIa"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 261,
+            "uri": "https://sedra.bethmardutho.org/api/root/261.json"
+        },
+        "words": [
+            {
+                "id": 2568,
+                "uri": "https://sedra.bethmardutho.org/api/word/2568.json"
+            },
+            {
+                "id": 2569,
+                "uri": "https://sedra.bethmardutho.org/api/word/2569.json"
+            },
+            {
+                "id": 23453,
+                "uri": "https://sedra.bethmardutho.org/api/word/23453.json"
+            },
+            {
+                "id": 23452,
+                "uri": "https://sedra.bethmardutho.org/api/word/23452.json"
+            },
+            {
+                "id": 2572,
+                "uri": "https://sedra.bethmardutho.org/api/word/2572.json"
+            },
+            {
+                "id": 2570,
+                "uri": "https://sedra.bethmardutho.org/api/word/2570.json"
+            },
+            {
+                "id": 2567,
+                "uri": "https://sedra.bethmardutho.org/api/word/2567.json"
+            },
+            {
+                "id": 2571,
+                "uri": "https://sedra.bethmardutho.org/api/word/2571.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

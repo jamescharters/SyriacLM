@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072b\u0718\u0710\u0720",
+        "western": "\u072b\u0730\u0718\u0733\u0710\u0720",
+        "lexeme": {
+            "id": 20444,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20444.json"
+        },
+        "stem": "\u072b\u0718\u0710\u0720",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0647\u0631 \u0634\u0648\u0627\u0644"
+            ],
+            "eng": [
+                "the tenth Arabian month"
+            ],
+            "fre": [
+                "mois de saww\u00e4l"
+            ]
+        },
+        "word": {
+            "id": 46818,
+            "uri": "https://sedra.bethmardutho.org/api/word/46818.json"
+        }
+    }
+]

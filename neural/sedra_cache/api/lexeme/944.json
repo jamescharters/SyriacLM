@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 944,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/944.json"
+        },
+        "syriac": "\u071a\u0712\u0718\u072b\u071d\u0710",
+        "glosses": {
+            "English": [
+                "imprisonment, confinement",
+                "imprisonment",
+                "confinement",
+                "constraint",
+                "siege, blockade",
+                "burrow",
+                "reclusion",
+                "distress."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 592,
+            "uri": "https://sedra.bethmardutho.org/api/root/592.json"
+        },
+        "words": [
+            {
+                "id": 6164,
+                "uri": "https://sedra.bethmardutho.org/api/word/6164.json"
+            },
+            {
+                "id": 6161,
+                "uri": "https://sedra.bethmardutho.org/api/word/6161.json"
+            },
+            {
+                "id": 6160,
+                "uri": "https://sedra.bethmardutho.org/api/word/6160.json"
+            },
+            {
+                "id": 6159,
+                "uri": "https://sedra.bethmardutho.org/api/word/6159.json"
+            },
+            {
+                "id": 6162,
+                "uri": "https://sedra.bethmardutho.org/api/word/6162.json"
+            },
+            {
+                "id": 6163,
+                "uri": "https://sedra.bethmardutho.org/api/word/6163.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

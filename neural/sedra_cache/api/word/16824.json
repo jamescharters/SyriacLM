@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0712\u0726\u072a\u0713\u0720\u0710",
+        "western": "\u0712\u0741\u0730\u0726\u0742\u072a\u0733\u0713\u0742\u0736\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2575,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2575.json"
+        },
+        "stem": "\u0726\u072a\u0713\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0648\u0637"
+            ],
+            "eng": [
+                "whip.",
+                "whip",
+                "scourge"
+            ],
+            "fre": [
+                "fouet"
+            ]
+        },
+        "word": {
+            "id": 16824,
+            "uri": "https://sedra.bethmardutho.org/api/word/16824.json"
+        }
+    }
+]

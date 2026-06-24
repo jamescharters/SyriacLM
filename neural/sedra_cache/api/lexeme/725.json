@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 725,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/725.json"
+        },
+        "syriac": "\u0715\u0721\u071b\u072a\u071d\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Demetrius"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 457,
+            "uri": "https://sedra.bethmardutho.org/api/root/457.json"
+        },
+        "words": [
+            {
+                "id": 4714,
+                "uri": "https://sedra.bethmardutho.org/api/word/4714.json"
+            },
+            {
+                "id": 4713,
+                "uri": "https://sedra.bethmardutho.org/api/word/4713.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

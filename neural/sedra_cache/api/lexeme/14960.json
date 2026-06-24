@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 14960,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14960.json"
+        },
+        "syriac": "\u0710\u071f\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u062b",
+                "\u0623\u063a\u0644",
+                "\u062c\u0646\u0649",
+                "\u0639\u0631\u0641",
+                "\u00a0"
+            ],
+            "French": [
+                "labourer",
+                "produire",
+                "r\u00e9colter",
+                "conna\u00eetre",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to plough",
+                "to produce."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2455,
+            "uri": "https://sedra.bethmardutho.org/api/root/2455.json"
+        },
+        "words": [
+            {
+                "id": 41508,
+                "uri": "https://sedra.bethmardutho.org/api/word/41508.json"
+            },
+            {
+                "id": 41434,
+                "uri": "https://sedra.bethmardutho.org/api/word/41434.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

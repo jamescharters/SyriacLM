@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0715\u0725\u0718\u071d\u072a\u0718\u072c",
+        "western": "\u0715\u0741\u0730\u0725\u0718\u073a\u071d\u072a\u073d\u0718\u072c\u0742",
+        "state": "construct",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2283,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2283.json"
+        },
+        "stem": "\u0725\u0718\u071d\u072a\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "blindness.",
+                "blindness"
+            ]
+        },
+        "word": {
+            "id": 15199,
+            "uri": "https://sedra.bethmardutho.org/api/word/15199.json"
+        }
+    }
+]

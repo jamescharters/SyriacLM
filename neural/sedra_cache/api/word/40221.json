@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u071f",
+        "western": "\u071a\u0730\u071f",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15621,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15621.json"
+        },
+        "stem": "\u071a\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to perforate",
+                "Ip",
+                "Ia to rub, scratch, scrape",
+                "to re-open (a topic)."
+            ]
+        },
+        "word": {
+            "id": 40221,
+            "uri": "https://sedra.bethmardutho.org/api/word/40221.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0729\u071d\u0723\u0718\u072c\u0710",
+        "western": "\u0721\u0729\u0730\u071d\u0723\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7851,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7851.json"
+        },
+        "stem": "\u0721\u0729\u071d\u0723\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0646\u062c"
+            ],
+            "eng": [
+                "spasm, convulsion.",
+                "stiffness, rigidity"
+            ],
+            "fre": [
+                "crampe"
+            ]
+        },
+        "word": {
+            "id": 31289,
+            "uri": "https://sedra.bethmardutho.org/api/word/31289.json"
+        }
+    }
+]

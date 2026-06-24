@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0725\u072a\u072c\u0710",
+        "western": "\u0723\u0725\u0733\u072a\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5812,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5812.json"
+        },
+        "stem": "\u0723\u0725\u072a\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0639\u0631\u0629"
+            ],
+            "eng": [
+                "barley."
+            ],
+            "fre": [
+                "poil, cheveu"
+            ]
+        },
+        "word": {
+            "id": 36406,
+            "uri": "https://sedra.bethmardutho.org/api/word/36406.json"
+        }
+    }
+]

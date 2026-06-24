@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15010,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15010.json"
+        },
+        "syriac": "\u0729\u0722\u0712",
+        "glosses": {
+            "English": [
+                "to maraud.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0729\u0722\u0736\u0712</span> to lie in ambush"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3034,
+            "uri": "https://sedra.bethmardutho.org/api/root/3034.json"
+        },
+        "words": [
+            {
+                "id": 41177,
+                "uri": "https://sedra.bethmardutho.org/api/word/41177.json"
+            },
+            {
+                "id": 40597,
+                "uri": "https://sedra.bethmardutho.org/api/word/40597.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

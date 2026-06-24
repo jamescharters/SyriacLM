@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15070,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15070.json"
+        },
+        "syriac": "\u0721\u0715\u0725",
+        "glosses": {
+            "English": [
+                "IIa to signify",
+                "IIp to possess intelligence, to understand."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2761,
+            "uri": "https://sedra.bethmardutho.org/api/root/2761.json"
+        },
+        "words": [
+            {
+                "id": 40796,
+                "uri": "https://sedra.bethmardutho.org/api/word/40796.json"
+            },
+            {
+                "id": 40703,
+                "uri": "https://sedra.bethmardutho.org/api/word/40703.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

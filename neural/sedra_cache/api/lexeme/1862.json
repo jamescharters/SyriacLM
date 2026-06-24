@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1862,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1862.json"
+        },
+        "syriac": "\u0721\u072a\u071d\u0721",
+        "glosses": {
+            "English": [
+                "Mary"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1111,
+            "uri": "https://sedra.bethmardutho.org/api/root/1111.json"
+        },
+        "words": [
+            {
+                "id": 12272,
+                "uri": "https://sedra.bethmardutho.org/api/word/12272.json"
+            },
+            {
+                "id": 12273,
+                "uri": "https://sedra.bethmardutho.org/api/word/12273.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

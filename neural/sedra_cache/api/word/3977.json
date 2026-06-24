@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u0713\u072a\u0721\u0710",
+        "western": "\u0715\u0741\u0713\u0742\u0730\u072a\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 631,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/631.json"
+        },
+        "stem": "\u0713\u072a\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "kernel",
+                "<span class=\"selectableFont\">\u0713\u072a\u0736\u0721 \u0726\u073a\u071d\u0720\u0733\u0710</span> ivory.",
+                "bone",
+                "bone"
+            ]
+        },
+        "word": {
+            "id": 3977,
+            "uri": "https://sedra.bethmardutho.org/api/word/3977.json"
+        }
+    }
+]

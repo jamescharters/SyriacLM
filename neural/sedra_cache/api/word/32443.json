@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0713\u071d\u0712\u0710",
+        "western": "\u0713\u0730\u071d\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12446,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12446.json"
+        },
+        "stem": "\u0713\u071d\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u064a\u0643\u0644"
+            ],
+            "eng": [
+                "shrine.",
+                "vault"
+            ],
+            "fre": [
+                "temple"
+            ]
+        },
+        "word": {
+            "id": 32443,
+            "uri": "https://sedra.bethmardutho.org/api/word/32443.json"
+        }
+    }
+]

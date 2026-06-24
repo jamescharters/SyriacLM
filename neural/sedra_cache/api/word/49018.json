@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u0722\u071d\u072c\u0718\u0713\u0710\u0720\u0710",
+        "western": "\u0710\u073d\u0718\u072a\u0722\u073a\u071d\u072c\u0733\u0718\u0713\u0730\u0710\u0720\u0730\u0710",
+        "lexeme": {
+            "id": 28612,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28612.json"
+        },
+        "stem": "\u0710\u0718\u072a\u0722\u071d\u072c\u0718\u0713\u0710\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "starflower"
+            ],
+            "grc": [
+                "\u03cc\u03c1\u03bd\u03b9\u03b8\u03cc\u03b3\u03b1\u03bb\u03bf\u03bd"
+            ],
+            "lat": [
+                "Ornithogalum umbellatum"
+            ]
+        },
+        "word": {
+            "id": 49018,
+            "uri": "https://sedra.bethmardutho.org/api/word/49018.json"
+        }
+    }
+]

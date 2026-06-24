@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2720,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2720.json"
+        },
+        "syriac": "\u0729\u0710\u071d\u0722",
+        "glosses": {
+            "English": [
+                "Cain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1612,
+            "uri": "https://sedra.bethmardutho.org/api/root/1612.json"
+        },
+        "words": [
+            {
+                "id": 17639,
+                "uri": "https://sedra.bethmardutho.org/api/word/17639.json"
+            },
+            {
+                "id": 17640,
+                "uri": "https://sedra.bethmardutho.org/api/word/17640.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

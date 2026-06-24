@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 791,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/791.json"
+        },
+        "syriac": "\u0717\u071f\u0718\u072c",
+        "glosses": {
+            "English": [
+                "likewise",
+                "so",
+                "likewise, thus."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 502,
+            "uri": "https://sedra.bethmardutho.org/api/root/502.json"
+        },
+        "words": [
+            {
+                "id": 5148,
+                "uri": "https://sedra.bethmardutho.org/api/word/5148.json"
+            },
+            {
+                "id": 5150,
+                "uri": "https://sedra.bethmardutho.org/api/word/5150.json"
+            },
+            {
+                "id": 5149,
+                "uri": "https://sedra.bethmardutho.org/api/word/5149.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

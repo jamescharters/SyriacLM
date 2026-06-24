@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 2473,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2473.json"
+        },
+        "syriac": "\u0726\u0718\u072c\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0646\u062f\u0642",
+                "\u00a0"
+            ],
+            "French": [
+                "h\u00f4tellerie",
+                "tablette\u2026"
+            ],
+            "English": [
+                "inn",
+                "hostelry",
+                "inn, tavern."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c0\u03b1\u03bd\u03b4\u03bf\u03ba\u03b5\u1fd6\u03bf\u03bd"
+            ]
+        },
+        "root": {
+            "id": 1466,
+            "uri": "https://sedra.bethmardutho.org/api/root/1466.json"
+        },
+        "words": [
+            {
+                "id": 16266,
+                "uri": "https://sedra.bethmardutho.org/api/word/16266.json"
+            },
+            {
+                "id": 16265,
+                "uri": "https://sedra.bethmardutho.org/api/word/16265.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

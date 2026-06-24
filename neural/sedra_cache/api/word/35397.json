@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0720\u071b\u0710",
+        "western": "\u0723\u0730\u0720\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5304,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5304.json"
+        },
+        "stem": "\u0723\u0720\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0648\u0627\u0646\u0629"
+            ],
+            "eng": [
+                "flint."
+            ],
+            "fre": [
+                "silex"
+            ]
+        },
+        "word": {
+            "id": 35397,
+            "uri": "https://sedra.bethmardutho.org/api/word/35397.json"
+        }
+    }
+]

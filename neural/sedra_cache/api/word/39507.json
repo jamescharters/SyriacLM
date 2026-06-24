@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u072a\u072c\u0722\u0710",
+        "western": "\u0721\u0736\u072a\u072c\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12056,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12056.json"
+        },
+        "stem": "\u0721\u072a\u072c\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0636\u0648\u0628",
+                "\u0645\u0633\u0645"
+            ],
+            "eng": [
+                "bilious.",
+                "bad-tempered, irritable"
+            ],
+            "fre": [
+                "bilieux",
+                "venimeux"
+            ]
+        },
+        "word": {
+            "id": 39507,
+            "uri": "https://sedra.bethmardutho.org/api/word/39507.json"
+        }
+    }
+]

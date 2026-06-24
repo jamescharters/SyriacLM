@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28450,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28450.json"
+        },
+        "syriac": "\u0710\u0718\u0726\u071d\u0723\u0718",
+        "glosses": {
+            "Greek": [
+                "\u1f40\u03c0\u03af\u03c3\u03c9"
+            ],
+            "English": [
+                "(of Place) backwards, (of Time) hereafter"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f40\u03c0\u03af\u03c3\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 48888,
+                "uri": "https://sedra.bethmardutho.org/api/word/48888.json"
+            },
+            {
+                "id": 54824,
+                "uri": "https://sedra.bethmardutho.org/api/word/54824.json"
+            }
+        ],
+        "category": "adverb"
+    }
+]

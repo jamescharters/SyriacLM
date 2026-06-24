@@ -1,0 +1,70 @@
+[
+    {
+        "lexeme": {
+            "id": 2035,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2035.json"
+        },
+        "syriac": "\u0722\u072b\u0712",
+        "glosses": {
+            "English": [
+                "blow",
+                "to be ensnared",
+                "IIIa to cause to blow.",
+                "Ia to blow, to breathe",
+                "Ip to be tossed by the wind"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1215,
+            "uri": "https://sedra.bethmardutho.org/api/root/1215.json"
+        },
+        "words": [
+            {
+                "id": 25376,
+                "uri": "https://sedra.bethmardutho.org/api/word/25376.json"
+            },
+            {
+                "id": 26739,
+                "uri": "https://sedra.bethmardutho.org/api/word/26739.json"
+            },
+            {
+                "id": 26738,
+                "uri": "https://sedra.bethmardutho.org/api/word/26738.json"
+            },
+            {
+                "id": 13413,
+                "uri": "https://sedra.bethmardutho.org/api/word/13413.json"
+            },
+            {
+                "id": 13417,
+                "uri": "https://sedra.bethmardutho.org/api/word/13417.json"
+            },
+            {
+                "id": 13416,
+                "uri": "https://sedra.bethmardutho.org/api/word/13416.json"
+            },
+            {
+                "id": 13414,
+                "uri": "https://sedra.bethmardutho.org/api/word/13414.json"
+            },
+            {
+                "id": 13412,
+                "uri": "https://sedra.bethmardutho.org/api/word/13412.json"
+            },
+            {
+                "id": 26741,
+                "uri": "https://sedra.bethmardutho.org/api/word/26741.json"
+            },
+            {
+                "id": 26740,
+                "uri": "https://sedra.bethmardutho.org/api/word/26740.json"
+            },
+            {
+                "id": 13415,
+                "uri": "https://sedra.bethmardutho.org/api/word/13415.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

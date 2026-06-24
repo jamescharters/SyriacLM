@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072a\u0713\u071d",
+        "western": "\u072a\u0730\u0713\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15139,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15139.json"
+        },
+        "stem": "\u072a\u0713\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0644\u064a\u0646",
+                "\u0628\u0644\u0644"
+            ],
+            "eng": [
+                "IIp",
+                "IIa to moisten, to soften",
+                "IIIa."
+            ],
+            "fre": [
+                "amollir",
+                "mouiller"
+            ]
+        },
+        "word": {
+            "id": 40384,
+            "uri": "https://sedra.bethmardutho.org/api/word/40384.json"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 212,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/212.json"
+        },
+        "syriac": "\u0710\u0723\u071b\u0723\u071d\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062a\u0646\u0629"
+            ],
+            "French": [
+                "s\u00e9dition"
+            ],
+            "English": [
+                "riot",
+                "strife",
+                "sedition, rebellion."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c4\u03ac\u03c3\u03b9\u03c2"
+            ]
+        },
+        "root": {
+            "id": 160,
+            "uri": "https://sedra.bethmardutho.org/api/root/160.json"
+        },
+        "words": [
+            {
+                "id": 1544,
+                "uri": "https://sedra.bethmardutho.org/api/word/1544.json"
+            },
+            {
+                "id": 1543,
+                "uri": "https://sedra.bethmardutho.org/api/word/1543.json"
+            },
+            {
+                "id": 1542,
+                "uri": "https://sedra.bethmardutho.org/api/word/1542.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

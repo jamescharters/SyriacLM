@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a\u0721\u072b\u071d\u0710",
+        "western": "\u072a\u0730\u0721\u072b\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5548,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5548.json"
+        },
+        "stem": "\u072a\u0721\u072b\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u0627\u0626\u064a"
+            ],
+            "eng": [
+                "f. <span class=\"selectableFont\">\u072a\u0730\u0721\u072b\u0733\u071d\u072c\u0733\u0710</span> Kth. an evening event.",
+                "evening"
+            ],
+            "fre": [
+                "du soir"
+            ]
+        },
+        "word": {
+            "id": 33708,
+            "uri": "https://sedra.bethmardutho.org/api/word/33708.json"
+        }
+    }
+]

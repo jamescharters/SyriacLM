@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u072a\u072b\u072b",
+        "western": "\u072a\u0730\u072b\u0736\u072b",
+        "lexeme": {
+            "id": 36945,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/36945.json"
+        },
+        "stem": "\u072a\u072b\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to crush"
+            ]
+        },
+        "word": {
+            "id": 63300,
+            "uri": "https://sedra.bethmardutho.org/api/word/63300.json"
+        }
+    }
+]

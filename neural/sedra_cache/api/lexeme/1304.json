@@ -1,0 +1,826 @@
+[
+    {
+        "lexeme": {
+            "id": 1304,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1304.json"
+        },
+        "syriac": "\u071d\u0715\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0627..."
+            ],
+            "French": [
+                "un certain\u2026, quelque\u2026"
+            ],
+            "English": [
+                "Ia to know, perceive, understand",
+                "IIa to inform, indicate",
+                "know",
+                "known",
+                "recognize",
+                "IIIp.",
+                "to be made known, to be meant",
+                "to become known, become famous, to flourish",
+                "to be known as",
+                "Ip to be known, understood",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0715\u0730\u0725</span> to make known, to inform, announce"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 768,
+            "uri": "https://sedra.bethmardutho.org/api/root/768.json"
+        },
+        "words": [
+            {
+                "id": 8547,
+                "uri": "https://sedra.bethmardutho.org/api/word/8547.json"
+            },
+            {
+                "id": 8548,
+                "uri": "https://sedra.bethmardutho.org/api/word/8548.json"
+            },
+            {
+                "id": 8549,
+                "uri": "https://sedra.bethmardutho.org/api/word/8549.json"
+            },
+            {
+                "id": 8551,
+                "uri": "https://sedra.bethmardutho.org/api/word/8551.json"
+            },
+            {
+                "id": 8556,
+                "uri": "https://sedra.bethmardutho.org/api/word/8556.json"
+            },
+            {
+                "id": 8620,
+                "uri": "https://sedra.bethmardutho.org/api/word/8620.json"
+            },
+            {
+                "id": 8621,
+                "uri": "https://sedra.bethmardutho.org/api/word/8621.json"
+            },
+            {
+                "id": 8622,
+                "uri": "https://sedra.bethmardutho.org/api/word/8622.json"
+            },
+            {
+                "id": 8625,
+                "uri": "https://sedra.bethmardutho.org/api/word/8625.json"
+            },
+            {
+                "id": 8626,
+                "uri": "https://sedra.bethmardutho.org/api/word/8626.json"
+            },
+            {
+                "id": 8628,
+                "uri": "https://sedra.bethmardutho.org/api/word/8628.json"
+            },
+            {
+                "id": 8629,
+                "uri": "https://sedra.bethmardutho.org/api/word/8629.json"
+            },
+            {
+                "id": 8633,
+                "uri": "https://sedra.bethmardutho.org/api/word/8633.json"
+            },
+            {
+                "id": 8637,
+                "uri": "https://sedra.bethmardutho.org/api/word/8637.json"
+            },
+            {
+                "id": 8639,
+                "uri": "https://sedra.bethmardutho.org/api/word/8639.json"
+            },
+            {
+                "id": 8641,
+                "uri": "https://sedra.bethmardutho.org/api/word/8641.json"
+            },
+            {
+                "id": 8642,
+                "uri": "https://sedra.bethmardutho.org/api/word/8642.json"
+            },
+            {
+                "id": 8647,
+                "uri": "https://sedra.bethmardutho.org/api/word/8647.json"
+            },
+            {
+                "id": 8650,
+                "uri": "https://sedra.bethmardutho.org/api/word/8650.json"
+            },
+            {
+                "id": 8651,
+                "uri": "https://sedra.bethmardutho.org/api/word/8651.json"
+            },
+            {
+                "id": 8655,
+                "uri": "https://sedra.bethmardutho.org/api/word/8655.json"
+            },
+            {
+                "id": 8656,
+                "uri": "https://sedra.bethmardutho.org/api/word/8656.json"
+            },
+            {
+                "id": 8657,
+                "uri": "https://sedra.bethmardutho.org/api/word/8657.json"
+            },
+            {
+                "id": 8658,
+                "uri": "https://sedra.bethmardutho.org/api/word/8658.json"
+            },
+            {
+                "id": 25344,
+                "uri": "https://sedra.bethmardutho.org/api/word/25344.json"
+            },
+            {
+                "id": 25348,
+                "uri": "https://sedra.bethmardutho.org/api/word/25348.json"
+            },
+            {
+                "id": 25352,
+                "uri": "https://sedra.bethmardutho.org/api/word/25352.json"
+            },
+            {
+                "id": 25353,
+                "uri": "https://sedra.bethmardutho.org/api/word/25353.json"
+            },
+            {
+                "id": 25354,
+                "uri": "https://sedra.bethmardutho.org/api/word/25354.json"
+            },
+            {
+                "id": 25355,
+                "uri": "https://sedra.bethmardutho.org/api/word/25355.json"
+            },
+            {
+                "id": 25362,
+                "uri": "https://sedra.bethmardutho.org/api/word/25362.json"
+            },
+            {
+                "id": 25363,
+                "uri": "https://sedra.bethmardutho.org/api/word/25363.json"
+            },
+            {
+                "id": 25370,
+                "uri": "https://sedra.bethmardutho.org/api/word/25370.json"
+            },
+            {
+                "id": 25371,
+                "uri": "https://sedra.bethmardutho.org/api/word/25371.json"
+            },
+            {
+                "id": 42354,
+                "uri": "https://sedra.bethmardutho.org/api/word/42354.json"
+            },
+            {
+                "id": 8534,
+                "uri": "https://sedra.bethmardutho.org/api/word/8534.json"
+            },
+            {
+                "id": 8561,
+                "uri": "https://sedra.bethmardutho.org/api/word/8561.json"
+            },
+            {
+                "id": 8568,
+                "uri": "https://sedra.bethmardutho.org/api/word/8568.json"
+            },
+            {
+                "id": 8570,
+                "uri": "https://sedra.bethmardutho.org/api/word/8570.json"
+            },
+            {
+                "id": 8571,
+                "uri": "https://sedra.bethmardutho.org/api/word/8571.json"
+            },
+            {
+                "id": 8572,
+                "uri": "https://sedra.bethmardutho.org/api/word/8572.json"
+            },
+            {
+                "id": 8575,
+                "uri": "https://sedra.bethmardutho.org/api/word/8575.json"
+            },
+            {
+                "id": 8590,
+                "uri": "https://sedra.bethmardutho.org/api/word/8590.json"
+            },
+            {
+                "id": 8564,
+                "uri": "https://sedra.bethmardutho.org/api/word/8564.json"
+            },
+            {
+                "id": 8591,
+                "uri": "https://sedra.bethmardutho.org/api/word/8591.json"
+            },
+            {
+                "id": 8595,
+                "uri": "https://sedra.bethmardutho.org/api/word/8595.json"
+            },
+            {
+                "id": 8606,
+                "uri": "https://sedra.bethmardutho.org/api/word/8606.json"
+            },
+            {
+                "id": 8630,
+                "uri": "https://sedra.bethmardutho.org/api/word/8630.json"
+            },
+            {
+                "id": 8640,
+                "uri": "https://sedra.bethmardutho.org/api/word/8640.json"
+            },
+            {
+                "id": 8579,
+                "uri": "https://sedra.bethmardutho.org/api/word/8579.json"
+            },
+            {
+                "id": 25324,
+                "uri": "https://sedra.bethmardutho.org/api/word/25324.json"
+            },
+            {
+                "id": 25330,
+                "uri": "https://sedra.bethmardutho.org/api/word/25330.json"
+            },
+            {
+                "id": 25331,
+                "uri": "https://sedra.bethmardutho.org/api/word/25331.json"
+            },
+            {
+                "id": 8550,
+                "uri": "https://sedra.bethmardutho.org/api/word/8550.json"
+            },
+            {
+                "id": 8559,
+                "uri": "https://sedra.bethmardutho.org/api/word/8559.json"
+            },
+            {
+                "id": 8634,
+                "uri": "https://sedra.bethmardutho.org/api/word/8634.json"
+            },
+            {
+                "id": 8635,
+                "uri": "https://sedra.bethmardutho.org/api/word/8635.json"
+            },
+            {
+                "id": 8668,
+                "uri": "https://sedra.bethmardutho.org/api/word/8668.json"
+            },
+            {
+                "id": 8674,
+                "uri": "https://sedra.bethmardutho.org/api/word/8674.json"
+            },
+            {
+                "id": 8562,
+                "uri": "https://sedra.bethmardutho.org/api/word/8562.json"
+            },
+            {
+                "id": 8573,
+                "uri": "https://sedra.bethmardutho.org/api/word/8573.json"
+            },
+            {
+                "id": 8592,
+                "uri": "https://sedra.bethmardutho.org/api/word/8592.json"
+            },
+            {
+                "id": 8596,
+                "uri": "https://sedra.bethmardutho.org/api/word/8596.json"
+            },
+            {
+                "id": 8599,
+                "uri": "https://sedra.bethmardutho.org/api/word/8599.json"
+            },
+            {
+                "id": 23805,
+                "uri": "https://sedra.bethmardutho.org/api/word/23805.json"
+            },
+            {
+                "id": 25317,
+                "uri": "https://sedra.bethmardutho.org/api/word/25317.json"
+            },
+            {
+                "id": 25319,
+                "uri": "https://sedra.bethmardutho.org/api/word/25319.json"
+            },
+            {
+                "id": 25320,
+                "uri": "https://sedra.bethmardutho.org/api/word/25320.json"
+            },
+            {
+                "id": 25321,
+                "uri": "https://sedra.bethmardutho.org/api/word/25321.json"
+            },
+            {
+                "id": 25322,
+                "uri": "https://sedra.bethmardutho.org/api/word/25322.json"
+            },
+            {
+                "id": 25326,
+                "uri": "https://sedra.bethmardutho.org/api/word/25326.json"
+            },
+            {
+                "id": 25327,
+                "uri": "https://sedra.bethmardutho.org/api/word/25327.json"
+            },
+            {
+                "id": 25328,
+                "uri": "https://sedra.bethmardutho.org/api/word/25328.json"
+            },
+            {
+                "id": 25329,
+                "uri": "https://sedra.bethmardutho.org/api/word/25329.json"
+            },
+            {
+                "id": 25333,
+                "uri": "https://sedra.bethmardutho.org/api/word/25333.json"
+            },
+            {
+                "id": 25334,
+                "uri": "https://sedra.bethmardutho.org/api/word/25334.json"
+            },
+            {
+                "id": 25335,
+                "uri": "https://sedra.bethmardutho.org/api/word/25335.json"
+            },
+            {
+                "id": 25336,
+                "uri": "https://sedra.bethmardutho.org/api/word/25336.json"
+            },
+            {
+                "id": 25337,
+                "uri": "https://sedra.bethmardutho.org/api/word/25337.json"
+            },
+            {
+                "id": 25338,
+                "uri": "https://sedra.bethmardutho.org/api/word/25338.json"
+            },
+            {
+                "id": 25339,
+                "uri": "https://sedra.bethmardutho.org/api/word/25339.json"
+            },
+            {
+                "id": 8544,
+                "uri": "https://sedra.bethmardutho.org/api/word/8544.json"
+            },
+            {
+                "id": 8535,
+                "uri": "https://sedra.bethmardutho.org/api/word/8535.json"
+            },
+            {
+                "id": 8539,
+                "uri": "https://sedra.bethmardutho.org/api/word/8539.json"
+            },
+            {
+                "id": 8536,
+                "uri": "https://sedra.bethmardutho.org/api/word/8536.json"
+            },
+            {
+                "id": 8545,
+                "uri": "https://sedra.bethmardutho.org/api/word/8545.json"
+            },
+            {
+                "id": 8546,
+                "uri": "https://sedra.bethmardutho.org/api/word/8546.json"
+            },
+            {
+                "id": 8553,
+                "uri": "https://sedra.bethmardutho.org/api/word/8553.json"
+            },
+            {
+                "id": 8554,
+                "uri": "https://sedra.bethmardutho.org/api/word/8554.json"
+            },
+            {
+                "id": 8555,
+                "uri": "https://sedra.bethmardutho.org/api/word/8555.json"
+            },
+            {
+                "id": 8557,
+                "uri": "https://sedra.bethmardutho.org/api/word/8557.json"
+            },
+            {
+                "id": 8558,
+                "uri": "https://sedra.bethmardutho.org/api/word/8558.json"
+            },
+            {
+                "id": 8583,
+                "uri": "https://sedra.bethmardutho.org/api/word/8583.json"
+            },
+            {
+                "id": 8617,
+                "uri": "https://sedra.bethmardutho.org/api/word/8617.json"
+            },
+            {
+                "id": 8618,
+                "uri": "https://sedra.bethmardutho.org/api/word/8618.json"
+            },
+            {
+                "id": 8619,
+                "uri": "https://sedra.bethmardutho.org/api/word/8619.json"
+            },
+            {
+                "id": 8623,
+                "uri": "https://sedra.bethmardutho.org/api/word/8623.json"
+            },
+            {
+                "id": 8624,
+                "uri": "https://sedra.bethmardutho.org/api/word/8624.json"
+            },
+            {
+                "id": 8627,
+                "uri": "https://sedra.bethmardutho.org/api/word/8627.json"
+            },
+            {
+                "id": 8631,
+                "uri": "https://sedra.bethmardutho.org/api/word/8631.json"
+            },
+            {
+                "id": 8632,
+                "uri": "https://sedra.bethmardutho.org/api/word/8632.json"
+            },
+            {
+                "id": 8636,
+                "uri": "https://sedra.bethmardutho.org/api/word/8636.json"
+            },
+            {
+                "id": 8654,
+                "uri": "https://sedra.bethmardutho.org/api/word/8654.json"
+            },
+            {
+                "id": 8638,
+                "uri": "https://sedra.bethmardutho.org/api/word/8638.json"
+            },
+            {
+                "id": 8645,
+                "uri": "https://sedra.bethmardutho.org/api/word/8645.json"
+            },
+            {
+                "id": 8646,
+                "uri": "https://sedra.bethmardutho.org/api/word/8646.json"
+            },
+            {
+                "id": 8648,
+                "uri": "https://sedra.bethmardutho.org/api/word/8648.json"
+            },
+            {
+                "id": 8649,
+                "uri": "https://sedra.bethmardutho.org/api/word/8649.json"
+            },
+            {
+                "id": 8652,
+                "uri": "https://sedra.bethmardutho.org/api/word/8652.json"
+            },
+            {
+                "id": 8653,
+                "uri": "https://sedra.bethmardutho.org/api/word/8653.json"
+            },
+            {
+                "id": 8659,
+                "uri": "https://sedra.bethmardutho.org/api/word/8659.json"
+            },
+            {
+                "id": 8662,
+                "uri": "https://sedra.bethmardutho.org/api/word/8662.json"
+            },
+            {
+                "id": 8664,
+                "uri": "https://sedra.bethmardutho.org/api/word/8664.json"
+            },
+            {
+                "id": 8665,
+                "uri": "https://sedra.bethmardutho.org/api/word/8665.json"
+            },
+            {
+                "id": 8666,
+                "uri": "https://sedra.bethmardutho.org/api/word/8666.json"
+            },
+            {
+                "id": 8667,
+                "uri": "https://sedra.bethmardutho.org/api/word/8667.json"
+            },
+            {
+                "id": 8669,
+                "uri": "https://sedra.bethmardutho.org/api/word/8669.json"
+            },
+            {
+                "id": 8671,
+                "uri": "https://sedra.bethmardutho.org/api/word/8671.json"
+            },
+            {
+                "id": 8672,
+                "uri": "https://sedra.bethmardutho.org/api/word/8672.json"
+            },
+            {
+                "id": 8673,
+                "uri": "https://sedra.bethmardutho.org/api/word/8673.json"
+            },
+            {
+                "id": 8675,
+                "uri": "https://sedra.bethmardutho.org/api/word/8675.json"
+            },
+            {
+                "id": 8677,
+                "uri": "https://sedra.bethmardutho.org/api/word/8677.json"
+            },
+            {
+                "id": 8678,
+                "uri": "https://sedra.bethmardutho.org/api/word/8678.json"
+            },
+            {
+                "id": 8679,
+                "uri": "https://sedra.bethmardutho.org/api/word/8679.json"
+            },
+            {
+                "id": 8680,
+                "uri": "https://sedra.bethmardutho.org/api/word/8680.json"
+            },
+            {
+                "id": 8681,
+                "uri": "https://sedra.bethmardutho.org/api/word/8681.json"
+            },
+            {
+                "id": 8682,
+                "uri": "https://sedra.bethmardutho.org/api/word/8682.json"
+            },
+            {
+                "id": 8660,
+                "uri": "https://sedra.bethmardutho.org/api/word/8660.json"
+            },
+            {
+                "id": 8661,
+                "uri": "https://sedra.bethmardutho.org/api/word/8661.json"
+            },
+            {
+                "id": 8663,
+                "uri": "https://sedra.bethmardutho.org/api/word/8663.json"
+            },
+            {
+                "id": 8670,
+                "uri": "https://sedra.bethmardutho.org/api/word/8670.json"
+            },
+            {
+                "id": 25332,
+                "uri": "https://sedra.bethmardutho.org/api/word/25332.json"
+            },
+            {
+                "id": 25318,
+                "uri": "https://sedra.bethmardutho.org/api/word/25318.json"
+            },
+            {
+                "id": 25340,
+                "uri": "https://sedra.bethmardutho.org/api/word/25340.json"
+            },
+            {
+                "id": 25341,
+                "uri": "https://sedra.bethmardutho.org/api/word/25341.json"
+            },
+            {
+                "id": 25342,
+                "uri": "https://sedra.bethmardutho.org/api/word/25342.json"
+            },
+            {
+                "id": 25343,
+                "uri": "https://sedra.bethmardutho.org/api/word/25343.json"
+            },
+            {
+                "id": 25345,
+                "uri": "https://sedra.bethmardutho.org/api/word/25345.json"
+            },
+            {
+                "id": 25346,
+                "uri": "https://sedra.bethmardutho.org/api/word/25346.json"
+            },
+            {
+                "id": 25350,
+                "uri": "https://sedra.bethmardutho.org/api/word/25350.json"
+            },
+            {
+                "id": 25351,
+                "uri": "https://sedra.bethmardutho.org/api/word/25351.json"
+            },
+            {
+                "id": 25358,
+                "uri": "https://sedra.bethmardutho.org/api/word/25358.json"
+            },
+            {
+                "id": 25359,
+                "uri": "https://sedra.bethmardutho.org/api/word/25359.json"
+            },
+            {
+                "id": 25360,
+                "uri": "https://sedra.bethmardutho.org/api/word/25360.json"
+            },
+            {
+                "id": 25361,
+                "uri": "https://sedra.bethmardutho.org/api/word/25361.json"
+            },
+            {
+                "id": 25364,
+                "uri": "https://sedra.bethmardutho.org/api/word/25364.json"
+            },
+            {
+                "id": 25365,
+                "uri": "https://sedra.bethmardutho.org/api/word/25365.json"
+            },
+            {
+                "id": 25366,
+                "uri": "https://sedra.bethmardutho.org/api/word/25366.json"
+            },
+            {
+                "id": 25367,
+                "uri": "https://sedra.bethmardutho.org/api/word/25367.json"
+            },
+            {
+                "id": 25372,
+                "uri": "https://sedra.bethmardutho.org/api/word/25372.json"
+            },
+            {
+                "id": 25373,
+                "uri": "https://sedra.bethmardutho.org/api/word/25373.json"
+            },
+            {
+                "id": 25374,
+                "uri": "https://sedra.bethmardutho.org/api/word/25374.json"
+            },
+            {
+                "id": 25375,
+                "uri": "https://sedra.bethmardutho.org/api/word/25375.json"
+            },
+            {
+                "id": 25379,
+                "uri": "https://sedra.bethmardutho.org/api/word/25379.json"
+            },
+            {
+                "id": 25380,
+                "uri": "https://sedra.bethmardutho.org/api/word/25380.json"
+            },
+            {
+                "id": 7905,
+                "uri": "https://sedra.bethmardutho.org/api/word/7905.json"
+            },
+            {
+                "id": 8565,
+                "uri": "https://sedra.bethmardutho.org/api/word/8565.json"
+            },
+            {
+                "id": 8533,
+                "uri": "https://sedra.bethmardutho.org/api/word/8533.json"
+            },
+            {
+                "id": 8560,
+                "uri": "https://sedra.bethmardutho.org/api/word/8560.json"
+            },
+            {
+                "id": 8593,
+                "uri": "https://sedra.bethmardutho.org/api/word/8593.json"
+            },
+            {
+                "id": 8563,
+                "uri": "https://sedra.bethmardutho.org/api/word/8563.json"
+            },
+            {
+                "id": 8566,
+                "uri": "https://sedra.bethmardutho.org/api/word/8566.json"
+            },
+            {
+                "id": 8567,
+                "uri": "https://sedra.bethmardutho.org/api/word/8567.json"
+            },
+            {
+                "id": 8569,
+                "uri": "https://sedra.bethmardutho.org/api/word/8569.json"
+            },
+            {
+                "id": 8574,
+                "uri": "https://sedra.bethmardutho.org/api/word/8574.json"
+            },
+            {
+                "id": 8576,
+                "uri": "https://sedra.bethmardutho.org/api/word/8576.json"
+            },
+            {
+                "id": 8577,
+                "uri": "https://sedra.bethmardutho.org/api/word/8577.json"
+            },
+            {
+                "id": 8578,
+                "uri": "https://sedra.bethmardutho.org/api/word/8578.json"
+            },
+            {
+                "id": 8580,
+                "uri": "https://sedra.bethmardutho.org/api/word/8580.json"
+            },
+            {
+                "id": 8581,
+                "uri": "https://sedra.bethmardutho.org/api/word/8581.json"
+            },
+            {
+                "id": 8582,
+                "uri": "https://sedra.bethmardutho.org/api/word/8582.json"
+            },
+            {
+                "id": 8584,
+                "uri": "https://sedra.bethmardutho.org/api/word/8584.json"
+            },
+            {
+                "id": 8585,
+                "uri": "https://sedra.bethmardutho.org/api/word/8585.json"
+            },
+            {
+                "id": 8586,
+                "uri": "https://sedra.bethmardutho.org/api/word/8586.json"
+            },
+            {
+                "id": 8587,
+                "uri": "https://sedra.bethmardutho.org/api/word/8587.json"
+            },
+            {
+                "id": 8588,
+                "uri": "https://sedra.bethmardutho.org/api/word/8588.json"
+            },
+            {
+                "id": 8589,
+                "uri": "https://sedra.bethmardutho.org/api/word/8589.json"
+            },
+            {
+                "id": 8594,
+                "uri": "https://sedra.bethmardutho.org/api/word/8594.json"
+            },
+            {
+                "id": 8597,
+                "uri": "https://sedra.bethmardutho.org/api/word/8597.json"
+            },
+            {
+                "id": 8598,
+                "uri": "https://sedra.bethmardutho.org/api/word/8598.json"
+            },
+            {
+                "id": 8600,
+                "uri": "https://sedra.bethmardutho.org/api/word/8600.json"
+            },
+            {
+                "id": 8601,
+                "uri": "https://sedra.bethmardutho.org/api/word/8601.json"
+            },
+            {
+                "id": 8602,
+                "uri": "https://sedra.bethmardutho.org/api/word/8602.json"
+            },
+            {
+                "id": 8603,
+                "uri": "https://sedra.bethmardutho.org/api/word/8603.json"
+            },
+            {
+                "id": 8604,
+                "uri": "https://sedra.bethmardutho.org/api/word/8604.json"
+            },
+            {
+                "id": 8605,
+                "uri": "https://sedra.bethmardutho.org/api/word/8605.json"
+            },
+            {
+                "id": 8607,
+                "uri": "https://sedra.bethmardutho.org/api/word/8607.json"
+            },
+            {
+                "id": 8608,
+                "uri": "https://sedra.bethmardutho.org/api/word/8608.json"
+            },
+            {
+                "id": 8609,
+                "uri": "https://sedra.bethmardutho.org/api/word/8609.json"
+            },
+            {
+                "id": 8610,
+                "uri": "https://sedra.bethmardutho.org/api/word/8610.json"
+            },
+            {
+                "id": 8611,
+                "uri": "https://sedra.bethmardutho.org/api/word/8611.json"
+            },
+            {
+                "id": 8612,
+                "uri": "https://sedra.bethmardutho.org/api/word/8612.json"
+            },
+            {
+                "id": 8613,
+                "uri": "https://sedra.bethmardutho.org/api/word/8613.json"
+            },
+            {
+                "id": 8614,
+                "uri": "https://sedra.bethmardutho.org/api/word/8614.json"
+            },
+            {
+                "id": 8615,
+                "uri": "https://sedra.bethmardutho.org/api/word/8615.json"
+            },
+            {
+                "id": 8616,
+                "uri": "https://sedra.bethmardutho.org/api/word/8616.json"
+            },
+            {
+                "id": 8644,
+                "uri": "https://sedra.bethmardutho.org/api/word/8644.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

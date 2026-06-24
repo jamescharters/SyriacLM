@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0726",
+        "western": "\u0713\u072a\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15604,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15604.json"
+        },
+        "stem": "\u0713\u072a\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u0641",
+                "\u0643\u0646\u0633",
+                "\u062c\u0631\u0641",
+                "\u063a\u0645\u0631",
+                "\u0647\u0632",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to overflow, overwhelm",
+                "Ip to be carried off, away",
+                "to draw water",
+                "to wipe clean",
+                "to wash away",
+                "to carry off",
+                "IIIa tooverwhelm."
+            ],
+            "fre": [
+                "\u00a0",
+                "puiser",
+                "secouer",
+                "balayer",
+                "emporter",
+                "inonder"
+            ]
+        },
+        "word": {
+            "id": 41233,
+            "uri": "https://sedra.bethmardutho.org/api/word/41233.json"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0715\u0712\u0713\u0720\u071d\u0710",
+        "western": "\u0715\u0741\u0730\u0712\u0742\u0713\u0742\u0736\u0720\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 566,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/566.json"
+        },
+        "stem": "\u0713\u0720\u071d\u0710",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "openly",
+                "declaring openly",
+                "<span class=\"selectableFont\">\u0712\u0713\u0736\u0720\u071d\u0733\u0710</span> openly, in public."
+            ]
+        },
+        "word": {
+            "id": 3696,
+            "uri": "https://sedra.bethmardutho.org/api/word/3696.json"
+        }
+    }
+]

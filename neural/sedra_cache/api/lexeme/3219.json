@@ -1,0 +1,71 @@
+[
+    {
+        "lexeme": {
+            "id": 3219,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3219.json"
+        },
+        "syriac": "\u072b\u0720\u071d\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062a\u0633\u0644\u0637, \u0645\u062f\u064a\u0631, \u0627\u0644\u062e.",
+                "\u0645\u0633\u0645\u0648\u062d",
+                "\u0642\u0627\u0636, \u062d\u0627\u0643\u0645",
+                "\u0623\u0648\u0644 \u0627\u0644\u0634\u064a\u0627\u0637\u064a\u0646"
+            ],
+            "French": [
+                "ayant pouvoir, gouverneur",
+                "permis",
+                "magistrat, pr\u00e9fet",
+                "prince (des d\u00e9mons)"
+            ],
+            "English": [
+                "lawful",
+                "permitted",
+                "magistrates",
+                "rulers",
+                "ruler, governor."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1875,
+            "uri": "https://sedra.bethmardutho.org/api/root/1875.json"
+        },
+        "words": [
+            {
+                "id": 21134,
+                "uri": "https://sedra.bethmardutho.org/api/word/21134.json"
+            },
+            {
+                "id": 21132,
+                "uri": "https://sedra.bethmardutho.org/api/word/21132.json"
+            },
+            {
+                "id": 21130,
+                "uri": "https://sedra.bethmardutho.org/api/word/21130.json"
+            },
+            {
+                "id": 21139,
+                "uri": "https://sedra.bethmardutho.org/api/word/21139.json"
+            },
+            {
+                "id": 21138,
+                "uri": "https://sedra.bethmardutho.org/api/word/21138.json"
+            },
+            {
+                "id": 21137,
+                "uri": "https://sedra.bethmardutho.org/api/word/21137.json"
+            },
+            {
+                "id": 21136,
+                "uri": "https://sedra.bethmardutho.org/api/word/21136.json"
+            },
+            {
+                "id": 42247,
+                "uri": "https://sedra.bethmardutho.org/api/word/42247.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3228,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3228.json"
+        },
+        "syriac": "\u072b\u0720\u0721\u0710",
+        "glosses": {
+            "English": [
+                "whole",
+                "entire",
+                "perfect",
+                "complete, entire."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1879,
+            "uri": "https://sedra.bethmardutho.org/api/root/1879.json"
+        },
+        "words": [
+            {
+                "id": 21270,
+                "uri": "https://sedra.bethmardutho.org/api/word/21270.json"
+            },
+            {
+                "id": 21094,
+                "uri": "https://sedra.bethmardutho.org/api/word/21094.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

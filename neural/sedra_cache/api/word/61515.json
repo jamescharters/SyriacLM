@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u071b\u072a\u0721\u0718\u0723\u0710",
+        "western": "\u071b\u0730\u072a\u0721\u073d\u0718\u0723\u0733\u0710",
+        "lexeme": {
+            "id": 35160,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/35160.json"
+        },
+        "stem": "\u071b\u072a\u0721\u0718\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "ash-baked bread"
+            ],
+            "lat": [
+                "panis in cinere coctus"
+            ]
+        },
+        "word": {
+            "id": 61515,
+            "uri": "https://sedra.bethmardutho.org/api/word/61515.json"
+        }
+    }
+]

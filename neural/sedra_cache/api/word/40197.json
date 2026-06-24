@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0728\u0721\u072c",
+        "western": "\u0728\u0721\u0730\u072c",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15738,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15738.json"
+        },
+        "stem": "\u0728\u0721\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to be long silent."
+            ]
+        },
+        "word": {
+            "id": 40197,
+            "uri": "https://sedra.bethmardutho.org/api/word/40197.json"
+        }
+    }
+]

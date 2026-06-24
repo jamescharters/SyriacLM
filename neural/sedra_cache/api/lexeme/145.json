@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 145,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/145.json"
+        },
+        "syriac": "\u0710\u0720\u071f\u0723\u0722\u0715\u072a\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Alexander"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 110,
+            "uri": "https://sedra.bethmardutho.org/api/root/110.json"
+        },
+        "words": [
+            {
+                "id": 968,
+                "uri": "https://sedra.bethmardutho.org/api/word/968.json"
+            },
+            {
+                "id": 971,
+                "uri": "https://sedra.bethmardutho.org/api/word/971.json"
+            },
+            {
+                "id": 970,
+                "uri": "https://sedra.bethmardutho.org/api/word/970.json"
+            },
+            {
+                "id": 969,
+                "uri": "https://sedra.bethmardutho.org/api/word/969.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

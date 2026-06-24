@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2191,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2191.json"
+        },
+        "syriac": "\u0723\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0633\u062d"
+            ],
+            "French": [
+                "sac"
+            ],
+            "English": [
+                "sackcloth",
+                "sackcloth",
+                "sack, bag."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1309,
+            "uri": "https://sedra.bethmardutho.org/api/root/1309.json"
+        },
+        "words": [
+            {
+                "id": 14561,
+                "uri": "https://sedra.bethmardutho.org/api/word/14561.json"
+            },
+            {
+                "id": 14563,
+                "uri": "https://sedra.bethmardutho.org/api/word/14563.json"
+            },
+            {
+                "id": 14562,
+                "uri": "https://sedra.bethmardutho.org/api/word/14562.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

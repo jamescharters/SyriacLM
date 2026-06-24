@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15263,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15263.json"
+        },
+        "syriac": "\u0719\u0720\u0729",
+        "glosses": {
+            "English": [
+                "IIIp.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0719\u0720\u0736\u0729</span> to shine brightly, dazzle"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2874,
+            "uri": "https://sedra.bethmardutho.org/api/root/2874.json"
+        },
+        "words": [
+            {
+                "id": 41203,
+                "uri": "https://sedra.bethmardutho.org/api/word/41203.json"
+            },
+            {
+                "id": 40395,
+                "uri": "https://sedra.bethmardutho.org/api/word/40395.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

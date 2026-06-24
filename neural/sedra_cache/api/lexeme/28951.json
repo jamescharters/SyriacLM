@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28951,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28951.json"
+        },
+        "syriac": "\u0710\u071d\u0720\u071d\u0718\u0723\u071b\u071d\u071b\u0710\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f25\u03bb\u03b9\u03bf\u03c2 \u03c4\u03b9\u03c4\u03ac\u03bd"
+            ],
+            "English": [
+                "Sun the Titan"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03a4\u03b9\u03c4\u03ac\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 49430,
+                "uri": "https://sedra.bethmardutho.org/api/word/49430.json"
+            },
+            {
+                "id": 55325,
+                "uri": "https://sedra.bethmardutho.org/api/word/55325.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

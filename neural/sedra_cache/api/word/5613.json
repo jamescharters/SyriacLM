@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0719\u0718\u0719\u071d\u0722",
+        "western": "\u0719\u073d\u0718\u0719\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 864,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/864.json"
+        },
+        "stem": "\u0719\u0718\u0719\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0631\u0647\u0645, \u062f\u064a\u0646\u0627\u0631"
+            ],
+            "eng": [
+                "coin",
+                "drachma",
+                "<span class=\"selectableFont\">\u0719\u073d\u0718\u0308\u0719\u0736\u0710</span> money.",
+                "coin (of low value)"
+            ],
+            "fre": [
+                "drachme"
+            ]
+        },
+        "word": {
+            "id": 5613,
+            "uri": "https://sedra.bethmardutho.org/api/word/5613.json"
+        }
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2101,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2101.json"
+        },
+        "syriac": "\u0723\u0718\u072a\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "]\u0633\u0648\u0631\u064a\u0629["
+            ],
+            "French": [
+                "Syrie\u2026"
+            ],
+            "English": [
+                "Syria"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1256,
+            "uri": "https://sedra.bethmardutho.org/api/root/1256.json"
+        },
+        "words": [
+            {
+                "id": 13962,
+                "uri": "https://sedra.bethmardutho.org/api/word/13962.json"
+            },
+            {
+                "id": 13961,
+                "uri": "https://sedra.bethmardutho.org/api/word/13961.json"
+            },
+            {
+                "id": 13960,
+                "uri": "https://sedra.bethmardutho.org/api/word/13960.json"
+            },
+            {
+                "id": 13959,
+                "uri": "https://sedra.bethmardutho.org/api/word/13959.json"
+            },
+            {
+                "id": 13963,
+                "uri": "https://sedra.bethmardutho.org/api/word/13963.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

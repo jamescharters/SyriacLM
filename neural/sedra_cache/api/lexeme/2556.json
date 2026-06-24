@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 2556,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2556.json"
+        },
+        "syriac": "\u0726\u0725\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0627\u0645\u0644",
+                "\u0645\u0628\u062f\u0639",
+                "\u0645\u0633\u0627\u0639\u062f"
+            ],
+            "French": [
+                "ouvrier",
+                "auteur",
+                "aide (m.)"
+            ],
+            "English": [
+                "labourer",
+                "worker",
+                "laborer, worker."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1515,
+            "uri": "https://sedra.bethmardutho.org/api/root/1515.json"
+        },
+        "words": [
+            {
+                "id": 16668,
+                "uri": "https://sedra.bethmardutho.org/api/word/16668.json"
+            },
+            {
+                "id": 16667,
+                "uri": "https://sedra.bethmardutho.org/api/word/16667.json"
+            },
+            {
+                "id": 16670,
+                "uri": "https://sedra.bethmardutho.org/api/word/16670.json"
+            },
+            {
+                "id": 16669,
+                "uri": "https://sedra.bethmardutho.org/api/word/16669.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2224,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2224.json"
+        },
+        "syriac": "\u0725\u0712\u0715\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "slavery",
+                "service",
+                "bondage",
+                "servitude",
+                "service."
+            ],
+            "Arabic": [
+                "\u062e\u062f\u0645\u0629",
+                "\u0639\u0628\u0627\u062f\u0629"
+            ],
+            "French": [
+                "service",
+                "culte"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1328,
+            "uri": "https://sedra.bethmardutho.org/api/root/1328.json"
+        },
+        "words": [
+            {
+                "id": 14875,
+                "uri": "https://sedra.bethmardutho.org/api/word/14875.json"
+            },
+            {
+                "id": 14874,
+                "uri": "https://sedra.bethmardutho.org/api/word/14874.json"
+            },
+            {
+                "id": 14876,
+                "uri": "https://sedra.bethmardutho.org/api/word/14876.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

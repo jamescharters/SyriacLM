@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 3540,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3540.json"
+        },
+        "syriac": "\u0721\u0723\u072a\u0717\u0712\u0710",
+        "glosses": {
+            "English": [
+                "hasty"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1733,
+            "uri": "https://sedra.bethmardutho.org/api/root/1733.json"
+        },
+        "words": [
+            {
+                "id": 19264,
+                "uri": "https://sedra.bethmardutho.org/api/word/19264.json"
+            },
+            {
+                "id": 19263,
+                "uri": "https://sedra.bethmardutho.org/api/word/19263.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "saph\u02bfel"
+    }
+]

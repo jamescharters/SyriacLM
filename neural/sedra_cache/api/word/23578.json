@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0712\u0725\u071d\u0722",
+        "western": "\u0721\u0736\u072c\u0742\u0712\u0741\u0725\u0736\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethp\u02bfel",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 425,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/425.json"
+        },
+        "stem": "\u0712\u0725\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062a\u0634, \u0628\u062d\u062b \u0639\u0646, \u0631\u063a\u0628 \u0641\u064a, \u0627\u062d\u062a\u0627\u062c \u0625\u0644\u0649",
+                "\u0648\u062c\u0628",
+                "\u0623\u0644\u0632\u0645, \u0623\u0648\u062c\u0628"
+            ],
+            "eng": [
+                "question",
+                "require",
+                "Ia seek, desire, beseech",
+                "seek for",
+                "Ip to be necessary, required.",
+                "inquire into"
+            ],
+            "fre": [
+                "\u00eatre n\u00e9cessaire",
+                "rendre n\u00e9cessaire, exiger",
+                "chercher, rechercher, d\u00e9sirer, avoir besoin de"
+            ]
+        },
+        "word": {
+            "id": 23578,
+            "uri": "https://sedra.bethmardutho.org/api/word/23578.json"
+        }
+    }
+]

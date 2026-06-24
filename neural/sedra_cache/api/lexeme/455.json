@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 455,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/455.json"
+        },
+        "syriac": "\u0712\u072a \u071d\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "Bar-jona",
+                "Jonas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 308,
+            "uri": "https://sedra.bethmardutho.org/api/root/308.json"
+        },
+        "words": [
+            {
+                "id": 3152,
+                "uri": "https://sedra.bethmardutho.org/api/word/3152.json"
+            },
+            {
+                "id": 3153,
+                "uri": "https://sedra.bethmardutho.org/api/word/3153.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u0725\u071b\u0725",
+        "western": "\u071b\u0730\u0725\u071b\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14920,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14920.json"
+        },
+        "stem": "\u071b\u0725\u071b\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to bubble up, to swell."
+            ]
+        },
+        "word": {
+            "id": 40639,
+            "uri": "https://sedra.bethmardutho.org/api/word/40639.json"
+        }
+    }
+]

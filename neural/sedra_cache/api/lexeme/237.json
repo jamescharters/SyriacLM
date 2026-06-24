@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 237,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/237.json"
+        },
+        "syriac": "\u0721\u0710\u0723\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0628\u0637",
+                "\u0639\u0635\u0628"
+            ],
+            "French": [
+                "lien",
+                "nerf"
+            ],
+            "English": [
+                "bundle",
+                "bundle, handful."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 176,
+            "uri": "https://sedra.bethmardutho.org/api/root/176.json"
+        },
+        "words": [
+            {
+                "id": 1710,
+                "uri": "https://sedra.bethmardutho.org/api/word/1710.json"
+            },
+            {
+                "id": 1709,
+                "uri": "https://sedra.bethmardutho.org/api/word/1709.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

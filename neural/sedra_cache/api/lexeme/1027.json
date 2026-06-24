@@ -1,0 +1,100 @@
+[
+    {
+        "lexeme": {
+            "id": 1027,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1027.json"
+        },
+        "syriac": "\u071a\u071f\u071d\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0643\u064a\u0645",
+                "\u0639\u0627\u0644\u0645",
+                "\u0645\u0627\u0647\u0631",
+                "\u0633\u0627\u062d\u0631"
+            ],
+            "French": [
+                "sage",
+                "savant",
+                "habile",
+                "magicien"
+            ],
+            "English": [
+                "wise",
+                "prudent",
+                "cunning",
+                "wise, sage, sensible",
+                "clever, crafty.",
+                "learned"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 623,
+            "uri": "https://sedra.bethmardutho.org/api/root/623.json"
+        },
+        "words": [
+            {
+                "id": 7028,
+                "uri": "https://sedra.bethmardutho.org/api/word/7028.json"
+            },
+            {
+                "id": 7027,
+                "uri": "https://sedra.bethmardutho.org/api/word/7027.json"
+            },
+            {
+                "id": 7026,
+                "uri": "https://sedra.bethmardutho.org/api/word/7026.json"
+            },
+            {
+                "id": 7020,
+                "uri": "https://sedra.bethmardutho.org/api/word/7020.json"
+            },
+            {
+                "id": 7019,
+                "uri": "https://sedra.bethmardutho.org/api/word/7019.json"
+            },
+            {
+                "id": 7018,
+                "uri": "https://sedra.bethmardutho.org/api/word/7018.json"
+            },
+            {
+                "id": 7017,
+                "uri": "https://sedra.bethmardutho.org/api/word/7017.json"
+            },
+            {
+                "id": 7016,
+                "uri": "https://sedra.bethmardutho.org/api/word/7016.json"
+            },
+            {
+                "id": 7015,
+                "uri": "https://sedra.bethmardutho.org/api/word/7015.json"
+            },
+            {
+                "id": 7029,
+                "uri": "https://sedra.bethmardutho.org/api/word/7029.json"
+            },
+            {
+                "id": 7025,
+                "uri": "https://sedra.bethmardutho.org/api/word/7025.json"
+            },
+            {
+                "id": 7024,
+                "uri": "https://sedra.bethmardutho.org/api/word/7024.json"
+            },
+            {
+                "id": 7023,
+                "uri": "https://sedra.bethmardutho.org/api/word/7023.json"
+            },
+            {
+                "id": 7022,
+                "uri": "https://sedra.bethmardutho.org/api/word/7022.json"
+            },
+            {
+                "id": 7021,
+                "uri": "https://sedra.bethmardutho.org/api/word/7021.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

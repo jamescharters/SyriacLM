@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u0721",
+        "western": "\u0710\u0730\u0718\u072a\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15347,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15347.json"
+        },
+        "stem": "\u071d\u072a\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u072a\u0736\u0721</span> to raise up."
+            ]
+        },
+        "word": {
+            "id": 40043,
+            "uri": "https://sedra.bethmardutho.org/api/word/40043.json"
+        }
+    }
+]

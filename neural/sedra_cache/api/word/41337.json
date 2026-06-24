@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u0728\u0725",
+        "western": "\u0721\u0728\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15787,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15787.json"
+        },
+        "stem": "\u0721\u0728\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0648\u0633\u0637"
+            ],
+            "eng": [
+                "Ia to be in the middle",
+                "IIa to come between, interpose, mediate, stand in the middle",
+                "IIp to intervene, to act as mediator",
+                "IIIa to mediate."
+            ],
+            "fre": [
+                "\u00eatre au milieu"
+            ]
+        },
+        "word": {
+            "id": 41337,
+            "uri": "https://sedra.bethmardutho.org/api/word/41337.json"
+        }
+    }
+]

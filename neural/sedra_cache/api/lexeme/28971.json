@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28971,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28971.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u071b\u071b\u0718\u0723\u0710\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f20\u03bb\u03ac\u03c4\u03c4\u03c9\u03c3\u03b1"
+            ],
+            "English": [
+                "I reduced, diminished"
+            ],
+            "Latin": [
+                "imminui"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f10\u03bb\u03b1\u03c3\u03c3\u03cc\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 49464,
+                "uri": "https://sedra.bethmardutho.org/api/word/49464.json"
+            },
+            {
+                "id": 55345,
+                "uri": "https://sedra.bethmardutho.org/api/word/55345.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

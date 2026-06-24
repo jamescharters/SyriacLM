@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0721\u0713\u0718\u072b",
+        "western": "\u0722\u0736\u0721\u0713\u073d\u0718\u072b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15810,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15810.json"
+        },
+        "stem": "\u0721\u0713\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0644\u0649 \u0643\u0627\u0644\u0645\u062c\u0648\u0633"
+            ],
+            "eng": [
+                "IIa to celebrate Zoroastrian rites",
+                "to mutter",
+                "to practice magic",
+                "Ia to profess Zoroastrianism",
+                "IIp to become a fire-worshipper."
+            ],
+            "fre": [
+                "prier comme les mages"
+            ]
+        },
+        "word": {
+            "id": 42095,
+            "uri": "https://sedra.bethmardutho.org/api/word/42095.json"
+        }
+    }
+]

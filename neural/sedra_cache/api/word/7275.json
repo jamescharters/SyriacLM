@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072c\u071a\u0722\u0722\u072c\u0710",
+        "western": "\u072c\u0741\u0730\u071a\u0722\u0730\u0722\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1085,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1085.json"
+        },
+        "stem": "\u072c\u071a\u0722\u0722\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0648\u0633\u0644"
+            ],
+            "eng": [
+                "intercession",
+                "supplication, intercession."
+            ],
+            "fre": [
+                "supplication"
+            ]
+        },
+        "word": {
+            "id": 7275,
+            "uri": "https://sedra.bethmardutho.org/api/word/7275.json"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0718\u0720\u0725\u0718\u071d\u072a\u0710",
+        "western": "\u0718\u0720\u0730\u0725\u0718\u073a\u071d\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2282,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2282.json"
+        },
+        "stem": "\u0725\u0718\u071d\u072a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "blind"
+            ]
+        },
+        "word": {
+            "id": 15194,
+            "uri": "https://sedra.bethmardutho.org/api/word/15194.json"
+        }
+    }
+]

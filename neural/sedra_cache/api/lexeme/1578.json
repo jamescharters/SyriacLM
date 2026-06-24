@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1578,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1578.json"
+        },
+        "syriac": "\u071f\u072a\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u062b",
+                "\u00a0"
+            ],
+            "French": [
+                "labourer",
+                "\u00a0"
+            ],
+            "English": [
+                "plough",
+                "Ia, IIa to plough",
+                "Ip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 927,
+            "uri": "https://sedra.bethmardutho.org/api/root/927.json"
+        },
+        "words": [
+            {
+                "id": 10383,
+                "uri": "https://sedra.bethmardutho.org/api/word/10383.json"
+            },
+            {
+                "id": 10385,
+                "uri": "https://sedra.bethmardutho.org/api/word/10385.json"
+            },
+            {
+                "id": 10384,
+                "uri": "https://sedra.bethmardutho.org/api/word/10384.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

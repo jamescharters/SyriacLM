@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15552,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15552.json"
+        },
+        "syriac": "\u0721\u0720\u072b",
+        "glosses": {
+            "English": [
+                "to pluck (feathers)",
+                "Ia to peel",
+                "Ip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3173,
+            "uri": "https://sedra.bethmardutho.org/api/root/3173.json"
+        },
+        "words": [
+            {
+                "id": 41683,
+                "uri": "https://sedra.bethmardutho.org/api/word/41683.json"
+            },
+            {
+                "id": 41262,
+                "uri": "https://sedra.bethmardutho.org/api/word/41262.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

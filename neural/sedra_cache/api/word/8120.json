@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071b\u0720\u0720\u071d",
+        "western": "\u0721\u0730\u071b\u0720\u0730\u0720\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 5743,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5743.json"
+        },
+        "stem": "\u0721\u071b\u0720\u0720\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "shelter",
+                "roof, shelter, hut."
+            ]
+        },
+        "word": {
+            "id": 8120,
+            "uri": "https://sedra.bethmardutho.org/api/word/8120.json"
+        }
+    }
+]

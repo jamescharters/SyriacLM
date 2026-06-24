@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 20271,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20271.json"
+        },
+        "syriac": "\u0710\u0713\u0710\u0710",
+        "glosses": {
+            "Latin": [
+                "terra"
+            ],
+            "Greek": [
+                "\u03b3\u03ad\u03b1, \u03b3\u1fc6"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b3\u1fc6"
+            ]
+        },
+        "words": [
+            {
+                "id": 48303,
+                "uri": "https://sedra.bethmardutho.org/api/word/48303.json"
+            },
+            {
+                "id": 46645,
+                "uri": "https://sedra.bethmardutho.org/api/word/46645.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

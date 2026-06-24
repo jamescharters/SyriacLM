@@ -1,0 +1,81 @@
+[
+    {
+        "lexeme": {
+            "id": 2529,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2529.json"
+        },
+        "syriac": "\u0726\u0720\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0627\u062f\u0645,\u0639\u0627\u0645\u0644, \u0645\u062f\u0628\u0631",
+                "\u062c\u0646\u062f\u064a",
+                "\u0639\u0627\u0645\u0644, \u0641\u0644\u0627\u062d"
+            ],
+            "French": [
+                "serviteur, agent, ministre",
+                "soldat",
+                "ouvrier, paysan"
+            ],
+            "English": [
+                "servant",
+                "worshipper",
+                "soldier",
+                "soldier.",
+                "attendant",
+                "worshipper"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1499,
+            "uri": "https://sedra.bethmardutho.org/api/root/1499.json"
+        },
+        "words": [
+            {
+                "id": 26144,
+                "uri": "https://sedra.bethmardutho.org/api/word/26144.json"
+            },
+            {
+                "id": 26143,
+                "uri": "https://sedra.bethmardutho.org/api/word/26143.json"
+            },
+            {
+                "id": 16525,
+                "uri": "https://sedra.bethmardutho.org/api/word/16525.json"
+            },
+            {
+                "id": 16527,
+                "uri": "https://sedra.bethmardutho.org/api/word/16527.json"
+            },
+            {
+                "id": 16528,
+                "uri": "https://sedra.bethmardutho.org/api/word/16528.json"
+            },
+            {
+                "id": 16532,
+                "uri": "https://sedra.bethmardutho.org/api/word/16532.json"
+            },
+            {
+                "id": 16530,
+                "uri": "https://sedra.bethmardutho.org/api/word/16530.json"
+            },
+            {
+                "id": 16529,
+                "uri": "https://sedra.bethmardutho.org/api/word/16529.json"
+            },
+            {
+                "id": 16526,
+                "uri": "https://sedra.bethmardutho.org/api/word/16526.json"
+            },
+            {
+                "id": 16524,
+                "uri": "https://sedra.bethmardutho.org/api/word/16524.json"
+            },
+            {
+                "id": 16531,
+                "uri": "https://sedra.bethmardutho.org/api/word/16531.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

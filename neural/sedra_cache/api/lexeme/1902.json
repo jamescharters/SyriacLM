@@ -1,0 +1,80 @@
+[
+    {
+        "lexeme": {
+            "id": 1902,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1902.json"
+        },
+        "syriac": "\u0722\u0713\u0717",
+        "glosses": {
+            "English": [
+                "IIIa to shine out",
+                "dawn",
+                "spend the night",
+                "to wait for dawn.",
+                "Ia to dawn, to become daylight"
+            ],
+            "Arabic": [
+                "\u0623\u0635\u0628\u062d"
+            ],
+            "French": [
+                "faire jour"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1137,
+            "uri": "https://sedra.bethmardutho.org/api/root/1137.json"
+        },
+        "words": [
+            {
+                "id": 26431,
+                "uri": "https://sedra.bethmardutho.org/api/word/26431.json"
+            },
+            {
+                "id": 26430,
+                "uri": "https://sedra.bethmardutho.org/api/word/26430.json"
+            },
+            {
+                "id": 12487,
+                "uri": "https://sedra.bethmardutho.org/api/word/12487.json"
+            },
+            {
+                "id": 12485,
+                "uri": "https://sedra.bethmardutho.org/api/word/12485.json"
+            },
+            {
+                "id": 26434,
+                "uri": "https://sedra.bethmardutho.org/api/word/26434.json"
+            },
+            {
+                "id": 26433,
+                "uri": "https://sedra.bethmardutho.org/api/word/26433.json"
+            },
+            {
+                "id": 26432,
+                "uri": "https://sedra.bethmardutho.org/api/word/26432.json"
+            },
+            {
+                "id": 26435,
+                "uri": "https://sedra.bethmardutho.org/api/word/26435.json"
+            },
+            {
+                "id": 12489,
+                "uri": "https://sedra.bethmardutho.org/api/word/12489.json"
+            },
+            {
+                "id": 12488,
+                "uri": "https://sedra.bethmardutho.org/api/word/12488.json"
+            },
+            {
+                "id": 12486,
+                "uri": "https://sedra.bethmardutho.org/api/word/12486.json"
+            },
+            {
+                "id": 12484,
+                "uri": "https://sedra.bethmardutho.org/api/word/12484.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

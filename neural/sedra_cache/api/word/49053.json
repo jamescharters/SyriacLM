@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072b\u0729",
+        "western": "\u0710\u0730\u0718\u072b\u0736\u0729",
+        "eastern": "\u0710\u0732\u0718\u072b\u0738\u0729",
+        "lexeme": {
+            "id": 21212,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21212.json"
+        },
+        "stem": "\u0710\u0718\u072b\u0729",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "gum ammoniac",
+                "ammoniac"
+            ],
+            "grc": [
+                "\u1f00\u03bc\u03bc\u03c9\u03bd\u03b9\u03b1\u03ba\u1f79\u03bd"
+            ]
+        },
+        "word": {
+            "id": 49053,
+            "uri": "https://sedra.bethmardutho.org/api/word/49053.json"
+        }
+    }
+]

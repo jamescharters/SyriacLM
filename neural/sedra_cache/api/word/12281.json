@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0725\u072c\u0710",
+        "western": "\u0721\u0730\u072a\u0725\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1866,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1866.json"
+        },
+        "stem": "\u0721\u072a\u0725\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u064a\u0636, \u0636\u0639\u064a\u0641",
+                "\u0645\u0631\u0636"
+            ],
+            "eng": [
+                "infirm",
+                "sickly, ill, infirm.",
+                "sick",
+                "weak"
+            ],
+            "fre": [
+                "maladie",
+                "malade, faible"
+            ]
+        },
+        "word": {
+            "id": 12281,
+            "uri": "https://sedra.bethmardutho.org/api/word/12281.json"
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 3225,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3225.json"
+        },
+        "syriac": "\u0721\u072b\u0720\u0721\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0633\u0644\u064a\u0645",
+                "\u062e\u064a\u0627\u0646\u0629",
+                "\u062a\u0642\u0644\u064a\u062f",
+                "\u0637\u0628\u0639\u0629",
+                "\u062a\u0631\u062c\u0645\u0629",
+                "\u0625\u0633\u0644\u0627\u0645"
+            ],
+            "French": [
+                "remise",
+                "trahison",
+                "tradition",
+                "\u00e9dition",
+                "version",
+                "islam"
+            ],
+            "English": [
+                "betrayal.",
+                "tradition",
+                "ceding, capitulation, surrender",
+                "transmission, tradition",
+                "delivery"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1879,
+            "uri": "https://sedra.bethmardutho.org/api/root/1879.json"
+        },
+        "words": [
+            {
+                "id": 21155,
+                "uri": "https://sedra.bethmardutho.org/api/word/21155.json"
+            },
+            {
+                "id": 21156,
+                "uri": "https://sedra.bethmardutho.org/api/word/21156.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

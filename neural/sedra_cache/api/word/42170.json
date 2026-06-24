@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u072a\u071b\u0710",
+        "western": "\u0722\u0736\u072a\u071b\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15728,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15728.json"
+        },
+        "stem": "\u072a\u071b\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u062e\u0631 \u0645\u0646"
+            ],
+            "eng": [
+                "Ia, IIa to laugh at."
+            ],
+            "fre": [
+                "se moquer"
+            ]
+        },
+        "word": {
+            "id": 42170,
+            "uri": "https://sedra.bethmardutho.org/api/word/42170.json"
+        }
+    }
+]

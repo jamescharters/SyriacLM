@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071d\u0715\u0725\u071d",
+        "western": "\u071d\u0733\u0715\u0742\u0725\u0730\u071d",
+        "state": "construct",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3532,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3532.json"
+        },
+        "stem": "\u071d\u0715\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0644\u064a\u0641"
+            ],
+            "eng": [
+                "acquaintance"
+            ],
+            "fre": [
+                "familier"
+            ]
+        },
+        "word": {
+            "id": 8676,
+            "uri": "https://sedra.bethmardutho.org/api/word/8676.json"
+        }
+    }
+]

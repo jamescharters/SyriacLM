@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071d\u0710\u0710",
+        "western": "\u071d\u0733\u0710\u0736\u0710",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1289,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1289.json"
+        },
+        "stem": "\u071d\u0710\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "becoming",
+                "decorous",
+                "congruous",
+                "seemly",
+                "due"
+            ]
+        },
+        "word": {
+            "id": 8413,
+            "uri": "https://sedra.bethmardutho.org/api/word/8413.json"
+        }
+    }
+]

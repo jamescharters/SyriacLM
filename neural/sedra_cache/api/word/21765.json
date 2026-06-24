@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072b\u0726\u071d\u0710",
+        "western": "\u072b\u0726\u0742\u0733\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3288,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3288.json"
+        },
+        "stem": "\u072b\u0726\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062c\u0631 \u0639\u062b\u0631\u0629",
+                "\u0645\u062e\u0627\u0635\u0645",
+                "\u0645\u0646\u062e\u0633, \u0634\u0638\u064a\u0629, \u0634\u0648\u0643"
+            ],
+            "eng": [
+                "hindrance",
+                "thorn",
+                "offence.",
+                "thorn, splinter, stake"
+            ],
+            "fre": [
+                "pierre d&#39;achoppement",
+                "adversaire",
+                "aiguillon, \u00e9charde, \u00e9pine"
+            ]
+        },
+        "word": {
+            "id": 21765,
+            "uri": "https://sedra.bethmardutho.org/api/word/21765.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14984,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14984.json"
+        },
+        "syriac": "\u0726\u0713\u071d",
+        "glosses": {
+            "English": [
+                "PAEL to cajole, disturb, deceive",
+                "IIp to enjoy oneself.",
+                "IIa to cajole, to deceive"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2842,
+            "uri": "https://sedra.bethmardutho.org/api/root/2842.json"
+        },
+        "words": [
+            {
+                "id": 44234,
+                "uri": "https://sedra.bethmardutho.org/api/word/44234.json"
+            },
+            {
+                "id": 40506,
+                "uri": "https://sedra.bethmardutho.org/api/word/40506.json"
+            },
+            {
+                "id": 40491,
+                "uri": "https://sedra.bethmardutho.org/api/word/40491.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

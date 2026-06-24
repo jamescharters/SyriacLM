@@ -1,0 +1,16 @@
+{
+  "endpoint": "lexeme",
+  "base_url": "https://sedra.bethmardutho.org/api/lexeme",
+  "range": [
+    1,
+    39999
+  ],
+  "out_dir": "/Users/chartja/Github/syriac/neural/sedra_cache/api/lexeme",
+  "requested": 24,
+  "ok": 20,
+  "missing_this_run": 4,
+  "missing_total": 4108,
+  "error": 0,
+  "interrupted": false,
+  "elapsed_sec": 3.6
+}

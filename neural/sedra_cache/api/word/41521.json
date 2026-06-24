@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u072a",
+        "western": "\u0715\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15633,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15633.json"
+        },
+        "stem": "\u0715\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to strive",
+                "IIa <span class=\"selectableFont\">\u0715\u0730\u072a\u0730\u072a</span> to fight bravely",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0715\u0730\u072a\u0730\u072a</span> to engage in contest with.",
+                "Ia to strive with"
+            ]
+        },
+        "word": {
+            "id": 41521,
+            "uri": "https://sedra.bethmardutho.org/api/word/41521.json"
+        }
+    }
+]

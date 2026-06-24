@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2445,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2445.json"
+        },
+        "syriac": "\u0726\u0710\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0645\u062a\u0627\u0645",
+                "\u062b\u0631\u062b\u0627\u0631"
+            ],
+            "French": [
+                "b\u00e8gue",
+                "bavard"
+            ],
+            "English": [
+                "stammerer",
+                "tongue-tied, dumb."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1444,
+            "uri": "https://sedra.bethmardutho.org/api/root/1444.json"
+        },
+        "words": [
+            {
+                "id": 16129,
+                "uri": "https://sedra.bethmardutho.org/api/word/16129.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

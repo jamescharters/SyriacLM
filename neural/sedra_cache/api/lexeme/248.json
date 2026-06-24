@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 248,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/248.json"
+        },
+        "syriac": "\u0710\u0726\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Apphia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 185,
+            "uri": "https://sedra.bethmardutho.org/api/root/185.json"
+        },
+        "words": [
+            {
+                "id": 1775,
+                "uri": "https://sedra.bethmardutho.org/api/word/1775.json"
+            },
+            {
+                "id": 1776,
+                "uri": "https://sedra.bethmardutho.org/api/word/1776.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

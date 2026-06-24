@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0723\u0718\u0715",
+        "western": "\u0723\u0718\u0715",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15061,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15061.json"
+        },
+        "stem": "\u0723\u0718\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u0723\u072c\u0730\u0718\u0730\u0715</span> to converse, speak",
+                "IIIp to be said, adduced."
+            ]
+        },
+        "word": {
+            "id": 41285,
+            "uri": "https://sedra.bethmardutho.org/api/word/41285.json"
+        }
+    }
+]

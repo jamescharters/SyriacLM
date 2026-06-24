@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15743,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15743.json"
+        },
+        "syriac": "\u0729\u0721\u071a",
+        "glosses": {
+            "English": [
+                "Ia to grind flour."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2069,
+            "uri": "https://sedra.bethmardutho.org/api/root/2069.json"
+        },
+        "words": [
+            {
+                "id": 42062,
+                "uri": "https://sedra.bethmardutho.org/api/word/42062.json"
+            },
+            {
+                "id": 40532,
+                "uri": "https://sedra.bethmardutho.org/api/word/40532.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0719\u072a\u0713",
+        "western": "\u0719\u072a\u0730\u0713",
+        "lexeme": {
+            "id": 19001,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19001.json"
+        },
+        "stem": "\u0719\u072a\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0644\u0623\u0644\u0623"
+            ],
+            "eng": [
+                "be red with wine",
+                "to glisten"
+            ],
+            "fre": [
+                "resplendir"
+            ]
+        },
+        "word": {
+            "id": 45375,
+            "uri": "https://sedra.bethmardutho.org/api/word/45375.json"
+        }
+    }
+]

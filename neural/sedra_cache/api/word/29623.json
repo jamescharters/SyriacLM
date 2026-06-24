@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0718\u0715\u072a\u0710",
+        "western": "\u0718\u0715\u0742\u0733\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 749,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/749.json"
+        },
+        "stem": "\u0715\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0644\u0646\u0627\u0633",
+                "\u0628\u0627\u062d\u0629, \u062f\u0627\u0631",
+                "\u0639\u0635\u0631, \u0642\u0631\u0646, \u062c\u064a\u0644"
+            ],
+            "eng": [
+                "revolution (of year)",
+                "Kth. century.",
+                "generation",
+                "generation"
+            ],
+            "fre": [
+                "les hommes",
+                "\u00e2ge , si\u00e8cle , g\u00e9n\u00e9ration",
+                "atrium , cour"
+            ]
+        },
+        "word": {
+            "id": 29623,
+            "uri": "https://sedra.bethmardutho.org/api/word/29623.json"
+        }
+    }
+]

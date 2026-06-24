@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 27044,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27044.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0718\u0723 \u0717\u0720\u0720\u0717\u0712\u0718\u072a\u071d\u071b\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f36\u03bd\u03bf\u03c2 \u1f11\u03bb\u03bb\u03b5\u03b2\u03bf\u03c1\u03af\u03c4\u03b7\u03c2"
+            ],
+            "English": [
+                "wine flavored with hellebore"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f11\u03bb\u03bb\u03b5\u03b2\u03bf\u03c1\u03af\u03c4\u03b7\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48850,
+                "uri": "https://sedra.bethmardutho.org/api/word/48850.json"
+            },
+            {
+                "id": 53418,
+                "uri": "https://sedra.bethmardutho.org/api/word/53418.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

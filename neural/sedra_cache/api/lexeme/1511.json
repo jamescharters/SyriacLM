@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 1511,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1511.json"
+        },
+        "syriac": "\u071f\u071d\u0720",
+        "glosses": {
+            "English": [
+                "measure",
+                "IIIp.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u073a\u071d\u0720</span> to measure"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 894,
+            "uri": "https://sedra.bethmardutho.org/api/root/894.json"
+        },
+        "words": [
+            {
+                "id": 25721,
+                "uri": "https://sedra.bethmardutho.org/api/word/25721.json"
+            },
+            {
+                "id": 25720,
+                "uri": "https://sedra.bethmardutho.org/api/word/25720.json"
+            },
+            {
+                "id": 9900,
+                "uri": "https://sedra.bethmardutho.org/api/word/9900.json"
+            },
+            {
+                "id": 25725,
+                "uri": "https://sedra.bethmardutho.org/api/word/25725.json"
+            },
+            {
+                "id": 25724,
+                "uri": "https://sedra.bethmardutho.org/api/word/25724.json"
+            },
+            {
+                "id": 25723,
+                "uri": "https://sedra.bethmardutho.org/api/word/25723.json"
+            },
+            {
+                "id": 25722,
+                "uri": "https://sedra.bethmardutho.org/api/word/25722.json"
+            },
+            {
+                "id": 9903,
+                "uri": "https://sedra.bethmardutho.org/api/word/9903.json"
+            },
+            {
+                "id": 9902,
+                "uri": "https://sedra.bethmardutho.org/api/word/9902.json"
+            },
+            {
+                "id": 9901,
+                "uri": "https://sedra.bethmardutho.org/api/word/9901.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0713\u0718\u0723\u071b\u0718\u0723",
+        "western": "\u0710\u0730\u0713\u0718\u073d\u0723\u071b\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 20971,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20971.json"
+        },
+        "stem": "\u0710\u0713\u0718\u0723\u071b\u0718\u0723",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u0391\u1f54\u03b3\u03bf\u03c5\u03c3\u03c4\u03bf\u03c2"
+            ],
+            "lat": [
+                "Augustus"
+            ]
+        },
+        "word": {
+            "id": 47345,
+            "uri": "https://sedra.bethmardutho.org/api/word/47345.json"
+        }
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072a\u0726\u071a",
+        "western": "\u072a\u0726\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15555,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15555.json"
+        },
+        "stem": "\u072a\u0726\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0646\u062a\u0641\u062e",
+                "\u0639\u0641\u0646"
+            ],
+            "eng": [
+                "Ip to be distended",
+                "IIa to crack (of earth).",
+                "Ia to swell",
+                "to rot."
+            ],
+            "fre": [
+                "pourrir",
+                "enfler (intr.)"
+            ]
+        },
+        "word": {
+            "id": 41076,
+            "uri": "https://sedra.bethmardutho.org/api/word/41076.json"
+        }
+    }
+]

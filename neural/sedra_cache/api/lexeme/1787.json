@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1787,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1787.json"
+        },
+        "syriac": "\u0721\u0720\u071f\u0718\u0721",
+        "glosses": {
+            "English": [
+                "Moloch"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1066,
+            "uri": "https://sedra.bethmardutho.org/api/root/1066.json"
+        },
+        "words": [
+            {
+                "id": 11833,
+                "uri": "https://sedra.bethmardutho.org/api/word/11833.json"
+            },
+            {
+                "id": 11834,
+                "uri": "https://sedra.bethmardutho.org/api/word/11834.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

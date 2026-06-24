@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0722\u0712",
+        "western": "\u0729\u0722\u0712",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15010,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15010.json"
+        },
+        "stem": "\u0729\u0722\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to maraud.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0729\u0722\u0736\u0712</span> to lie in ambush"
+            ]
+        },
+        "word": {
+            "id": 41177,
+            "uri": "https://sedra.bethmardutho.org/api/word/41177.json"
+        }
+    }
+]

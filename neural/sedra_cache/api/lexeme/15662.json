@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15662,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15662.json"
+        },
+        "syriac": "\u0713\u0720\u0715",
+        "glosses": {
+            "English": [
+                "Ia to freeze",
+                "IIIa to be frozen, to freeze, to congeal.",
+                "IIa"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2876,
+            "uri": "https://sedra.bethmardutho.org/api/root/2876.json"
+        },
+        "words": [
+            {
+                "id": 41884,
+                "uri": "https://sedra.bethmardutho.org/api/word/41884.json"
+            },
+            {
+                "id": 41040,
+                "uri": "https://sedra.bethmardutho.org/api/word/41040.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

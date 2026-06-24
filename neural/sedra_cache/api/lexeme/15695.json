@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15695,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15695.json"
+        },
+        "syriac": "\u0722\u0723\u071f",
+        "glosses": {
+            "English": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u073d\u0718\u071f</span>, Ia to copy out, transcribe."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2568,
+            "uri": "https://sedra.bethmardutho.org/api/root/2568.json"
+        },
+        "words": [
+            {
+                "id": 41941,
+                "uri": "https://sedra.bethmardutho.org/api/word/41941.json"
+            },
+            {
+                "id": 41156,
+                "uri": "https://sedra.bethmardutho.org/api/word/41156.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

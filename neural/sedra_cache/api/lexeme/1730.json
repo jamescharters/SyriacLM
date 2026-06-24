@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1730,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1730.json"
+        },
+        "syriac": "\u0721\u071d\u0718\u072c\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u064a\u062a\u0648\u062a\u0629"
+            ],
+            "French": [
+                "mortalit\u00e9"
+            ],
+            "English": [
+                "mortality",
+                "mortal state, mortality",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> immortality."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1036,
+            "uri": "https://sedra.bethmardutho.org/api/root/1036.json"
+        },
+        "words": [
+            {
+                "id": 11336,
+                "uri": "https://sedra.bethmardutho.org/api/word/11336.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0725\u071d\u072a",
+        "western": "\u0725\u0730\u071d\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15334,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15334.json"
+        },
+        "stem": "\u0725\u071d\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "2 IIa to wake (see <span class=\"selectableFont\">\u0725\u0733\u072a</span>)."
+            ]
+        },
+        "word": {
+            "id": 40323,
+            "uri": "https://sedra.bethmardutho.org/api/word/40323.json"
+        }
+    }
+]

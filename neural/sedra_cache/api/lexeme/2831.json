@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2831,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2831.json"
+        },
+        "syriac": "\u0729\u0721\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0645\u064a\u062f"
+            ],
+            "French": [
+                "farine"
+            ],
+            "English": [
+                "flour, meal.",
+                "flour",
+                "meal"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1675,
+            "uri": "https://sedra.bethmardutho.org/api/root/1675.json"
+        },
+        "words": [
+            {
+                "id": 18404,
+                "uri": "https://sedra.bethmardutho.org/api/word/18404.json"
+            },
+            {
+                "id": 18403,
+                "uri": "https://sedra.bethmardutho.org/api/word/18403.json"
+            },
+            {
+                "id": 18405,
+                "uri": "https://sedra.bethmardutho.org/api/word/18405.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

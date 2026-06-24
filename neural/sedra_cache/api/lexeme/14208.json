@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 14208,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14208.json"
+        },
+        "syriac": "\u0726\u0710\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u062c\u0647",
+                "\u062c\u0647\u0629",
+                "\u062d\u062f",
+                "\u0637\u0631\u0641"
+            ],
+            "French": [
+                "face",
+                "c\u00f4t\u00e9",
+                "tranchant",
+                "bord"
+            ],
+            "English": [
+                "face",
+                "forehead",
+                "page.",
+                "side, edge, corner"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 37285,
+                "uri": "https://sedra.bethmardutho.org/api/word/37285.json"
+            },
+            {
+                "id": 36047,
+                "uri": "https://sedra.bethmardutho.org/api/word/36047.json"
+            }
+        ]
+    }
+]

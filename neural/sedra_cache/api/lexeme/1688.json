@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1688,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1688.json"
+        },
+        "syriac": "\u0720\u0725\u0719\u072a",
+        "glosses": {
+            "English": [
+                "Lazarus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1002,
+            "uri": "https://sedra.bethmardutho.org/api/root/1002.json"
+        },
+        "words": [
+            {
+                "id": 11115,
+                "uri": "https://sedra.bethmardutho.org/api/word/11115.json"
+            },
+            {
+                "id": 11114,
+                "uri": "https://sedra.bethmardutho.org/api/word/11114.json"
+            },
+            {
+                "id": 11113,
+                "uri": "https://sedra.bethmardutho.org/api/word/11113.json"
+            },
+            {
+                "id": 11116,
+                "uri": "https://sedra.bethmardutho.org/api/word/11116.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

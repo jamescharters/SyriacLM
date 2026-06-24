@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0713\u0718\u072a\u0728\u0722\u0713",
+        "western": "\u0713\u073d\u0718\u072a\u0728\u0722\u0730\u0713",
+        "lexeme": {
+            "id": 18800,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18800.json"
+        },
+        "stem": "\u0713\u0718\u072a\u0728\u0722\u0713",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "strychnine"
+            ],
+            "lat": [
+                "nux vomica"
+            ]
+        },
+        "word": {
+            "id": 53015,
+            "uri": "https://sedra.bethmardutho.org/api/word/53015.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u071f\u072c\u0712\u0710",
+        "western": "\u0721\u0730\u071f\u072c\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12023,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12023.json"
+        },
+        "stem": "\u0721\u071f\u072c\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062e\u0631\u0632",
+                "\u0645\u0631\u0642\u0645",
+                "\u0645\u062f\u0631\u0633\u0629"
+            ],
+            "eng": [
+                "writing, narrative",
+                "Kth. office."
+            ],
+            "fre": [
+                "\u00e9cole",
+                "al\u00e8ne",
+                "stylet"
+            ]
+        },
+        "word": {
+            "id": 36554,
+            "uri": "https://sedra.bethmardutho.org/api/word/36554.json"
+        }
+    }
+]

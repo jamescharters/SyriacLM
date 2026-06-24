@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u0729\u072a\u0710",
+        "western": "\u0712\u0730\u0729\u0733\u072a\u0733\u0710",
+        "eastern": "\u0712\u0732\u0729\u0735\u072a\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5739,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5739.json"
+        },
+        "stem": "\u0712\u0729\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0642\u0627\u0631"
+            ],
+            "eng": [
+                "cowherd, herdsman."
+            ],
+            "fre": [
+                "bouvier"
+            ]
+        },
+        "word": {
+            "id": 31770,
+            "uri": "https://sedra.bethmardutho.org/api/word/31770.json"
+        }
+    }
+]

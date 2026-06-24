@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1311,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1311.json"
+        },
+        "syriac": "\u0721\u072c\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062b\u0644, \u062a\u0634\u0628\u064a\u0647",
+                "\u0642\u0635\u0629, \u0623\u0633\u0637\u0648\u0631\u0629",
+                "\u0645\u062b\u0644 \u0633\u0627\u0626\u0631",
+                "\u0647\u0628\u0629"
+            ],
+            "French": [
+                "parabole, comparaison",
+                "r\u00e9cit, fable",
+                "proverbe",
+                "don"
+            ],
+            "English": [
+                "giving"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 769,
+            "uri": "https://sedra.bethmardutho.org/api/root/769.json"
+        },
+        "words": [
+            {
+                "id": 8828,
+                "uri": "https://sedra.bethmardutho.org/api/word/8828.json"
+            },
+            {
+                "id": 8829,
+                "uri": "https://sedra.bethmardutho.org/api/word/8829.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

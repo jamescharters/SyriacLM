@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0728\u072c\u0728\u072c",
+        "western": "\u0728\u0730\u072c\u0728\u0736\u072c",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14904,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14904.json"
+        },
+        "stem": "\u0728\u072c\u0728\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to hear."
+            ]
+        },
+        "word": {
+            "id": 40508,
+            "uri": "https://sedra.bethmardutho.org/api/word/40508.json"
+        }
+    }
+]

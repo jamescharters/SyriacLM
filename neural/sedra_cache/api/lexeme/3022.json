@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 3022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3022.json"
+        },
+        "syriac": "\u072a\u071f",
+        "glosses": {
+            "English": [
+                "IIIa to soften",
+                "soft",
+                "tender",
+                "Ip to become soft",
+                "to soothe, to mitigate.",
+                "Ia to be soft, tender",
+                "IIa to soften",
+                "IIp"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1761,
+            "uri": "https://sedra.bethmardutho.org/api/root/1761.json"
+        },
+        "words": [
+            {
+                "id": 19707,
+                "uri": "https://sedra.bethmardutho.org/api/word/19707.json"
+            },
+            {
+                "id": 19709,
+                "uri": "https://sedra.bethmardutho.org/api/word/19709.json"
+            },
+            {
+                "id": 28606,
+                "uri": "https://sedra.bethmardutho.org/api/word/28606.json"
+            },
+            {
+                "id": 28605,
+                "uri": "https://sedra.bethmardutho.org/api/word/28605.json"
+            },
+            {
+                "id": 19708,
+                "uri": "https://sedra.bethmardutho.org/api/word/19708.json"
+            },
+            {
+                "id": 42372,
+                "uri": "https://sedra.bethmardutho.org/api/word/42372.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

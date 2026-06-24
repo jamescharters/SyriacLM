@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0717\u0718\u0710",
+        "western": "\u0715\u0741\u0722\u0736\u0717\u0718\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 783,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/783.json"
+        },
+        "stem": "\u0717\u0718\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "(apocopated <span class=\"selectableFont\">\u0722\u0717\u0736\u0710</span>) Ia to be, to become",
+                "turn out",
+                "IIIa to bring into existence",
+                "IIIp.",
+                "be",
+                "to take place, to happen",
+                "to exist",
+                "+ <span class=\"selectableFont\">\u0720\u200d</span> to have",
+                "was"
+            ]
+        },
+        "word": {
+            "id": 5047,
+            "uri": "https://sedra.bethmardutho.org/api/word/5047.json"
+        }
+    }
+]

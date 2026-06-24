@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 522,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/522.json"
+        },
+        "syriac": "\u0713\u0715\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Gadarenes"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 348,
+            "uri": "https://sedra.bethmardutho.org/api/root/348.json"
+        },
+        "words": [
+            {
+                "id": 3535,
+                "uri": "https://sedra.bethmardutho.org/api/word/3535.json"
+            },
+            {
+                "id": 3537,
+                "uri": "https://sedra.bethmardutho.org/api/word/3537.json"
+            },
+            {
+                "id": 3536,
+                "uri": "https://sedra.bethmardutho.org/api/word/3536.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

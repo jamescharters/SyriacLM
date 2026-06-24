@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15516,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15516.json"
+        },
+        "syriac": "\u0729\u072a\u0710",
+        "glosses": {
+            "English": [
+                "Ip.",
+                "Kth. to read",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u072a\u0736\u0710</span>, Ia to call, summon, invite, invoke"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2414,
+            "uri": "https://sedra.bethmardutho.org/api/root/2414.json"
+        },
+        "words": [
+            {
+                "id": 42175,
+                "uri": "https://sedra.bethmardutho.org/api/word/42175.json"
+            },
+            {
+                "id": 41224,
+                "uri": "https://sedra.bethmardutho.org/api/word/41224.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

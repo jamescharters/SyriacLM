@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3516,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3516.json"
+        },
+        "syriac": "\u0721\u0726\u071b\u0721\u0710",
+        "glosses": {
+            "English": [
+                "fattened"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1471,
+            "uri": "https://sedra.bethmardutho.org/api/root/1471.json"
+        },
+        "words": [
+            {
+                "id": 26152,
+                "uri": "https://sedra.bethmardutho.org/api/word/26152.json"
+            },
+            {
+                "id": 26153,
+                "uri": "https://sedra.bethmardutho.org/api/word/26153.json"
+            },
+            {
+                "id": 23068,
+                "uri": "https://sedra.bethmardutho.org/api/word/23068.json"
+            },
+            {
+                "id": 16289,
+                "uri": "https://sedra.bethmardutho.org/api/word/16289.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

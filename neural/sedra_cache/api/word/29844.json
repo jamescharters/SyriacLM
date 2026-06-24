@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u072a\u071d\u072b\u0718\u072c\u0710",
+        "western": "\u0726\u072a\u073a\u071d\u072b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10163,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10163.json"
+        },
+        "stem": "\u0726\u072a\u071d\u072b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0645\u064a\u064a\u0632"
+            ],
+            "eng": [
+                "difference, distinction."
+            ],
+            "fre": [
+                "distinction"
+            ]
+        },
+        "word": {
+            "id": 29844,
+            "uri": "https://sedra.bethmardutho.org/api/word/29844.json"
+        }
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0712\u0725\u0718\u0717\u0715\u0722\u0710",
+        "western": "\u0712\u0741\u0725\u0331\u073d\u0718\u0717\u0715\u0741\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2258,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2258.json"
+        },
+        "stem": "\u0725\u0718\u0717\u0715\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0641\u0633\u064a\u0631",
+                "\u062a\u0630\u0643\u0627\u0631",
+                "\u0630\u0643\u0631",
+                "\u062a\u0646\u0628\u064a\u0647",
+                "\u062a\u0630\u0643\u0627\u0631"
+            ],
+            "eng": [
+                "record, commemoration",
+                "remembrance",
+                "remembrance, memory",
+                "reflection."
+            ],
+            "fre": [
+                "anniversaire",
+                "m\u00e9morial",
+                "avertissement",
+                "commentaire",
+                "comm\u00e9moration"
+            ]
+        },
+        "word": {
+            "id": 15097,
+            "uri": "https://sedra.bethmardutho.org/api/word/15097.json"
+        }
+    }
+]

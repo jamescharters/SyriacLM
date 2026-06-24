@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 29056,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29056.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u0729\u0718\u0722\u072c\u0717\u0722\u071d\u0723\u0710\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f90\u03c3\u03c7\u03cd\u03bd\u03b8\u03b7\u03c3\u03b1\u03bd"
+            ],
+            "English": [
+                "they were ashamed, felt shame, were dishonoured"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f30\u03c3\u03c7\u03cd\u03bd\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 49524,
+                "uri": "https://sedra.bethmardutho.org/api/word/49524.json"
+            },
+            {
+                "id": 55430,
+                "uri": "https://sedra.bethmardutho.org/api/word/55430.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

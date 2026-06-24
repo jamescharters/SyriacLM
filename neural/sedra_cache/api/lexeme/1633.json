@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 1633,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1633.json"
+        },
+        "syriac": "\u0720\u0718",
+        "glosses": {
+            "English": [
+                "no, not.",
+                "no",
+                "no",
+                "not",
+                "not"
+            ],
+            "Arabic": [
+                "\u0644\u0627",
+                "\u0647\u0644 \u0644\u0627 \u061f"
+            ],
+            "French": [
+                "non, ni",
+                "est-ce-que ne\u2026pas?"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 959,
+            "uri": "https://sedra.bethmardutho.org/api/root/959.json"
+        },
+        "words": [
+            {
+                "id": 4995,
+                "uri": "https://sedra.bethmardutho.org/api/word/4995.json"
+            },
+            {
+                "id": 4969,
+                "uri": "https://sedra.bethmardutho.org/api/word/4969.json"
+            },
+            {
+                "id": 4992,
+                "uri": "https://sedra.bethmardutho.org/api/word/4992.json"
+            },
+            {
+                "id": 10902,
+                "uri": "https://sedra.bethmardutho.org/api/word/10902.json"
+            },
+            {
+                "id": 10901,
+                "uri": "https://sedra.bethmardutho.org/api/word/10901.json"
+            },
+            {
+                "id": 10903,
+                "uri": "https://sedra.bethmardutho.org/api/word/10903.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

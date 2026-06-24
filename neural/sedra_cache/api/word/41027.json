@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0718\u072c",
+        "western": "\u0715\u0730\u0721\u0718\u0736\u072c",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14910,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14910.json"
+        },
+        "stem": "\u0715\u0721\u0718\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to give a likeness",
+                "IVp to receive an impress."
+            ]
+        },
+        "word": {
+            "id": 41027,
+            "uri": "https://sedra.bethmardutho.org/api/word/41027.json"
+        }
+    }
+]

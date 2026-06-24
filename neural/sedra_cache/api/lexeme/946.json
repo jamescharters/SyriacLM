@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 946,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/946.json"
+        },
+        "syriac": "\u071a\u0713\u071d\u0723\u0710",
+        "glosses": {
+            "English": [
+                "lame",
+                "halt",
+                "lame, maimed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 593,
+            "uri": "https://sedra.bethmardutho.org/api/root/593.json"
+        },
+        "words": [
+            {
+                "id": 6174,
+                "uri": "https://sedra.bethmardutho.org/api/word/6174.json"
+            },
+            {
+                "id": 6177,
+                "uri": "https://sedra.bethmardutho.org/api/word/6177.json"
+            },
+            {
+                "id": 6176,
+                "uri": "https://sedra.bethmardutho.org/api/word/6176.json"
+            },
+            {
+                "id": 6175,
+                "uri": "https://sedra.bethmardutho.org/api/word/6175.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

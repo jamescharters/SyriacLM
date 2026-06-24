@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 636,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/636.json"
+        },
+        "syriac": "\u0715\u0710\u0712\u0710",
+        "glosses": {
+            "English": [
+                "wolf",
+                "wolf."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 410,
+            "uri": "https://sedra.bethmardutho.org/api/root/410.json"
+        },
+        "words": [
+            {
+                "id": 4005,
+                "uri": "https://sedra.bethmardutho.org/api/word/4005.json"
+            },
+            {
+                "id": 4004,
+                "uri": "https://sedra.bethmardutho.org/api/word/4004.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

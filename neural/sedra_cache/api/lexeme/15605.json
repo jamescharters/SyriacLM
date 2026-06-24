@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15605,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15605.json"
+        },
+        "syriac": "\u072a\u0728",
+        "glosses": {
+            "English": [
+                "IIa to crush",
+                "to strain, to dislocate",
+                "Ia to bruise, to crush",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3223,
+            "uri": "https://sedra.bethmardutho.org/api/root/3223.json"
+        },
+        "words": [
+            {
+                "id": 41624,
+                "uri": "https://sedra.bethmardutho.org/api/word/41624.json"
+            },
+            {
+                "id": 41568,
+                "uri": "https://sedra.bethmardutho.org/api/word/41568.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

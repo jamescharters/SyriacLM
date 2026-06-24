@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0725\u0721\u0718\u071b\u0710",
+        "western": "\u0725\u0730\u0721\u073d\u0718\u071b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2345,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2345.json"
+        },
+        "stem": "\u0725\u0721\u0718\u071b\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0638\u0644\u0645"
+            ],
+            "eng": [
+                "dark, clouded over, obscure.",
+                "dark"
+            ],
+            "fre": [
+                "obscur"
+            ]
+        },
+        "word": {
+            "id": 15670,
+            "uri": "https://sedra.bethmardutho.org/api/word/15670.json"
+        }
+    }
+]

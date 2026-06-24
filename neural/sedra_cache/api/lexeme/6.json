@@ -1,0 +1,72 @@
+[
+    {
+        "lexeme": {
+            "id": 6,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6.json"
+        },
+        "syriac": "\u0710\u0712\u0715\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0644\u0627\u0643",
+                "\u062e\u0633\u0627\u0631\u0629\u060c \u062e\u0631\u0627\u0628",
+                "\u0646\u0647\u0627\u064a\u0629"
+            ],
+            "French": [
+                "perdition",
+                "perte, ruine",
+                "fin"
+            ],
+            "English": [
+                "loss",
+                "perdition",
+                "waste",
+                "loss, destruction, perdition."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 4,
+            "uri": "https://sedra.bethmardutho.org/api/root/4.json"
+        },
+        "words": [
+            {
+                "id": 124,
+                "uri": "https://sedra.bethmardutho.org/api/word/124.json"
+            },
+            {
+                "id": 117,
+                "uri": "https://sedra.bethmardutho.org/api/word/117.json"
+            },
+            {
+                "id": 123,
+                "uri": "https://sedra.bethmardutho.org/api/word/123.json"
+            },
+            {
+                "id": 122,
+                "uri": "https://sedra.bethmardutho.org/api/word/122.json"
+            },
+            {
+                "id": 121,
+                "uri": "https://sedra.bethmardutho.org/api/word/121.json"
+            },
+            {
+                "id": 118,
+                "uri": "https://sedra.bethmardutho.org/api/word/118.json"
+            },
+            {
+                "id": 22858,
+                "uri": "https://sedra.bethmardutho.org/api/word/22858.json"
+            },
+            {
+                "id": 120,
+                "uri": "https://sedra.bethmardutho.org/api/word/120.json"
+            },
+            {
+                "id": 119,
+                "uri": "https://sedra.bethmardutho.org/api/word/119.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0712\u0728",
+        "western": "\u0712\u0730\u0728",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15698,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15698.json"
+        },
+        "stem": "\u0712\u0728",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062a\u0644\u0641"
+            ],
+            "eng": [
+                "Ia to pine away",
+                "IIp to grow thin."
+            ],
+            "fre": [
+                "\u00a0",
+                "d\u00e9p\u00e9rir"
+            ]
+        },
+        "word": {
+            "id": 40334,
+            "uri": "https://sedra.bethmardutho.org/api/word/40334.json"
+        }
+    }
+]

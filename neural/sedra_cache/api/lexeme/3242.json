@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 3242,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3242.json"
+        },
+        "syriac": "\u072b\u0721\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0645\u0646",
+                "\u0646\u0636\u062c"
+            ],
+            "French": [
+                "\u00eatre ou devenir gras",
+                "\u00eatre m\u00fbr"
+            ],
+            "English": [
+                "Ip to grow fat",
+                "IIa to fatten, ripen.",
+                "fat",
+                "ripe",
+                "to ripen",
+                "Ia to be, grow fat",
+                "to grow luxuriously"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1887,
+            "uri": "https://sedra.bethmardutho.org/api/root/1887.json"
+        },
+        "words": [
+            {
+                "id": 21372,
+                "uri": "https://sedra.bethmardutho.org/api/word/21372.json"
+            },
+            {
+                "id": 21373,
+                "uri": "https://sedra.bethmardutho.org/api/word/21373.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

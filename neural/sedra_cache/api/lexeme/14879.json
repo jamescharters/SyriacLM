@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 14879,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14879.json"
+        },
+        "syriac": "\u072b\u0718\u071a\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0623\u062e\u0631",
+                "\u062a\u0627\u0628\u0639"
+            ],
+            "French": [
+                "tarder",
+                "suivre"
+            ],
+            "English": [
+                "to be slow, late",
+                "to remain over.",
+                "IVp to linger, spend time, tarry",
+                "IVa to delay, defer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2345,
+            "uri": "https://sedra.bethmardutho.org/api/root/2345.json"
+        },
+        "words": [
+            {
+                "id": 46841,
+                "uri": "https://sedra.bethmardutho.org/api/word/46841.json"
+            },
+            {
+                "id": 40695,
+                "uri": "https://sedra.bethmardutho.org/api/word/40695.json"
+            },
+            {
+                "id": 39922,
+                "uri": "https://sedra.bethmardutho.org/api/word/39922.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

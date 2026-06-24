@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0726\u071d\u072a\u0721\u0710",
+        "western": "\u0726\u0741\u073a\u071d\u072a\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2510,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2510.json"
+        },
+        "stem": "\u0726\u071d\u072a\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0628\u062e\u0631\u0629"
+            ],
+            "eng": [
+                "thurible",
+                "censer",
+                "incense.",
+                "censer"
+            ],
+            "fre": [
+                "encensoir"
+            ]
+        },
+        "word": {
+            "id": 16387,
+            "uri": "https://sedra.bethmardutho.org/api/word/16387.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u0717\u0715\u071d\u0718\u071b\u0710",
+        "western": "\u0715\u0741\u0717\u0736\u0715\u0742\u071d\u073d\u0718\u071b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 777,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/777.json"
+        },
+        "stem": "\u0717\u0715\u071d\u0718\u071b\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "ignorant",
+                "vulgar",
+                "ignorant",
+                "plebeian",
+                "simple, inexperienced, unskilled",
+                "foolish, stupid."
+            ]
+        },
+        "word": {
+            "id": 4931,
+            "uri": "https://sedra.bethmardutho.org/api/word/4931.json"
+        }
+    }
+]

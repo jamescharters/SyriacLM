@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0729\u072c\u0710",
+        "western": "\u0729\u073d\u0718\u0729\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5476,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5476.json"
+        },
+        "stem": "\u0729\u0718\u0729\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0631\u0629",
+                "\u0646\u062e\u0631\u0648\u0628"
+            ],
+            "eng": [
+                "cell (of honeycomb).",
+                "pitcher, urn"
+            ],
+            "fre": [
+                "urne",
+                "alv\u00e9ole"
+            ]
+        },
+        "word": {
+            "id": 38951,
+            "uri": "https://sedra.bethmardutho.org/api/word/38951.json"
+        }
+    }
+]

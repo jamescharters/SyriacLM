@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 2877,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2877.json"
+        },
+        "syriac": "\u0729\u072a\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u0628, \u0642\u062a\u0627\u0644"
+            ],
+            "French": [
+                "guerre, combat"
+            ],
+            "English": [
+                "war",
+                "battle",
+                "fighting",
+                "war, battle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1703,
+            "uri": "https://sedra.bethmardutho.org/api/root/1703.json"
+        },
+        "words": [
+            {
+                "id": 18775,
+                "uri": "https://sedra.bethmardutho.org/api/word/18775.json"
+            },
+            {
+                "id": 18774,
+                "uri": "https://sedra.bethmardutho.org/api/word/18774.json"
+            },
+            {
+                "id": 18773,
+                "uri": "https://sedra.bethmardutho.org/api/word/18773.json"
+            },
+            {
+                "id": 18772,
+                "uri": "https://sedra.bethmardutho.org/api/word/18772.json"
+            },
+            {
+                "id": 18777,
+                "uri": "https://sedra.bethmardutho.org/api/word/18777.json"
+            },
+            {
+                "id": 18776,
+                "uri": "https://sedra.bethmardutho.org/api/word/18776.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

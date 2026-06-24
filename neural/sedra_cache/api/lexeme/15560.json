@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15560,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15560.json"
+        },
+        "syriac": "\u071a\u072a\u072b",
+        "glosses": {
+            "English": [
+                "Ia to slay",
+                "IIa to butcher",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2223,
+            "uri": "https://sedra.bethmardutho.org/api/root/2223.json"
+        },
+        "words": [
+            {
+                "id": 41952,
+                "uri": "https://sedra.bethmardutho.org/api/word/41952.json"
+            },
+            {
+                "id": 41083,
+                "uri": "https://sedra.bethmardutho.org/api/word/41083.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

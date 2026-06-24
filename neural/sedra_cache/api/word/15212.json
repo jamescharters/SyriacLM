@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0725\u0718\u072a\u0720\u0718\u072c\u0710",
+        "western": "\u0718\u0725\u073d\u0718\u072a\u0720\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2287,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2287.json"
+        },
+        "stem": "\u0725\u0718\u072a\u0720\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u0644\u0629"
+            ],
+            "eng": [
+                "uncircumcision",
+                "uncircumcision",
+                "foreskin."
+            ],
+            "fre": [
+                "pr\u00e9puce"
+            ]
+        },
+        "word": {
+            "id": 15212,
+            "uri": "https://sedra.bethmardutho.org/api/word/15212.json"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0721\u071a\u072a",
+        "western": "\u0721\u071a\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15442,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15442.json"
+        },
+        "stem": "\u0721\u071a\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to measure land."
+            ]
+        },
+        "word": {
+            "id": 41387,
+            "uri": "https://sedra.bethmardutho.org/api/word/41387.json"
+        }
+    }
+]

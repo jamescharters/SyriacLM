@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15733,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15733.json"
+        },
+        "syriac": "\u071a\u072a\u072c",
+        "glosses": {
+            "English": [
+                "Ia to dig out, to furrow",
+                "to be hoarse",
+                "to split",
+                "IIp."
+            ],
+            "Arabic": [
+                "\u062d\u0641\u0631",
+                "\u0634\u0642",
+                "\u0642\u0637\u0639"
+            ],
+            "French": [
+                "creuser",
+                "fendre",
+                "couper"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3094,
+            "uri": "https://sedra.bethmardutho.org/api/root/3094.json"
+        },
+        "words": [
+            {
+                "id": 42161,
+                "uri": "https://sedra.bethmardutho.org/api/word/42161.json"
+            },
+            {
+                "id": 39864,
+                "uri": "https://sedra.bethmardutho.org/api/word/39864.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

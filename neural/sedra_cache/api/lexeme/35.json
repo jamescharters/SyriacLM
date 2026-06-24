@@ -1,0 +1,26 @@
+[
+    {
+        "lexeme": {
+            "id": 35,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/35.json"
+        },
+        "syriac": "\u0710\u0715\u072a\u0721\u0722\u071b\u0718\u0723",
+        "glosses": {
+            "Latin": [
+                "Adramyttium"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 28,
+            "uri": "https://sedra.bethmardutho.org/api/root/28.json"
+        },
+        "words": [
+            {
+                "id": 249,
+                "uri": "https://sedra.bethmardutho.org/api/word/249.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

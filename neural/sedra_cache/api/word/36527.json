@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071b\u0720\u0718\u0721\u0718\u072c\u0710",
+        "western": "\u071b\u0733\u0720\u073d\u0718\u0721\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12469,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12469.json"
+        },
+        "stem": "\u071b\u0720\u0718\u0721\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0641\u062a\u0631\u0627\u0621",
+                "\u0643\u0641\u0631",
+                "\u0628\u063a\u064a",
+                "\u0638\u0644\u0645",
+                "\u0646\u0643\u0631\u0627\u0646 \u0644\u0644\u062c\u0645\u064a\u0644"
+            ],
+            "eng": [
+                "oppression, injustice, wrong",
+                "ingratitude."
+            ],
+            "fre": [
+                "infid\u00e9lit\u00e9",
+                "injustice, oppression",
+                "iniquit\u00e9",
+                "calomnie",
+                "ingratitude"
+            ]
+        },
+        "word": {
+            "id": 36527,
+            "uri": "https://sedra.bethmardutho.org/api/word/36527.json"
+        }
+    }
+]

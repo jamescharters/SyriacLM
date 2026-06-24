@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0726\u071a\u0719\u0710",
+        "western": "\u0726\u0736\u071a\u0719\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11049,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11049.json"
+        },
+        "stem": "\u0726\u071a\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062c\u0648\u0631"
+            ],
+            "eng": [
+                "lust, lasciviousness.",
+                "shameless",
+                "wanton, licentious."
+            ],
+            "fre": [
+                "luxure"
+            ]
+        },
+        "word": {
+            "id": 36488,
+            "uri": "https://sedra.bethmardutho.org/api/word/36488.json"
+        }
+    }
+]

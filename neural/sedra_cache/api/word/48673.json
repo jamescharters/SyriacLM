@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u071a\u0715\u072c\u0710",
+        "western": "\u0710\u073d\u0718\u071a\u0730\u0715\u072c\u0733\u0710",
+        "eastern": "\u0710\u0718\u073c\u071a\u0732\u0715\u072c\u0710",
+        "lexeme": {
+            "id": 5744,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5744.json"
+        },
+        "stem": "\u0710\u0718\u071a\u0715\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u063a\u0632"
+            ],
+            "eng": [
+                "riddle, enigma."
+            ],
+            "fre": [
+                "\u00e9nigme"
+            ]
+        },
+        "word": {
+            "id": 48673,
+            "uri": "https://sedra.bethmardutho.org/api/word/48673.json"
+        }
+    }
+]

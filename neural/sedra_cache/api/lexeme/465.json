@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 465,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/465.json"
+        },
+        "syriac": "\u0712\u072a \u071a\u0710\u072a\u0710",
+        "glosses": {
+            "English": [
+                "freeman"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 314,
+            "uri": "https://sedra.bethmardutho.org/api/root/314.json"
+        },
+        "words": [
+            {
+                "id": 3190,
+                "uri": "https://sedra.bethmardutho.org/api/word/3190.json"
+            },
+            {
+                "id": 3192,
+                "uri": "https://sedra.bethmardutho.org/api/word/3192.json"
+            },
+            {
+                "id": 3191,
+                "uri": "https://sedra.bethmardutho.org/api/word/3191.json"
+            }
+        ],
+        "category": "idiom"
+    }
+]

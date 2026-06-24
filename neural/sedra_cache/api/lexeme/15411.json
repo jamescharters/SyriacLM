@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 15411,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15411.json"
+        },
+        "syriac": "\u0720\u0719",
+        "glosses": {
+            "English": [
+                "to importune.",
+                "to be compressed, to contract",
+                "IIp to be disquieted",
+                "Ia to be importunate, tiresome",
+                "to contract, to cause to shrink",
+                "IIIp.",
+                "to be compressed",
+                "Ip to be pestered, annoyed, harassed",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0720\u0736\u0719</span> to importune, annoy, molest"
+            ],
+            "Arabic": [
+                "\u0623\u0632\u0639\u062c",
+                "\u062f\u0641\u0639"
+            ],
+            "French": [
+                "importuner",
+                "pousser"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2850,
+            "uri": "https://sedra.bethmardutho.org/api/root/2850.json"
+        },
+        "words": [
+            {
+                "id": 57550,
+                "uri": "https://sedra.bethmardutho.org/api/word/57550.json"
+            },
+            {
+                "id": 42136,
+                "uri": "https://sedra.bethmardutho.org/api/word/42136.json"
+            },
+            {
+                "id": 40990,
+                "uri": "https://sedra.bethmardutho.org/api/word/40990.json"
+            },
+            {
+                "id": 40683,
+                "uri": "https://sedra.bethmardutho.org/api/word/40683.json"
+            },
+            {
+                "id": 40302,
+                "uri": "https://sedra.bethmardutho.org/api/word/40302.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

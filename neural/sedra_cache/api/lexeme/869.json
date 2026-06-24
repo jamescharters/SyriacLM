@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 869,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/869.json"
+        },
+        "syriac": "\u0719\u0718\u0725\u0710",
+        "glosses": {
+            "English": [
+                "earthquake",
+                "shaking",
+                "agitation",
+                "commotion",
+                "movement",
+                "earthquake",
+                "Gram. vowel.",
+                "impulse, stirring"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 552,
+            "uri": "https://sedra.bethmardutho.org/api/root/552.json"
+        },
+        "words": [
+            {
+                "id": 5666,
+                "uri": "https://sedra.bethmardutho.org/api/word/5666.json"
+            },
+            {
+                "id": 5668,
+                "uri": "https://sedra.bethmardutho.org/api/word/5668.json"
+            },
+            {
+                "id": 5665,
+                "uri": "https://sedra.bethmardutho.org/api/word/5665.json"
+            },
+            {
+                "id": 5664,
+                "uri": "https://sedra.bethmardutho.org/api/word/5664.json"
+            },
+            {
+                "id": 5663,
+                "uri": "https://sedra.bethmardutho.org/api/word/5663.json"
+            },
+            {
+                "id": 5667,
+                "uri": "https://sedra.bethmardutho.org/api/word/5667.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

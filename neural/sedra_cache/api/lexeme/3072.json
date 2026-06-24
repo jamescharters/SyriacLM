@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 3072,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3072.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0729\u0725\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0642\u0639\u0629",
+                "\u062e\u0631\u0642\u0629",
+                "\u0631\u0642\u0639\u0629",
+                "\u00a0"
+            ],
+            "French": [
+                "morceau d&#39;\u00e9toffe",
+                "chiffon",
+                "feuille de papier",
+                "morceau d&#39;\u00e9toffe"
+            ],
+            "English": [
+                "patch",
+                "cloth",
+                "patch, rags."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1789,
+            "uri": "https://sedra.bethmardutho.org/api/root/1789.json"
+        },
+        "words": [
+            {
+                "id": 19992,
+                "uri": "https://sedra.bethmardutho.org/api/word/19992.json"
+            },
+            {
+                "id": 19993,
+                "uri": "https://sedra.bethmardutho.org/api/word/19993.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0713\u0726\u072c",
+        "western": "\u0713\u0726\u0736\u072c",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14747,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14747.json"
+        },
+        "stem": "\u0713\u0726\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u062b\u0631"
+            ],
+            "eng": [
+                "Ia to abound."
+            ],
+            "fre": [
+                "abonder"
+            ]
+        },
+        "word": {
+            "id": 39967,
+            "uri": "https://sedra.bethmardutho.org/api/word/39967.json"
+        }
+    }
+]

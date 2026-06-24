@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2229,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2229.json"
+        },
+        "syriac": "\u0725\u0712\u071d",
+        "glosses": {
+            "English": [
+                "thicken",
+                "harden"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1331,
+            "uri": "https://sedra.bethmardutho.org/api/root/1331.json"
+        },
+        "words": [
+            {
+                "id": 27221,
+                "uri": "https://sedra.bethmardutho.org/api/word/27221.json"
+            },
+            {
+                "id": 27220,
+                "uri": "https://sedra.bethmardutho.org/api/word/27220.json"
+            },
+            {
+                "id": 14892,
+                "uri": "https://sedra.bethmardutho.org/api/word/14892.json"
+            },
+            {
+                "id": 14891,
+                "uri": "https://sedra.bethmardutho.org/api/word/14891.json"
+            },
+            {
+                "id": 14890,
+                "uri": "https://sedra.bethmardutho.org/api/word/14890.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

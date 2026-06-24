@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 27055,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27055.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0718\u0723 \u0723\u0729\u071d\u0720\u0720\u071d\u071b\u071d\u0729\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f37\u03bd\u03bf\u03c2 \u03c3\u03ba\u03b9\u03bb\u03bb\u03b7\u03c4\u03b9\u03ba\u03cc\u03c2"
+            ],
+            "English": [
+                "wine flavored with squills"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03ba\u03b9\u03bb\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48823,
+                "uri": "https://sedra.bethmardutho.org/api/word/48823.json"
+            },
+            {
+                "id": 53429,
+                "uri": "https://sedra.bethmardutho.org/api/word/53429.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

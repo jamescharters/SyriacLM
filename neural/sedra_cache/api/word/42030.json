@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u072b\u0718\u0721",
+        "western": "\u0722\u072b\u073d\u0718\u0721",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15753.json"
+        },
+        "stem": "\u072b\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0648\u0647",
+                "\u062c\u0631\u062d, \u0623\u0630\u0649"
+            ],
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072b\u073a\u071d\u0721</span> to harm.",
+                "to inflict pain, to hurt, to wound.",
+                "Ia to stain"
+            ],
+            "fre": [
+                "blesser , faire mal",
+                "d\u00e9figurer"
+            ]
+        },
+        "word": {
+            "id": 42030,
+            "uri": "https://sedra.bethmardutho.org/api/word/42030.json"
+        }
+    }
+]

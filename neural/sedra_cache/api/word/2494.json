@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0712\u0719\u0725\u0718\u0722",
+        "western": "\u0722\u0712\u0742\u0730\u0719\u0725\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 363,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/363.json"
+        },
+        "stem": "\u0712\u0719\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "break through",
+                "IIa to bore, drill",
+                "Ip",
+                "Ia to pierce, cleave, penetrate",
+                "IIp.",
+                "tear",
+                "burst"
+            ]
+        },
+        "word": {
+            "id": 2494,
+            "uri": "https://sedra.bethmardutho.org/api/word/2494.json"
+        }
+    }
+]

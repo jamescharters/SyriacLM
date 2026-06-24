@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 20265,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20265.json"
+        },
+        "syriac": "\u0710\u0712\u0720\u071d\u0723\u0729\u0718\u0723",
+        "glosses": {
+            "Latin": [
+                "obeliscus"
+            ],
+            "Greek": [
+                "\u1f40\u03b2\u03b5\u03bb\u03af\u03c3\u03ba\u03bf\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f40\u03b2\u03b5\u03bb\u03af\u03c3\u03ba\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 46639,
+                "uri": "https://sedra.bethmardutho.org/api/word/46639.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

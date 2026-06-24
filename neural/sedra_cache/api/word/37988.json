@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u071a\u071f\u0721\u0722\u0710",
+        "western": "\u0721\u071a\u0730\u071f\u0721\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13025,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13025.json"
+        },
+        "stem": "\u0721\u071a\u071f\u0721\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0642\u0644"
+            ],
+            "eng": [
+                "sage.",
+                "one who gives wisdom"
+            ],
+            "fre": [
+                "qui rend sage"
+            ]
+        },
+        "word": {
+            "id": 37988,
+            "uri": "https://sedra.bethmardutho.org/api/word/37988.json"
+        }
+    }
+]

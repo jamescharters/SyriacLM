@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u0726\u072a",
+        "western": "\u0725\u0730\u0726\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15095,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15095.json"
+        },
+        "stem": "\u0725\u0726\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to fill with dust",
+                "IIp",
+                "IIIp to be wrapped in a cloak."
+            ]
+        },
+        "word": {
+            "id": 40546,
+            "uri": "https://sedra.bethmardutho.org/api/word/40546.json"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 8636,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8636.json"
+        },
+        "syriac": "\u0710\u0718\u072c\u0722\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0627\u062d\u0628 \u0627\u0644\u0623\u0645\u0631"
+            ],
+            "French": [
+                "ma\u00eetre"
+            ],
+            "English": [
+                "holder of authority.",
+                "master"
+            ],
+            "Greek": [
+                "\u03b1\u1f50\u03b8\u03ad\u03bd\u03c4\u03b7\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f50\u03b8\u03ad\u03bd\u03c4\u03b7\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55026,
+                "uri": "https://sedra.bethmardutho.org/api/word/55026.json"
+            },
+            {
+                "id": 38778,
+                "uri": "https://sedra.bethmardutho.org/api/word/38778.json"
+            }
+        ]
+    }
+]

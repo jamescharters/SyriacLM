@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28980,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28980.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u071d\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f21\u03bc\u1fd6\u03bd"
+            ],
+            "Latin": [
+                "nobis"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f10\u03b3\u03ce"
+            ]
+        },
+        "words": [
+            {
+                "id": 49473,
+                "uri": "https://sedra.bethmardutho.org/api/word/49473.json"
+            },
+            {
+                "id": 55354,
+                "uri": "https://sedra.bethmardutho.org/api/word/55354.json"
+            }
+        ],
+        "category": "pronoun"
+    }
+]

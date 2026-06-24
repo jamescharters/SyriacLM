@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072a\u0712\u0725",
+        "western": "\u072a\u0712\u0742\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2924,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2924.json"
+        },
+        "stem": "\u072a\u0712\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0631\u0628 \u0627\u0644\u0637\u0628\u0644",
+                "\u0631\u0628\u0636, \u0646\u0627\u0645"
+            ],
+            "eng": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072a\u0712\u0730\u0725</span>, Ia to lie down, to crouch",
+                "IIIa to cause to lie down",
+                "to impose.",
+                "lie down"
+            ],
+            "fre": [
+                "\u00eatre couch\u00e9",
+                "jouer de tambourin"
+            ]
+        },
+        "word": {
+            "id": 19029,
+            "uri": "https://sedra.bethmardutho.org/api/word/19029.json"
+        }
+    }
+]

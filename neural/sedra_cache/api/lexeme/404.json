@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 404,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/404.json"
+        },
+        "syriac": "\u0712\u0720\u0725\u0721",
+        "glosses": {
+            "English": [
+                "Balaam"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 279,
+            "uri": "https://sedra.bethmardutho.org/api/root/279.json"
+        },
+        "words": [
+            {
+                "id": 2794,
+                "uri": "https://sedra.bethmardutho.org/api/word/2794.json"
+            },
+            {
+                "id": 2793,
+                "uri": "https://sedra.bethmardutho.org/api/word/2793.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

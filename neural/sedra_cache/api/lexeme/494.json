@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 494,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/494.json"
+        },
+        "syriac": "\u0713\u0710\u0720\u071d\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Gallio"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 332,
+            "uri": "https://sedra.bethmardutho.org/api/root/332.json"
+        },
+        "words": [
+            {
+                "id": 3386,
+                "uri": "https://sedra.bethmardutho.org/api/word/3386.json"
+            },
+            {
+                "id": 3385,
+                "uri": "https://sedra.bethmardutho.org/api/word/3385.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

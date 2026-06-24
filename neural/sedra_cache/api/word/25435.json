@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0721\u0720\u071d\u0720\u0710",
+        "western": "\u0721\u0720\u073a\u071d\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1792,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1792.json"
+        },
+        "stem": "\u0721\u0720\u071d\u0720\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u062f\u0644\u064a",
+                "\u0637\u0627\u0647\u0631, \u0628\u0631\u064a\u0621",
+                "\u0631\u0648\u062d\u0627\u0646\u064a",
+                "\u0635\u0648\u0627\u0628\u064a",
+                "\u0641\u0635\u064a\u062d"
+            ],
+            "eng": [
+                "logician.",
+                "eloquent, rhetorician",
+                "reasonable",
+                "rational",
+                "rational, articulate"
+            ],
+            "fre": [
+                "spirituel",
+                "raisonnable",
+                "dialectique",
+                "\u00e9loquent",
+                "pur, innocent"
+            ]
+        },
+        "word": {
+            "id": 25435,
+            "uri": "https://sedra.bethmardutho.org/api/word/25435.json"
+        }
+    }
+]

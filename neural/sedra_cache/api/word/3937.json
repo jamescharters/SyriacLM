@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0713\u0725\u072c\u0710",
+        "western": "\u0713\u0741\u0725\u0733\u072c\u0742\u0733\u0710",
+        "eastern": "\u0713\u0725\u0735\u072c\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 615,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/615.json"
+        },
+        "stem": "\u0713\u0725\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0631\u0627\u062e"
+            ],
+            "eng": [
+                "crying out",
+                "outcry",
+                "bellow, shout, cry.",
+                "cry"
+            ],
+            "fre": [
+                "clameur"
+            ]
+        },
+        "word": {
+            "id": 3937,
+            "uri": "https://sedra.bethmardutho.org/api/word/3937.json"
+        }
+    }
+]

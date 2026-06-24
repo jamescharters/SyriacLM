@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u072b\u072c\u0720",
+        "western": "\u072b\u072c\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15750,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15750.json"
+        },
+        "stem": "\u072b\u072c\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0633\u0633, \u0628\u0646\u0649",
+                "\u0648\u0636\u0639",
+                "\u00a0",
+                "\u0646\u0635\u0628"
+            ],
+            "eng": [
+                "to found",
+                "Ia to transplant",
+                "Ip.",
+                "to plant",
+                "to insert"
+            ],
+            "fre": [
+                "fonder, construire",
+                "planter",
+                "\u00a0",
+                "placer"
+            ]
+        },
+        "word": {
+            "id": 39832,
+            "uri": "https://sedra.bethmardutho.org/api/word/39832.json"
+        }
+    }
+]

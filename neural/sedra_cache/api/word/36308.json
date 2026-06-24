@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0726\u0729\u071a",
+        "western": "\u0726\u0733\u0729\u0730\u071a",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2569,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2569.json"
+        },
+        "stem": "\u0726\u0729\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0632\u0647\u0631",
+                "\u064a\u0646\u0628\u063a\u064a, \u064a\u0644\u064a\u0642",
+                "\u0623\u062d\u0633\u0646"
+            ],
+            "eng": [
+                "it is expedient, advantageous.",
+                "IIa to flourish",
+                "blossom",
+                "Ia to blossom",
+                "to produce blooms",
+                "IIIa to bud, to blossom.",
+                "it is expedient, advantageous."
+            ],
+            "fre": [
+                "il est exp\u00e9dient",
+                "fleurir",
+                "meilleur"
+            ]
+        },
+        "word": {
+            "id": 36308,
+            "uri": "https://sedra.bethmardutho.org/api/word/36308.json"
+        }
+    }
+]

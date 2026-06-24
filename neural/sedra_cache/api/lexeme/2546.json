@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2546,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2546.json"
+        },
+        "syriac": "\u0721\u0726\u0723\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0630\u0646"
+            ],
+            "French": [
+                "permission"
+            ],
+            "English": [
+                "permission",
+                "licence",
+                "permission."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1511,
+            "uri": "https://sedra.bethmardutho.org/api/root/1511.json"
+        },
+        "words": [
+            {
+                "id": 16611,
+                "uri": "https://sedra.bethmardutho.org/api/word/16611.json"
+            },
+            {
+                "id": 16612,
+                "uri": "https://sedra.bethmardutho.org/api/word/16612.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0722\u0723\u071d\u071f\u0718\u0722",
+        "western": "\u0722\u0722\u0730\u0723\u0736\u071d\u071f\u0742\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1986,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1986.json"
+        },
+        "stem": "\u0722\u0723\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "tempt",
+                "try",
+                "prove"
+            ]
+        },
+        "word": {
+            "id": 13030,
+            "uri": "https://sedra.bethmardutho.org/api/word/13030.json"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 29068,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29068.json"
+        },
+        "syriac": "\u0710\u071d\u0726\u0710\u071b\u071d\u072c\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f20\u03c0\u03b1\u03c4\u03ae\u03b8\u03b7\u03bd"
+            ],
+            "Latin": [
+                "deceptus sum"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c0\u03b1\u03c4\u03ac\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 55442,
+                "uri": "https://sedra.bethmardutho.org/api/word/55442.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

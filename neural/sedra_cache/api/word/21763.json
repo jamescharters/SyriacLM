@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u072b\u0726\u071d\u0710",
+        "western": "\u0720\u072b\u0730\u0726\u0742\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3287,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3287.json"
+        },
+        "stem": "\u072b\u0726\u071d\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "straight",
+                "honest",
+                "pure",
+                "clear, level",
+                "sincere, pure.",
+                "limpid, serene"
+            ]
+        },
+        "word": {
+            "id": 21763,
+            "uri": "https://sedra.bethmardutho.org/api/word/21763.json"
+        }
+    }
+]

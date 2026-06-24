@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 668,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/668.json"
+        },
+        "syriac": "\u0715\u0718\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0644\u0648"
+            ],
+            "French": [
+                "seau"
+            ],
+            "English": [
+                "bucket",
+                "bucket",
+                "Aquarius."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 424,
+            "uri": "https://sedra.bethmardutho.org/api/root/424.json"
+        },
+        "words": [
+            {
+                "id": 4220,
+                "uri": "https://sedra.bethmardutho.org/api/word/4220.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

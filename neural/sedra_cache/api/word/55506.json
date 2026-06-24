@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0726\u072a\u071f\u0718\u0723",
+        "western": "\u0710\u073a\u071d\u0726\u0730\u072a\u071f\u0718\u0733\u0723",
+        "lexeme": {
+            "id": 29132,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29132.json"
+        },
+        "stem": "\u0710\u071d\u0726\u072a\u071f\u0718\u0723",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u1f3d\u03c0\u03c0\u03b1\u03c1\u03c7\u03bf\u03c2"
+            ],
+            "lat": [
+                "Hipparchus"
+            ]
+        },
+        "word": {
+            "id": 55506,
+            "uri": "https://sedra.bethmardutho.org/api/word/55506.json"
+        }
+    }
+]

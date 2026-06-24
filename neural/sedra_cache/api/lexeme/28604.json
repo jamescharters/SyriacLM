@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28604,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28604.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0721\u071d\u0722\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f45\u03c1\u03bc\u03b9\u03bd\u03bf\u03bd"
+            ],
+            "Latin": [
+                "Salvia Horminum"
+            ],
+            "English": [
+                "sage, clary"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f45\u03c1\u03bc\u03b9\u03bd\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 49014,
+                "uri": "https://sedra.bethmardutho.org/api/word/49014.json"
+            },
+            {
+                "id": 54978,
+                "uri": "https://sedra.bethmardutho.org/api/word/54978.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

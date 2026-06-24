@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0729\u0722\u071b",
+        "western": "\u0729\u0722\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2842,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2842.json"
+        },
+        "stem": "\u0729\u0722\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fear",
+                "IIp, IIIa.",
+                "avoid",
+                "Ia, IIa to fear, shrink from"
+            ]
+        },
+        "word": {
+            "id": 18462,
+            "uri": "https://sedra.bethmardutho.org/api/word/18462.json"
+        }
+    }
+]

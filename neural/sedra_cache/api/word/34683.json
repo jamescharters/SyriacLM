@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u071d\u071f",
+        "western": "\u0723\u0730\u071d\u0736\u071f",
+        "number": "singular",
+        "lexeme": {
+            "id": 14547,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14547.json"
+        },
+        "stem": "\u0723\u071d\u071f",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062f\u062f",
+                "\u062a\u0645\u0645"
+            ],
+            "eng": [
+                "see <span class=\"selectableFont\">\u0723\u0733\u071f</span>."
+            ],
+            "fre": [
+                "limiter, d\u00e9finir",
+                "finir"
+            ]
+        },
+        "word": {
+            "id": 34683,
+            "uri": "https://sedra.bethmardutho.org/api/word/34683.json"
+        }
+    }
+]

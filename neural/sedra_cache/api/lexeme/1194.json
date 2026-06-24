@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1194,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1194.json"
+        },
+        "syriac": "\u071b\u0712",
+        "glosses": {
+            "English": [
+                "inform"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 703,
+            "uri": "https://sedra.bethmardutho.org/api/root/703.json"
+        },
+        "words": [
+            {
+                "id": 7859,
+                "uri": "https://sedra.bethmardutho.org/api/word/7859.json"
+            },
+            {
+                "id": 23957,
+                "uri": "https://sedra.bethmardutho.org/api/word/23957.json"
+            },
+            {
+                "id": 7860,
+                "uri": "https://sedra.bethmardutho.org/api/word/7860.json"
+            },
+            {
+                "id": 7858,
+                "uri": "https://sedra.bethmardutho.org/api/word/7858.json"
+            },
+            {
+                "id": 7857,
+                "uri": "https://sedra.bethmardutho.org/api/word/7857.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

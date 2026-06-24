@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071a\u072a\u0725\u0718\u072c\u0710",
+        "western": "\u0721\u071a\u0730\u072a\u0725\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9992,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9992.json"
+        },
+        "stem": "\u0721\u071a\u072a\u0725\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u064a\u0644\u0629"
+            ],
+            "eng": [
+                "astuteness, cunning."
+            ],
+            "fre": [
+                "ruse"
+            ]
+        },
+        "word": {
+            "id": 31502,
+            "uri": "https://sedra.bethmardutho.org/api/word/31502.json"
+        }
+    }
+]

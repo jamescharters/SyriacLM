@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0725\u0715\u072a",
+        "western": "\u0722\u0725\u0730\u0715\u0741\u0730\u072a",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2253,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2253.json"
+        },
+        "stem": "\u0725\u0715\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0627\u0639\u062f"
+            ],
+            "eng": [
+                "IIp.",
+                "be of profit",
+                "help",
+                "Ia, IIa to help, assist",
+                "advantage"
+            ],
+            "fre": [
+                "aider"
+            ]
+        },
+        "word": {
+            "id": 15034,
+            "uri": "https://sedra.bethmardutho.org/api/word/15034.json"
+        }
+    }
+]

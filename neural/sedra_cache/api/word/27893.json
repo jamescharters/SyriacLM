@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0721\u0728\u0712\u0725\u0710",
+        "western": "\u0721\u0728\u0730\u0712\u0741\u0725\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2656,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2656.json"
+        },
+        "stem": "\u0728\u0712\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0628\u063a",
+                "\u063a\u0645\u0633, \u063a\u0637\u0633 (\u0645\u0636)",
+                "\u0628\u0644\u0644",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ip to be moistened",
+                "to be dyed",
+                "IIa",
+                "dip",
+                "wash",
+                "IIp.",
+                "Ia to dip, submerge, dye"
+            ],
+            "fre": [
+                "\u00a0",
+                "mouiller",
+                "tremper, baigner",
+                "teindre"
+            ]
+        },
+        "word": {
+            "id": 27893,
+            "uri": "https://sedra.bethmardutho.org/api/word/27893.json"
+        }
+    }
+]

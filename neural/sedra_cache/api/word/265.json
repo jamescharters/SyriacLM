@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0712\u0718\u0720\u0718\u0723",
+        "western": "\u0710\u0736\u0718\u0712\u0742\u073d\u0718\u0720\u0733\u0718\u0723",
+        "eastern": "\u0710\u0718\u073f\u0712\u0741\u0718\u073f\u0720\u0718\u073f\u0723",
+        "lexeme": {
+            "id": 43,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/43.json"
+        },
+        "stem": "\u0710\u0718\u0712\u0718\u0720\u0718\u0723",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Eubulus"
+            ]
+        },
+        "word": {
+            "id": 265,
+            "uri": "https://sedra.bethmardutho.org/api/word/265.json"
+        }
+    }
+]

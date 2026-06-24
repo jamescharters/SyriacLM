@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2098,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2098.json"
+        },
+        "syriac": "\u0723\u0718\u0726",
+        "glosses": {
+            "English": [
+                "consume",
+                "disappear"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1254,
+            "uri": "https://sedra.bethmardutho.org/api/root/1254.json"
+        },
+        "words": [
+            {
+                "id": 13947,
+                "uri": "https://sedra.bethmardutho.org/api/word/13947.json"
+            },
+            {
+                "id": 13952,
+                "uri": "https://sedra.bethmardutho.org/api/word/13952.json"
+            },
+            {
+                "id": 13951,
+                "uri": "https://sedra.bethmardutho.org/api/word/13951.json"
+            },
+            {
+                "id": 13950,
+                "uri": "https://sedra.bethmardutho.org/api/word/13950.json"
+            },
+            {
+                "id": 13949,
+                "uri": "https://sedra.bethmardutho.org/api/word/13949.json"
+            },
+            {
+                "id": 13948,
+                "uri": "https://sedra.bethmardutho.org/api/word/13948.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

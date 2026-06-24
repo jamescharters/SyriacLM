@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u071a\u0720\u071b\u0718\u072c\u0710",
+        "western": "\u0721\u071a\u0730\u0720\u071b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12336,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12336.json"
+        },
+        "stem": "\u0721\u071a\u0720\u071b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062e\u062a\u0644\u0627\u0637"
+            ],
+            "eng": [
+                "combining, including, putting together",
+                "confusion."
+            ],
+            "fre": [
+                "confusion"
+            ]
+        },
+        "word": {
+            "id": 37706,
+            "uri": "https://sedra.bethmardutho.org/api/word/37706.json"
+        }
+    }
+]

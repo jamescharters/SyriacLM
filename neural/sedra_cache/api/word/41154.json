@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0720\u0725\u0713",
+        "western": "\u0720\u0725\u0736\u0713",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15451,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15451.json"
+        },
+        "stem": "\u0720\u0725\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0645\u062a\u0645"
+            ],
+            "eng": [
+                "Ia to stammer",
+                "Ip to begin to stammer."
+            ],
+            "fre": [
+                "b\u00e9gayer"
+            ]
+        },
+        "word": {
+            "id": 41154,
+            "uri": "https://sedra.bethmardutho.org/api/word/41154.json"
+        }
+    }
+]

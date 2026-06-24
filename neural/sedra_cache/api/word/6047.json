@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071a\u0712\u071d\u0712\u071d",
+        "western": "\u071a\u0730\u0712\u0741\u073a\u071d\u0712\u0742\u0730\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 923,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/923.json"
+        },
+        "stem": "\u071a\u0712\u071d\u0712\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "beloved",
+                "beloved, dear",
+                "friend."
+            ]
+        },
+        "word": {
+            "id": 6047,
+            "uri": "https://sedra.bethmardutho.org/api/word/6047.json"
+        }
+    }
+]

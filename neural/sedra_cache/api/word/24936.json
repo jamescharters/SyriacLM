@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0718\u0721\u071a\u0726\u0710",
+        "western": "\u0718\u0730\u0721\u071a\u0730\u0726\u0741\u0736\u0710",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15612,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15612.json"
+        },
+        "stem": "\u071a\u0726\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0628\u0623, \u062d\u062c\u0628"
+            ],
+            "eng": [
+                "Gram. to be passed over in pronunciation.",
+                "& <span class=\"selectableFont\">\u071a\u0726\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0726\u0736\u0710</span>, Ia to cover, hide",
+                "to veil oneself",
+                "IIa to cover, to conceal, to hide from sight",
+                "hide",
+                "cover",
+                "to be shy",
+                "IIp to be covered, concealed",
+                "to be in ruins"
+            ],
+            "fre": [
+                "cacher, voiler"
+            ]
+        },
+        "word": {
+            "id": 24936,
+            "uri": "https://sedra.bethmardutho.org/api/word/24936.json"
+        }
+    }
+]

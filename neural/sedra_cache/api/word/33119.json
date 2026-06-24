@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0720\u0728\u071d\u0710",
+        "western": "\u0710\u0733\u0720\u0728\u0733\u071d\u0733\u0710",
+        "eastern": "\u0710\u0735\u0720\u0728\u0735\u071d\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13062,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13062.json"
+        },
+        "stem": "\u0710\u0720\u0728\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0627\u062c\u0628"
+            ],
+            "eng": [
+                "necessary, urgent, pressing."
+            ],
+            "fre": [
+                "n\u00e9cessaire"
+            ]
+        },
+        "word": {
+            "id": 33119,
+            "uri": "https://sedra.bethmardutho.org/api/word/33119.json"
+        }
+    }
+]

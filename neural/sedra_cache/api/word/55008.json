@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u0716\u0710",
+        "western": "\u0710\u0718\u073d\u072a\u0716\u0710",
+        "lexeme": {
+            "id": 28634,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28634.json"
+        },
+        "stem": "\u0710\u0718\u072a\u0716\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "handkerchief,kerchief, scarf"
+            ],
+            "grc": [
+                "\u1f60\u03c1\u03ac\u03c1\u03b9\u03bf\u03bd"
+            ],
+            "lat": [
+                "orarium"
+            ]
+        },
+        "word": {
+            "id": 55008,
+            "uri": "https://sedra.bethmardutho.org/api/word/55008.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2344,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2344.json"
+        },
+        "syriac": "\u0725\u0721\u0718\u072a\u0710",
+        "glosses": {
+            "English": [
+                "Gomorrah"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1390,
+            "uri": "https://sedra.bethmardutho.org/api/root/1390.json"
+        },
+        "words": [
+            {
+                "id": 15669,
+                "uri": "https://sedra.bethmardutho.org/api/word/15669.json"
+            },
+            {
+                "id": 15668,
+                "uri": "https://sedra.bethmardutho.org/api/word/15668.json"
+            },
+            {
+                "id": 15667,
+                "uri": "https://sedra.bethmardutho.org/api/word/15667.json"
+            },
+            {
+                "id": 15666,
+                "uri": "https://sedra.bethmardutho.org/api/word/15666.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

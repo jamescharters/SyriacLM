@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0729\u0717\u0710",
+        "western": "\u0729\u0717\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15561,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15561.json"
+        },
+        "stem": "\u0729\u0717\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0644"
+            ],
+            "eng": [
+                "IIa, IIIa to make blunt",
+                "to repulse.",
+                "& <span class=\"selectableFont\">\u0729\u0717\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u0717\u0736\u0710</span>, Ia to be blunt"
+            ],
+            "fre": [
+                "\u00eatre \u00e9mouss\u00e9. s&#39;\u00e9mousser"
+            ]
+        },
+        "word": {
+            "id": 41362,
+            "uri": "https://sedra.bethmardutho.org/api/word/41362.json"
+        }
+    }
+]

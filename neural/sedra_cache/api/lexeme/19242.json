@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 19242,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19242.json"
+        },
+        "syriac": "\u071f\u0720",
+        "glosses": {
+            "English": [
+                "to complete, perfect",
+                "crowned"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2570,
+            "uri": "https://sedra.bethmardutho.org/api/root/2570.json"
+        },
+        "words": [
+            {
+                "id": 25728,
+                "uri": "https://sedra.bethmardutho.org/api/word/25728.json"
+            },
+            {
+                "id": 25729,
+                "uri": "https://sedra.bethmardutho.org/api/word/25729.json"
+            },
+            {
+                "id": 10012,
+                "uri": "https://sedra.bethmardutho.org/api/word/10012.json"
+            },
+            {
+                "id": 10013,
+                "uri": "https://sedra.bethmardutho.org/api/word/10013.json"
+            },
+            {
+                "id": 45616,
+                "uri": "https://sedra.bethmardutho.org/api/word/45616.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

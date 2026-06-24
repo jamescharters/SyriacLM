@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072a\u0717\u0720",
+        "western": "\u072a\u0717\u0720",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15355,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15355.json"
+        },
+        "stem": "\u072a\u0717\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp to discharge (blood etc.)",
+                "IIIa to putrefy",
+                "to ooze (blood etc.).",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072a\u0717\u0736\u0720</span> to be putrid"
+            ]
+        },
+        "word": {
+            "id": 40862,
+            "uri": "https://sedra.bethmardutho.org/api/word/40862.json"
+        }
+    }
+]

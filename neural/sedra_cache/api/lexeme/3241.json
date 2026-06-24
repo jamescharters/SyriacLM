@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 3241,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3241.json"
+        },
+        "syriac": "\u072b\u0721\u071d\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0645\u064a\u0646",
+                "\u062e\u0635\u0628"
+            ],
+            "French": [
+                "gras",
+                "fertile"
+            ],
+            "English": [
+                "ripe",
+                "ripe",
+                "rich",
+                "fat",
+                "fertile."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1887,
+            "uri": "https://sedra.bethmardutho.org/api/root/1887.json"
+        },
+        "words": [
+            {
+                "id": 21369,
+                "uri": "https://sedra.bethmardutho.org/api/word/21369.json"
+            },
+            {
+                "id": 21371,
+                "uri": "https://sedra.bethmardutho.org/api/word/21371.json"
+            },
+            {
+                "id": 21370,
+                "uri": "https://sedra.bethmardutho.org/api/word/21370.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

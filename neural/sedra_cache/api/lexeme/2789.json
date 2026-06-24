@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 2789,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2789.json"
+        },
+        "syriac": "\u0729\u071b\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u062a\u0644, \u062a\u0642\u062a\u064a\u0644"
+            ],
+            "French": [
+                "meurtre, massacre"
+            ],
+            "English": [
+                "murder",
+                "slaughter",
+                "slaughter, murder."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1645,
+            "uri": "https://sedra.bethmardutho.org/api/root/1645.json"
+        },
+        "words": [
+            {
+                "id": 18268,
+                "uri": "https://sedra.bethmardutho.org/api/word/18268.json"
+            },
+            {
+                "id": 27960,
+                "uri": "https://sedra.bethmardutho.org/api/word/27960.json"
+            },
+            {
+                "id": 18267,
+                "uri": "https://sedra.bethmardutho.org/api/word/18267.json"
+            },
+            {
+                "id": 18266,
+                "uri": "https://sedra.bethmardutho.org/api/word/18266.json"
+            },
+            {
+                "id": 18265,
+                "uri": "https://sedra.bethmardutho.org/api/word/18265.json"
+            },
+            {
+                "id": 18270,
+                "uri": "https://sedra.bethmardutho.org/api/word/18270.json"
+            },
+            {
+                "id": 18264,
+                "uri": "https://sedra.bethmardutho.org/api/word/18264.json"
+            },
+            {
+                "id": 18269,
+                "uri": "https://sedra.bethmardutho.org/api/word/18269.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

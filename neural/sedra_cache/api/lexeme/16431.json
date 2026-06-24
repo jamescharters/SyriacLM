@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 16431,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16431.json"
+        },
+        "syriac": "\u0710\u0712\u072a\u0719\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f44\u03b2\u03c1\u03c5\u03b6\u03bf\u03bd"
+            ],
+            "English": [
+                "cupellation",
+                "purest gold"
+            ],
+            "Arabic": [
+                "\u0627\u0628\u0631\u064a\u0632"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f44\u03b2\u03c1\u03c5\u03b6\u03bf\u03bd from Hitt. \u1e2bubru\u0161\u1e2bi",
+                "\u1f44\u03b2\u03c1\u03c5\u03b6\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 47143,
+                "uri": "https://sedra.bethmardutho.org/api/word/47143.json"
+            },
+            {
+                "id": 42805,
+                "uri": "https://sedra.bethmardutho.org/api/word/42805.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

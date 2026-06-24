@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0717\u071d",
+        "western": "\u0717\u0733\u071d",
+        "number": "singular",
+        "lexeme": {
+            "id": 9218,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9218.json"
+        },
+        "stem": "\u0717\u071d",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                ""
+            ],
+            "eng": [
+                "that (f.)",
+                "-<span class=\"selectableFont\">\u0712\u0717\u0733\u071d \u0715</span> in that\u2026, because."
+            ],
+            "fre": [
+                "celle-l\u00e0\u2026"
+            ]
+        },
+        "word": {
+            "id": 30076,
+            "uri": "https://sedra.bethmardutho.org/api/word/30076.json"
+        }
+    }
+]

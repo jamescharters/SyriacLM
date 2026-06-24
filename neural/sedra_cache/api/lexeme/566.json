@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 566,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/566.json"
+        },
+        "syriac": "\u0713\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "openly",
+                "declaring openly",
+                "<span class=\"selectableFont\">\u0712\u0713\u0736\u0720\u071d\u0733\u0710</span> openly, in public."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 373,
+            "uri": "https://sedra.bethmardutho.org/api/root/373.json"
+        },
+        "words": [
+            {
+                "id": 3769,
+                "uri": "https://sedra.bethmardutho.org/api/word/3769.json"
+            },
+            {
+                "id": 3696,
+                "uri": "https://sedra.bethmardutho.org/api/word/3696.json"
+            },
+            {
+                "id": 3695,
+                "uri": "https://sedra.bethmardutho.org/api/word/3695.json"
+            },
+            {
+                "id": 3697,
+                "uri": "https://sedra.bethmardutho.org/api/word/3697.json"
+            }
+        ],
+        "category": "particle",
+        "kaylo": "p\u02bfal"
+    }
+]

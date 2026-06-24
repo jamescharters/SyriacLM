@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1706,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1706.json"
+        },
+        "syriac": "\u0721\u0713\u0718\u0713",
+        "glosses": {
+            "English": [
+                "Magog"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1016,
+            "uri": "https://sedra.bethmardutho.org/api/root/1016.json"
+        },
+        "words": [
+            {
+                "id": 11218,
+                "uri": "https://sedra.bethmardutho.org/api/word/11218.json"
+            },
+            {
+                "id": 11219,
+                "uri": "https://sedra.bethmardutho.org/api/word/11219.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

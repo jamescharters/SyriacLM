@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 3551,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3551.json"
+        },
+        "syriac": "\u072b\u0720\u071d\u071b\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0633\u0645\u0648\u062d"
+            ],
+            "French": [
+                "permis"
+            ],
+            "English": [
+                "ruler"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1875,
+            "uri": "https://sedra.bethmardutho.org/api/root/1875.json"
+        },
+        "words": [
+            {
+                "id": 47076,
+                "uri": "https://sedra.bethmardutho.org/api/word/47076.json"
+            },
+            {
+                "id": 29446,
+                "uri": "https://sedra.bethmardutho.org/api/word/29446.json"
+            },
+            {
+                "id": 21135,
+                "uri": "https://sedra.bethmardutho.org/api/word/21135.json"
+            },
+            {
+                "id": 21133,
+                "uri": "https://sedra.bethmardutho.org/api/word/21133.json"
+            },
+            {
+                "id": 29447,
+                "uri": "https://sedra.bethmardutho.org/api/word/29447.json"
+            },
+            {
+                "id": 21140,
+                "uri": "https://sedra.bethmardutho.org/api/word/21140.json"
+            },
+            {
+                "id": 21131,
+                "uri": "https://sedra.bethmardutho.org/api/word/21131.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

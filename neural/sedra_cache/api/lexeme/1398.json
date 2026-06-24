@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1398,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1398.json"
+        },
+        "syriac": "\u071d\u0725\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0634\u0639",
+                "\u0637\u0645\u0639",
+                "\u0628\u062e\u0644"
+            ],
+            "French": [
+                "avidit\u00e9",
+                "cupidit\u00e9",
+                "avarice"
+            ],
+            "English": [
+                "greed, avarice, avidity.",
+                "greed",
+                "avarice",
+                "covetousness"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 832,
+            "uri": "https://sedra.bethmardutho.org/api/root/832.json"
+        },
+        "words": [
+            {
+                "id": 9290,
+                "uri": "https://sedra.bethmardutho.org/api/word/9290.json"
+            },
+            {
+                "id": 23690,
+                "uri": "https://sedra.bethmardutho.org/api/word/23690.json"
+            },
+            {
+                "id": 9291,
+                "uri": "https://sedra.bethmardutho.org/api/word/9291.json"
+            },
+            {
+                "id": 9289,
+                "uri": "https://sedra.bethmardutho.org/api/word/9289.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 15646,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15646.json"
+        },
+        "syriac": "\u0729\u0715\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u062f\u062d",
+                "\u0646\u062a\u0641 \u0634\u0639\u0631\u0647",
+                "\u0642\u0635 \u0634\u0639\u0631\u0647 \u0625\u0643\u0644\u064a\u0644\u0627\u064b",
+                "\u0623\u062c\u062c, \u0644\u0647\u0628 (\u0645\u0636)",
+                "\u0635\u0631\u062e",
+                "\u0627\u062d\u062a\u0631\u0642",
+                "\u00a0"
+            ],
+            "French": [
+                "trouer",
+                "s&#39;arracher les cheveux",
+                "se faire (une tonsure)",
+                "allumer, enflammer",
+                "crier",
+                "br\u00fbler",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to make incisions",
+                "to bore, pierce",
+                "IIIa to light (a fire).",
+                "Ia to tear (hair)",
+                "Ip",
+                "to catch alight, rekindle"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2762,
+            "uri": "https://sedra.bethmardutho.org/api/root/2762.json"
+        },
+        "words": [
+            {
+                "id": 41855,
+                "uri": "https://sedra.bethmardutho.org/api/word/41855.json"
+            },
+            {
+                "id": 41078,
+                "uri": "https://sedra.bethmardutho.org/api/word/41078.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

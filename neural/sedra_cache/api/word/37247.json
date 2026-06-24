@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u071a\u071d\u0710",
+        "western": "\u0723\u0730\u071a\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9447,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9447.json"
+        },
+        "stem": "\u0723\u071a\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0628\u0627\u062d, \u063a\u0637\u0627\u0633"
+            ],
+            "eng": [
+                "swimmer, diver."
+            ],
+            "fre": [
+                "nageur, plongeur"
+            ]
+        },
+        "word": {
+            "id": 37247,
+            "uri": "https://sedra.bethmardutho.org/api/word/37247.json"
+        }
+    }
+]

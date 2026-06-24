@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15050,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15050.json"
+        },
+        "syriac": "\u0728\u0722\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062d\u062a\u0627\u0644"
+            ],
+            "French": [
+                "agir avec ruse"
+            ],
+            "English": [
+                "IIp to plot, contrive",
+                "IIa to act craftily",
+                "to defraud, cheat",
+                "IIIa to devise artifices."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2770,
+            "uri": "https://sedra.bethmardutho.org/api/root/2770.json"
+        },
+        "words": [
+            {
+                "id": 41378,
+                "uri": "https://sedra.bethmardutho.org/api/word/41378.json"
+            },
+            {
+                "id": 41346,
+                "uri": "https://sedra.bethmardutho.org/api/word/41346.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

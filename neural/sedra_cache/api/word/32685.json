@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u0719\u0720\u0710",
+        "western": "\u0710\u0736\u0719\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7654,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7654.json"
+        },
+        "stem": "\u0710\u0719\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0647\u0627\u0628",
+                "\u0645\u063a\u0627\u062f\u0631\u0629"
+            ],
+            "eng": [
+                "journey."
+            ],
+            "fre": [
+                "action d&#39;aller",
+                "d\u00e9part"
+            ]
+        },
+        "word": {
+            "id": 32685,
+            "uri": "https://sedra.bethmardutho.org/api/word/32685.json"
+        }
+    }
+]

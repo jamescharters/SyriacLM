@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072c\u072a\u0713\u072a\u0713\u071d\u0722",
+        "western": "\u0721\u0736\u072b\u072c\u0741\u072a\u0730\u0713\u0742\u072a\u0713\u0742\u073a\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethpalpal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8082,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8082.json"
+        },
+        "stem": "\u072b\u072a\u0713\u072a\u0713",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0638\u0627\u0647\u0631 \u0628\u0640"
+            ],
+            "eng": [
+                "Va to seem to do",
+                "Vp to imagine, to be imagined",
+                "to long for.",
+                "to have hallucinations",
+                "imagine"
+            ],
+            "fre": [
+                "faire en apparence, sembler faire"
+            ]
+        },
+        "word": {
+            "id": 22155,
+            "uri": "https://sedra.bethmardutho.org/api/word/22155.json"
+        }
+    }
+]

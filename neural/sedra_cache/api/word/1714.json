@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u0723\u072a",
+        "western": "\u0710\u0730\u0723\u0733\u072a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 238,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/238.json"
+        },
+        "stem": "\u0710\u0723\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0644\u0633"
+            ],
+            "eng": [
+                "small coin.",
+                "a Roman copper coin"
+            ],
+            "fre": [
+                "as"
+            ]
+        },
+        "word": {
+            "id": 1714,
+            "uri": "https://sedra.bethmardutho.org/api/word/1714.json"
+        }
+    }
+]

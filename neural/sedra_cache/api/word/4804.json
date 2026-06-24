@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u0715\u0725\u072a\u0722\u071d\u072c\u0710",
+        "western": "\u0721\u0715\u0742\u0730\u0725\u072a\u0733\u0722\u073a\u071d\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 740,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/740.json"
+        },
+        "stem": "\u0721\u0715\u0725\u072a\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0635\u0648\u0645",
+                "\u0645\u0646\u0633\u062d\u0642 \u0627\u0644\u0642\u0644\u0628"
+            ],
+            "eng": [
+                "contentious",
+                "vexing, contentious."
+            ],
+            "fre": [
+                "querelleur",
+                "contrit"
+            ]
+        },
+        "word": {
+            "id": 4804,
+            "uri": "https://sedra.bethmardutho.org/api/word/4804.json"
+        }
+    }
+]

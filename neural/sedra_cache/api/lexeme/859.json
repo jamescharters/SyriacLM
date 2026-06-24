@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 859,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/859.json"
+        },
+        "syriac": "\u0719\u0718\u0713",
+        "glosses": {
+            "English": [
+                "join together",
+                "marry",
+                "unite"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b6\u03b5\u1fe6\u03b3\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 547,
+            "uri": "https://sedra.bethmardutho.org/api/root/547.json"
+        },
+        "words": [
+            {
+                "id": 5599,
+                "uri": "https://sedra.bethmardutho.org/api/word/5599.json"
+            },
+            {
+                "id": 5595,
+                "uri": "https://sedra.bethmardutho.org/api/word/5595.json"
+            },
+            {
+                "id": 5596,
+                "uri": "https://sedra.bethmardutho.org/api/word/5596.json"
+            },
+            {
+                "id": 29331,
+                "uri": "https://sedra.bethmardutho.org/api/word/29331.json"
+            },
+            {
+                "id": 5600,
+                "uri": "https://sedra.bethmardutho.org/api/word/5600.json"
+            },
+            {
+                "id": 5598,
+                "uri": "https://sedra.bethmardutho.org/api/word/5598.json"
+            },
+            {
+                "id": 5597,
+                "uri": "https://sedra.bethmardutho.org/api/word/5597.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

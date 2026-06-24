@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0719\u0712\u0715\u0710",
+        "western": "\u0719\u0736\u0712\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12313,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12313.json"
+        },
+        "stem": "\u0719\u0712\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0647\u0631"
+            ],
+            "eng": [
+                "dowry."
+            ],
+            "fre": [
+                "dot  "
+            ]
+        },
+        "word": {
+            "id": 29797,
+            "uri": "https://sedra.bethmardutho.org/api/word/29797.json"
+        }
+    }
+]

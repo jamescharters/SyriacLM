@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 27066,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27066.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0718\u0723 \u072a\u071d\u071b\u071d\u0722\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f37\u03bd\u03bf\u03c2 \u1fe5\u03b7\u03c4\u03af\u03bd\u03b7\u03c2"
+            ],
+            "English": [
+                "wine flavored with the resin of the pine"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1fe5\u03b7\u03c4\u03af\u03bd\u03b7"
+            ]
+        },
+        "words": [
+            {
+                "id": 48830,
+                "uri": "https://sedra.bethmardutho.org/api/word/48830.json"
+            },
+            {
+                "id": 53440,
+                "uri": "https://sedra.bethmardutho.org/api/word/53440.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

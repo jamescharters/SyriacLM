@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2590,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2590.json"
+        },
+        "syriac": "\u0726\u072a\u071d\u0723\u0729\u0720\u0710",
+        "glosses": {
+            "English": [
+                "Priscilla"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1536,
+            "uri": "https://sedra.bethmardutho.org/api/root/1536.json"
+        },
+        "words": [
+            {
+                "id": 16875,
+                "uri": "https://sedra.bethmardutho.org/api/word/16875.json"
+            },
+            {
+                "id": 16874,
+                "uri": "https://sedra.bethmardutho.org/api/word/16874.json"
+            },
+            {
+                "id": 16873,
+                "uri": "https://sedra.bethmardutho.org/api/word/16873.json"
+            },
+            {
+                "id": 16872,
+                "uri": "https://sedra.bethmardutho.org/api/word/16872.json"
+            },
+            {
+                "id": 16876,
+                "uri": "https://sedra.bethmardutho.org/api/word/16876.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

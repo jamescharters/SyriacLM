@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 10016,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10016.json"
+        },
+        "syriac": "\u071d\u0718\u0715",
+        "glosses": {
+            "English": [
+                "the letter Yudh",
+                "numerical value: 10.",
+                "jot, tip of letter.",
+                "jot, tip of letter.",
+                "jot",
+                "Yudh"
+            ],
+            "Arabic": [
+                "(\u062d\u0631\u0641) \u064a\u0648\u062f"
+            ],
+            "French": [
+                "( lettre) y\u00fbd"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 8878,
+                "uri": "https://sedra.bethmardutho.org/api/word/8878.json"
+            },
+            {
+                "id": 34753,
+                "uri": "https://sedra.bethmardutho.org/api/word/34753.json"
+            },
+            {
+                "id": 31461,
+                "uri": "https://sedra.bethmardutho.org/api/word/31461.json"
+            }
+        ]
+    }
+]

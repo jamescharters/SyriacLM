@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u072c\u071f\u072a\u0719\u072c",
+        "western": "\u0710\u0736\u072c\u0742\u071f\u0741\u0730\u072a\u0719\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1587,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1587.json"
+        },
+        "stem": "\u071f\u072a\u0719",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to proclaim, preach",
+                "IIa to proscribe",
+                "be preached",
+                "preach",
+                "be proclaimed",
+                "to execrate, disinherit publicly.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u071f\u072a\u0736\u0719</span> to be proclaimed"
+            ]
+        },
+        "word": {
+            "id": 10450,
+            "uri": "https://sedra.bethmardutho.org/api/word/10450.json"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15038,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15038.json"
+        },
+        "syriac": "\u0713\u072b\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0633\u062f (\u0645\u0636)",
+                "\u062c\u0639\u0644\u0647 \u0645\u062d\u0633\u0648\u0633\u0627\u064b, \u0623\u0634\u0639\u0631 \u0628\u0640"
+            ],
+            "French": [
+                "incarner , pouvoir d&#39;un corps",
+                "rendre sensible"
+            ],
+            "English": [
+                "express (in writing)",
+                "IIa to embody, provide with a body",
+                "IIp to become embodied, to take form, shape, to become solidified."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2060,
+            "uri": "https://sedra.bethmardutho.org/api/root/2060.json"
+        },
+        "words": [
+            {
+                "id": 41061,
+                "uri": "https://sedra.bethmardutho.org/api/word/41061.json"
+            },
+            {
+                "id": 40915,
+                "uri": "https://sedra.bethmardutho.org/api/word/40915.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1257,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1257.json"
+        },
+        "syriac": "\u071b\u0722\u0726\u0710",
+        "glosses": {
+            "English": [
+                "defiled",
+                "unclean",
+                "impure",
+                "filthy",
+                "defiled, polluted, filthy, foul."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 741,
+            "uri": "https://sedra.bethmardutho.org/api/root/741.json"
+        },
+        "words": [
+            {
+                "id": 8197,
+                "uri": "https://sedra.bethmardutho.org/api/word/8197.json"
+            },
+            {
+                "id": 8196,
+                "uri": "https://sedra.bethmardutho.org/api/word/8196.json"
+            },
+            {
+                "id": 8195,
+                "uri": "https://sedra.bethmardutho.org/api/word/8195.json"
+            },
+            {
+                "id": 8194,
+                "uri": "https://sedra.bethmardutho.org/api/word/8194.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

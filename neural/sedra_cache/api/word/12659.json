@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0722\u0718\u0721\u0710",
+        "western": "\u0722\u0733\u0718\u0721\u073a\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1932,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1932.json"
+        },
+        "stem": "\u0722\u0718\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "take hold",
+                "+<span class=\"selectableFont\">\u0710\u0736\u071a\u0730\u0715</span> to take control, to spread.",
+                "domain, territory, pasture"
+            ]
+        },
+        "word": {
+            "id": 12659,
+            "uri": "https://sedra.bethmardutho.org/api/word/12659.json"
+        }
+    }
+]

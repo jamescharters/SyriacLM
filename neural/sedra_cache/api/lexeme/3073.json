@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3073,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3073.json"
+        },
+        "syriac": "\u072a\u0729\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0637\u062f (\u0645\u0636), \u062b\u0628\u062a (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "\u00e9tablir solidement, fixer",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to make solid",
+                "press down",
+                "IIp",
+                "IIIa to patch.",
+                "Ip",
+                "Ia to spread out, to make firm, to press down, to wedge in"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1789,
+            "uri": "https://sedra.bethmardutho.org/api/root/1789.json"
+        },
+        "words": [
+            {
+                "id": 19995,
+                "uri": "https://sedra.bethmardutho.org/api/word/19995.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

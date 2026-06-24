@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15025,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15025.json"
+        },
+        "syriac": "\u0726\u071f\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0631\u062b\u0631"
+            ],
+            "French": [
+                "bavarder"
+            ],
+            "English": [
+                "IIa to gabble, to chatter",
+                "IIp to be insolent, to abuse."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2856,
+            "uri": "https://sedra.bethmardutho.org/api/root/2856.json"
+        },
+        "words": [
+            {
+                "id": 41212,
+                "uri": "https://sedra.bethmardutho.org/api/word/41212.json"
+            },
+            {
+                "id": 41106,
+                "uri": "https://sedra.bethmardutho.org/api/word/41106.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

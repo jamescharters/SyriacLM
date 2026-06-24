@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0725\u0722\u0725\u0722",
+        "western": "\u0725\u0730\u0722\u0725\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14774,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14774.json"
+        },
+        "stem": "\u0725\u0722\u0725\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to cloud over."
+            ]
+        },
+        "word": {
+            "id": 40869,
+            "uri": "https://sedra.bethmardutho.org/api/word/40869.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072a\u071f\u0712\u0710",
+        "western": "\u072a\u0730\u071f\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11648,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11648.json"
+        },
+        "stem": "\u072a\u071f\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0644\u0633",
+                "\u0631\u062d\u0649"
+            ],
+            "eng": [
+                "upper part of millstone",
+                "rope (holding rudder).",
+                "cable"
+            ],
+            "fre": [
+                "meule de moulin",
+                "amarre"
+            ]
+        },
+        "word": {
+            "id": 34020,
+            "uri": "https://sedra.bethmardutho.org/api/word/34020.json"
+        }
+    }
+]

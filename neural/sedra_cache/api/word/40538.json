@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u072a\u0721\u072b",
+        "western": "\u071b\u0730\u072a\u0721\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14739,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14739.json"
+        },
+        "stem": "\u071b\u072a\u0721\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to spoil, blot."
+            ]
+        },
+        "word": {
+            "id": 40538,
+            "uri": "https://sedra.bethmardutho.org/api/word/40538.json"
+        }
+    }
+]

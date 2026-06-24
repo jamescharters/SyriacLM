@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 293,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/293.json"
+        },
+        "syriac": "\u0710\u072a\u0721\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u062b\u0646\u064a",
+                "\u0633\u0648\u0631\u064a"
+            ],
+            "French": [
+                "pa\u00efen",
+                "syrien"
+            ],
+            "English": [
+                "Gentile",
+                "Aramaean",
+                "pagan.",
+                "Aramaean"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 215,
+            "uri": "https://sedra.bethmardutho.org/api/root/215.json"
+        },
+        "words": [
+            {
+                "id": 1925,
+                "uri": "https://sedra.bethmardutho.org/api/word/1925.json"
+            },
+            {
+                "id": 1924,
+                "uri": "https://sedra.bethmardutho.org/api/word/1924.json"
+            },
+            {
+                "id": 1923,
+                "uri": "https://sedra.bethmardutho.org/api/word/1923.json"
+            },
+            {
+                "id": 1922,
+                "uri": "https://sedra.bethmardutho.org/api/word/1922.json"
+            },
+            {
+                "id": 1921,
+                "uri": "https://sedra.bethmardutho.org/api/word/1921.json"
+            },
+            {
+                "id": 1918,
+                "uri": "https://sedra.bethmardutho.org/api/word/1918.json"
+            },
+            {
+                "id": 1920,
+                "uri": "https://sedra.bethmardutho.org/api/word/1920.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

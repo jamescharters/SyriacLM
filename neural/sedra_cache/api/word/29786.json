@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0713\u072a\u071f",
+        "western": "\u0713\u0730\u072a\u071f",
+        "number": "singular",
+        "lexeme": {
+            "id": 6504,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6504.json"
+        },
+        "stem": "\u0713\u072a\u071f",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0648\u0633"
+            ],
+            "eng": [
+                "crossbow, ballista."
+            ],
+            "fre": [
+                "arbal\u00e8te"
+            ]
+        },
+        "word": {
+            "id": 29786,
+            "uri": "https://sedra.bethmardutho.org/api/word/29786.json"
+        }
+    }
+]

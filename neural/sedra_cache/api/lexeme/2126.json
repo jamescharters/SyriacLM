@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2126,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2126.json"
+        },
+        "syriac": "\u0723\u071f\u0718\u0720\u072c\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0637\u0646"
+            ],
+            "French": [
+                "prudent"
+            ],
+            "English": [
+                "intelligent",
+                "prudent",
+                "intelligent, understanding, prudent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1270,
+            "uri": "https://sedra.bethmardutho.org/api/root/1270.json"
+        },
+        "words": [
+            {
+                "id": 14137,
+                "uri": "https://sedra.bethmardutho.org/api/word/14137.json"
+            },
+            {
+                "id": 14136,
+                "uri": "https://sedra.bethmardutho.org/api/word/14136.json"
+            },
+            {
+                "id": 14139,
+                "uri": "https://sedra.bethmardutho.org/api/word/14139.json"
+            },
+            {
+                "id": 14138,
+                "uri": "https://sedra.bethmardutho.org/api/word/14138.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

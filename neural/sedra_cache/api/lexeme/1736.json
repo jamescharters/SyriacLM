@@ -1,0 +1,78 @@
+[
+    {
+        "lexeme": {
+            "id": 1736,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1736.json"
+        },
+        "syriac": "\u0721\u071a\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u0631\u0628",
+                "\u062c\u0631\u062d",
+                "\u0642\u0631\u062d"
+            ],
+            "French": [
+                "coup",
+                "blessure",
+                "plaie"
+            ],
+            "English": [
+                "wound",
+                "plague",
+                "stroke",
+                "disease, sickness",
+                "affliction.",
+                "blow, wound"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1038,
+            "uri": "https://sedra.bethmardutho.org/api/root/1038.json"
+        },
+        "words": [
+            {
+                "id": 11399,
+                "uri": "https://sedra.bethmardutho.org/api/word/11399.json"
+            },
+            {
+                "id": 11398,
+                "uri": "https://sedra.bethmardutho.org/api/word/11398.json"
+            },
+            {
+                "id": 11397,
+                "uri": "https://sedra.bethmardutho.org/api/word/11397.json"
+            },
+            {
+                "id": 11402,
+                "uri": "https://sedra.bethmardutho.org/api/word/11402.json"
+            },
+            {
+                "id": 11401,
+                "uri": "https://sedra.bethmardutho.org/api/word/11401.json"
+            },
+            {
+                "id": 11400,
+                "uri": "https://sedra.bethmardutho.org/api/word/11400.json"
+            },
+            {
+                "id": 11406,
+                "uri": "https://sedra.bethmardutho.org/api/word/11406.json"
+            },
+            {
+                "id": 11405,
+                "uri": "https://sedra.bethmardutho.org/api/word/11405.json"
+            },
+            {
+                "id": 11404,
+                "uri": "https://sedra.bethmardutho.org/api/word/11404.json"
+            },
+            {
+                "id": 11403,
+                "uri": "https://sedra.bethmardutho.org/api/word/11403.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

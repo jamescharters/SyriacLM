@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0715\u0715\u072b\u0717",
+        "western": "\u0715\u0741\u0715\u0742\u0733\u072b\u0736\u0717",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 675,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/675.json"
+        },
+        "stem": "\u0715\u0718\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa <span class=\"selectableFont\">\u0715\u0730\u071d\u0736\u072b</span> to tread down.",
+                "Ia to tread, trample",
+                "to transgress",
+                "Ip to be trampled",
+                "trample"
+            ]
+        },
+        "word": {
+            "id": 4242,
+            "uri": "https://sedra.bethmardutho.org/api/word/4242.json"
+        }
+    }
+]

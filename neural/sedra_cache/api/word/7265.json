@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071a\u072a\u0718\u0712\u0710",
+        "western": "\u071a\u0730\u072a\u073d\u0718\u0712\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1144,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1144.json"
+        },
+        "stem": "\u071a\u072a\u0718\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0641\u0631",
+                "\u0641\u0627\u0631\u063a",
+                "\u0645\u0639\u0641\u0646 (\u0645\u0636)"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u071a\u0730\u072a\u0308\u073d\u0718\u0712\u0736\u0710</span> wild grapes.",
+                "carob",
+                "carob tree",
+                "husk"
+            ],
+            "fre": [
+                "vide",
+                "pourri",
+                "d\u00e9sert"
+            ]
+        },
+        "word": {
+            "id": 7265,
+            "uri": "https://sedra.bethmardutho.org/api/word/7265.json"
+        }
+    }
+]

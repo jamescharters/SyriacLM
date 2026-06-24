@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 728,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/728.json"
+        },
+        "syriac": "\u0715\u0721\u0725\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0645\u0639\u0629"
+            ],
+            "French": [
+                "larme"
+            ],
+            "English": [
+                "tear",
+                "tear, tears."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 459,
+            "uri": "https://sedra.bethmardutho.org/api/root/459.json"
+        },
+        "words": [
+            {
+                "id": 4741,
+                "uri": "https://sedra.bethmardutho.org/api/word/4741.json"
+            },
+            {
+                "id": 4736,
+                "uri": "https://sedra.bethmardutho.org/api/word/4736.json"
+            },
+            {
+                "id": 4742,
+                "uri": "https://sedra.bethmardutho.org/api/word/4742.json"
+            },
+            {
+                "id": 4738,
+                "uri": "https://sedra.bethmardutho.org/api/word/4738.json"
+            },
+            {
+                "id": 42256,
+                "uri": "https://sedra.bethmardutho.org/api/word/42256.json"
+            },
+            {
+                "id": 4737,
+                "uri": "https://sedra.bethmardutho.org/api/word/4737.json"
+            },
+            {
+                "id": 4740,
+                "uri": "https://sedra.bethmardutho.org/api/word/4740.json"
+            },
+            {
+                "id": 4739,
+                "uri": "https://sedra.bethmardutho.org/api/word/4739.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

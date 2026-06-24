@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0717\u0712\u0712",
+        "western": "\u0717\u0730\u0712\u0736\u0712",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15301,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15301.json"
+        },
+        "stem": "\u0717\u0712\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0645\u0639"
+            ],
+            "eng": [
+                "IIa to blossom",
+                "IIp.",
+                "to glitter, to dazzle",
+                "to flourish"
+            ],
+            "fre": [
+                "briller"
+            ]
+        },
+        "word": {
+            "id": 40897,
+            "uri": "https://sedra.bethmardutho.org/api/word/40897.json"
+        }
+    }
+]

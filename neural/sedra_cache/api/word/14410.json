@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0723\u0722\u0718\u072a\u072c\u0710",
+        "western": "\u0723\u0730\u0722\u0718\u0730\u072a\u072c\u0741\u0733\u0710",
+        "eastern": "\u0723\u0732\u0722\u0718\u0732\u072a\u072c\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2166,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2166.json"
+        },
+        "stem": "\u0723\u0722\u0718\u072a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "crown of head.",
+                "helmet",
+                "head-covering",
+                "helmet",
+                "cap",
+                "helmet"
+            ]
+        },
+        "word": {
+            "id": 14410,
+            "uri": "https://sedra.bethmardutho.org/api/word/14410.json"
+        }
+    }
+]

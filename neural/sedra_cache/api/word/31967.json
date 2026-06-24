@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u072b\u0722\u071d\u0710",
+        "western": "\u072b\u0722\u0730\u071d\u0308\u0733\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5200,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5200.json"
+        },
+        "stem": "\u072b\u0722\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "year",
+                "<span class=\"selectableFont\">\u072b\u0722\u0730\u072c</span> era of."
+            ]
+        },
+        "word": {
+            "id": 31967,
+            "uri": "https://sedra.bethmardutho.org/api/word/31967.json"
+        }
+    }
+]

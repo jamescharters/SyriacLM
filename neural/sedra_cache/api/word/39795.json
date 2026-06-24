@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0729\u0726\u0720\u0726\u0720\u0710",
+        "western": "\u0729\u0726\u0730\u0720\u0726\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5765,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5765.json"
+        },
+        "stem": "\u0729\u0726\u0720\u0726\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0637\u0644\u0639",
+                "\u0645\u0628\u062f\u0639"
+            ],
+            "eng": [
+                "mixture, variety."
+            ],
+            "fre": [
+                "initi\u00e9",
+                "novateur"
+            ]
+        },
+        "word": {
+            "id": 39795,
+            "uri": "https://sedra.bethmardutho.org/api/word/39795.json"
+        }
+    }
+]

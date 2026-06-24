@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0717\u0721\u0723\u0710",
+        "western": "\u0717\u0721\u0733\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8668,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8668.json"
+        },
+        "stem": "\u0717\u0721\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0628\u0627\u062d\u062b\u0629, \u0645\u0646\u0627\u0642\u0634\u0629"
+            ],
+            "eng": [
+                "investigation",
+                "discussion."
+            ],
+            "fre": [
+                "recherche, discussion"
+            ]
+        },
+        "word": {
+            "id": 33373,
+            "uri": "https://sedra.bethmardutho.org/api/word/33373.json"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0729\u072a\u071d\u0721\u0710",
+        "western": "\u0729\u072a\u073a\u071d\u0721\u0733\u0710",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2887,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2887.json"
+        },
+        "stem": "\u0729\u072a\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0634\u0649 (\u0645\u0636) \u0628\u0640",
+                "\u00a0",
+                "\u063a\u0637\u0649 (\u0645\u0636) \u0628\u0640"
+            ],
+            "eng": [
+                "IIa.",
+                "Ip",
+                "overlay",
+                "Ia to overlay, plate, cover (with metal etc.)"
+            ],
+            "fre": [
+                "incruster de",
+                "\u00a0",
+                "recouvrir de"
+            ]
+        },
+        "word": {
+            "id": 18835,
+            "uri": "https://sedra.bethmardutho.org/api/word/18835.json"
+        }
+    }
+]

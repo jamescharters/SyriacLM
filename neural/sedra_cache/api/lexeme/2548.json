@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 2548,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2548.json"
+        },
+        "syriac": "\u0726\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u062f\u0631, \u0646\u0635\u064a\u0628",
+                "\u062d\u0635\u0629",
+                "\u0642\u0631\u0639\u0629",
+                "\u0635\u0648\u062a, \u0631\u0636\u0649"
+            ],
+            "French": [
+                "sort",
+                "part",
+                "tirage au sort",
+                "suffrage"
+            ],
+            "English": [
+                "lot",
+                "portion",
+                "ballot.",
+                "lot, portion"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1511,
+            "uri": "https://sedra.bethmardutho.org/api/root/1511.json"
+        },
+        "words": [
+            {
+                "id": 16622,
+                "uri": "https://sedra.bethmardutho.org/api/word/16622.json"
+            },
+            {
+                "id": 16623,
+                "uri": "https://sedra.bethmardutho.org/api/word/16623.json"
+            },
+            {
+                "id": 16625,
+                "uri": "https://sedra.bethmardutho.org/api/word/16625.json"
+            },
+            {
+                "id": 16624,
+                "uri": "https://sedra.bethmardutho.org/api/word/16624.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

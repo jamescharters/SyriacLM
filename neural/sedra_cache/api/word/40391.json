@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0723\u0723",
+        "western": "\u0723\u0730\u0723\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15684,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15684.json"
+        },
+        "stem": "\u0723\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to corrode.",
+                "IIa <span class=\"selectableFont\">\u0723\u0730\u0723\u0736\u0723</span> to gnaw",
+                "Ia to gnaw"
+            ]
+        },
+        "word": {
+            "id": 40391,
+            "uri": "https://sedra.bethmardutho.org/api/word/40391.json"
+        }
+    }
+]

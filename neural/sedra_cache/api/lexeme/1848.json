@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1848,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1848.json"
+        },
+        "syriac": "\u0721\u072a\u0715",
+        "glosses": {
+            "English": [
+                "IIIa to incite to revolt",
+                "to go beyond, surpass",
+                "rebel",
+                "resist",
+                "Ip to rebel",
+                "to withdraw, take shelter",
+                "to fortify",
+                "to fortify.",
+                "IIa to rebel, resist, struggle against",
+                "Ia to rebel, revolt, defy, resist",
+                "to be oppressed"
+            ],
+            "Arabic": [
+                "\u063a\u0644\u0628",
+                "\u0627\u0644\u062a\u062c\u0623"
+            ],
+            "French": [
+                "l&#39;emporter",
+                "chercher refuge"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1103,
+            "uri": "https://sedra.bethmardutho.org/api/root/1103.json"
+        },
+        "words": [
+            {
+                "id": 12233,
+                "uri": "https://sedra.bethmardutho.org/api/word/12233.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

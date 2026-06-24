@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 3400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3400.json"
+        },
+        "syriac": "\u072c\u0720\u072c\u0721\u0710\u0710",
+        "glosses": {
+            "English": [
+                "three hundred",
+                "three hundred."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1973,
+            "uri": "https://sedra.bethmardutho.org/api/root/1973.json"
+        },
+        "words": [
+            {
+                "id": 22528,
+                "uri": "https://sedra.bethmardutho.org/api/word/22528.json"
+            },
+            {
+                "id": 11180,
+                "uri": "https://sedra.bethmardutho.org/api/word/11180.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "lexeme": {
+            "id": 2819,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2819.json"
+        },
+        "syriac": "\u0729\u0720\u071d\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0641\u064a\u0641",
+                "\u0635\u063a\u064a\u0631",
+                "\u0642\u0644\u064a\u0644",
+                "\u0631\u0634\u064a\u0642, \u0633\u0631\u064a\u0639",
+                "\u0630\u0648 \u0633\u0645\u0639 \u062f\u0642\u064a\u0642"
+            ],
+            "French": [
+                "l\u00e9ger",
+                "petit",
+                "en petit nombre",
+                "agile, rapide",
+                "d&#39;ou\u00efe fine"
+            ],
+            "English": [
+                "little",
+                "light",
+                "swift",
+                "light",
+                "swift",
+                "<span class=\"selectableFont\">\u0729\u0730\u0720\u073a\u071d\u0720</span> a little, few",
+                "<span class=\"selectableFont\">\u0712\u0728\u073a\u071d\u072a \u0729\u0730\u0720\u073a\u071d\u0720</span> almost."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1665,
+            "uri": "https://sedra.bethmardutho.org/api/root/1665.json"
+        },
+        "words": [
+            {
+                "id": 18359,
+                "uri": "https://sedra.bethmardutho.org/api/word/18359.json"
+            },
+            {
+                "id": 18358,
+                "uri": "https://sedra.bethmardutho.org/api/word/18358.json"
+            },
+            {
+                "id": 18357,
+                "uri": "https://sedra.bethmardutho.org/api/word/18357.json"
+            },
+            {
+                "id": 18356,
+                "uri": "https://sedra.bethmardutho.org/api/word/18356.json"
+            },
+            {
+                "id": 18362,
+                "uri": "https://sedra.bethmardutho.org/api/word/18362.json"
+            },
+            {
+                "id": 18361,
+                "uri": "https://sedra.bethmardutho.org/api/word/18361.json"
+            },
+            {
+                "id": 18360,
+                "uri": "https://sedra.bethmardutho.org/api/word/18360.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

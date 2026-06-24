@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072c\u071d\u0721\u0722\u071d\u0710",
+        "western": "\u072c\u0730\u071d\u0721\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9885,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9885.json"
+        },
+        "stem": "\u072c\u071d\u0721\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0646\u0648\u0628\u064a",
+                "\u062c\u0646\u0648\u0628"
+            ],
+            "eng": [
+                "southerly, southern."
+            ],
+            "fre": [
+                "m\u00e9ridional",
+                "sud"
+            ]
+        },
+        "word": {
+            "id": 33959,
+            "uri": "https://sedra.bethmardutho.org/api/word/33959.json"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0712\u072a\u071d\u0723",
+        "western": "\u0710\u0730\u0712\u0730\u072a\u071d\u073a\u0723",
+        "lexeme": {
+            "id": 33402,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33402.json"
+        },
+        "stem": "\u0710\u0712\u072a\u071d\u0723",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u0386\u03b2\u03ac\u03c1\u03b5\u03c2"
+            ],
+            "lat": [
+                "gens barbara",
+                "Avares"
+            ]
+        },
+        "word": {
+            "id": 59776,
+            "uri": "https://sedra.bethmardutho.org/api/word/59776.json"
+        }
+    }
+]

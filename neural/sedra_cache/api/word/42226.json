@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0710",
+        "western": "\u071f\u0730\u0718\u0308\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1505,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1505.json"
+        },
+        "stem": "\u071f\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "window",
+                "window.",
+                "lattice"
+            ]
+        },
+        "word": {
+            "id": 42226,
+            "uri": "https://sedra.bethmardutho.org/api/word/42226.json"
+        }
+    }
+]

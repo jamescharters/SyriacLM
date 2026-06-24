@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1502,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1502.json"
+        },
+        "syriac": "\u071f\u0718\u072b\u0726\u0710",
+        "glosses": {
+            "English": [
+                "covering",
+                "blanket, rug, coverlet.",
+                "blanket, rug, coverlet."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 888,
+            "uri": "https://sedra.bethmardutho.org/api/root/888.json"
+        },
+        "words": [
+            {
+                "id": 32372,
+                "uri": "https://sedra.bethmardutho.org/api/word/32372.json"
+            },
+            {
+                "id": 39560,
+                "uri": "https://sedra.bethmardutho.org/api/word/39560.json"
+            },
+            {
+                "id": 9878,
+                "uri": "https://sedra.bethmardutho.org/api/word/9878.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

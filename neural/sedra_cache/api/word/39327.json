@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0710\u071d\u071b\u0710",
+        "western": "\u0723\u0730\u0710\u073a\u071d\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6546,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6546.json"
+        },
+        "stem": "\u0723\u0710\u071d\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u062a\u0631\u0642"
+            ],
+            "eng": [
+                "burnt up."
+            ],
+            "fre": [
+                "br\u00fbl\u00e9"
+            ]
+        },
+        "word": {
+            "id": 39327,
+            "uri": "https://sedra.bethmardutho.org/api/word/39327.json"
+        }
+    }
+]

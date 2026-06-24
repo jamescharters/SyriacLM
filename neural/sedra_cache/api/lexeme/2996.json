@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2996,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2996.json"
+        },
+        "syriac": "\u072a\u071a\u071d\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062d\u0628\u0648\u0628"
+            ],
+            "French": [
+                "aimable"
+            ],
+            "English": [
+                "beloved",
+                "beloved, friend."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1753,
+            "uri": "https://sedra.bethmardutho.org/api/root/1753.json"
+        },
+        "words": [
+            {
+                "id": 19500,
+                "uri": "https://sedra.bethmardutho.org/api/word/19500.json"
+            },
+            {
+                "id": 19505,
+                "uri": "https://sedra.bethmardutho.org/api/word/19505.json"
+            },
+            {
+                "id": 19502,
+                "uri": "https://sedra.bethmardutho.org/api/word/19502.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

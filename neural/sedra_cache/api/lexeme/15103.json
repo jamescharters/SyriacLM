@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15103,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15103.json"
+        },
+        "syriac": "\u0715\u072b\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0647\u0628"
+            ],
+            "French": [
+                "donner"
+            ],
+            "English": [
+                "IIa to donate, grant, Kth. to give a gift",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3209,
+            "uri": "https://sedra.bethmardutho.org/api/root/3209.json"
+        },
+        "words": [
+            {
+                "id": 40774,
+                "uri": "https://sedra.bethmardutho.org/api/word/40774.json"
+            },
+            {
+                "id": 40693,
+                "uri": "https://sedra.bethmardutho.org/api/word/40693.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

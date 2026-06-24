@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15600,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15600.json"
+        },
+        "syriac": "\u071f\u072a\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0642\u0649 (\u0645\u0636)"
+            ],
+            "French": [
+                "\u00e9monder"
+            ],
+            "English": [
+                "Ia to lop off, to prune."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2538,
+            "uri": "https://sedra.bethmardutho.org/api/root/2538.json"
+        },
+        "words": [
+            {
+                "id": 42004,
+                "uri": "https://sedra.bethmardutho.org/api/word/42004.json"
+            },
+            {
+                "id": 40816,
+                "uri": "https://sedra.bethmardutho.org/api/word/40816.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

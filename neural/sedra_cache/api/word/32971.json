@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0725\u072a\u0715\u0710",
+        "western": "\u0725\u072a\u0733\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8750,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8750.json"
+        },
+        "stem": "\u0725\u072a\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062e\u0628\u0637",
+                "\u0639\u064a\u0631",
+                "\u0642\u0636\u064a\u0628",
+                "\u0639\u0631\u0627\u062f\u0629",
+                "\u0635\u0627\u0631"
+            ],
+            "eng": [
+                "mast, pole",
+                "onager, wild ass."
+            ],
+            "fre": [
+                "m\u00e2t",
+                "gaule",
+                "onagre",
+                "b\u00e2ton",
+                "onagre"
+            ]
+        },
+        "word": {
+            "id": 32971,
+            "uri": "https://sedra.bethmardutho.org/api/word/32971.json"
+        }
+    }
+]

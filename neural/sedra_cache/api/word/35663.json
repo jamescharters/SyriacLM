@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071a\u071d\u0720\u0722\u0710",
+        "western": "\u0721\u071a\u0730\u071d\u0720\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8764,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8764.json"
+        },
+        "stem": "\u0721\u071a\u071d\u0720\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062b\u0628\u062a"
+            ],
+            "eng": [
+                "strengthener."
+            ],
+            "fre": [
+                "qui affermit"
+            ]
+        },
+        "word": {
+            "id": 35663,
+            "uri": "https://sedra.bethmardutho.org/api/word/35663.json"
+        }
+    }
+]

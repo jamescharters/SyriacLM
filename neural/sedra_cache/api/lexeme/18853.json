@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 18853,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18853.json"
+        },
+        "syriac": "\u0715\u0710\u071d\u0722",
+        "glosses": {
+            "English": [
+                "religion/worship",
+                "religion/worship",
+                "religion"
+            ]
+        },
+        "etymologies": {
+            "Arabic": [
+                "It is a loanword from Zend/"
+            ],
+            "Persian": [
+                "It is a loanword from Zend/Avestan"
+            ]
+        },
+        "words": [
+            {
+                "id": 47743,
+                "uri": "https://sedra.bethmardutho.org/api/word/47743.json"
+            },
+            {
+                "id": 45229,
+                "uri": "https://sedra.bethmardutho.org/api/word/45229.json"
+            },
+            {
+                "id": 45227,
+                "uri": "https://sedra.bethmardutho.org/api/word/45227.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

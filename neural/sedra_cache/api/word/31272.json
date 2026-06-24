@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0713\u0720\u0720\u0710",
+        "western": "\u0713\u0720\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5962,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5962.json"
+        },
+        "stem": "\u0713\u0720\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0627\u062f"
+            ],
+            "eng": [
+                "valley."
+            ],
+            "fre": [
+                "vall\u00e9e"
+            ]
+        },
+        "word": {
+            "id": 31272,
+            "uri": "https://sedra.bethmardutho.org/api/word/31272.json"
+        }
+    }
+]

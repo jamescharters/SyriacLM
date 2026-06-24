@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071b\u071b\u072a\u072a\u071f\u0710",
+        "western": "\u071b\u0736\u071b\u072a\u0730\u072a\u071f\u0742\u0730\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12718,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12718.json"
+        },
+        "stem": "\u071b\u071b\u072a\u072a\u071f\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0626\u064a\u0633 \u0631\u0628\u0639"
+            ],
+            "eng": [
+                "tetrarch.",
+                "tetrarch"
+            ],
+            "fre": [
+                "t\u00e9trarque"
+            ]
+        },
+        "word": {
+            "id": 8051,
+            "uri": "https://sedra.bethmardutho.org/api/word/8051.json"
+        }
+    }
+]

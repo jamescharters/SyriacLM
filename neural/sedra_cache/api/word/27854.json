@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0715\u0726\u072c\u071d\u071f\u0710",
+        "western": "\u0715\u0741\u0730\u0726\u0742\u072c\u0742\u073a\u071d\u071f\u0742\u0733\u0710",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2647,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2647.json"
+        },
+        "stem": "\u0726\u072c\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0648\u0646",
+                "\u0631\u0635\u0639 (\u0645\u0636)",
+                "\u062e\u0644\u0637"
+            ],
+            "eng": [
+                "mingle"
+            ],
+            "fre": [
+                "m\u00ealer",
+                "ench\u00e2sser",
+                "peindre"
+            ]
+        },
+        "word": {
+            "id": 27854,
+            "uri": "https://sedra.bethmardutho.org/api/word/27854.json"
+        }
+    }
+]

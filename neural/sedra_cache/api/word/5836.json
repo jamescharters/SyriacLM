@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u0719\u0725\u0729\u0718",
+        "western": "\u0721\u0730\u0719\u0725\u0733\u0729\u073d\u0718",
+        "tense": "infinitive",
+        "kaylo": "aph\u02bfel",
+        "lexeme": {
+            "id": 903,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/903.json"
+        },
+        "stem": "\u0719\u0725\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0631\u062e",
+                "\u0631\u0646 (\u0628\u0648\u0642)"
+            ],
+            "eng": [
+                "Ia to shout, call out",
+                "IIIa to shout, to cry out",
+                "IIIp.",
+                "cry out",
+                "to make to cry out"
+            ],
+            "fre": [
+                "retentir (trompette)",
+                "crier"
+            ]
+        },
+        "word": {
+            "id": 5836,
+            "uri": "https://sedra.bethmardutho.org/api/word/5836.json"
+        }
+    }
+]

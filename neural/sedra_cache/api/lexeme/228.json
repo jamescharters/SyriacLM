@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 228,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/228.json"
+        },
+        "syriac": "\u0710\u0723\u0726\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "cohort",
+                "ball, sphere."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c6\u03b1\u1fd6\u03c1\u03b1"
+            ]
+        },
+        "root": {
+            "id": 172,
+            "uri": "https://sedra.bethmardutho.org/api/root/172.json"
+        },
+        "words": [
+            {
+                "id": 50499,
+                "uri": "https://sedra.bethmardutho.org/api/word/50499.json"
+            },
+            {
+                "id": 1641,
+                "uri": "https://sedra.bethmardutho.org/api/word/1641.json"
+            },
+            {
+                "id": 1639,
+                "uri": "https://sedra.bethmardutho.org/api/word/1639.json"
+            },
+            {
+                "id": 1640,
+                "uri": "https://sedra.bethmardutho.org/api/word/1640.json"
+            },
+            {
+                "id": 1638,
+                "uri": "https://sedra.bethmardutho.org/api/word/1638.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u0718\u0729\u0720\u0710",
+        "western": "\u0721\u073d\u0718\u0729\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7781,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7781.json"
+        },
+        "stem": "\u0721\u0718\u0729\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0642\u0644",
+                "\u0645\u062d"
+            ],
+            "eng": [
+                "bdellium."
+            ],
+            "fre": [
+                "gomme aromatique",
+                "jaune d&#39;\u0153uf"
+            ]
+        },
+        "word": {
+            "id": 34720,
+            "uri": "https://sedra.bethmardutho.org/api/word/34720.json"
+        }
+    }
+]

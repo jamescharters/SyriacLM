@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 21012,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21012.json"
+        },
+        "syriac": "\u0710\u0715\u071d\u0729\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u03c4\u03bf \u1f04\u03b4\u03b9\u03ba\u03bf\u03bd"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f04\u03b4\u03b9\u03ba\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48495,
+                "uri": "https://sedra.bethmardutho.org/api/word/48495.json"
+            },
+            {
+                "id": 47386,
+                "uri": "https://sedra.bethmardutho.org/api/word/47386.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

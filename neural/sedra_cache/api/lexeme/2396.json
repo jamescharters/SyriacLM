@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 2396,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2396.json"
+        },
+        "syriac": "\u0725\u0729\u0712\u0710",
+        "glosses": {
+            "English": [
+                "heel",
+                "ankle",
+                "footstep",
+                "heel",
+                "footstep",
+                "result, termination.",
+                "extremity"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1419,
+            "uri": "https://sedra.bethmardutho.org/api/root/1419.json"
+        },
+        "words": [
+            {
+                "id": 26186,
+                "uri": "https://sedra.bethmardutho.org/api/word/26186.json"
+            },
+            {
+                "id": 15904,
+                "uri": "https://sedra.bethmardutho.org/api/word/15904.json"
+            },
+            {
+                "id": 15901,
+                "uri": "https://sedra.bethmardutho.org/api/word/15901.json"
+            },
+            {
+                "id": 23148,
+                "uri": "https://sedra.bethmardutho.org/api/word/23148.json"
+            },
+            {
+                "id": 15907,
+                "uri": "https://sedra.bethmardutho.org/api/word/15907.json"
+            },
+            {
+                "id": 15906,
+                "uri": "https://sedra.bethmardutho.org/api/word/15906.json"
+            },
+            {
+                "id": 15903,
+                "uri": "https://sedra.bethmardutho.org/api/word/15903.json"
+            },
+            {
+                "id": 15902,
+                "uri": "https://sedra.bethmardutho.org/api/word/15902.json"
+            },
+            {
+                "id": 15905,
+                "uri": "https://sedra.bethmardutho.org/api/word/15905.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

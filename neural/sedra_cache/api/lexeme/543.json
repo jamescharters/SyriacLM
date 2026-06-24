@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 543,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/543.json"
+        },
+        "syriac": "\u0713\u071d\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0627\u0646"
+            ],
+            "French": [
+                "adult\u00e8re (personne )"
+            ],
+            "English": [
+                "adulterer",
+                "adulterer."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 359,
+            "uri": "https://sedra.bethmardutho.org/api/root/359.json"
+        },
+        "words": [
+            {
+                "id": 3619,
+                "uri": "https://sedra.bethmardutho.org/api/word/3619.json"
+            },
+            {
+                "id": 3618,
+                "uri": "https://sedra.bethmardutho.org/api/word/3618.json"
+            },
+            {
+                "id": 3617,
+                "uri": "https://sedra.bethmardutho.org/api/word/3617.json"
+            },
+            {
+                "id": 23352,
+                "uri": "https://sedra.bethmardutho.org/api/word/23352.json"
+            },
+            {
+                "id": 3616,
+                "uri": "https://sedra.bethmardutho.org/api/word/3616.json"
+            },
+            {
+                "id": 3615,
+                "uri": "https://sedra.bethmardutho.org/api/word/3615.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

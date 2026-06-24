@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15665,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15665.json"
+        },
+        "syriac": "\u0728\u0718\u071a",
+        "glosses": {
+            "English": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u0718\u0730\u071a</span>, Ia to feel a sharp pain."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2229,
+            "uri": "https://sedra.bethmardutho.org/api/root/2229.json"
+        },
+        "words": [
+            {
+                "id": 41629,
+                "uri": "https://sedra.bethmardutho.org/api/word/41629.json"
+            },
+            {
+                "id": 40619,
+                "uri": "https://sedra.bethmardutho.org/api/word/40619.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

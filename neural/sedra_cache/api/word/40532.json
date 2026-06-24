@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0721\u071a",
+        "western": "\u0729\u0721\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15743,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15743.json"
+        },
+        "stem": "\u0729\u0721\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to grind flour."
+            ]
+        },
+        "word": {
+            "id": 40532,
+            "uri": "https://sedra.bethmardutho.org/api/word/40532.json"
+        }
+    }
+]

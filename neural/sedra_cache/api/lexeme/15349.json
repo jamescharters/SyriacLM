@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15349,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15349.json"
+        },
+        "syriac": "\u072c\u0718\u072a",
+        "glosses": {
+            "English": [
+                "amazed",
+                "(for <span class=\"selectableFont\">\u072c\u0718\u072a</span>, IIIa <span class=\"selectableFont\">\u0710\u0730\u072c\u073a\u071d\u072a</span>, see <span class=\"selectableFont\">\u072c\u0733\u072a</span>).",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072c\u0718\u0730\u072a</span> to daze, bewilder"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3220,
+            "uri": "https://sedra.bethmardutho.org/api/root/3220.json"
+        },
+        "words": [
+            {
+                "id": 22439,
+                "uri": "https://sedra.bethmardutho.org/api/word/22439.json"
+            },
+            {
+                "id": 41581,
+                "uri": "https://sedra.bethmardutho.org/api/word/41581.json"
+            },
+            {
+                "id": 40449,
+                "uri": "https://sedra.bethmardutho.org/api/word/40449.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

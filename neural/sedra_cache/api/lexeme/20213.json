@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 20213,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20213.json"
+        },
+        "syriac": "\u0710\u0710\u0718\u072a\u071d\u0710",
+        "glosses": {
+            "Latin": [
+                "immaturitas",
+                "intempestivitas"
+            ],
+            "Greek": [
+                "\u1f00\u03c9\u03c1\u03af\u03b1"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c9\u03c1\u03af\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 48180,
+                "uri": "https://sedra.bethmardutho.org/api/word/48180.json"
+            },
+            {
+                "id": 46587,
+                "uri": "https://sedra.bethmardutho.org/api/word/46587.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

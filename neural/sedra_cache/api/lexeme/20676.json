@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 20676,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20676.json"
+        },
+        "syriac": "\u072b\u0720\u0713\u0721",
+        "glosses": {
+            "English": [
+                "turnip",
+                "turnip",
+                "<em>Brassica rapa</em>"
+            ]
+        },
+        "etymologies": {
+            "Arabic": [
+                null
+            ]
+        },
+        "words": [
+            {
+                "id": 48086,
+                "uri": "https://sedra.bethmardutho.org/api/word/48086.json"
+            },
+            {
+                "id": 47050,
+                "uri": "https://sedra.bethmardutho.org/api/word/47050.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0715\u072a",
+        "western": "\u0715\u0730\u072a",
+        "lexeme": {
+            "id": 35914,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/35914.json"
+        },
+        "stem": "\u0715\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "syr": [
+                "to give birth"
+            ]
+        },
+        "word": {
+            "id": 62269,
+            "uri": "https://sedra.bethmardutho.org/api/word/62269.json"
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 617,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/617.json"
+        },
+        "syriac": "\u0713\u0726\u0710",
+        "glosses": {
+            "English": [
+                "pen.",
+                "wing",
+                "wing",
+                "fin"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 395,
+            "uri": "https://sedra.bethmardutho.org/api/root/395.json"
+        },
+        "words": [
+            {
+                "id": 53248,
+                "uri": "https://sedra.bethmardutho.org/api/word/53248.json"
+            },
+            {
+                "id": 23355,
+                "uri": "https://sedra.bethmardutho.org/api/word/23355.json"
+            },
+            {
+                "id": 3946,
+                "uri": "https://sedra.bethmardutho.org/api/word/3946.json"
+            },
+            {
+                "id": 3945,
+                "uri": "https://sedra.bethmardutho.org/api/word/3945.json"
+            },
+            {
+                "id": 3943,
+                "uri": "https://sedra.bethmardutho.org/api/word/3943.json"
+            },
+            {
+                "id": 3944,
+                "uri": "https://sedra.bethmardutho.org/api/word/3944.json"
+            },
+            {
+                "id": 3942,
+                "uri": "https://sedra.bethmardutho.org/api/word/3942.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

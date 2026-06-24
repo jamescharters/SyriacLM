@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0718\u0719\u0715\u071d\u0729\u071d\u0722",
+        "western": "\u0718\u0719\u0730\u0715\u0741\u073a\u071d\u0729\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 845,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/845.json"
+        },
+        "stem": "\u0719\u0715\u071d\u0729\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u062f\u064a\u0642"
+            ],
+            "eng": [
+                "righteous.",
+                "worthy",
+                "just",
+                "righteous",
+                "just, upright"
+            ],
+            "fre": [
+                "juste"
+            ]
+        },
+        "word": {
+            "id": 5502,
+            "uri": "https://sedra.bethmardutho.org/api/word/5502.json"
+        }
+    }
+]

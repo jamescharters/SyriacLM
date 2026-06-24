@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1901,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1901.json"
+        },
+        "syriac": "\u0722\u0713\u0718\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0644\u064a\u0644, \u0642\u0627\u0626\u062f"
+            ],
+            "French": [
+                "guide, chef"
+            ],
+            "English": [
+                "guide",
+                "leader",
+                "conductor",
+                "guide."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1136,
+            "uri": "https://sedra.bethmardutho.org/api/root/1136.json"
+        },
+        "words": [
+            {
+                "id": 29663,
+                "uri": "https://sedra.bethmardutho.org/api/word/29663.json"
+            },
+            {
+                "id": 12483,
+                "uri": "https://sedra.bethmardutho.org/api/word/12483.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

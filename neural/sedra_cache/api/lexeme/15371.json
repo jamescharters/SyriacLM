@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15371,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15371.json"
+        },
+        "syriac": "\u072b\u071a\u072a",
+        "glosses": {
+            "English": [
+                "IIp",
+                "to make gloomy",
+                "IIIa to blacken",
+                "to befoul.",
+                "IIa to blacken",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072b\u071a\u0730\u072a</span>, Ia to become black"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2927,
+            "uri": "https://sedra.bethmardutho.org/api/root/2927.json"
+        },
+        "words": [
+            {
+                "id": 41787,
+                "uri": "https://sedra.bethmardutho.org/api/word/41787.json"
+            },
+            {
+                "id": 40965,
+                "uri": "https://sedra.bethmardutho.org/api/word/40965.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

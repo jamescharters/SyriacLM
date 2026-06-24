@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 1699,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1699.json"
+        },
+        "syriac": "\u0721\u0710\u0722",
+        "glosses": {
+            "English": [
+                "tired",
+                "weary",
+                "neglect",
+                "tedious",
+                "to neglect, grow weary.",
+                "IIIa to be careless, slothful",
+                "Ia act. part. -<span class=\"selectableFont\">\u0721\u0736\u0710\u0722\u0730\u072c \u0720\u200d\u200d</span>, -<span class=\"selectableFont\">\u0721\u0733\u0710\u0722\u0733\u0710 \u0720\u200d\u200d</span> to be wearisome, tedious, tiresome"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1009,
+            "uri": "https://sedra.bethmardutho.org/api/root/1009.json"
+        },
+        "words": [
+            {
+                "id": 11187,
+                "uri": "https://sedra.bethmardutho.org/api/word/11187.json"
+            },
+            {
+                "id": 26052,
+                "uri": "https://sedra.bethmardutho.org/api/word/26052.json"
+            },
+            {
+                "id": 26051,
+                "uri": "https://sedra.bethmardutho.org/api/word/26051.json"
+            },
+            {
+                "id": 26050,
+                "uri": "https://sedra.bethmardutho.org/api/word/26050.json"
+            },
+            {
+                "id": 26049,
+                "uri": "https://sedra.bethmardutho.org/api/word/26049.json"
+            },
+            {
+                "id": 11190,
+                "uri": "https://sedra.bethmardutho.org/api/word/11190.json"
+            },
+            {
+                "id": 11189,
+                "uri": "https://sedra.bethmardutho.org/api/word/11189.json"
+            },
+            {
+                "id": 11188,
+                "uri": "https://sedra.bethmardutho.org/api/word/11188.json"
+            },
+            {
+                "id": 11186,
+                "uri": "https://sedra.bethmardutho.org/api/word/11186.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

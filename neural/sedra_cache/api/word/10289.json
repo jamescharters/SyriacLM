@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071f\u0723\u0726",
+        "western": "\u071f\u0741\u0723\u0736\u0726\u0742",
+        "state": "construct",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1563,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1563.json"
+        },
+        "stem": "\u071f\u0723\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "money",
+                "money",
+                "silver.",
+                "silver"
+            ]
+        },
+        "word": {
+            "id": 10289,
+            "uri": "https://sedra.bethmardutho.org/api/word/10289.json"
+        }
+    }
+]

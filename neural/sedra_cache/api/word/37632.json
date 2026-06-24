@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0721\u072b\u071f\u0712\u072c\u0710",
+        "western": "\u0721\u0730\u072b\u071f\u0730\u0712\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10592,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10592.json"
+        },
+        "stem": "\u0721\u072b\u071f\u0712\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "couch",
+                "bedroom",
+                "<span class=\"selectableFont\">\u0721\u0730\u072b\u071f\u0308\u0712\u0733\u072c\u0733\u0710</span> garden beds."
+            ]
+        },
+        "word": {
+            "id": 37632,
+            "uri": "https://sedra.bethmardutho.org/api/word/37632.json"
+        }
+    }
+]

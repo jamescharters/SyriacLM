@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u072a\u0722\u0718\u072c\u0710",
+        "western": "\u0725\u0730\u072a\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7086,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7086.json"
+        },
+        "stem": "\u0725\u072a\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0646\u0627\u062f"
+            ],
+            "eng": [
+                "hardness, obstinacy, pertinacity."
+            ],
+            "fre": [
+                "opini\u00e2tret\u00e9"
+            ]
+        },
+        "word": {
+            "id": 37195,
+            "uri": "https://sedra.bethmardutho.org/api/word/37195.json"
+        }
+    }
+]

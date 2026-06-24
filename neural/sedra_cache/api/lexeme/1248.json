@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1248,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1248.json"
+        },
+        "syriac": "\u071b\u0720\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0644\u0637\u062e"
+            ],
+            "French": [
+                "\u00eatre souill\u00e9"
+            ],
+            "English": [
+                "soiled",
+                "IIp to be defiled, polluted.",
+                "IIa to make dirty",
+                "Ia to be spotted, filthy",
+                "to infect",
+                "to be despised"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 737,
+            "uri": "https://sedra.bethmardutho.org/api/root/737.json"
+        },
+        "words": [
+            {
+                "id": 8147,
+                "uri": "https://sedra.bethmardutho.org/api/word/8147.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15852,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15852.json"
+        },
+        "syriac": "\u0713\u0720\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0633\u0637",
+                "\u0635\u0631\u062d"
+            ],
+            "French": [
+                "\u00e9tendre",
+                "exposer"
+            ],
+            "English": [
+                "Ia to spread out",
+                "show, explain",
+                "IIa, IIIa to declare, show forth, manifest."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2678,
+            "uri": "https://sedra.bethmardutho.org/api/root/2678.json"
+        },
+        "words": [
+            {
+                "id": 42046,
+                "uri": "https://sedra.bethmardutho.org/api/word/42046.json"
+            },
+            {
+                "id": 40923,
+                "uri": "https://sedra.bethmardutho.org/api/word/40923.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

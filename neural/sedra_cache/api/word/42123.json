@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0723\u072c\u0718\u072a",
+        "western": "\u0722\u0736\u0723\u072c\u073d\u0718\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15534,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15534.json"
+        },
+        "stem": "\u0723\u072c\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to protect",
+                "to shelter",
+                "IIIa to conceal.",
+                "IIa to conceal",
+                "IIp to be sheltered",
+                "to take shelter",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u072c\u073d\u0718\u072a</span>, Ia to hide, cover"
+            ]
+        },
+        "word": {
+            "id": 42123,
+            "uri": "https://sedra.bethmardutho.org/api/word/42123.json"
+        }
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 14638,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14638.json"
+        },
+        "syriac": "\u072b\u0721\u0720\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0645\u0644 (\u0645\u0636), \u0623\u062a\u0645",
+                "\u0642\u0636\u0649 (\u0627\u0644\u0648\u0642\u062a)",
+                "\u0635\u0646\u0639, \u0623\u0642\u0627\u0645",
+                "\u0639\u064a\u062f",
+                "\u0631\u0633\u0645 (\u0627\u0643\u0644\u064a\u0631\u064a\u0643\u064a\u0627\u064b)"
+            ],
+            "French": [
+                "achever, consommer",
+                "passer ( le temps)",
+                "faire , \u00e9tablir",
+                "c\u00e9l\u00e9brer ( une f\u00eate)",
+                "ordonner ( un clerc)"
+            ],
+            "English": [
+                "to be consummated.",
+                "IVp to be fulfilled, made perfect",
+                "to be initiated (in)",
+                "to be celebrated",
+                "Lit. Kth. to hold the censer (of deacons)",
+                "IVa to do completely, to accomplish, to perfect",
+                "to be given over to",
+                "to be full grown"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2743,
+            "uri": "https://sedra.bethmardutho.org/api/root/2743.json"
+        },
+        "words": [
+            {
+                "id": 47113,
+                "uri": "https://sedra.bethmardutho.org/api/word/47113.json"
+            },
+            {
+                "id": 41505,
+                "uri": "https://sedra.bethmardutho.org/api/word/41505.json"
+            },
+            {
+                "id": 40292,
+                "uri": "https://sedra.bethmardutho.org/api/word/40292.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

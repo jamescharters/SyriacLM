@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2784,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2784.json"
+        },
+        "syriac": "\u0729\u0718\u072a\u071d\u0722\u072c\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Corinthian"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1642,
+            "uri": "https://sedra.bethmardutho.org/api/root/1642.json"
+        },
+        "words": [
+            {
+                "id": 18171,
+                "uri": "https://sedra.bethmardutho.org/api/word/18171.json"
+            },
+            {
+                "id": 18170,
+                "uri": "https://sedra.bethmardutho.org/api/word/18170.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15791,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15791.json"
+        },
+        "syriac": "\u0729\u0718\u0719",
+        "glosses": {
+            "English": [
+                "IIa to skip",
+                "Ia to leap",
+                "to palpitate",
+                "to exult."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2399,
+            "uri": "https://sedra.bethmardutho.org/api/root/2399.json"
+        },
+        "words": [
+            {
+                "id": 41750,
+                "uri": "https://sedra.bethmardutho.org/api/word/41750.json"
+            },
+            {
+                "id": 40548,
+                "uri": "https://sedra.bethmardutho.org/api/word/40548.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

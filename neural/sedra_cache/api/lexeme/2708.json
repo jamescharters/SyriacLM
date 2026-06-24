@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 2708,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2708.json"
+        },
+        "syriac": "\u0728\u0725\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u0647\u0627\u0646\u0629, \u0630\u0644",
+                "\u0639\u0627\u0631"
+            ],
+            "French": [
+                "outrage, m\u00e9pris",
+                "infamie"
+            ],
+            "English": [
+                "shame",
+                "dishonor",
+                "ignominy",
+                "disgrace",
+                "shame, dishonor."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1601,
+            "uri": "https://sedra.bethmardutho.org/api/root/1601.json"
+        },
+        "words": [
+            {
+                "id": 17600,
+                "uri": "https://sedra.bethmardutho.org/api/word/17600.json"
+            },
+            {
+                "id": 17599,
+                "uri": "https://sedra.bethmardutho.org/api/word/17599.json"
+            },
+            {
+                "id": 17598,
+                "uri": "https://sedra.bethmardutho.org/api/word/17598.json"
+            },
+            {
+                "id": 17597,
+                "uri": "https://sedra.bethmardutho.org/api/word/17597.json"
+            },
+            {
+                "id": 17596,
+                "uri": "https://sedra.bethmardutho.org/api/word/17596.json"
+            },
+            {
+                "id": 17595,
+                "uri": "https://sedra.bethmardutho.org/api/word/17595.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

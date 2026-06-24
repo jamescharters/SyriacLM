@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 14801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14801.json"
+        },
+        "syriac": "\u0726\u072a\u071f\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u062d\u0642"
+            ],
+            "French": [
+                "broyer"
+            ],
+            "English": [
+                "IVa to pound, to break into pieces, to crumble",
+                "IVp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3045,
+            "uri": "https://sedra.bethmardutho.org/api/root/3045.json"
+        },
+        "words": [
+            {
+                "id": 46025,
+                "uri": "https://sedra.bethmardutho.org/api/word/46025.json"
+            },
+            {
+                "id": 41545,
+                "uri": "https://sedra.bethmardutho.org/api/word/41545.json"
+            },
+            {
+                "id": 40160,
+                "uri": "https://sedra.bethmardutho.org/api/word/40160.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

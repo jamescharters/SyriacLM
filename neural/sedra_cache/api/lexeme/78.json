@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 78,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/78.json"
+        },
+        "syriac": "\u0710\u071d\u071b\u0718\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Ituraea"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 62,
+            "uri": "https://sedra.bethmardutho.org/api/root/62.json"
+        },
+        "words": [
+            {
+                "id": 611,
+                "uri": "https://sedra.bethmardutho.org/api/word/611.json"
+            },
+            {
+                "id": 612,
+                "uri": "https://sedra.bethmardutho.org/api/word/612.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

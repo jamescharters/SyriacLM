@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 14988,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14988.json"
+        },
+        "syriac": "\u0718\u0725\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u064a\u0646 (\u0645\u0643\u0627\u0646\u0627\u064b, \u0648\u0642\u062a\u0627\u064b)",
+                "\u062f\u0639\u0627, \u0627\u0633\u062a\u062d\u0636\u0631",
+                "\u062c\u0645\u0639"
+            ],
+            "French": [
+                "d\u00e9signer ( un lieu, un temps)",
+                "inviter, mander",
+                "rassembler"
+            ],
+            "English": [
+                "to send for",
+                "IIa to appoint a time, place for meeting",
+                "appoint",
+                "fix",
+                "indicate",
+                "IIp to meet at an appointed time",
+                "to assemble",
+                "to be present."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2665,
+            "uri": "https://sedra.bethmardutho.org/api/root/2665.json"
+        },
+        "words": [
+            {
+                "id": 5365,
+                "uri": "https://sedra.bethmardutho.org/api/word/5365.json"
+            },
+            {
+                "id": 5366,
+                "uri": "https://sedra.bethmardutho.org/api/word/5366.json"
+            },
+            {
+                "id": 5364,
+                "uri": "https://sedra.bethmardutho.org/api/word/5364.json"
+            },
+            {
+                "id": 41312,
+                "uri": "https://sedra.bethmardutho.org/api/word/41312.json"
+            },
+            {
+                "id": 41228,
+                "uri": "https://sedra.bethmardutho.org/api/word/41228.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0720\u0729\u0710",
+        "western": "\u071a\u0736\u0720\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6996,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6996.json"
+        },
+        "stem": "\u071a\u0720\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u062f\u0631"
+            ],
+            "eng": [
+                "fate, destiny, lot, portion."
+            ],
+            "fre": [
+                "destin"
+            ]
+        },
+        "word": {
+            "id": 30044,
+            "uri": "https://sedra.bethmardutho.org/api/word/30044.json"
+        }
+    }
+]

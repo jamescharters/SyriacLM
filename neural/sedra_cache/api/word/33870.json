@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0719\u0718\u0721\u072a\u0710",
+        "western": "\u0719\u073d\u0718\u0721\u0733\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11655,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11655.json"
+        },
+        "stem": "\u0719\u0718\u0721\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0646\u0627\u0621, \u062a\u0631\u062a\u064a\u0644",
+                "\u062a\u0631\u0646\u0645"
+            ],
+            "eng": [
+                "psalmody, chant."
+            ],
+            "fre": [
+                "psalmodie",
+                "chant"
+            ]
+        },
+        "word": {
+            "id": 33870,
+            "uri": "https://sedra.bethmardutho.org/api/word/33870.json"
+        }
+    }
+]

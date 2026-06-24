@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 2894,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2894.json"
+        },
+        "syriac": "\u0729\u0718\u072a\u072b\u0710",
+        "glosses": {
+            "English": [
+                "frost, iciness",
+                "cold",
+                "refrigeration."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1717,
+            "uri": "https://sedra.bethmardutho.org/api/root/1717.json"
+        },
+        "words": [
+            {
+                "id": 18862,
+                "uri": "https://sedra.bethmardutho.org/api/word/18862.json"
+            },
+            {
+                "id": 18863,
+                "uri": "https://sedra.bethmardutho.org/api/word/18863.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

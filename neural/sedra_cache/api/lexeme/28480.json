@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28480,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28480.json"
+        },
+        "syriac": "\u0710\u0718\u0726\u072a\u0718\u0723\u071d\u0722\u071d",
+        "glosses": {
+            "Greek": [
+                "\u03b5\u1f50\u03c6\u03c1\u03bf\u03c3\u03cd\u03bd\u03b7"
+            ],
+            "English": [
+                "mirth, merriment"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f50\u03c6\u03c1\u03bf\u03c3\u03cd\u03bd\u03b7"
+            ]
+        },
+        "words": [
+            {
+                "id": 48919,
+                "uri": "https://sedra.bethmardutho.org/api/word/48919.json"
+            },
+            {
+                "id": 54854,
+                "uri": "https://sedra.bethmardutho.org/api/word/54854.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0718\u0721\u072a\u071a\u0721\u0722\u0718\u072c\u0710",
+        "western": "\u0718\u0730\u0721\u072a\u0730\u071a\u0721\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2995,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2995.json"
+        },
+        "stem": "\u0721\u072a\u071a\u0721\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u062d\u0645\u0629"
+            ],
+            "eng": [
+                "mercy",
+                "compassion, mercy, loving-kindness.",
+                "pity",
+                "kindliness",
+                "compassion"
+            ],
+            "fre": [
+                "mis\u00e9ricorde"
+            ]
+        },
+        "word": {
+            "id": 27787,
+            "uri": "https://sedra.bethmardutho.org/api/word/27787.json"
+        }
+    }
+]

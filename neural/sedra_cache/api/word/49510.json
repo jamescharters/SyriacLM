@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0723\u0718\u0723",
+        "western": "\u0710\u073a\u071d\u0723\u0733\u0718\u0723",
+        "eastern": "\u0710\u071d\u073c\u0723\u0718\u0307\u0723",
+        "lexeme": {
+            "id": 29020,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29020.json"
+        },
+        "stem": "\u0710\u071d\u0723\u0718\u0723",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2"
+            ],
+            "lat": [
+                "Jesus"
+            ]
+        },
+        "word": {
+            "id": 49510,
+            "uri": "https://sedra.bethmardutho.org/api/word/49510.json"
+        }
+    }
+]

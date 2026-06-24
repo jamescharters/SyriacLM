@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0725\u0718\u072c\u071d\u0710",
+        "western": "\u0725\u073d\u0718\u072c\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12165,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12165.json"
+        },
+        "stem": "\u0725\u0718\u072c\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0648\u0631",
+                "\u062e\u0628\u062b"
+            ],
+            "eng": [
+                "fraudulence",
+                "perversity."
+            ],
+            "fre": [
+                "oppression",
+                "perversit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 38581,
+            "uri": "https://sedra.bethmardutho.org/api/word/38581.json"
+        }
+    }
+]

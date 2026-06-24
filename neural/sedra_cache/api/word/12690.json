@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u0718\u072a",
+        "western": "\u0722\u073d\u0718\u072a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1939,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1939.json"
+        },
+        "stem": "\u0722\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0627\u0631"
+            ],
+            "eng": [
+                "fire.",
+                "fire"
+            ],
+            "fre": [
+                "feu"
+            ]
+        },
+        "word": {
+            "id": 12690,
+            "uri": "https://sedra.bethmardutho.org/api/word/12690.json"
+        }
+    }
+]

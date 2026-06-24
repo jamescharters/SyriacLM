@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14910,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14910.json"
+        },
+        "syriac": "\u0715\u0721\u0718\u072c",
+        "glosses": {
+            "English": [
+                "IVa to give a likeness",
+                "IVp to receive an impress."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2702,
+            "uri": "https://sedra.bethmardutho.org/api/root/2702.json"
+        },
+        "words": [
+            {
+                "id": 41027,
+                "uri": "https://sedra.bethmardutho.org/api/word/41027.json"
+            },
+            {
+                "id": 39917,
+                "uri": "https://sedra.bethmardutho.org/api/word/39917.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

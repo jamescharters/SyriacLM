@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 3476,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3476.json"
+        },
+        "syriac": "\u0721\u0722\u0718",
+        "glosses": {
+            "English": [
+                "who is this?"
+            ],
+            "Arabic": [
+                "\u0645\u0646 \u0647\u0648\u061f"
+            ],
+            "French": [
+                "qui est-ce?"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 493,
+            "uri": "https://sedra.bethmardutho.org/api/root/493.json"
+        },
+        "words": [
+            {
+                "id": 4993,
+                "uri": "https://sedra.bethmardutho.org/api/word/4993.json"
+            },
+            {
+                "id": 4971,
+                "uri": "https://sedra.bethmardutho.org/api/word/4971.json"
+            },
+            {
+                "id": 4970,
+                "uri": "https://sedra.bethmardutho.org/api/word/4970.json"
+            },
+            {
+                "id": 4996,
+                "uri": "https://sedra.bethmardutho.org/api/word/4996.json"
+            }
+        ],
+        "category": "pronoun"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072a\u0726\u0726",
+        "western": "\u072a\u0730\u0726\u0736\u0726",
+        "lexeme": {
+            "id": 20664,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20664.json"
+        },
+        "stem": "\u072a\u0726\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0636\u0646, \u062f\u0641\u0623"
+            ],
+            "eng": [
+                "Pael conj. of \u072a\u0730\u0726"
+            ],
+            "fre": [
+                "couver, \u00e9chauffer"
+            ]
+        },
+        "word": {
+            "id": 47038,
+            "uri": "https://sedra.bethmardutho.org/api/word/47038.json"
+        }
+    }
+]

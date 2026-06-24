@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0712\u0718\u072a\u071f\u0710",
+        "western": "\u0712\u073d\u0718\u072a\u071f\u0741\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9020,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9020.json"
+        },
+        "stem": "\u0712\u0718\u072a\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "knee",
+                "kneeling."
+            ]
+        },
+        "word": {
+            "id": 36567,
+            "uri": "https://sedra.bethmardutho.org/api/word/36567.json"
+        }
+    }
+]

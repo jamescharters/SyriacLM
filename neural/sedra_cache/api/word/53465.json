@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0722\u0721\u071d\u0722\u0718",
+        "western": "\u0710\u0736\u0718\u0722\u0733\u0721\u071d\u0730\u0722\u073d\u0718",
+        "lexeme": {
+            "id": 27091,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27091.json"
+        },
+        "stem": "\u0710\u0718\u0722\u0721\u071d\u0722\u0718",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u0395\u1f50\u03bd\u03bf\u03bc\u03b9\u03b1\u03bd\u03bf\u03af"
+            ],
+            "lat": [
+                "Eunomiani (followers of Eunomius)"
+            ]
+        },
+        "word": {
+            "id": 53465,
+            "uri": "https://sedra.bethmardutho.org/api/word/53465.json"
+        }
+    }
+]

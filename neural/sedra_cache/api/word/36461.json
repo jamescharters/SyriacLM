@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0713\u072a\u071d\u0712\u0710",
+        "western": "\u0713\u072a\u073a\u071d\u0712\u0733\u0710",
+        "eastern": "\u0713\u072a\u071d\u073c\u0712\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13207,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13207.json"
+        },
+        "stem": "\u0713\u072a\u071d\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "especially for grain",
+                "measure (of corn, land).",
+                "then the piece of land sown with that measure",
+                "measure of capacity"
+            ]
+        },
+        "word": {
+            "id": 36461,
+            "uri": "https://sedra.bethmardutho.org/api/word/36461.json"
+        }
+    }
+]

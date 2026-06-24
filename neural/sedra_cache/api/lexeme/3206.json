@@ -1,0 +1,66 @@
+[
+    {
+        "lexeme": {
+            "id": 3206,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3206.json"
+        },
+        "syriac": "\u072b\u0720\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u062b\u0629"
+            ],
+            "French": [
+                "cadavre"
+            ],
+            "English": [
+                "corpse",
+                "mummy",
+                "corpse."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1869,
+            "uri": "https://sedra.bethmardutho.org/api/root/1869.json"
+        },
+        "words": [
+            {
+                "id": 29466,
+                "uri": "https://sedra.bethmardutho.org/api/word/29466.json"
+            },
+            {
+                "id": 29465,
+                "uri": "https://sedra.bethmardutho.org/api/word/29465.json"
+            },
+            {
+                "id": 29464,
+                "uri": "https://sedra.bethmardutho.org/api/word/29464.json"
+            },
+            {
+                "id": 21046,
+                "uri": "https://sedra.bethmardutho.org/api/word/21046.json"
+            },
+            {
+                "id": 21044,
+                "uri": "https://sedra.bethmardutho.org/api/word/21044.json"
+            },
+            {
+                "id": 21043,
+                "uri": "https://sedra.bethmardutho.org/api/word/21043.json"
+            },
+            {
+                "id": 21042,
+                "uri": "https://sedra.bethmardutho.org/api/word/21042.json"
+            },
+            {
+                "id": 21041,
+                "uri": "https://sedra.bethmardutho.org/api/word/21041.json"
+            },
+            {
+                "id": 21045,
+                "uri": "https://sedra.bethmardutho.org/api/word/21045.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0712",
+        "western": "\u0710\u0733\u0712",
+        "number": "singular",
+        "lexeme": {
+            "id": 10218,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10218.json"
+        },
+        "stem": "\u0710\u0712",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0622\u0628"
+            ],
+            "eng": [
+                "August."
+            ],
+            "fre": [
+                "ao\u00fbt"
+            ]
+        },
+        "word": {
+            "id": 37860,
+            "uri": "https://sedra.bethmardutho.org/api/word/37860.json"
+        }
+    }
+]

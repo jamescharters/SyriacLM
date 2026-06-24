@@ -1,0 +1,84 @@
+[
+    {
+        "lexeme": {
+            "id": 738,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/738.json"
+        },
+        "syriac": "\u0715\u0725\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0646\u0637\u0641\u0623",
+                "\u0630\u0628\u0644",
+                "\u0628\u0637\u0644"
+            ],
+            "French": [
+                "s&#39;\u00e9teindre",
+                "se fl\u00e9trir",
+                "cesser"
+            ],
+            "English": [
+                "IIIa to quench, to subdue, to abate.",
+                "go out",
+                "quench",
+                "extinguish",
+                "to be extinct, to vanish",
+                "to suppress",
+                "IIp",
+                "Ia to be extinguished, put out, to go out (fire)",
+                "IIa to put out, extinguish"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 465,
+            "uri": "https://sedra.bethmardutho.org/api/root/465.json"
+        },
+        "words": [
+            {
+                "id": 4800,
+                "uri": "https://sedra.bethmardutho.org/api/word/4800.json"
+            },
+            {
+                "id": 4798,
+                "uri": "https://sedra.bethmardutho.org/api/word/4798.json"
+            },
+            {
+                "id": 4797,
+                "uri": "https://sedra.bethmardutho.org/api/word/4797.json"
+            },
+            {
+                "id": 4796,
+                "uri": "https://sedra.bethmardutho.org/api/word/4796.json"
+            },
+            {
+                "id": 24192,
+                "uri": "https://sedra.bethmardutho.org/api/word/24192.json"
+            },
+            {
+                "id": 24191,
+                "uri": "https://sedra.bethmardutho.org/api/word/24191.json"
+            },
+            {
+                "id": 4802,
+                "uri": "https://sedra.bethmardutho.org/api/word/4802.json"
+            },
+            {
+                "id": 4801,
+                "uri": "https://sedra.bethmardutho.org/api/word/4801.json"
+            },
+            {
+                "id": 4799,
+                "uri": "https://sedra.bethmardutho.org/api/word/4799.json"
+            },
+            {
+                "id": 4795,
+                "uri": "https://sedra.bethmardutho.org/api/word/4795.json"
+            },
+            {
+                "id": 4794,
+                "uri": "https://sedra.bethmardutho.org/api/word/4794.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

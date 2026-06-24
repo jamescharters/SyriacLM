@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0723\u071f\u0710",
+        "western": "\u0722\u0723\u0733\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7054,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7054.json"
+        },
+        "stem": "\u0722\u0723\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0628\u0643",
+                "\u0635\u0628"
+            ],
+            "eng": [
+                "casting of metal, smelting",
+                "liquefaction",
+                "injection."
+            ],
+            "fre": [
+                "fusion",
+                "action de r\u00e9pandre"
+            ]
+        },
+        "word": {
+            "id": 30074,
+            "uri": "https://sedra.bethmardutho.org/api/word/30074.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 761,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/761.json"
+        },
+        "syriac": "\u0715\u072a\u0721\u0723\u0718\u0729\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Damascene"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 479,
+            "uri": "https://sedra.bethmardutho.org/api/root/479.json"
+        },
+        "words": [
+            {
+                "id": 4882,
+                "uri": "https://sedra.bethmardutho.org/api/word/4882.json"
+            },
+            {
+                "id": 4884,
+                "uri": "https://sedra.bethmardutho.org/api/word/4884.json"
+            },
+            {
+                "id": 4883,
+                "uri": "https://sedra.bethmardutho.org/api/word/4883.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

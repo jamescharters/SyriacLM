@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 15583,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15583.json"
+        },
+        "syriac": "\u0722\u072b\u0710",
+        "glosses": {
+            "English": [
+                "to consign to oblivion.",
+                "Ia to forget",
+                "IIp to forget",
+                "IIa to make forget",
+                "to be forgotten",
+                "Ip",
+                "to make forget.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072b\u073a\u071d</span> to consign to oblivion"
+            ],
+            "Arabic": [
+                "\u00a0",
+                "\u0623\u063a\u0648\u0649"
+            ],
+            "French": [
+                "\u00a0",
+                "s\u00e9duire"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2659,
+            "uri": "https://sedra.bethmardutho.org/api/root/2659.json"
+        },
+        "words": [
+            {
+                "id": 42112,
+                "uri": "https://sedra.bethmardutho.org/api/word/42112.json"
+            },
+            {
+                "id": 41334,
+                "uri": "https://sedra.bethmardutho.org/api/word/41334.json"
+            },
+            {
+                "id": 41204,
+                "uri": "https://sedra.bethmardutho.org/api/word/41204.json"
+            },
+            {
+                "id": 40225,
+                "uri": "https://sedra.bethmardutho.org/api/word/40225.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

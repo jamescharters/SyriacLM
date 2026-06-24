@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 11,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11.json"
+        },
+        "syriac": "\u0710\u0712\u071d\u0718\u0715",
+        "glosses": {
+            "English": [
+                "Abiud"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 8,
+            "uri": "https://sedra.bethmardutho.org/api/root/8.json"
+        },
+        "words": [
+            {
+                "id": 137,
+                "uri": "https://sedra.bethmardutho.org/api/word/137.json"
+            },
+            {
+                "id": 136,
+                "uri": "https://sedra.bethmardutho.org/api/word/136.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

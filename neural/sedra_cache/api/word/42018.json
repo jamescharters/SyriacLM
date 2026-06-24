@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u071a\u072a\u0718\u0723",
+        "western": "\u0722\u0736\u071a\u072a\u073d\u0718\u0723",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15440,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15440.json"
+        },
+        "stem": "\u071a\u072a\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to roughen",
+                "to harden (by rubbing)."
+            ]
+        },
+        "word": {
+            "id": 42018,
+            "uri": "https://sedra.bethmardutho.org/api/word/42018.json"
+        }
+    }
+]

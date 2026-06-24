@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 3312,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3312.json"
+        },
+        "syriac": "\u0721\u072b\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "sick",
+                "paralytic",
+                "paralytic."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1925,
+            "uri": "https://sedra.bethmardutho.org/api/root/1925.json"
+        },
+        "words": [
+            {
+                "id": 22006,
+                "uri": "https://sedra.bethmardutho.org/api/word/22006.json"
+            },
+            {
+                "id": 22005,
+                "uri": "https://sedra.bethmardutho.org/api/word/22005.json"
+            },
+            {
+                "id": 22009,
+                "uri": "https://sedra.bethmardutho.org/api/word/22009.json"
+            },
+            {
+                "id": 22008,
+                "uri": "https://sedra.bethmardutho.org/api/word/22008.json"
+            },
+            {
+                "id": 22007,
+                "uri": "https://sedra.bethmardutho.org/api/word/22007.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

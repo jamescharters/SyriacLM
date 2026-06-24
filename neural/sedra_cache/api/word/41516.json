@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0728\u072a",
+        "western": "\u0729\u0728\u072a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15169,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15169.json"
+        },
+        "stem": "\u0729\u0728\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to be condensed.",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0729\u0730\u0728\u0730\u072a</span> to be purged"
+            ]
+        },
+        "word": {
+            "id": 41516,
+            "uri": "https://sedra.bethmardutho.org/api/word/41516.json"
+        }
+    }
+]

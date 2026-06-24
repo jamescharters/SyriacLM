@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 14662,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14662.json"
+        },
+        "syriac": "\u0713\u0718\u0713\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0642\u0632\u0642\u0629"
+            ],
+            "French": [
+                "p\u00e9piement"
+            ],
+            "English": [
+                "IVa to chirp",
+                "to babble (of a child)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2477,
+            "uri": "https://sedra.bethmardutho.org/api/root/2477.json"
+        },
+        "words": [
+            {
+                "id": 41300,
+                "uri": "https://sedra.bethmardutho.org/api/word/41300.json"
+            },
+            {
+                "id": 40853,
+                "uri": "https://sedra.bethmardutho.org/api/word/40853.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

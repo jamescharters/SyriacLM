@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u0723\u071d\u072a\u071d\u0710",
+        "western": "\u0725\u0723\u073a\u071d\u072a\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13175,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13175.json"
+        },
+        "stem": "\u0725\u0723\u071d\u072a\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0627\u0634\u0631"
+            ],
+            "eng": [
+                "tenth."
+            ],
+            "fre": [
+                "dixi\u00e8me (10 e)"
+            ]
+        },
+        "word": {
+            "id": 38920,
+            "uri": "https://sedra.bethmardutho.org/api/word/38920.json"
+        }
+    }
+]

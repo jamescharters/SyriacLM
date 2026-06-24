@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 12345,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12345.json"
+        },
+        "syriac": "\u0722\u0719\u071d\u072a\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0630\u0631, \u0646\u0633\u0643",
+                "\u0634\u0639\u0631 \u0646\u0630\u064a\u0631"
+            ],
+            "French": [
+                "nazir\u00e9at",
+                "chevelure de nazir"
+            ],
+            "English": [
+                "abstinence, ascetic life."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 35634,
+                "uri": "https://sedra.bethmardutho.org/api/word/35634.json"
+            }
+        ]
+    }
+]

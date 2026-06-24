@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15315,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15315.json"
+        },
+        "syriac": "\u0720\u071d\u072c\u071d",
+        "glosses": {
+            "English": [
+                "to cease",
+                "IVp.",
+                "IVa <span class=\"selectableFont\">\u0710\u0736\u072c\u0720\u0730\u071d\u072c\u0736\u071d</span> to be reduced to nothing, annihilated"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2380,
+            "uri": "https://sedra.bethmardutho.org/api/root/2380.json"
+        },
+        "words": [
+            {
+                "id": 40600,
+                "uri": "https://sedra.bethmardutho.org/api/word/40600.json"
+            },
+            {
+                "id": 40210,
+                "uri": "https://sedra.bethmardutho.org/api/word/40210.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

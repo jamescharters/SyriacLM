@@ -1,0 +1,90 @@
+[
+    {
+        "lexeme": {
+            "id": 962,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/962.json"
+        },
+        "syriac": "\u071a\u0715\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0645\u0643\u0646\u0629 \u0645\u062c\u0627\u0648\u0631\u0629"
+            ],
+            "French": [
+                "lieux environnants"
+            ],
+            "English": [
+                "surroundings",
+                "circle",
+                "vagrancy",
+                "circle",
+                "begging",
+                "<span class=\"selectableFont\">\u071a\u0715\u0733\u072a\u0308\u0736\u0710</span> suburbs, surroundings."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 598,
+            "uri": "https://sedra.bethmardutho.org/api/root/598.json"
+        },
+        "words": [
+            {
+                "id": 6311,
+                "uri": "https://sedra.bethmardutho.org/api/word/6311.json"
+            },
+            {
+                "id": 6306,
+                "uri": "https://sedra.bethmardutho.org/api/word/6306.json"
+            },
+            {
+                "id": 6301,
+                "uri": "https://sedra.bethmardutho.org/api/word/6301.json"
+            },
+            {
+                "id": 5229,
+                "uri": "https://sedra.bethmardutho.org/api/word/5229.json"
+            },
+            {
+                "id": 6312,
+                "uri": "https://sedra.bethmardutho.org/api/word/6312.json"
+            },
+            {
+                "id": 6309,
+                "uri": "https://sedra.bethmardutho.org/api/word/6309.json"
+            },
+            {
+                "id": 6307,
+                "uri": "https://sedra.bethmardutho.org/api/word/6307.json"
+            },
+            {
+                "id": 6305,
+                "uri": "https://sedra.bethmardutho.org/api/word/6305.json"
+            },
+            {
+                "id": 6304,
+                "uri": "https://sedra.bethmardutho.org/api/word/6304.json"
+            },
+            {
+                "id": 6303,
+                "uri": "https://sedra.bethmardutho.org/api/word/6303.json"
+            },
+            {
+                "id": 6302,
+                "uri": "https://sedra.bethmardutho.org/api/word/6302.json"
+            },
+            {
+                "id": 6300,
+                "uri": "https://sedra.bethmardutho.org/api/word/6300.json"
+            },
+            {
+                "id": 6310,
+                "uri": "https://sedra.bethmardutho.org/api/word/6310.json"
+            },
+            {
+                "id": 6308,
+                "uri": "https://sedra.bethmardutho.org/api/word/6308.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0718\u071f\u0720\u0710",
+        "western": "\u0710\u073d\u0718\u071f\u0720\u0733\u0710",
+        "eastern": "\u0710\u0718\u073c\u071f\u0323\u0720\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9313,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9313.json"
+        },
+        "stem": "\u0710\u0718\u071f\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0639\u0627\u0645"
+            ],
+            "eng": [
+                "food."
+            ],
+            "fre": [
+                "nourriture"
+            ]
+        },
+        "word": {
+            "id": 31961,
+            "uri": "https://sedra.bethmardutho.org/api/word/31961.json"
+        }
+    }
+]

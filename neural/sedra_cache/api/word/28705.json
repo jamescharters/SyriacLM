@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072c\u0721\u0725\u0722\u0710",
+        "western": "\u0721\u0736\u072b\u072c\u0741\u0730\u0721\u0725\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3245,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3245.json"
+        },
+        "stem": "\u0721\u072b\u072c\u0721\u0725\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "obedient, subject",
+                "audible.",
+                "to be obeyed",
+                "compliant",
+                "obedient"
+            ]
+        },
+        "word": {
+            "id": 28705,
+            "uri": "https://sedra.bethmardutho.org/api/word/28705.json"
+        }
+    }
+]

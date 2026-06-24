@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2906,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2906.json"
+        },
+        "syriac": "\u072a\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0628\u0631"
+            ],
+            "French": [
+                "grandir"
+            ],
+            "English": [
+                "magnified",
+                "great",
+                "Ia to grow great, big."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1722,
+            "uri": "https://sedra.bethmardutho.org/api/root/1722.json"
+        },
+        "words": [
+            {
+                "id": 25323,
+                "uri": "https://sedra.bethmardutho.org/api/word/25323.json"
+            },
+            {
+                "id": 18919,
+                "uri": "https://sedra.bethmardutho.org/api/word/18919.json"
+            },
+            {
+                "id": 18918,
+                "uri": "https://sedra.bethmardutho.org/api/word/18918.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

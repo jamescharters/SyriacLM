@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0721\u071a\u071d\u0720\u0710",
+        "western": "\u0715\u0741\u0730\u0721\u071a\u073a\u071d\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1737,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1737.json"
+        },
+        "stem": "\u0721\u071a\u071d\u0720\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0639\u064a\u0641",
+                "\u0641\u0642\u064a\u0631",
+                "\u062d\u0642\u064a\u0631, \u062f\u0646\u064a"
+            ],
+            "eng": [
+                "weak, feeble, infirm.",
+                "weak"
+            ],
+            "fre": [
+                "faible",
+                "pauvre",
+                "vil"
+            ]
+        },
+        "word": {
+            "id": 11409,
+            "uri": "https://sedra.bethmardutho.org/api/word/11409.json"
+        }
+    }
+]

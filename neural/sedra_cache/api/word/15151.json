@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0725\u0718\u0720\u0710",
+        "western": "\u0718\u0730\u0715\u0742\u0725\u0730\u0718\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2273,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2273.json"
+        },
+        "stem": "\u0725\u0718\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0638\u0644\u0645, \u0625\u062b\u0645"
+            ],
+            "eng": [
+                "unrighteousness",
+                "iniquity, wickedness.",
+                "iniquity"
+            ],
+            "fre": [
+                "iniquit\u00e9, crime"
+            ]
+        },
+        "word": {
+            "id": 15151,
+            "uri": "https://sedra.bethmardutho.org/api/word/15151.json"
+        }
+    }
+]

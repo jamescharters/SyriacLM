@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 19040,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19040.json"
+        },
+        "syriac": "\u0710\u0712\u0720\u0718\u0713\u071d",
+        "glosses": {
+            "Greek": [
+                "\u1f00\u03c0\u03bf\u03bb\u03bf\u03b3\u1f77\u03b1"
+            ],
+            "English": [
+                "name of a book by Severus"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 45414,
+                "uri": "https://sedra.bethmardutho.org/api/word/45414.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15840,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15840.json"
+        },
+        "syriac": "\u072c\u0722",
+        "glosses": {
+            "English": [
+                "to stiffen.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u072c\u0730\u0722</span>, Ia to be numb, rigid"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2766,
+            "uri": "https://sedra.bethmardutho.org/api/root/2766.json"
+        },
+        "words": [
+            {
+                "id": 41922,
+                "uri": "https://sedra.bethmardutho.org/api/word/41922.json"
+            },
+            {
+                "id": 40631,
+                "uri": "https://sedra.bethmardutho.org/api/word/40631.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

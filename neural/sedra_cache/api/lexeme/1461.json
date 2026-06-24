@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1461,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1461.json"
+        },
+        "syriac": "\u071f\u0712\u0715\u0710",
+        "glosses": {
+            "English": [
+                "the liver/the seat of anger/gall/bile",
+                "liver",
+                "gall",
+                "bile",
+                "liver, bile",
+                "wrath."
+            ],
+            "Arabic": [
+                "\u0643\u0628\u062f",
+                "\u063a\u0636\u0628"
+            ],
+            "French": [
+                "foie",
+                "col\u00e8re"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 865,
+            "uri": "https://sedra.bethmardutho.org/api/root/865.json"
+        },
+        "words": [
+            {
+                "id": 45446,
+                "uri": "https://sedra.bethmardutho.org/api/word/45446.json"
+            },
+            {
+                "id": 9710,
+                "uri": "https://sedra.bethmardutho.org/api/word/9710.json"
+            },
+            {
+                "id": 9711,
+                "uri": "https://sedra.bethmardutho.org/api/word/9711.json"
+            },
+            {
+                "id": 42283,
+                "uri": "https://sedra.bethmardutho.org/api/word/42283.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

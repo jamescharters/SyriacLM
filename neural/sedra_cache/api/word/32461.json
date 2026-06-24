@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0721\u072c\u072c\u0721\u0715\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072c\u072c\u0730\u0721\u0715\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10721,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10721.json"
+        },
+        "stem": "\u0721\u072c\u072c\u0721\u0715\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "possibility of escape",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> inevitability."
+            ]
+        },
+        "word": {
+            "id": 32461,
+            "uri": "https://sedra.bethmardutho.org/api/word/32461.json"
+        }
+    }
+]

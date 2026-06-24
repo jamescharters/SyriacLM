@@ -1,0 +1,70 @@
+[
+    {
+        "lexeme": {
+            "id": 2984,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2984.json"
+        },
+        "syriac": "\u072a\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u062a\u0641\u0639",
+                "\u0645\u062a\u0643\u0628\u0631",
+                "\u0642\u0646\u0627\u0629"
+            ],
+            "French": [
+                "\u00e9lev\u00e9",
+                "orgueilleux",
+                "canal"
+            ],
+            "English": [
+                "loud voice",
+                "high"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1745,
+            "uri": "https://sedra.bethmardutho.org/api/root/1745.json"
+        },
+        "words": [
+            {
+                "id": 19467,
+                "uri": "https://sedra.bethmardutho.org/api/word/19467.json"
+            },
+            {
+                "id": 24101,
+                "uri": "https://sedra.bethmardutho.org/api/word/24101.json"
+            },
+            {
+                "id": 19465,
+                "uri": "https://sedra.bethmardutho.org/api/word/19465.json"
+            },
+            {
+                "id": 19464,
+                "uri": "https://sedra.bethmardutho.org/api/word/19464.json"
+            },
+            {
+                "id": 19463,
+                "uri": "https://sedra.bethmardutho.org/api/word/19463.json"
+            },
+            {
+                "id": 19462,
+                "uri": "https://sedra.bethmardutho.org/api/word/19462.json"
+            },
+            {
+                "id": 24305,
+                "uri": "https://sedra.bethmardutho.org/api/word/24305.json"
+            },
+            {
+                "id": 19466,
+                "uri": "https://sedra.bethmardutho.org/api/word/19466.json"
+            },
+            {
+                "id": 19468,
+                "uri": "https://sedra.bethmardutho.org/api/word/19468.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

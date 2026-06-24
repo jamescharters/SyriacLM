@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 20249,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20249.json"
+        },
+        "syriac": "\u0710\u0712\u0715\u0718\u071f\u0718\u0723",
+        "glosses": {
+            "Latin": [
+                "Eudoxus"
+            ],
+            "Greek": [
+                "\u0395\u1f54\u03b4\u03bf\u03be\u03bf\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f54\u03b4\u03bf\u03be\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 46623,
+                "uri": "https://sedra.bethmardutho.org/api/word/46623.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

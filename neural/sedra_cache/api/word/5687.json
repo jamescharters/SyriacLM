@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0719\u071d\u0722\u0717",
+        "western": "\u0719\u0730\u071d\u0722\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 876,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/876.json"
+        },
+        "stem": "\u0719\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0634\u0643"
+            ],
+            "eng": [
+                "armour",
+                "arms",
+                "arms",
+                "weapons",
+                "armor, arms, weapon, trappings."
+            ],
+            "fre": [
+                "armure"
+            ]
+        },
+        "word": {
+            "id": 5687,
+            "uri": "https://sedra.bethmardutho.org/api/word/5687.json"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0726\u0723\u0718\u0729\u0710",
+        "western": "\u0726\u0741\u0733\u0723\u073d\u0718\u0729\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2549,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2549.json"
+        },
+        "stem": "\u0726\u0723\u0718\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0632\u0621",
+                "\u062a\u0639\u0628\u064a\u0631\u064a"
+            ],
+            "eng": [
+                "cutting off.",
+                "full stop",
+                "section",
+                "section"
+            ],
+            "fre": [
+                "section",
+                "\u00e9nonciatif"
+            ]
+        },
+        "word": {
+            "id": 16626,
+            "uri": "https://sedra.bethmardutho.org/api/word/16626.json"
+        }
+    }
+]

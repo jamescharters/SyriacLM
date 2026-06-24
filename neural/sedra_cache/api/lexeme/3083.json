@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 3083,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3083.json"
+        },
+        "syriac": "\u072a\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u062a\u0639\u062f"
+            ],
+            "French": [
+                "tremblant"
+            ],
+            "English": [
+                "tremble",
+                "Ia to tremble, shudder",
+                "IIa to cause to tremble",
+                "IIIa to terrify."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1794,
+            "uri": "https://sedra.bethmardutho.org/api/root/1794.json"
+        },
+        "words": [
+            {
+                "id": 28755,
+                "uri": "https://sedra.bethmardutho.org/api/word/28755.json"
+            },
+            {
+                "id": 28757,
+                "uri": "https://sedra.bethmardutho.org/api/word/28757.json"
+            },
+            {
+                "id": 28754,
+                "uri": "https://sedra.bethmardutho.org/api/word/28754.json"
+            },
+            {
+                "id": 28753,
+                "uri": "https://sedra.bethmardutho.org/api/word/28753.json"
+            },
+            {
+                "id": 20038,
+                "uri": "https://sedra.bethmardutho.org/api/word/20038.json"
+            },
+            {
+                "id": 20039,
+                "uri": "https://sedra.bethmardutho.org/api/word/20039.json"
+            },
+            {
+                "id": 20034,
+                "uri": "https://sedra.bethmardutho.org/api/word/20034.json"
+            },
+            {
+                "id": 20033,
+                "uri": "https://sedra.bethmardutho.org/api/word/20033.json"
+            },
+            {
+                "id": 20040,
+                "uri": "https://sedra.bethmardutho.org/api/word/20040.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0719\u072a\u0712\u0718\u0719\u0710",
+        "western": "\u0719\u0730\u072a\u0712\u073d\u0718\u0719\u0733\u0710",
+        "eastern": "\u0719\u0732\u072a\u0712\u0718\u073c\u0719\u0735\u0710",
+        "lexeme": {
+            "id": 21426,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21426.json"
+        },
+        "stem": "\u0719\u072a\u0712\u0718\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "savory",
+                "<em>Blitum virgatum</em>",
+                "thyme"
+            ],
+            "grc": [
+                "\u03b2\u03bb\u1f77\u03c4\u03bf\u03bd"
+            ]
+        },
+        "word": {
+            "id": 47800,
+            "uri": "https://sedra.bethmardutho.org/api/word/47800.json"
+        }
+    }
+]

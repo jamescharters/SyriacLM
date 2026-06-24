@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0729\u0715\u0718\u0722\u071d\u0710",
+        "western": "\u0720\u0721\u0730\u0729\u0736\u0715\u0742\u0733\u0718\u0722\u0733\u071d\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1831,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1831.json"
+        },
+        "stem": "\u0721\u0729\u0715\u0718\u0722\u071d\u0710",
+        "category": "proper noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Macedonia",
+                "Macedonian"
+            ]
+        },
+        "word": {
+            "id": 12133,
+            "uri": "https://sedra.bethmardutho.org/api/word/12133.json"
+        }
+    }
+]

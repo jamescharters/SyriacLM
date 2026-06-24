@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28439,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28439.json"
+        },
+        "syriac": "\u0710\u0718\u0726\u071b\u072a\u071d\u0729\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f44\u03c3\u03c4\u03c1\u03b1\u03ba\u03bf\u03bd"
+            ],
+            "English": [
+                "earthen vessel, the hard shell of snails, mussels, cuttle-fishes, tortoises"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f44\u03c3\u03c4\u03c1\u03b1\u03ba\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 48880,
+                "uri": "https://sedra.bethmardutho.org/api/word/48880.json"
+            },
+            {
+                "id": 54813,
+                "uri": "https://sedra.bethmardutho.org/api/word/54813.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

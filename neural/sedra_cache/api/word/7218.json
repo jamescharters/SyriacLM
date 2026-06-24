@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0715\u071a\u0721\u072a\u0710",
+        "western": "\u0715\u0741\u071a\u0730\u0721\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1075,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1075.json"
+        },
+        "stem": "\u071a\u0721\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "wine",
+                "juice.",
+                "wine"
+            ]
+        },
+        "word": {
+            "id": 7218,
+            "uri": "https://sedra.bethmardutho.org/api/word/7218.json"
+        }
+    }
+]

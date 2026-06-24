@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 754,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/754.json"
+        },
+        "syriac": "\u0715\u072a\u0713\u0710",
+        "glosses": {
+            "English": [
+                "step, stair",
+                "rank, condition, state",
+                "stair",
+                "rank",
+                "step",
+                "degree",
+                "Kth. academic degree, position (e.g. in society), level",
+                "staircase, the stairs."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 475,
+            "uri": "https://sedra.bethmardutho.org/api/root/475.json"
+        },
+        "words": [
+            {
+                "id": 4846,
+                "uri": "https://sedra.bethmardutho.org/api/word/4846.json"
+            },
+            {
+                "id": 4845,
+                "uri": "https://sedra.bethmardutho.org/api/word/4845.json"
+            },
+            {
+                "id": 4844,
+                "uri": "https://sedra.bethmardutho.org/api/word/4844.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

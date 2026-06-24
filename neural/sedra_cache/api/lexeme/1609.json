@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1609,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1609.json"
+        },
+        "syriac": "\u071f\u072c\u0726\u0710",
+        "glosses": {
+            "English": [
+                "shoulder",
+                "shoulder, shoulder-blade."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 941,
+            "uri": "https://sedra.bethmardutho.org/api/root/941.json"
+        },
+        "words": [
+            {
+                "id": 10679,
+                "uri": "https://sedra.bethmardutho.org/api/word/10679.json"
+            },
+            {
+                "id": 10677,
+                "uri": "https://sedra.bethmardutho.org/api/word/10677.json"
+            },
+            {
+                "id": 42233,
+                "uri": "https://sedra.bethmardutho.org/api/word/42233.json"
+            },
+            {
+                "id": 10678,
+                "uri": "https://sedra.bethmardutho.org/api/word/10678.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

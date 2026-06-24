@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0720\u0710",
+        "western": "\u0710\u0730\u071d\u0720\u0733\u0710",
+        "eastern": "\u0710\u0732\u071d\u0720\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 86,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/86.json"
+        },
+        "stem": "\u0710\u071d\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u064a\u0644"
+            ],
+            "eng": [
+                "stag.",
+                "stag"
+            ],
+            "fre": [
+                "cerf"
+            ]
+        },
+        "word": {
+            "id": 641,
+            "uri": "https://sedra.bethmardutho.org/api/word/641.json"
+        }
+    }
+]

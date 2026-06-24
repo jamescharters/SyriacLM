@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 15869,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15869.json"
+        },
+        "syriac": "\u0722\u071b\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0644\u0623"
+            ],
+            "French": [
+                "emplir"
+            ],
+            "English": [
+                "to apply by drops",
+                "Ia to drip, to flow in drops",
+                "IIa to drop down abundantly",
+                "to melt",
+                "to instill, to distil.",
+                "IIp to fall in drops",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071b\u0736\u0726</span> to let fall in drops"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3133,
+            "uri": "https://sedra.bethmardutho.org/api/root/3133.json"
+        },
+        "words": [
+            {
+                "id": 41928,
+                "uri": "https://sedra.bethmardutho.org/api/word/41928.json"
+            },
+            {
+                "id": 41716,
+                "uri": "https://sedra.bethmardutho.org/api/word/41716.json"
+            },
+            {
+                "id": 40973,
+                "uri": "https://sedra.bethmardutho.org/api/word/40973.json"
+            },
+            {
+                "id": 40788,
+                "uri": "https://sedra.bethmardutho.org/api/word/40788.json"
+            },
+            {
+                "id": 40522,
+                "uri": "https://sedra.bethmardutho.org/api/word/40522.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

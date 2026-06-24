@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2030,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2030.json"
+        },
+        "syriac": "\u0722\u072a\u0713\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0623\u0633",
+                "\u0645\u062d\u0641\u0631"
+            ],
+            "French": [
+                "hache",
+                "hoyau"
+            ],
+            "English": [
+                "axe",
+                "axe, mattock."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1211,
+            "uri": "https://sedra.bethmardutho.org/api/root/1211.json"
+        },
+        "words": [
+            {
+                "id": 13405,
+                "uri": "https://sedra.bethmardutho.org/api/word/13405.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

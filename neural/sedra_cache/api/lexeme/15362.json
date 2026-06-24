@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15362,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15362.json"
+        },
+        "syriac": "\u0722\u0718\u072a",
+        "glosses": {
+            "English": [
+                "Ia to be shy",
+                "to be alarmed, to bolt",
+                "IIa <span class=\"selectableFont\">\u0722\u0730\u071d\u0730\u072a</span> to kindle",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0722\u0730\u071d\u0730\u072a</span> to be set alight, illuminated."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2163,
+            "uri": "https://sedra.bethmardutho.org/api/root/2163.json"
+        },
+        "words": [
+            {
+                "id": 41613,
+                "uri": "https://sedra.bethmardutho.org/api/word/41613.json"
+            },
+            {
+                "id": 40738,
+                "uri": "https://sedra.bethmardutho.org/api/word/40738.json"
+            },
+            {
+                "id": 41195,
+                "uri": "https://sedra.bethmardutho.org/api/word/41195.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

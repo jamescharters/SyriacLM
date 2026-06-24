@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 532,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/532.json"
+        },
+        "syriac": "\u0713\u0718\u0719",
+        "glosses": {
+            "English": [
+                "fail",
+                "IIp to be diminished, to be lacking",
+                "Ia to fail (esp. of water), to cease",
+                "IIa <span class=\"selectableFont\">\u0713\u0730\u071d\u0736\u0719</span> to bereave, to deprive of",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0713\u073a\u071d\u0719</span> to make to disappear, to lay waste."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 354,
+            "uri": "https://sedra.bethmardutho.org/api/root/354.json"
+        },
+        "words": [
+            {
+                "id": 3571,
+                "uri": "https://sedra.bethmardutho.org/api/word/3571.json"
+            },
+            {
+                "id": 23710,
+                "uri": "https://sedra.bethmardutho.org/api/word/23710.json"
+            },
+            {
+                "id": 23709,
+                "uri": "https://sedra.bethmardutho.org/api/word/23709.json"
+            },
+            {
+                "id": 3570,
+                "uri": "https://sedra.bethmardutho.org/api/word/3570.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

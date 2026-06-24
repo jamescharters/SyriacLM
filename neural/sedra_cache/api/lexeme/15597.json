@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15597,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15597.json"
+        },
+        "syriac": "\u072c\u0729\u0720",
+        "glosses": {
+            "English": [
+                "IIa to compare",
+                "to weigh out",
+                "Ip to be weighed",
+                "to be weighed down",
+                "to equalize.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072c\u0729\u073d\u0718\u0720</span>, Ia to weigh, balance"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2694,
+            "uri": "https://sedra.bethmardutho.org/api/root/2694.json"
+        },
+        "words": [
+            {
+                "id": 42178,
+                "uri": "https://sedra.bethmardutho.org/api/word/42178.json"
+            },
+            {
+                "id": 40264,
+                "uri": "https://sedra.bethmardutho.org/api/word/40264.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0712\u0718\u0722\u071f\u0710",
+        "western": "\u0712\u073d\u0718\u0722\u071f\u0733\u0710",
+        "eastern": "\u0712\u0718\u073c\u0722\u071f\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10599,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10599.json"
+        },
+        "stem": "\u0712\u0718\u0722\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0628\u0646 \u0627\u0644\u0628\u0644\u062f"
+            ],
+            "eng": [
+                "<em>eh\u0323ad\u0331 b</em>- to settle in a domicile",
+                "Kth. notable.",
+                "foot of the lamp",
+                "(also <span class=\"selectableFont\">\u0712\u073d\u0718\u071f\u0722\u0733\u0710</span>) native, indigenous",
+                "native",
+                "inhabitant"
+            ],
+            "fre": [
+                "habitant"
+            ]
+        },
+        "word": {
+            "id": 34137,
+            "uri": "https://sedra.bethmardutho.org/api/word/34137.json"
+        }
+    }
+]

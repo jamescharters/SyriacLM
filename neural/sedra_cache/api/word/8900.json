@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u071d\u0718\u0720\u071d\u0718\u0723",
+        "western": "\u071d\u073d\u0718\u0720\u073a\u071d\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 1337,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1337.json"
+        },
+        "stem": "\u071d\u0718\u0720\u071d\u0718\u0723",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Julius"
+            ]
+        },
+        "word": {
+            "id": 8900,
+            "uri": "https://sedra.bethmardutho.org/api/word/8900.json"
+        }
+    }
+]

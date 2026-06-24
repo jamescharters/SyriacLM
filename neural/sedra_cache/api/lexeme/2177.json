@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2177,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2177.json"
+        },
+        "syriac": "\u0723\u0725\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0634\u0639\u0631",
+                "\u0634\u0639\u064a\u0631"
+            ],
+            "French": [
+                "velu",
+                "orge"
+            ],
+            "English": [
+                "barley"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1299,
+            "uri": "https://sedra.bethmardutho.org/api/root/1299.json"
+        },
+        "words": [
+            {
+                "id": 14500,
+                "uri": "https://sedra.bethmardutho.org/api/word/14500.json"
+            },
+            {
+                "id": 14499,
+                "uri": "https://sedra.bethmardutho.org/api/word/14499.json"
+            },
+            {
+                "id": 29347,
+                "uri": "https://sedra.bethmardutho.org/api/word/29347.json"
+            },
+            {
+                "id": 14501,
+                "uri": "https://sedra.bethmardutho.org/api/word/14501.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

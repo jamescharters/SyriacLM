@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 2795,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2795.json"
+        },
+        "syriac": "\u0729\u071b\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639",
+                "\u0643\u0633\u0631",
+                "\u0633\u062d\u0642",
+                "\u062d\u0643\u0645",
+                "\u0627\u0646\u0642\u0637\u0639",
+                "\u00a0"
+            ],
+            "French": [
+                "couper",
+                "rompre",
+                "\u00e9craser",
+                "juger",
+                "cesser",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to mutilate",
+                "discouraged",
+                "to pause, cease",
+                "IIp to be disheartened.",
+                "to amputate",
+                "Ia to tear, cut",
+                "-<span class=\"selectableFont\">\u0729\u0736\u071b\u0725\u0730\u072c \u0720\u200d\u200d</span> to be depressed, weary"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1649,
+            "uri": "https://sedra.bethmardutho.org/api/root/1649.json"
+        },
+        "words": [
+            {
+                "id": 18284,
+                "uri": "https://sedra.bethmardutho.org/api/word/18284.json"
+            },
+            {
+                "id": 18283,
+                "uri": "https://sedra.bethmardutho.org/api/word/18283.json"
+            },
+            {
+                "id": 18282,
+                "uri": "https://sedra.bethmardutho.org/api/word/18282.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

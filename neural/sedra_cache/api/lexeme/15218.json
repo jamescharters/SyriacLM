@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15218,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15218.json"
+        },
+        "syriac": "\u072a\u072c\u0729",
+        "glosses": {
+            "English": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072a\u072c\u0736\u0729</span> to prick, to puncture."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2755,
+            "uri": "https://sedra.bethmardutho.org/api/root/2755.json"
+        },
+        "words": [
+            {
+                "id": 40497,
+                "uri": "https://sedra.bethmardutho.org/api/word/40497.json"
+            },
+            {
+                "id": 40200,
+                "uri": "https://sedra.bethmardutho.org/api/word/40200.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

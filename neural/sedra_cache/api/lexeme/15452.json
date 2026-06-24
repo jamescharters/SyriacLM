@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15452,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15452.json"
+        },
+        "syriac": "\u0722\u0712\u0713",
+        "glosses": {
+            "English": [
+                "IIp to be divided (of stream)",
+                "Ia to spring up, emerge, germinate",
+                "IIIa to spread forth.",
+                "to go away"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2562,
+            "uri": "https://sedra.bethmardutho.org/api/root/2562.json"
+        },
+        "words": [
+            {
+                "id": 41856,
+                "uri": "https://sedra.bethmardutho.org/api/word/41856.json"
+            },
+            {
+                "id": 40132,
+                "uri": "https://sedra.bethmardutho.org/api/word/40132.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

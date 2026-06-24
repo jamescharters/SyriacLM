@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 1716,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1716.json"
+        },
+        "syriac": "\u0721\u0715\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u064a\u0621, \u0628\u0639\u0636, \u0634\u064a\u0621 \u0645\u0627",
+                "\u062d\u0631\u0641",
+                "(\u0627\u0633\u0645 \u0645\u0646\u0643\u0631)"
+            ],
+            "French": [
+                "quelque chose, quelque, un certain",
+                "article",
+                "un"
+            ],
+            "English": [
+                "something",
+                "thing, affair",
+                "a certain.",
+                "something"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1025,
+            "uri": "https://sedra.bethmardutho.org/api/root/1025.json"
+        },
+        "words": [
+            {
+                "id": 11245,
+                "uri": "https://sedra.bethmardutho.org/api/word/11245.json"
+            },
+            {
+                "id": 11244,
+                "uri": "https://sedra.bethmardutho.org/api/word/11244.json"
+            },
+            {
+                "id": 11243,
+                "uri": "https://sedra.bethmardutho.org/api/word/11243.json"
+            },
+            {
+                "id": 11242,
+                "uri": "https://sedra.bethmardutho.org/api/word/11242.json"
+            },
+            {
+                "id": 11241,
+                "uri": "https://sedra.bethmardutho.org/api/word/11241.json"
+            },
+            {
+                "id": 11240,
+                "uri": "https://sedra.bethmardutho.org/api/word/11240.json"
+            },
+            {
+                "id": 11246,
+                "uri": "https://sedra.bethmardutho.org/api/word/11246.json"
+            },
+            {
+                "id": 42277,
+                "uri": "https://sedra.bethmardutho.org/api/word/42277.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

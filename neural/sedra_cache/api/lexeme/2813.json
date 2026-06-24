@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 2813,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2813.json"
+        },
+        "syriac": "\u0729\u071d\u0723\u0710",
+        "glosses": {
+            "English": [
+                "wood",
+                "timber",
+                "tree",
+                "wood",
+                "the Cross."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1661,
+            "uri": "https://sedra.bethmardutho.org/api/root/1661.json"
+        },
+        "words": [
+            {
+                "id": 18337,
+                "uri": "https://sedra.bethmardutho.org/api/word/18337.json"
+            },
+            {
+                "id": 18336,
+                "uri": "https://sedra.bethmardutho.org/api/word/18336.json"
+            },
+            {
+                "id": 18335,
+                "uri": "https://sedra.bethmardutho.org/api/word/18335.json"
+            },
+            {
+                "id": 18340,
+                "uri": "https://sedra.bethmardutho.org/api/word/18340.json"
+            },
+            {
+                "id": 18339,
+                "uri": "https://sedra.bethmardutho.org/api/word/18339.json"
+            },
+            {
+                "id": 18338,
+                "uri": "https://sedra.bethmardutho.org/api/word/18338.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

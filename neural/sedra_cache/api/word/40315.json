@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0725\u072a\u0725\u072a",
+        "western": "\u0725\u0730\u072a\u0725\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14848,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14848.json"
+        },
+        "stem": "\u0725\u072a\u0725\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to gargle, to wash out the mouth."
+            ]
+        },
+        "word": {
+            "id": 40315,
+            "uri": "https://sedra.bethmardutho.org/api/word/40315.json"
+        }
+    }
+]

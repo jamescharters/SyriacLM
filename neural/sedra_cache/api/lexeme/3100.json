@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3100,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3100.json"
+        },
+        "syriac": "\u072b\u0712\u071d\u072c\u0710",
+        "glosses": {
+            "English": [
+                "captives",
+                "captivity",
+                "booty",
+                "captivity",
+                "<span class=\"selectableFont\">\u072b\u0712\u073a\u071d\u072c\u0733\u0710 \u0715\u0715\u0730\u071d\u072a\u0308</span><span class=\"selectableFont\">\u0733\u071d\u0736\u0710</span> Lit. monastic prayer book.",
+                "<em>Anethum graveolens</em>",
+                "anise",
+                "dill"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1803,
+            "uri": "https://sedra.bethmardutho.org/api/root/1803.json"
+        },
+        "words": [
+            {
+                "id": 20193,
+                "uri": "https://sedra.bethmardutho.org/api/word/20193.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

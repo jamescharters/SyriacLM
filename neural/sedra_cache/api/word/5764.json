@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0718\u0712\u0719\u0721\u071d\u072a\u072c\u0710",
+        "western": "\u0718\u0712\u0742\u0730\u0719\u0721\u073a\u071d\u072a\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 891,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/891.json"
+        },
+        "stem": "\u0719\u0721\u071d\u072a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0632\u0645\u0648\u0631",
+                "\u0646\u0634\u064a\u062f",
+                "\u0623\u063a\u0646\u064a\u0629, \u062a\u0631\u062a\u064a\u0644"
+            ],
+            "eng": [
+                "psalmody",
+                "song",
+                "song, chant."
+            ],
+            "fre": [
+                "hymne",
+                "psaume",
+                "chant"
+            ]
+        },
+        "word": {
+            "id": 5764,
+            "uri": "https://sedra.bethmardutho.org/api/word/5764.json"
+        }
+    }
+]

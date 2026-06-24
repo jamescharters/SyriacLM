@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072b\u0713\u0718",
+        "western": "\u072b\u0713\u0742\u0730\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3116,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3116.json"
+        },
+        "stem": "\u072b\u0713\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0627\u063a, \u062a\u0627\u0647"
+            ],
+            "eng": [
+                "IIIa to lead astray, to mislead.",
+                "go astray",
+                "Ia to swerve, to stray"
+            ],
+            "fre": [
+                "d\u00e9vier, errer"
+            ]
+        },
+        "word": {
+            "id": 20351,
+            "uri": "https://sedra.bethmardutho.org/api/word/20351.json"
+        }
+    }
+]

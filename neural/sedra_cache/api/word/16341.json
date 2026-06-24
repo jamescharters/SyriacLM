@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0726\u071d\u0722\u071f\u0710",
+        "western": "\u0718\u0730\u0715\u0742\u0726\u0741\u073a\u071d\u0722\u071f\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2503,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2503.json"
+        },
+        "stem": "\u0726\u071d\u0722\u071f\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "a board, panel for painting on, a writing table",
+                "dish",
+                "platter",
+                "dish",
+                "tablet."
+            ]
+        },
+        "word": {
+            "id": 16341,
+            "uri": "https://sedra.bethmardutho.org/api/word/16341.json"
+        }
+    }
+]

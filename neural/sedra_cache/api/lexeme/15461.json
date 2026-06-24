@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15461,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15461.json"
+        },
+        "syriac": "\u071b\u072a",
+        "glosses": {
+            "English": [
+                "to turn swiftly.",
+                "Ia to fly",
+                "IIIa to make to fly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2756,
+            "uri": "https://sedra.bethmardutho.org/api/root/2756.json"
+        },
+        "words": [
+            {
+                "id": 42038,
+                "uri": "https://sedra.bethmardutho.org/api/word/42038.json"
+            },
+            {
+                "id": 40309,
+                "uri": "https://sedra.bethmardutho.org/api/word/40309.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 64,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/64.json"
+        },
+        "syriac": "\u0710\u0719\u0718\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Azotus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 53,
+            "uri": "https://sedra.bethmardutho.org/api/root/53.json"
+        },
+        "words": [
+            {
+                "id": 337,
+                "uri": "https://sedra.bethmardutho.org/api/word/337.json"
+            },
+            {
+                "id": 338,
+                "uri": "https://sedra.bethmardutho.org/api/word/338.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

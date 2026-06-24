@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0712\u071a\u072b",
+        "western": "\u0712\u071a\u0730\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15546,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15546.json"
+        },
+        "stem": "\u0712\u071a\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0632",
+                "\u0628\u0644\u0628\u0644",
+                "\u062d\u062b"
+            ],
+            "eng": [
+                "Ia to shake, disturb",
+                "IIa, IIIa to agitate, stir."
+            ],
+            "fre": [
+                "troubler",
+                "exciter",
+                "agiter"
+            ]
+        },
+        "word": {
+            "id": 40194,
+            "uri": "https://sedra.bethmardutho.org/api/word/40194.json"
+        }
+    }
+]

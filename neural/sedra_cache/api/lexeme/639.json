@@ -1,0 +1,78 @@
+[
+    {
+        "lexeme": {
+            "id": 639,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/639.json"
+        },
+        "syriac": "\u0715\u0712\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0628\u062d, \u0636\u062d\u0649 (\u0645\u0636)",
+                ""
+            ],
+            "French": [
+                "immoler , sacrifier",
+                ""
+            ],
+            "English": [
+                "sacrifice",
+                "immolate",
+                "IIa to offer sacrifice.",
+                "Ip",
+                "Ia to sacrifice, immolate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 413,
+            "uri": "https://sedra.bethmardutho.org/api/root/413.json"
+        },
+        "words": [
+            {
+                "id": 23869,
+                "uri": "https://sedra.bethmardutho.org/api/word/23869.json"
+            },
+            {
+                "id": 23868,
+                "uri": "https://sedra.bethmardutho.org/api/word/23868.json"
+            },
+            {
+                "id": 4016,
+                "uri": "https://sedra.bethmardutho.org/api/word/4016.json"
+            },
+            {
+                "id": 4015,
+                "uri": "https://sedra.bethmardutho.org/api/word/4015.json"
+            },
+            {
+                "id": 4013,
+                "uri": "https://sedra.bethmardutho.org/api/word/4013.json"
+            },
+            {
+                "id": 23867,
+                "uri": "https://sedra.bethmardutho.org/api/word/23867.json"
+            },
+            {
+                "id": 23866,
+                "uri": "https://sedra.bethmardutho.org/api/word/23866.json"
+            },
+            {
+                "id": 4019,
+                "uri": "https://sedra.bethmardutho.org/api/word/4019.json"
+            },
+            {
+                "id": 4017,
+                "uri": "https://sedra.bethmardutho.org/api/word/4017.json"
+            },
+            {
+                "id": 4012,
+                "uri": "https://sedra.bethmardutho.org/api/word/4012.json"
+            },
+            {
+                "id": 4011,
+                "uri": "https://sedra.bethmardutho.org/api/word/4011.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

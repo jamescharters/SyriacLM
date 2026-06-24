@@ -1,0 +1,66 @@
+[
+    {
+        "lexeme": {
+            "id": 174,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/174.json"
+        },
+        "syriac": "\u0710\u0721\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0645\u0629"
+            ],
+            "French": [
+                "servante"
+            ],
+            "English": [
+                "handmaid",
+                "servant",
+                "2 (pl. <span class=\"selectableFont\">\u0710\u0730\u0721\u0308\u0717\u0733\u072c\u0733\u0710</span>) maidservant."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 128,
+            "uri": "https://sedra.bethmardutho.org/api/root/128.json"
+        },
+        "words": [
+            {
+                "id": 1341,
+                "uri": "https://sedra.bethmardutho.org/api/word/1341.json"
+            },
+            {
+                "id": 1340,
+                "uri": "https://sedra.bethmardutho.org/api/word/1340.json"
+            },
+            {
+                "id": 1338,
+                "uri": "https://sedra.bethmardutho.org/api/word/1338.json"
+            },
+            {
+                "id": 1342,
+                "uri": "https://sedra.bethmardutho.org/api/word/1342.json"
+            },
+            {
+                "id": 1336,
+                "uri": "https://sedra.bethmardutho.org/api/word/1336.json"
+            },
+            {
+                "id": 42227,
+                "uri": "https://sedra.bethmardutho.org/api/word/42227.json"
+            },
+            {
+                "id": 1339,
+                "uri": "https://sedra.bethmardutho.org/api/word/1339.json"
+            },
+            {
+                "id": 1337,
+                "uri": "https://sedra.bethmardutho.org/api/word/1337.json"
+            },
+            {
+                "id": 1335,
+                "uri": "https://sedra.bethmardutho.org/api/word/1335.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

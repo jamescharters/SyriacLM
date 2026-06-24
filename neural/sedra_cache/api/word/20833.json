@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u072b\u071b\u0710",
+        "western": "\u072b\u071b\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3175,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3175.json"
+        },
+        "stem": "\u072b\u071b\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0645\u0642",
+                "\u00a0"
+            ],
+            "eng": [
+                "to despise",
+                "IIIa to infatuate",
+                "become foolish",
+                "to be infatuated",
+                "Ip to act foolishly",
+                "IIp to feign madness",
+                "Ia to be crazy",
+                "to accuse of folly",
+                "to make crazy.",
+                "to misbehave",
+                "make foolish"
+            ],
+            "fre": [
+                "\u00a0",
+                "\u00eatre ou devenir fou"
+            ]
+        },
+        "word": {
+            "id": 20833,
+            "uri": "https://sedra.bethmardutho.org/api/word/20833.json"
+        }
+    }
+]

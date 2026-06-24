@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14823,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14823.json"
+        },
+        "syriac": "\u0721\u072b\u071f\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0647\u0646",
+                "\u0623\u0639\u0637\u0649 \u0631\u0647\u064a\u0646\u0629",
+                "\u0627\u0633\u062a\u0631\u0647\u0646",
+                "\u00a0"
+            ],
+            "French": [
+                "donner en gage",
+                "donner comme otage",
+                "prendre en gage",
+                "\u00a0"
+            ],
+            "English": [
+                "IVa to give, take in pledge",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2507,
+            "uri": "https://sedra.bethmardutho.org/api/root/2507.json"
+        },
+        "words": [
+            {
+                "id": 41407,
+                "uri": "https://sedra.bethmardutho.org/api/word/41407.json"
+            },
+            {
+                "id": 40564,
+                "uri": "https://sedra.bethmardutho.org/api/word/40564.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

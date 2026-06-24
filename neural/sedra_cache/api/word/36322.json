@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u0723\u071f\u071d\u0721\u0710",
+        "western": "\u0710\u0736\u0723\u071f\u073a\u071d\u0721\u0733\u0710",
+        "eastern": "\u0710\u0738\u0723\u071f\u0307\u071d\u073c\u0721\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10906,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10906.json"
+        },
+        "stem": "\u0710\u0723\u071f\u071d\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "dress",
+                "manner, appearance",
+                "monastic habit.",
+                "shape, form"
+            ]
+        },
+        "word": {
+            "id": 36322,
+            "uri": "https://sedra.bethmardutho.org/api/word/36322.json"
+        }
+    }
+]

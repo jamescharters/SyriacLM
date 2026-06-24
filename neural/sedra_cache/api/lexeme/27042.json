@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 27042,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27042.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0718\u0723 \u0715\u071d\u0729\u071b\u0710\u0721\u071d\u0722\u071b\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f36\u03bd\u03bf\u03c2 \u03b4\u03b9\u03ba\u03c4\u03b1\u03bc\u03bd\u03af\u03c4\u03b7\u03c2 (\u03b4\u03af\u03ba\u03c4\u03b1\u03bc\u03bd\u03bf\u03c2. Although a Greek word, it appears only in the Latin dictionary)"
+            ],
+            "English": [
+                "wine flavored with dittany"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "dictamnus"
+            ]
+        },
+        "words": [
+            {
+                "id": 53416,
+                "uri": "https://sedra.bethmardutho.org/api/word/53416.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

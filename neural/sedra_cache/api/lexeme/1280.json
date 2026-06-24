@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1280,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1280.json"
+        },
+        "syriac": "\u071b\u072a\u0723\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Tarsus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 758,
+            "uri": "https://sedra.bethmardutho.org/api/root/758.json"
+        },
+        "words": [
+            {
+                "id": 8355,
+                "uri": "https://sedra.bethmardutho.org/api/word/8355.json"
+            },
+            {
+                "id": 8352,
+                "uri": "https://sedra.bethmardutho.org/api/word/8352.json"
+            },
+            {
+                "id": 8354,
+                "uri": "https://sedra.bethmardutho.org/api/word/8354.json"
+            },
+            {
+                "id": 8353,
+                "uri": "https://sedra.bethmardutho.org/api/word/8353.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

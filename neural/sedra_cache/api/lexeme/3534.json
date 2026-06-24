@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3534,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3534.json"
+        },
+        "syriac": "\u071d\u0720\u071d\u0715\u0710",
+        "glosses": {
+            "English": [
+                "son"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 820,
+            "uri": "https://sedra.bethmardutho.org/api/root/820.json"
+        },
+        "words": [
+            {
+                "id": 24318,
+                "uri": "https://sedra.bethmardutho.org/api/word/24318.json"
+            },
+            {
+                "id": 9021,
+                "uri": "https://sedra.bethmardutho.org/api/word/9021.json"
+            },
+            {
+                "id": 9052,
+                "uri": "https://sedra.bethmardutho.org/api/word/9052.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

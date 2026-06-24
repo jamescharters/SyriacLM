@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0718\u072b\u0720\u071d\u072c",
+        "western": "\u0718\u072b\u0736\u0720\u071d\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3203,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3203.json"
+        },
+        "stem": "\u072b\u0720\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be stilled",
+                "cease",
+                "be quiet",
+                "quiet",
+                "stop",
+                "IIa to quieten, to calm",
+                "to stanch",
+                "Gram. to be quiescent.",
+                "IIIa to quieten, to calm, to leave at rest.",
+                "Gram. to pronounce without vowel",
+                "Ia to be still",
+                "to be dormant",
+                "to abate, to cease",
+                "to confute",
+                "IIp to cease"
+            ]
+        },
+        "word": {
+            "id": 21021,
+            "uri": "https://sedra.bethmardutho.org/api/word/21021.json"
+        }
+    }
+]

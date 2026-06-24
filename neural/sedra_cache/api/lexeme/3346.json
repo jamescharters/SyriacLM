@@ -1,0 +1,94 @@
+[
+    {
+        "lexeme": {
+            "id": 3346,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3346.json"
+        },
+        "syriac": "\u072c\u0710\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062d\u0634\u0627\u0621",
+                "\u0636\u0645\u064a\u0631",
+                "\u0642\u0644\u0628, \u0631\u0648\u062d, \u0639\u0648\u0627\u0637\u0641",
+                "\u0634\u0647\u0648\u0629, \u0644\u0630\u0629"
+            ],
+            "French": [
+                "entrailles",
+                "conscience",
+                "coeur, esprit, sentiments",
+                "app\u00e9tit, go\u00fbt"
+            ],
+            "English": [
+                "consciousness",
+                "conscience",
+                "mind",
+                "conscience",
+                "<span class=\"selectableFont\">\u072c\u073a\u0710\u072a\u0308\u0733\u072c\u0733\u0710</span> abdomen."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1942,
+            "uri": "https://sedra.bethmardutho.org/api/root/1942.json"
+        },
+        "words": [
+            {
+                "id": 27759,
+                "uri": "https://sedra.bethmardutho.org/api/word/27759.json"
+            },
+            {
+                "id": 22277,
+                "uri": "https://sedra.bethmardutho.org/api/word/22277.json"
+            },
+            {
+                "id": 22276,
+                "uri": "https://sedra.bethmardutho.org/api/word/22276.json"
+            },
+            {
+                "id": 22273,
+                "uri": "https://sedra.bethmardutho.org/api/word/22273.json"
+            },
+            {
+                "id": 22284,
+                "uri": "https://sedra.bethmardutho.org/api/word/22284.json"
+            },
+            {
+                "id": 22279,
+                "uri": "https://sedra.bethmardutho.org/api/word/22279.json"
+            },
+            {
+                "id": 23016,
+                "uri": "https://sedra.bethmardutho.org/api/word/23016.json"
+            },
+            {
+                "id": 22278,
+                "uri": "https://sedra.bethmardutho.org/api/word/22278.json"
+            },
+            {
+                "id": 22275,
+                "uri": "https://sedra.bethmardutho.org/api/word/22275.json"
+            },
+            {
+                "id": 22274,
+                "uri": "https://sedra.bethmardutho.org/api/word/22274.json"
+            },
+            {
+                "id": 22283,
+                "uri": "https://sedra.bethmardutho.org/api/word/22283.json"
+            },
+            {
+                "id": 22282,
+                "uri": "https://sedra.bethmardutho.org/api/word/22282.json"
+            },
+            {
+                "id": 22281,
+                "uri": "https://sedra.bethmardutho.org/api/word/22281.json"
+            },
+            {
+                "id": 22280,
+                "uri": "https://sedra.bethmardutho.org/api/word/22280.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

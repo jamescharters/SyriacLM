@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1325,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1325.json"
+        },
+        "syriac": "\u071d\u0717\u0718\u072b\u0726\u071b",
+        "glosses": {
+            "English": [
+                "Jehoshaphat"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 779,
+            "uri": "https://sedra.bethmardutho.org/api/root/779.json"
+        },
+        "words": [
+            {
+                "id": 8874,
+                "uri": "https://sedra.bethmardutho.org/api/word/8874.json"
+            },
+            {
+                "id": 8873,
+                "uri": "https://sedra.bethmardutho.org/api/word/8873.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

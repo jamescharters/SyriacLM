@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1622,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1622.json"
+        },
+        "syriac": "\u0720\u0712\u071d",
+        "glosses": {
+            "English": [
+                "Lebbaeus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 950,
+            "uri": "https://sedra.bethmardutho.org/api/root/950.json"
+        },
+        "words": [
+            {
+                "id": 10832,
+                "uri": "https://sedra.bethmardutho.org/api/word/10832.json"
+            },
+            {
+                "id": 10833,
+                "uri": "https://sedra.bethmardutho.org/api/word/10833.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

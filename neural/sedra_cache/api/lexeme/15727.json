@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15727,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15727.json"
+        },
+        "syriac": "\u072b\u0726\u071f",
+        "glosses": {
+            "English": [
+                "Ia to pour, to empty out",
+                "IIp to be transfused.",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3067,
+            "uri": "https://sedra.bethmardutho.org/api/root/3067.json"
+        },
+        "words": [
+            {
+                "id": 41667,
+                "uri": "https://sedra.bethmardutho.org/api/word/41667.json"
+            },
+            {
+                "id": 40887,
+                "uri": "https://sedra.bethmardutho.org/api/word/40887.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

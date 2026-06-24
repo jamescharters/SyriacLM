@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3086,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3086.json"
+        },
+        "syriac": "\u0721\u072a\u072c\u071d\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "instruction",
+                "admonition",
+                "admonition, warning, exhortation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1795,
+            "uri": "https://sedra.bethmardutho.org/api/root/1795.json"
+        },
+        "words": [
+            {
+                "id": 20042,
+                "uri": "https://sedra.bethmardutho.org/api/word/20042.json"
+            },
+            {
+                "id": 20043,
+                "uri": "https://sedra.bethmardutho.org/api/word/20043.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

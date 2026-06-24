@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u072a\u072c\u0710",
+        "western": "\u0726\u0736\u072a\u072c\u0733\u0710",
+        "lexeme": {
+            "id": 18247,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18247.json"
+        },
+        "stem": "\u0726\u072a\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0628\u0644",
+                "\u0648\u062d\u0644"
+            ],
+            "eng": [
+                "fertility"
+            ],
+            "fre": [
+                "boue",
+                "fumier"
+            ]
+        },
+        "word": {
+            "id": 44621,
+            "uri": "https://sedra.bethmardutho.org/api/word/44621.json"
+        }
+    }
+]

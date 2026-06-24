@@ -1,0 +1,63 @@
+[
+    {
+        "syriac": "\u0713\u0721\u072a\u071d\u0722",
+        "western": "\u0713\u0741\u0733\u0721\u072a\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 592,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/592.json"
+        },
+        "stem": "\u0713\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0643\u0645\u0644, \u0645\u0644\u0623",
+                "\u0647\u0644\u0643",
+                "\u0646\u0642\u0635",
+                "\u00a0",
+                "\u0632\u0627\u0644",
+                "\u0623\u0632\u0627\u0644",
+                "\u0623\u0632\u0627\u0644"
+            ],
+            "eng": [
+                "to spend, waste",
+                "to fail, to be destroyed",
+                "to do away with.",
+                "to bring to an end, finish",
+                "fulfil",
+                "mature",
+                "accomplish",
+                "perfect",
+                "IIp to be accomplished",
+                "IIIa to accomplish",
+                "Ia trans. to perfect, finish, perform",
+                "to finish off, to destroy",
+                "intrans. to be consumed, fail, come to an end",
+                "Ip to be perfect, perfected, to be accomplished",
+                "IIa to make perfect",
+                "to come to pass"
+            ],
+            "fre": [
+                "\u00a0",
+                "p\u00e9rir",
+                "cesser",
+                "faire cesser",
+                "abolir",
+                "achever , remplir",
+                "manquer"
+            ]
+        },
+        "word": {
+            "id": 23832,
+            "uri": "https://sedra.bethmardutho.org/api/word/23832.json"
+        }
+    }
+]

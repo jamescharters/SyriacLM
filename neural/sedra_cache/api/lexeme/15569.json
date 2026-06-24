@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15569,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15569.json"
+        },
+        "syriac": "\u0721\u071d\u072c",
+        "glosses": {
+            "English": [
+                "Ia to die",
+                "IIIa to put to death, kill",
+                "to mortify.",
+                "Ip to be put to death"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2569,
+            "uri": "https://sedra.bethmardutho.org/api/root/2569.json"
+        },
+        "words": [
+            {
+                "id": 41749,
+                "uri": "https://sedra.bethmardutho.org/api/word/41749.json"
+            },
+            {
+                "id": 41419,
+                "uri": "https://sedra.bethmardutho.org/api/word/41419.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

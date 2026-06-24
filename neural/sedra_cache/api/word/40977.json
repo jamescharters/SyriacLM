@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0719",
+        "western": "\u071f\u0718\u0730\u0719",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15508,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15508.json"
+        },
+        "stem": "\u071f\u0718\u0719",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be timid.",
+                "Ia to shrink back"
+            ]
+        },
+        "word": {
+            "id": 40977,
+            "uri": "https://sedra.bethmardutho.org/api/word/40977.json"
+        }
+    }
+]

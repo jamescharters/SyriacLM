@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2794,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2794.json"
+        },
+        "syriac": "\u0729\u0718\u071b\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639",
+                "\u0627\u0646\u0642\u0637\u0627\u0639",
+                "\u0625\u0647\u0645\u0627\u0644",
+                "\u0635\u063a\u0631 \u0627\u0644\u0646\u0641\u0633"
+            ],
+            "French": [
+                "ablation",
+                "interruption",
+                "n\u00e9gligence",
+                "pusillanimit\u00e9"
+            ],
+            "English": [
+                "shrinking",
+                "listlessness",
+                "interruption",
+                "listlessness, depression.",
+                "mutilation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1649,
+            "uri": "https://sedra.bethmardutho.org/api/root/1649.json"
+        },
+        "words": [
+            {
+                "id": 18280,
+                "uri": "https://sedra.bethmardutho.org/api/word/18280.json"
+            },
+            {
+                "id": 18281,
+                "uri": "https://sedra.bethmardutho.org/api/word/18281.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

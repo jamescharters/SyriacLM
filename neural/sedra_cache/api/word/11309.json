@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0721\u0718\u072c",
+        "western": "\u0722\u0721\u073d\u0718\u072c\u0742",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 1727,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1727.json"
+        },
+        "stem": "\u0721\u0718\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be dead",
+                "die",
+                "put to death"
+            ]
+        },
+        "word": {
+            "id": 11309,
+            "uri": "https://sedra.bethmardutho.org/api/word/11309.json"
+        }
+    }
+]

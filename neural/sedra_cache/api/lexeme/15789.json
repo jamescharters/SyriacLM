@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15789,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15789.json"
+        },
+        "syriac": "\u071a\u072a\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0631\u0643, \u0646\u0638\u0641",
+                "\u00a0"
+            ],
+            "French": [
+                "frotter, nettoyer",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to rub hard, violently",
+                "IIp.",
+                "Ia to rub, polish"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2905,
+            "uri": "https://sedra.bethmardutho.org/api/root/2905.json"
+        },
+        "words": [
+            {
+                "id": 41746,
+                "uri": "https://sedra.bethmardutho.org/api/word/41746.json"
+            },
+            {
+                "id": 41038,
+                "uri": "https://sedra.bethmardutho.org/api/word/41038.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

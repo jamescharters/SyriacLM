@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0715\u0723\u0717\u0715\u071d\u0722",
+        "western": "\u0715\u0741\u0723\u0733\u0717\u0715\u0741\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2077,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2077.json"
+        },
+        "stem": "\u0723\u0717\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0647\u062f"
+            ],
+            "eng": [
+                "Ip to be testified to",
+                "IIIp.",
+                "IIIa to bear witness, to attest",
+                "IIa to call to witness",
+                "IIp to be confirmed by witness",
+                "Ia to witness, to testify",
+                "witness",
+                "testify",
+                "to be martyred",
+                "to suffer martyrdom",
+                "to be a martyr"
+            ],
+            "fre": [
+                "t\u00e9moigner"
+            ]
+        },
+        "word": {
+            "id": 13843,
+            "uri": "https://sedra.bethmardutho.org/api/word/13843.json"
+        }
+    }
+]

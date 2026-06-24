@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2200,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2200.json"
+        },
+        "syriac": "\u0723\u072a\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0647\u062a\u0627\u0644"
+            ],
+            "French": [
+                "\u00eatre terrifi\u00e9"
+            ],
+            "English": [
+                "leave alone",
+                "terrified",
+                "Ia to be terrified, to quake",
+                "IIp to be struck with terror.",
+                "IIa to terrify"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1316,
+            "uri": "https://sedra.bethmardutho.org/api/root/1316.json"
+        },
+        "words": [
+            {
+                "id": 14580,
+                "uri": "https://sedra.bethmardutho.org/api/word/14580.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

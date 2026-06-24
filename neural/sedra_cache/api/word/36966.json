@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u072c\u0710",
+        "western": "\u071f\u0733\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13881,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13881.json"
+        },
+        "stem": "\u071f\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0645\u062d \u0645\u0646 \u0623\u0631\u0636 \u0628\u0648\u0631"
+            ],
+            "eng": [
+                "growth from previous year\u2019s harvest."
+            ],
+            "fre": [
+                "bl\u00e9 de jach\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 36966,
+            "uri": "https://sedra.bethmardutho.org/api/word/36966.json"
+        }
+    }
+]

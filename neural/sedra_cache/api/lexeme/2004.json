@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2004,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2004.json"
+        },
+        "syriac": "\u0722\u0726\u0710\u072b\u0710",
+        "glosses": {
+            "English": [
+                "refreshment",
+                "relief",
+                "pause",
+                "refreshment.",
+                "respite, breathing space"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03bd\u03ac\u03c0\u03b1\u03c5\u03c3\u03b9\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1195,
+            "uri": "https://sedra.bethmardutho.org/api/root/1195.json"
+        },
+        "words": [
+            {
+                "id": 13241,
+                "uri": "https://sedra.bethmardutho.org/api/word/13241.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

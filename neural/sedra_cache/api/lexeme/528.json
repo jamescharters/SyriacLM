@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 528,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/528.json"
+        },
+        "syriac": "\u0713\u0718\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0627\u062e\u0644\u064a, \u0628\u0639\u064a\u062f",
+                "\u0633\u0627\u0643\u0646",
+                "\u062e\u0635\u064a"
+            ],
+            "French": [
+                "int\u00e9rieur, \u00e9loign\u00e9",
+                "habitant",
+                "eunuque"
+            ],
+            "English": [
+                "inner part",
+                "interior",
+                "remote.",
+                "inner, interior"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 352,
+            "uri": "https://sedra.bethmardutho.org/api/root/352.json"
+        },
+        "words": [
+            {
+                "id": 3561,
+                "uri": "https://sedra.bethmardutho.org/api/word/3561.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

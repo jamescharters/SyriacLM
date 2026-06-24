@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0713\u071a",
+        "western": "\u0713\u0730\u072a\u0713\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14650,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14650.json"
+        },
+        "stem": "\u0713\u072a\u0713\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0630\u0644"
+            ],
+            "eng": [
+                "IVa humiliate",
+                "IVp to prostrate oneself, fall down."
+            ],
+            "fre": [
+                "humilier"
+            ]
+        },
+        "word": {
+            "id": 41218,
+            "uri": "https://sedra.bethmardutho.org/api/word/41218.json"
+        }
+    }
+]

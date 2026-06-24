@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0725\u0715\u0710",
+        "western": "\u0729\u0725\u0733\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13165,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13165.json"
+        },
+        "stem": "\u0729\u0725\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0643\u0648\u0639"
+            ],
+            "eng": [
+                "kneeling, genuflection."
+            ],
+            "fre": [
+                "g\u00e9nuflexion"
+            ]
+        },
+        "word": {
+            "id": 38671,
+            "uri": "https://sedra.bethmardutho.org/api/word/38671.json"
+        }
+    }
+]

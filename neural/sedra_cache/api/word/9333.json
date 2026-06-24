@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u071d\u0728\u0726\u072c\u071d",
+        "western": "\u071d\u0733\u0728\u0726\u0741\u0730\u072c\u0741\u071d",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "suffixType": "contraction",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 1410,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1410.json"
+        },
+        "stem": "\u071d\u0728\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp to take pains, to do carefully.",
+                "be anxious",
+                "be solicitous",
+                "to be diligent, take pains",
+                "to be studied",
+                "Ia to take care, be careful",
+                "IIa to take pains, to attend to",
+                "Ip to be cared for, attended to",
+                "be careful",
+                "to be anxious about"
+            ]
+        },
+        "word": {
+            "id": 9333,
+            "uri": "https://sedra.bethmardutho.org/api/word/9333.json"
+        }
+    }
+]

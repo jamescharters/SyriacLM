@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1824,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1824.json"
+        },
+        "syriac": "\u0721\u0725\u0729\u0720\u0710",
+        "glosses": {
+            "English": [
+                "perverse"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1092,
+            "uri": "https://sedra.bethmardutho.org/api/root/1092.json"
+        },
+        "words": [
+            {
+                "id": 12085,
+                "uri": "https://sedra.bethmardutho.org/api/word/12085.json"
+            },
+            {
+                "id": 12087,
+                "uri": "https://sedra.bethmardutho.org/api/word/12087.json"
+            },
+            {
+                "id": 12086,
+                "uri": "https://sedra.bethmardutho.org/api/word/12086.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

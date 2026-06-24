@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 473,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/473.json"
+        },
+        "syriac": "\u0712\u072a\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0627\u0644\u0645, \u062e\u0644\u0627\u0626\u0642, \u0628\u0634\u0631"
+            ],
+            "French": [
+                "monde, cr\u00e9atures, hommes"
+            ],
+            "English": [
+                "creation",
+                "creation, created world",
+                "creature."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 315,
+            "uri": "https://sedra.bethmardutho.org/api/root/315.json"
+        },
+        "words": [
+            {
+                "id": 3324,
+                "uri": "https://sedra.bethmardutho.org/api/word/3324.json"
+            },
+            {
+                "id": 23634,
+                "uri": "https://sedra.bethmardutho.org/api/word/23634.json"
+            },
+            {
+                "id": 3330,
+                "uri": "https://sedra.bethmardutho.org/api/word/3330.json"
+            },
+            {
+                "id": 3327,
+                "uri": "https://sedra.bethmardutho.org/api/word/3327.json"
+            },
+            {
+                "id": 3325,
+                "uri": "https://sedra.bethmardutho.org/api/word/3325.json"
+            },
+            {
+                "id": 3331,
+                "uri": "https://sedra.bethmardutho.org/api/word/3331.json"
+            },
+            {
+                "id": 3329,
+                "uri": "https://sedra.bethmardutho.org/api/word/3329.json"
+            },
+            {
+                "id": 3328,
+                "uri": "https://sedra.bethmardutho.org/api/word/3328.json"
+            },
+            {
+                "id": 3326,
+                "uri": "https://sedra.bethmardutho.org/api/word/3326.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

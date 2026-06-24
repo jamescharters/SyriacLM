@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0717\u0722\u0715\u0718\u071d\u0710",
+        "western": "\u0717\u0736\u0722\u0715\u0718\u0733\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 19345,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19345.json"
+        },
+        "stem": "\u0717\u0722\u0715\u0718\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0646\u062f\u064a"
+            ],
+            "eng": [
+                "Cushite",
+                "Hindoo",
+                "Ethiopian",
+                "Nubian",
+                "Indian"
+            ]
+        },
+        "word": {
+            "id": 45719,
+            "uri": "https://sedra.bethmardutho.org/api/word/45719.json"
+        }
+    }
+]

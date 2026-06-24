@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 2995,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2995.json"
+        },
+        "syriac": "\u0721\u072a\u071a\u0721\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u062d\u0645\u0629"
+            ],
+            "French": [
+                "mis\u00e9ricorde"
+            ],
+            "English": [
+                "compassion",
+                "mercy",
+                "pity",
+                "kindliness",
+                "compassion, mercy, loving-kindness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1753,
+            "uri": "https://sedra.bethmardutho.org/api/root/1753.json"
+        },
+        "words": [
+            {
+                "id": 19495,
+                "uri": "https://sedra.bethmardutho.org/api/word/19495.json"
+            },
+            {
+                "id": 27787,
+                "uri": "https://sedra.bethmardutho.org/api/word/27787.json"
+            },
+            {
+                "id": 19497,
+                "uri": "https://sedra.bethmardutho.org/api/word/19497.json"
+            },
+            {
+                "id": 19496,
+                "uri": "https://sedra.bethmardutho.org/api/word/19496.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

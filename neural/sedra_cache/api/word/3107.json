@@ -1,0 +1,54 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0712\u0728\u072a\u072c\u0718\u0722",
+        "western": "\u0710\u0736\u072c\u0742\u0712\u0741\u0730\u0728\u0730\u072a\u072c\u0741\u073d\u0718\u0722",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 447,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/447.json"
+        },
+        "stem": "\u0712\u0728\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u063a\u0631, \u0642\u0644, \u0643\u0627\u0646 \u0623\u062f\u0646\u0649",
+                "\u0635\u063a\u064a\u0631, \u0636\u0639\u064a\u0641, \u0623\u0635\u063a\u0631, \u0623\u0642\u0644",
+                "\u00a0",
+                "\u0644\u0639\u0646",
+                "\u062a\u0631\u0643",
+                "\u062d\u0630\u0641",
+                "\u0646\u0642\u0635"
+            ],
+            "eng": [
+                "IIa to diminish",
+                "Ia to lessen, subtract, take away",
+                "to decrease, fail",
+                "IIp.",
+                "be inferior",
+                "decrease",
+                "be less"
+            ],
+            "fre": [
+                "\u00eatre petit, peu, inf\u00e9rieur",
+                "maudire",
+                "omettre",
+                "petit, faible, moindre",
+                "\u00f4ter",
+                "manquer",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 3107,
+            "uri": "https://sedra.bethmardutho.org/api/word/3107.json"
+        }
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "lexeme": {
+            "id": 1218,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1218.json"
+        },
+        "syriac": "\u071b\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0628\u0644",
+                "\u0628\u0631\u064a\u0629"
+            ],
+            "French": [
+                "montagne",
+                "campagne"
+            ],
+            "English": [
+                "mountain",
+                "hill",
+                "mountain."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 717,
+            "uri": "https://sedra.bethmardutho.org/api/root/717.json"
+        },
+        "words": [
+            {
+                "id": 8030,
+                "uri": "https://sedra.bethmardutho.org/api/word/8030.json"
+            },
+            {
+                "id": 8037,
+                "uri": "https://sedra.bethmardutho.org/api/word/8037.json"
+            },
+            {
+                "id": 8036,
+                "uri": "https://sedra.bethmardutho.org/api/word/8036.json"
+            },
+            {
+                "id": 8035,
+                "uri": "https://sedra.bethmardutho.org/api/word/8035.json"
+            },
+            {
+                "id": 8029,
+                "uri": "https://sedra.bethmardutho.org/api/word/8029.json"
+            },
+            {
+                "id": 8028,
+                "uri": "https://sedra.bethmardutho.org/api/word/8028.json"
+            },
+            {
+                "id": 8027,
+                "uri": "https://sedra.bethmardutho.org/api/word/8027.json"
+            },
+            {
+                "id": 8026,
+                "uri": "https://sedra.bethmardutho.org/api/word/8026.json"
+            },
+            {
+                "id": 8025,
+                "uri": "https://sedra.bethmardutho.org/api/word/8025.json"
+            },
+            {
+                "id": 8024,
+                "uri": "https://sedra.bethmardutho.org/api/word/8024.json"
+            },
+            {
+                "id": 8034,
+                "uri": "https://sedra.bethmardutho.org/api/word/8034.json"
+            },
+            {
+                "id": 8033,
+                "uri": "https://sedra.bethmardutho.org/api/word/8033.json"
+            },
+            {
+                "id": 8032,
+                "uri": "https://sedra.bethmardutho.org/api/word/8032.json"
+            },
+            {
+                "id": 8031,
+                "uri": "https://sedra.bethmardutho.org/api/word/8031.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

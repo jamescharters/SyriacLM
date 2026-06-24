@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0722\u0710",
+        "western": "\u0710\u0730\u072a\u0722\u0733\u0710",
+        "eastern": "\u0710\u0732\u072a\u0722\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7700,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7700.json"
+        },
+        "stem": "\u0710\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u064a\u0633 \u0628\u0631\u064a"
+            ],
+            "eng": [
+                "wild goat."
+            ],
+            "fre": [
+                "bouc sauvage"
+            ]
+        },
+        "word": {
+            "id": 34530,
+            "uri": "https://sedra.bethmardutho.org/api/word/34530.json"
+        }
+    }
+]

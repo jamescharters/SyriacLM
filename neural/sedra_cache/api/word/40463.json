@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0720\u0717\u0713",
+        "western": "\u0720\u0717\u0713",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15035,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15035.json"
+        },
+        "stem": "\u0720\u0717\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa to evaporate, vaporize.",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0720\u0730\u0717\u0730\u0713</span> to be evaporated, exhaled"
+            ]
+        },
+        "word": {
+            "id": 40463,
+            "uri": "https://sedra.bethmardutho.org/api/word/40463.json"
+        }
+    }
+]

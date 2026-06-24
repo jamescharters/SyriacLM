@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15494,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15494.json"
+        },
+        "syriac": "\u072a\u0726\u0710",
+        "glosses": {
+            "English": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072a\u0726\u0736\u0710</span>, Ia to cure, to strengthen",
+                "see also <span class=\"selectableFont\">\u072a\u0730\u0726\u073a\u071d</span>."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2718,
+            "uri": "https://sedra.bethmardutho.org/api/root/2718.json"
+        },
+        "words": [
+            {
+                "id": 41925,
+                "uri": "https://sedra.bethmardutho.org/api/word/41925.json"
+            },
+            {
+                "id": 40956,
+                "uri": "https://sedra.bethmardutho.org/api/word/40956.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

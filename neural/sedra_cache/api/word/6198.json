@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0718\u0712\u071a\u0715",
+        "western": "\u0718\u0730\u0712\u0742\u071a\u0730\u0715\u0742",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 950,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/950.json"
+        },
+        "stem": "\u071a\u0715",
+        "category": "numeral",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0627\u062d\u062f",
+                "(\u0623\u062f\u0627\u0629 \u062a\u0646\u0643\u064a\u0631)",
+                "\u0648\u0627\u062d\u062f, \u0623\u0648\u0644",
+                "\u0627\u0633\u0645 \u0639\u062f\u062f"
+            ],
+            "eng": [
+                "one",
+                "certain one",
+                "one\u2026the other",
+                "one",
+                "a certain",
+                "each",
+                "<span class=\"selectableFont\">\u0712\u0730\u071a\u0715\u0733\u0710</span> at once, directly",
+                "<span class=\"selectableFont\">\u0721\u0736\u0722 \u071a\u0715\u0733\u0710</span>, <span class=\"selectableFont\">\u0721\u0736\u071a\u0715\u0733\u0710</span> suddenly.",
+                "<span class=\"selectableFont\">\u071a\u0730\u0715 \u0712\u072b\u0730\u0712\u0725\u0733\u0710</span> seven times, sevenfold",
+                "<span class=\"selectableFont\">\u071a\u0730\u0715 \u071f\u0721\u0733\u0710</span> how much more",
+                "each one",
+                "<span class=\"selectableFont\">\u071a\u0730\u0715 \u0720\u071a\u0730\u0715</span> one another"
+            ],
+            "fre": [
+                "un",
+                "[adj. num\u00e9ral]",
+                "un, premier",
+                "un certain"
+            ]
+        },
+        "word": {
+            "id": 6198,
+            "uri": "https://sedra.bethmardutho.org/api/word/6198.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u071a\u0718\u0729",
+        "western": "\u0722\u071a\u073d\u0718\u0729",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15752,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15752.json"
+        },
+        "stem": "\u071a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa <span class=\"selectableFont\">\u071a\u0730\u071d\u0736\u0729</span> to grate",
+                "to make to creak",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u071a\u0730\u0718\u0730\u0729</span> to be divided.",
+                "Ia to crack, creak"
+            ]
+        },
+        "word": {
+            "id": 41879,
+            "uri": "https://sedra.bethmardutho.org/api/word/41879.json"
+        }
+    }
+]

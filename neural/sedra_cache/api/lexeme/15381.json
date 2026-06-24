@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15381,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15381.json"
+        },
+        "syriac": "\u071b\u072a\u072b",
+        "glosses": {
+            "English": [
+                "IIp.",
+                "Ia to scatter, sprinkle, splash",
+                "Ip",
+                "IIa to dash against the ground"
+            ],
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2131,
+            "uri": "https://sedra.bethmardutho.org/api/root/2131.json"
+        },
+        "words": [
+            {
+                "id": 41601,
+                "uri": "https://sedra.bethmardutho.org/api/word/41601.json"
+            },
+            {
+                "id": 40403,
+                "uri": "https://sedra.bethmardutho.org/api/word/40403.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

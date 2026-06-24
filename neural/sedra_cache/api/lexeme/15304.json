@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15304,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15304.json"
+        },
+        "syriac": "\u071b\u071f\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062d\u062a\u0627\u0644"
+            ],
+            "French": [
+                "ruser"
+            ],
+            "English": [
+                "IIp to contrive skillfully, to devise, to plot against.",
+                "IIa to be skilful, ingenious"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2332,
+            "uri": "https://sedra.bethmardutho.org/api/root/2332.json"
+        },
+        "words": [
+            {
+                "id": 40622,
+                "uri": "https://sedra.bethmardutho.org/api/word/40622.json"
+            },
+            {
+                "id": 40405,
+                "uri": "https://sedra.bethmardutho.org/api/word/40405.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

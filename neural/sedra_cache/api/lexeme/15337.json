@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15337,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15337.json"
+        },
+        "syriac": "\u071b\u071d\u0722",
+        "glosses": {
+            "English": [
+                "IIa to cover with clay."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3069,
+            "uri": "https://sedra.bethmardutho.org/api/root/3069.json"
+        },
+        "words": [
+            {
+                "id": 40595,
+                "uri": "https://sedra.bethmardutho.org/api/word/40595.json"
+            },
+            {
+                "id": 40427,
+                "uri": "https://sedra.bethmardutho.org/api/word/40427.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

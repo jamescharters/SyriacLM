@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3302,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3302.json"
+        },
+        "syriac": "\u0721\u072b\u0729\u0720\u0710",
+        "glosses": {
+            "English": [
+                "proud"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1923,
+            "uri": "https://sedra.bethmardutho.org/api/root/1923.json"
+        },
+        "words": [
+            {
+                "id": 21851,
+                "uri": "https://sedra.bethmardutho.org/api/word/21851.json"
+            },
+            {
+                "id": 21853,
+                "uri": "https://sedra.bethmardutho.org/api/word/21853.json"
+            },
+            {
+                "id": 21852,
+                "uri": "https://sedra.bethmardutho.org/api/word/21852.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 2475,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2475.json"
+        },
+        "syriac": "\u0726\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062e"
+            ],
+            "French": [
+                "filet"
+            ],
+            "English": [
+                "denom. verb from \u0726\u0730\u071a\u0733\u0710",
+                "snare",
+                "snare."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1467,
+            "uri": "https://sedra.bethmardutho.org/api/root/1467.json"
+        },
+        "words": [
+            {
+                "id": 44337,
+                "uri": "https://sedra.bethmardutho.org/api/word/44337.json"
+            },
+            {
+                "id": 16270,
+                "uri": "https://sedra.bethmardutho.org/api/word/16270.json"
+            },
+            {
+                "id": 16269,
+                "uri": "https://sedra.bethmardutho.org/api/word/16269.json"
+            },
+            {
+                "id": 16273,
+                "uri": "https://sedra.bethmardutho.org/api/word/16273.json"
+            },
+            {
+                "id": 16272,
+                "uri": "https://sedra.bethmardutho.org/api/word/16272.json"
+            },
+            {
+                "id": 16271,
+                "uri": "https://sedra.bethmardutho.org/api/word/16271.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

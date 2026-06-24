@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 843,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/843.json"
+        },
+        "syriac": "\u0719\u0715\u0718\u0729",
+        "glosses": {
+            "English": [
+                "Sadok"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 541,
+            "uri": "https://sedra.bethmardutho.org/api/root/541.json"
+        },
+        "words": [
+            {
+                "id": 5489,
+                "uri": "https://sedra.bethmardutho.org/api/word/5489.json"
+            },
+            {
+                "id": 5488,
+                "uri": "https://sedra.bethmardutho.org/api/word/5488.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

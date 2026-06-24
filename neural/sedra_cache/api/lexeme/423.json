@@ -1,0 +1,81 @@
+[
+    {
+        "lexeme": {
+            "id": 423,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/423.json"
+        },
+        "syriac": "\u0712\u0723\u072c\u072a\u0710",
+        "glosses": {
+            "English": [
+                "back",
+                "behind",
+                "backwards",
+                "back part, posterior."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 290,
+            "uri": "https://sedra.bethmardutho.org/api/root/290.json"
+        },
+        "words": [
+            {
+                "id": 22976,
+                "uri": "https://sedra.bethmardutho.org/api/word/22976.json"
+            },
+            {
+                "id": 2941,
+                "uri": "https://sedra.bethmardutho.org/api/word/2941.json"
+            },
+            {
+                "id": 2945,
+                "uri": "https://sedra.bethmardutho.org/api/word/2945.json"
+            },
+            {
+                "id": 22975,
+                "uri": "https://sedra.bethmardutho.org/api/word/22975.json"
+            },
+            {
+                "id": 22974,
+                "uri": "https://sedra.bethmardutho.org/api/word/22974.json"
+            },
+            {
+                "id": 2944,
+                "uri": "https://sedra.bethmardutho.org/api/word/2944.json"
+            },
+            {
+                "id": 2943,
+                "uri": "https://sedra.bethmardutho.org/api/word/2943.json"
+            },
+            {
+                "id": 2942,
+                "uri": "https://sedra.bethmardutho.org/api/word/2942.json"
+            },
+            {
+                "id": 2940,
+                "uri": "https://sedra.bethmardutho.org/api/word/2940.json"
+            },
+            {
+                "id": 2939,
+                "uri": "https://sedra.bethmardutho.org/api/word/2939.json"
+            },
+            {
+                "id": 2938,
+                "uri": "https://sedra.bethmardutho.org/api/word/2938.json"
+            },
+            {
+                "id": 2937,
+                "uri": "https://sedra.bethmardutho.org/api/word/2937.json"
+            },
+            {
+                "id": 2936,
+                "uri": "https://sedra.bethmardutho.org/api/word/2936.json"
+            },
+            {
+                "id": 2935,
+                "uri": "https://sedra.bethmardutho.org/api/word/2935.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

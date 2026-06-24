@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a\u0721\u071f\u071d\u0710",
+        "western": "\u072a\u0730\u0721\u071f\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13778,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13778.json"
+        },
+        "stem": "\u072a\u0721\u071f\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0627\u0634 \u0641\u064a \u062c\u0645\u0639\u064a\u0629 \u0631\u0647\u0628\u0627\u0646\u064a\u0629, \u0631\u0627\u0647\u0628"
+            ],
+            "eng": [
+                "living in a community (of monks etc.).",
+                "belonging to a herd"
+            ],
+            "fre": [
+                "qui vit en communaut\u00e9, moine"
+            ]
+        },
+        "word": {
+            "id": 33424,
+            "uri": "https://sedra.bethmardutho.org/api/word/33424.json"
+        }
+    }
+]

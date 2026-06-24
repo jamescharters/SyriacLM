@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0715\u0722\u071a\u0710",
+        "western": "\u0715\u0741\u0733\u0722\u071a\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 734,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/734.json"
+        },
+        "stem": "\u0715\u0722\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0644\u0639 (\u0643\u0648\u0643\u0628), \u0638\u0647\u0631",
+                "\u0644\u0645\u0639"
+            ],
+            "eng": [
+                "make rise",
+                "rise",
+                "to manifest",
+                "Ia to rise (of sun etc.), shine forth, appear",
+                "to show clearly.",
+                "IIp to appear, to be manifest",
+                "IIIa to cause to shine",
+                "dawn",
+                "shine"
+            ],
+            "fre": [
+                "briller",
+                "se lever (astre), appara\u00eetre"
+            ]
+        },
+        "word": {
+            "id": 24187,
+            "uri": "https://sedra.bethmardutho.org/api/word/24187.json"
+        }
+    }
+]

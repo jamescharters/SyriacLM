@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 20256,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20256.json"
+        },
+        "syriac": "\u0710\u0712\u0718\u071f\u0720\u0712\u0723\u071d\u0723",
+        "glosses": {
+            "English": [
+                "revelation"
+            ],
+            "Latin": [
+                "apocalypsis, revelatio"
+            ],
+            "Greek": [
+                "\u1f00\u03c0\u03bf\u03ba\u03ac\u03bb\u03c5\u03c8\u03b9\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c0\u03bf\u03ba\u03ac\u03bb\u03c5\u03c8\u03b9\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 46630,
+                "uri": "https://sedra.bethmardutho.org/api/word/46630.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

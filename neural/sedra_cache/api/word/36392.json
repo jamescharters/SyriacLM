@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0721\u071d\u0721\u0710",
+        "western": "\u0723\u0721\u073a\u071d\u0721\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5079,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5079.json"
+        },
+        "stem": "\u0723\u0721\u071d\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u0645\u0648\u0645"
+            ],
+            "eng": [
+                "poisoned."
+            ],
+            "fre": [
+                "empoisonn\u00e9"
+            ]
+        },
+        "word": {
+            "id": 36392,
+            "uri": "https://sedra.bethmardutho.org/api/word/36392.json"
+        }
+    }
+]

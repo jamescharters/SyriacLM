@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15758,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15758.json"
+        },
+        "syriac": "\u071a\u0723\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0637\u0645",
+                "\u0641\u0635\u0644",
+                "\u062d\u0631\u0631",
+                "\u00a0"
+            ],
+            "French": [
+                "sevrer",
+                "s\u00e9parer",
+                "lib\u00e9rer",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to wean",
+                "to refrain, restrain",
+                "Ip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2329,
+            "uri": "https://sedra.bethmardutho.org/api/root/2329.json"
+        },
+        "words": [
+            {
+                "id": 41659,
+                "uri": "https://sedra.bethmardutho.org/api/word/41659.json"
+            },
+            {
+                "id": 40228,
+                "uri": "https://sedra.bethmardutho.org/api/word/40228.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

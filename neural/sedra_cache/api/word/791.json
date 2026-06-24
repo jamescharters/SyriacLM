@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0718\u0720\u071d",
+        "western": "\u0710\u0730\u071f\u0742\u073d\u0718\u0720\u071d",
+        "tense": "imperative",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 112,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/112.json"
+        },
+        "stem": "\u0710\u071f\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u071f\u0736\u0720</span> to give to eat",
+                "accuse",
+                "Ia to eat, to consume",
+                "eat",
+                "consume",
+                "feed",
+                "IIIp.",
+                "Ip",
+                "to squander",
+                "+ <span class=\"selectableFont\">\u0729\u0730\u072a\u0308\u0728\u0736\u0710</span> to slander, to accuse"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 791,
+            "uri": "https://sedra.bethmardutho.org/api/word/791.json"
+        }
+    }
+]

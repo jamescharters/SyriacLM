@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15639,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15639.json"
+        },
+        "syriac": "\u072b\u0726\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0642\u0628, \u0634\u0643",
+                "\u063a\u0631\u0632"
+            ],
+            "French": [
+                "percer, transpercer",
+                "fixer"
+            ],
+            "English": [
+                "Ia to pierce, transfix",
+                "Ip, IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3025,
+            "uri": "https://sedra.bethmardutho.org/api/root/3025.json"
+        },
+        "words": [
+            {
+                "id": 41631,
+                "uri": "https://sedra.bethmardutho.org/api/word/41631.json"
+            },
+            {
+                "id": 39960,
+                "uri": "https://sedra.bethmardutho.org/api/word/39960.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

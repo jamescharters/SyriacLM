@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 777,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/777.json"
+        },
+        "syriac": "\u0717\u0715\u071d\u0718\u071b\u0710",
+        "glosses": {
+            "English": [
+                "foolish, stupid.",
+                "vulgar",
+                "ignorant",
+                "plebeian",
+                "simple, inexperienced, unskilled",
+                "ignorant"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f30\u03b4\u03b9\u03ce\u03c4\u03b7\u03c2"
+            ]
+        },
+        "root": {
+            "id": 489,
+            "uri": "https://sedra.bethmardutho.org/api/root/489.json"
+        },
+        "words": [
+            {
+                "id": 4934,
+                "uri": "https://sedra.bethmardutho.org/api/word/4934.json"
+            },
+            {
+                "id": 4931,
+                "uri": "https://sedra.bethmardutho.org/api/word/4931.json"
+            },
+            {
+                "id": 4933,
+                "uri": "https://sedra.bethmardutho.org/api/word/4933.json"
+            },
+            {
+                "id": 4932,
+                "uri": "https://sedra.bethmardutho.org/api/word/4932.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

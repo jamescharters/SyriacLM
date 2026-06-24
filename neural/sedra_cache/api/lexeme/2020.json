@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2020,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2020.json"
+        },
+        "syriac": "\u0722\u0729\u0710",
+        "glosses": {
+            "English": [
+                "sacrifice",
+                "libation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1204,
+            "uri": "https://sedra.bethmardutho.org/api/root/1204.json"
+        },
+        "words": [
+            {
+                "id": 26704,
+                "uri": "https://sedra.bethmardutho.org/api/word/26704.json"
+            },
+            {
+                "id": 26703,
+                "uri": "https://sedra.bethmardutho.org/api/word/26703.json"
+            },
+            {
+                "id": 13336,
+                "uri": "https://sedra.bethmardutho.org/api/word/13336.json"
+            },
+            {
+                "id": 13337,
+                "uri": "https://sedra.bethmardutho.org/api/word/13337.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

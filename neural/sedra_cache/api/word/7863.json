@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u071b\u0712\u0710",
+        "western": "\u071b\u0736\u0712\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1195,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1195.json"
+        },
+        "stem": "\u071b\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0628\u0631, \u0646\u0628\u0623",
+                "\u062e\u0628\u0631",
+                "\u0623\u0645\u0631",
+                "\u0642\u0635\u0629"
+            ],
+            "eng": [
+                "news, tidings, report, fame",
+                "fame",
+                "Gram. attribute.",
+                "rumor",
+                "report",
+                "rumour"
+            ],
+            "fre": [
+                "affaire",
+                "bruit qui court, nouvelle",
+                "histoire",
+                "pr\u00e9dicat"
+            ]
+        },
+        "word": {
+            "id": 7863,
+            "uri": "https://sedra.bethmardutho.org/api/word/7863.json"
+        }
+    }
+]

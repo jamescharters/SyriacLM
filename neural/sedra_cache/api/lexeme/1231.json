@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1231.json"
+        },
+        "syriac": "\u071b\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u064a\u0645\u0643\u0646"
+            ],
+            "French": [
+                "peut-\u00eatre"
+            ],
+            "English": [
+                "perhaps",
+                "peradventure"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c4\u03ac\u03c7\u03b1"
+            ]
+        },
+        "root": {
+            "id": 730,
+            "uri": "https://sedra.bethmardutho.org/api/root/730.json"
+        },
+        "words": [
+            {
+                "id": 8071,
+                "uri": "https://sedra.bethmardutho.org/api/word/8071.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

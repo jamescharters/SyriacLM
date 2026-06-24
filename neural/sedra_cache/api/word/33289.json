@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0720\u0725\u0719\u0710",
+        "western": "\u0720\u0736\u0725\u0719\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12154,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12154.json"
+        },
+        "stem": "\u0720\u0725\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0644\u0645\u0629",
+                "\u0635\u0648\u062a, \u062f\u0648\u064a, \u0644\u0647\u062c\u0629",
+                "\u0644\u0641\u0638"
+            ],
+            "eng": [
+                "dialect",
+                "sound, speech",
+                "utterance",
+                "pronunciation.",
+                "twittering"
+            ],
+            "fre": [
+                "prononciation",
+                "voix, son, langage",
+                "mot"
+            ]
+        },
+        "word": {
+            "id": 33289,
+            "uri": "https://sedra.bethmardutho.org/api/word/33289.json"
+        }
+    }
+]

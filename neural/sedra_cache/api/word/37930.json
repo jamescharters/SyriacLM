@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u0722\u071d\u0713\u0710",
+        "western": "\u071a\u0722\u073a\u071d\u0713\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8032,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8032.json"
+        },
+        "stem": "\u071a\u0722\u071d\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062a\u0623\u0644\u0645",
+                "\u0622\u0646, \u062d\u0632\u064a\u0646",
+                "\u0645\u0624\u0644\u0645"
+            ],
+            "eng": [
+                "sighing, mournful, doleful, miserable."
+            ],
+            "fre": [
+                "souffrant",
+                "g\u00e9missant, triste",
+                "douloureux"
+            ]
+        },
+        "word": {
+            "id": 37930,
+            "uri": "https://sedra.bethmardutho.org/api/word/37930.json"
+        }
+    }
+]

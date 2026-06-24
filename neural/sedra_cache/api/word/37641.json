@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072c\u0719\u071d\u0719\u0718\u072c\u0710",
+        "western": "\u072c\u0730\u0719\u073a\u071d\u0719\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14443,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14443.json"
+        },
+        "stem": "\u072c\u0719\u071d\u0719\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0628\u0631\u064a\u0627\u0621, \u0642\u0633\u0627\u0648\u0629",
+                "\u0634\u0628\u0642"
+            ],
+            "eng": [
+                "lasciviousness.",
+                "vehemence",
+                "fervor",
+                "arrogance"
+            ],
+            "fre": [
+                "lascivet\u00e9",
+                "orgueil, cruaut\u00e9"
+            ]
+        },
+        "word": {
+            "id": 37641,
+            "uri": "https://sedra.bethmardutho.org/api/word/37641.json"
+        }
+    }
+]

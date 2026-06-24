@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0725\u072c\u0729",
+        "western": "\u0725\u072c\u0742\u0736\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2437,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2437.json"
+        },
+        "stem": "\u0725\u072c\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0642\u062f\u0645",
+                "\u0639\u062a\u0642, \u0634\u0627\u062e"
+            ],
+            "eng": [
+                "to become antiquated, obsolete",
+                "make old",
+                "grow old",
+                "IIIa to make old",
+                "to become old",
+                "Ia to grow old",
+                "to abrogate."
+            ],
+            "fre": [
+                "progresser",
+                "vieillir, \u00eatre vieux"
+            ]
+        },
+        "word": {
+            "id": 16083,
+            "uri": "https://sedra.bethmardutho.org/api/word/16083.json"
+        }
+    }
+]

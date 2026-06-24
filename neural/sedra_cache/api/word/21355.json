@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u072b\u0721\u071d\u0710",
+        "western": "\u0715\u0741\u0730\u072b\u0721\u0730\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "common",
+        "lexeme": {
+            "id": 3238,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3238.json"
+        },
+        "stem": "\u072b\u0721\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sky",
+                "(and pl.) heaven",
+                "ceiling, roof.",
+                "heaven"
+            ]
+        },
+        "word": {
+            "id": 21355,
+            "uri": "https://sedra.bethmardutho.org/api/word/21355.json"
+        }
+    }
+]

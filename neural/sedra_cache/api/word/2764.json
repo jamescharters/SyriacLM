@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0712\u0720\u071d\u0710",
+        "western": "\u0712\u0741\u0720\u0733\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 398,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/398.json"
+        },
+        "stem": "\u0712\u0720\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0627\u0644, \u0639\u062a\u064a\u0642",
+                "\u062b\u0648\u0628 \u0628\u0627\u0644"
+            ],
+            "eng": [
+                "worn out",
+                "old",
+                "worn out, old (of clothes)",
+                "rags",
+                "scarcity, lack of."
+            ],
+            "fre": [
+                "us\u00e9, vieux",
+                "habit us\u00e9"
+            ]
+        },
+        "word": {
+            "id": 2764,
+            "uri": "https://sedra.bethmardutho.org/api/word/2764.json"
+        }
+    }
+]

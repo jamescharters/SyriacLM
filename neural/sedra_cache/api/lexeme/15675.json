@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15675,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15675.json"
+        },
+        "syriac": "\u0722\u071a\u072b",
+        "glosses": {
+            "English": [
+                "to divine",
+                "Ia to whisper",
+                "IIp to be affected by divination.",
+                "to mutter",
+                "IIa to practice divination"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2617,
+            "uri": "https://sedra.bethmardutho.org/api/root/2617.json"
+        },
+        "words": [
+            {
+                "id": 41701,
+                "uri": "https://sedra.bethmardutho.org/api/word/41701.json"
+            },
+            {
+                "id": 40483,
+                "uri": "https://sedra.bethmardutho.org/api/word/40483.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0725\u0718\u0729\u0712\u0710",
+        "western": "\u0725\u073d\u0718\u0729\u0733\u0712\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2394,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2394.json"
+        },
+        "stem": "\u0725\u0718\u0729\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u062d\u062b"
+            ],
+            "eng": [
+                "investigation, enquiry.",
+                "inquiry",
+                "investigation"
+            ],
+            "fre": [
+                "recherche"
+            ]
+        },
+        "word": {
+            "id": 15886,
+            "uri": "https://sedra.bethmardutho.org/api/word/15886.json"
+        }
+    }
+]

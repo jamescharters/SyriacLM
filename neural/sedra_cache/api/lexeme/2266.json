@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2266,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2266.json"
+        },
+        "syriac": "\u0725\u0718\u0719\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Uzziah"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1350,
+            "uri": "https://sedra.bethmardutho.org/api/root/1350.json"
+        },
+        "words": [
+            {
+                "id": 15124,
+                "uri": "https://sedra.bethmardutho.org/api/word/15124.json"
+            },
+            {
+                "id": 15125,
+                "uri": "https://sedra.bethmardutho.org/api/word/15125.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0720\u0729\u0715\u0721\u071d\u0710",
+        "western": "\u0720\u0729\u0730\u0715\u0742\u0721\u0733\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2747,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2747.json"
+        },
+        "stem": "\u0729\u0715\u0721\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u062f\u064a\u0645",
+                "\u0623\u0648\u0644"
+            ],
+            "eng": [
+                "early",
+                "ancient.",
+                "former",
+                "first",
+                "first",
+                "fore"
+            ],
+            "fre": [
+                "ancien",
+                "premier"
+            ]
+        },
+        "word": {
+            "id": 17869,
+            "uri": "https://sedra.bethmardutho.org/api/word/17869.json"
+        }
+    }
+]

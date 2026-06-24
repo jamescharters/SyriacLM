@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0720\u0718\u0720\u072a\u0710",
+        "western": "\u0720\u0733\u0718\u0720\u0733\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7819,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7819.json"
+        },
+        "stem": "\u0720\u0718\u0720\u072a\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "tentmaker",
+                "maker of tent, horse-cloth.",
+                "worker of rough cloth",
+                "saddlemaker"
+            ]
+        },
+        "word": {
+            "id": 10918,
+            "uri": "https://sedra.bethmardutho.org/api/word/10918.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0712\u0718\u072a\u0710",
+        "western": "\u0712\u0741\u073d\u0718\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 352,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/352.json"
+        },
+        "stem": "\u0712\u0718\u072a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0631\u0636 \u0628\u0648\u0631",
+                "\u0628\u0627\u0626\u0631",
+                "\u0628\u0633\u064a\u0637",
+                "\u063a\u0628\u064a"
+            ],
+            "eng": [
+                "waste",
+                "uncultivated",
+                "unskilled",
+                "uncouth.",
+                "rude"
+            ],
+            "fre": [
+                "inculte",
+                "terre inculte",
+                "simple",
+                "stupide"
+            ]
+        },
+        "word": {
+            "id": 2414,
+            "uri": "https://sedra.bethmardutho.org/api/word/2414.json"
+        }
+    }
+]

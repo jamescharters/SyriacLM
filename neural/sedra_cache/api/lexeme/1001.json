@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1001,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1001.json"
+        },
+        "syriac": "\u0721\u071a\u0719\u0710",
+        "glosses": {
+            "English": [
+                "eyeservice",
+                "sight"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 613,
+            "uri": "https://sedra.bethmardutho.org/api/root/613.json"
+        },
+        "words": [
+            {
+                "id": 6704,
+                "uri": "https://sedra.bethmardutho.org/api/word/6704.json"
+            },
+            {
+                "id": 6705,
+                "uri": "https://sedra.bethmardutho.org/api/word/6705.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

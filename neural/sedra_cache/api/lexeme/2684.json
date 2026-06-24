@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2684,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2684.json"
+        },
+        "syriac": "\u0728\u071a\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0633\u0642"
+            ],
+            "French": [
+                "impudicit\u00e9"
+            ],
+            "English": [
+                "filthiness",
+                "lasciviousness",
+                "licentiousness, immodesty."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1588,
+            "uri": "https://sedra.bethmardutho.org/api/root/1588.json"
+        },
+        "words": [
+            {
+                "id": 17436,
+                "uri": "https://sedra.bethmardutho.org/api/word/17436.json"
+            },
+            {
+                "id": 17437,
+                "uri": "https://sedra.bethmardutho.org/api/word/17437.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

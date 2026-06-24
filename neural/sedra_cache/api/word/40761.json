@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072c\u0720\u0713",
+        "western": "\u072c\u0730\u0720\u0736\u0713",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15003,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15003.json"
+        },
+        "stem": "\u072c\u0720\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp to glitter like snow",
+                "IIIa to make shining white.",
+                "IIa to cover with snow"
+            ]
+        },
+        "word": {
+            "id": 40761,
+            "uri": "https://sedra.bethmardutho.org/api/word/40761.json"
+        }
+    }
+]

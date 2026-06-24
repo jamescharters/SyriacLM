@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072c\u0710\u0721",
+        "western": "\u072c\u0710\u0721",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15324,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15324.json"
+        },
+        "stem": "\u072c\u0710\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to bear twins.",
+                "to double.",
+                "IIIa to bear twins",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0730\u0710\u0730\u0721</span> to be paired, coupled"
+            ]
+        },
+        "word": {
+            "id": 41092,
+            "uri": "https://sedra.bethmardutho.org/api/word/41092.json"
+        }
+    }
+]

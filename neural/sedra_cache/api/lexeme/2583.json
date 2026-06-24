@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2583,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2583.json"
+        },
+        "syriac": "\u0726\u072a\u0719\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u062f\u064a\u062f",
+                "\u0634\u064a\u0621 \u0645\u0646 \u062d\u062f\u064a\u062f",
+                "\u0641\u0623\u0633"
+            ],
+            "French": [
+                "fer",
+                "objet en fer",
+                "hache"
+            ],
+            "English": [
+                "iron",
+                "iron."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1532,
+            "uri": "https://sedra.bethmardutho.org/api/root/1532.json"
+        },
+        "words": [
+            {
+                "id": 16847,
+                "uri": "https://sedra.bethmardutho.org/api/word/16847.json"
+            },
+            {
+                "id": 16846,
+                "uri": "https://sedra.bethmardutho.org/api/word/16846.json"
+            },
+            {
+                "id": 16848,
+                "uri": "https://sedra.bethmardutho.org/api/word/16848.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

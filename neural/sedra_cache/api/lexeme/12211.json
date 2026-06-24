@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 12211,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12211.json"
+        },
+        "syriac": "\u0710\u071f\u0723\u071d\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0628\u064a\u0639\u0629",
+                "\u062b\u0628\u0627\u062a"
+            ],
+            "French": [
+                "nature",
+                "fixit\u00e9"
+            ],
+            "English": [
+                "constitution, habit."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f15\u03be\u03b9\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49754,
+                "uri": "https://sedra.bethmardutho.org/api/word/49754.json"
+            },
+            {
+                "id": 36512,
+                "uri": "https://sedra.bethmardutho.org/api/word/36512.json"
+            }
+        ]
+    }
+]

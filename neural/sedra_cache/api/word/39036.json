@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u0718\u072a\u0723\u072c\u0710",
+        "western": "\u071f\u073d\u0718\u072a\u0723\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13724,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13724.json"
+        },
+        "stem": "\u071f\u0718\u072a\u0723\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0631\u062c"
+            ],
+            "eng": [
+                "wallet, satchel."
+            ],
+            "fre": [
+                "bissac"
+            ]
+        },
+        "word": {
+            "id": 39036,
+            "uri": "https://sedra.bethmardutho.org/api/word/39036.json"
+        }
+    }
+]

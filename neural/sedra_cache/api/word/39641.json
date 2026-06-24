@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0717\u0718\u0722\u0722\u071d\u0710",
+        "western": "\u0717\u0730\u0718\u0722\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5186,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5186.json"
+        },
+        "stem": "\u0717\u0718\u0722\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0642\u0644\u064a"
+            ],
+            "eng": [
+                "intellectual, mental."
+            ],
+            "fre": [
+                "mental"
+            ]
+        },
+        "word": {
+            "id": 39641,
+            "uri": "https://sedra.bethmardutho.org/api/word/39641.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 202,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/202.json"
+        },
+        "syriac": "\u0710\u0723\u0718\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0631\u0647, \u0637\u0645\u0627\u0639"
+            ],
+            "French": [
+                "intemp\u00e9rant, avide"
+            ],
+            "English": [
+                "prodigal, glutton.",
+                "glutton",
+                "prodigal"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f04\u03c3\u03c9\u03c4\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 151,
+            "uri": "https://sedra.bethmardutho.org/api/root/151.json"
+        },
+        "words": [
+            {
+                "id": 1514,
+                "uri": "https://sedra.bethmardutho.org/api/word/1514.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

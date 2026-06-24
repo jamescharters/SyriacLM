@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15234,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15234.json"
+        },
+        "syriac": "\u0723\u0729\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0627\u0633",
+                "\u062d\u062f\u062f",
+                "\u00a0"
+            ],
+            "French": [
+                "mesurer",
+                "d\u00e9terminer",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to measure, to determine",
+                "IIp to be measured out",
+                "to be proportioned, computed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2790,
+            "uri": "https://sedra.bethmardutho.org/api/root/2790.json"
+        },
+        "words": [
+            {
+                "id": 40785,
+                "uri": "https://sedra.bethmardutho.org/api/word/40785.json"
+            },
+            {
+                "id": 40715,
+                "uri": "https://sedra.bethmardutho.org/api/word/40715.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

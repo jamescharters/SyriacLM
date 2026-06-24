@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0713\u0712\u072a",
+        "western": "\u0713\u0730\u0712\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15246,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15246.json"
+        },
+        "stem": "\u0713\u0712\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0623\u0646\u0639\u0634, \u0634\u062c\u0639"
+            ],
+            "eng": [
+                "IIa to come to manhood",
+                "IIp to be valiant",
+                "to strengthen, to invigorate, to embolden",
+                "to be fortified."
+            ],
+            "fre": [
+                "animer, donner c\u0153ur"
+            ]
+        },
+        "word": {
+            "id": 39932,
+            "uri": "https://sedra.bethmardutho.org/api/word/39932.json"
+        }
+    }
+]

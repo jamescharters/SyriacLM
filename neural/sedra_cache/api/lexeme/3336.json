@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 3336,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3336.json"
+        },
+        "syriac": "\u0721\u072b\u072c\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0644\u064a\u0645\u0629",
+                "\u0639\u0631\u0633"
+            ],
+            "French": [
+                "banquet",
+                "noces"
+            ],
+            "English": [
+                "festivity",
+                "feast",
+                "symposium",
+                "feast, banquet, wedding."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1935,
+            "uri": "https://sedra.bethmardutho.org/api/root/1935.json"
+        },
+        "words": [
+            {
+                "id": 22203,
+                "uri": "https://sedra.bethmardutho.org/api/word/22203.json"
+            },
+            {
+                "id": 22201,
+                "uri": "https://sedra.bethmardutho.org/api/word/22201.json"
+            },
+            {
+                "id": 22204,
+                "uri": "https://sedra.bethmardutho.org/api/word/22204.json"
+            },
+            {
+                "id": 22202,
+                "uri": "https://sedra.bethmardutho.org/api/word/22202.json"
+            },
+            {
+                "id": 22205,
+                "uri": "https://sedra.bethmardutho.org/api/word/22205.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

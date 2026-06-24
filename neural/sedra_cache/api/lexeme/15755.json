@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15755,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15755.json"
+        },
+        "syriac": "\u0719\u071f\u072a",
+        "glosses": {
+            "English": [
+                "Ia to practice magic",
+                "IIa."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2167,
+            "uri": "https://sedra.bethmardutho.org/api/root/2167.json"
+        },
+        "words": [
+            {
+                "id": 41741,
+                "uri": "https://sedra.bethmardutho.org/api/word/41741.json"
+            },
+            {
+                "id": 40411,
+                "uri": "https://sedra.bethmardutho.org/api/word/40411.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

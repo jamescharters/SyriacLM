@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0718\u0725\u0715\u0720\u071d\u0722",
+        "western": "\u0718\u0725\u0733\u0715\u0742\u0720\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2247,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2247.json"
+        },
+        "stem": "\u0725\u0715\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0630\u0644, \u0644\u0627\u0645",
+                "\u00a0"
+            ],
+            "eng": [
+                "complain",
+                "Ip",
+                "IIIa to blame severely.",
+                "IIp to find fault (with), to condemn",
+                "find fault",
+                "& <span class=\"selectableFont\">\u0725\u0715\u0736\u0720</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0725\u0715\u073d\u0718\u0720</span>, Ia to blame, to find fault",
+                "to assess",
+                "IIa to take a census"
+            ],
+            "fre": [
+                "\u00a0",
+                "reprendre, bl\u00e2mer"
+            ]
+        },
+        "word": {
+            "id": 27252,
+            "uri": "https://sedra.bethmardutho.org/api/word/27252.json"
+        }
+    }
+]

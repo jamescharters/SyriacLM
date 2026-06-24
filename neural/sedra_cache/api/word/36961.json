@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0721\u071d\u072a\u0718\u072c\u0710",
+        "western": "\u0710\u0730\u0721\u073a\u071d\u072a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13746,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13746.json"
+        },
+        "stem": "\u0710\u0721\u071d\u072a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0631\u0627\u0621\u0629"
+            ],
+            "eng": [
+                "recitation, eloquence."
+            ],
+            "fre": [
+                "lecture"
+            ]
+        },
+        "word": {
+            "id": 36961,
+            "uri": "https://sedra.bethmardutho.org/api/word/36961.json"
+        }
+    }
+]

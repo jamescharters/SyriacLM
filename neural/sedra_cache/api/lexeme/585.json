@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 585,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/585.json"
+        },
+        "syriac": "\u0713\u0721\u0720\u0710",
+        "glosses": {
+            "English": [
+                "beam",
+                "camel",
+                "dromedary",
+                "rafter.",
+                "camel"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 380,
+            "uri": "https://sedra.bethmardutho.org/api/root/380.json"
+        },
+        "words": [
+            {
+                "id": 3812,
+                "uri": "https://sedra.bethmardutho.org/api/word/3812.json"
+            },
+            {
+                "id": 3811,
+                "uri": "https://sedra.bethmardutho.org/api/word/3811.json"
+            },
+            {
+                "id": 3810,
+                "uri": "https://sedra.bethmardutho.org/api/word/3810.json"
+            },
+            {
+                "id": 3809,
+                "uri": "https://sedra.bethmardutho.org/api/word/3809.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

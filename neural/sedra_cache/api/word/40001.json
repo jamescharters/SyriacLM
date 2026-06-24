@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071a\u0719\u0726",
+        "western": "\u071a\u0719\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15460,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15460.json"
+        },
+        "stem": "\u071a\u0719\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ip to be rough.",
+                "Ia to cause a commotion"
+            ]
+        },
+        "word": {
+            "id": 40001,
+            "uri": "https://sedra.bethmardutho.org/api/word/40001.json"
+        }
+    }
+]

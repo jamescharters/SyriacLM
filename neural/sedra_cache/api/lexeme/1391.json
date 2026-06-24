@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1391,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1391.json"
+        },
+        "syriac": "\u072c\u071d\u0721\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "sud\u2026"
+            ],
+            "English": [
+                "south",
+                "south."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 827,
+            "uri": "https://sedra.bethmardutho.org/api/root/827.json"
+        },
+        "words": [
+            {
+                "id": 9247,
+                "uri": "https://sedra.bethmardutho.org/api/word/9247.json"
+            },
+            {
+                "id": 9246,
+                "uri": "https://sedra.bethmardutho.org/api/word/9246.json"
+            },
+            {
+                "id": 9248,
+                "uri": "https://sedra.bethmardutho.org/api/word/9248.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0710\u071f\u071a",
+        "western": "\u0710\u0730\u071f\u0730\u071a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14790,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14790.json"
+        },
+        "stem": "\u071f\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0641\u0633",
+                "\u0646\u0641\u062d"
+            ],
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u0730\u071a</span> to blow (a fire), exhale, puff.",
+                "to blow (a fire)",
+                "to exhale, to puff."
+            ],
+            "fre": [
+                "souffler",
+                "exhaler"
+            ]
+        },
+        "word": {
+            "id": 40969,
+            "uri": "https://sedra.bethmardutho.org/api/word/40969.json"
+        }
+    }
+]

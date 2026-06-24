@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 206,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/206.json"
+        },
+        "syriac": "\u0710\u0723\u071b\u0718\u0710",
+        "glosses": {
+            "English": [
+                "portico",
+                "arcade",
+                "stoa, portico."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c4\u03bf\u03ac"
+            ]
+        },
+        "root": {
+            "id": 154,
+            "uri": "https://sedra.bethmardutho.org/api/root/154.json"
+        },
+        "words": [
+            {
+                "id": 1526,
+                "uri": "https://sedra.bethmardutho.org/api/word/1526.json"
+            },
+            {
+                "id": 1525,
+                "uri": "https://sedra.bethmardutho.org/api/word/1525.json"
+            },
+            {
+                "id": 1524,
+                "uri": "https://sedra.bethmardutho.org/api/word/1524.json"
+            },
+            {
+                "id": 1527,
+                "uri": "https://sedra.bethmardutho.org/api/word/1527.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

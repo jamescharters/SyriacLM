@@ -1,0 +1,68 @@
+[
+    {
+        "lexeme": {
+            "id": 1049,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1049.json"
+        },
+        "syriac": "\u071a\u0720\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0633\u0644",
+                "\u062a\u0633\u0644\u062d"
+            ],
+            "French": [
+                "se montrer vaillant",
+                "s&#39;armer"
+            ],
+            "English": [
+                "steal",
+                "spoil",
+                "plunder",
+                "to commit sacrilege",
+                "IIp to be pillaged.",
+                "Ia, Ip to gird oneself",
+                "IIa to take spoil, seize"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 632,
+            "uri": "https://sedra.bethmardutho.org/api/root/632.json"
+        },
+        "words": [
+            {
+                "id": 7103,
+                "uri": "https://sedra.bethmardutho.org/api/word/7103.json"
+            },
+            {
+                "id": 24838,
+                "uri": "https://sedra.bethmardutho.org/api/word/24838.json"
+            },
+            {
+                "id": 24837,
+                "uri": "https://sedra.bethmardutho.org/api/word/24837.json"
+            },
+            {
+                "id": 7107,
+                "uri": "https://sedra.bethmardutho.org/api/word/7107.json"
+            },
+            {
+                "id": 7106,
+                "uri": "https://sedra.bethmardutho.org/api/word/7106.json"
+            },
+            {
+                "id": 7104,
+                "uri": "https://sedra.bethmardutho.org/api/word/7104.json"
+            },
+            {
+                "id": 7102,
+                "uri": "https://sedra.bethmardutho.org/api/word/7102.json"
+            },
+            {
+                "id": 7105,
+                "uri": "https://sedra.bethmardutho.org/api/word/7105.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

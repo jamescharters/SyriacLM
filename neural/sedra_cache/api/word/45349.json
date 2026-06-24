@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0719\u0712\u0710",
+        "western": "\u0719\u0730\u0712\u0730\u0710",
+        "lexeme": {
+            "id": 18975,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18975.json"
+        },
+        "stem": "\u0719\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0631\u0639"
+            ],
+            "eng": [
+                "coat of mail, cuirass"
+            ],
+            "fre": [
+                "cuirasse"
+            ]
+        },
+        "word": {
+            "id": 45349,
+            "uri": "https://sedra.bethmardutho.org/api/word/45349.json"
+        }
+    }
+]

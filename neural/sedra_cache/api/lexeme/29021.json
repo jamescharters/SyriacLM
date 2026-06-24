@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 29021,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29021.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u0718\u0723\u0729\u0718\u0720\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f30\u03c3\u03bf\u03c3\u03ba\u03b5\u03bb\u03ae\u03c2"
+            ],
+            "English": [
+                "with equal legs, esp. in Geom., having two sides equal, isosceles"
+            ],
+            "Latin": [
+                "isosceles"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f30\u03c3\u03bf\u03c3\u03ba\u03b5\u03bb\u03ae\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49504,
+                "uri": "https://sedra.bethmardutho.org/api/word/49504.json"
+            },
+            {
+                "id": 55395,
+                "uri": "https://sedra.bethmardutho.org/api/word/55395.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

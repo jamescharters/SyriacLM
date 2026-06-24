@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0718\u0715\u071a\u072b\u0710",
+        "western": "\u0718\u0715\u0742\u0730\u071a\u072b\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 684,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/684.json"
+        },
+        "stem": "\u0715\u071a\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0627\u0631\u0633"
+            ],
+            "eng": [
+                "guard",
+                "executioner",
+                "Kth. pl. <span class=\"selectableFont\">\u0715\u0730\u071a\u0308\u072b\u0736\u0710</span> army.",
+                "attendant, guard",
+                "guard",
+                "officer",
+                "servant",
+                "attendant"
+            ],
+            "fre": [
+                "garde"
+            ]
+        },
+        "word": {
+            "id": 4333,
+            "uri": "https://sedra.bethmardutho.org/api/word/4333.json"
+        }
+    }
+]

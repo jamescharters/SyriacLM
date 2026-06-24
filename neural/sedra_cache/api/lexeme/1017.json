@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 1017,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1017.json"
+        },
+        "syriac": "\u071a\u071b\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0646\u0637\u0629"
+            ],
+            "French": [
+                "froment"
+            ],
+            "English": [
+                "grain of wheat, wheat.",
+                "wheat"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 620,
+            "uri": "https://sedra.bethmardutho.org/api/root/620.json"
+        },
+        "words": [
+            {
+                "id": 6821,
+                "uri": "https://sedra.bethmardutho.org/api/word/6821.json"
+            },
+            {
+                "id": 6820,
+                "uri": "https://sedra.bethmardutho.org/api/word/6820.json"
+            },
+            {
+                "id": 6819,
+                "uri": "https://sedra.bethmardutho.org/api/word/6819.json"
+            },
+            {
+                "id": 6818,
+                "uri": "https://sedra.bethmardutho.org/api/word/6818.json"
+            },
+            {
+                "id": 6823,
+                "uri": "https://sedra.bethmardutho.org/api/word/6823.json"
+            },
+            {
+                "id": 6822,
+                "uri": "https://sedra.bethmardutho.org/api/word/6822.json"
+            },
+            {
+                "id": 42254,
+                "uri": "https://sedra.bethmardutho.org/api/word/42254.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

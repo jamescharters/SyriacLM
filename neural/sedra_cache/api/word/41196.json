@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u0725\u0712",
+        "western": "\u0720\u0725\u0730\u0712",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15893,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15893.json"
+        },
+        "stem": "\u0720\u0725\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to be greedy",
+                "to delight in.",
+                "IIp to seize greedily, to be gluttonous",
+                "be greedy"
+            ]
+        },
+        "word": {
+            "id": 41196,
+            "uri": "https://sedra.bethmardutho.org/api/word/41196.json"
+        }
+    }
+]

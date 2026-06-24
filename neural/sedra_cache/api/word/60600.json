@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0720\u0725\u0723",
+        "western": "\u0720\u0730\u0725\u0736\u0723",
+        "lexeme": {
+            "id": 34245,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/34245.json"
+        },
+        "stem": "\u0720\u0725\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to eat hungrily"
+            ]
+        },
+        "word": {
+            "id": 60600,
+            "uri": "https://sedra.bethmardutho.org/api/word/60600.json"
+        }
+    }
+]

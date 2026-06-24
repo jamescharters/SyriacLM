@@ -1,0 +1,88 @@
+[
+    {
+        "lexeme": {
+            "id": 1300,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1300.json"
+        },
+        "syriac": "\u072c\u0718\u0715\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062f\u062d, \u0634\u0643\u0631\u0627\u0646",
+                "\u0623\u0641\u062e\u0627\u0631\u0633\u062a\u064a\u0627",
+                "\u0627\u0639\u062a\u0631\u0627\u0641",
+                "\u062f\u064a\u0627\u0646\u0629",
+                "\u0628\u062f\u0639\u0629"
+            ],
+            "French": [
+                "louange, action de gr\u00e2ces",
+                "Eucharistie",
+                "confession",
+                "religion",
+                "secte"
+            ],
+            "English": [
+                "confession",
+                "thanksgiving",
+                "avowal",
+                "acknowledgement, thanksgiving, confession (of faith), religion."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 767,
+            "uri": "https://sedra.bethmardutho.org/api/root/767.json"
+        },
+        "words": [
+            {
+                "id": 8525,
+                "uri": "https://sedra.bethmardutho.org/api/word/8525.json"
+            },
+            {
+                "id": 8524,
+                "uri": "https://sedra.bethmardutho.org/api/word/8524.json"
+            },
+            {
+                "id": 8523,
+                "uri": "https://sedra.bethmardutho.org/api/word/8523.json"
+            },
+            {
+                "id": 8522,
+                "uri": "https://sedra.bethmardutho.org/api/word/8522.json"
+            },
+            {
+                "id": 8520,
+                "uri": "https://sedra.bethmardutho.org/api/word/8520.json"
+            },
+            {
+                "id": 8518,
+                "uri": "https://sedra.bethmardutho.org/api/word/8518.json"
+            },
+            {
+                "id": 8517,
+                "uri": "https://sedra.bethmardutho.org/api/word/8517.json"
+            },
+            {
+                "id": 8528,
+                "uri": "https://sedra.bethmardutho.org/api/word/8528.json"
+            },
+            {
+                "id": 8526,
+                "uri": "https://sedra.bethmardutho.org/api/word/8526.json"
+            },
+            {
+                "id": 8527,
+                "uri": "https://sedra.bethmardutho.org/api/word/8527.json"
+            },
+            {
+                "id": 8521,
+                "uri": "https://sedra.bethmardutho.org/api/word/8521.json"
+            },
+            {
+                "id": 8519,
+                "uri": "https://sedra.bethmardutho.org/api/word/8519.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

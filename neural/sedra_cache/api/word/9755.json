@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0720\u071f\u0717\u0722\u0710",
+        "western": "\u0720\u071f\u0742\u0733\u0717\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1475,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1475.json"
+        },
+        "stem": "\u071f\u0717\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "priest",
+                "priest."
+            ]
+        },
+        "word": {
+            "id": 9755,
+            "uri": "https://sedra.bethmardutho.org/api/word/9755.json"
+        }
+    }
+]

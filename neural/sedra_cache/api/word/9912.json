@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071f\u071d\u0723\u0710",
+        "western": "\u071f\u0741\u073a\u071d\u0723\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1515,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1515.json"
+        },
+        "stem": "\u071f\u071d\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u064a\u0633"
+            ],
+            "eng": [
+                "purse",
+                "small bag",
+                "purse, bag."
+            ],
+            "fre": [
+                "bourse"
+            ]
+        },
+        "word": {
+            "id": 9912,
+            "uri": "https://sedra.bethmardutho.org/api/word/9912.json"
+        }
+    }
+]

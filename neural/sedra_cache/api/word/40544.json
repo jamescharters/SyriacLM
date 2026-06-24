@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0726\u072c\u071f",
+        "western": "\u0726\u0730\u072c\u0736\u071f",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14958,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14958.json"
+        },
+        "stem": "\u0726\u072c\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u062e\u0644\u0637"
+            ],
+            "eng": [
+                "IIa to vary",
+                "IIp.",
+                "to mix"
+            ],
+            "fre": [
+                "m\u00ealer"
+            ]
+        },
+        "word": {
+            "id": 40544,
+            "uri": "https://sedra.bethmardutho.org/api/word/40544.json"
+        }
+    }
+]

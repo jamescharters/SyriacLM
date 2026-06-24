@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0726\u0723\u0729\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072c\u0726\u0730\u0723\u0729\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13813,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13813.json"
+        },
+        "stem": "\u0721\u072c\u0726\u0723\u0729\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0642\u0633\u064a\u0645"
+            ],
+            "eng": [
+                "section, intersecting."
+            ],
+            "fre": [
+                "sectionnement"
+            ]
+        },
+        "word": {
+            "id": 31526,
+            "uri": "https://sedra.bethmardutho.org/api/word/31526.json"
+        }
+    }
+]

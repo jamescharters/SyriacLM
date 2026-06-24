@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 15557,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15557.json"
+        },
+        "syriac": "\u0712\u0713\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0644\u0642",
+                "\u0636\u0628\u0637",
+                "\u0623\u062d\u0627\u0637",
+                "\u0646\u0641\u0649",
+                "\u0636\u0639\u0641"
+            ],
+            "French": [
+                "fermer",
+                "retenir",
+                "entourer",
+                "exiler",
+                "s\u2019affaiblir"
+            ],
+            "English": [
+                "to be infirm",
+                "Ia to fasten, bolt",
+                "Ip",
+                "to be emaciated",
+                "IIa to hem in, hold back."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3192,
+            "uri": "https://sedra.bethmardutho.org/api/root/3192.json"
+        },
+        "words": [
+            {
+                "id": 42162,
+                "uri": "https://sedra.bethmardutho.org/api/word/42162.json"
+            },
+            {
+                "id": 41485,
+                "uri": "https://sedra.bethmardutho.org/api/word/41485.json"
+            },
+            {
+                "id": 42201,
+                "uri": "https://sedra.bethmardutho.org/api/word/42201.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

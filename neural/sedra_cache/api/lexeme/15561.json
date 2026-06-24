@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15561,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15561.json"
+        },
+        "syriac": "\u0729\u0717\u0710",
+        "glosses": {
+            "English": [
+                "IIa, IIIa to make blunt",
+                "to repulse.",
+                "& <span class=\"selectableFont\">\u0729\u0717\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u0717\u0736\u0710</span>, Ia to be blunt"
+            ],
+            "Arabic": [
+                "\u0643\u0644"
+            ],
+            "French": [
+                "\u00eatre \u00e9mouss\u00e9. s&#39;\u00e9mousser"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2916,
+            "uri": "https://sedra.bethmardutho.org/api/root/2916.json"
+        },
+        "words": [
+            {
+                "id": 42007,
+                "uri": "https://sedra.bethmardutho.org/api/word/42007.json"
+            },
+            {
+                "id": 41362,
+                "uri": "https://sedra.bethmardutho.org/api/word/41362.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

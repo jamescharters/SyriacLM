@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14670,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14670.json"
+        },
+        "syriac": "\u071f\u072a\u071f\u0721",
+        "glosses": {
+            "English": [
+                "to turn pale.",
+                "IVa to make yellow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2933,
+            "uri": "https://sedra.bethmardutho.org/api/root/2933.json"
+        },
+        "words": [
+            {
+                "id": 41122,
+                "uri": "https://sedra.bethmardutho.org/api/word/41122.json"
+            },
+            {
+                "id": 40966,
+                "uri": "https://sedra.bethmardutho.org/api/word/40966.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

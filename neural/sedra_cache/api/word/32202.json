@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0726\u072a\u0710",
+        "western": "\u071f\u073d\u0718\u0726\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9818,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9818.json"
+        },
+        "stem": "\u071f\u0718\u0726\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0646\u0627\u0621",
+                "\u062d\u0645\u0631",
+                "\u0632\u0641\u062a"
+            ],
+            "eng": [
+                "bitumen, pitch."
+            ],
+            "fre": [
+                "henn\u00e9",
+                "bitume",
+                "poix"
+            ]
+        },
+        "word": {
+            "id": 32202,
+            "uri": "https://sedra.bethmardutho.org/api/word/32202.json"
+        }
+    }
+]

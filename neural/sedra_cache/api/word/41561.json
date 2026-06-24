@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u071f\u0726\u072c",
+        "western": "\u071f\u0726\u0730\u072c",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15431,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15431.json"
+        },
+        "stem": "\u071f\u0726\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0636\u062c, \u0623\u0646\u0636\u062c",
+                "\u0633\u062d\u0628",
+                "\u0644\u0648\u0649",
+                "\u00a0"
+            ],
+            "eng": [
+                "to bend",
+                "to inflect",
+                "Ip to be formed (as fruit)",
+                "to ripen",
+                "to fold back.",
+                "IIa to form into a knot",
+                "to thicken",
+                "Ia to form into a pod"
+            ],
+            "fre": [
+                "retirer",
+                "m\u00fbrir",
+                "\u00a0",
+                "infl\u00e9chir"
+            ]
+        },
+        "word": {
+            "id": 41561,
+            "uri": "https://sedra.bethmardutho.org/api/word/41561.json"
+        }
+    }
+]

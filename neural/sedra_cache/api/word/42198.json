@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0715\u0712\u0718\u0728",
+        "western": "\u0715\u0712\u073d\u0718\u0728",
+        "tense": "imperative",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15943,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15943.json"
+        },
+        "stem": "\u0715\u0712\u0728",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0633\u0639, \u0639\u0636",
+                ""
+            ],
+            "eng": [
+                "Ip",
+                "IIa to puncture.",
+                "Ia to prick, sting"
+            ],
+            "fre": [
+                "piquer , mordre",
+                ""
+            ]
+        },
+        "word": {
+            "id": 42198,
+            "uri": "https://sedra.bethmardutho.org/api/word/42198.json"
+        }
+    }
+]

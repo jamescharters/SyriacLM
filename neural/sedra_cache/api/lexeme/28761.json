@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 28761,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28761.json"
+        },
+        "syriac": "\u0710\u071d\u0715\u0717\u0710\u0710\u072a\u071d\u0722\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f38\u03b4\u03b1\u03af\u03b1 \u1fe5\u03af\u03b6\u03b1"
+            ],
+            "Latin": [
+                "Idea radix"
+            ],
+            "English": [
+                "root for Ida"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f38\u03b4\u03b1\u1fd6\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55135,
+                "uri": "https://sedra.bethmardutho.org/api/word/55135.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

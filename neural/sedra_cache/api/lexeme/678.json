@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 678,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/678.json"
+        },
+        "syriac": "\u0715\u071a\u071d\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u0639\u0628, \u0631\u0647\u064a\u0628"
+            ],
+            "French": [
+                "terrible , redoubtable"
+            ],
+            "English": [
+                "terrible",
+                "formidable.",
+                "fearful"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 432,
+            "uri": "https://sedra.bethmardutho.org/api/root/432.json"
+        },
+        "words": [
+            {
+                "id": 4265,
+                "uri": "https://sedra.bethmardutho.org/api/word/4265.json"
+            },
+            {
+                "id": 4264,
+                "uri": "https://sedra.bethmardutho.org/api/word/4264.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 513,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/513.json"
+        },
+        "syriac": "\u0713\u0715\u071d\u0710",
+        "glosses": {
+            "English": [
+                "kid",
+                "goat",
+                "Capricorn.",
+                "kid (a young goat)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 343,
+            "uri": "https://sedra.bethmardutho.org/api/root/343.json"
+        },
+        "words": [
+            {
+                "id": 3492,
+                "uri": "https://sedra.bethmardutho.org/api/word/3492.json"
+            },
+            {
+                "id": 3494,
+                "uri": "https://sedra.bethmardutho.org/api/word/3494.json"
+            },
+            {
+                "id": 3493,
+                "uri": "https://sedra.bethmardutho.org/api/word/3493.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

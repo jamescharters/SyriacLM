@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0726\u0718\u0715\u071d\u072c\u0710",
+        "western": "\u0726\u073d\u0718\u0715\u073a\u071d\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11737,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11737.json"
+        },
+        "stem": "\u0726\u0718\u0715\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u062f\u0645"
+            ],
+            "eng": [
+                "foot (length)",
+                "minute (time)."
+            ],
+            "fre": [
+                "pied"
+            ]
+        },
+        "word": {
+            "id": 33713,
+            "uri": "https://sedra.bethmardutho.org/api/word/33713.json"
+        }
+    }
+]

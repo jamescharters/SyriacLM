@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0712\u0723\u0721",
+        "western": "\u0721\u0736\u072c\u0742\u0712\u0741\u0730\u0723\u0730\u0721",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 418,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/418.json"
+        },
+        "stem": "\u0712\u0723\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0630\u0628, \u0644\u0630, \u062d\u0644\u0627",
+                "\u0641\u0627\u062d \u0639\u0637\u0631\u0647"
+            ],
+            "eng": [
+                "Ia to be fragrant",
+                "IIIa.",
+                "to enjoy",
+                "to be pleasing",
+                "IIa to sweeten, to perfume with incense",
+                "IIp to take delight in",
+                "be rejoice",
+                "live joyfully",
+                "live merrily",
+                "anoint",
+                "be merry",
+                "to delight"
+            ],
+            "fre": [
+                "\u00eatre doux, agr\u00e9able, plaire",
+                "sentir bon"
+            ]
+        },
+        "word": {
+            "id": 23539,
+            "uri": "https://sedra.bethmardutho.org/api/word/23539.json"
+        }
+    }
+]

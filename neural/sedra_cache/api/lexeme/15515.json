@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 15515,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15515.json"
+        },
+        "syriac": "\u0723\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "to hiss",
+                "to suck in",
+                "to smell",
+                "Ia to breathe, to inhale",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0723\u073a\u071d\u0729</span> to be smelt",
+                "IIa <span class=\"selectableFont\">\u0723\u0730\u0718\u0736\u0729</span> to smell at."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2191,
+            "uri": "https://sedra.bethmardutho.org/api/root/2191.json"
+        },
+        "words": [
+            {
+                "id": 42079,
+                "uri": "https://sedra.bethmardutho.org/api/word/42079.json"
+            },
+            {
+                "id": 41423,
+                "uri": "https://sedra.bethmardutho.org/api/word/41423.json"
+            },
+            {
+                "id": 41265,
+                "uri": "https://sedra.bethmardutho.org/api/word/41265.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15752,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15752.json"
+        },
+        "syriac": "\u071a\u0729",
+        "glosses": {
+            "English": [
+                "Ia to crack, creak",
+                "to make to creak",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u071a\u0730\u0718\u0730\u0729</span> to be divided.",
+                "IIa <span class=\"selectableFont\">\u071a\u0730\u071d\u0736\u0729</span> to grate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3126,
+            "uri": "https://sedra.bethmardutho.org/api/root/3126.json"
+        },
+        "words": [
+            {
+                "id": 41879,
+                "uri": "https://sedra.bethmardutho.org/api/word/41879.json"
+            },
+            {
+                "id": 41569,
+                "uri": "https://sedra.bethmardutho.org/api/word/41569.json"
+            },
+            {
+                "id": 40381,
+                "uri": "https://sedra.bethmardutho.org/api/word/40381.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0720\u0721",
+        "western": "\u0720\u0730\u0721",
+        "lexeme": {
+            "id": 1676,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1676.json"
+        },
+        "stem": "\u0720\u0721",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u064a, \u062d\u0642\u0627\u064b"
+            ],
+            "eng": [
+                "surely",
+                "in second position, the particle serves to introduce a quotation or oblique oration",
+                "to wit",
+                "forsooth",
+                "namely",
+                "namely (quotation marker).",
+                "forsooth",
+                "clearly"
+            ],
+            "fre": [
+                "\u00e0 savoir, certes"
+            ]
+        },
+        "word": {
+            "id": 11058,
+            "uri": "https://sedra.bethmardutho.org/api/word/11058.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0723",
+        "western": "\u0729\u072a\u0730\u0723",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15848,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15848.json"
+        },
+        "stem": "\u0729\u072a\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to solidify",
+                "IIp to join battle (cf. <span class=\"selectableFont\">\u0729\u073a\u0710\u072a\u0723\u0733\u0710</span>).",
+                "IIa to harden",
+                "Ia to become dried up, rough, hard"
+            ]
+        },
+        "word": {
+            "id": 41105,
+            "uri": "https://sedra.bethmardutho.org/api/word/41105.json"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0715\u0721",
+        "western": "\u0715\u0730\u0721\u0715\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14797,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14797.json"
+        },
+        "stem": "\u0715\u0721\u0715\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062f\u0645\u0649",
+                ""
+            ],
+            "eng": [
+                "IVa to bleed",
+                "IVp to be bloody."
+            ],
+            "fre": [
+                "",
+                "ensanglanter"
+            ]
+        },
+        "word": {
+            "id": 40223,
+            "uri": "https://sedra.bethmardutho.org/api/word/40223.json"
+        }
+    }
+]

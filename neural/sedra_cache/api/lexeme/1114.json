@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 1114,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1114.json"
+        },
+        "syriac": "\u0721\u071a\u0723\u0722",
+        "glosses": {
+            "English": [
+                "scarcely",
+                "hardly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 667,
+            "uri": "https://sedra.bethmardutho.org/api/root/667.json"
+        },
+        "words": [
+            {
+                "id": 7379,
+                "uri": "https://sedra.bethmardutho.org/api/word/7379.json"
+            },
+            {
+                "id": 7378,
+                "uri": "https://sedra.bethmardutho.org/api/word/7378.json"
+            },
+            {
+                "id": 7380,
+                "uri": "https://sedra.bethmardutho.org/api/word/7380.json"
+            }
+        ],
+        "category": "adverb",
+        "kaylo": "p\u02bfal"
+    }
+]

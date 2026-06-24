@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u0726\u0720",
+        "western": "\u071b\u0726\u0720",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15188,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15188.json"
+        },
+        "stem": "\u071b\u0726\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to be defiled.",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u071b\u0730\u0726\u0730\u0720</span> to be depraved"
+            ]
+        },
+        "word": {
+            "id": 40814,
+            "uri": "https://sedra.bethmardutho.org/api/word/40814.json"
+        }
+    }
+]

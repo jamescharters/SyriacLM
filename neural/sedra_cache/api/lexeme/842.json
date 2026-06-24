@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 842,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/842.json"
+        },
+        "syriac": "\u0719\u0713\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0645\u0633\u0643, \u0645\u0646\u0639",
+                "\u0623\u0633\u0643\u062a"
+            ],
+            "French": [
+                "retenir, emp\u00eacher",
+                "faire taire"
+            ],
+            "English": [
+                "IIIa to restrain.",
+                "confine",
+                "hinder",
+                "restrain",
+                "IIa reprimand",
+                "Ip",
+                "Ia to hold in, confine"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 540,
+            "uri": "https://sedra.bethmardutho.org/api/root/540.json"
+        },
+        "words": [
+            {
+                "id": 24354,
+                "uri": "https://sedra.bethmardutho.org/api/word/24354.json"
+            },
+            {
+                "id": 24353,
+                "uri": "https://sedra.bethmardutho.org/api/word/24353.json"
+            },
+            {
+                "id": 5487,
+                "uri": "https://sedra.bethmardutho.org/api/word/5487.json"
+            },
+            {
+                "id": 5486,
+                "uri": "https://sedra.bethmardutho.org/api/word/5486.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

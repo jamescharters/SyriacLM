@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2571,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2571.json"
+        },
+        "syriac": "\u0726\u0729\u0718\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0646\u0638\u0644",
+                "\u062a\u064a\u0646\u0629 \u0645\u062d\u0629"
+            ],
+            "French": [
+                "coloquinte",
+                "figue verte"
+            ],
+            "English": [
+                "bow-legged.",
+                "unripe fig",
+                "unripe fig",
+                "wild gourd"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1523,
+            "uri": "https://sedra.bethmardutho.org/api/root/1523.json"
+        },
+        "words": [
+            {
+                "id": 16816,
+                "uri": "https://sedra.bethmardutho.org/api/word/16816.json"
+            },
+            {
+                "id": 16815,
+                "uri": "https://sedra.bethmardutho.org/api/word/16815.json"
+            },
+            {
+                "id": 16814,
+                "uri": "https://sedra.bethmardutho.org/api/word/16814.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

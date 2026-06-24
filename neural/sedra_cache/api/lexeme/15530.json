@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 15530,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15530.json"
+        },
+        "syriac": "\u072c\u071f",
+        "glosses": {
+            "English": [
+                "to harm etc.",
+                "IIIa to bring to harm",
+                "Ia to harm, injure",
+                "Ip to be humiliated",
+                "to put a stop to.",
+                "to suffer harm."
+            ],
+            "Arabic": [
+                "\u0623\u0630\u0649 (\u0645\u0636)",
+                "\u062a\u0623\u0630\u0649"
+            ],
+            "French": [
+                "causer un dommage",
+                "subir un dommage"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2388,
+            "uri": "https://sedra.bethmardutho.org/api/root/2388.json"
+        },
+        "words": [
+            {
+                "id": 42039,
+                "uri": "https://sedra.bethmardutho.org/api/word/42039.json"
+            },
+            {
+                "id": 40231,
+                "uri": "https://sedra.bethmardutho.org/api/word/40231.json"
+            },
+            {
+                "id": 39977,
+                "uri": "https://sedra.bethmardutho.org/api/word/39977.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

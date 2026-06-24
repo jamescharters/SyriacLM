@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0712\u0715\u0710",
+        "western": "\u0712\u0741\u0715\u0742\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 336,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/336.json"
+        },
+        "stem": "\u0712\u0715\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062a\u0648\u0647\u0645, \u0627\u062e\u062a\u0631\u0639",
+                "\u0647\u0630\u0631"
+            ],
+            "eng": [
+                "devise",
+                "feign",
+                "Ia to pretend, feign, speak falsely",
+                "Ip."
+            ],
+            "fre": [
+                "imaginer, inventer",
+                "\u00a0",
+                "jaser"
+            ]
+        },
+        "word": {
+            "id": 2309,
+            "uri": "https://sedra.bethmardutho.org/api/word/2309.json"
+        }
+    }
+]

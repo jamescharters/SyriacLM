@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u0723\u072a\u071a",
+        "western": "\u0710\u0730\u0723\u072a\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15254,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15254.json"
+        },
+        "stem": "\u0723\u072a\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIp to be ordained, appointed.",
+                "2 IIIa <span class=\"selectableFont\">\u0710\u0730\u0723\u072a\u0730\u071a</span> to propound, to express",
+                "to bestow",
+                "to ordain",
+                "to designate, to appoint",
+                "to spread out",
+                "to publish, to bring out"
+            ]
+        },
+        "word": {
+            "id": 39830,
+            "uri": "https://sedra.bethmardutho.org/api/word/39830.json"
+        }
+    }
+]

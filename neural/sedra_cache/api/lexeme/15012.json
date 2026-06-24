@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15012,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15012.json"
+        },
+        "syriac": "\u0710\u072a\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0627\u062d, \u062a\u0631\u0643"
+            ],
+            "French": [
+                "s&#39;en aller, quitter"
+            ],
+            "English": [
+                "IIa to go on one\u2019s way."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2192,
+            "uri": "https://sedra.bethmardutho.org/api/root/2192.json"
+        },
+        "words": [
+            {
+                "id": 42479,
+                "uri": "https://sedra.bethmardutho.org/api/word/42479.json"
+            },
+            {
+                "id": 39821,
+                "uri": "https://sedra.bethmardutho.org/api/word/39821.json"
+            },
+            {
+                "id": 39886,
+                "uri": "https://sedra.bethmardutho.org/api/word/39886.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

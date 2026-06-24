@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u072b\u071a\u0715",
+        "western": "\u072b\u071a\u0730\u0715\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3163,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3163.json"
+        },
+        "stem": "\u072b\u071a\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0631\u0637\u0644, \u0631\u0634\u0627",
+                "\u00a0",
+                "\u0642\u062f\u0645 (\u0645\u0636-\u0647\u062f\u064a\u0629)"
+            ],
+            "eng": [
+                "Ia to bribe",
+                "bribe",
+                "Ip",
+                "IIp.",
+                "IIa"
+            ],
+            "fre": [
+                "corrompre, suborner",
+                "\u00a0",
+                "faire (un pr\u00e9sent)"
+            ]
+        },
+        "word": {
+            "id": 20785,
+            "uri": "https://sedra.bethmardutho.org/api/word/20785.json"
+        }
+    }
+]

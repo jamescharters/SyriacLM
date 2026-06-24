@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072c\u0719\u0715\u0718\u0713",
+        "western": "\u072c\u0741\u0736\u0719\u0715\u0741\u0730\u0718\u0730\u0713\u0742",
+        "tense": "imperfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 859,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/859.json"
+        },
+        "stem": "\u0719\u0718\u0713",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "join together",
+                "marry",
+                "unite"
+            ]
+        },
+        "word": {
+            "id": 5599,
+            "uri": "https://sedra.bethmardutho.org/api/word/5599.json"
+        }
+    }
+]

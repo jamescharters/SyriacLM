@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15465,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15465.json"
+        },
+        "syriac": "\u0722\u071b\u0720",
+        "glosses": {
+            "English": [
+                "Ia to turn the scale",
+                "to weigh down",
+                "to weigh heavy",
+                "IIp to be weighed",
+                "to be pondered.",
+                "to draw water",
+                "IIa to lay a burden on"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3222,
+            "uri": "https://sedra.bethmardutho.org/api/root/3222.json"
+        },
+        "words": [
+            {
+                "id": 42015,
+                "uri": "https://sedra.bethmardutho.org/api/word/42015.json"
+            },
+            {
+                "id": 40165,
+                "uri": "https://sedra.bethmardutho.org/api/word/40165.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

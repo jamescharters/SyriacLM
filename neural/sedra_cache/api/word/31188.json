@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0728\u0722\u0713\u0710",
+        "western": "\u0728\u0733\u0722\u0713\u0733\u0710",
+        "eastern": "\u0728\u0735\u0722\u0713\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11228,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11228.json"
+        },
+        "stem": "\u0728\u0722\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0646\u062c"
+            ],
+            "eng": [
+                "cymbal",
+                "sanj (a musical instrument)."
+            ],
+            "fre": [
+                "cymbale"
+            ],
+            "syr": [
+                "plur. \u0728\u0722\u0718\u0713\u0710 <strong>s\u0323nwg\u02be</strong> (Arab. plur., cf. Arab. <em>s\u0323an\u016bg\u030c</em>)"
+            ]
+        },
+        "word": {
+            "id": 31188,
+            "uri": "https://sedra.bethmardutho.org/api/word/31188.json"
+        }
+    }
+]

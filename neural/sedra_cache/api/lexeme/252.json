@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 252,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/252.json"
+        },
+        "syriac": "\u0710\u0726\u071d\u0729\u0718\u072a\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Epicurean school",
+                "Epicurus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 189,
+            "uri": "https://sedra.bethmardutho.org/api/root/189.json"
+        },
+        "words": [
+            {
+                "id": 1783,
+                "uri": "https://sedra.bethmardutho.org/api/word/1783.json"
+            },
+            {
+                "id": 1784,
+                "uri": "https://sedra.bethmardutho.org/api/word/1784.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

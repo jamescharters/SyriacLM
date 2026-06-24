@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1279,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1279.json"
+        },
+        "syriac": "\u071b\u072a\u071f\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "Trachonitis"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 757,
+            "uri": "https://sedra.bethmardutho.org/api/root/757.json"
+        },
+        "words": [
+            {
+                "id": 8350,
+                "uri": "https://sedra.bethmardutho.org/api/word/8350.json"
+            },
+            {
+                "id": 8351,
+                "uri": "https://sedra.bethmardutho.org/api/word/8351.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

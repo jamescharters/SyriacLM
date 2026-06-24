@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2193,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2193.json"
+        },
+        "syriac": "\u0723\u0729\u0718\u0722\u0715\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Secundus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1311,
+            "uri": "https://sedra.bethmardutho.org/api/root/1311.json"
+        },
+        "words": [
+            {
+                "id": 14565,
+                "uri": "https://sedra.bethmardutho.org/api/word/14565.json"
+            },
+            {
+                "id": 14566,
+                "uri": "https://sedra.bethmardutho.org/api/word/14566.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

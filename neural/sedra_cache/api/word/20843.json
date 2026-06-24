@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u072b\u071b\u0726",
+        "western": "\u072b\u071b\u0730\u0726\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3178,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3178.json"
+        },
+        "stem": "\u072b\u071b\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062a\u062d",
+                "\u0635\u062f\u0645",
+                "\u0634\u0642"
+            ],
+            "eng": [
+                "open",
+                "to open (window).",
+                "to cut obliquely",
+                "Ia to cleave",
+                "cleave (cut)"
+            ],
+            "fre": [
+                "fendre",
+                "heurter",
+                "ouvrir"
+            ]
+        },
+        "word": {
+            "id": 20843,
+            "uri": "https://sedra.bethmardutho.org/api/word/20843.json"
+        }
+    }
+]

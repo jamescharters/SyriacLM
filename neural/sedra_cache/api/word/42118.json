@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u072a\u0718\u071a",
+        "western": "\u0722\u072a\u073d\u0718\u071a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15754,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15754.json"
+        },
+        "stem": "\u072a\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072a\u073a\u071d\u071a</span> to smell",
+                "to cause to inhale.",
+                "IIa <span class=\"selectableFont\">\u072a\u0730\u071d\u0730\u071a</span> to soothe, to mitigate, to calm",
+                "Ip to smell",
+                "to smell.",
+                "Ia to breathe"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 42118,
+            "uri": "https://sedra.bethmardutho.org/api/word/42118.json"
+        }
+    }
+]

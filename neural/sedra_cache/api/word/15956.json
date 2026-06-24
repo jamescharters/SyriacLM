@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u0725\u072a\u0712\u071d",
+        "western": "\u0721\u0730\u0725\u072a\u0733\u0712\u0742\u0730\u071d",
+        "state": "construct",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2408,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2408.json"
+        },
+        "stem": "\u0721\u0725\u072a\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u0628, \u0645\u063a\u0631\u0628",
+                "\u0631\u064a\u062d \u063a\u0631\u0628\u064a\u0629"
+            ],
+            "eng": [
+                "west",
+                "setting of sun",
+                "west."
+            ],
+            "fre": [
+                "vent d&#39;ouest",
+                "occident, ouest"
+            ]
+        },
+        "word": {
+            "id": 15956,
+            "uri": "https://sedra.bethmardutho.org/api/word/15956.json"
+        }
+    }
+]

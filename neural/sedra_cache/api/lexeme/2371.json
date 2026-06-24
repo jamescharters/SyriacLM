@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2371,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2371.json"
+        },
+        "syriac": "\u0725\u0723\u0718",
+        "glosses": {
+            "English": [
+                "Esau"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1407,
+            "uri": "https://sedra.bethmardutho.org/api/root/1407.json"
+        },
+        "words": [
+            {
+                "id": 15808,
+                "uri": "https://sedra.bethmardutho.org/api/word/15808.json"
+            },
+            {
+                "id": 15809,
+                "uri": "https://sedra.bethmardutho.org/api/word/15809.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

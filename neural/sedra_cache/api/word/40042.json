@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072c\u071d\u072a",
+        "western": "\u072c\u0730\u071d\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15289,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15289.json"
+        },
+        "stem": "\u072c\u071d\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa, IIIa to plough with oxen."
+            ]
+        },
+        "word": {
+            "id": 40042,
+            "uri": "https://sedra.bethmardutho.org/api/word/40042.json"
+        }
+    }
+]

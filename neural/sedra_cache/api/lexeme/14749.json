@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14749,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14749.json"
+        },
+        "syriac": "\u071b\u072a\u071b\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0633\u062e (\u0645\u0636)"
+            ],
+            "French": [
+                "salir"
+            ],
+            "English": [
+                "to sully",
+                "IVp.",
+                "IVa to soil, blot",
+                "to spatter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2450,
+            "uri": "https://sedra.bethmardutho.org/api/root/2450.json"
+        },
+        "words": [
+            {
+                "id": 41386,
+                "uri": "https://sedra.bethmardutho.org/api/word/41386.json"
+            },
+            {
+                "id": 40524,
+                "uri": "https://sedra.bethmardutho.org/api/word/40524.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

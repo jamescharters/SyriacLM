@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2934,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2934.json"
+        },
+        "syriac": "\u072a\u0713\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "soldier",
+                "foot-soldier."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1728,
+            "uri": "https://sedra.bethmardutho.org/api/root/1728.json"
+        },
+        "words": [
+            {
+                "id": 19138,
+                "uri": "https://sedra.bethmardutho.org/api/word/19138.json"
+            },
+            {
+                "id": 19140,
+                "uri": "https://sedra.bethmardutho.org/api/word/19140.json"
+            },
+            {
+                "id": 19139,
+                "uri": "https://sedra.bethmardutho.org/api/word/19139.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethp\u02bfel"
+    }
+]

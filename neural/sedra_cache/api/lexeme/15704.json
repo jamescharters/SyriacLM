@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15704,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15704.json"
+        },
+        "syriac": "\u071a\u0719\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u062a\u0631"
+            ],
+            "French": [
+                "amputer"
+            ],
+            "English": [
+                "to stop the ears",
+                "Ia to cut off."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3180,
+            "uri": "https://sedra.bethmardutho.org/api/root/3180.json"
+        },
+        "words": [
+            {
+                "id": 45920,
+                "uri": "https://sedra.bethmardutho.org/api/word/45920.json"
+            },
+            {
+                "id": 41751,
+                "uri": "https://sedra.bethmardutho.org/api/word/41751.json"
+            },
+            {
+                "id": 40318,
+                "uri": "https://sedra.bethmardutho.org/api/word/40318.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

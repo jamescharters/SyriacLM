@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 627,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/627.json"
+        },
+        "syriac": "\u0713\u0718\u072a\u0713\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u062d\u0631\u064a\u0636"
+            ],
+            "French": [
+                "excitation"
+            ],
+            "English": [
+                "provocation",
+                "incitement",
+                "encouragement",
+                "inducement, incentive."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 403,
+            "uri": "https://sedra.bethmardutho.org/api/root/403.json"
+        },
+        "words": [
+            {
+                "id": 3969,
+                "uri": "https://sedra.bethmardutho.org/api/word/3969.json"
+            },
+            {
+                "id": 3968,
+                "uri": "https://sedra.bethmardutho.org/api/word/3968.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

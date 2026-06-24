@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0710\u0720\u0718\u0723",
+        "western": "\u0710\u0730\u0712\u0733\u0710\u0720\u0718\u0733\u0723",
+        "lexeme": {
+            "id": 20246,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20246.json"
+        },
+        "stem": "\u0710\u0712\u0710\u0720\u0718\u0723",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "spit"
+            ],
+            "grc": [
+                "\u1f40\u03b2\u03b5\u03bb\u03cc\u03c2"
+            ],
+            "lat": [
+                "obeliscus"
+            ]
+        },
+        "word": {
+            "id": 46620,
+            "uri": "https://sedra.bethmardutho.org/api/word/46620.json"
+        }
+    }
+]

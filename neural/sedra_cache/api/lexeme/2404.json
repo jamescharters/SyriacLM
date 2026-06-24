@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 2404,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2404.json"
+        },
+        "syriac": "\u0725\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "coldness",
+                "weather",
+                "cold, frost."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1423,
+            "uri": "https://sedra.bethmardutho.org/api/root/1423.json"
+        },
+        "words": [
+            {
+                "id": 15945,
+                "uri": "https://sedra.bethmardutho.org/api/word/15945.json"
+            },
+            {
+                "id": 15946,
+                "uri": "https://sedra.bethmardutho.org/api/word/15946.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

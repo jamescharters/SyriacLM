@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 276,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/276.json"
+        },
+        "syriac": "\u0710\u072a\u0713\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "purple",
+                "purple."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 203,
+            "uri": "https://sedra.bethmardutho.org/api/root/203.json"
+        },
+        "words": [
+            {
+                "id": 42569,
+                "uri": "https://sedra.bethmardutho.org/api/word/42569.json"
+            },
+            {
+                "id": 1870,
+                "uri": "https://sedra.bethmardutho.org/api/word/1870.json"
+            },
+            {
+                "id": 1869,
+                "uri": "https://sedra.bethmardutho.org/api/word/1869.json"
+            },
+            {
+                "id": 1868,
+                "uri": "https://sedra.bethmardutho.org/api/word/1868.json"
+            },
+            {
+                "id": 1867,
+                "uri": "https://sedra.bethmardutho.org/api/word/1867.json"
+            },
+            {
+                "id": 1866,
+                "uri": "https://sedra.bethmardutho.org/api/word/1866.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

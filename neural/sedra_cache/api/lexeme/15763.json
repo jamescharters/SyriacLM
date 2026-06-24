@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 15763,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15763.json"
+        },
+        "syriac": "\u071b\u0725\u072b",
+        "glosses": {
+            "English": [
+                "deviate",
+                "Ip to be missed, forgotten, neglected",
+                "IIIa to lead into error.",
+                "stumble",
+                "to be disturbed",
+                "& <span class=\"selectableFont\">\u071b\u0725\u0730\u072b</span> fut. <span class=\"selectableFont\">\u0722\u0736\u071b\u0725\u0730\u072b</span>, Ia to fall into error, go astray, deviate, fall by the wayside"
+            ],
+            "Arabic": [
+                "\u062d\u0627\u062f",
+                "\u0639\u062b\u0631"
+            ],
+            "French": [
+                "d\u00e9vier",
+                "tr\u00e9bucher"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2683,
+            "uri": "https://sedra.bethmardutho.org/api/root/2683.json"
+        },
+        "words": [
+            {
+                "id": 8318,
+                "uri": "https://sedra.bethmardutho.org/api/word/8318.json"
+            },
+            {
+                "id": 8319,
+                "uri": "https://sedra.bethmardutho.org/api/word/8319.json"
+            },
+            {
+                "id": 41772,
+                "uri": "https://sedra.bethmardutho.org/api/word/41772.json"
+            },
+            {
+                "id": 40701,
+                "uri": "https://sedra.bethmardutho.org/api/word/40701.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

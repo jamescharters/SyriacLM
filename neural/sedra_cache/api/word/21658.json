@@ -1,0 +1,59 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072c\u0722\u071d\u0722",
+        "western": "\u0721\u0736\u072b\u072c\u0741\u0730\u0722\u0736\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3271,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3271.json"
+        },
+        "stem": "\u072b\u0722\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0647\u0628, \u0631\u0627\u062d",
+                "\u062a\u063a\u064a\u0631",
+                "\u0634\u062d\u0628",
+                "\u0647\u0630\u0649",
+                "\u062a\u062e\u0644\u0639"
+            ],
+            "eng": [
+                "Ia to go away, leave",
+                "to migrate",
+                "IIa to alter",
+                "to transfer",
+                "to depart",
+                "to be translated",
+                "to become mad.",
+                "to be taken away",
+                "to pass away, die IIp to be changed",
+                "to be dislocated",
+                "to remove",
+                "Ip to rage, rave",
+                "remove",
+                "depart",
+                "be mad",
+                "to change"
+            ],
+            "fre": [
+                "d\u00e9lirer",
+                "s&#39;en aller, partir",
+                "se d\u00e9bo\u00eeter",
+                "changer",
+                "p\u00e2lir"
+            ]
+        },
+        "word": {
+            "id": 21658,
+            "uri": "https://sedra.bethmardutho.org/api/word/21658.json"
+        }
+    }
+]

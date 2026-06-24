@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15242,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15242.json"
+        },
+        "syriac": "\u0725\u0721\u071d",
+        "glosses": {
+            "English": [
+                "IIa to blind",
+                "IIIa to extinguish, to extirpate.",
+                "IIp to be blinded"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3019,
+            "uri": "https://sedra.bethmardutho.org/api/root/3019.json"
+        },
+        "words": [
+            {
+                "id": 41070,
+                "uri": "https://sedra.bethmardutho.org/api/word/41070.json"
+            },
+            {
+                "id": 40871,
+                "uri": "https://sedra.bethmardutho.org/api/word/40871.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

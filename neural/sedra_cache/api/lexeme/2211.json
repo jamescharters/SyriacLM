@@ -1,0 +1,107 @@
+[
+    {
+        "lexeme": {
+            "id": 2211,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2211.json"
+        },
+        "syriac": "\u0723\u072a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0647\u0628",
+                "\u0641\u0627\u0631\u063a",
+                "\u0628\u0627\u0637\u0644",
+                "(\u0631\u062c\u0644) \u0634\u0642\u064a",
+                "\u0645\u0632\u0642",
+                "\u0646\u062c\u062f (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "spolier",
+                "vide",
+                "vain",
+                "( homme ) de rien",
+                "d\u00e9chirer",
+                "carder",
+                "\u00a0"
+            ],
+            "English": [
+                "empty",
+                "void",
+                "IIa to empty",
+                "to despoil, to deprive",
+                "to torture with an iron comb",
+                "to renounce",
+                "to divest oneself (of possessions)",
+                "to strip bare",
+                "to be made null.",
+                "to renounce the world",
+                "Ip to be tortured with an iron comb",
+                "to bereave",
+                "IIp to be emptied out, to be deprived",
+                "to become empty, bare",
+                "Ia to comb, to card",
+                "to render void"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1322,
+            "uri": "https://sedra.bethmardutho.org/api/root/1322.json"
+        },
+        "words": [
+            {
+                "id": 14593,
+                "uri": "https://sedra.bethmardutho.org/api/word/14593.json"
+            },
+            {
+                "id": 14592,
+                "uri": "https://sedra.bethmardutho.org/api/word/14592.json"
+            },
+            {
+                "id": 29517,
+                "uri": "https://sedra.bethmardutho.org/api/word/29517.json"
+            },
+            {
+                "id": 22829,
+                "uri": "https://sedra.bethmardutho.org/api/word/22829.json"
+            },
+            {
+                "id": 14614,
+                "uri": "https://sedra.bethmardutho.org/api/word/14614.json"
+            },
+            {
+                "id": 14613,
+                "uri": "https://sedra.bethmardutho.org/api/word/14613.json"
+            },
+            {
+                "id": 14612,
+                "uri": "https://sedra.bethmardutho.org/api/word/14612.json"
+            },
+            {
+                "id": 14611,
+                "uri": "https://sedra.bethmardutho.org/api/word/14611.json"
+            },
+            {
+                "id": 14610,
+                "uri": "https://sedra.bethmardutho.org/api/word/14610.json"
+            },
+            {
+                "id": 14609,
+                "uri": "https://sedra.bethmardutho.org/api/word/14609.json"
+            },
+            {
+                "id": 14601,
+                "uri": "https://sedra.bethmardutho.org/api/word/14601.json"
+            },
+            {
+                "id": 14595,
+                "uri": "https://sedra.bethmardutho.org/api/word/14595.json"
+            },
+            {
+                "id": 14594,
+                "uri": "https://sedra.bethmardutho.org/api/word/14594.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

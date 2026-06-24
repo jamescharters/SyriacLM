@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0722\u0725",
+        "western": "\u0729\u0722\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15796,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15796.json"
+        },
+        "stem": "\u0729\u0722\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to clothe in a veil.",
+                "Ia to turn pale",
+                "IIIa to turn blue"
+            ]
+        },
+        "word": {
+            "id": 40304,
+            "uri": "https://sedra.bethmardutho.org/api/word/40304.json"
+        }
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 3451,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3451.json"
+        },
+        "syriac": "\u072c\u072a\u071d\u0728\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0646\u062a\u0635\u0628",
+                "\u0645\u0633\u062a\u0642\u064a\u0645",
+                "\u0645\u0648\u0627\u062c\u0647",
+                "\u0639\u0627\u062f\u0644, \u0645\u0633\u062a\u0642\u064a\u0645, \u0643\u0627\u0645\u0644"
+            ],
+            "French": [
+                "dress\u00e9",
+                "droit",
+                "faisant face",
+                "juste, droit, parfait"
+            ],
+            "English": [
+                "straight",
+                "upright",
+                "upright, straight, straightforward",
+                "<span class=\"selectableFont\">\u072c\u072a\u073a\u071d\u0728 \u072b\u073d\u0718\u0712\u071a\u0733\u0710</span> orthodox."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2001,
+            "uri": "https://sedra.bethmardutho.org/api/root/2001.json"
+        },
+        "words": [
+            {
+                "id": 22733,
+                "uri": "https://sedra.bethmardutho.org/api/word/22733.json"
+            },
+            {
+                "id": 22732,
+                "uri": "https://sedra.bethmardutho.org/api/word/22732.json"
+            },
+            {
+                "id": 22731,
+                "uri": "https://sedra.bethmardutho.org/api/word/22731.json"
+            },
+            {
+                "id": 22730,
+                "uri": "https://sedra.bethmardutho.org/api/word/22730.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

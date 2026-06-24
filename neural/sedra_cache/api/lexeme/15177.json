@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15177,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15177.json"
+        },
+        "syriac": "\u0725\u0715\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0633\u0639\u062f",
+                "\u0632\u064a\u0646 (\u0645\u0636)",
+                "\u0645\u0644\u0623"
+            ],
+            "French": [
+                "rendre heureux",
+                "orner",
+                "remplir"
+            ],
+            "English": [
+                "IIp to enjoy delights.",
+                "to adorn",
+                "IIa to delight"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2196,
+            "uri": "https://sedra.bethmardutho.org/api/root/2196.json"
+        },
+        "words": [
+            {
+                "id": 41414,
+                "uri": "https://sedra.bethmardutho.org/api/word/41414.json"
+            },
+            {
+                "id": 41330,
+                "uri": "https://sedra.bethmardutho.org/api/word/41330.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0715\u0712\u072a\u0722\u071d\u0710",
+        "western": "\u0715\u0730\u0712\u072a\u0733\u0722\u0733\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 38768,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/38768.json"
+        },
+        "stem": "\u0715\u0712\u072a\u0722\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "of wild beasts"
+            ],
+            "lat": [
+                "ferinus"
+            ]
+        },
+        "word": {
+            "id": 65123,
+            "uri": "https://sedra.bethmardutho.org/api/word/65123.json"
+        }
+    }
+]

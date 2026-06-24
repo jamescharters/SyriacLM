@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0721\u072a\u071a\u0721\u0722\u071d\u0722",
+        "western": "\u0718\u0730\u0721\u072a\u0730\u071a\u0721\u0733\u0722\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2994,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2994.json"
+        },
+        "stem": "\u0721\u072a\u071a\u0721\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u062d\u0648\u0645"
+            ],
+            "eng": [
+                "compassionate, merciful.",
+                "merciful",
+                "compassionate"
+            ],
+            "fre": [
+                "mis\u00e9ricordieux"
+            ]
+        },
+        "word": {
+            "id": 19489,
+            "uri": "https://sedra.bethmardutho.org/api/word/19489.json"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0723\u0712\u071d\u0710",
+        "western": "\u0710\u0736\u0718\u0723\u0736\u0712\u073a\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 27105,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27105.json"
+        },
+        "stem": "\u0710\u0718\u0723\u0712\u071d\u0710",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u0395\u1f50\u03c3\u03ad\u03b2\u03b9\u03bf\u03c2"
+            ],
+            "lat": [
+                "Eusebius"
+            ]
+        },
+        "word": {
+            "id": 53479,
+            "uri": "https://sedra.bethmardutho.org/api/word/53479.json"
+        }
+    }
+]

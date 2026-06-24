@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 2887,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2887.json"
+        },
+        "syriac": "\u0729\u072a\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0637\u0649 (\u0645\u0636) \u0628\u0640",
+                "\u063a\u0634\u0649 (\u0645\u0636) \u0628\u0640",
+                "\u00a0"
+            ],
+            "French": [
+                "recouvrir de",
+                "incruster de",
+                "\u00a0"
+            ],
+            "English": [
+                "overlay",
+                "IIa.",
+                "Ia to overlay, plate, cover (with metal etc.)",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1711,
+            "uri": "https://sedra.bethmardutho.org/api/root/1711.json"
+        },
+        "words": [
+            {
+                "id": 18834,
+                "uri": "https://sedra.bethmardutho.org/api/word/18834.json"
+            },
+            {
+                "id": 28383,
+                "uri": "https://sedra.bethmardutho.org/api/word/28383.json"
+            },
+            {
+                "id": 28382,
+                "uri": "https://sedra.bethmardutho.org/api/word/28382.json"
+            },
+            {
+                "id": 18833,
+                "uri": "https://sedra.bethmardutho.org/api/word/18833.json"
+            },
+            {
+                "id": 28385,
+                "uri": "https://sedra.bethmardutho.org/api/word/28385.json"
+            },
+            {
+                "id": 28384,
+                "uri": "https://sedra.bethmardutho.org/api/word/28384.json"
+            },
+            {
+                "id": 18835,
+                "uri": "https://sedra.bethmardutho.org/api/word/18835.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0713",
+        "western": "\u0713\u0730\u072a\u0736\u0713",
+        "eastern": "\u0713\u0732\u072a\u0738\u0713",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15152,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15152.json"
+        },
+        "stem": "\u0713\u072a\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062d\u0631\u0636 (\u0645\u0636)",
+                "\u0639\u0632\u0645",
+                "\u062d\u062b"
+            ],
+            "eng": [
+                "IIa to excite, stimulate, provoke, entice",
+                "stir up",
+                "incite",
+                "IIp."
+            ],
+            "fre": [
+                "exciter",
+                "provoquer",
+                "inviter",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 41066,
+            "uri": "https://sedra.bethmardutho.org/api/word/41066.json"
+        }
+    }
+]

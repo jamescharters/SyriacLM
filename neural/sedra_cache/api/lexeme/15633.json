@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15633,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15633.json"
+        },
+        "syriac": "\u0715\u072a",
+        "glosses": {
+            "English": [
+                "to strive",
+                "Ia to strive with",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0715\u0730\u072a\u0730\u072a</span> to engage in contest with.",
+                "IIa <span class=\"selectableFont\">\u0715\u0730\u072a\u0730\u072a</span> to fight bravely"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2151,
+            "uri": "https://sedra.bethmardutho.org/api/root/2151.json"
+        },
+        "words": [
+            {
+                "id": 41822,
+                "uri": "https://sedra.bethmardutho.org/api/word/41822.json"
+            },
+            {
+                "id": 41521,
+                "uri": "https://sedra.bethmardutho.org/api/word/41521.json"
+            },
+            {
+                "id": 41422,
+                "uri": "https://sedra.bethmardutho.org/api/word/41422.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

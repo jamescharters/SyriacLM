@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2579,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2579.json"
+        },
+        "syriac": "\u0726\u072a\u0715\u071d\u0723\u0710",
+        "glosses": {
+            "English": [
+                "paradise",
+                "Paradise",
+                "garden, orchard, park.",
+                "paradise",
+                "garden",
+                "spec. Eden"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1528,
+            "uri": "https://sedra.bethmardutho.org/api/root/1528.json"
+        },
+        "words": [
+            {
+                "id": 16836,
+                "uri": "https://sedra.bethmardutho.org/api/word/16836.json"
+            },
+            {
+                "id": 16835,
+                "uri": "https://sedra.bethmardutho.org/api/word/16835.json"
+            },
+            {
+                "id": 16834,
+                "uri": "https://sedra.bethmardutho.org/api/word/16834.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

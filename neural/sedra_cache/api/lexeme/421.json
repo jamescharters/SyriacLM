@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 421,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/421.json"
+        },
+        "syriac": "\u0721\u0712\u0723\u072a\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062d\u062a\u0642\u0631"
+            ],
+            "French": [
+                "contempteur"
+            ],
+            "English": [
+                "despiser",
+                "scorner, scornful."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 288,
+            "uri": "https://sedra.bethmardutho.org/api/root/288.json"
+        },
+        "words": [
+            {
+                "id": 22770,
+                "uri": "https://sedra.bethmardutho.org/api/word/22770.json"
+            },
+            {
+                "id": 2908,
+                "uri": "https://sedra.bethmardutho.org/api/word/2908.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

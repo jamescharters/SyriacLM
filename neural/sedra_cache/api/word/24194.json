@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0715\u072a\u071f",
+        "western": "\u0715\u0741\u0721\u0730\u0715\u0742\u072a\u0736\u071f\u0742",
+        "tense": "active participle",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15894,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15894.json"
+        },
+        "stem": "\u0715\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0634\u0649, \u0630\u0647\u0628"
+            ],
+            "eng": [
+                "to come upon, to reach",
+                "to be overtaken",
+                "to comprehend",
+                "to apprehend, to understand",
+                "IIIa to overtake",
+                "comprehend",
+                "overtake",
+                "to come upon, to attain, to find",
+                "Ip to be trodden",
+                "& <span class=\"selectableFont\">\u0715\u072a\u0736\u071f</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u072a\u073d\u0718\u071f</span> & <span class=\"selectableFont\">\u0722\u0736\u0715\u072a\u0730\u071f</span>, Ia to tread, to step",
+                "IIIp.",
+                "to be comprehended"
+            ],
+            "fre": [
+                "marcher , aller"
+            ]
+        },
+        "word": {
+            "id": 24194,
+            "uri": "https://sedra.bethmardutho.org/api/word/24194.json"
+        }
+    }
+]

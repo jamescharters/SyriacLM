@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 1399,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1399.json"
+        },
+        "syriac": "\u071d\u0725\u0729\u0718\u0712",
+        "glosses": {
+            "English": [
+                "Jacob"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 833,
+            "uri": "https://sedra.bethmardutho.org/api/root/833.json"
+        },
+        "words": [
+            {
+                "id": 9297,
+                "uri": "https://sedra.bethmardutho.org/api/word/9297.json"
+            },
+            {
+                "id": 9298,
+                "uri": "https://sedra.bethmardutho.org/api/word/9298.json"
+            },
+            {
+                "id": 9296,
+                "uri": "https://sedra.bethmardutho.org/api/word/9296.json"
+            },
+            {
+                "id": 9295,
+                "uri": "https://sedra.bethmardutho.org/api/word/9295.json"
+            },
+            {
+                "id": 9294,
+                "uri": "https://sedra.bethmardutho.org/api/word/9294.json"
+            },
+            {
+                "id": 9293,
+                "uri": "https://sedra.bethmardutho.org/api/word/9293.json"
+            },
+            {
+                "id": 9292,
+                "uri": "https://sedra.bethmardutho.org/api/word/9292.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

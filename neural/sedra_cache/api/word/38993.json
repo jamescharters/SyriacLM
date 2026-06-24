@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0728\u072a\u071d\u071f\u0710",
+        "western": "\u0728\u072a\u073a\u071d\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5299.json"
+        },
+        "stem": "\u0728\u072a\u071d\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0642\u064a\u0631"
+            ],
+            "eng": [
+                "needy, poor."
+            ],
+            "fre": [
+                "pauvre"
+            ]
+        },
+        "word": {
+            "id": 38993,
+            "uri": "https://sedra.bethmardutho.org/api/word/38993.json"
+        }
+    }
+]

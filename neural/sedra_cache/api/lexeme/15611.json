@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15611,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15611.json"
+        },
+        "syriac": "\u071a\u0720\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0633\u0645 (\u0645\u0636), \u062e\u0635\u0635",
+                "\u0631\u0633\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "r\u00e9partir, attributer",
+                "d\u00e9cr\u00e9ter",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to allot, determine, destine."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2625,
+            "uri": "https://sedra.bethmardutho.org/api/root/2625.json"
+        },
+        "words": [
+            {
+                "id": 41814,
+                "uri": "https://sedra.bethmardutho.org/api/word/41814.json"
+            },
+            {
+                "id": 40019,
+                "uri": "https://sedra.bethmardutho.org/api/word/40019.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

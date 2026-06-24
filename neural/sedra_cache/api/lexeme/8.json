@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 8,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8.json"
+        },
+        "syriac": "\u0710\u0712\u0718\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0628\u0627\u0628\u0629"
+            ],
+            "French": [
+                "fl\u00fbte"
+            ],
+            "English": [
+                "flute, pipe",
+                "pipe",
+                "flute",
+                "channel."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 5,
+            "uri": "https://sedra.bethmardutho.org/api/root/5.json"
+        },
+        "words": [
+            {
+                "id": 132,
+                "uri": "https://sedra.bethmardutho.org/api/word/132.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

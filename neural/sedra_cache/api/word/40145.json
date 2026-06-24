@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0720\u071a\u071f\u072b",
+        "western": "\u0720\u0730\u071a\u071f\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14722,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14722.json"
+        },
+        "stem": "\u0720\u071a\u071f\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0630\u0644\u0644, \u0645\u0627\u0644\u0642"
+            ],
+            "eng": [
+                "IVa to fawn, flatter",
+                "IVp."
+            ],
+            "fre": [
+                "caresser, flatter",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40145,
+            "uri": "https://sedra.bethmardutho.org/api/word/40145.json"
+        }
+    }
+]

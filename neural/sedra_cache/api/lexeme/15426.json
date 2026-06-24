@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15426,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15426.json"
+        },
+        "syriac": "\u072a\u072c\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u063a\u0627"
+            ],
+            "French": [
+                "\u00e9cumer"
+            ],
+            "English": [
+                "IIIa to wrench loose",
+                "to make to droop.",
+                "to foam",
+                "Ia to droop",
+                "to cause to hang loose",
+                "IIp <span class=\"selectableFont\">\u0721\u072a\u0730\u072c\u0730\u0725</span> drooping"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2840,
+            "uri": "https://sedra.bethmardutho.org/api/root/2840.json"
+        },
+        "words": [
+            {
+                "id": 42010,
+                "uri": "https://sedra.bethmardutho.org/api/word/42010.json"
+            },
+            {
+                "id": 41121,
+                "uri": "https://sedra.bethmardutho.org/api/word/41121.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

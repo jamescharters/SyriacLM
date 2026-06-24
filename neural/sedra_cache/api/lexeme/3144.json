@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3144,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3144.json"
+        },
+        "syriac": "\u072b\u0718\u071a",
+        "glosses": {
+            "English": [
+                "spring up",
+                "IIIa.",
+                "Ia to sprout, flourish"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f50\u03c4\u03cc\u03c6\u03c5\u03c4\u03bf\u03c2",
+                "\u03b1\u1f50\u03c4\u03bf\u03c6\u03c5\u03ae\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1827,
+            "uri": "https://sedra.bethmardutho.org/api/root/1827.json"
+        },
+        "words": [
+            {
+                "id": 20682,
+                "uri": "https://sedra.bethmardutho.org/api/word/20682.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

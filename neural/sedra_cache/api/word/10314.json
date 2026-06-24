@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u071f\u0726\u0722\u0710",
+        "western": "\u0715\u0741\u071f\u0742\u0730\u0726\u0742\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1567,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1567.json"
+        },
+        "stem": "\u071f\u0726\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hunger",
+                "hungry.",
+                "hunger, famine",
+                "famine"
+            ]
+        },
+        "word": {
+            "id": 10314,
+            "uri": "https://sedra.bethmardutho.org/api/word/10314.json"
+        }
+    }
+]

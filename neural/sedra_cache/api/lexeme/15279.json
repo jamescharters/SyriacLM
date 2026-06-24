@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15279,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15279.json"
+        },
+        "syriac": "\u0715\u071a\u071d",
+        "glosses": {
+            "Arabic": [
+                ""
+            ],
+            "French": [
+                ""
+            ],
+            "English": [
+                "IIa to reduce to dust, ashes",
+                "IIp to become dust."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2930,
+            "uri": "https://sedra.bethmardutho.org/api/root/2930.json"
+        },
+        "words": [
+            {
+                "id": 41326,
+                "uri": "https://sedra.bethmardutho.org/api/word/41326.json"
+            },
+            {
+                "id": 41409,
+                "uri": "https://sedra.bethmardutho.org/api/word/41409.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

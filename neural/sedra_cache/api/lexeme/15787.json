@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15787,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15787.json"
+        },
+        "syriac": "\u0721\u0728\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0648\u0633\u0637"
+            ],
+            "French": [
+                "\u00eatre au milieu"
+            ],
+            "English": [
+                "IIa to come between, interpose, mediate, stand in the middle",
+                "Ia to be in the middle",
+                "IIIa to mediate.",
+                "IIp to intervene, to act as mediator"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2532,
+            "uri": "https://sedra.bethmardutho.org/api/root/2532.json"
+        },
+        "words": [
+            {
+                "id": 41617,
+                "uri": "https://sedra.bethmardutho.org/api/word/41617.json"
+            },
+            {
+                "id": 41337,
+                "uri": "https://sedra.bethmardutho.org/api/word/41337.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

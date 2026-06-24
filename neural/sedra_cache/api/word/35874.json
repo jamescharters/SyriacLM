@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0713\u0720\u0712\u071b\u072a\u0710",
+        "western": "\u0713\u0730\u0720\u0712\u0733\u071b\u072a\u0733\u0710",
+        "eastern": "\u0713\u0732\u0720\u0712\u0735\u071b\u072a\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10705,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10705.json"
+        },
+        "stem": "\u0713\u0720\u0712\u071b\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "(constellation) Ursa major.",
+                "bier"
+            ]
+        },
+        "word": {
+            "id": 35874,
+            "uri": "https://sedra.bethmardutho.org/api/word/35874.json"
+        }
+    }
+]

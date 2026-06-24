@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u0713\u0720\u071d\u0726\u0710",
+        "western": "\u0713\u0741\u0720\u073a\u071d\u0726\u0742\u0733\u0710",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 584,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/584.json"
+        },
+        "stem": "\u0713\u0720\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0646\u0642\u0634",
+                "\u0646\u0642\u062d (\u0645\u0636)",
+                "\u0642\u0634\u0631",
+                "\u0631\u0641\u0639",
+                "\u0646\u062d\u062a"
+            ],
+            "eng": [
+                "Ia to carve, engrave, fashion",
+                "Ip to be carved, to be scraped.",
+                "engrave",
+                "to remove",
+                "carve"
+            ],
+            "fre": [
+                "\u00f4ter",
+                "graver",
+                "polir (le langage)",
+                "\u00e9corcer",
+                "\u00a0",
+                "sculpter"
+            ]
+        },
+        "word": {
+            "id": 3808,
+            "uri": "https://sedra.bethmardutho.org/api/word/3808.json"
+        }
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 15467,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15467.json"
+        },
+        "syriac": "\u0712\u0713\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0631\u062e",
+                "\u0637\u0644\u0628",
+                "\u0634\u0643\u0649"
+            ],
+            "French": [
+                "crier",
+                "demander",
+                "porter plainte"
+            ],
+            "English": [
+                "to make an appeal.",
+                "cry out",
+                "(3 m. pl. <span class=\"selectableFont\">\u0712\u0713\u0736\u0722\u0718\u0331</span>) fut. <span class=\"selectableFont\">\u0722\u0736\u0712\u0713\u0730\u0722</span>, Ia to complain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3100,
+            "uri": "https://sedra.bethmardutho.org/api/root/3100.json"
+        },
+        "words": [
+            {
+                "id": 2305,
+                "uri": "https://sedra.bethmardutho.org/api/word/2305.json"
+            },
+            {
+                "id": 2304,
+                "uri": "https://sedra.bethmardutho.org/api/word/2304.json"
+            },
+            {
+                "id": 23315,
+                "uri": "https://sedra.bethmardutho.org/api/word/23315.json"
+            },
+            {
+                "id": 23316,
+                "uri": "https://sedra.bethmardutho.org/api/word/23316.json"
+            },
+            {
+                "id": 41642,
+                "uri": "https://sedra.bethmardutho.org/api/word/41642.json"
+            },
+            {
+                "id": 39860,
+                "uri": "https://sedra.bethmardutho.org/api/word/39860.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

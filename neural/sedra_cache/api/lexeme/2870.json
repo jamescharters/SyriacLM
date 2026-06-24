@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2870,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2870.json"
+        },
+        "syriac": "\u0721\u0729\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0626\u0631"
+            ],
+            "French": [
+                "puits"
+            ],
+            "English": [
+                "crowing",
+                "water channel.",
+                "cistern"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1702,
+            "uri": "https://sedra.bethmardutho.org/api/root/1702.json"
+        },
+        "words": [
+            {
+                "id": 18568,
+                "uri": "https://sedra.bethmardutho.org/api/word/18568.json"
+            },
+            {
+                "id": 18569,
+                "uri": "https://sedra.bethmardutho.org/api/word/18569.json"
+            },
+            {
+                "id": 18570,
+                "uri": "https://sedra.bethmardutho.org/api/word/18570.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

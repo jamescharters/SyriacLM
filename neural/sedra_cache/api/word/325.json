@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0712\u0710\u0718\u072a\u071d\u072c\u0710",
+        "western": "\u0712\u0741\u073d\u0710\u0718\u072a\u0733\u071d\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 61,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/61.json"
+        },
+        "stem": "\u0710\u0718\u072a\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0631\u064a\u0639\u0629 (\u062a\u0648\u0631\u0627\u0629)"
+            ],
+            "eng": [
+                "the Law",
+                "the Law, Torah."
+            ],
+            "fre": [
+                "Loi (Pentateuque)"
+            ]
+        },
+        "word": {
+            "id": 325,
+            "uri": "https://sedra.bethmardutho.org/api/word/325.json"
+        }
+    }
+]

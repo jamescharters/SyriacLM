@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0715\u0725\u071f\u0710",
+        "western": "\u0715\u0741\u0733\u0725\u071f\u0741\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 738,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/738.json"
+        },
+        "stem": "\u0715\u0725\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0628\u0644",
+                "\u0628\u0637\u0644",
+                "\u0627\u0646\u0637\u0641\u0623"
+            ],
+            "eng": [
+                "IIp",
+                "to be extinct, to vanish",
+                "Ia to be extinguished, put out, to go out (fire)",
+                "IIIa to quench, to subdue, to abate.",
+                "go out (fire)",
+                "quench",
+                "extinguish",
+                "to suppress",
+                "IIa to put out, extinguish"
+            ],
+            "fre": [
+                "se fl\u00e9trir",
+                "s&#39;\u00e9teindre",
+                "cesser"
+            ]
+        },
+        "word": {
+            "id": 4794,
+            "uri": "https://sedra.bethmardutho.org/api/word/4794.json"
+        }
+    }
+]

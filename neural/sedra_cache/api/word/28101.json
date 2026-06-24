@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u0721\u0729\u0715\u0721",
+        "western": "\u0721\u0729\u0730\u0715\u0741\u0730\u0721",
+        "tense": "passive participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2744,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2744.json"
+        },
+        "stem": "\u0729\u0715\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0627\u0642",
+                "\u0642\u0628\u0644\u0627\u064b, \u0633\u0644\u0641\u0627\u064b",
+                "\u0648\u0635\u0644"
+            ],
+            "eng": [
+                "to be prejudiced",
+                "IIa to rise early",
+                "Ia to go, be first",
+                "to precede, anticipate",
+                "IIIa to make to go in front",
+                "to be overtaken",
+                "Ip",
+                "IIIp.",
+                "IIp to forestall",
+                "to do something first",
+                "go before"
+            ],
+            "fre": [
+                "parvenir",
+                "surpasser",
+                "avant, d&#39;avance"
+            ]
+        },
+        "word": {
+            "id": 28101,
+            "uri": "https://sedra.bethmardutho.org/api/word/28101.json"
+        }
+    }
+]

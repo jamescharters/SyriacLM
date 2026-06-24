@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071f\u0722\u071d",
+        "western": "\u071f\u0730\u0722\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15311,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15311.json"
+        },
+        "stem": "\u071f\u0722\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0645\u0649 (\u0645\u0636)",
+                "\u0639\u0646\u064a",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIa to name, designate",
+                "IIp."
+            ],
+            "fre": [
+                "signifier",
+                "\u00a0",
+                "nommer"
+            ]
+        },
+        "word": {
+            "id": 40562,
+            "uri": "https://sedra.bethmardutho.org/api/word/40562.json"
+        }
+    }
+]

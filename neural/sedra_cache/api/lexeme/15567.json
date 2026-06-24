@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15567,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15567.json"
+        },
+        "syriac": "\u072c\u0718\u072b",
+        "glosses": {
+            "English": [
+                "IIa to lead astray",
+                "Ia to wander, stray",
+                "IIp to be led astray",
+                "to deviate",
+                "to hesitate."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2889,
+            "uri": "https://sedra.bethmardutho.org/api/root/2889.json"
+        },
+        "words": [
+            {
+                "id": 42073,
+                "uri": "https://sedra.bethmardutho.org/api/word/42073.json"
+            },
+            {
+                "id": 40850,
+                "uri": "https://sedra.bethmardutho.org/api/word/40850.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

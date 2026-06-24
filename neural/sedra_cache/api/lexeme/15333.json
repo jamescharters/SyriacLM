@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15333,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15333.json"
+        },
+        "syriac": "\u072c\u072b\u0725",
+        "glosses": {
+            "English": [
+                "IIa to multiply by nine."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2158,
+            "uri": "https://sedra.bethmardutho.org/api/root/2158.json"
+        },
+        "words": [
+            {
+                "id": 40997,
+                "uri": "https://sedra.bethmardutho.org/api/word/40997.json"
+            },
+            {
+                "id": 40957,
+                "uri": "https://sedra.bethmardutho.org/api/word/40957.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

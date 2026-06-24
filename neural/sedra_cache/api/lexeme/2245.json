@@ -1,0 +1,87 @@
+[
+    {
+        "lexeme": {
+            "id": 2245,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2245.json"
+        },
+        "syriac": "\u0725\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0644\u063a"
+            ],
+            "French": [
+                "atteindre"
+            ],
+            "English": [
+                "take",
+                "happen",
+                "sieze",
+                "come upon",
+                "befall",
+                "take hold of",
+                "Ip to be freed from",
+                "Ia to pass near, to affect",
+                "IIa to set free",
+                "IIIp.",
+                "to fall upon",
+                "IIIa to snatch, to lay hold of"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1338,
+            "uri": "https://sedra.bethmardutho.org/api/root/1338.json"
+        },
+        "words": [
+            {
+                "id": 14978,
+                "uri": "https://sedra.bethmardutho.org/api/word/14978.json"
+            },
+            {
+                "id": 27247,
+                "uri": "https://sedra.bethmardutho.org/api/word/27247.json"
+            },
+            {
+                "id": 27246,
+                "uri": "https://sedra.bethmardutho.org/api/word/27246.json"
+            },
+            {
+                "id": 14976,
+                "uri": "https://sedra.bethmardutho.org/api/word/14976.json"
+            },
+            {
+                "id": 27251,
+                "uri": "https://sedra.bethmardutho.org/api/word/27251.json"
+            },
+            {
+                "id": 27250,
+                "uri": "https://sedra.bethmardutho.org/api/word/27250.json"
+            },
+            {
+                "id": 27249,
+                "uri": "https://sedra.bethmardutho.org/api/word/27249.json"
+            },
+            {
+                "id": 27248,
+                "uri": "https://sedra.bethmardutho.org/api/word/27248.json"
+            },
+            {
+                "id": 14980,
+                "uri": "https://sedra.bethmardutho.org/api/word/14980.json"
+            },
+            {
+                "id": 14979,
+                "uri": "https://sedra.bethmardutho.org/api/word/14979.json"
+            },
+            {
+                "id": 14977,
+                "uri": "https://sedra.bethmardutho.org/api/word/14977.json"
+            },
+            {
+                "id": 14975,
+                "uri": "https://sedra.bethmardutho.org/api/word/14975.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

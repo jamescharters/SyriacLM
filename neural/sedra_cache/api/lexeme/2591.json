@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 2591,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2591.json"
+        },
+        "syriac": "\u0726\u072a\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u062d\u0642",
+                "\u0641\u0631\u0643",
+                "\u00a0"
+            ],
+            "French": [
+                "broyer",
+                "frotter",
+                "\u00a0"
+            ],
+            "English": [
+                "rub",
+                "IIp to be brittle, friable.",
+                "Ia to rub, to bruise, to crumble",
+                "IIa to soften",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1537,
+            "uri": "https://sedra.bethmardutho.org/api/root/1537.json"
+        },
+        "words": [
+            {
+                "id": 16878,
+                "uri": "https://sedra.bethmardutho.org/api/word/16878.json"
+            },
+            {
+                "id": 27701,
+                "uri": "https://sedra.bethmardutho.org/api/word/27701.json"
+            },
+            {
+                "id": 27700,
+                "uri": "https://sedra.bethmardutho.org/api/word/27700.json"
+            },
+            {
+                "id": 16877,
+                "uri": "https://sedra.bethmardutho.org/api/word/16877.json"
+            },
+            {
+                "id": 27703,
+                "uri": "https://sedra.bethmardutho.org/api/word/27703.json"
+            },
+            {
+                "id": 27702,
+                "uri": "https://sedra.bethmardutho.org/api/word/27702.json"
+            },
+            {
+                "id": 16879,
+                "uri": "https://sedra.bethmardutho.org/api/word/16879.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

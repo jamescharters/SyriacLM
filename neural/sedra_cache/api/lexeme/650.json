@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 650,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/650.json"
+        },
+        "syriac": "\u0721\u0715\u0712\u072a\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u062d\u0631\u0627\u0648\u064a",
+                "\u0633\u0627\u0643\u0646 \u0627\u0644\u0635\u062d\u0631\u0627\u0621",
+                "\u062d\u0628\u064a\u0633"
+            ],
+            "French": [
+                "d\u00e9sertique",
+                "habitant du d\u00e9sert",
+                "ermite"
+            ],
+            "English": [
+                "desert",
+                "desert dweller, solitary",
+                "desert."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 415,
+            "uri": "https://sedra.bethmardutho.org/api/root/415.json"
+        },
+        "words": [
+            {
+                "id": 4128,
+                "uri": "https://sedra.bethmardutho.org/api/word/4128.json"
+            },
+            {
+                "id": 4127,
+                "uri": "https://sedra.bethmardutho.org/api/word/4127.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

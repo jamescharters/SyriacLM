@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1891,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1891.json"
+        },
+        "syriac": "\u0722\u0710\u072a\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Nereus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1133,
+            "uri": "https://sedra.bethmardutho.org/api/root/1133.json"
+        },
+        "words": [
+            {
+                "id": 12383,
+                "uri": "https://sedra.bethmardutho.org/api/word/12383.json"
+            },
+            {
+                "id": 12384,
+                "uri": "https://sedra.bethmardutho.org/api/word/12384.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

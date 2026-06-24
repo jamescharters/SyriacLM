@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072b\u0726\u071d\u072a\u0718\u072c\u0710",
+        "western": "\u072b\u0730\u0726\u073a\u071d\u072a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14303,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14303.json"
+        },
+        "stem": "\u072b\u0726\u071d\u072a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u0627\u0644, \u062c\u0648\u062f\u0629",
+                "\u0644\u0630\u0629"
+            ],
+            "eng": [
+                "beauty",
+                "excellence, goodness."
+            ],
+            "fre": [
+                "beaut\u00e9, excellence",
+                "plaisir"
+            ]
+        },
+        "word": {
+            "id": 33853,
+            "uri": "https://sedra.bethmardutho.org/api/word/33853.json"
+        }
+    }
+]

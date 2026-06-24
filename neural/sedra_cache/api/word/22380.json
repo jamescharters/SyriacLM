@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072c\u0718",
+        "western": "\u072c\u0741\u0730\u0718",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3367,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3367.json"
+        },
+        "stem": "\u072c\u0718",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "the letter Taw [t]",
+                "numerical value: 400.",
+                "Taw (last letter)"
+            ]
+        },
+        "word": {
+            "id": 22380,
+            "uri": "https://sedra.bethmardutho.org/api/word/22380.json"
+        }
+    }
+]

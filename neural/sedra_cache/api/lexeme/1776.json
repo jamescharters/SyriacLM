@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 1776,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1776.json"
+        },
+        "syriac": "\u0721\u0720\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0644\u062d",
+                "\u0631\u0634",
+                "\u0645\u0644\u062d",
+                ""
+            ],
+            "French": [
+                "saler",
+                "asperger",
+                "devenir sal\u00e9",
+                ""
+            ],
+            "English": [
+                "salted",
+                "Ip to be salted",
+                "Ia to salt, to be salty",
+                "IIp to be seasoned",
+                "to steer (a ship)",
+                "to sail.",
+                "IIa to salt, to season",
+                "to eat salt with, to be a companion"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1062,
+            "uri": "https://sedra.bethmardutho.org/api/root/1062.json"
+        },
+        "words": [
+            {
+                "id": 11731,
+                "uri": "https://sedra.bethmardutho.org/api/word/11731.json"
+            },
+            {
+                "id": 11730,
+                "uri": "https://sedra.bethmardutho.org/api/word/11730.json"
+            },
+            {
+                "id": 11729,
+                "uri": "https://sedra.bethmardutho.org/api/word/11729.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

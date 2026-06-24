@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0728\u072a",
+        "western": "\u0728\u0733\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2675,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2675.json"
+        },
+        "stem": "\u0728\u0718\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa <span class=\"selectableFont\">\u0728\u0730\u072a\u0730\u072a</span> to bind up, sew up",
+                "Ia to tie up (a purse)",
+                "to gather up",
+                "IIp.",
+                "be dazzled",
+                "Ip"
+            ]
+        },
+        "word": {
+            "id": 17413,
+            "uri": "https://sedra.bethmardutho.org/api/word/17413.json"
+        }
+    }
+]

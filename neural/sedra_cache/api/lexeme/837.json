@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 837,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/837.json"
+        },
+        "syriac": "\u0719\u0712\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0628\u0644, \u0628\u0631\u0627\u0632"
+            ],
+            "French": [
+                "fumier, excr\u00e9ment"
+            ],
+            "English": [
+                "dirt",
+                "dung",
+                "dung, manure, excrement",
+                "Kth. trash, rubbish."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 536,
+            "uri": "https://sedra.bethmardutho.org/api/root/536.json"
+        },
+        "words": [
+            {
+                "id": 5383,
+                "uri": "https://sedra.bethmardutho.org/api/word/5383.json"
+            },
+            {
+                "id": 5382,
+                "uri": "https://sedra.bethmardutho.org/api/word/5382.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

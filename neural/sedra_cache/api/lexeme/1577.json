@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 1577,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1577.json"
+        },
+        "syriac": "\u071f\u072a\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "sorrowfulness",
+                "sadness",
+                "shortness, brevity",
+                "sadness, distress."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 926,
+            "uri": "https://sedra.bethmardutho.org/api/root/926.json"
+        },
+        "words": [
+            {
+                "id": 10379,
+                "uri": "https://sedra.bethmardutho.org/api/word/10379.json"
+            },
+            {
+                "id": 10378,
+                "uri": "https://sedra.bethmardutho.org/api/word/10378.json"
+            },
+            {
+                "id": 10381,
+                "uri": "https://sedra.bethmardutho.org/api/word/10381.json"
+            },
+            {
+                "id": 10380,
+                "uri": "https://sedra.bethmardutho.org/api/word/10380.json"
+            },
+            {
+                "id": 10382,
+                "uri": "https://sedra.bethmardutho.org/api/word/10382.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

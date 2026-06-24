@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3151,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3151.json"
+        },
+        "syriac": "\u072b\u071d\u0726\u0710",
+        "glosses": {
+            "English": [
+                "collyrium",
+                "eyesalve",
+                "eye-salve",
+                "small stone.",
+                "pellet"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1832,
+            "uri": "https://sedra.bethmardutho.org/api/root/1832.json"
+        },
+        "words": [
+            {
+                "id": 20704,
+                "uri": "https://sedra.bethmardutho.org/api/word/20704.json"
+            },
+            {
+                "id": 20705,
+                "uri": "https://sedra.bethmardutho.org/api/word/20705.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

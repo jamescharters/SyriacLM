@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0721\u071d\u0718\u0723",
+        "western": "\u0710\u073a\u071d\u0721\u071d\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 28978,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28978.json"
+        },
+        "stem": "\u0710\u071d\u0721\u071d\u0718\u0723",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "lamb"
+            ],
+            "grc": [
+                "\u03ac\u03bc\u03bd\u03cc\u03c2"
+            ],
+            "lat": [
+                "agnus"
+            ]
+        },
+        "word": {
+            "id": 49470,
+            "uri": "https://sedra.bethmardutho.org/api/word/49470.json"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0712\u072c\u0722\u0718\u072a\u0710",
+        "western": "\u0712\u0741\u072c\u0742\u0730\u0722\u073d\u0718\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3417,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3417.json"
+        },
+        "stem": "\u072c\u0722\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0631\u0639",
+                "\u062a\u0646\u0648\u0631",
+                "\u0634\u0645\u0639\u062f\u0627\u0646"
+            ],
+            "eng": [
+                "lorica",
+                "furnace",
+                "oven",
+                "cuirass, breastplate.",
+                "oven, furnace",
+                "candelabra"
+            ],
+            "fre": [
+                "cand\u00e9labre",
+                "cuirasse",
+                "four"
+            ]
+        },
+        "word": {
+            "id": 22573,
+            "uri": "https://sedra.bethmardutho.org/api/word/22573.json"
+        }
+    }
+]

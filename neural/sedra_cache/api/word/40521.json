@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072c\u072a\u0721\u071b",
+        "western": "\u072c\u072a\u0721\u071b",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15298,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15298.json"
+        },
+        "stem": "\u072c\u072a\u0721\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to dawdle.",
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0730\u072a\u0721\u0730\u071b</span> to fail mentally",
+                "to lose one\u2019s reason"
+            ]
+        },
+        "word": {
+            "id": 40521,
+            "uri": "https://sedra.bethmardutho.org/api/word/40521.json"
+        }
+    }
+]

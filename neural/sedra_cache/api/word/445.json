@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u071a\u071d\u0722\u071d",
+        "western": "\u0710\u0331\u071a\u071d\u0733\u0722\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 13559,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13559.json"
+        },
+        "stem": "\u0710\u071a\u071d\u0722\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "kinswoman",
+                "related, akin to.",
+                "cousin",
+                "relative",
+                "kinsman"
+            ]
+        },
+        "word": {
+            "id": 445,
+            "uri": "https://sedra.bethmardutho.org/api/word/445.json"
+        }
+    }
+]

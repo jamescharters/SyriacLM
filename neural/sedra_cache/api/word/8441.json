@@ -1,0 +1,57 @@
+[
+    {
+        "syriac": "\u071d\u0718\u0712\u0720\u0710",
+        "western": "\u071d\u073d\u0718\u0712\u0741\u0733\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1293,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1293.json"
+        },
+        "stem": "\u071d\u0718\u0712\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u062a\u0627\u0628\u0639",
+                "\u062c\u0631\u064a",
+                "\u0639\u0635\u0631",
+                "\u0648\u0644\u0627\u062f\u0629",
+                "\u062c\u064a\u0644",
+                "\u0623\u0635\u0644",
+                "\u0646\u0634\u0631",
+                "\u062a\u0642\u0644\u064a\u062f",
+                "\u062a\u0631\u062c\u0645\u0629"
+            ],
+            "eng": [
+                "succession, series",
+                "progeny",
+                "chronological order",
+                "course",
+                "tradition, transmission, translation",
+                "succession",
+                "procreation.",
+                "succession"
+            ],
+            "fre": [
+                "propagation",
+                "traduction",
+                "procr\u00e9ation",
+                "g\u00e9n\u00e9ration",
+                "\u00e9poque",
+                "tradition",
+                "cours",
+                "origine",
+                "succession"
+            ]
+        },
+        "word": {
+            "id": 8441,
+            "uri": "https://sedra.bethmardutho.org/api/word/8441.json"
+        }
+    }
+]

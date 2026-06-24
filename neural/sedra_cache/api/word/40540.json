@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0720\u071f\u071a",
+        "western": "\u0720\u071f\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15365,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15365.json"
+        },
+        "stem": "\u0720\u071f\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0642\u0641, \u0644\u062d\u0633"
+            ],
+            "eng": [
+                "IIa to lick, lick up, suck (of bee).",
+                "Ia to lick, lick up"
+            ],
+            "fre": [
+                "laper, lecher"
+            ]
+        },
+        "word": {
+            "id": 40540,
+            "uri": "https://sedra.bethmardutho.org/api/word/40540.json"
+        }
+    }
+]

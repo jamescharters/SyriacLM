@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0721\u0715\u0712\u072a\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0715\u0742\u0730\u0712\u0741\u072a\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 652,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/652.json"
+        },
+        "stem": "\u0721\u0715\u0712\u072a\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u064a\u0634\u0629",
+                "\u062d\u0648\u0627\u062f\u062b, \u0623\u0639\u0645\u0627\u0644",
+                "\u0627\u0644\u062a\u062f\u0628\u064a\u0631 \u0627\u0644\u0625\u0644\u0647\u064a",
+                "\u0633\u0639\u0627\u062f\u0629 (\u0644\u0642\u0628)",
+                "\u0642\u064a\u0627\u062f\u0629, \u062a\u062f\u0628\u064a\u0631, \u0633\u0644\u0637\u0629"
+            ],
+            "eng": [
+                "dispensation",
+                "providence, divine dispensation, economy",
+                "guidance, direction, rule, leadership, government",
+                "Kth. administration, management.",
+                "administration",
+                "rule",
+                "direction"
+            ],
+            "fre": [
+                "vie",
+                "faits , actions",
+                "l&#39;\u00c9conomie divine",
+                "Excellence (title)",
+                "gouvernement, administration , pouvoir"
+            ]
+        },
+        "word": {
+            "id": 4137,
+            "uri": "https://sedra.bethmardutho.org/api/word/4137.json"
+        }
+    }
+]

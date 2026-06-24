@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15453,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15453.json"
+        },
+        "syriac": "\u071a\u0712\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0632\u062c, \u062e\u0644\u0637",
+                "\u062c\u0645\u0639",
+                "\u00a0",
+                "\u00a0"
+            ],
+            "French": [
+                "m\u00ealer, confondre",
+                "unir",
+                "\u00a0",
+                "\u00a0"
+            ],
+            "English": [
+                "Ip",
+                "IIp.",
+                "Ia to mix, mingle, blend",
+                "IIa to intermix, amalgamate, confuse",
+                "confuse, confound"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2517,
+            "uri": "https://sedra.bethmardutho.org/api/root/2517.json"
+        },
+        "words": [
+            {
+                "id": 41708,
+                "uri": "https://sedra.bethmardutho.org/api/word/41708.json"
+            },
+            {
+                "id": 40199,
+                "uri": "https://sedra.bethmardutho.org/api/word/40199.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

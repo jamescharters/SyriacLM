@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u0712\u072b\u0720",
+        "western": "\u0722\u0736\u0712\u072b\u0730\u0720",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15503,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15503.json"
+        },
+        "stem": "\u0712\u072b\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0636\u062c, \u0643\u0627\u0646 \u0646\u0627\u0636\u062c\u0627\u064e"
+            ],
+            "eng": [
+                "to boil",
+                "to cook, boil",
+                "to be digested.",
+                "IIa to make ripe",
+                "Ia to ripen",
+                "IIp to ripen"
+            ],
+            "fre": [
+                "m\u00fbrir, \u00eatre m\u00fbr"
+            ]
+        },
+        "word": {
+            "id": 41653,
+            "uri": "https://sedra.bethmardutho.org/api/word/41653.json"
+        }
+    }
+]

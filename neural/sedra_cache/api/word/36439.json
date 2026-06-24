@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072c\u071f\u072c\u072b\u0722\u0710",
+        "western": "\u0721\u0736\u072c\u071f\u0730\u072c\u072b\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11706,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11706.json"
+        },
+        "stem": "\u0721\u072c\u071f\u072c\u072b\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u0627\u0631\u0628, \u0645\u0635\u0627\u0631\u0639"
+            ],
+            "eng": [
+                "combatant, fighter, warrior, opponent."
+            ],
+            "fre": [
+                "combatant, athl\u00e8te"
+            ]
+        },
+        "word": {
+            "id": 36439,
+            "uri": "https://sedra.bethmardutho.org/api/word/36439.json"
+        }
+    }
+]

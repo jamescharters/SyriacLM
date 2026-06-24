@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1051,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1051.json"
+        },
+        "syriac": "\u071a\u0720\u0721\u0710",
+        "glosses": {
+            "English": [
+                "dream",
+                "dream."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 633,
+            "uri": "https://sedra.bethmardutho.org/api/root/633.json"
+        },
+        "words": [
+            {
+                "id": 7114,
+                "uri": "https://sedra.bethmardutho.org/api/word/7114.json"
+            },
+            {
+                "id": 7112,
+                "uri": "https://sedra.bethmardutho.org/api/word/7112.json"
+            },
+            {
+                "id": 7110,
+                "uri": "https://sedra.bethmardutho.org/api/word/7110.json"
+            },
+            {
+                "id": 7113,
+                "uri": "https://sedra.bethmardutho.org/api/word/7113.json"
+            },
+            {
+                "id": 7111,
+                "uri": "https://sedra.bethmardutho.org/api/word/7111.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

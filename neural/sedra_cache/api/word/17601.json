@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u0728\u0726\u071a",
+        "western": "\u0722\u0736\u0728\u0726\u0741\u0730\u071a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2709,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2709.json"
+        },
+        "stem": "\u0728\u0726\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062f\u062b"
+            ],
+            "eng": [
+                "IIIp to be caught up suddenly.",
+                "IIIa to catch (in a net)",
+                "Ia, IIa to close suddenly",
+                "fall upon",
+                "suprise",
+                "to fall upon, to surprise"
+            ],
+            "fre": [
+                "arriver"
+            ]
+        },
+        "word": {
+            "id": 17601,
+            "uri": "https://sedra.bethmardutho.org/api/word/17601.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u071a\u072b",
+        "western": "\u0720\u071a\u0730\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1666,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1666.json"
+        },
+        "stem": "\u0720\u071a\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to murmur, whisper, speak low",
+                "Ip to be told secretly, in low voice",
+                "IIa to murmur softly, whisper",
+                "to mutter incantations",
+                "= IIp.",
+                "mutter",
+                "murmur"
+            ]
+        },
+        "word": {
+            "id": 11038,
+            "uri": "https://sedra.bethmardutho.org/api/word/11038.json"
+        }
+    }
+]

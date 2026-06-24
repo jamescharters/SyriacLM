@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2848,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2848.json"
+        },
+        "syriac": "\u0729\u0722\u071f\u072a\u0710\u0723",
+        "glosses": {
+            "English": [
+                "Cenchrea"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1686,
+            "uri": "https://sedra.bethmardutho.org/api/root/1686.json"
+        },
+        "words": [
+            {
+                "id": 18480,
+                "uri": "https://sedra.bethmardutho.org/api/word/18480.json"
+            },
+            {
+                "id": 18479,
+                "uri": "https://sedra.bethmardutho.org/api/word/18479.json"
+            },
+            {
+                "id": 18478,
+                "uri": "https://sedra.bethmardutho.org/api/word/18478.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

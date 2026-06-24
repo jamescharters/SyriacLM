@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u072b\u0720\u0721\u071d\u0710",
+        "western": "\u0710\u0718\u073d\u072a\u073a\u072b\u0720\u0736\u0721\u0733\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 33507,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33507.json"
+        },
+        "stem": "\u0710\u0718\u072a\u072b\u0720\u0721\u071d\u0710",
+        "category": "demonym",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Inhabitant of Jerusalem",
+                "Jerusalemite"
+            ],
+            "lat": [
+                "Hierosolymitanus"
+            ]
+        },
+        "word": {
+            "id": 59862,
+            "uri": "https://sedra.bethmardutho.org/api/word/59862.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u071f\u071d\u0722",
+        "western": "\u0710\u0730\u071f\u0742\u073a\u071d\u0722",
+        "eastern": "\u0710\u0732\u071f\u0307\u071d\u073c\u0722",
+        "lexeme": {
+            "id": 110,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/110.json"
+        },
+        "stem": "\u0710\u071f\u071d\u0722",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0644\u0642, \u0643\u0648\u0646",
+                "\u00a0"
+            ],
+            "eng": [
+                "Achim"
+            ],
+            "fre": [
+                "cr\u00e9er, constituer",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 784,
+            "uri": "https://sedra.bethmardutho.org/api/word/784.json"
+        }
+    }
+]

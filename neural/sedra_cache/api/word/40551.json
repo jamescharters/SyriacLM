@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0726\u0723\u0729\u0726",
+        "western": "\u0726\u0723\u0729\u0726",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15002,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15002.json"
+        },
+        "stem": "\u0726\u0723\u0729\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0726\u0730\u0723\u0729\u0730\u0726</span> to be made bishop."
+            ]
+        },
+        "word": {
+            "id": 40551,
+            "uri": "https://sedra.bethmardutho.org/api/word/40551.json"
+        }
+    }
+]

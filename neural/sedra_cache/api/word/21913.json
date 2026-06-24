@@ -1,0 +1,85 @@
+[
+    {
+        "syriac": "\u0710\u072b\u072c\u0729\u0720",
+        "western": "\u0710\u0736\u072b\u072c\u0741\u0730\u0729\u0331\u0720",
+        "tense": "imperative",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3303,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3303.json"
+        },
+        "stem": "\u072b\u0729\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0636\u0649",
+                "\u0623\u062e\u0630",
+                "\u0631\u0641\u0639, \u0623\u0635\u0639\u062f",
+                "\u0627\u0633\u062a\u0623\u062c\u0631",
+                "\u062a\u0632\u0648\u062c (\u0631\u062c\u0644)",
+                "\u062d\u0645\u0644 (\u0645\u0636-\u062f\u0627\u0628\u0629)",
+                "\u062a\u0644\u0642\u0649",
+                "\u0646\u0632\u0639",
+                "\u0623\u0628\u0637\u0644",
+                "\u0623\u0628\u0639\u062f",
+                "\u0641\u0631\u0642 (\u0645\u0636)",
+                "\u0628\u062f\u0623 (\u0628\u0627\u0644\u0644\u062d\u0646)",
+                "\u062d\u0645\u0644",
+                "\u0630\u0647\u0628 \u0628\u0640",
+                "\u0631\u062c\u0639 (\u0645\u0636)",
+                "\u062d\u0631\u0643 (\u0645\u0636)",
+                "\u0647\u0630\u0628 (\u0645\u0636)",
+                "\u062a\u062d\u0631\u0643",
+                "\u0627\u0628\u062a\u062f\u0623"
+            ],
+            "eng": [
+                "to migrate, to immigrate.",
+                "+ <span class=\"selectableFont\">\u071b\u0730\u0725\u0722\u0733\u0710</span> to take trouble, to undertake",
+                "Ia to lift",
+                "to be captured (of town)",
+                "to prevail over",
+                "to be abolished",
+                "IIp to be exalted",
+                "IIIa to set off, depart",
+                "take up",
+                "bear",
+                "IIa to raise, carry, sustain",
+                "to remove",
+                "to carry, take, receive",
+                "Ip to be lifted up, taken up"
+            ],
+            "fre": [
+                "louer",
+                "entonner",
+                "s\u00e9parer",
+                "porter",
+                "recevoir",
+                "emporter",
+                "rapporter",
+                "remuer",
+                "\u00e9duquer",
+                "se mouvoir",
+                "prendre",
+                "partir",
+                "soulever, lever",
+                "enlever",
+                "commencer",
+                "charger (une b\u00eate)",
+                "abolir",
+                "\u00e9pouser (homme)",
+                "\u00e9loigner"
+            ]
+        },
+        "word": {
+            "id": 21913,
+            "uri": "https://sedra.bethmardutho.org/api/word/21913.json"
+        }
+    }
+]

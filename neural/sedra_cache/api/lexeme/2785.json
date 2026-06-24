@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2785,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2785.json"
+        },
+        "syriac": "\u0729\u0718\u072a\u0722\u071d\u0720\u071d\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Cornelius"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1643,
+            "uri": "https://sedra.bethmardutho.org/api/root/1643.json"
+        },
+        "words": [
+            {
+                "id": 18173,
+                "uri": "https://sedra.bethmardutho.org/api/word/18173.json"
+            },
+            {
+                "id": 18172,
+                "uri": "https://sedra.bethmardutho.org/api/word/18172.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

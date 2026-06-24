@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2641,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2641.json"
+        },
+        "syriac": "\u0726\u072c\u071d\u0710",
+        "glosses": {
+            "English": [
+                "breadth",
+                "breadth",
+                "latitude."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1564,
+            "uri": "https://sedra.bethmardutho.org/api/root/1564.json"
+        },
+        "words": [
+            {
+                "id": 17154,
+                "uri": "https://sedra.bethmardutho.org/api/word/17154.json"
+            },
+            {
+                "id": 17157,
+                "uri": "https://sedra.bethmardutho.org/api/word/17157.json"
+            },
+            {
+                "id": 17155,
+                "uri": "https://sedra.bethmardutho.org/api/word/17155.json"
+            },
+            {
+                "id": 17156,
+                "uri": "https://sedra.bethmardutho.org/api/word/17156.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

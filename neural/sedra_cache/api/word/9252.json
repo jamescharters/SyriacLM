@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0710\u071d\u0722\u0729\u0718\u071f",
+        "western": "\u0715\u0741\u0730\u0710\u071d\u0722\u0729\u073d\u0718\u071f\u0742",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1393,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1393.json"
+        },
+        "stem": "\u071d\u0722\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to give suck",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071d\u0722\u0736\u0729</span> to suckle, give suck.",
+                "Ip to be suckled",
+                "suck",
+                "give suck",
+                "Ia to suck"
+            ]
+        },
+        "word": {
+            "id": 9252,
+            "uri": "https://sedra.bethmardutho.org/api/word/9252.json"
+        }
+    }
+]

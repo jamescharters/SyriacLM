@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u0718\u072c\u072a\u0710",
+        "western": "\u0723\u073d\u0718\u072c\u0733\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10753.json"
+        },
+        "stem": "\u0723\u0718\u072c\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0644\u0627\u0629 \u0627\u0644\u0633\u062a\u0627\u0631"
+            ],
+            "eng": [
+                "Compline.",
+                "covering, protection"
+            ],
+            "fre": [
+                "Complies"
+            ]
+        },
+        "word": {
+            "id": 31692,
+            "uri": "https://sedra.bethmardutho.org/api/word/31692.json"
+        }
+    }
+]

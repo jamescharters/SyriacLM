@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u0713\u0718\u0715\u0710",
+        "western": "\u0725\u0730\u0713\u073d\u0718\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8059,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8059.json"
+        },
+        "stem": "\u0725\u0713\u0718\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u062f\u0631"
+            ],
+            "eng": [
+                "benumbed, stupefied."
+            ],
+            "fre": [
+                "engourdi"
+            ]
+        },
+        "word": {
+            "id": 37690,
+            "uri": "https://sedra.bethmardutho.org/api/word/37690.json"
+        }
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "lexeme": {
+            "id": 1005,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1005.json"
+        },
+        "syriac": "\u071a\u0719\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062d\u062f\u0642 \u0628\u0640 , \u0623\u062d\u0627\u0637 \u0628\u0640",
+                "\u062c\u0647\u0632 (\u0645\u0636)",
+                "\u062d\u0635\u0646 (\u0645\u0636)",
+                "\u0645\u0633\u0643",
+                "\u0633\u0646\u062f",
+                "(\u062d\u0632\u0645, \u0645\u0646 \u062b\u0645 ) \u0627\u0646\u0637\u0644\u0642",
+                "\u00a0"
+            ],
+            "French": [
+                "ceindre de , entourer de",
+                "munir de",
+                "fortifier",
+                "tenir",
+                "soutenir",
+                "( sangler , d&#39;o\u00f9) partir",
+                "\u00a0"
+            ],
+            "English": [
+                "gird",
+                "journey",
+                "to send (on a journey)",
+                "IIa to gird around",
+                "to go on a journey, proceed, travel, depart",
+                "to arm",
+                "to strengthen",
+                "IIp to gird oneself, to be armed, to be ready.",
+                "Ia to gird, gird up"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 615,
+            "uri": "https://sedra.bethmardutho.org/api/root/615.json"
+        },
+        "words": [
+            {
+                "id": 24750,
+                "uri": "https://sedra.bethmardutho.org/api/word/24750.json"
+            },
+            {
+                "id": 24749,
+                "uri": "https://sedra.bethmardutho.org/api/word/24749.json"
+            },
+            {
+                "id": 6719,
+                "uri": "https://sedra.bethmardutho.org/api/word/6719.json"
+            },
+            {
+                "id": 6718,
+                "uri": "https://sedra.bethmardutho.org/api/word/6718.json"
+            },
+            {
+                "id": 6717,
+                "uri": "https://sedra.bethmardutho.org/api/word/6717.json"
+            },
+            {
+                "id": 6716,
+                "uri": "https://sedra.bethmardutho.org/api/word/6716.json"
+            },
+            {
+                "id": 6715,
+                "uri": "https://sedra.bethmardutho.org/api/word/6715.json"
+            },
+            {
+                "id": 24752,
+                "uri": "https://sedra.bethmardutho.org/api/word/24752.json"
+            },
+            {
+                "id": 24751,
+                "uri": "https://sedra.bethmardutho.org/api/word/24751.json"
+            },
+            {
+                "id": 6723,
+                "uri": "https://sedra.bethmardutho.org/api/word/6723.json"
+            },
+            {
+                "id": 6722,
+                "uri": "https://sedra.bethmardutho.org/api/word/6722.json"
+            },
+            {
+                "id": 6721,
+                "uri": "https://sedra.bethmardutho.org/api/word/6721.json"
+            },
+            {
+                "id": 6720,
+                "uri": "https://sedra.bethmardutho.org/api/word/6720.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

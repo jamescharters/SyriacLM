@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2138,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2138.json"
+        },
+        "syriac": "\u0723\u0720\u0718\u0722\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Silvanus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1275,
+            "uri": "https://sedra.bethmardutho.org/api/root/1275.json"
+        },
+        "words": [
+            {
+                "id": 14247,
+                "uri": "https://sedra.bethmardutho.org/api/word/14247.json"
+            },
+            {
+                "id": 14246,
+                "uri": "https://sedra.bethmardutho.org/api/word/14246.json"
+            },
+            {
+                "id": 14248,
+                "uri": "https://sedra.bethmardutho.org/api/word/14248.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

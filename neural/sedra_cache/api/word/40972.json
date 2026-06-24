@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0715\u0729",
+        "western": "\u0715\u0733\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15686,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15686.json"
+        },
+        "stem": "\u0715\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0638\u0647\u0631, \u062e\u0631\u062c"
+            ],
+            "eng": [
+                "to observe",
+                "Ia to gaze (from afar)",
+                "IIa <span class=\"selectableFont\">\u0715\u0730\u071d\u0736\u0729</span> to regard",
+                "<span class=\"selectableFont\">\u0721\u0715\u0733\u0729</span> competent",
+                "<span class=\"selectableFont\">\u0721\u0715\u0733\u0729 \u0720\u073a\u071d</span> I know.",
+                "to come to light, appear",
+                "to indicate",
+                "IIIa to look out"
+            ],
+            "fre": [
+                "appara\u00eetre, sortir"
+            ]
+        },
+        "word": {
+            "id": 40972,
+            "uri": "https://sedra.bethmardutho.org/api/word/40972.json"
+        }
+    }
+]

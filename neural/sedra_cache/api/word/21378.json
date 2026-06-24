@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0721\u072b\u0721\u0725\u0710",
+        "western": "\u0721\u0730\u072b\u0721\u0725\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3243,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3243.json"
+        },
+        "stem": "\u0721\u072b\u0721\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hearing",
+                "obedience",
+                "hearing, obedience."
+            ]
+        },
+        "word": {
+            "id": 21378,
+            "uri": "https://sedra.bethmardutho.org/api/word/21378.json"
+        }
+    }
+]

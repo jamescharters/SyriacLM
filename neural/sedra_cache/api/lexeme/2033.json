@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2033,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2033.json"
+        },
+        "syriac": "\u0722\u072a\u0729\u0723\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Narcissus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1214,
+            "uri": "https://sedra.bethmardutho.org/api/root/1214.json"
+        },
+        "words": [
+            {
+                "id": 13410,
+                "uri": "https://sedra.bethmardutho.org/api/word/13410.json"
+            },
+            {
+                "id": 13409,
+                "uri": "https://sedra.bethmardutho.org/api/word/13409.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

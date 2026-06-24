@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071b\u071a\u071b\u071a",
+        "western": "\u071b\u071a\u071b\u071a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15015,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15015.json"
+        },
+        "stem": "\u071b\u071a\u071b\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u071b\u0730\u071a\u071b\u0730\u071a</span> to be troubled, confused."
+            ]
+        },
+        "word": {
+            "id": 40148,
+            "uri": "https://sedra.bethmardutho.org/api/word/40148.json"
+        }
+    }
+]

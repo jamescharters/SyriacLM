@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u0715\u0713\u0718\u072a",
+        "western": "\u0722\u0736\u0715\u0713\u073d\u0718\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15435,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15435.json"
+        },
+        "stem": "\u0715\u0713\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa.",
+                "Ia to stab"
+            ]
+        },
+        "word": {
+            "id": 42164,
+            "uri": "https://sedra.bethmardutho.org/api/word/42164.json"
+        }
+    }
+]

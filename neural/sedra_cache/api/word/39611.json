@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071d\u0718\u0712\u0712\u0710",
+        "western": "\u071d\u073d\u0718\u0712\u0733\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11639,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11639.json"
+        },
+        "stem": "\u071d\u0718\u0712\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0631\u0627\u062e",
+                "\u0631\u0646\u064a\u0646"
+            ],
+            "eng": [
+                "shouting, shout of joy",
+                "blare (of trumpet)."
+            ],
+            "fre": [
+                "cris",
+                "son"
+            ]
+        },
+        "word": {
+            "id": 39611,
+            "uri": "https://sedra.bethmardutho.org/api/word/39611.json"
+        }
+    }
+]

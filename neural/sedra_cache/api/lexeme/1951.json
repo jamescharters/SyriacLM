@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1951,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1951.json"
+        },
+        "syriac": "\u0721\u071b\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u0633",
+                "\u0647\u062c\u064a\u0639"
+            ],
+            "French": [
+                "garde (f.)",
+                "veille"
+            ],
+            "English": [
+                "watch",
+                "watch (of night), guard, post, station."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1166,
+            "uri": "https://sedra.bethmardutho.org/api/root/1166.json"
+        },
+        "words": [
+            {
+                "id": 12764,
+                "uri": "https://sedra.bethmardutho.org/api/word/12764.json"
+            },
+            {
+                "id": 12763,
+                "uri": "https://sedra.bethmardutho.org/api/word/12763.json"
+            },
+            {
+                "id": 12765,
+                "uri": "https://sedra.bethmardutho.org/api/word/12765.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

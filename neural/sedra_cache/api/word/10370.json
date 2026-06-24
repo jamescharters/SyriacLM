@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u071f\u072a\u071d\u0710",
+        "western": "\u071f\u0741\u0733\u072a\u071d\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1576,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1576.json"
+        },
+        "stem": "\u071f\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0635\u0631"
+            ],
+            "eng": [
+                "IIp to be shortened",
+                "to be despondent",
+                "make sorry",
+                "shorten",
+                "IIIa to make short",
+                "sorrow",
+                "Ia to be short",
+                "to dig deep",
+                "-<span class=\"selectableFont\">\u071f\u0736\u072a\u071d\u0730\u072c \u0720\u200d\u200d</span> to be sad, sorry",
+                "to sadden.",
+                "IIa to shorten",
+                "Ip to be cut short, made brief",
+                "to dig deep"
+            ],
+            "fre": [
+                "\u00eatre ou devenir court"
+            ]
+        },
+        "word": {
+            "id": 10370,
+            "uri": "https://sedra.bethmardutho.org/api/word/10370.json"
+        }
+    }
+]

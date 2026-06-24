@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0717\u0726\u072a",
+        "western": "\u0717\u0726\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15575,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15575.json"
+        },
+        "stem": "\u0717\u0726\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0631\u062b\u0631"
+            ],
+            "eng": [
+                "Ia to chatter, babble."
+            ],
+            "fre": [
+                "bavarder"
+            ]
+        },
+        "word": {
+            "id": 40626,
+            "uri": "https://sedra.bethmardutho.org/api/word/40626.json"
+        }
+    }
+]

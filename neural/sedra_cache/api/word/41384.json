@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0720\u0729\u072b",
+        "western": "\u0729\u0730\u0720\u0729\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14780,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14780.json"
+        },
+        "stem": "\u0729\u0720\u0729\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to strike, sound a bell."
+            ]
+        },
+        "word": {
+            "id": 41384,
+            "uri": "https://sedra.bethmardutho.org/api/word/41384.json"
+        }
+    }
+]

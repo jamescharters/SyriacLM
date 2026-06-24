@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 3431,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3431.json"
+        },
+        "syriac": "\u072c\u0718\u0729\u0726\u0710",
+        "glosses": {
+            "English": [
+                "power",
+                "strength",
+                "stronghold.",
+                "force, strength"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1991,
+            "uri": "https://sedra.bethmardutho.org/api/root/1991.json"
+        },
+        "words": [
+            {
+                "id": 22647,
+                "uri": "https://sedra.bethmardutho.org/api/word/22647.json"
+            },
+            {
+                "id": 22646,
+                "uri": "https://sedra.bethmardutho.org/api/word/22646.json"
+            },
+            {
+                "id": 22648,
+                "uri": "https://sedra.bethmardutho.org/api/word/22648.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

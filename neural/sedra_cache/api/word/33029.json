@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072b\u0715\u071d\u0710",
+        "western": "\u072b\u0730\u0715\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6231.json"
+        },
+        "stem": "\u072b\u0715\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0641\u0627\u0631\u0629"
+            ],
+            "eng": [
+                "thrower",
+                "(monastic) cloak."
+            ],
+            "fre": [
+                "chape"
+            ]
+        },
+        "word": {
+            "id": 33029,
+            "uri": "https://sedra.bethmardutho.org/api/word/33029.json"
+        }
+    }
+]

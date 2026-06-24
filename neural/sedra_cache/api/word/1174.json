@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0721\u0722",
+        "western": "\u0710\u0736\u0721\u0730\u0722",
+        "eastern": "\u0710\u0738\u0721\u0732\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3558,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3558.json"
+        },
+        "stem": "\u0710\u0721\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be constant",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0736\u0710\u0721\u0736\u0722</span> to persevere, continue in.",
+                "be firm"
+            ]
+        },
+        "word": {
+            "id": 1174,
+            "uri": "https://sedra.bethmardutho.org/api/word/1174.json"
+        }
+    }
+]

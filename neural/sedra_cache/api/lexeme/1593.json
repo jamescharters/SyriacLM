@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1593,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1593.json"
+        },
+        "syriac": "\u071f\u072a\u071f\u0710",
+        "glosses": {
+            "English": [
+                "walled town.",
+                "city",
+                "town"
+            ],
+            "Arabic": [
+                "\u062d\u0635\u0646",
+                "\u0645\u062f\u064a\u0646\u0629"
+            ],
+            "French": [
+                "place forte",
+                "ville"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 933,
+            "uri": "https://sedra.bethmardutho.org/api/root/933.json"
+        },
+        "words": [
+            {
+                "id": 10523,
+                "uri": "https://sedra.bethmardutho.org/api/word/10523.json"
+            },
+            {
+                "id": 10524,
+                "uri": "https://sedra.bethmardutho.org/api/word/10524.json"
+            },
+            {
+                "id": 10522,
+                "uri": "https://sedra.bethmardutho.org/api/word/10522.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

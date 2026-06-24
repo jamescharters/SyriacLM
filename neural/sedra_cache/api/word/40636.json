@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u072b\u0721\u072a",
+        "western": "\u072b\u0730\u0721\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15110,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15110.json"
+        },
+        "stem": "\u072b\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0641\u0638",
+                "\u0631\u0633\u0644, \u0623\u0644\u0642\u0649",
+                "\u062d\u062b",
+                "\u0623\u0633\u0627\u0644",
+                "\u0623\u0631\u062e\u0649 (\u0644\u0633\u0627\u0646\u0647)",
+                "\u0637\u0644\u0642, \u0637\u0631\u062d",
+                "\u062f\u0642\u0642, \u0641\u062a\u062a"
+            ],
+            "eng": [
+                "IIp to be dismissed, discharged, let go",
+                "to dismiss",
+                "to send forth, dispatch",
+                "IIa to discharge, let go",
+                "Gram. to occur."
+            ],
+            "fre": [
+                "envoyer, lancer",
+                "faire aller (sa langue)",
+                "prononcer",
+                "exciter",
+                "faire couler",
+                "renvoyer, rejeter",
+                "pulv\u00e9riser"
+            ]
+        },
+        "word": {
+            "id": 40636,
+            "uri": "https://sedra.bethmardutho.org/api/word/40636.json"
+        }
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2084,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2084.json"
+        },
+        "syriac": "\u0723\u0718\u071d\u0712\u0710",
+        "glosses": {
+            "English": [
+                "abomination",
+                "pollution",
+                "defilement."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1243,
+            "uri": "https://sedra.bethmardutho.org/api/root/1243.json"
+        },
+        "words": [
+            {
+                "id": 29597,
+                "uri": "https://sedra.bethmardutho.org/api/word/29597.json"
+            },
+            {
+                "id": 13908,
+                "uri": "https://sedra.bethmardutho.org/api/word/13908.json"
+            },
+            {
+                "id": 13910,
+                "uri": "https://sedra.bethmardutho.org/api/word/13910.json"
+            },
+            {
+                "id": 13909,
+                "uri": "https://sedra.bethmardutho.org/api/word/13909.json"
+            },
+            {
+                "id": 13907,
+                "uri": "https://sedra.bethmardutho.org/api/word/13907.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 3385,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3385.json"
+        },
+        "syriac": "\u072c\u071a\u072c\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0641\u0636",
+                "\u0630\u0644\u0644",
+                "\u0623\u062e\u0636\u0639"
+            ],
+            "French": [
+                "abaisser",
+                "humilier",
+                "soumettre"
+            ],
+            "English": [
+                "low",
+                "to humble",
+                "IVp.",
+                "to subdue",
+                "IVa to bring low",
+                "to abase"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1966,
+            "uri": "https://sedra.bethmardutho.org/api/root/1966.json"
+        },
+        "words": [
+            {
+                "id": 22463,
+                "uri": "https://sedra.bethmardutho.org/api/word/22463.json"
+            },
+            {
+                "id": 22462,
+                "uri": "https://sedra.bethmardutho.org/api/word/22462.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 187,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/187.json"
+        },
+        "syriac": "\u0710\u0722\u071b\u071d\u0718\u071f\u071d",
+        "glosses": {
+            "English": [
+                "Antioch of Pisidia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 138,
+            "uri": "https://sedra.bethmardutho.org/api/root/138.json"
+        },
+        "words": [
+            {
+                "id": 1404,
+                "uri": "https://sedra.bethmardutho.org/api/word/1404.json"
+            },
+            {
+                "id": 1403,
+                "uri": "https://sedra.bethmardutho.org/api/word/1403.json"
+            },
+            {
+                "id": 1402,
+                "uri": "https://sedra.bethmardutho.org/api/word/1402.json"
+            },
+            {
+                "id": 1401,
+                "uri": "https://sedra.bethmardutho.org/api/word/1401.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

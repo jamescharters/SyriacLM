@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0715\u0710\u071f\u0720\u0729\u072a\u0728\u0710",
+        "western": "\u0715\u0741\u0733\u0710\u071f\u0742\u0736\u0720\u0729\u0730\u072a\u0728\u0733\u0710",
+        "state": "construct",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 113,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/113.json"
+        },
+        "stem": "\u0710\u071f\u0720 \u0729\u072a\u0728\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0644\u0634\u064a\u0637\u0627\u0646",
+                "\u0648\u0627\u0634"
+            ],
+            "eng": [
+                "accuser, the devil.",
+                "calumniator",
+                "accuser"
+            ],
+            "fre": [
+                "le d\u00e9mon",
+                "accusateur"
+            ]
+        },
+        "word": {
+            "id": 812,
+            "uri": "https://sedra.bethmardutho.org/api/word/812.json"
+        }
+    }
+]

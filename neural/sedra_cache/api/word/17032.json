@@ -1,0 +1,59 @@
+[
+    {
+        "syriac": "\u0726\u0718\u072a\u072b\u0722\u0710",
+        "western": "\u0726\u0741\u073d\u0718\u072a\u072b\u0733\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2615,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2615.json"
+        },
+        "stem": "\u0726\u0718\u072a\u072b\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0646\u0637\u0644\u0627\u0642, \u0645\u0648\u062a",
+                "\u0634\u064a\u0621 \u0645\u0646\u0630\u0648\u0631, \u062a\u0642\u062f\u0645\u0629, \u0642\u0631\u0628\u0627\u0646\u0629, \u062e\u0628\u0632 \u0642\u0631\u0628\u0627\u0646\u064a, \u0630\u0628\u064a\u062d\u0629",
+                "\u062c\u0648\u062f\u0629, \u062a\u0641\u0648\u0642",
+                "\u0644\u0641\u0638, \u0625\u0635\u062f\u0627\u0631",
+                "\u062a\u062d\u062f\u064a\u062f",
+                "\u0646\u0648\u0639, \u0634\u0643\u0644",
+                "\u062a\u0645\u064a\u0632, \u0641\u0631\u0642",
+                "\u0637\u0644\u0627\u0642",
+                "\u062a\u0648\u0632\u064a\u0639",
+                "\u0627\u0641\u062a\u0631\u0627\u0642"
+            ],
+            "eng": [
+                "discrimination",
+                "something set apart, offering.",
+                "pronunciation",
+                "separation",
+                "discernment",
+                "distinction, difference",
+                "separation",
+                "difference"
+            ],
+            "fre": [
+                "distribution",
+                "d\u00e9finition",
+                "esp\u00e8ce, mani\u00e8re",
+                "distinction, diff\u00e9rence",
+                "divorce",
+                "prononciation, \u00e9mission",
+                "d\u00e9part, mort",
+                "s\u00e9paration",
+                "chose vou\u00e9e, offrande, hostie, pain eucharistique, sacrifice",
+                "excellence, \u00e9minence"
+            ]
+        },
+        "word": {
+            "id": 17032,
+            "uri": "https://sedra.bethmardutho.org/api/word/17032.json"
+        }
+    }
+]

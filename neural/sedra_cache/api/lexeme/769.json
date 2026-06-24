@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 769,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/769.json"
+        },
+        "syriac": "\u0717\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0632\u0647\u0631",
+                "\u0647\u0644\u0645 ! \u062a\u0634\u062c\u0639 !"
+            ],
+            "French": [
+                "fleurir",
+                "allons ! courage !"
+            ],
+            "English": [
+                "bloom",
+                "shine"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 484,
+            "uri": "https://sedra.bethmardutho.org/api/root/484.json"
+        },
+        "words": [
+            {
+                "id": 4913,
+                "uri": "https://sedra.bethmardutho.org/api/word/4913.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

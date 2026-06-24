@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0717\u0718\u071d",
+        "western": "\u0717\u0733\u0718\u0733\u071d",
+        "number": "singular",
+        "lexeme": {
+            "id": 5104,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5104.json"
+        },
+        "stem": "\u0717\u0718\u071d",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0622\u0647 ! \u0648\u064a\u0644!",
+                "\u0647\u0644\u0645 !"
+            ],
+            "eng": [
+                "alas!"
+            ],
+            "fre": [
+                "h\u00e9las ! malheur!",
+                "allons!"
+            ]
+        },
+        "word": {
+            "id": 29761,
+            "uri": "https://sedra.bethmardutho.org/api/word/29761.json"
+        }
+    }
+]

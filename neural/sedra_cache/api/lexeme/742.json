@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 742,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/742.json"
+        },
+        "syriac": "\u0715\u0726\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0641\u0642\u0629"
+            ],
+            "French": [
+                "d\u00e9pense"
+            ],
+            "English": [
+                "side",
+                "side."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 468,
+            "uri": "https://sedra.bethmardutho.org/api/root/468.json"
+        },
+        "words": [
+            {
+                "id": 4809,
+                "uri": "https://sedra.bethmardutho.org/api/word/4809.json"
+            },
+            {
+                "id": 29633,
+                "uri": "https://sedra.bethmardutho.org/api/word/29633.json"
+            },
+            {
+                "id": 42243,
+                "uri": "https://sedra.bethmardutho.org/api/word/42243.json"
+            },
+            {
+                "id": 4808,
+                "uri": "https://sedra.bethmardutho.org/api/word/4808.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

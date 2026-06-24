@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0725",
+        "western": "\u0723\u072a\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15544,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15544.json"
+        },
+        "stem": "\u0723\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639",
+                "\u0645\u062f"
+            ],
+            "eng": [
+                "to extend",
+                "Ia to cut",
+                "Ip."
+            ],
+            "fre": [
+                "couper",
+                "\u00e9tendre"
+            ]
+        },
+        "word": {
+            "id": 40437,
+            "uri": "https://sedra.bethmardutho.org/api/word/40437.json"
+        }
+    }
+]

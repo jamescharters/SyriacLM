@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1719,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1719.json"
+        },
+        "syriac": "\u0721\u0718\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062e",
+                "\u0642\u062d\u0641"
+            ],
+            "French": [
+                "mo\u00eblle",
+                "cr\u00e2ne"
+            ],
+            "English": [
+                "marrow",
+                "marrow (of bone).",
+                "brain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1028,
+            "uri": "https://sedra.bethmardutho.org/api/root/1028.json"
+        },
+        "words": [
+            {
+                "id": 11249,
+                "uri": "https://sedra.bethmardutho.org/api/word/11249.json"
+            },
+            {
+                "id": 11250,
+                "uri": "https://sedra.bethmardutho.org/api/word/11250.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1829,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1829.json"
+        },
+        "syriac": "\u0721\u0728\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Egyptian",
+                "Egyptian."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1096,
+            "uri": "https://sedra.bethmardutho.org/api/root/1096.json"
+        },
+        "words": [
+            {
+                "id": 12116,
+                "uri": "https://sedra.bethmardutho.org/api/word/12116.json"
+            },
+            {
+                "id": 12115,
+                "uri": "https://sedra.bethmardutho.org/api/word/12115.json"
+            },
+            {
+                "id": 12118,
+                "uri": "https://sedra.bethmardutho.org/api/word/12118.json"
+            },
+            {
+                "id": 12117,
+                "uri": "https://sedra.bethmardutho.org/api/word/12117.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

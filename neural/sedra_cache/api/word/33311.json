@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0718\u0715\u0725\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u0718\u0715\u0725\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6422,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6422.json"
+        },
+        "stem": "\u0721\u0718\u0715\u0725\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062e\u0637\u0648\u0637, \u0635\u0643"
+            ],
+            "eng": [
+                "knowledge, learning."
+            ],
+            "fre": [
+                "note, \u00e9crit"
+            ]
+        },
+        "word": {
+            "id": 33311,
+            "uri": "https://sedra.bethmardutho.org/api/word/33311.json"
+        }
+    }
+]

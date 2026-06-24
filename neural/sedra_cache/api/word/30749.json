@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0721\u0722\u071d\u0710",
+        "western": "\u0710\u073d\u0718\u0721\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7974,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7974.json"
+        },
+        "stem": "\u0710\u0718\u0721\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0627\u0647\u0631",
+                "\u0641\u0646\u064a, \u0645\u0647\u0646\u064a"
+            ],
+            "eng": [
+                "artificial.",
+                "well-fashioned, skilful, skilled",
+                "technical"
+            ],
+            "fre": [
+                "habile",
+                "de l&#39;art , artisanal"
+            ]
+        },
+        "word": {
+            "id": 30749,
+            "uri": "https://sedra.bethmardutho.org/api/word/30749.json"
+        }
+    }
+]

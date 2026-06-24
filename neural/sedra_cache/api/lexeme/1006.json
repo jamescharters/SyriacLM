@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1006,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1006.json"
+        },
+        "syriac": "\u071a\u0719\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0628\u0627\u0637",
+                "\u0632\u0646\u0627\u0631",
+                "\u062d\u0645\u0644"
+            ],
+            "French": [
+                "lien",
+                "ceinture",
+                "soutien"
+            ],
+            "English": [
+                "bond",
+                "belt",
+                "band",
+                "belt, band, bond",
+                "<span class=\"selectableFont\">\u071a\u0308\u0719\u0733\u0729\u0736\u0710</span> arteries, veins."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 615,
+            "uri": "https://sedra.bethmardutho.org/api/root/615.json"
+        },
+        "words": [
+            {
+                "id": 6724,
+                "uri": "https://sedra.bethmardutho.org/api/word/6724.json"
+            },
+            {
+                "id": 6725,
+                "uri": "https://sedra.bethmardutho.org/api/word/6725.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

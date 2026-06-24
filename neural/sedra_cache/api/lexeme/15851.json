@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15851,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15851.json"
+        },
+        "syriac": "\u0717\u0721\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062c\u062a\u0631\u0623"
+            ],
+            "French": [
+                "oser"
+            ],
+            "English": [
+                "Ia to ponder on, to meditate",
+                "to study",
+                "to attack.",
+                "to attempt"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3078,
+            "uri": "https://sedra.bethmardutho.org/api/root/3078.json"
+        },
+        "words": [
+            {
+                "id": 41697,
+                "uri": "https://sedra.bethmardutho.org/api/word/41697.json"
+            },
+            {
+                "id": 40625,
+                "uri": "https://sedra.bethmardutho.org/api/word/40625.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

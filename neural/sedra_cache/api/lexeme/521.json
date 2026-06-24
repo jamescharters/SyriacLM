@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 521,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/521.json"
+        },
+        "syriac": "\u0721\u0713\u0715\u0726\u0722\u0710",
+        "glosses": {
+            "English": [
+                "blasphemer",
+                "blasphemer, blasphemous."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 347,
+            "uri": "https://sedra.bethmardutho.org/api/root/347.json"
+        },
+        "words": [
+            {
+                "id": 22777,
+                "uri": "https://sedra.bethmardutho.org/api/word/22777.json"
+            },
+            {
+                "id": 3534,
+                "uri": "https://sedra.bethmardutho.org/api/word/3534.json"
+            },
+            {
+                "id": 3533,
+                "uri": "https://sedra.bethmardutho.org/api/word/3533.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

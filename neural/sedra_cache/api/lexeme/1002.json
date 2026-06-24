@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1002,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1002.json"
+        },
+        "syriac": "\u0721\u071a\u0719\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u0622\u0629"
+            ],
+            "French": [
+                "miroir"
+            ],
+            "English": [
+                "mirror",
+                "mirror."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 613,
+            "uri": "https://sedra.bethmardutho.org/api/root/613.json"
+        },
+        "words": [
+            {
+                "id": 6707,
+                "uri": "https://sedra.bethmardutho.org/api/word/6707.json"
+            },
+            {
+                "id": 6706,
+                "uri": "https://sedra.bethmardutho.org/api/word/6706.json"
+            },
+            {
+                "id": 6708,
+                "uri": "https://sedra.bethmardutho.org/api/word/6708.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 28925,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28925.json"
+        },
+        "syriac": "\u0710\u071d\u0720\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f27\u03bb\u03bf\u03c2"
+            ],
+            "English": [
+                "nail-head, stud, wart, callus",
+                "clavus"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f27\u03bb\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49446,
+                "uri": "https://sedra.bethmardutho.org/api/word/49446.json"
+            },
+            {
+                "id": 49424,
+                "uri": "https://sedra.bethmardutho.org/api/word/49424.json"
+            },
+            {
+                "id": 55299,
+                "uri": "https://sedra.bethmardutho.org/api/word/55299.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

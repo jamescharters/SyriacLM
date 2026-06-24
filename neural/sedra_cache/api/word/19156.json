@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u072a\u0713\u0721\u0718\u0717\u071d",
+        "western": "\u072a\u0730\u0713\u0742\u0721\u073d\u0718\u0717\u0331\u071d",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2936,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2936.json"
+        },
+        "stem": "\u072a\u0713\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u062c\u0645",
+                "\u00a0"
+            ],
+            "eng": [
+                "stone",
+                "Ia to stone",
+                "Ip, IIp."
+            ],
+            "fre": [
+                "\u00a0",
+                "lapider"
+            ]
+        },
+        "word": {
+            "id": 19156,
+            "uri": "https://sedra.bethmardutho.org/api/word/19156.json"
+        }
+    }
+]

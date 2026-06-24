@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1056,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1056.json"
+        },
+        "syriac": "\u072c\u071a\u0720\u0718\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0627 \u064a\u0646\u0648\u0628, \u064a\u0639\u0648\u0636",
+                "\u0646\u0627\u0626\u0628"
+            ],
+            "French": [
+                "ce qui remplace, compense",
+                "suppl\u00e9ant"
+            ],
+            "English": [
+                "exchange",
+                "exchange",
+                "substitute, deputy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 634,
+            "uri": "https://sedra.bethmardutho.org/api/root/634.json"
+        },
+        "words": [
+            {
+                "id": 7155,
+                "uri": "https://sedra.bethmardutho.org/api/word/7155.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

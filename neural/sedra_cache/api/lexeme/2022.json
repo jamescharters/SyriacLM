@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2022.json"
+        },
+        "syriac": "\u0722\u0729\u0712",
+        "glosses": {
+            "English": [
+                "Gram. to be in feminine gender",
+                "bore",
+                "pierce",
+                "Ip to be bored through",
+                "to bore, dig through",
+                "to break (seal).",
+                "IIp to be pierced through",
+                "to be effeminate",
+                "Ia to pierce, perforate",
+                "to make effeminate",
+                "IIa to make a hole",
+                "to tattoo",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0729\u0736\u0712</span> to bore through"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1205,
+            "uri": "https://sedra.bethmardutho.org/api/root/1205.json"
+        },
+        "words": [
+            {
+                "id": 13341,
+                "uri": "https://sedra.bethmardutho.org/api/word/13341.json"
+            },
+            {
+                "id": 42390,
+                "uri": "https://sedra.bethmardutho.org/api/word/42390.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

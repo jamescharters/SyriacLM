@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u0719\u0718\u072a",
+        "western": "\u0722\u0736\u0719\u0718\u0730\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15788,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15788.json"
+        },
+        "stem": "\u0719\u0718\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to strike with the fist.",
+                "Ia to hold tightly"
+            ]
+        },
+        "word": {
+            "id": 42124,
+            "uri": "https://sedra.bethmardutho.org/api/word/42124.json"
+        }
+    }
+]

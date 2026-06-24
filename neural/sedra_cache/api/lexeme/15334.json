@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15334,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15334.json"
+        },
+        "syriac": "\u0725\u071d\u072a",
+        "glosses": {
+            "English": [
+                "2 IIa to wake (see <span class=\"selectableFont\">\u0725\u0733\u072a</span>)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2430,
+            "uri": "https://sedra.bethmardutho.org/api/root/2430.json"
+        },
+        "words": [
+            {
+                "id": 41573,
+                "uri": "https://sedra.bethmardutho.org/api/word/41573.json"
+            },
+            {
+                "id": 40323,
+                "uri": "https://sedra.bethmardutho.org/api/word/40323.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

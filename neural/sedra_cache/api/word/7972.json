@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u071b\u071d\u0712\u0718",
+        "western": "\u071b\u0730\u071d\u0712\u0741\u073d\u0718",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1203,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1203.json"
+        },
+        "stem": "\u071b\u071d\u0712\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0639\u0645\u0629, \u062c\u0645\u064a\u0644, \u062d\u0633\u0646\u0629",
+                "\u0632\u064a\u062a \u0645\u0642\u062f\u0633",
+                "\u062c\u0648\u062f\u0629",
+                "\u0635\u062d\u0629"
+            ],
+            "eng": [
+                "grace",
+                "<span class=\"selectableFont\">\u0729\u073d\u0718\u0712\u0733\u0720 \u071b\u0730\u071d\u0712\u073d\u0718\u072c\u0733\u0710</span> gratitude, thankfulness.",
+                "grace, kindness, favor",
+                "graciousuess",
+                "goodness",
+                "kindness",
+                "<span class=\"selectableFont\">\u0729\u0730\u0712\u0736\u0720 \u071b\u0730\u071d\u0712\u073d\u0718\u072c\u0733\u0710</span> to be grateful, thankful",
+                "favour"
+            ],
+            "fre": [
+                "gr\u00e2ce, bienfait, aum\u00f4ne",
+                "huile sainte",
+                "sant\u00e9",
+                "bont\u00e9"
+            ]
+        },
+        "word": {
+            "id": 7972,
+            "uri": "https://sedra.bethmardutho.org/api/word/7972.json"
+        }
+    }
+]

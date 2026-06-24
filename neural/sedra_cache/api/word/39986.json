@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u072a\u0725",
+        "western": "\u0715\u0730\u072a\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15072,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15072.json"
+        },
+        "stem": "\u0715\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to steer, guide.",
+                "IIa to take by the arm"
+            ]
+        },
+        "word": {
+            "id": 39986,
+            "uri": "https://sedra.bethmardutho.org/api/word/39986.json"
+        }
+    }
+]

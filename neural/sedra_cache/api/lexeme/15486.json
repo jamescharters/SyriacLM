@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15486,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15486.json"
+        },
+        "syriac": "\u0729\u072a\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0631\u0636"
+            ],
+            "French": [
+                "ronger"
+            ],
+            "English": [
+                "Ia, IIa to nibble, gnaw."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2199,
+            "uri": "https://sedra.bethmardutho.org/api/root/2199.json"
+        },
+        "words": [
+            {
+                "id": 41806,
+                "uri": "https://sedra.bethmardutho.org/api/word/41806.json"
+            },
+            {
+                "id": 40109,
+                "uri": "https://sedra.bethmardutho.org/api/word/40109.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14865,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14865.json"
+        },
+        "syriac": "\u0725\u072a\u0712\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0631\u0628\u0644"
+            ],
+            "French": [
+                "cribler"
+            ],
+            "English": [
+                "IVa to sift."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2482,
+            "uri": "https://sedra.bethmardutho.org/api/root/2482.json"
+        },
+        "words": [
+            {
+                "id": 41210,
+                "uri": "https://sedra.bethmardutho.org/api/word/41210.json"
+            },
+            {
+                "id": 41029,
+                "uri": "https://sedra.bethmardutho.org/api/word/41029.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

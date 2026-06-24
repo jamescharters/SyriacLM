@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0715\u0719\u0712\u0722\u072c\u0710",
+        "western": "\u0715\u0741\u0719\u0730\u0712\u0742\u0722\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 839,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/839.json"
+        },
+        "stem": "\u0719\u0712\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "<span class=\"selectableFont\">\u0712\u071f\u073d\u0720\u0719\u0712\u0730\u0722</span> always",
+                "<span class=\"selectableFont\">\u0712\u0730\u0719\u0712\u0730\u0722</span> sometimes",
+                "<span class=\"selectableFont\">\u071f\u0721\u0733\u0710 \u0719\u0730\u0712\u0722\u073a\u071d\u0308</span><span class=\"selectableFont\">\u0722</span> often.",
+                "time, season",
+                "period",
+                "season",
+                "time",
+                "time",
+                "t. gramm. tense",
+                "fragility",
+                "temporality"
+            ]
+        },
+        "word": {
+            "id": 5461,
+            "uri": "https://sedra.bethmardutho.org/api/word/5461.json"
+        }
+    }
+]

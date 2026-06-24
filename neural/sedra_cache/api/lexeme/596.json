@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 596,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/596.json"
+        },
+        "syriac": "\u0713\u0718\u0722\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u062a\u0645"
+            ],
+            "French": [
+                "injure"
+            ],
+            "English": [
+                "reproach",
+                "calumny",
+                "blame, reproach."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 384,
+            "uri": "https://sedra.bethmardutho.org/api/root/384.json"
+        },
+        "words": [
+            {
+                "id": 52967,
+                "uri": "https://sedra.bethmardutho.org/api/word/52967.json"
+            },
+            {
+                "id": 3875,
+                "uri": "https://sedra.bethmardutho.org/api/word/3875.json"
+            },
+            {
+                "id": 3876,
+                "uri": "https://sedra.bethmardutho.org/api/word/3876.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15153,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15153.json"
+        },
+        "syriac": "\u071b\u0721\u0721",
+        "glosses": {
+            "English": [
+                "IIIa = IIa.",
+                "IIa to stop up, block",
+                "to repress, restrain",
+                "IIp"
+            ],
+            "Arabic": [
+                "\u0642\u0647\u0631( \u0627\u0644\u0634\u0647\u0648\u0629)",
+                "\u00a0"
+            ],
+            "French": [
+                "r\u00e9primer (la passion)",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2130,
+            "uri": "https://sedra.bethmardutho.org/api/root/2130.json"
+        },
+        "words": [
+            {
+                "id": 41551,
+                "uri": "https://sedra.bethmardutho.org/api/word/41551.json"
+            },
+            {
+                "id": 40348,
+                "uri": "https://sedra.bethmardutho.org/api/word/40348.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

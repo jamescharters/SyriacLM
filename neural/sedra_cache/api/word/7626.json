@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0718\u0710\u071a\u072a\u0722\u0710",
+        "western": "\u0718\u0730\u0710\u0331\u071a\u072a\u073a\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9299.json"
+        },
+        "stem": "\u0710\u071a\u072a\u0722\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "another",
+                "Kth. <span class=\"selectableFont\">\u0719\u0722\u0733\u0710 \u0710\u0331</span><span class=\"selectableFont\">\u071a\u072a\u073a\u0722\u0733\u0710</span> Lit. alternative (melody).",
+                "other, another",
+                "next"
+            ]
+        },
+        "word": {
+            "id": 7626,
+            "uri": "https://sedra.bethmardutho.org/api/word/7626.json"
+        }
+    }
+]

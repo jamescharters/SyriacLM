@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0718\u071a\u072a",
+        "western": "\u0715\u0741\u0721\u0730\u0718\u071a\u0730\u072a",
+        "tense": "active participle",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1160,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1160.json"
+        },
+        "stem": "\u0710\u071a\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u071a\u0730\u072a</span> to delay, tarry, be slow to",
+                "to stay on.",
+                "delay",
+                "tarry"
+            ]
+        },
+        "word": {
+            "id": 7596,
+            "uri": "https://sedra.bethmardutho.org/api/word/7596.json"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0715\u071a\u0719\u071d\u0722",
+        "western": "\u0715\u0741\u0730\u071a\u0719\u0730\u071d\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 996,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/996.json"
+        },
+        "stem": "\u071a\u0719\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0623\u0649"
+            ],
+            "eng": [
+                "behold",
+                "to be seen, be visible, to appear.",
+                "see",
+                "Ip",
+                "Ia to see, perceive"
+            ],
+            "fre": [
+                "voir"
+            ]
+        },
+        "word": {
+            "id": 6560,
+            "uri": "https://sedra.bethmardutho.org/api/word/6560.json"
+        }
+    }
+]

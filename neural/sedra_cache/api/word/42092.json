@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0722\u072b\u071a\u0718\u0720",
+        "western": "\u0722\u0736\u072b\u071a\u073d\u0718\u0720",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15693,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15693.json"
+        },
+        "stem": "\u072b\u071a\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0641\u0649 (\u0645\u0636)",
+                "\u00a0",
+                "\u0627\u0646\u0642\u0637\u0639",
+                "\u0642\u0637\u0631 (\u0645\u062a)",
+                "\u0633\u0627\u0644, \u0646\u0628\u0639"
+            ],
+            "eng": [
+                "Ip, IIp to be strained",
+                "IIIa to let trickle, to pour.",
+                "to flow (of tears)",
+                "to filter",
+                "Ia to trickle, exude, drip",
+                "IIa to liquefy, to refine, to strain off"
+            ],
+            "fre": [
+                "couler, sourdre",
+                "filtrer",
+                "laisser tomber goutte \u00e0 goutte",
+                "\u00a0",
+                "cesser"
+            ]
+        },
+        "word": {
+            "id": 42092,
+            "uri": "https://sedra.bethmardutho.org/api/word/42092.json"
+        }
+    }
+]

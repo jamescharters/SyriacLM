@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u0712\u071d\u0729\u0718\u072c\u0710",
+        "western": "\u072b\u0712\u073a\u071d\u0729\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9583,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9583.json"
+        },
+        "stem": "\u072b\u0712\u071d\u0729\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u062e\u0644\u064a\u0635",
+                "\u062a\u0631\u0643",
+                "\u062d\u0632\u0646"
+            ],
+            "eng": [
+                "abandonment."
+            ],
+            "fre": [
+                "d\u00e9solation",
+                "abandon",
+                "d\u00e9livrance"
+            ]
+        },
+        "word": {
+            "id": 35706,
+            "uri": "https://sedra.bethmardutho.org/api/word/35706.json"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0725\u0718\u0720\u0710",
+        "western": "\u0725\u073d\u0718\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2269,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2269.json"
+        },
+        "stem": "\u0725\u0718\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u064a\u0628",
+                "\u062c\u0646\u064a\u0646"
+            ],
+            "eng": [
+                "babe",
+                "embryo, fetus",
+                "new-born baby.",
+                "a suckling",
+                "child"
+            ],
+            "fre": [
+                "f\u0153tus",
+                "nourrisson"
+            ]
+        },
+        "word": {
+            "id": 15132,
+            "uri": "https://sedra.bethmardutho.org/api/word/15132.json"
+        }
+    }
+]

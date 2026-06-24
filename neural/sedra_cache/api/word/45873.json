@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u071f\u0721\u0710",
+        "western": "\u0720\u0730\u071f\u0721\u0733\u0710",
+        "lexeme": {
+            "id": 19499,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19499.json"
+        },
+        "stem": "\u0720\u071f\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062d\u064a\u0627\u0646\u0627\u064b",
+                "\u00a0",
+                "\u063a\u0627\u0644\u0628\u0627\u064b"
+            ],
+            "fre": [
+                "souvent",
+                "combien\u2026",
+                "parfois"
+            ]
+        },
+        "word": {
+            "id": 45873,
+            "uri": "https://sedra.bethmardutho.org/api/word/45873.json"
+        }
+    }
+]

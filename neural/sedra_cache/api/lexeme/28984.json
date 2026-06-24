@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28984,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28984.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u071d\u0729\u071d\u0726\u071b\u0718\u0723",
+        "glosses": {
+            "Latin": [
+                "emancipatus"
+            ],
+            "English": [
+                "to put out of the hand and power of the paterfamilias; to declare free and independent, to emancipate a son from the patria potestas"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "emancipo"
+            ]
+        },
+        "words": [
+            {
+                "id": 49463,
+                "uri": "https://sedra.bethmardutho.org/api/word/49463.json"
+            },
+            {
+                "id": 55358,
+                "uri": "https://sedra.bethmardutho.org/api/word/55358.json"
+            }
+        ],
+        "category": "participle adjective"
+    }
+]

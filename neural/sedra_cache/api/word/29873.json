@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0718\u0713\u0712\u0715",
+        "western": "\u0729\u0733\u072a\u073d\u0718\u0713\u0712\u0736\u0715",
+        "eastern": "\u0729\u0735\u072a\u0718\u073c\u0713\u0712\u0738\u0715",
+        "number": "singular",
+        "lexeme": {
+            "id": 12801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12801.json"
+        },
+        "stem": "\u0729\u072a\u0718\u0713\u0712\u0715",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "chief craftsman.",
+                "foreman",
+                "master of the artisans",
+                "chief"
+            ]
+        },
+        "word": {
+            "id": 29873,
+            "uri": "https://sedra.bethmardutho.org/api/word/29873.json"
+        }
+    }
+]

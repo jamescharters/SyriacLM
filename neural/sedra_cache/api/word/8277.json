@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u071b\u0725\u071d\u0722\u0717\u0718\u0722",
+        "western": "\u0721\u0730\u071b\u0725\u071d\u0733\u0722\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1262,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1262.json"
+        },
+        "stem": "\u0721\u071b\u0725\u071d\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "impostor",
+                "leading astray, deceiving",
+                "deceiver, impostor, seducer",
+                "wandering.",
+                "deceiver"
+            ]
+        },
+        "word": {
+            "id": 8277,
+            "uri": "https://sedra.bethmardutho.org/api/word/8277.json"
+        }
+    }
+]

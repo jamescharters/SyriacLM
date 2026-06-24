@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 995,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/995.json"
+        },
+        "syriac": "\u071a\u072a\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u063a\u0627\u0631\u0629"
+            ],
+            "French": [
+                "caverne"
+            ],
+            "English": [
+                "hole",
+                "opening",
+                "eye",
+                "eye (of needle).",
+                "hole, opening, perforation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 612,
+            "uri": "https://sedra.bethmardutho.org/api/root/612.json"
+        },
+        "words": [
+            {
+                "id": 6535,
+                "uri": "https://sedra.bethmardutho.org/api/word/6535.json"
+            },
+            {
+                "id": 6534,
+                "uri": "https://sedra.bethmardutho.org/api/word/6534.json"
+            },
+            {
+                "id": 6536,
+                "uri": "https://sedra.bethmardutho.org/api/word/6536.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

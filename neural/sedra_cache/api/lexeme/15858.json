@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15858,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15858.json"
+        },
+        "syriac": "\u0726\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0635\u0628"
+            ],
+            "French": [
+                "\u00eatre fertile"
+            ],
+            "English": [
+                "to germinate",
+                "to increase, to multiply",
+                "IIIp to be produced, to be published.",
+                "IIIa to make fruitful",
+                "Ia to be fruitful"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2852,
+            "uri": "https://sedra.bethmardutho.org/api/root/2852.json"
+        },
+        "words": [
+            {
+                "id": 41845,
+                "uri": "https://sedra.bethmardutho.org/api/word/41845.json"
+            },
+            {
+                "id": 41188,
+                "uri": "https://sedra.bethmardutho.org/api/word/41188.json"
+            },
+            {
+                "id": 41250,
+                "uri": "https://sedra.bethmardutho.org/api/word/41250.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

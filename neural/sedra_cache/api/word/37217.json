@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0729\u0723\u0718\u0712\u0710",
+        "western": "\u0729\u0730\u0723\u073d\u0718\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8192,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8192.json"
+        },
+        "stem": "\u0729\u0723\u0718\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hardened skin.",
+                "wart"
+            ]
+        },
+        "word": {
+            "id": 37217,
+            "uri": "https://sedra.bethmardutho.org/api/word/37217.json"
+        }
+    }
+]

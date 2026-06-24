@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 14946,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14946.json"
+        },
+        "syriac": "\u0723\u0721\u0723\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0641\u0649",
+                "\u0637\u0628\u0628"
+            ],
+            "French": [
+                "gu\u00e9rir",
+                "exercer la m\u00e9decine"
+            ],
+            "English": [
+                "IVa to give medicine, to heal."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2298,
+            "uri": "https://sedra.bethmardutho.org/api/root/2298.json"
+        },
+        "words": [
+            {
+                "id": 41454,
+                "uri": "https://sedra.bethmardutho.org/api/word/41454.json"
+            },
+            {
+                "id": 40258,
+                "uri": "https://sedra.bethmardutho.org/api/word/40258.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

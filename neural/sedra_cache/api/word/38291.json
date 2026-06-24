@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u072a\u0729\u0710",
+        "western": "\u0718\u0730\u072a\u0308\u0729\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6600,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6600.json"
+        },
+        "stem": "\u0718\u072a\u0729\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0631\u0642\u0629"
+            ],
+            "eng": [
+                "page, sheet."
+            ],
+            "fre": [
+                "feuille"
+            ]
+        },
+        "word": {
+            "id": 38291,
+            "uri": "https://sedra.bethmardutho.org/api/word/38291.json"
+        }
+    }
+]

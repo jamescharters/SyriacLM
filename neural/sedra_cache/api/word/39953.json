@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0726\u0723",
+        "western": "\u0729\u0730\u072a\u0726\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14764,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14764.json"
+        },
+        "stem": "\u0729\u072a\u0726\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to narrow, to contract."
+            ]
+        },
+        "word": {
+            "id": 39953,
+            "uri": "https://sedra.bethmardutho.org/api/word/39953.json"
+        }
+    }
+]

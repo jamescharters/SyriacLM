@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1266,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1266.json"
+        },
+        "syriac": "\u071b\u0725\u0722\u0710",
+        "glosses": {
+            "English": [
+                "burden",
+                "load",
+                "cargo",
+                "luggage, cargo, freight",
+                "load, burden",
+                "<span class=\"selectableFont\">\u072b\u0729\u0730\u0720 \u071b\u0730\u0725\u0722\u0733\u0710</span> to take charge of, take care of, undertake."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 744,
+            "uri": "https://sedra.bethmardutho.org/api/root/744.json"
+        },
+        "words": [
+            {
+                "id": 8314,
+                "uri": "https://sedra.bethmardutho.org/api/word/8314.json"
+            },
+            {
+                "id": 8316,
+                "uri": "https://sedra.bethmardutho.org/api/word/8316.json"
+            },
+            {
+                "id": 8315,
+                "uri": "https://sedra.bethmardutho.org/api/word/8315.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

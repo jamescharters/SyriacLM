@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 766,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/766.json"
+        },
+        "syriac": "\u0715\u072a\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062c\u0627\u062f\u0644\u0629, \u0645\u0628\u0627\u062d\u062b\u0629",
+                "\u0645\u0639\u0627\u0631\u0636\u0629"
+            ],
+            "French": [
+                "dispute, conf\u00e9rence",
+                "contradiction"
+            ],
+            "English": [
+                "disputation",
+                "argumentation",
+                "disputation, controversy",
+                "treading."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 481,
+            "uri": "https://sedra.bethmardutho.org/api/root/481.json"
+        },
+        "words": [
+            {
+                "id": 4906,
+                "uri": "https://sedra.bethmardutho.org/api/word/4906.json"
+            },
+            {
+                "id": 4907,
+                "uri": "https://sedra.bethmardutho.org/api/word/4907.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u072a\u072b",
+        "western": "\u071a\u072a\u0730\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15560,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15560.json"
+        },
+        "stem": "\u071a\u072a\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to slay",
+                "IIp.",
+                "IIa to butcher"
+            ]
+        },
+        "word": {
+            "id": 41083,
+            "uri": "https://sedra.bethmardutho.org/api/word/41083.json"
+        }
+    }
+]

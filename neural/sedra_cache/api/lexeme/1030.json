@@ -1,0 +1,77 @@
+[
+    {
+        "lexeme": {
+            "id": 1030,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1030.json"
+        },
+        "syriac": "\u071a\u071f\u0721\u072c\u0710",
+        "glosses": {
+            "English": [
+                "wisdom, knowledge",
+                "skill, art.",
+                "wisdom"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 623,
+            "uri": "https://sedra.bethmardutho.org/api/root/623.json"
+        },
+        "words": [
+            {
+                "id": 7038,
+                "uri": "https://sedra.bethmardutho.org/api/word/7038.json"
+            },
+            {
+                "id": 7048,
+                "uri": "https://sedra.bethmardutho.org/api/word/7048.json"
+            },
+            {
+                "id": 7044,
+                "uri": "https://sedra.bethmardutho.org/api/word/7044.json"
+            },
+            {
+                "id": 7042,
+                "uri": "https://sedra.bethmardutho.org/api/word/7042.json"
+            },
+            {
+                "id": 7039,
+                "uri": "https://sedra.bethmardutho.org/api/word/7039.json"
+            },
+            {
+                "id": 3172,
+                "uri": "https://sedra.bethmardutho.org/api/word/3172.json"
+            },
+            {
+                "id": 3171,
+                "uri": "https://sedra.bethmardutho.org/api/word/3171.json"
+            },
+            {
+                "id": 7046,
+                "uri": "https://sedra.bethmardutho.org/api/word/7046.json"
+            },
+            {
+                "id": 7045,
+                "uri": "https://sedra.bethmardutho.org/api/word/7045.json"
+            },
+            {
+                "id": 7043,
+                "uri": "https://sedra.bethmardutho.org/api/word/7043.json"
+            },
+            {
+                "id": 7041,
+                "uri": "https://sedra.bethmardutho.org/api/word/7041.json"
+            },
+            {
+                "id": 7040,
+                "uri": "https://sedra.bethmardutho.org/api/word/7040.json"
+            },
+            {
+                "id": 7047,
+                "uri": "https://sedra.bethmardutho.org/api/word/7047.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

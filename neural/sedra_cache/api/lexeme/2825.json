@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2825,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2825.json"
+        },
+        "syriac": "\u0729\u0720\u071d\u0718\u0726\u0710",
+        "glosses": {
+            "English": [
+                "Cleophas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1671,
+            "uri": "https://sedra.bethmardutho.org/api/root/1671.json"
+        },
+        "words": [
+            {
+                "id": 18391,
+                "uri": "https://sedra.bethmardutho.org/api/word/18391.json"
+            },
+            {
+                "id": 18392,
+                "uri": "https://sedra.bethmardutho.org/api/word/18392.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072a\u0725\u072a\u0725",
+        "western": "\u072a\u0730\u0725\u072a\u0730\u0725",
+        "lexeme": {
+            "id": 14714,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14714.json"
+        },
+        "stem": "\u072a\u0725\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0630\u0628 (\u0645\u0636)",
+                "\u00a0",
+                "\u0643\u0633\u0631, \u062d\u0637\u0645 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to shatter",
+                "IVp.",
+                "IVa to dash together",
+                "Palpel conj. of verb \u072a\u0730\u0725"
+            ],
+            "fre": [
+                "briser, mettre en pi\u00e8ces",
+                "\u00a0",
+                "tourmenter"
+            ]
+        },
+        "word": {
+            "id": 47031,
+            "uri": "https://sedra.bethmardutho.org/api/word/47031.json"
+        }
+    }
+]

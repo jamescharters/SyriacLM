@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15618,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15618.json"
+        },
+        "syriac": "\u0713\u0725\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0627\u0621"
+            ],
+            "French": [
+                "vomir"
+            ],
+            "English": [
+                "Ia to vomit",
+                "IIa to cause to vomit."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2184,
+            "uri": "https://sedra.bethmardutho.org/api/root/2184.json"
+        },
+        "words": [
+            {
+                "id": 42108,
+                "uri": "https://sedra.bethmardutho.org/api/word/42108.json"
+            },
+            {
+                "id": 41179,
+                "uri": "https://sedra.bethmardutho.org/api/word/41179.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

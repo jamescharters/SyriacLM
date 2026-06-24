@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 96,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/96.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u072a\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Israelite"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 77,
+            "uri": "https://sedra.bethmardutho.org/api/root/77.json"
+        },
+        "words": [
+            {
+                "id": 22758,
+                "uri": "https://sedra.bethmardutho.org/api/word/22758.json"
+            },
+            {
+                "id": 706,
+                "uri": "https://sedra.bethmardutho.org/api/word/706.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

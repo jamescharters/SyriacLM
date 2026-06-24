@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15705,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15705.json"
+        },
+        "syriac": "\u071f\u072b\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0633\u0646, \u0646\u0641\u0639"
+            ],
+            "French": [
+                "\u00eatre bon, utile"
+            ],
+            "English": [
+                "Ia to prosper, succeed",
+                "IIIa to produce good results, to have success, to succeed.",
+                "to be active, act diligently",
+                "to be serviceable",
+                "IIa to accomplish successfully",
+                "to apply oneself diligently",
+                "IIp to prosper, succeed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2497,
+            "uri": "https://sedra.bethmardutho.org/api/root/2497.json"
+        },
+        "words": [
+            {
+                "id": 41711,
+                "uri": "https://sedra.bethmardutho.org/api/word/41711.json"
+            },
+            {
+                "id": 40766,
+                "uri": "https://sedra.bethmardutho.org/api/word/40766.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

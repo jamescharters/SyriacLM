@@ -1,0 +1,96 @@
+[
+    {
+        "lexeme": {
+            "id": 2656,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2656.json"
+        },
+        "syriac": "\u0728\u0712\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0644\u0644",
+                "\u063a\u0645\u0633, \u063a\u0637\u0633 (\u0645\u0636)",
+                "\u0635\u0628\u063a",
+                "\u00a0"
+            ],
+            "French": [
+                "mouiller",
+                "tremper, baigner",
+                "teindre",
+                "\u00a0"
+            ],
+            "English": [
+                "dip",
+                "wash",
+                "IIp.",
+                "Ia to dip, submerge, dye",
+                "Ip to be moistened",
+                "to be dyed",
+                "IIa"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1573,
+            "uri": "https://sedra.bethmardutho.org/api/root/1573.json"
+        },
+        "words": [
+            {
+                "id": 27895,
+                "uri": "https://sedra.bethmardutho.org/api/word/27895.json"
+            },
+            {
+                "id": 27894,
+                "uri": "https://sedra.bethmardutho.org/api/word/27894.json"
+            },
+            {
+                "id": 27893,
+                "uri": "https://sedra.bethmardutho.org/api/word/27893.json"
+            },
+            {
+                "id": 27892,
+                "uri": "https://sedra.bethmardutho.org/api/word/27892.json"
+            },
+            {
+                "id": 27891,
+                "uri": "https://sedra.bethmardutho.org/api/word/27891.json"
+            },
+            {
+                "id": 17312,
+                "uri": "https://sedra.bethmardutho.org/api/word/17312.json"
+            },
+            {
+                "id": 17310,
+                "uri": "https://sedra.bethmardutho.org/api/word/17310.json"
+            },
+            {
+                "id": 17309,
+                "uri": "https://sedra.bethmardutho.org/api/word/17309.json"
+            },
+            {
+                "id": 17308,
+                "uri": "https://sedra.bethmardutho.org/api/word/17308.json"
+            },
+            {
+                "id": 27890,
+                "uri": "https://sedra.bethmardutho.org/api/word/27890.json"
+            },
+            {
+                "id": 17315,
+                "uri": "https://sedra.bethmardutho.org/api/word/17315.json"
+            },
+            {
+                "id": 17314,
+                "uri": "https://sedra.bethmardutho.org/api/word/17314.json"
+            },
+            {
+                "id": 17313,
+                "uri": "https://sedra.bethmardutho.org/api/word/17313.json"
+            },
+            {
+                "id": 17311,
+                "uri": "https://sedra.bethmardutho.org/api/word/17311.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u071d\u0720\u0715\u072c\u071f",
+        "western": "\u071d\u073a\u0720\u0736\u0715\u0741\u072c\u0741\u0733\u071f\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1371,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1371.json"
+        },
+        "stem": "\u071d\u0720\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to beget, procreate, bring forth",
+                "IIIp to be helped by a midwife",
+                "IIp to help to give birth",
+                "beget",
+                "Ia to give birth to, to bear",
+                "Ip",
+                "to effect, cause",
+                "to be brought to birth.",
+                "to beget, generate",
+                "bear (a child)"
+            ]
+        },
+        "word": {
+            "id": 9043,
+            "uri": "https://sedra.bethmardutho.org/api/word/9043.json"
+        }
+    }
+]

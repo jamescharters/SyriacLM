@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14683,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14683.json"
+        },
+        "syriac": "\u0729\u0722\u0718\u0722",
+        "glosses": {
+            "English": [
+                "to be prescribed in a canon, canonically pronounced, or ordered",
+                "IVp to be constituted, prescribed.",
+                "IVa to prescribe"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2081,
+            "uri": "https://sedra.bethmardutho.org/api/root/2081.json"
+        },
+        "words": [
+            {
+                "id": 46280,
+                "uri": "https://sedra.bethmardutho.org/api/word/46280.json"
+            },
+            {
+                "id": 41225,
+                "uri": "https://sedra.bethmardutho.org/api/word/41225.json"
+            },
+            {
+                "id": 40702,
+                "uri": "https://sedra.bethmardutho.org/api/word/40702.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

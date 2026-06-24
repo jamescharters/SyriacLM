@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 20801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20801.json"
+        },
+        "syriac": "\u0710\u0713\u0713\u0717\u0720\u0718\u0723",
+        "glosses": {
+            "English": [
+                "messenger, angel"
+            ],
+            "Latin": [
+                "angelus"
+            ],
+            "Greek": [
+                "\u1f04\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f04\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48322,
+                "uri": "https://sedra.bethmardutho.org/api/word/48322.json"
+            },
+            {
+                "id": 47175,
+                "uri": "https://sedra.bethmardutho.org/api/word/47175.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

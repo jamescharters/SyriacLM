@@ -1,0 +1,84 @@
+[
+    {
+        "lexeme": {
+            "id": 426,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/426.json"
+        },
+        "syriac": "\u0712\u0725\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0644\u0628, \u0631\u062c\u0627\u0621"
+            ],
+            "French": [
+                "demande, pri\u00e8re"
+            ],
+            "English": [
+                "prayer",
+                "petition",
+                "petition, request, supplication",
+                "<span class=\"selectableFont\">\u0712\u0712\u0733\u0725\u073d\u0718</span> please."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 291,
+            "uri": "https://sedra.bethmardutho.org/api/root/291.json"
+        },
+        "words": [
+            {
+                "id": 3009,
+                "uri": "https://sedra.bethmardutho.org/api/word/3009.json"
+            },
+            {
+                "id": 3014,
+                "uri": "https://sedra.bethmardutho.org/api/word/3014.json"
+            },
+            {
+                "id": 3013,
+                "uri": "https://sedra.bethmardutho.org/api/word/3013.json"
+            },
+            {
+                "id": 3006,
+                "uri": "https://sedra.bethmardutho.org/api/word/3006.json"
+            },
+            {
+                "id": 3016,
+                "uri": "https://sedra.bethmardutho.org/api/word/3016.json"
+            },
+            {
+                "id": 3008,
+                "uri": "https://sedra.bethmardutho.org/api/word/3008.json"
+            },
+            {
+                "id": 22991,
+                "uri": "https://sedra.bethmardutho.org/api/word/22991.json"
+            },
+            {
+                "id": 22990,
+                "uri": "https://sedra.bethmardutho.org/api/word/22990.json"
+            },
+            {
+                "id": 3015,
+                "uri": "https://sedra.bethmardutho.org/api/word/3015.json"
+            },
+            {
+                "id": 3012,
+                "uri": "https://sedra.bethmardutho.org/api/word/3012.json"
+            },
+            {
+                "id": 3007,
+                "uri": "https://sedra.bethmardutho.org/api/word/3007.json"
+            },
+            {
+                "id": 3011,
+                "uri": "https://sedra.bethmardutho.org/api/word/3011.json"
+            },
+            {
+                "id": 3010,
+                "uri": "https://sedra.bethmardutho.org/api/word/3010.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

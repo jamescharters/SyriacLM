@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15551,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15551.json"
+        },
+        "syriac": "\u0713\u0725\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0627\u0621"
+            ],
+            "French": [
+                "vomir"
+            ],
+            "English": [
+                "Ia to shun",
+                "to vomit",
+                "IIIa to vomit.",
+                "IIp to be an abomination",
+                "to be oppressed with grief"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2635,
+            "uri": "https://sedra.bethmardutho.org/api/root/2635.json"
+        },
+        "words": [
+            {
+                "id": 53241,
+                "uri": "https://sedra.bethmardutho.org/api/word/53241.json"
+            },
+            {
+                "id": 41757,
+                "uri": "https://sedra.bethmardutho.org/api/word/41757.json"
+            },
+            {
+                "id": 39982,
+                "uri": "https://sedra.bethmardutho.org/api/word/39982.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

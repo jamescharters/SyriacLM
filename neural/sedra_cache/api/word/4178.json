@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u0718\u0710",
+        "western": "\u0715\u0741\u0718\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 660,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/660.json"
+        },
+        "stem": "\u0715\u0718\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                ", <span class=\"selectableFont\">\u0715\u0718\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u0718\u0736\u0710</span>, Ia to be sad, wretched",
+                "IIIa to make wretched",
+                "IIa to lay low, to weaken, debilitate",
+                "be miserable",
+                "Ip to be laid low",
+                "IIIp."
+            ]
+        },
+        "word": {
+            "id": 4178,
+            "uri": "https://sedra.bethmardutho.org/api/word/4178.json"
+        }
+    }
+]

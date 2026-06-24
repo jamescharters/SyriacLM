@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u072c\u071f",
+        "western": "\u0722\u072c\u0730\u071f",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15811,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15811.json"
+        },
+        "stem": "\u0722\u072c\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0636\u0631 \u0628\u0640"
+            ],
+            "eng": [
+                "Ia to hurt, harm."
+            ],
+            "fre": [
+                "causer un dommage \u00e0"
+            ]
+        },
+        "word": {
+            "id": 41034,
+            "uri": "https://sedra.bethmardutho.org/api/word/41034.json"
+        }
+    }
+]

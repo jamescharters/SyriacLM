@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 14652,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14652.json"
+        },
+        "syriac": "\u072b\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0644\u0633 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "rendre lisse",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp",
+                "Ia to plaster, to smooth",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072b\u0730\u0725</span> to make smooth, to make bare.",
+                "IIa <span class=\"selectableFont\">\u072b\u0730\u0725\u0730\u0725</span> to smooth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2396,
+            "uri": "https://sedra.bethmardutho.org/api/root/2396.json"
+        },
+        "words": [
+            {
+                "id": 41465,
+                "uri": "https://sedra.bethmardutho.org/api/word/41465.json"
+            },
+            {
+                "id": 41351,
+                "uri": "https://sedra.bethmardutho.org/api/word/41351.json"
+            },
+            {
+                "id": 40093,
+                "uri": "https://sedra.bethmardutho.org/api/word/40093.json"
+            },
+            {
+                "id": 39976,
+                "uri": "https://sedra.bethmardutho.org/api/word/39976.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

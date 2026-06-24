@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071d\u0718\u0722",
+        "western": "\u071d\u0730\u0718\u0733\u0722",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1340,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1340.json"
+        },
+        "stem": "\u071d\u0718\u0722",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "Greece"
+            ],
+            "fre": [
+                "Gr\u00e8ce\u2026"
+            ]
+        },
+        "word": {
+            "id": 8944,
+            "uri": "https://sedra.bethmardutho.org/api/word/8944.json"
+        }
+    }
+]

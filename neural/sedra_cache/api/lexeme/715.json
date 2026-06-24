@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 715,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/715.json"
+        },
+        "syriac": "\u0715\u0720\u0721\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "Dalmanutha"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 452,
+            "uri": "https://sedra.bethmardutho.org/api/root/452.json"
+        },
+        "words": [
+            {
+                "id": 4630,
+                "uri": "https://sedra.bethmardutho.org/api/word/4630.json"
+            },
+            {
+                "id": 4631,
+                "uri": "https://sedra.bethmardutho.org/api/word/4631.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

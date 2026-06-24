@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0717\u0729\u0722\u0710",
+        "western": "\u0715\u0730\u0717\u0729\u0733\u0722\u0733\u0710",
+        "eastern": "\u0715\u0732\u0717\u0729\u0735\u0722\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8299.json"
+        },
+        "stem": "\u0715\u0717\u0729\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0627\u0643\u0645 \u0628\u0644\u062f"
+            ],
+            "eng": [
+                "the chiefman or magistrate of a village",
+                "landed proprietor.",
+                "gentry",
+                "landed proprietors"
+            ],
+            "fre": [
+                "maire"
+            ]
+        },
+        "word": {
+            "id": 31443,
+            "uri": "https://sedra.bethmardutho.org/api/word/31443.json"
+        }
+    }
+]

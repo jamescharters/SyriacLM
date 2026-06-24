@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0712\u0715\u0717\u0712\u0710",
+        "western": "\u0712\u0741\u0715\u0742\u0730\u0717\u0712\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 659,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/659.json"
+        },
+        "stem": "\u0715\u0717\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0647\u0628"
+            ],
+            "eng": [
+                "gold",
+                "gold"
+            ],
+            "fre": [
+                "or"
+            ]
+        },
+        "word": {
+            "id": 4171,
+            "uri": "https://sedra.bethmardutho.org/api/word/4171.json"
+        }
+    }
+]

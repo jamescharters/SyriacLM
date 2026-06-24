@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u071a\u0721\u072b",
+        "western": "\u0715\u0741\u071a\u0730\u0721\u0736\u072b",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1076,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1076.json"
+        },
+        "stem": "\u071a\u0721\u072b\u0710",
+        "category": "numeral",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0645\u0633",
+                "\u0623\u062e\u0630 \u062e\u0645\u0633\u0627\u064b"
+            ],
+            "eng": [
+                "IIa to divide by five.",
+                "five",
+                "five"
+            ],
+            "fre": [
+                "prendre un cinqui\u00e8me",
+                "cinq"
+            ]
+        },
+        "word": {
+            "id": 7223,
+            "uri": "https://sedra.bethmardutho.org/api/word/7223.json"
+        }
+    }
+]

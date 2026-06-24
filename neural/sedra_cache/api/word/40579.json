@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0725\u0718\u0725\u071d",
+        "western": "\u0725\u0730\u0718\u0725\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14922,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14922.json"
+        },
+        "stem": "\u0725\u0718\u0725\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to cry (of a baby)."
+            ]
+        },
+        "word": {
+            "id": 40579,
+            "uri": "https://sedra.bethmardutho.org/api/word/40579.json"
+        }
+    }
+]

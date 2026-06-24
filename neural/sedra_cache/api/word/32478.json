@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0718\u0712\u0712\u0710",
+        "western": "\u071a\u073d\u0718\u0712\u0733\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13967,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13967.json"
+        },
+        "stem": "\u071a\u0718\u0712\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0627\u0646\u0642\u0629"
+            ],
+            "eng": [
+                "embrace."
+            ],
+            "fre": [
+                "embrassement"
+            ]
+        },
+        "word": {
+            "id": 32478,
+            "uri": "https://sedra.bethmardutho.org/api/word/32478.json"
+        }
+    }
+]

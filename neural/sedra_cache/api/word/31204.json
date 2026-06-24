@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0723\u071d\u0718\u0723",
+        "western": "\u0710\u0730\u071f\u0723\u073a\u071d\u0733\u0718\u0723",
+        "number": "singular",
+        "lexeme": {
+            "id": 8090,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8090.json"
+        },
+        "stem": "\u0710\u071f\u0723\u071d\u0718\u0723",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0647\u0644"
+            ],
+            "eng": [
+                "worthy."
+            ],
+            "fre": [
+                "digne"
+            ]
+        },
+        "word": {
+            "id": 31204,
+            "uri": "https://sedra.bethmardutho.org/api/word/31204.json"
+        }
+    }
+]

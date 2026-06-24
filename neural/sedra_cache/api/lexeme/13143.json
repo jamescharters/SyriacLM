@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 13143,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13143.json"
+        },
+        "syriac": "\u0712\u0712\u0718\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0628\u064a \u0635\u063a\u064a\u0631"
+            ],
+            "French": [
+                "gar\u00e7onnet"
+            ],
+            "English": [
+                "<span class=\"selectableFont\">\u0712\u0733\u0712\u073d\u0718\u0723\u0733\u0710</span>  baby, little boy."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 52099,
+                "uri": "https://sedra.bethmardutho.org/api/word/52099.json"
+            },
+            {
+                "id": 52097,
+                "uri": "https://sedra.bethmardutho.org/api/word/52097.json"
+            },
+            {
+                "id": 37295,
+                "uri": "https://sedra.bethmardutho.org/api/word/37295.json"
+            }
+        ]
+    }
+]

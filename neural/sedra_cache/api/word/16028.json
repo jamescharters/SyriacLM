@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0715\u0725\u072a\u0729\u072c\u0710",
+        "western": "\u0715\u0741\u0725\u0736\u072a\u0730\u0729\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2424.json"
+        },
+        "stem": "\u0725\u072a\u0729\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u062c\u0627\u0645",
+                "\u0625\u0628\u0631\u0629 (\u0627\u0644\u0645\u064a\u0632\u0627\u0646)",
+                "\u0631\u0628\u0627\u0637, \u0633\u064a\u0631",
+                "\u062c\u0633\u0631"
+            ],
+            "eng": [
+                "leather strap",
+                "joist, beam.",
+                "leather strap"
+            ],
+            "fre": [
+                "aiguille (de balance)",
+                "poutre",
+                "lien, courroie, lacet",
+                "bride"
+            ]
+        },
+        "word": {
+            "id": 16028,
+            "uri": "https://sedra.bethmardutho.org/api/word/16028.json"
+        }
+    }
+]

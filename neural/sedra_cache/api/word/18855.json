@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0729\u0726\u0722",
+        "western": "\u0729\u0730\u072a\u0729\u0726\u0742\u0733\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2893,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2893.json"
+        },
+        "stem": "\u0729\u072a\u0729\u0726\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u062c\u0645\u0629",
+                "\u0631\u0623\u0633",
+                "\u0631\u0626\u064a\u0633",
+                "\u0642\u0645\u0629",
+                "\u0630\u0631\u0648\u0629",
+                "\u062a\u0644"
+            ],
+            "eng": [
+                "skull",
+                "head",
+                "skull, head",
+                "summit."
+            ],
+            "fre": [
+                "cr\u00e2ne",
+                "sommet",
+                "chef",
+                "fa\u00eete",
+                "t\u00eate",
+                "colline"
+            ]
+        },
+        "word": {
+            "id": 18855,
+            "uri": "https://sedra.bethmardutho.org/api/word/18855.json"
+        }
+    }
+]

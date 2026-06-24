@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15221,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15221.json"
+        },
+        "syriac": "\u071d\u0712\u0712",
+        "glosses": {
+            "English": [
+                "to shout.",
+                "IIa to make a joyful noise",
+                "to blow (horn etc.)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3110,
+            "uri": "https://sedra.bethmardutho.org/api/root/3110.json"
+        },
+        "words": [
+            {
+                "id": 40350,
+                "uri": "https://sedra.bethmardutho.org/api/word/40350.json"
+            },
+            {
+                "id": 40253,
+                "uri": "https://sedra.bethmardutho.org/api/word/40253.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

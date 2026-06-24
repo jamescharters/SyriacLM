@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0712\u072b\u072b\u0710",
+        "western": "\u0712\u0730\u072b\u0733\u072b\u0733\u0710",
+        "lexeme": {
+            "id": 18709,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18709.json"
+        },
+        "stem": "\u0712\u072b\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "wild rue"
+            ],
+            "lat": [
+                "ruta sylvestris"
+            ]
+        },
+        "word": {
+            "id": 45083,
+            "uri": "https://sedra.bethmardutho.org/api/word/45083.json"
+        }
+    }
+]

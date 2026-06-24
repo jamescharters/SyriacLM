@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u0712\u071d",
+        "western": "\u0722\u0730\u0712\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15231.json"
+        },
+        "stem": "\u0722\u0712\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0646\u0628\u0623"
+            ],
+            "eng": [
+                "IIa to prophesy",
+                "IIp to act as a prophet, to prophesy."
+            ],
+            "fre": [
+                "proph\u00e9tiser"
+            ]
+        },
+        "word": {
+            "id": 39923,
+            "uri": "https://sedra.bethmardutho.org/api/word/39923.json"
+        }
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "lexeme": {
+            "id": 3229,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3229.json"
+        },
+        "syriac": "\u072b\u0720\u0721\u0710",
+        "glosses": {
+            "English": [
+                "salute",
+                "peace",
+                "salutation",
+                "peace, welfare",
+                "salutation."
+            ],
+            "Arabic": [
+                "\u0633\u0644\u0627\u0645, \u0627\u0632\u062f\u0647\u0627\u0631, \u0635\u062d\u0629",
+                "\u062a\u062d\u064a\u0629, \u0633\u0644\u0627\u0645"
+            ],
+            "French": [
+                "paix, prosp\u00e9rit\u00e9, sant\u00e9",
+                "salutation, salut"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1879,
+            "uri": "https://sedra.bethmardutho.org/api/root/1879.json"
+        },
+        "words": [
+            {
+                "id": 21280,
+                "uri": "https://sedra.bethmardutho.org/api/word/21280.json"
+            },
+            {
+                "id": 21277,
+                "uri": "https://sedra.bethmardutho.org/api/word/21277.json"
+            },
+            {
+                "id": 21275,
+                "uri": "https://sedra.bethmardutho.org/api/word/21275.json"
+            },
+            {
+                "id": 21271,
+                "uri": "https://sedra.bethmardutho.org/api/word/21271.json"
+            },
+            {
+                "id": 21278,
+                "uri": "https://sedra.bethmardutho.org/api/word/21278.json"
+            },
+            {
+                "id": 21282,
+                "uri": "https://sedra.bethmardutho.org/api/word/21282.json"
+            },
+            {
+                "id": 21281,
+                "uri": "https://sedra.bethmardutho.org/api/word/21281.json"
+            },
+            {
+                "id": 21273,
+                "uri": "https://sedra.bethmardutho.org/api/word/21273.json"
+            },
+            {
+                "id": 21279,
+                "uri": "https://sedra.bethmardutho.org/api/word/21279.json"
+            },
+            {
+                "id": 21276,
+                "uri": "https://sedra.bethmardutho.org/api/word/21276.json"
+            },
+            {
+                "id": 21274,
+                "uri": "https://sedra.bethmardutho.org/api/word/21274.json"
+            },
+            {
+                "id": 21272,
+                "uri": "https://sedra.bethmardutho.org/api/word/21272.json"
+            },
+            {
+                "id": 21285,
+                "uri": "https://sedra.bethmardutho.org/api/word/21285.json"
+            },
+            {
+                "id": 21287,
+                "uri": "https://sedra.bethmardutho.org/api/word/21287.json"
+            },
+            {
+                "id": 21286,
+                "uri": "https://sedra.bethmardutho.org/api/word/21286.json"
+            },
+            {
+                "id": 21284,
+                "uri": "https://sedra.bethmardutho.org/api/word/21284.json"
+            },
+            {
+                "id": 21283,
+                "uri": "https://sedra.bethmardutho.org/api/word/21283.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

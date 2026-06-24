@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1876,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1876.json"
+        },
+        "syriac": "\u0721\u0721\u072c\u0718\u0721",
+        "glosses": {
+            "English": [
+                "from everlasting",
+                "always",
+                "ever",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> never."
+            ],
+            "Arabic": [
+                ""
+            ],
+            "French": [
+                "toujours\u2026"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1120,
+            "uri": "https://sedra.bethmardutho.org/api/root/1120.json"
+        },
+        "words": [
+            {
+                "id": 12348,
+                "uri": "https://sedra.bethmardutho.org/api/word/12348.json"
+            },
+            {
+                "id": 11973,
+                "uri": "https://sedra.bethmardutho.org/api/word/11973.json"
+            },
+            {
+                "id": 12346,
+                "uri": "https://sedra.bethmardutho.org/api/word/12346.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

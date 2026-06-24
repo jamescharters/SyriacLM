@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u071f\u0723\u071d\u0717\u0718\u0722",
+        "western": "\u0722\u0736\u071f\u0742\u0723\u0730\u071d\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 10695,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10695.json"
+        },
+        "stem": "\u0722\u071f\u0723\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "goods",
+                "goods, riches.",
+                "a possession"
+            ]
+        },
+        "word": {
+            "id": 12893,
+            "uri": "https://sedra.bethmardutho.org/api/word/12893.json"
+        }
+    }
+]

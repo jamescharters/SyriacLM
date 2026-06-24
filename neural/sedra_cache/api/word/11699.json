@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0721\u0720\u0710\u0710",
+        "western": "\u0721\u0736\u0720\u0736\u0710\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1772,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1772.json"
+        },
+        "stem": "\u0721\u0720\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "flood",
+                "overflow, inundation."
+            ]
+        },
+        "word": {
+            "id": 11699,
+            "uri": "https://sedra.bethmardutho.org/api/word/11699.json"
+        }
+    }
+]

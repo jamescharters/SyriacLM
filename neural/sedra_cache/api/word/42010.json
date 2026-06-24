@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u072a\u072c\u0718\u0725",
+        "western": "\u0722\u0736\u072a\u072c\u073d\u0718\u0725",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15426,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15426.json"
+        },
+        "stem": "\u072a\u072c\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u063a\u0627"
+            ],
+            "eng": [
+                "to cause to hang loose",
+                "Ia to droop",
+                "to foam",
+                "to make to droop.",
+                "IIIa to wrench loose",
+                "IIp <span class=\"selectableFont\">\u0721\u072a\u0730\u072c\u0730\u0725</span> drooping"
+            ],
+            "fre": [
+                "\u00e9cumer"
+            ]
+        },
+        "word": {
+            "id": 42010,
+            "uri": "https://sedra.bethmardutho.org/api/word/42010.json"
+        }
+    }
+]

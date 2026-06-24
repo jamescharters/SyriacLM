@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 1107,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1107.json"
+        },
+        "syriac": "\u071a\u0723\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0627\u0642, \u0645\u0646\u0639",
+                "\u0631\u0641\u0636"
+            ],
+            "French": [
+                "retenir, emp\u00eacher",
+                "refuser"
+            ],
+            "English": [
+                "Ip to be withheld, preserved from",
+                "to be spared",
+                "spared",
+                "Ia to restrain, hold back from, withhold",
+                "IIa to reserve, store up",
+                "IIp to be exempted, freed from.",
+                "to spare"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 664,
+            "uri": "https://sedra.bethmardutho.org/api/root/664.json"
+        },
+        "words": [
+            {
+                "id": 24922,
+                "uri": "https://sedra.bethmardutho.org/api/word/24922.json"
+            },
+            {
+                "id": 24921,
+                "uri": "https://sedra.bethmardutho.org/api/word/24921.json"
+            },
+            {
+                "id": 7345,
+                "uri": "https://sedra.bethmardutho.org/api/word/7345.json"
+            },
+            {
+                "id": 7344,
+                "uri": "https://sedra.bethmardutho.org/api/word/7344.json"
+            },
+            {
+                "id": 24924,
+                "uri": "https://sedra.bethmardutho.org/api/word/24924.json"
+            },
+            {
+                "id": 24923,
+                "uri": "https://sedra.bethmardutho.org/api/word/24923.json"
+            },
+            {
+                "id": 7346,
+                "uri": "https://sedra.bethmardutho.org/api/word/7346.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

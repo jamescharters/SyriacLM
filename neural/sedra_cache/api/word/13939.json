@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0723\u0718\u071f\u0722\u0710",
+        "western": "\u0723\u0730\u0718\u071f\u0741\u0733\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2093,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2093.json"
+        },
+        "stem": "\u0723\u0718\u071f\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0641\u0629 (\u0627\u0644\u0645\u0631\u0643\u0628)"
+            ],
+            "eng": [
+                "rudder",
+                "rudder, helm."
+            ],
+            "fre": [
+                "gouvernail"
+            ]
+        },
+        "word": {
+            "id": 13939,
+            "uri": "https://sedra.bethmardutho.org/api/word/13939.json"
+        }
+    }
+]

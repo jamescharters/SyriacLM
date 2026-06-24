@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0718\u0723\u0717\u0715\u0710",
+        "western": "\u0718\u0723\u0733\u0717\u0715\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2078,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2078.json"
+        },
+        "stem": "\u0723\u0717\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0647\u064a\u062f",
+                "\u0634\u0627\u0647\u062f"
+            ],
+            "eng": [
+                "martyr",
+                "martyr.",
+                "witness",
+                "witness"
+            ],
+            "fre": [
+                "t\u00e9moin",
+                "martyr"
+            ]
+        },
+        "word": {
+            "id": 13845,
+            "uri": "https://sedra.bethmardutho.org/api/word/13845.json"
+        }
+    }
+]

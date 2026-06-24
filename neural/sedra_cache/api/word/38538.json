@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u0725\u0722\u071d\u072c\u0710",
+        "western": "\u0721\u0730\u0725\u0722\u073a\u071d\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12372,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12372.json"
+        },
+        "stem": "\u0721\u0725\u0722\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0634\u064a\u062f",
+                "\u0623\u0646\u062a\u064a\u0641\u0648\u0646\u0627",
+                "\u062c\u0648\u0627\u0628, \u0631\u062f\u0629"
+            ],
+            "eng": [
+                "antiphon, response",
+                "intimacy."
+            ],
+            "fre": [
+                "hymne",
+                "r\u00e9ponse, r\u00e9pons",
+                "antienne"
+            ]
+        },
+        "word": {
+            "id": 38538,
+            "uri": "https://sedra.bethmardutho.org/api/word/38538.json"
+        }
+    }
+]

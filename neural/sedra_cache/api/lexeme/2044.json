@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 2044,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2044.json"
+        },
+        "syriac": "\u0721\u0723\u0722\u0710",
+        "glosses": {
+            "English": [
+                "sandal, shoe.",
+                "sandal",
+                "shoe"
+            ],
+            "Arabic": [
+                ""
+            ],
+            "French": [
+                "chaussure\u2026"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1223,
+            "uri": "https://sedra.bethmardutho.org/api/root/1223.json"
+        },
+        "words": [
+            {
+                "id": 13458,
+                "uri": "https://sedra.bethmardutho.org/api/word/13458.json"
+            },
+            {
+                "id": 29290,
+                "uri": "https://sedra.bethmardutho.org/api/word/29290.json"
+            },
+            {
+                "id": 29689,
+                "uri": "https://sedra.bethmardutho.org/api/word/29689.json"
+            },
+            {
+                "id": 13459,
+                "uri": "https://sedra.bethmardutho.org/api/word/13459.json"
+            },
+            {
+                "id": 13457,
+                "uri": "https://sedra.bethmardutho.org/api/word/13457.json"
+            },
+            {
+                "id": 13461,
+                "uri": "https://sedra.bethmardutho.org/api/word/13461.json"
+            },
+            {
+                "id": 13460,
+                "uri": "https://sedra.bethmardutho.org/api/word/13460.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

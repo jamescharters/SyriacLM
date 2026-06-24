@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 2082,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2082.json"
+        },
+        "syriac": "\u0721\u0723\u071d\u0712\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0630\u0631",
+                "\u0634\u064a\u0621 \u0645\u0643\u0631\u0648\u0647"
+            ],
+            "French": [
+                "souillure",
+                "objet d&#39;horreur"
+            ],
+            "English": [
+                "abomination",
+                "pollution",
+                "pollution."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1243,
+            "uri": "https://sedra.bethmardutho.org/api/root/1243.json"
+        },
+        "words": [
+            {
+                "id": 13886,
+                "uri": "https://sedra.bethmardutho.org/api/word/13886.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

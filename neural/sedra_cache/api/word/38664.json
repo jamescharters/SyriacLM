@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0718\u072a\u071b\u072c\u0710",
+        "western": "\u0723\u073d\u0718\u072a\u071b\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10537,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10537.json"
+        },
+        "stem": "\u0723\u0718\u072a\u071b\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0643\u0629, \u062c\u0631\u062d"
+            ],
+            "eng": [
+                "arrow-head."
+            ],
+            "fre": [
+                "piq\u00fbre, blessure"
+            ]
+        },
+        "word": {
+            "id": 38664,
+            "uri": "https://sedra.bethmardutho.org/api/word/38664.json"
+        }
+    }
+]

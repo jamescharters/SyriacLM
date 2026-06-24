@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28890,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28890.json"
+        },
+        "syriac": "\u0710\u071d\u071b\u071d\u072a\u071d\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f00\u03bd\u03c4\u03af\u1fe4\u1fe5\u03b9\u03bd\u03bf\u03bd"
+            ],
+            "English": [
+                "calf's snout, Antirrhinum Orontium"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03bd\u03c4\u03af\u1fe4\u1fe5\u03b9\u03bd\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 49401,
+                "uri": "https://sedra.bethmardutho.org/api/word/49401.json"
+            },
+            {
+                "id": 55264,
+                "uri": "https://sedra.bethmardutho.org/api/word/55264.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

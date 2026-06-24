@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0718\u071a\u0715\u0718\u072c\u071f\u0718\u0722",
+        "western": "\u0718\u071a\u0730\u0715\u0742\u0718\u0730\u072c\u0742\u071f\u0742\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 955,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/955.json"
+        },
+        "stem": "\u071a\u0715\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0637\u0645\u0648\u0631\u0629"
+            ],
+            "eng": [
+                "joy",
+                "gladness"
+            ],
+            "fre": [
+                "silo"
+            ]
+        },
+        "word": {
+            "id": 6232,
+            "uri": "https://sedra.bethmardutho.org/api/word/6232.json"
+        }
+    }
+]

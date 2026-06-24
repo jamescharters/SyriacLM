@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0720\u0713\u071d\u0718\u0722\u0710",
+        "western": "\u0720\u0736\u0713\u0742\u071d\u073d\u0718\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1628,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1628.json"
+        },
+        "stem": "\u0720\u0713\u071d\u0718\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "legion",
+                "legion."
+            ]
+        },
+        "word": {
+            "id": 10889,
+            "uri": "https://sedra.bethmardutho.org/api/word/10889.json"
+        }
+    }
+]

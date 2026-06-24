@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 3011,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3011.json"
+        },
+        "syriac": "\u072a\u071b\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0637\u0628, \u062a\u0631\u0637\u0628"
+            ],
+            "French": [
+                "\u00eatre ou devenir humide"
+            ],
+            "English": [
+                "wet",
+                "moisten",
+                "Ip to become wet",
+                "IIIa = IIa.",
+                "Ia to be moist",
+                "IIa to moisten, to wet",
+                "IIp"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1757,
+            "uri": "https://sedra.bethmardutho.org/api/root/1757.json"
+        },
+        "words": [
+            {
+                "id": 19614,
+                "uri": "https://sedra.bethmardutho.org/api/word/19614.json"
+            },
+            {
+                "id": 19616,
+                "uri": "https://sedra.bethmardutho.org/api/word/19616.json"
+            },
+            {
+                "id": 19615,
+                "uri": "https://sedra.bethmardutho.org/api/word/19615.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

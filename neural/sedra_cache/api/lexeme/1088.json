@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1088,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1088.json"
+        },
+        "syriac": "\u071a\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "Taverns",
+                "tavern",
+                "store",
+                "stall, booth, shop."
+            ],
+            "Arabic": [
+                "\u063a\u0631\u0641\u0629",
+                "\u062d\u0627\u0646\u0648\u062a"
+            ],
+            "French": [
+                "chambre",
+                "boutique"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 652,
+            "uri": "https://sedra.bethmardutho.org/api/root/652.json"
+        },
+        "words": [
+            {
+                "id": 7280,
+                "uri": "https://sedra.bethmardutho.org/api/word/7280.json"
+            },
+            {
+                "id": 7279,
+                "uri": "https://sedra.bethmardutho.org/api/word/7279.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

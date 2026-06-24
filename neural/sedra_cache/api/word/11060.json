@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0710\u0722\u0710",
+        "western": "\u0720\u0721\u073a\u0710\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1677,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1677.json"
+        },
+        "stem": "\u0720\u0721\u0710\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u0641\u0623"
+            ],
+            "eng": [
+                "harbor, haven",
+                "port",
+                "haven",
+                "Lit. <span class=\"selectableFont\">\u0718\u0730\u0725\u0715\u0733\u0710 \u0715\u0730\u0720\u0721\u073a\u0710\u0722\u0733\u0710</span> service commemorating the ten wise virgins at the beginning of Passion Week."
+            ],
+            "fre": [
+                "port"
+            ]
+        },
+        "word": {
+            "id": 11060,
+            "uri": "https://sedra.bethmardutho.org/api/word/11060.json"
+        }
+    }
+]

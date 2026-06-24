@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 751,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/751.json"
+        },
+        "syriac": "\u0721\u0715\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "floor",
+                "loft",
+                "dwelling, habitation.",
+                "storey, floor (of building)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 472,
+            "uri": "https://sedra.bethmardutho.org/api/root/472.json"
+        },
+        "words": [
+            {
+                "id": 4837,
+                "uri": "https://sedra.bethmardutho.org/api/word/4837.json"
+            },
+            {
+                "id": 4836,
+                "uri": "https://sedra.bethmardutho.org/api/word/4836.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

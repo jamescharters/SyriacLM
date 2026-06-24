@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15666,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15666.json"
+        },
+        "syriac": "\u0713\u0710\u0710",
+        "glosses": {
+            "English": [
+                "to be proud",
+                "to luxuriate",
+                "IIp boast, act proudly",
+                "Ia to enjoy",
+                "to bubble up (of a spring).",
+                "IIa <span class=\"selectableFont\">\u0713\u0730\u0710\u073a\u071d</span> to make proud"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3132,
+            "uri": "https://sedra.bethmardutho.org/api/root/3132.json"
+        },
+        "words": [
+            {
+                "id": 42174,
+                "uri": "https://sedra.bethmardutho.org/api/word/42174.json"
+            },
+            {
+                "id": 41453,
+                "uri": "https://sedra.bethmardutho.org/api/word/41453.json"
+            },
+            {
+                "id": 41276,
+                "uri": "https://sedra.bethmardutho.org/api/word/41276.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072c\u0721\u0725\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072b\u072c\u0741\u0730\u0721\u0725\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3246,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3246.json"
+        },
+        "stem": "\u0721\u072b\u072c\u0721\u0725\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0627\u0639\u0629"
+            ],
+            "eng": [
+                "obedience",
+                "obedience."
+            ],
+            "fre": [
+                "ob\u00e9issance"
+            ]
+        },
+        "word": {
+            "id": 21392,
+            "uri": "https://sedra.bethmardutho.org/api/word/21392.json"
+        }
+    }
+]

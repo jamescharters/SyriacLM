@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0712\u072c\u0718\u0715\u071d\u072c\u0710",
+        "western": "\u0712\u0741\u072c\u0742\u0730\u0718\u0715\u0741\u071d\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1300,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1300.json"
+        },
+        "stem": "\u072c\u0718\u0715\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062f\u062d, \u0634\u0643\u0631\u0627\u0646",
+                "\u0623\u0641\u062e\u0627\u0631\u0633\u062a\u064a\u0627",
+                "\u0627\u0639\u062a\u0631\u0627\u0641",
+                "\u062f\u064a\u0627\u0646\u0629",
+                "\u0628\u062f\u0639\u0629"
+            ],
+            "eng": [
+                "acknowledgement, thanksgiving, confession (of faith), religion.",
+                "thanksgiving",
+                "avowal",
+                "confession"
+            ],
+            "fre": [
+                "secte",
+                "confession",
+                "Eucharistie",
+                "religion",
+                "louange, action de gr\u00e2ces"
+            ]
+        },
+        "word": {
+            "id": 8518,
+            "uri": "https://sedra.bethmardutho.org/api/word/8518.json"
+        }
+    }
+]

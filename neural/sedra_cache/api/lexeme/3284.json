@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 3284,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3284.json"
+        },
+        "syriac": "\u072c\u072b\u0725\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0628\u0631, \u0642\u0635\u0629",
+                "\u062a\u0623\u0644\u064a\u0641"
+            ],
+            "French": [
+                "r\u00e9cit, histoire",
+                "composition"
+            ],
+            "English": [
+                "narrative",
+                "account",
+                "narration, account, history, story."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1912,
+            "uri": "https://sedra.bethmardutho.org/api/root/1912.json"
+        },
+        "words": [
+            {
+                "id": 21744,
+                "uri": "https://sedra.bethmardutho.org/api/word/21744.json"
+            },
+            {
+                "id": 21745,
+                "uri": "https://sedra.bethmardutho.org/api/word/21745.json"
+            },
+            {
+                "id": 21096,
+                "uri": "https://sedra.bethmardutho.org/api/word/21096.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0725\u0720\u0720\u072c\u0710",
+        "western": "\u0725\u0720\u0730\u0720\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2317,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2317.json"
+        },
+        "stem": "\u0725\u0720\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0645\u0631\u0629, \u0645\u0646\u062a\u0648\u062c"
+            ],
+            "eng": [
+                "produce",
+                "fruit",
+                "income",
+                "produce, ingathering, yield."
+            ],
+            "fre": [
+                "fruit, produit"
+            ]
+        },
+        "word": {
+            "id": 15445,
+            "uri": "https://sedra.bethmardutho.org/api/word/15445.json"
+        }
+    }
+]

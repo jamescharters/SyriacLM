@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0712\u071f\u0718",
+        "western": "\u0712\u0741\u071f\u0742\u0730\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 390,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/390.json"
+        },
+        "stem": "\u0712\u071f\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0643\u0649",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to weep, mourn",
+                "IIp",
+                "IIa to bewail",
+                "IIIa.",
+                "weep",
+                "to cry",
+                "Ip"
+            ],
+            "fre": [
+                "pleurer",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 2749,
+            "uri": "https://sedra.bethmardutho.org/api/word/2749.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0729\u072a",
+        "western": "\u0710\u0730\u0729\u0730\u072a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2868,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2868.json"
+        },
+        "stem": "\u0729\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0729\u0730\u072a</span> to cool.",
+                "to cool.",
+                "Ia to grow cold, cool",
+                "grow cold"
+            ]
+        },
+        "word": {
+            "id": 42394,
+            "uri": "https://sedra.bethmardutho.org/api/word/42394.json"
+        }
+    }
+]

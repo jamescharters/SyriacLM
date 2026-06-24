@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2864,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2864.json"
+        },
+        "syriac": "\u0729\u0728\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0633\u0631"
+            ],
+            "French": [
+                "fraction"
+            ],
+            "English": [
+                "breaking",
+                "fragment",
+                "piece of bread.",
+                "breaking of bread (esp. during the Eucharistic liturgy)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1699,
+            "uri": "https://sedra.bethmardutho.org/api/root/1699.json"
+        },
+        "words": [
+            {
+                "id": 18555,
+                "uri": "https://sedra.bethmardutho.org/api/word/18555.json"
+            },
+            {
+                "id": 18553,
+                "uri": "https://sedra.bethmardutho.org/api/word/18553.json"
+            },
+            {
+                "id": 18556,
+                "uri": "https://sedra.bethmardutho.org/api/word/18556.json"
+            },
+            {
+                "id": 18554,
+                "uri": "https://sedra.bethmardutho.org/api/word/18554.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0719\u071d\u0729\u072c\u0710",
+        "western": "\u0719\u073a\u071d\u0729\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5305,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5305.json"
+        },
+        "stem": "\u0719\u071d\u0729\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0627\u0639\u0642\u0629"
+            ],
+            "eng": [
+                "bolt of lightning."
+            ],
+            "fre": [
+                "foudre"
+            ]
+        },
+        "word": {
+            "id": 38032,
+            "uri": "https://sedra.bethmardutho.org/api/word/38032.json"
+        }
+    }
+]

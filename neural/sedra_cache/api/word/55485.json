@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0726\u071d\u0720\u071d\u0726\u0723\u071d\u0710",
+        "western": "\u0710\u073a\u071d\u0726\u073a\u071d\u0720\u071d\u0726\u0723\u071d\u0730\u0710",
+        "lexeme": {
+            "id": 29111,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29111.json"
+        },
+        "stem": "\u0710\u071d\u0726\u071d\u0720\u071d\u0726\u0723\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "the falling sickness, epilepsy"
+            ],
+            "grc": [
+                "\u1f10\u03c0\u03b9\u03bb\u03b7\u03c8\u03af\u03b1"
+            ],
+            "lat": [
+                "epilepsia morbus"
+            ]
+        },
+        "word": {
+            "id": 55485,
+            "uri": "https://sedra.bethmardutho.org/api/word/55485.json"
+        }
+    }
+]

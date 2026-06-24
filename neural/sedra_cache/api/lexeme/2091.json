@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2091,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2091.json"
+        },
+        "syriac": "\u0723\u071f\u0710",
+        "glosses": {
+            "English": [
+                "no means",
+                "end",
+                "summation",
+                "limit",
+                "sum, total",
+                "end, extremity",
+                "<span class=\"selectableFont\">\u0715\u0720\u0733\u0710 \u0723\u0733\u071f</span> unending, endless.",
+                "<span class=\"selectableFont\">\u0720\u0733\u0710 \u0723\u0733\u071f</span> not at all"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1247,
+            "uri": "https://sedra.bethmardutho.org/api/root/1247.json"
+        },
+        "words": [
+            {
+                "id": 13929,
+                "uri": "https://sedra.bethmardutho.org/api/word/13929.json"
+            },
+            {
+                "id": 13928,
+                "uri": "https://sedra.bethmardutho.org/api/word/13928.json"
+            },
+            {
+                "id": 13930,
+                "uri": "https://sedra.bethmardutho.org/api/word/13930.json"
+            },
+            {
+                "id": 13931,
+                "uri": "https://sedra.bethmardutho.org/api/word/13931.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

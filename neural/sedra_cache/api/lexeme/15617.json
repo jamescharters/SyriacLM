@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15617,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15617.json"
+        },
+        "syriac": "\u071a\u0720\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0644\u0628",
+                "\u00a0"
+            ],
+            "French": [
+                "traire",
+                "\u00a0"
+            ],
+            "English": [
+                "to yield milk",
+                "Ip.",
+                "Ia to milk, suck milk"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2713,
+            "uri": "https://sedra.bethmardutho.org/api/root/2713.json"
+        },
+        "words": [
+            {
+                "id": 42068,
+                "uri": "https://sedra.bethmardutho.org/api/word/42068.json"
+            },
+            {
+                "id": 40830,
+                "uri": "https://sedra.bethmardutho.org/api/word/40830.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

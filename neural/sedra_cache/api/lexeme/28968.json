@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28968,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28968.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u0718\u0721\u0710\u072a\u072c\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u03bc\u03ac\u03c1\u03b1\u03b8\u03bf\u03bd, \u1f31\u03c0\u03c0\u03bf\u03bc\u03ac\u03c1\u03b1\u03b8\u03bf\u03bd"
+            ],
+            "English": [
+                "fennel, horse-fennel"
+            ],
+            "Latin": [
+                "Foeniculum vulgare, , Prangos ferulacea"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bc\u03ac\u03c1\u03b1\u03b8\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49456,
+                "uri": "https://sedra.bethmardutho.org/api/word/49456.json"
+            },
+            {
+                "id": 55342,
+                "uri": "https://sedra.bethmardutho.org/api/word/55342.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u0718\u071f\u0712",
+        "western": "\u071f\u0730\u0718\u071f\u0736\u0712",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14727,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14727.json"
+        },
+        "stem": "\u071f\u0718\u071f\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to asterize",
+                "IVp.",
+                "IVa to stud with stars"
+            ]
+        },
+        "word": {
+            "id": 40725,
+            "uri": "https://sedra.bethmardutho.org/api/word/40725.json"
+        }
+    }
+]

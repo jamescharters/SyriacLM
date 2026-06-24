@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 771,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/771.json"
+        },
+        "syriac": "\u0717\u0712\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0647\u0631\u0629"
+            ],
+            "French": [
+                "fleur"
+            ],
+            "English": [
+                "flower",
+                "flower."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 484,
+            "uri": "https://sedra.bethmardutho.org/api/root/484.json"
+        },
+        "words": [
+            {
+                "id": 4916,
+                "uri": "https://sedra.bethmardutho.org/api/word/4916.json"
+            },
+            {
+                "id": 42299,
+                "uri": "https://sedra.bethmardutho.org/api/word/42299.json"
+            },
+            {
+                "id": 42307,
+                "uri": "https://sedra.bethmardutho.org/api/word/42307.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

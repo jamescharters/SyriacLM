@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 818,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/818.json"
+        },
+        "syriac": "\u0717\u072a\u0718\u0721\u0710",
+        "glosses": {
+            "English": [
+                "spice",
+                "sweet spice."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f04\u03c1\u03c9\u03bc\u03b1"
+            ]
+        },
+        "root": {
+            "id": 520,
+            "uri": "https://sedra.bethmardutho.org/api/root/520.json"
+        },
+        "words": [
+            {
+                "id": 22784,
+                "uri": "https://sedra.bethmardutho.org/api/word/22784.json"
+            },
+            {
+                "id": 5335,
+                "uri": "https://sedra.bethmardutho.org/api/word/5335.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

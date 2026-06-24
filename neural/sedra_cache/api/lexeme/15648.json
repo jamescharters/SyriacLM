@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15648,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15648.json"
+        },
+        "syriac": "\u0726\u072a",
+        "glosses": {
+            "English": [
+                "Ia to be hot (of tears)",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0726\u0730\u0718\u0730\u072a</span> to be red hot. (See also <span class=\"selectableFont\">\u0726\u0718\u072a</span>.)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2584,
+            "uri": "https://sedra.bethmardutho.org/api/root/2584.json"
+        },
+        "words": [
+            {
+                "id": 42057,
+                "uri": "https://sedra.bethmardutho.org/api/word/42057.json"
+            },
+            {
+                "id": 41357,
+                "uri": "https://sedra.bethmardutho.org/api/word/41357.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

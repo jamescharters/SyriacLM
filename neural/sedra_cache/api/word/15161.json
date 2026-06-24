@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0725\u0718\u0726\u0718\u0722",
+        "western": "\u0722\u0725\u073d\u0718\u0726\u0742\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2275,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2275.json"
+        },
+        "stem": "\u0725\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0725\u0730\u071d\u0730\u0726</span> to grow languid, to droop",
+                "be tired",
+                "Ia to be double",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0725\u073a\u071d\u0726</span> to enfeeble.",
+                "faint",
+                "to faint",
+                "to enfold, to twist"
+            ]
+        },
+        "word": {
+            "id": 15161,
+            "uri": "https://sedra.bethmardutho.org/api/word/15161.json"
+        }
+    }
+]

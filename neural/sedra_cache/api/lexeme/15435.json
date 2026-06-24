@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15435,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15435.json"
+        },
+        "syriac": "\u0715\u0713\u072a",
+        "glosses": {
+            "English": [
+                "IIa.",
+                "Ia to stab"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2643,
+            "uri": "https://sedra.bethmardutho.org/api/root/2643.json"
+        },
+        "words": [
+            {
+                "id": 42164,
+                "uri": "https://sedra.bethmardutho.org/api/word/42164.json"
+            },
+            {
+                "id": 41570,
+                "uri": "https://sedra.bethmardutho.org/api/word/41570.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

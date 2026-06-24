@@ -1,0 +1,57 @@
+[
+    {
+        "syriac": "\u0715\u0726\u0720\u071a\u0718\u072c\u0722",
+        "western": "\u0715\u0741\u0726\u0742\u0733\u0720\u071a\u073d\u0718\u072c\u0742\u0730\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 9209,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9209.json"
+        },
+        "stem": "\u0726\u0720\u071a\u0718\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0647\u0646\u0629",
+                "\u0641\u0644\u0627\u062d\u0629",
+                "\u0623\u0643\u0644, \u0648\u062c\u0628\u0629, \u0648\u0644\u064a\u0645\u0629",
+                "\u0639\u0633\u0643\u0631\u064a\u0629, \u0641\u0646 \u0639\u0633\u0643\u0631\u064a, \u062c\u064a\u0634",
+                "\u062e\u062f\u0645\u0629",
+                "\u062c\u0645\u0627\u0639\u0629, \u0641\u0631\u0642\u0629",
+                "\u062e\u062f\u0627\u0645"
+            ],
+            "eng": [
+                "agriculture.",
+                "military",
+                "ministry",
+                "occupation",
+                "military service.",
+                "service",
+                "agriculture",
+                "service",
+                "warfare"
+            ],
+            "fre": [
+                "service",
+                "agriculture",
+                "repas, festin",
+                "serviteurs",
+                "service militaire, art militaire, arm\u00e9e",
+                "groupe, corps",
+                "m\u00e9tier"
+            ]
+        },
+        "word": {
+            "id": 16538,
+            "uri": "https://sedra.bethmardutho.org/api/word/16538.json"
+        }
+    }
+]

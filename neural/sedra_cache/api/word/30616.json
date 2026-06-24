@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u072b\u071f\u0710",
+        "western": "\u0710\u0736\u072b\u0308\u071f\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14106,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14106.json"
+        },
+        "stem": "\u0710\u072b\u071f\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0635\u064a\u0629"
+            ],
+            "eng": [
+                "testicle."
+            ],
+            "fre": [
+                "testicule"
+            ]
+        },
+        "word": {
+            "id": 30616,
+            "uri": "https://sedra.bethmardutho.org/api/word/30616.json"
+        }
+    }
+]

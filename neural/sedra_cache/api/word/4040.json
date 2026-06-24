@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0712\u071d\u0729",
+        "western": "\u0718\u0715\u0742\u0730\u0712\u0741\u073a\u071d\u0729",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 644,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/644.json"
+        },
+        "stem": "\u0715\u0712\u071d\u0729\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062a\u0635\u0644, \u0645\u0644\u062a\u062d\u0645"
+            ],
+            "eng": [
+                "attendant",
+                "follower",
+                "contiguous.",
+                "adherent"
+            ],
+            "fre": [
+                "adh\u00e9rent , contigu"
+            ]
+        },
+        "word": {
+            "id": 4040,
+            "uri": "https://sedra.bethmardutho.org/api/word/4040.json"
+        }
+    }
+]

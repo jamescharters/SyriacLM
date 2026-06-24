@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15687,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15687.json"
+        },
+        "syriac": "\u072b\u071b\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0630\u0649"
+            ],
+            "French": [
+                "d\u00e9raisonner"
+            ],
+            "English": [
+                "to lose one\u2019s senses.",
+                "Ia to talk nonsense"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3037,
+            "uri": "https://sedra.bethmardutho.org/api/root/3037.json"
+        },
+        "words": [
+            {
+                "id": 41778,
+                "uri": "https://sedra.bethmardutho.org/api/word/41778.json"
+            },
+            {
+                "id": 40089,
+                "uri": "https://sedra.bethmardutho.org/api/word/40089.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

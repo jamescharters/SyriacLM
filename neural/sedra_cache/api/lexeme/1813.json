@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1813,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1813.json"
+        },
+        "syriac": "\u0721\u0722\u072c\u0710",
+        "glosses": {
+            "English": [
+                "fur",
+                "hair",
+                "string (of instrument).",
+                "hair"
+            ],
+            "Arabic": [
+                "\u0634\u0639\u0631, \u0648\u0628\u0631",
+                "\u0639\u0635\u0628",
+                "\u0648\u062a\u0631"
+            ],
+            "French": [
+                "cheveu, poil",
+                "nerf",
+                "corde"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1084,
+            "uri": "https://sedra.bethmardutho.org/api/root/1084.json"
+        },
+        "words": [
+            {
+                "id": 12052,
+                "uri": "https://sedra.bethmardutho.org/api/word/12052.json"
+            },
+            {
+                "id": 12054,
+                "uri": "https://sedra.bethmardutho.org/api/word/12054.json"
+            },
+            {
+                "id": 12053,
+                "uri": "https://sedra.bethmardutho.org/api/word/12053.json"
+            },
+            {
+                "id": 42210,
+                "uri": "https://sedra.bethmardutho.org/api/word/42210.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

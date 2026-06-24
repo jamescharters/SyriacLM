@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072c\u0718\u072b\u071b\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072b\u072c\u0730\u0718\u072b\u071b\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7036,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7036.json"
+        },
+        "stem": "\u0721\u072b\u072c\u0718\u072b\u071b\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u063a\u0628\u0629"
+            ],
+            "eng": [
+                "advance, promotion, advancement."
+            ],
+            "fre": [
+                "d\u00e9sir"
+            ]
+        },
+        "word": {
+            "id": 35150,
+            "uri": "https://sedra.bethmardutho.org/api/word/35150.json"
+        }
+    }
+]

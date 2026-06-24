@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 16550,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16550.json"
+        },
+        "syriac": "\u0710\u0722\u0710\u0712\u071d\u0712\u0719\u0718\u0722",
+        "glosses": {
+            "English": [
+                "(astrol.) the ascendant"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03bd\u03b1\u03b2\u03b9\u03b2\u03ac\u03b6\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 50065,
+                "uri": "https://sedra.bethmardutho.org/api/word/50065.json"
+            },
+            {
+                "id": 42924,
+                "uri": "https://sedra.bethmardutho.org/api/word/42924.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

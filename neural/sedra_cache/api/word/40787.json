@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0729",
+        "western": "\u0729\u0730\u072a\u0736\u0729",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15245,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15245.json"
+        },
+        "stem": "\u0729\u072a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0631\u0642\u0631"
+            ],
+            "eng": [
+                "IIa to cluck."
+            ],
+            "fre": [
+                "glousser"
+            ]
+        },
+        "word": {
+            "id": 40787,
+            "uri": "https://sedra.bethmardutho.org/api/word/40787.json"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0722\u0721\u072a",
+        "western": "\u0722\u0721\u072a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14986,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14986.json"
+        },
+        "stem": "\u0722\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to threaten.",
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0722\u0730\u0721\u0730\u072a</span> to be ferocious"
+            ]
+        },
+        "word": {
+            "id": 41231,
+            "uri": "https://sedra.bethmardutho.org/api/word/41231.json"
+        }
+    }
+]

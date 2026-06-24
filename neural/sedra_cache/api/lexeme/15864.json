@@ -1,0 +1,60 @@
+[
+    {
+        "lexeme": {
+            "id": 15864,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15864.json"
+        },
+        "syriac": "\u072a\u071a\u072b",
+        "glosses": {
+            "English": [
+                "to make to swarm",
+                "Ia to creep",
+                "to germinate",
+                "Ia to creep",
+                "creep",
+                "to make to swarm",
+                "IIIa to move",
+                "to swarm",
+                "to stir up",
+                "to insinuate.",
+                "to insinuate.",
+                "to swarm",
+                "IIIa to move",
+                "to germinate",
+                "to stir up"
+            ],
+            "Arabic": [
+                "\u062a\u062d\u0631\u0643",
+                "\u0632\u062d\u0641"
+            ],
+            "French": [
+                "se mouvoir",
+                "ramper"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2583,
+            "uri": "https://sedra.bethmardutho.org/api/root/2583.json"
+        },
+        "words": [
+            {
+                "id": 19610,
+                "uri": "https://sedra.bethmardutho.org/api/word/19610.json"
+            },
+            {
+                "id": 42113,
+                "uri": "https://sedra.bethmardutho.org/api/word/42113.json"
+            },
+            {
+                "id": 41515,
+                "uri": "https://sedra.bethmardutho.org/api/word/41515.json"
+            },
+            {
+                "id": 40947,
+                "uri": "https://sedra.bethmardutho.org/api/word/40947.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

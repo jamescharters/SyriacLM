@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1676,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1676.json"
+        },
+        "syriac": "\u0720\u0721",
+        "glosses": {
+            "English": [
+                "namely",
+                "forsooth",
+                "to wit",
+                "in second position, the particle serves to introduce a quotation or oblique oration",
+                "surely",
+                "clearly",
+                "forsooth",
+                "namely (quotation marker)."
+            ],
+            "Arabic": [
+                "\u0623\u064a, \u062d\u0642\u0627\u064b"
+            ],
+            "French": [
+                "\u00e0 savoir, certes"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 994,
+            "uri": "https://sedra.bethmardutho.org/api/root/994.json"
+        },
+        "words": [
+            {
+                "id": 47887,
+                "uri": "https://sedra.bethmardutho.org/api/word/47887.json"
+            },
+            {
+                "id": 11058,
+                "uri": "https://sedra.bethmardutho.org/api/word/11058.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

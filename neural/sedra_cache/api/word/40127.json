@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0726\u071a",
+        "western": "\u0726\u0733\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15809,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15809.json"
+        },
+        "stem": "\u0726\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to blow, to breathe",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0726\u0730\u0718\u0730\u071a</span> to be exhaled",
+                "IIa <span class=\"selectableFont\">\u0726\u0730\u071d\u0730\u071a</span> to exhale",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u073a\u071d\u071a</span> to cause to pant, to cause to exhale.",
+                "to smell",
+                "to give off scent"
+            ]
+        },
+        "word": {
+            "id": 40127,
+            "uri": "https://sedra.bethmardutho.org/api/word/40127.json"
+        }
+    }
+]

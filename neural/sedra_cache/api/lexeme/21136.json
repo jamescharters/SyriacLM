@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 21136,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21136.json"
+        },
+        "syriac": "\u0710\u0718\u0715\u071d\u0726\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u039f\u1f30\u03b4\u03af\u03c0\u03bf\u03c5\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48635,
+                "uri": "https://sedra.bethmardutho.org/api/word/48635.json"
+            },
+            {
+                "id": 47510,
+                "uri": "https://sedra.bethmardutho.org/api/word/47510.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0718\u0720\u0710\u0712\u072a\u0717\u0721",
+        "western": "\u0718\u0720\u0730\u0710\u0712\u0742\u072a\u0733\u0717\u0733\u0721",
+        "lexeme": {
+            "id": 18,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18.json"
+        },
+        "stem": "\u0710\u0712\u072a\u0717\u0721",
+        "category": "proper noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Abraham"
+            ]
+        },
+        "word": {
+            "id": 169,
+            "uri": "https://sedra.bethmardutho.org/api/word/169.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0712\u0718\u071a",
+        "western": "\u0712\u073d\u0718\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15748,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15748.json"
+        },
+        "stem": "\u0712\u0718\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be overripe (of fruit).",
+                "Ia to be weak (from age)"
+            ]
+        },
+        "word": {
+            "id": 39999,
+            "uri": "https://sedra.bethmardutho.org/api/word/39999.json"
+        }
+    }
+]

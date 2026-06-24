@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u0713",
+        "western": "\u071a\u0733\u0713",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15773,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15773.json"
+        },
+        "stem": "\u071a\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to avoid, stand in awe of, to retire",
+                "IIa <span class=\"selectableFont\">\u071a\u0730\u0718\u0736\u0713</span> to surround.",
+                "Ia to draw a circle",
+                "to encompass, go about"
+            ]
+        },
+        "word": {
+            "id": 40926,
+            "uri": "https://sedra.bethmardutho.org/api/word/40926.json"
+        }
+    }
+]

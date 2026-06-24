@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 3029,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3029.json"
+        },
+        "syriac": "\u072a\u071f\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0631\u0633",
+                "\u062d\u062c\u0631\u0629",
+                "\u0627\u0644\u062e\u064a\u0644"
+            ],
+            "French": [
+                "cheval",
+                "jument",
+                "les chevaux"
+            ],
+            "English": [
+                "horse",
+                "horse",
+                "horses."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f31\u03c0\u03c0\u03cc\u03ba\u03b1\u03bc\u03c0\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1764,
+            "uri": "https://sedra.bethmardutho.org/api/root/1764.json"
+        },
+        "words": [
+            {
+                "id": 19732,
+                "uri": "https://sedra.bethmardutho.org/api/word/19732.json"
+            },
+            {
+                "id": 19734,
+                "uri": "https://sedra.bethmardutho.org/api/word/19734.json"
+            },
+            {
+                "id": 19735,
+                "uri": "https://sedra.bethmardutho.org/api/word/19735.json"
+            },
+            {
+                "id": 19568,
+                "uri": "https://sedra.bethmardutho.org/api/word/19568.json"
+            },
+            {
+                "id": 19733,
+                "uri": "https://sedra.bethmardutho.org/api/word/19733.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

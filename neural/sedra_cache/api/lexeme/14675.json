@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14675,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14675.json"
+        },
+        "syriac": "\u0729\u071d\u0722\u0722",
+        "glosses": {
+            "English": [
+                "IVa to work as a smith, to forge."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2152,
+            "uri": "https://sedra.bethmardutho.org/api/root/2152.json"
+        },
+        "words": [
+            {
+                "id": 41254,
+                "uri": "https://sedra.bethmardutho.org/api/word/41254.json"
+            },
+            {
+                "id": 40645,
+                "uri": "https://sedra.bethmardutho.org/api/word/40645.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

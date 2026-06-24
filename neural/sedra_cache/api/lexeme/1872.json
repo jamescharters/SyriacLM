@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1872,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1872.json"
+        },
+        "syriac": "\u0721\u072b\u071d\u071a\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0633\u062d"
+            ],
+            "French": [
+                "onction"
+            ],
+            "English": [
+                "anointing",
+                "unction",
+                "anointing, unction."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1117,
+            "uri": "https://sedra.bethmardutho.org/api/root/1117.json"
+        },
+        "words": [
+            {
+                "id": 12329,
+                "uri": "https://sedra.bethmardutho.org/api/word/12329.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

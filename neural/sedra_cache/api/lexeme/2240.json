@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 2240,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2240.json"
+        },
+        "syriac": "\u0725\u0713\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "cow.",
+                "heifer"
+            ],
+            "Arabic": [
+                "\u0639\u062c\u0644\u0629"
+            ],
+            "French": [
+                "g\u00e9nisse"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1335,
+            "uri": "https://sedra.bethmardutho.org/api/root/1335.json"
+        },
+        "words": [
+            {
+                "id": 14966,
+                "uri": "https://sedra.bethmardutho.org/api/word/14966.json"
+            },
+            {
+                "id": 14967,
+                "uri": "https://sedra.bethmardutho.org/api/word/14967.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

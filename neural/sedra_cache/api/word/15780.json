@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0718\u0725\u0722\u0717",
+        "western": "\u0718\u0725\u0733\u0722\u0736\u0717",
+        "state": "emphatic",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 8785,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8785.json"
+        },
+        "stem": "\u0725\u0722\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "flock",
+                "sheep, flock."
+            ]
+        },
+        "word": {
+            "id": 15780,
+            "uri": "https://sedra.bethmardutho.org/api/word/15780.json"
+        }
+    }
+]

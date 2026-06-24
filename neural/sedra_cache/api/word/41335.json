@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u072a\u072c\u071f",
+        "western": "\u0726\u0730\u072a\u072c\u0736\u071f",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14851,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14851.json"
+        },
+        "stem": "\u0726\u072a\u072c\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be anxious.",
+                "IVa to make anxious",
+                "IVp to be split"
+            ]
+        },
+        "word": {
+            "id": 41335,
+            "uri": "https://sedra.bethmardutho.org/api/word/41335.json"
+        }
+    }
+]

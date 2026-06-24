@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 272,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/272.json"
+        },
+        "syriac": "\u072a\u0712\u071d\u0725\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0627\u0628\u0639",
+                "\u0645\u0646 \u0623\u0631\u0628\u0639\u0629 (\u0623\u064a\u0627\u0645)",
+                "\u00a0"
+            ],
+            "French": [
+                "quatri\u00e8me",
+                "de quatre (jours)",
+                "\u00a0"
+            ],
+            "English": [
+                "fourth",
+                "fourth, having four."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 202,
+            "uri": "https://sedra.bethmardutho.org/api/root/202.json"
+        },
+        "words": [
+            {
+                "id": 1860,
+                "uri": "https://sedra.bethmardutho.org/api/word/1860.json"
+            },
+            {
+                "id": 1859,
+                "uri": "https://sedra.bethmardutho.org/api/word/1859.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

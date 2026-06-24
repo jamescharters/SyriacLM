@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 820,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/820.json"
+        },
+        "syriac": "\u0717\u072a\u0721\u0710",
+        "glosses": {
+            "English": [
+                "Hermas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 522,
+            "uri": "https://sedra.bethmardutho.org/api/root/522.json"
+        },
+        "words": [
+            {
+                "id": 5342,
+                "uri": "https://sedra.bethmardutho.org/api/word/5342.json"
+            },
+            {
+                "id": 5343,
+                "uri": "https://sedra.bethmardutho.org/api/word/5343.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

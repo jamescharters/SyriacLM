@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1155,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1155.json"
+        },
+        "syriac": "\u071a\u072a\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0631\u0633, \u0633\u0643\u062a",
+                "\u0637\u0631\u0634",
+                "\u00a0"
+            ],
+            "French": [
+                "\u00eatre muet, se taire",
+                "devenir sourd",
+                "\u00a0"
+            ],
+            "English": [
+                "IIIa to cause to be dumb, to silence.",
+                "to bewitch, enchant, use magic",
+                "Ip to become deaf, to stop one\u2019s ears",
+                "dumb",
+                "silent",
+                "IIa to make dumb, to silence",
+                "to enchant",
+                "Ia to be dumb, mute, silent",
+                "IIp to become deaf"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 689,
+            "uri": "https://sedra.bethmardutho.org/api/root/689.json"
+        },
+        "words": [
+            {
+                "id": 7574,
+                "uri": "https://sedra.bethmardutho.org/api/word/7574.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

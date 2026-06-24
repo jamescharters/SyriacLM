@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0719\u0721\u072a\u071d\u0722",
+        "western": "\u0719\u0733\u0721\u072a\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 892,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/892.json"
+        },
+        "stem": "\u0719\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0646\u0649 (\u0645\u0636), \u0631\u062a\u0644 (\u0645\u0636)"
+            ],
+            "eng": [
+                "sing",
+                "Ia, IIa to sing, chant",
+                "Ip, IIp.",
+                "pipe"
+            ],
+            "fre": [
+                "chanter"
+            ]
+        },
+        "word": {
+            "id": 5770,
+            "uri": "https://sedra.bethmardutho.org/api/word/5770.json"
+        }
+    }
+]

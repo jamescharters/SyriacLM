@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0726\u0715\u0710",
+        "western": "\u0729\u073d\u0718\u0726\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11299.json"
+        },
+        "stem": "\u0729\u0718\u0726\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0646\u0641\u0630",
+                "\u0628\u0648\u0645\u0629"
+            ],
+            "eng": [
+                "owl.",
+                "hedgehog, porcupine",
+                "an owl"
+            ],
+            "fre": [
+                "h\u00e9risson",
+                "hibou"
+            ]
+        },
+        "word": {
+            "id": 35075,
+            "uri": "https://sedra.bethmardutho.org/api/word/35075.json"
+        }
+    }
+]

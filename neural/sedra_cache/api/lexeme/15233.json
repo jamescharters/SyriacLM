@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15233,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15233.json"
+        },
+        "syriac": "\u0723\u071a\u071a",
+        "glosses": {
+            "English": [
+                "IIa to rarefy, to make thin, to dissolve",
+                "to be stripped (of leaves).",
+                "IIp to be made bare"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2655,
+            "uri": "https://sedra.bethmardutho.org/api/root/2655.json"
+        },
+        "words": [
+            {
+                "id": 40839,
+                "uri": "https://sedra.bethmardutho.org/api/word/40839.json"
+            },
+            {
+                "id": 40634,
+                "uri": "https://sedra.bethmardutho.org/api/word/40634.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

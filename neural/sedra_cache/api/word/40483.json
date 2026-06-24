@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0722\u071a\u072b",
+        "western": "\u0722\u071a\u0730\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15675,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15675.json"
+        },
+        "stem": "\u0722\u071a\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to divine",
+                "IIa to practice divination",
+                "to mutter",
+                "IIp to be affected by divination.",
+                "Ia to whisper"
+            ]
+        },
+        "word": {
+            "id": 40483,
+            "uri": "https://sedra.bethmardutho.org/api/word/40483.json"
+        }
+    }
+]

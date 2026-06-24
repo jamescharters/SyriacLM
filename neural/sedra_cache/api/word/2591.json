@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0718\u071d\u0710\u0717",
+        "western": "\u0720\u0712\u0742\u073d\u0718\u071d\u0733\u0710\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 376,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/376.json"
+        },
+        "stem": "\u0712\u0718\u071d\u0710\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "comfort",
+                "comfort, consolation.",
+                "encouragement"
+            ]
+        },
+        "word": {
+            "id": 2591,
+            "uri": "https://sedra.bethmardutho.org/api/word/2591.json"
+        }
+    }
+]

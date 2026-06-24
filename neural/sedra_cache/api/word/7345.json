@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u071a\u0723\u071f",
+        "western": "\u071a\u0723\u0730\u071f\u0742",
+        "lexeme": {
+            "id": 1107,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1107.json"
+        },
+        "stem": "\u071a\u0723\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0627\u0642, \u0645\u0646\u0639",
+                "\u0631\u0641\u0636"
+            ],
+            "eng": [
+                "IIp to be exempted, freed from.",
+                "IIa to reserve, store up",
+                "to be spared",
+                "Ip to be withheld, preserved from",
+                "Ia to restrain, hold back from, withhold",
+                "be spared",
+                "to spare"
+            ],
+            "fre": [
+                "retenir, emp\u00eacher",
+                "refuser"
+            ]
+        },
+        "word": {
+            "id": 7345,
+            "uri": "https://sedra.bethmardutho.org/api/word/7345.json"
+        }
+    }
+]

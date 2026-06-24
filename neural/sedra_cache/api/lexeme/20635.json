@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 20635,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20635.json"
+        },
+        "syriac": "\u072b\u071d\u072a\u071d\u0713",
+        "glosses": {
+            "English": [
+                "sesame oil",
+                "oil of sesame"
+            ]
+        },
+        "etymologies": {
+            "Arabic": [
+                null
+            ]
+        },
+        "words": [
+            {
+                "id": 48082,
+                "uri": "https://sedra.bethmardutho.org/api/word/48082.json"
+            },
+            {
+                "id": 47009,
+                "uri": "https://sedra.bethmardutho.org/api/word/47009.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

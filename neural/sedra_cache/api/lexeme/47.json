@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 47,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/47.json"
+        },
+        "syriac": "\u0710\u0718\u0721\u0722\u0710",
+        "glosses": {
+            "English": [
+                "craftsman.",
+                "craftsman",
+                "artificer",
+                "builder"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 38,
+            "uri": "https://sedra.bethmardutho.org/api/root/38.json"
+        },
+        "words": [
+            {
+                "id": 271,
+                "uri": "https://sedra.bethmardutho.org/api/word/271.json"
+            },
+            {
+                "id": 274,
+                "uri": "https://sedra.bethmardutho.org/api/word/274.json"
+            },
+            {
+                "id": 22920,
+                "uri": "https://sedra.bethmardutho.org/api/word/22920.json"
+            },
+            {
+                "id": 273,
+                "uri": "https://sedra.bethmardutho.org/api/word/273.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

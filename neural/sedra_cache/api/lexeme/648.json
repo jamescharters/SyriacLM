@@ -1,0 +1,82 @@
+[
+    {
+        "lexeme": {
+            "id": 648,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/648.json"
+        },
+        "syriac": "\u0715\u0718\u0712\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u062f\u0627\u0631\u0629, \u062a\u062f\u0628\u064a\u0631",
+                "\u0641\u0646 \u0627\u0644\u0625\u062f\u0627\u0631\u0629",
+                "\u0642\u064a\u0627\u0633, \u0642\u0627\u0646\u0648\u0646, \u0645\u0646\u0647\u062c",
+                "\u062a\u062b\u0642\u064a\u0641",
+                "\u062d\u064a\u0627\u0629, \u0645\u0645\u0627\u0631\u0633\u0629 \u0632\u0647\u062f\u064a\u0629",
+                "\u062a\u062c\u0627\u0631\u0629"
+            ],
+            "French": [
+                "direction , administration",
+                "art de gouverner",
+                "norme , r\u00e8gle , mani\u00e8re d&#39;agir",
+                "formation",
+                "vie , pratique asc\u00e9tique",
+                "commerce"
+            ],
+            "English": [
+                "custom",
+                "manner",
+                "conduct",
+                "habit",
+                "administration",
+                "way of life, conduct, course",
+                "regimen, diet",
+                "norm."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 415,
+            "uri": "https://sedra.bethmardutho.org/api/root/415.json"
+        },
+        "words": [
+            {
+                "id": 23601,
+                "uri": "https://sedra.bethmardutho.org/api/word/23601.json"
+            },
+            {
+                "id": 3227,
+                "uri": "https://sedra.bethmardutho.org/api/word/3227.json"
+            },
+            {
+                "id": 3214,
+                "uri": "https://sedra.bethmardutho.org/api/word/3214.json"
+            },
+            {
+                "id": 22780,
+                "uri": "https://sedra.bethmardutho.org/api/word/22780.json"
+            },
+            {
+                "id": 4119,
+                "uri": "https://sedra.bethmardutho.org/api/word/4119.json"
+            },
+            {
+                "id": 4121,
+                "uri": "https://sedra.bethmardutho.org/api/word/4121.json"
+            },
+            {
+                "id": 4118,
+                "uri": "https://sedra.bethmardutho.org/api/word/4118.json"
+            },
+            {
+                "id": 4117,
+                "uri": "https://sedra.bethmardutho.org/api/word/4117.json"
+            },
+            {
+                "id": 4120,
+                "uri": "https://sedra.bethmardutho.org/api/word/4120.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

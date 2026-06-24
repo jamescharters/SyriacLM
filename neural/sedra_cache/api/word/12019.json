@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0722\u071d\u071f",
+        "western": "\u0721\u0730\u0722\u071d\u0733\u071f\u0742",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1803,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1803.json"
+        },
+        "stem": "\u0721\u0722\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "measure of weight, value.",
+                "mina (monetary unit)"
+            ]
+        },
+        "word": {
+            "id": 12019,
+            "uri": "https://sedra.bethmardutho.org/api/word/12019.json"
+        }
+    }
+]

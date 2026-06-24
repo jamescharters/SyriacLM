@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1392,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1392.json"
+        },
+        "syriac": "\u071d\u0722\u0723",
+        "glosses": {
+            "English": [
+                "Jannes"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 828,
+            "uri": "https://sedra.bethmardutho.org/api/root/828.json"
+        },
+        "words": [
+            {
+                "id": 9250,
+                "uri": "https://sedra.bethmardutho.org/api/word/9250.json"
+            },
+            {
+                "id": 9249,
+                "uri": "https://sedra.bethmardutho.org/api/word/9249.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

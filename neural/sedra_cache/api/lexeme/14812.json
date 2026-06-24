@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14812,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14812.json"
+        },
+        "syriac": "\u0713\u0720\u0720",
+        "glosses": {
+            "English": [
+                "IIa to swell, surge",
+                "IIp to be tossed about",
+                "to roll, unfold.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0713\u0736\u0720</span> to roll, unfold."
+            ],
+            "Arabic": [
+                "\u062a\u0645\u0648\u062c"
+            ],
+            "French": [
+                "\u00eatre agit\u00e9"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 39924,
+                "uri": "https://sedra.bethmardutho.org/api/word/39924.json"
+            },
+            {
+                "id": 40006,
+                "uri": "https://sedra.bethmardutho.org/api/word/40006.json"
+            },
+            {
+                "id": 40373,
+                "uri": "https://sedra.bethmardutho.org/api/word/40373.json"
+            },
+            {
+                "id": 40415,
+                "uri": "https://sedra.bethmardutho.org/api/word/40415.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

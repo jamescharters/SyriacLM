@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15821,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15821.json"
+        },
+        "syriac": "\u0728\u0710\u071d",
+        "glosses": {
+            "English": [
+                "IIa to defile",
+                "IIp.",
+                "filthy",
+                "Ia to be defiled"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2221,
+            "uri": "https://sedra.bethmardutho.org/api/root/2221.json"
+        },
+        "words": [
+            {
+                "id": 17236,
+                "uri": "https://sedra.bethmardutho.org/api/word/17236.json"
+            },
+            {
+                "id": 41815,
+                "uri": "https://sedra.bethmardutho.org/api/word/41815.json"
+            },
+            {
+                "id": 40206,
+                "uri": "https://sedra.bethmardutho.org/api/word/40206.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

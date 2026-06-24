@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0721\u0729\u0722\u0725\u072c\u0710",
+        "western": "\u0721\u0730\u0729\u0722\u0730\u0725\u072c\u0733\u0710",
+        "lexeme": {
+            "id": 17074,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/17074.json"
+        },
+        "stem": "\u0721\u0729\u0722\u0725\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0642\u0646\u0639"
+            ],
+            "eng": [
+                "long veil"
+            ],
+            "fre": [
+                "long voile"
+            ]
+        },
+        "word": {
+            "id": 43448,
+            "uri": "https://sedra.bethmardutho.org/api/word/43448.json"
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 2001,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2001.json"
+        },
+        "syriac": "\u0721\u0726\u0729\u072c\u0710",
+        "glosses": {
+            "English": [
+                "Gram. pronunciation.",
+                "exodus",
+                "departure",
+                "expense",
+                "departure, expedition, procession",
+                "edition",
+                "translation, version (esp. biblical)"
+            ],
+            "Arabic": [
+                "\u062e\u0631\u0648\u062c",
+                "\u0625\u0628\u0631\u0627\u0632, \u0646\u0634\u0631",
+                "\u062a\u0631\u062c\u0645\u0629",
+                "\u0646\u0641\u0642\u0629",
+                "\u062e\u0631\u0627\u062c"
+            ],
+            "French": [
+                "sortie",
+                "\u00e9dition",
+                "traduction",
+                "d\u00e9pense",
+                "tumeur"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1194,
+            "uri": "https://sedra.bethmardutho.org/api/root/1194.json"
+        },
+        "words": [
+            {
+                "id": 13127,
+                "uri": "https://sedra.bethmardutho.org/api/word/13127.json"
+            },
+            {
+                "id": 13128,
+                "uri": "https://sedra.bethmardutho.org/api/word/13128.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

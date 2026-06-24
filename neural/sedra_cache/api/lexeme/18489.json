@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 18489,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18489.json"
+        },
+        "syriac": "\u0712\u0718\u0723\u072c\u0722\u0710",
+        "glosses": {
+            "Syriac": [
+                "garden"
+            ],
+            "English": [
+                "garden",
+                "orchard"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 47652,
+                "uri": "https://sedra.bethmardutho.org/api/word/47652.json"
+            },
+            {
+                "id": 44863,
+                "uri": "https://sedra.bethmardutho.org/api/word/44863.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

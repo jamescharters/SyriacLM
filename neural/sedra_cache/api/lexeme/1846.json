@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1846,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1846.json"
+        },
+        "syriac": "\u0721\u072a\u0710",
+        "glosses": {
+            "English": [
+                "contend, strive, emulate, imitate",
+                "imitate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1101,
+            "uri": "https://sedra.bethmardutho.org/api/root/1101.json"
+        },
+        "words": [
+            {
+                "id": 43456,
+                "uri": "https://sedra.bethmardutho.org/api/word/43456.json"
+            },
+            {
+                "id": 12224,
+                "uri": "https://sedra.bethmardutho.org/api/word/12224.json"
+            },
+            {
+                "id": 12226,
+                "uri": "https://sedra.bethmardutho.org/api/word/12226.json"
+            },
+            {
+                "id": 12225,
+                "uri": "https://sedra.bethmardutho.org/api/word/12225.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

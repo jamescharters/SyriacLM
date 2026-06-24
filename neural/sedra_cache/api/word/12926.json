@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u071f\u072c",
+        "western": "\u0722\u071f\u0742\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1979,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1979.json"
+        },
+        "stem": "\u0722\u071f\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to bite, to sting",
+                "bite",
+                "IIa to bite, sting repeatedly",
+                "IIp.",
+                "Ip",
+                "to gnaw"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 12926,
+            "uri": "https://sedra.bethmardutho.org/api/word/12926.json"
+        }
+    }
+]

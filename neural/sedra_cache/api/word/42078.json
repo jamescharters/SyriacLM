@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0722\u071f\u0718\u0722",
+        "western": "\u0722\u071f\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15841,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15841.json"
+        },
+        "stem": "\u071f\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp to be present, to happen",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u073a\u071d\u0722</span> to create, constitute.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u071f\u073d\u0718\u0722</span>, Ia to exist, come into existence",
+                "IIa <span class=\"selectableFont\">\u071f\u0730\u071d\u0736\u0722</span> to constitute, adapt",
+                "Ip to be naturally constituted"
+            ]
+        },
+        "word": {
+            "id": 42078,
+            "uri": "https://sedra.bethmardutho.org/api/word/42078.json"
+        }
+    }
+]

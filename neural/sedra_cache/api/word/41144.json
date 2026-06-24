@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0720\u071b\u072b",
+        "western": "\u0720\u071b\u0730\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15559,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15559.json"
+        },
+        "stem": "\u0720\u071b\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062b",
+                "\u00a0",
+                "\u0633\u0646",
+                "\u0635\u0642\u0644"
+            ],
+            "eng": [
+                "to rub, polish, smear",
+                "to urge, encourage",
+                "to provoke, incite",
+                "Ia to hammer, sharpen",
+                "Ip + -<span class=\"selectableFont\">\u0720\u200d</span> to be keen on."
+            ],
+            "fre": [
+                "\u00a0",
+                "polir",
+                "aiguiser",
+                "exciter"
+            ]
+        },
+        "word": {
+            "id": 41144,
+            "uri": "https://sedra.bethmardutho.org/api/word/41144.json"
+        }
+    }
+]

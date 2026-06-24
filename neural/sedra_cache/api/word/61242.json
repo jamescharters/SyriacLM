@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0721",
+        "western": "\u0713\u0730\u072a\u0736\u0721",
+        "lexeme": {
+            "id": 34887,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/34887.json"
+        },
+        "stem": "\u0713\u072a\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "syr": [
+                "to pay a fine"
+            ]
+        },
+        "word": {
+            "id": 61242,
+            "uri": "https://sedra.bethmardutho.org/api/word/61242.json"
+        }
+    }
+]

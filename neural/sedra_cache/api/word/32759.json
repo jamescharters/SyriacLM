@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u072a\u072a\u0710",
+        "western": "\u0715\u0730\u072a\u0733\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7497,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7497.json"
+        },
+        "stem": "\u0715\u072a\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0635\u0627\u0631\u0639, \u0645\u062d\u0627\u0631\u0628"
+            ],
+            "eng": [
+                "combatant.",
+                "wrestler, athlete"
+            ],
+            "fre": [
+                "lutteur, combattant"
+            ]
+        },
+        "word": {
+            "id": 32759,
+            "uri": "https://sedra.bethmardutho.org/api/word/32759.json"
+        }
+    }
+]

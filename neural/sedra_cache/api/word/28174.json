@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0729\u0710\u0721",
+        "western": "\u0729\u0733\u0710\u0736\u0721",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2766,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2766.json"
+        },
+        "stem": "\u0729\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "rise",
+                "to stop",
+                "Ia to arise, stand",
+                "to be extant",
+                "to last",
+                "IIIa to raise up, establish.",
+                "IIp",
+                "IIa to establish",
+                "cause to stand",
+                "establish",
+                "stand",
+                "Ip to e constituted"
+            ]
+        },
+        "word": {
+            "id": 28174,
+            "uri": "https://sedra.bethmardutho.org/api/word/28174.json"
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 24,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/24.json"
+        },
+        "syriac": "\u0710\u0713\u071d\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062c\u064a\u0631"
+            ],
+            "French": [
+                "mercenaire"
+            ],
+            "English": [
+                "servant",
+                "hireling",
+                "hired laborer."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 19,
+            "uri": "https://sedra.bethmardutho.org/api/root/19.json"
+        },
+        "words": [
+            {
+                "id": 185,
+                "uri": "https://sedra.bethmardutho.org/api/word/185.json"
+            },
+            {
+                "id": 188,
+                "uri": "https://sedra.bethmardutho.org/api/word/188.json"
+            },
+            {
+                "id": 186,
+                "uri": "https://sedra.bethmardutho.org/api/word/186.json"
+            },
+            {
+                "id": 187,
+                "uri": "https://sedra.bethmardutho.org/api/word/187.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

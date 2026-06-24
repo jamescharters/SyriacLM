@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 11513,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11513.json"
+        },
+        "syriac": "\u0710\u0723\u072c\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "stater (coin or weight).",
+                "shekel"
+            ],
+            "Arabic": [
+                "\u0623\u0633\u062a\u0627\u0631"
+            ],
+            "French": [
+                "stat\u00e8re"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c4\u03b1\u03c4\u03ae\u03c1"
+            ]
+        },
+        "words": [
+            {
+                "id": 42675,
+                "uri": "https://sedra.bethmardutho.org/api/word/42675.json"
+            },
+            {
+                "id": 1726,
+                "uri": "https://sedra.bethmardutho.org/api/word/1726.json"
+            },
+            {
+                "id": 1727,
+                "uri": "https://sedra.bethmardutho.org/api/word/1727.json"
+            },
+            {
+                "id": 38968,
+                "uri": "https://sedra.bethmardutho.org/api/word/38968.json"
+            }
+        ]
+    }
+]

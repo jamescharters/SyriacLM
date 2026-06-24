@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2759,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2759.json"
+        },
+        "syriac": "\u0729\u0718\u0715\u072b\u0710",
+        "glosses": {
+            "English": [
+                "holiness",
+                "holy things",
+                "holiness",
+                "sanctuary",
+                "consecration",
+                "<span class=\"selectableFont\">\u072a\u073d\u0718\u071a\u0733\u0710 \u0715\u0729\u073d\u0718\u0715\u072b\u0733\u0710</span> Holy Spirit."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1627,
+            "uri": "https://sedra.bethmardutho.org/api/root/1627.json"
+        },
+        "words": [
+            {
+                "id": 17954,
+                "uri": "https://sedra.bethmardutho.org/api/word/17954.json"
+            },
+            {
+                "id": 17958,
+                "uri": "https://sedra.bethmardutho.org/api/word/17958.json"
+            },
+            {
+                "id": 17957,
+                "uri": "https://sedra.bethmardutho.org/api/word/17957.json"
+            },
+            {
+                "id": 17955,
+                "uri": "https://sedra.bethmardutho.org/api/word/17955.json"
+            },
+            {
+                "id": 17956,
+                "uri": "https://sedra.bethmardutho.org/api/word/17956.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0719\u0718\u0725\u0710",
+        "western": "\u0718\u0719\u0730\u0718\u0725\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 869,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/869.json"
+        },
+        "stem": "\u0719\u0718\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "shaking",
+                "impulse, stirring",
+                "Gram. vowel.",
+                "earthquake",
+                "movement",
+                "commotion",
+                "agitation",
+                "earthquake"
+            ]
+        },
+        "word": {
+            "id": 5665,
+            "uri": "https://sedra.bethmardutho.org/api/word/5665.json"
+        }
+    }
+]

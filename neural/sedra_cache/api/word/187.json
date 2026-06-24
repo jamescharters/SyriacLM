@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0710\u0713\u071d\u072a\u071d\u071f",
+        "western": "\u0710\u0730\u0713\u0742\u073a\u071d\u072a\u0730\u071d\u071f\u0741",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 24,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/24.json"
+        },
+        "stem": "\u0710\u0713\u071d\u072a\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062c\u064a\u0631"
+            ],
+            "eng": [
+                "hired servant",
+                "hireling",
+                "hired laborer."
+            ],
+            "fre": [
+                "mercenaire"
+            ]
+        },
+        "word": {
+            "id": 187,
+            "uri": "https://sedra.bethmardutho.org/api/word/187.json"
+        }
+    }
+]

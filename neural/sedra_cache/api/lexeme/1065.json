@@ -1,0 +1,68 @@
+[
+    {
+        "lexeme": {
+            "id": 1065,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1065.json"
+        },
+        "syriac": "\u071a\u0721\u0710",
+        "glosses": {
+            "English": [
+                "wither",
+                "fade",
+                "languish",
+                "droop",
+                "to grow faint",
+                "IIIa to wither, cause to dry up, fade.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0721\u0736\u0710</span>, Ia to wither, fade"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 640,
+            "uri": "https://sedra.bethmardutho.org/api/root/640.json"
+        },
+        "words": [
+            {
+                "id": 24864,
+                "uri": "https://sedra.bethmardutho.org/api/word/24864.json"
+            },
+            {
+                "id": 24863,
+                "uri": "https://sedra.bethmardutho.org/api/word/24863.json"
+            },
+            {
+                "id": 7182,
+                "uri": "https://sedra.bethmardutho.org/api/word/7182.json"
+            },
+            {
+                "id": 24868,
+                "uri": "https://sedra.bethmardutho.org/api/word/24868.json"
+            },
+            {
+                "id": 24867,
+                "uri": "https://sedra.bethmardutho.org/api/word/24867.json"
+            },
+            {
+                "id": 24866,
+                "uri": "https://sedra.bethmardutho.org/api/word/24866.json"
+            },
+            {
+                "id": 24865,
+                "uri": "https://sedra.bethmardutho.org/api/word/24865.json"
+            },
+            {
+                "id": 7185,
+                "uri": "https://sedra.bethmardutho.org/api/word/7185.json"
+            },
+            {
+                "id": 7184,
+                "uri": "https://sedra.bethmardutho.org/api/word/7184.json"
+            },
+            {
+                "id": 7183,
+                "uri": "https://sedra.bethmardutho.org/api/word/7183.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

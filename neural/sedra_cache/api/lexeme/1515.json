@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 1515,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1515.json"
+        },
+        "syriac": "\u071f\u071d\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u064a\u0633"
+            ],
+            "French": [
+                "bourse"
+            ],
+            "English": [
+                "bag",
+                "purse",
+                "purse, bag."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 896,
+            "uri": "https://sedra.bethmardutho.org/api/root/896.json"
+        },
+        "words": [
+            {
+                "id": 23675,
+                "uri": "https://sedra.bethmardutho.org/api/word/23675.json"
+            },
+            {
+                "id": 9913,
+                "uri": "https://sedra.bethmardutho.org/api/word/9913.json"
+            },
+            {
+                "id": 9912,
+                "uri": "https://sedra.bethmardutho.org/api/word/9912.json"
+            },
+            {
+                "id": 9911,
+                "uri": "https://sedra.bethmardutho.org/api/word/9911.json"
+            },
+            {
+                "id": 9910,
+                "uri": "https://sedra.bethmardutho.org/api/word/9910.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

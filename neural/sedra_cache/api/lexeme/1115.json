@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1115,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1115.json"
+        },
+        "syriac": "\u071a\u0718\u0723\u072a\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0644\u0629",
+                "\u062d\u0627\u062c\u0629",
+                "\u0636\u0631\u0631",
+                "\u063a\u0631\u0627\u0645\u0629",
+                "\u0645\u0635\u0631\u0648\u0641",
+                "\u0644\u0639\u0646\u0629"
+            ],
+            "French": [
+                "diminution",
+                "besoin",
+                "tort",
+                "amende",
+                "d\u00e9pense",
+                "mal\u00e9diction"
+            ],
+            "English": [
+                "expense.",
+                "loss, harm, damage",
+                "loss",
+                "detriment",
+                "fine, penalty"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 668,
+            "uri": "https://sedra.bethmardutho.org/api/root/668.json"
+        },
+        "words": [
+            {
+                "id": 7381,
+                "uri": "https://sedra.bethmardutho.org/api/word/7381.json"
+            },
+            {
+                "id": 7382,
+                "uri": "https://sedra.bethmardutho.org/api/word/7382.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

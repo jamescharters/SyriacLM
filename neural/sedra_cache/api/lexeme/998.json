@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 998,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/998.json"
+        },
+        "syriac": "\u071a\u0719\u071d\u0710",
+        "glosses": {
+            "English": [
+                "observer",
+                "spectator",
+                "eye-witness",
+                "spectator, eye-witness, onlooker",
+                "perceptive."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 613,
+            "uri": "https://sedra.bethmardutho.org/api/root/613.json"
+        },
+        "words": [
+            {
+                "id": 6696,
+                "uri": "https://sedra.bethmardutho.org/api/word/6696.json"
+            },
+            {
+                "id": 6695,
+                "uri": "https://sedra.bethmardutho.org/api/word/6695.json"
+            },
+            {
+                "id": 6298,
+                "uri": "https://sedra.bethmardutho.org/api/word/6298.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

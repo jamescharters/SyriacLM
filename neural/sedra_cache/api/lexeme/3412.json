@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3412,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3412.json"
+        },
+        "syriac": "\u072c\u0721\u0722\u072c\u0725\u0723\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0645\u0627\u0646\u064a\u0629 \u0639\u0634\u0631"
+            ],
+            "French": [
+                "dix-huit"
+            ],
+            "English": [
+                "eighteen"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1978,
+            "uri": "https://sedra.bethmardutho.org/api/root/1978.json"
+        },
+        "words": [
+            {
+                "id": 15838,
+                "uri": "https://sedra.bethmardutho.org/api/word/15838.json"
+            },
+            {
+                "id": 15837,
+                "uri": "https://sedra.bethmardutho.org/api/word/15837.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

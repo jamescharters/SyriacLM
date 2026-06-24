@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28682,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28682.json"
+        },
+        "syriac": "\u0710\u071b\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u03c4\u1f78 \u03b1\u1f34\u03c4\u03b9\u03bf\u03bd"
+            ],
+            "English": [
+                "the cause"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f34\u03c4\u03b9\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49188,
+                "uri": "https://sedra.bethmardutho.org/api/word/49188.json"
+            },
+            {
+                "id": 55056,
+                "uri": "https://sedra.bethmardutho.org/api/word/55056.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0719\u0722\u0713\u072a\u0710",
+        "western": "\u0719\u0730\u0722\u0713\u0733\u072a\u0733\u0710",
+        "eastern": "\u0719\u0732\u0722\u0713\u0735\u072a\u0735\u0710",
+        "lexeme": {
+            "id": 16384,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16384.json"
+        },
+        "stem": "\u0719\u0722\u0713\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "verdigris",
+                "rust"
+            ]
+        },
+        "word": {
+            "id": 47798,
+            "uri": "https://sedra.bethmardutho.org/api/word/47798.json"
+        }
+    }
+]

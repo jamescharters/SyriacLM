@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u0728\u072a\u0710",
+        "western": "\u0712\u0736\u0728\u072a\u0733\u0710",
+        "eastern": "\u0712\u0738\u0728\u072a\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10401,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10401.json"
+        },
+        "stem": "\u0712\u0728\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0632\u0621"
+            ],
+            "eng": [
+                "small portion, particle."
+            ],
+            "fre": [
+                "partie"
+            ]
+        },
+        "word": {
+            "id": 36207,
+            "uri": "https://sedra.bethmardutho.org/api/word/36207.json"
+        }
+    }
+]

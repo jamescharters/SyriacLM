@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0725\u0718\u072a\u072c\u0710",
+        "western": "\u0725\u0733\u0718\u0730\u072a\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13857,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13857.json"
+        },
+        "stem": "\u0725\u0718\u072a\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0644\u0643"
+            ],
+            "eng": [
+                "property, goods.",
+                "damaged goods",
+                "chipped and broken crockery"
+            ],
+            "fre": [
+                "bien, possession"
+            ]
+        },
+        "word": {
+            "id": 33224,
+            "uri": "https://sedra.bethmardutho.org/api/word/33224.json"
+        }
+    }
+]

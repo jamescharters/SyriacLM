@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28501,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28501.json"
+        },
+        "syriac": "\u0710\u0718\u0729\u071d\u0720\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03b5\u1f50\u03ba\u03b7\u03bb\u03bf\u03c2"
+            ],
+            "English": [
+                "free from care, at one's ease"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f50\u03ba\u03b7\u03bb\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48742,
+                "uri": "https://sedra.bethmardutho.org/api/word/48742.json"
+            },
+            {
+                "id": 54875,
+                "uri": "https://sedra.bethmardutho.org/api/word/54875.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

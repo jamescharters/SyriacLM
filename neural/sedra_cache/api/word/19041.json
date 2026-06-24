@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a\u0713\u0718",
+        "western": "\u072a\u0730\u0713\u0742\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2925,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2925.json"
+        },
+        "stem": "\u072a\u0713",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "covet",
+                "Ia to desire.",
+                "lust",
+                "desire"
+            ]
+        },
+        "word": {
+            "id": 19041,
+            "uri": "https://sedra.bethmardutho.org/api/word/19041.json"
+        }
+    }
+]

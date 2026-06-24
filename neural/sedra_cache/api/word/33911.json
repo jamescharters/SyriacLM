@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0719\u0710",
+        "western": "\u0729\u073d\u0718\u0733\u0719\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8471,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8471.json"
+        },
+        "stem": "\u0729\u0718\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0628\u0646 \u0639\u0631\u0633"
+            ],
+            "eng": [
+                "beech-marten",
+                "weasel.",
+                "weasel",
+                "stone-marten"
+            ],
+            "fre": [
+                "belette"
+            ],
+            "grc": [
+                "\u03b1\u1f34\u03bb\u03bf\u03c5\u03c1\u03bf\u03c2"
+            ]
+        },
+        "word": {
+            "id": 33911,
+            "uri": "https://sedra.bethmardutho.org/api/word/33911.json"
+        }
+    }
+]

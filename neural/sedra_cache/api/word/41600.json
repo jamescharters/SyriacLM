@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0719\u0720\u0718\u0726",
+        "western": "\u0722\u0736\u0719\u0720\u073d\u0718\u0726",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15416,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15416.json"
+        },
+        "stem": "\u0719\u0720\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0631\u063a (\u0645\u0636)",
+                "\u063a\u0631\u0641",
+                "\u0632\u064a\u0646"
+            ],
+            "eng": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0719\u0720\u073d\u0718\u0726</span>, Ia to trickle, pour in drops."
+            ],
+            "fre": [
+                "vider",
+                "orner",
+                "puiser"
+            ]
+        },
+        "word": {
+            "id": 41600,
+            "uri": "https://sedra.bethmardutho.org/api/word/41600.json"
+        }
+    }
+]

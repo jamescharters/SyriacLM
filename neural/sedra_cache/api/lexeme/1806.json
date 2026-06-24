@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1806,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1806.json"
+        },
+        "syriac": "\u0721\u0722\u0710\u071d\u0720",
+        "glosses": {
+            "English": [
+                "Manaen"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1077,
+            "uri": "https://sedra.bethmardutho.org/api/root/1077.json"
+        },
+        "words": [
+            {
+                "id": 12035,
+                "uri": "https://sedra.bethmardutho.org/api/word/12035.json"
+            },
+            {
+                "id": 12036,
+                "uri": "https://sedra.bethmardutho.org/api/word/12036.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

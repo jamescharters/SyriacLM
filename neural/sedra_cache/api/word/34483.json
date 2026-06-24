@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072a\u0719\u0726\u0710",
+        "western": "\u072a\u0719\u0733\u0726\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9185,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9185.json"
+        },
+        "stem": "\u072a\u0719\u0726\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0634"
+            ],
+            "eng": [
+                "spattering",
+                "freckles.",
+                "sprinkling"
+            ],
+            "fre": [
+                "aspersion"
+            ]
+        },
+        "word": {
+            "id": 34483,
+            "uri": "https://sedra.bethmardutho.org/api/word/34483.json"
+        }
+    }
+]

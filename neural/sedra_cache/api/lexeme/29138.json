@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 29138,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29138.json"
+        },
+        "syriac": "\u0710\u071d\u0729\u0718\u0715\u0718\u0721\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f30\u03ba\u03bf\u03b4\u03cc\u03bc\u03bf\u03c2"
+            ],
+            "English": [
+                "builder, architect",
+                "architectus, aedificatur"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bf\u1f30\u03ba\u03bf\u03b4\u03cc\u03bc\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55512,
+                "uri": "https://sedra.bethmardutho.org/api/word/55512.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

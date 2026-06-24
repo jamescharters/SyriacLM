@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 841,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/841.json"
+        },
+        "syriac": "\u0719\u0713\u0718\u0713\u071d\u072c\u0710",
+        "glosses": {
+            "English": [
+                "glass",
+                "glass."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 539,
+            "uri": "https://sedra.bethmardutho.org/api/root/539.json"
+        },
+        "words": [
+            {
+                "id": 5484,
+                "uri": "https://sedra.bethmardutho.org/api/word/5484.json"
+            },
+            {
+                "id": 5485,
+                "uri": "https://sedra.bethmardutho.org/api/word/5485.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

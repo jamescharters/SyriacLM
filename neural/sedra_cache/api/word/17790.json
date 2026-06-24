@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u072c\u0729\u0712\u072a",
+        "western": "\u072c\u0741\u0729\u0730\u0712\u0741\u0730\u072a",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2736,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2736.json"
+        },
+        "stem": "\u0729\u0712\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0628\u0631",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to bury",
+                "IIa.",
+                "Ip",
+                "bury",
+                "heap up"
+            ],
+            "fre": [
+                "\u00a0",
+                "enterrer"
+            ]
+        },
+        "word": {
+            "id": 17790,
+            "uri": "https://sedra.bethmardutho.org/api/word/17790.json"
+        }
+    }
+]

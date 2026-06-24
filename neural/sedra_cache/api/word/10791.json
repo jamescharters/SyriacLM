@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0712\u0720\u0712\u0722",
+        "western": "\u0712\u0741\u0720\u0736\u0712\u0741\u0730\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1619,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1619.json"
+        },
+        "stem": "\u0720\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0644\u0628",
+                "\u0631\u0648\u062d, \u0646\u0641\u0633"
+            ],
+            "eng": [
+                "midst + <span class=\"selectableFont\">\u0715\u0720\u0733\u0710</span> senseless, without understanding",
+                "heart",
+                "<span class=\"selectableFont\">\u0720\u0736\u0712\u0733\u0710 \u0715\u071a\u0736\u071b\u072c\u0733\u0710</span> starch.",
+                "heart"
+            ],
+            "fre": [
+                "esprit, \u00e2me",
+                "c\u0153ur"
+            ]
+        },
+        "word": {
+            "id": 10791,
+            "uri": "https://sedra.bethmardutho.org/api/word/10791.json"
+        }
+    }
+]

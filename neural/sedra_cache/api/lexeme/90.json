@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 90,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/90.json"
+        },
+        "syriac": "\u0710\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0639\u0645",
+                "\u062d\u0642\u0627\u064b",
+                "\u0648\u0644\u0643\u0646"
+            ],
+            "French": [
+                "oui",
+                "vraiment",
+                "mais"
+            ],
+            "English": [
+                "yes",
+                "so",
+                "truly",
+                "yea",
+                "yes."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 72,
+            "uri": "https://sedra.bethmardutho.org/api/root/72.json"
+        },
+        "words": [
+            {
+                "id": 42491,
+                "uri": "https://sedra.bethmardutho.org/api/word/42491.json"
+            },
+            {
+                "id": 656,
+                "uri": "https://sedra.bethmardutho.org/api/word/656.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

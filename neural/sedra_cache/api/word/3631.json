@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0713\u0719\u0717",
+        "western": "\u0713\u0741\u0730\u0719\u0733\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 549,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/549.json"
+        },
+        "stem": "\u0713\u0719\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u062e\u064a\u0631\u0629, \u062e\u0632\u0627\u0646\u0629 \u0645\u0627\u0644"
+            ],
+            "eng": [
+                "treasure",
+                "treasure, treasury",
+                "treasury",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0713\u0730\u0719\u0733\u0710</span> Lit. West Syriac liturgical book of melodies."
+            ],
+            "fre": [
+                "tr\u00e9sor"
+            ]
+        },
+        "word": {
+            "id": 3631,
+            "uri": "https://sedra.bethmardutho.org/api/word/3631.json"
+        }
+    }
+]

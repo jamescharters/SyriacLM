@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1911,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1911.json"
+        },
+        "syriac": "\u0722\u0715\u071d\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0628\u064a\u062d",
+                "\u0646\u062c\u0633",
+                "\u0645\u0631\u0630\u0648\u0644"
+            ],
+            "French": [
+                "abominable",
+                "immonde",
+                "rejet\u00e9"
+            ],
+            "English": [
+                "abominable",
+                "foul",
+                "unclean, foul, abominable, rejected."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1141,
+            "uri": "https://sedra.bethmardutho.org/api/root/1141.json"
+        },
+        "words": [
+            {
+                "id": 12525,
+                "uri": "https://sedra.bethmardutho.org/api/word/12525.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

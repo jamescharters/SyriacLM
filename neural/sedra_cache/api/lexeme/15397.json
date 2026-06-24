@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15397,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15397.json"
+        },
+        "syriac": "\u0722\u0725\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u0631\u0628"
+            ],
+            "French": [
+                "battre"
+            ],
+            "English": [
+                "Ia to strike, beat."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2175,
+            "uri": "https://sedra.bethmardutho.org/api/root/2175.json"
+        },
+        "words": [
+            {
+                "id": 41636,
+                "uri": "https://sedra.bethmardutho.org/api/word/41636.json"
+            },
+            {
+                "id": 41497,
+                "uri": "https://sedra.bethmardutho.org/api/word/41497.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

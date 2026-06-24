@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 9219,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9219.json"
+        },
+        "syriac": "\u0710\u071d\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0639\u062f\u0626\u0630, \u0639\u0646\u062f\u0626\u0630"
+            ],
+            "French": [
+                "ensuite, alors"
+            ],
+            "English": [
+                "then, thereupon.",
+                "then, next,and so, therefore, accordingly"
+            ],
+            "Greek": [
+                "\u03b5\u1f36\u03c4\u03b1"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f36\u03c4\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 55240,
+                "uri": "https://sedra.bethmardutho.org/api/word/55240.json"
+            },
+            {
+                "id": 49382,
+                "uri": "https://sedra.bethmardutho.org/api/word/49382.json"
+            },
+            {
+                "id": 33537,
+                "uri": "https://sedra.bethmardutho.org/api/word/33537.json"
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 2285,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2285.json"
+        },
+        "syriac": "\u0725\u0718\u072a\u0710",
+        "glosses": {
+            "English": [
+                "any minute particle that hurts the eye, chaff, fine dust, down, smoke",
+                "blind",
+                "blindness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1359,
+            "uri": "https://sedra.bethmardutho.org/api/root/1359.json"
+        },
+        "words": [
+            {
+                "id": 44095,
+                "uri": "https://sedra.bethmardutho.org/api/word/44095.json"
+            },
+            {
+                "id": 15206,
+                "uri": "https://sedra.bethmardutho.org/api/word/15206.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u071f\u071a\u0715\u0710",
+        "western": "\u0710\u0730\u071f\u073c\u071a\u0715\u0733\u0710",
+        "eastern": "\u0710\u071f\u073c\u071a\u0715\u0710",
+        "lexeme": {
+            "id": 109,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/109.json"
+        },
+        "stem": "\u0710\u071f\u071a\u0715\u0710",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "together",
+                "together.",
+                "as one"
+            ]
+        },
+        "word": {
+            "id": 49692,
+            "uri": "https://sedra.bethmardutho.org/api/word/49692.json"
+        }
+    }
+]

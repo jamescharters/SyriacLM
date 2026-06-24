@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15455,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15455.json"
+        },
+        "syriac": "\u0715\u0713\u072b",
+        "glosses": {
+            "French": [
+                "",
+                "transpercer"
+            ],
+            "Arabic": [
+                "\u0637\u0639\u0646",
+                ""
+            ],
+            "English": [
+                "Ia to stab, pierce",
+                "IIIa to pierce through.",
+                "IIp"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2443,
+            "uri": "https://sedra.bethmardutho.org/api/root/2443.json"
+        },
+        "words": [
+            {
+                "id": 42065,
+                "uri": "https://sedra.bethmardutho.org/api/word/42065.json"
+            },
+            {
+                "id": 40090,
+                "uri": "https://sedra.bethmardutho.org/api/word/40090.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

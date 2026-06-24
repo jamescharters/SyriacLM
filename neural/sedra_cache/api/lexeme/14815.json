@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 14815,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14815.json"
+        },
+        "syriac": "\u072b\u0718\u0713\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u062d\u0631\u062c, \u062f\u0647\u0648\u0631",
+                "\u0631\u062f\u0639, \u0635\u0631\u0641"
+            ],
+            "French": [
+                "faire rouler, pr\u00e9cipiter",
+                "rejecter, renvoyer"
+            ],
+            "English": [
+                "IVp to be hurled down",
+                "to dismiss",
+                "IVa to fling, hurl",
+                "to be downcast."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2487,
+            "uri": "https://sedra.bethmardutho.org/api/root/2487.json"
+        },
+        "words": [
+            {
+                "id": 46823,
+                "uri": "https://sedra.bethmardutho.org/api/word/46823.json"
+            },
+            {
+                "id": 41119,
+                "uri": "https://sedra.bethmardutho.org/api/word/41119.json"
+            },
+            {
+                "id": 40943,
+                "uri": "https://sedra.bethmardutho.org/api/word/40943.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15830,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15830.json"
+        },
+        "syriac": "\u0726\u0728\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0642, \u0642\u0637\u0639",
+                "\u0627\u062c\u062a\u0627\u0632",
+                "\u0632\u0641\u0632\u0641"
+            ],
+            "French": [
+                "fendre, couper",
+                "parcourir",
+                "\u00e9tendre (les ailes)"
+            ],
+            "English": [
+                "to open (a book)",
+                "Ip",
+                "Ia to cut through",
+                "IIp.",
+                "IIa to cut asunder"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3063,
+            "uri": "https://sedra.bethmardutho.org/api/root/3063.json"
+        },
+        "words": [
+            {
+                "id": 41673,
+                "uri": "https://sedra.bethmardutho.org/api/word/41673.json"
+            },
+            {
+                "id": 40668,
+                "uri": "https://sedra.bethmardutho.org/api/word/40668.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

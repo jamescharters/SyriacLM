@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28800,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28800.json"
+        },
+        "syriac": "\u0710\u071d\u0718\u0715",
+        "glosses": {
+            "Greek": [
+                "\u03b1\u1f54\u03c1\u03b1"
+            ],
+            "English": [
+                "breeze"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f54\u03c1\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 49298,
+                "uri": "https://sedra.bethmardutho.org/api/word/49298.json"
+            },
+            {
+                "id": 55174,
+                "uri": "https://sedra.bethmardutho.org/api/word/55174.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

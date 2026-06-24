@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0723\u0726\u0723\u072a\u0710",
+        "western": "\u0723\u0730\u0726\u0742\u0723\u073a\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2182,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2182.json"
+        },
+        "stem": "\u0723\u0726\u0723\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sword",
+                "sword",
+                "blade"
+            ]
+        },
+        "word": {
+            "id": 14517,
+            "uri": "https://sedra.bethmardutho.org/api/word/14517.json"
+        }
+    }
+]

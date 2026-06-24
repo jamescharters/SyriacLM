@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14817,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14817.json"
+        },
+        "syriac": "\u0721\u072b\u0721\u072b",
+        "glosses": {
+            "Arabic": [
+                ""
+            ],
+            "French": [
+                ""
+            ],
+            "English": [
+                "IVa to feel, touch."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2654,
+            "uri": "https://sedra.bethmardutho.org/api/root/2654.json"
+        },
+        "words": [
+            {
+                "id": 40288,
+                "uri": "https://sedra.bethmardutho.org/api/word/40288.json"
+            },
+            {
+                "id": 40146,
+                "uri": "https://sedra.bethmardutho.org/api/word/40146.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

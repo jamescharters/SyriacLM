@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0722\u0729\u0718\u072c\u0710",
+        "western": "\u0722\u0729\u0730\u0718\u0308\u0733\u072c\u0733\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2021,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2021.json"
+        },
+        "stem": "\u0722\u0729\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sheep",
+                "sheep, ewe."
+            ]
+        },
+        "word": {
+            "id": 42282,
+            "uri": "https://sedra.bethmardutho.org/api/word/42282.json"
+        }
+    }
+]

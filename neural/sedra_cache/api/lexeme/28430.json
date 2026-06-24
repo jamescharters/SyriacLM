@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28430,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28430.json"
+        },
+        "syriac": "\u0710\u0718\u0726\u0718\u072c\u071d\u0729\u071d",
+        "glosses": {
+            "Greek": [
+                "\u1f51\u03c0\u03bf\u03b8\u03ae\u03ba\u03b7"
+            ],
+            "English": [
+                "suggestion, counsel, warning, pledge, deposit, mortgage"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f51\u03c0\u03bf\u03b8\u03ae\u03ba\u03b7"
+            ]
+        },
+        "words": [
+            {
+                "id": 48866,
+                "uri": "https://sedra.bethmardutho.org/api/word/48866.json"
+            },
+            {
+                "id": 54804,
+                "uri": "https://sedra.bethmardutho.org/api/word/54804.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

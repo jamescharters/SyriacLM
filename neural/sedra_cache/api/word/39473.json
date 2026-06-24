@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072a\u0721\u071f\u0710",
+        "western": "\u072a\u0730\u0721\u071f\u0733\u0710",
+        "eastern": "\u072a\u0732\u0721\u071f\u0735\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12070,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12070.json"
+        },
+        "stem": "\u072a\u0721\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0641\u062f, \u0639\u0635\u0628\u0629",
+                "\u0642\u0637\u064a\u0639"
+            ],
+            "eng": [
+                "herd (of animals, demons)",
+                "herd",
+                "troop",
+                "crowd.",
+                "crowd"
+            ],
+            "fre": [
+                "troupe, bande",
+                "troupeau"
+            ]
+        },
+        "word": {
+            "id": 39473,
+            "uri": "https://sedra.bethmardutho.org/api/word/39473.json"
+        }
+    }
+]

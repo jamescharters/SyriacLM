@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 16412,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16412.json"
+        },
+        "syriac": "\u0715\u0718\u0720\u0729\u0710",
+        "glosses": {
+            "English": [
+                "bucket (measure)",
+                ""
+            ]
+        },
+        "etymologies": {
+            "Persian": [
+                "\u062f\u0648\u0644\u0686\u0629"
+            ]
+        },
+        "words": [
+            {
+                "id": 47736,
+                "uri": "https://sedra.bethmardutho.org/api/word/47736.json"
+            },
+            {
+                "id": 42786,
+                "uri": "https://sedra.bethmardutho.org/api/word/42786.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

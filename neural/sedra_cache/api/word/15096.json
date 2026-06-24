@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0725\u0717\u071d\u0715\u0710",
+        "western": "\u0725\u0730\u0717\u073a\u071d\u0715\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2257,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2257.json"
+        },
+        "stem": "\u0725\u0717\u071d\u0715\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062a\u0630\u0643\u0631"
+            ],
+            "eng": [
+                "mindful"
+            ],
+            "fre": [
+                "qui se rappelle"
+            ]
+        },
+        "word": {
+            "id": 15096,
+            "uri": "https://sedra.bethmardutho.org/api/word/15096.json"
+        }
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "lexeme": {
+            "id": 3552,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3552.json"
+        },
+        "syriac": "\u072b\u0721\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0645\u0649 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "nommer",
+                "\u00a0"
+            ],
+            "English": [
+                "name",
+                "IIa to name, designate",
+                "IIp.",
+                "see <span class=\"selectableFont\">\u072b\u0730\u0721\u0730\u0717</span>."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1882,
+            "uri": "https://sedra.bethmardutho.org/api/root/1882.json"
+        },
+        "words": [
+            {
+                "id": 28756,
+                "uri": "https://sedra.bethmardutho.org/api/word/28756.json"
+            },
+            {
+                "id": 21336,
+                "uri": "https://sedra.bethmardutho.org/api/word/21336.json"
+            },
+            {
+                "id": 21335,
+                "uri": "https://sedra.bethmardutho.org/api/word/21335.json"
+            },
+            {
+                "id": 21333,
+                "uri": "https://sedra.bethmardutho.org/api/word/21333.json"
+            },
+            {
+                "id": 29283,
+                "uri": "https://sedra.bethmardutho.org/api/word/29283.json"
+            },
+            {
+                "id": 21345,
+                "uri": "https://sedra.bethmardutho.org/api/word/21345.json"
+            },
+            {
+                "id": 21344,
+                "uri": "https://sedra.bethmardutho.org/api/word/21344.json"
+            },
+            {
+                "id": 21339,
+                "uri": "https://sedra.bethmardutho.org/api/word/21339.json"
+            },
+            {
+                "id": 21332,
+                "uri": "https://sedra.bethmardutho.org/api/word/21332.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0718\u0712\u072b\u0718\u0729\u0710",
+        "western": "\u0718\u0730\u0712\u0742\u072b\u073d\u0718\u0729\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3153,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3153.json"
+        },
+        "stem": "\u072b\u0718\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u064a\u0631",
+                "\u062d\u064a",
+                "\u0634\u0627\u0631\u0639",
+                "\u0633\u0627\u062d\u0629 \u0627\u062c\u062a\u0645\u0627\u0639",
+                "\u0633\u0627\u062d\u0629",
+                "\u0633\u0648\u0642"
+            ],
+            "eng": [
+                "street",
+                "quarter (of town).",
+                "marketplace",
+                "bazaar",
+                "lavra",
+                "street",
+                "market",
+                "square",
+                "square"
+            ],
+            "fre": [
+                "quartier",
+                "place publique",
+                "fortum",
+                "march\u00e9",
+                "rue",
+                "laure"
+            ]
+        },
+        "word": {
+            "id": 20714,
+            "uri": "https://sedra.bethmardutho.org/api/word/20714.json"
+        }
+    }
+]

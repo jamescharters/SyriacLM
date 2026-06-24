@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0729\u071b",
+        "western": "\u0729\u0730\u072a\u0729\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14647,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14647.json"
+        },
+        "stem": "\u0729\u072a\u0729\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to smear the face with ashes."
+            ]
+        },
+        "word": {
+            "id": 40222,
+            "uri": "https://sedra.bethmardutho.org/api/word/40222.json"
+        }
+    }
+]

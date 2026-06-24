@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1845,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1845.json"
+        },
+        "syriac": "\u0721\u0721\u072a\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "imitator",
+                "imitator."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1101,
+            "uri": "https://sedra.bethmardutho.org/api/root/1101.json"
+        },
+        "words": [
+            {
+                "id": 22810,
+                "uri": "https://sedra.bethmardutho.org/api/word/22810.json"
+            },
+            {
+                "id": 12223,
+                "uri": "https://sedra.bethmardutho.org/api/word/12223.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

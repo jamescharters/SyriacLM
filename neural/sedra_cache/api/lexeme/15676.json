@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15676,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15676.json"
+        },
+        "syriac": "\u0719\u072a\u0719",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0633\u0644",
+                "\u062c\u0639\u0644\u0647 \u0628\u0627\u0633\u0644\u0627\u064b"
+            ],
+            "French": [
+                "\u00eatre vaillant",
+                "rendre vaillant"
+            ],
+            "English": [
+                "Ia to be strenuous",
+                "IIa to arm",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2957,
+            "uri": "https://sedra.bethmardutho.org/api/root/2957.json"
+        },
+        "words": [
+            {
+                "id": 42143,
+                "uri": "https://sedra.bethmardutho.org/api/word/42143.json"
+            },
+            {
+                "id": 40349,
+                "uri": "https://sedra.bethmardutho.org/api/word/40349.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

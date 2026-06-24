@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0729\u072b\u071d",
+        "western": "\u0729\u0730\u072b\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15018,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15018.json"
+        },
+        "stem": "\u0729\u072b\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0642\u0633\u0649 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to make grievous",
+                "IIa to harden",
+                "IIIa to be harsh",
+                "to harden.",
+                "IIp"
+            ],
+            "fre": [
+                "rendre dur"
+            ]
+        },
+        "word": {
+            "id": 39811,
+            "uri": "https://sedra.bethmardutho.org/api/word/39811.json"
+        }
+    }
+]

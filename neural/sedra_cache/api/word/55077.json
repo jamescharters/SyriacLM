@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u071b\u0722\u0718\u0723",
+        "western": "\u0710\u0730\u071b\u0730\u0722\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 28703,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28703.json"
+        },
+        "stem": "\u0710\u071b\u0722\u0718\u0723",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u1f08\u03c4\u03ac\u03bd\u03bf\u03c2"
+            ],
+            "lat": [
+                "Atanus"
+            ]
+        },
+        "word": {
+            "id": 55077,
+            "uri": "https://sedra.bethmardutho.org/api/word/55077.json"
+        }
+    }
+]

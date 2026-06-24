@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15261,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15261.json"
+        },
+        "syriac": "\u0722\u071f\u072b",
+        "glosses": {
+            "English": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u0736\u072b</span> to strike, injure."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3102,
+            "uri": "https://sedra.bethmardutho.org/api/root/3102.json"
+        },
+        "words": [
+            {
+                "id": 41240,
+                "uri": "https://sedra.bethmardutho.org/api/word/41240.json"
+            },
+            {
+                "id": 40924,
+                "uri": "https://sedra.bethmardutho.org/api/word/40924.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

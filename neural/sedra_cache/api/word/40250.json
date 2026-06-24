@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0710\u0720\u0717",
+        "western": "\u0710\u0730\u0720\u0730\u0717",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15352,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15352.json"
+        },
+        "stem": "\u0710\u0720\u0717",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0625\u0644\u0647",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIa to deify, to divinize",
+                "IIp."
+            ],
+            "fre": [
+                "diviniser",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40250,
+            "uri": "https://sedra.bethmardutho.org/api/word/40250.json"
+        }
+    }
+]

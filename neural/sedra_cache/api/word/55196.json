@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0718\u0722\u071d",
+        "western": "\u0710\u071d\u0718\u0730\u0722\u071d",
+        "lexeme": {
+            "id": 28822,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28822.json"
+        },
+        "stem": "\u0710\u071d\u0718\u0722\u071d",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u1f38\u03c9\u03ac\u03bd\u03bd\u03b7\u03c2"
+            ],
+            "lat": [
+                "Joannes"
+            ]
+        },
+        "word": {
+            "id": 55196,
+            "uri": "https://sedra.bethmardutho.org/api/word/55196.json"
+        }
+    }
+]

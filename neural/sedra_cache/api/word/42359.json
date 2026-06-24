@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u072a\u071d\u0721",
+        "western": "\u0710\u0730\u072a\u073a\u071d\u0721",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2981,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2981.json"
+        },
+        "stem": "\u072a\u0718\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "<span class=\"selectableFont\">\u0721\u072a\u0730\u071d\u0721\u0733\u0710</span> most high",
+                "IIa <span class=\"selectableFont\">\u072a\u0730\u071d\u0736\u0721</span> to set on high",
+                "to be haughty",
+                "Ia to be high",
+                "to be exalted",
+                "Ip to be raised up",
+                "to remove, take away.",
+                "IIIa to raise, exalt",
+                "exalt",
+                "be high"
+            ]
+        },
+        "word": {
+            "id": 42359,
+            "uri": "https://sedra.bethmardutho.org/api/word/42359.json"
+        }
+    }
+]

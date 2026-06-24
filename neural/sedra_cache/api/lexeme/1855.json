@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1855,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1855.json"
+        },
+        "syriac": "\u0721\u072a\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0644\u0639",
+                "\u062c\u0631\u062f (\u0645\u0636)",
+                ""
+            ],
+            "French": [
+                "arracher",
+                "d\u00e9pouiller",
+                ""
+            ],
+            "English": [
+                "pluck",
+                "Ip",
+                "IIp.",
+                "IIa to pluck out, tear off",
+                "Ia to pluck, pull out (hair etc.)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1105,
+            "uri": "https://sedra.bethmardutho.org/api/root/1105.json"
+        },
+        "words": [
+            {
+                "id": 12251,
+                "uri": "https://sedra.bethmardutho.org/api/word/12251.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

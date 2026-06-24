@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0720\u0717\u0710",
+        "western": "\u0722\u0736\u0720\u0717\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15566,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15566.json"
+        },
+        "stem": "\u0720\u0717\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062f (\u0636\u0631\u0633)"
+            ],
+            "eng": [
+                "Ia to be sharp."
+            ],
+            "fre": [
+                "\u00eatre ac\u00e9r\u00e9e (dent)"
+            ]
+        },
+        "word": {
+            "id": 41912,
+            "uri": "https://sedra.bethmardutho.org/api/word/41912.json"
+        }
+    }
+]

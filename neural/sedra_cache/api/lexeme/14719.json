@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 14719,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14719.json"
+        },
+        "syriac": "\u0722\u0712\u072a\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062c\u062c (\u0645\u0636)"
+            ],
+            "French": [
+                "enflammer"
+            ],
+            "English": [
+                "to light (candle)",
+                "IVa to kindle, inflame",
+                "IVp to be set on fire, burst into flame."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2237,
+            "uri": "https://sedra.bethmardutho.org/api/root/2237.json"
+        },
+        "words": [
+            {
+                "id": 40822,
+                "uri": "https://sedra.bethmardutho.org/api/word/40822.json"
+            },
+            {
+                "id": 39980,
+                "uri": "https://sedra.bethmardutho.org/api/word/39980.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

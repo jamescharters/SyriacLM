@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0720\u071d\u071b\u0718\u072c\u0710",
+        "western": "\u0710\u0730\u072c\u0720\u073a\u071d\u071b\u073d\u0718\u072c\u0733\u0710",
+        "eastern": "\u0710\u072c\u0720\u071d\u073c\u071b\u0718\u073c\u072c\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13126,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13126.json"
+        },
+        "stem": "\u0710\u072c\u0720\u071d\u071b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0623\u0633"
+            ],
+            "eng": [
+                "fortitude, valour.",
+                "contest, struggle"
+            ],
+            "fre": [
+                "vaillance"
+            ]
+        },
+        "word": {
+            "id": 30331,
+            "uri": "https://sedra.bethmardutho.org/api/word/30331.json"
+        }
+    }
+]

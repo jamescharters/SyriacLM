@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15211,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15211.json"
+        },
+        "syriac": "\u0728\u071a\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u062a\u0645, \u0633\u0628",
+                "\u0644\u0639\u0646",
+                "\u00a0"
+            ],
+            "French": [
+                "injurer, invectiver",
+                "maudire",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to revile",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2258,
+            "uri": "https://sedra.bethmardutho.org/api/root/2258.json"
+        },
+        "words": [
+            {
+                "id": 40819,
+                "uri": "https://sedra.bethmardutho.org/api/word/40819.json"
+            },
+            {
+                "id": 40680,
+                "uri": "https://sedra.bethmardutho.org/api/word/40680.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0712\u072a\u0725\u071d\u0722\u0717",
+        "western": "\u0712\u0741\u072a\u0736\u0725\u071d\u0733\u0722\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 3052,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3052.json"
+        },
+        "stem": "\u072a\u0725\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "mind",
+                "mind",
+                "meaning, sense.",
+                "opinion",
+                "conception",
+                "idea",
+                "thought",
+                "conscience",
+                "fool"
+            ]
+        },
+        "word": {
+            "id": 19900,
+            "uri": "https://sedra.bethmardutho.org/api/word/19900.json"
+        }
+    }
+]

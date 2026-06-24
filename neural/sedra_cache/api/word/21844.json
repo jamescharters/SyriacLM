@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0710\u072b\u0729\u071d\u072c",
+        "western": "\u0710\u0730\u072b\u0729\u073a\u071d\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 3299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3299.json"
+        },
+        "stem": "\u072b\u0729\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072b\u072c\u0729\u073a\u071d</span> to be watered",
+                "IIIa to give to drink",
+                "IIa to bathe (eyes)",
+                "IIIp.",
+                "to irrigate",
+                "to be given a drink",
+                "give to drink",
+                "water"
+            ]
+        },
+        "word": {
+            "id": 21844,
+            "uri": "https://sedra.bethmardutho.org/api/word/21844.json"
+        }
+    }
+]

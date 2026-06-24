@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0718\u072c\u0718\u072a\u071d",
+        "western": "\u0718\u072c\u0742\u0730\u0718\u072a\u0730\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 3381,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3381.json"
+        },
+        "stem": "\u072c\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "ox",
+                "bull, ox.",
+                "steer"
+            ]
+        },
+        "word": {
+            "id": 22442,
+            "uri": "https://sedra.bethmardutho.org/api/word/22442.json"
+        }
+    }
+]

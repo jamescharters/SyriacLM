@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0729\u0728\u0721\u0710",
+        "western": "\u0729\u0733\u0728\u0721\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2866,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2866.json"
+        },
+        "stem": "\u0729\u0728\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0643\u0647\u0646"
+            ],
+            "eng": [
+                "Ia to use divination",
+                "IIa",
+                "IIp",
+                "IIIa to give omens.",
+                "divine"
+            ],
+            "fre": [
+                "pratiquer la divination"
+            ]
+        },
+        "word": {
+            "id": 28296,
+            "uri": "https://sedra.bethmardutho.org/api/word/28296.json"
+        }
+    }
+]

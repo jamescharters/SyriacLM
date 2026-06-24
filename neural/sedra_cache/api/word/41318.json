@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0712\u072a\u071d",
+        "western": "\u0712\u0730\u072a\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15104,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15104.json"
+        },
+        "stem": "\u0712\u072a\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062e\u0644\u0635",
+                "\u0641\u0631\u0642"
+            ],
+            "eng": [
+                "pass. part. <span class=\"selectableFont\">\u0721\u0712\u0730\u072a\u0730\u071d</span> exempt.",
+                "to exempt",
+                "IIa to remove, leave out",
+                "to separate"
+            ],
+            "fre": [
+                "\u00a0",
+                "s\u00e9parer",
+                "lib\u00e9rer"
+            ]
+        },
+        "word": {
+            "id": 41318,
+            "uri": "https://sedra.bethmardutho.org/api/word/41318.json"
+        }
+    }
+]

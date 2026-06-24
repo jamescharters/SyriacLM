@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 119,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/119.json"
+        },
+        "syriac": "\u0710\u071f\u0720\u0718\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0645\u0627\u0639\u0629, \u063a\u0648\u063a\u0627\u0621",
+                "\u0634\u063a\u0628"
+            ],
+            "French": [
+                "foule, attroupement",
+                "s\u00e9dition"
+            ],
+            "English": [
+                "crowd",
+                "multitude",
+                "crowd."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f44\u03c7\u03bb\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 90,
+            "uri": "https://sedra.bethmardutho.org/api/root/90.json"
+        },
+        "words": [
+            {
+                "id": 42529,
+                "uri": "https://sedra.bethmardutho.org/api/word/42529.json"
+            },
+            {
+                "id": 872,
+                "uri": "https://sedra.bethmardutho.org/api/word/872.json"
+            },
+            {
+                "id": 873,
+                "uri": "https://sedra.bethmardutho.org/api/word/873.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

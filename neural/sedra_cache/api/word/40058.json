@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0719\u071d\u0726\u0722",
+        "western": "\u0719\u0730\u071d\u0726\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14784,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14784.json"
+        },
+        "stem": "\u0719\u071d\u0726\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to deceive, beguile, pretend."
+            ]
+        },
+        "word": {
+            "id": 40058,
+            "uri": "https://sedra.bethmardutho.org/api/word/40058.json"
+        }
+    }
+]

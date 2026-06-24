@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0722",
+        "western": "\u0721\u072c\u0722",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15204,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15204.json"
+        },
+        "stem": "\u0721\u072c\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa to hold back.",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0721\u0730\u072c\u0730\u0722</span> to delay, linger, be late, slow"
+            ]
+        },
+        "word": {
+            "id": 41024,
+            "uri": "https://sedra.bethmardutho.org/api/word/41024.json"
+        }
+    }
+]

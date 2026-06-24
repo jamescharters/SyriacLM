@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0718\u0720\u0710\u0720\u0717\u0710",
+        "western": "\u0718\u0720\u0730\u0710\u0720\u0733\u0717\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 130,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/130.json"
+        },
+        "stem": "\u0710\u0720\u0717\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0644\u0647"
+            ],
+            "eng": [
+                "God",
+                "<span class=\"selectableFont\">\u0710\u0730\u0720\u0733\u0717\u072c\u0733\u0710</span> goddess.",
+                "god",
+                "God",
+                "a god"
+            ],
+            "fre": [
+                "dieu"
+            ]
+        },
+        "word": {
+            "id": 929,
+            "uri": "https://sedra.bethmardutho.org/api/word/929.json"
+        }
+    }
+]

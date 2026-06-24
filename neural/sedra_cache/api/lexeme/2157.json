@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 2157,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2157.json"
+        },
+        "syriac": "\u0723\u0721\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0645\u0627\u0644",
+                "\u0634\u0645\u0627\u0644\u064a",
+                "\u0634\u0645\u0627\u0644\u0627\u064b"
+            ],
+            "French": [
+                "gauche",
+                "de gauche",
+                "\u00e0 gauche"
+            ],
+            "English": [
+                "left",
+                "left hand, left."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1289,
+            "uri": "https://sedra.bethmardutho.org/api/root/1289.json"
+        },
+        "words": [
+            {
+                "id": 14364,
+                "uri": "https://sedra.bethmardutho.org/api/word/14364.json"
+            },
+            {
+                "id": 14363,
+                "uri": "https://sedra.bethmardutho.org/api/word/14363.json"
+            },
+            {
+                "id": 14362,
+                "uri": "https://sedra.bethmardutho.org/api/word/14362.json"
+            },
+            {
+                "id": 14368,
+                "uri": "https://sedra.bethmardutho.org/api/word/14368.json"
+            },
+            {
+                "id": 14367,
+                "uri": "https://sedra.bethmardutho.org/api/word/14367.json"
+            },
+            {
+                "id": 14366,
+                "uri": "https://sedra.bethmardutho.org/api/word/14366.json"
+            },
+            {
+                "id": 14365,
+                "uri": "https://sedra.bethmardutho.org/api/word/14365.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1202,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1202.json"
+        },
+        "syriac": "\u071b\u0718\u071d\u0712\u0710",
+        "glosses": {
+            "English": [
+                "preparedness",
+                "readiness",
+                "promptitude",
+                "preparation",
+                "preparation, readiness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 704,
+            "uri": "https://sedra.bethmardutho.org/api/root/704.json"
+        },
+        "words": [
+            {
+                "id": 7959,
+                "uri": "https://sedra.bethmardutho.org/api/word/7959.json"
+            },
+            {
+                "id": 7958,
+                "uri": "https://sedra.bethmardutho.org/api/word/7958.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

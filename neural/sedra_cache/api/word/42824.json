@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071b\u0718\u072a\u0712\u0710",
+        "western": "\u071b\u073d\u0718\u072a\u0712\u0733\u0710",
+        "lexeme": {
+            "id": 9999,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9999.json"
+        },
+        "stem": "\u071b\u0718\u072a\u0712\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u0627\u0639\u0629, \u062c\u0644\u0628\u0629"
+            ],
+            "eng": [
+                "crown, tumult.",
+                "turmoil"
+            ],
+            "fre": [
+                "foule , tumulte"
+            ]
+        },
+        "word": {
+            "id": 42824,
+            "uri": "https://sedra.bethmardutho.org/api/word/42824.json"
+        }
+    }
+]

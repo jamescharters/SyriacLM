@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071f\u0726\u071d\u0726\u0710",
+        "western": "\u071f\u0741\u0726\u0742\u073a\u071d\u0726\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1565,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1565.json"
+        },
+        "stem": "\u071f\u0726\u071d\u0726\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0642\u0648\u0633",
+                "\u0623\u0644\u0648\u0649",
+                "\u0623\u062d\u062f\u0628"
+            ],
+            "eng": [
+                "hump-backed",
+                "bent",
+                "arched.",
+                "bent, crooked, curved"
+            ],
+            "fre": [
+                "arqu\u00e9",
+                "courbe",
+                "bossu"
+            ]
+        },
+        "word": {
+            "id": 10303,
+            "uri": "https://sedra.bethmardutho.org/api/word/10303.json"
+        }
+    }
+]

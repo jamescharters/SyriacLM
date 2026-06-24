@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 907,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/907.json"
+        },
+        "syriac": "\u0719\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0642"
+            ],
+            "French": [
+                "outre"
+            ],
+            "English": [
+                "wineskin",
+                "bag",
+                "wineskin, leather bottle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 576,
+            "uri": "https://sedra.bethmardutho.org/api/root/576.json"
+        },
+        "words": [
+            {
+                "id": 5863,
+                "uri": "https://sedra.bethmardutho.org/api/word/5863.json"
+            },
+            {
+                "id": 5861,
+                "uri": "https://sedra.bethmardutho.org/api/word/5861.json"
+            },
+            {
+                "id": 5860,
+                "uri": "https://sedra.bethmardutho.org/api/word/5860.json"
+            },
+            {
+                "id": 5862,
+                "uri": "https://sedra.bethmardutho.org/api/word/5862.json"
+            },
+            {
+                "id": 5724,
+                "uri": "https://sedra.bethmardutho.org/api/word/5724.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

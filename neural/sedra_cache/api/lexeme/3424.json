@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3424.json"
+        },
+        "syriac": "\u072c\u0725\u0720\u0710",
+        "glosses": {
+            "English": [
+                "fox",
+                "fox."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1987,
+            "uri": "https://sedra.bethmardutho.org/api/root/1987.json"
+        },
+        "words": [
+            {
+                "id": 22594,
+                "uri": "https://sedra.bethmardutho.org/api/word/22594.json"
+            },
+            {
+                "id": 22593,
+                "uri": "https://sedra.bethmardutho.org/api/word/22593.json"
+            },
+            {
+                "id": 22596,
+                "uri": "https://sedra.bethmardutho.org/api/word/22596.json"
+            },
+            {
+                "id": 22595,
+                "uri": "https://sedra.bethmardutho.org/api/word/22595.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

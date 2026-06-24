@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15942,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15942.json"
+        },
+        "syriac": "\u071a\u0720",
+        "glosses": {
+            "English": [
+                "IIp, IIIa (see under <span class=\"selectableFont\">\u071a\u0730\u0720\u0736\u0720</span>).",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0730\u0720</span> & <span class=\"selectableFont\">\u0722\u0736\u071a\u073d\u0718\u0720</span>, Ia to dig (a hole)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3131,
+            "uri": "https://sedra.bethmardutho.org/api/root/3131.json"
+        },
+        "words": [
+            {
+                "id": 41918,
+                "uri": "https://sedra.bethmardutho.org/api/word/41918.json"
+            },
+            {
+                "id": 41785,
+                "uri": "https://sedra.bethmardutho.org/api/word/41785.json"
+            },
+            {
+                "id": 40471,
+                "uri": "https://sedra.bethmardutho.org/api/word/40471.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 3432,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3432.json"
+        },
+        "syriac": "\u072c\u0729\u071d\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0648\u064a, \u0643\u0628\u064a\u0631, \u0642\u062f\u064a\u0631"
+            ],
+            "French": [
+                "fort, grand, puissant"
+            ],
+            "English": [
+                "strong",
+                "mighty",
+                "strong, mighty, powerful."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1991,
+            "uri": "https://sedra.bethmardutho.org/api/root/1991.json"
+        },
+        "words": [
+            {
+                "id": 22650,
+                "uri": "https://sedra.bethmardutho.org/api/word/22650.json"
+            },
+            {
+                "id": 22649,
+                "uri": "https://sedra.bethmardutho.org/api/word/22649.json"
+            },
+            {
+                "id": 20810,
+                "uri": "https://sedra.bethmardutho.org/api/word/20810.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

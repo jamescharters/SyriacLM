@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15484,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15484.json"
+        },
+        "syriac": "\u0722\u0715\u072a",
+        "glosses": {
+            "English": [
+                "Ip.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u073d\u0718\u072a</span>, Ia to vow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2885,
+            "uri": "https://sedra.bethmardutho.org/api/root/2885.json"
+        },
+        "words": [
+            {
+                "id": 42028,
+                "uri": "https://sedra.bethmardutho.org/api/word/42028.json"
+            },
+            {
+                "id": 40135,
+                "uri": "https://sedra.bethmardutho.org/api/word/40135.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

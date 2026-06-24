@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0718\u0721\u071a\u072a\u0729",
+        "western": "\u0718\u0730\u0721\u071a\u0730\u072a\u0736\u0729",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1154,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1154.json"
+        },
+        "stem": "\u071a\u072a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0637",
+                "\u062d\u062f\u062f, \u0623\u0642\u0627\u0645",
+                "\u0644\u0641\u0638"
+            ],
+            "eng": [
+                "Ia to fix, settle",
+                "IIp to be cut through.",
+                "to appoint, to destine",
+                "gnash",
+                "Ip to be appointed, decreed, determined",
+                "IIa to gnash the teeth",
+                "to sharpen",
+                "to conclude"
+            ],
+            "fre": [
+                "prononcer",
+                "fixer, \u00e9tablir",
+                "tirer ( un trait)"
+            ]
+        },
+        "word": {
+            "id": 24984,
+            "uri": "https://sedra.bethmardutho.org/api/word/24984.json"
+        }
+    }
+]

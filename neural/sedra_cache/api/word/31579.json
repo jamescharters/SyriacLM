@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u072b\u071f\u071a\u0722\u0710",
+        "western": "\u0721\u0736\u072b\u071f\u071a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8325,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8325.json"
+        },
+        "stem": "\u0721\u072b\u071f\u071a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062e\u062a\u0631\u0639"
+            ],
+            "eng": [
+                "possible.",
+                "efficient",
+                "author",
+                "inventor, finder, discoverer"
+            ],
+            "fre": [
+                "inventeur"
+            ]
+        },
+        "word": {
+            "id": 31579,
+            "uri": "https://sedra.bethmardutho.org/api/word/31579.json"
+        }
+    }
+]

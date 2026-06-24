@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071a\u0710\u072a\u071d\u072c\u0710",
+        "western": "\u071a\u0736\u0710\u072a\u073a\u071d\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11055,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11055.json"
+        },
+        "stem": "\u071a\u0710\u072a\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0628",
+                "\u0642\u0646\u0627\u0629"
+            ],
+            "eng": [
+                "drain, gutter.",
+                "ditch, canal"
+            ],
+            "fre": [
+                "canal",
+                "fosse"
+            ]
+        },
+        "word": {
+            "id": 30559,
+            "uri": "https://sedra.bethmardutho.org/api/word/30559.json"
+        }
+    }
+]

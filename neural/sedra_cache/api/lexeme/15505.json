@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15505,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15505.json"
+        },
+        "syriac": "\u0722\u0723\u072a",
+        "glosses": {
+            "English": [
+                "Ip to be sawn.",
+                "to tear out (hair)",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u073d\u0718\u072a</span>, Ia to saw, to cut into pieces"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3211,
+            "uri": "https://sedra.bethmardutho.org/api/root/3211.json"
+        },
+        "words": [
+            {
+                "id": 41810,
+                "uri": "https://sedra.bethmardutho.org/api/word/41810.json"
+            },
+            {
+                "id": 40045,
+                "uri": "https://sedra.bethmardutho.org/api/word/40045.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

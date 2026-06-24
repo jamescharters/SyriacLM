@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 756,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/756.json"
+        },
+        "syriac": "\u0715\u072a\u0718\u0723\u0720\u0710",
+        "glosses": {
+            "English": [
+                "Drusilla"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 477,
+            "uri": "https://sedra.bethmardutho.org/api/root/477.json"
+        },
+        "words": [
+            {
+                "id": 4850,
+                "uri": "https://sedra.bethmardutho.org/api/word/4850.json"
+            },
+            {
+                "id": 4851,
+                "uri": "https://sedra.bethmardutho.org/api/word/4851.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

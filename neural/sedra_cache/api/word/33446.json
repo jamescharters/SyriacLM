@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u071a\u072b\u0710",
+        "western": "\u0722\u0736\u071a\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5990,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5990.json"
+        },
+        "stem": "\u0722\u071a\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0623\u0644"
+            ],
+            "eng": [
+                "augury."
+            ],
+            "fre": [
+                "pr\u00e9sage"
+            ]
+        },
+        "word": {
+            "id": 33446,
+            "uri": "https://sedra.bethmardutho.org/api/word/33446.json"
+        }
+    }
+]

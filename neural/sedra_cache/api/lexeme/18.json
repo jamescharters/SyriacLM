@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 18,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18.json"
+        },
+        "syriac": "\u0710\u0712\u072a\u0717\u0721",
+        "glosses": {
+            "English": [
+                "Abraham"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 13,
+            "uri": "https://sedra.bethmardutho.org/api/root/13.json"
+        },
+        "words": [
+            {
+                "id": 170,
+                "uri": "https://sedra.bethmardutho.org/api/word/170.json"
+            },
+            {
+                "id": 169,
+                "uri": "https://sedra.bethmardutho.org/api/word/169.json"
+            },
+            {
+                "id": 168,
+                "uri": "https://sedra.bethmardutho.org/api/word/168.json"
+            },
+            {
+                "id": 167,
+                "uri": "https://sedra.bethmardutho.org/api/word/167.json"
+            },
+            {
+                "id": 166,
+                "uri": "https://sedra.bethmardutho.org/api/word/166.json"
+            },
+            {
+                "id": 165,
+                "uri": "https://sedra.bethmardutho.org/api/word/165.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

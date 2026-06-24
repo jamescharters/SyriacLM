@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0722\u0710",
+        "western": "\u0723\u0730\u072a\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8845,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8845.json"
+        },
+        "stem": "\u0723\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u0648\u0631",
+                "\u062c\u0630\u0639",
+                "\u0645\u063a\u0632\u0644",
+                "\u0634\u0639\u0627\u0639"
+            ],
+            "eng": [
+                "axle, axis."
+            ],
+            "fre": [
+                "axe",
+                "tronc",
+                "rayon",
+                "fuseau"
+            ]
+        },
+        "word": {
+            "id": 35205,
+            "uri": "https://sedra.bethmardutho.org/api/word/35205.json"
+        }
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 14663,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14663.json"
+        },
+        "syriac": "\u0726\u072a\u072c\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0632\u0642"
+            ],
+            "French": [
+                "d\u00e9chirer"
+            ],
+            "English": [
+                "IVp.",
+                "IVa to tear away"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2138,
+            "uri": "https://sedra.bethmardutho.org/api/root/2138.json"
+        },
+        "words": [
+            {
+                "id": 46034,
+                "uri": "https://sedra.bethmardutho.org/api/word/46034.json"
+            },
+            {
+                "id": 41552,
+                "uri": "https://sedra.bethmardutho.org/api/word/41552.json"
+            },
+            {
+                "id": 40166,
+                "uri": "https://sedra.bethmardutho.org/api/word/40166.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

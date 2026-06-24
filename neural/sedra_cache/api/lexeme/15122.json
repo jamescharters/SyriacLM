@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15122,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15122.json"
+        },
+        "syriac": "\u0713\u0722\u0723",
+        "glosses": {
+            "English": [
+                "IIa to make cognate, connect",
+                "IIp to be cognate."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3053,
+            "uri": "https://sedra.bethmardutho.org/api/root/3053.json"
+        },
+        "words": [
+            {
+                "id": 40376,
+                "uri": "https://sedra.bethmardutho.org/api/word/40376.json"
+            },
+            {
+                "id": 40237,
+                "uri": "https://sedra.bethmardutho.org/api/word/40237.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

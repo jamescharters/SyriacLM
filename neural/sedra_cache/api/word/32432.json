@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u072a\u071f\u0718\u0712\u0710",
+        "western": "\u072a\u071f\u073d\u0718\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10758,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10758.json"
+        },
+        "stem": "\u072a\u071f\u0718\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0637\u064a\u0629",
+                "\u0645\u0644\u0627\u062d\u0629",
+                "\u0631\u0643\u0628",
+                "\u0641\u0631\u0648\u0633\u064a\u0629",
+                "\u0639\u0631\u0628\u0629",
+                "\u0645\u0631\u0643\u0628"
+            ],
+            "eng": [
+                "animal for riding.",
+                "conveyance, vehicle, vessel"
+            ],
+            "fre": [
+                "char",
+                "\u00e9quitation",
+                "bateau",
+                "navigation",
+                "monture",
+                "troupe de cavaliers"
+            ]
+        },
+        "word": {
+            "id": 32432,
+            "uri": "https://sedra.bethmardutho.org/api/word/32432.json"
+        }
+    }
+]

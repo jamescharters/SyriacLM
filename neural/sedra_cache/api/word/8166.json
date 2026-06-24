@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u071b\u0721\u072a",
+        "western": "\u071b\u0721\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1252,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1252.json"
+        },
+        "stem": "\u071b\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0645\u0631, \u063a\u0637\u0649, \u062e\u0628\u0623",
+                "\u00a0",
+                "\u0648\u0644\u062c"
+            ],
+            "eng": [
+                "to be irrigated",
+                "Ia to hide, bury under the earth",
+                "to overwhelm, to rush headlong upon",
+                "IIp to be buried with earth, to be overwhelmed.",
+                "Ip to hide oneself",
+                "hide",
+                "cover",
+                "bury",
+                "to be covered, overwhelmed",
+                "to cover"
+            ],
+            "fre": [
+                "\u00a0",
+                "p\u00e9n\u00e9trer",
+                "enfouir, recouvrir, cacher"
+            ]
+        },
+        "word": {
+            "id": 8166,
+            "uri": "https://sedra.bethmardutho.org/api/word/8166.json"
+        }
+    }
+]

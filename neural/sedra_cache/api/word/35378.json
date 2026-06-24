@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0721\u071d\u0712\u0720\u0722\u0710",
+        "western": "\u0721\u071d\u0730\u0712\u0720\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10396,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10396.json"
+        },
+        "stem": "\u0721\u071d\u0712\u0720\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "translator.",
+                "transmitter",
+                "carrier, bearer"
+            ]
+        },
+        "word": {
+            "id": 35378,
+            "uri": "https://sedra.bethmardutho.org/api/word/35378.json"
+        }
+    }
+]

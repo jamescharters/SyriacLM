@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0718\u0710\u0723\u0718\u072c\u0710",
+        "western": "\u0718\u0733\u0710\u0723\u0718\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 222,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/222.json"
+        },
+        "stem": "\u0710\u0723\u071d\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "healing",
+                "healing, medicine, cure.",
+                "cure"
+            ]
+        },
+        "word": {
+            "id": 1622,
+            "uri": "https://sedra.bethmardutho.org/api/word/1622.json"
+        }
+    }
+]

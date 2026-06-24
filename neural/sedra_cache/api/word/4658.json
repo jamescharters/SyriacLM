@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0715\u0718\u0721\u071d\u0710",
+        "western": "\u0715\u0741\u073d\u0718\u0721\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 720,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/720.json"
+        },
+        "stem": "\u0715\u0718\u0721\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "likeness",
+                "form",
+                "image",
+                "example",
+                "likelihood.",
+                "comparison",
+                "resemblance, likeness"
+            ]
+        },
+        "word": {
+            "id": 4658,
+            "uri": "https://sedra.bethmardutho.org/api/word/4658.json"
+        }
+    }
+]

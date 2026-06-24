@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 1877,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1877.json"
+        },
+        "syriac": "\u0721\u072c\u0718\u0721",
+        "glosses": {
+            "English": [
+                "always",
+                "ever",
+                "everlasting",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> never."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1120,
+            "uri": "https://sedra.bethmardutho.org/api/root/1120.json"
+        },
+        "words": [
+            {
+                "id": 12347,
+                "uri": "https://sedra.bethmardutho.org/api/word/12347.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

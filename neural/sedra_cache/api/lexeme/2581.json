@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2581,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2581.json"
+        },
+        "syriac": "\u0726\u072a\u0718\u0713\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0631\u062e (\u0639\u0635\u0641\u0648\u0631), \u0641\u0631\u0648\u062c"
+            ],
+            "French": [
+                "petit (d&#39;oiseau), poussin"
+            ],
+            "English": [
+                "chick",
+                "young bird",
+                "young bird, chick."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1530,
+            "uri": "https://sedra.bethmardutho.org/api/root/1530.json"
+        },
+        "words": [
+            {
+                "id": 22836,
+                "uri": "https://sedra.bethmardutho.org/api/word/22836.json"
+            },
+            {
+                "id": 16840,
+                "uri": "https://sedra.bethmardutho.org/api/word/16840.json"
+            },
+            {
+                "id": 16841,
+                "uri": "https://sedra.bethmardutho.org/api/word/16841.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

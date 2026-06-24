@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15928,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15928.json"
+        },
+        "syriac": "\u0729\u072b",
+        "glosses": {
+            "English": [
+                "old",
+                "IIp to be old.",
+                "IIa to give precedence",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u073d\u0718\u072b</span> & <span class=\"selectableFont\">\u0722\u0736\u0729\u0730\u072b</span>, Ia to grow old"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2794,
+            "uri": "https://sedra.bethmardutho.org/api/root/2794.json"
+        },
+        "words": [
+            {
+                "id": 18868,
+                "uri": "https://sedra.bethmardutho.org/api/word/18868.json"
+            },
+            {
+                "id": 42003,
+                "uri": "https://sedra.bethmardutho.org/api/word/42003.json"
+            },
+            {
+                "id": 41689,
+                "uri": "https://sedra.bethmardutho.org/api/word/41689.json"
+            },
+            {
+                "id": 40654,
+                "uri": "https://sedra.bethmardutho.org/api/word/40654.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

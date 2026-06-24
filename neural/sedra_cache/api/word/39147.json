@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0712\u0718\u071d\u0725\u0710",
+        "western": "\u0712\u073d\u0718\u071d\u0733\u0725\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8380,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8380.json"
+        },
+        "stem": "\u0712\u0718\u071d\u0725\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "negligence.",
+                "deferment, delay"
+            ]
+        },
+        "word": {
+            "id": 39147,
+            "uri": "https://sedra.bethmardutho.org/api/word/39147.json"
+        }
+    }
+]

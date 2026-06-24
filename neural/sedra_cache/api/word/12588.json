@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0718\u0713",
+        "western": "\u0722\u0730\u0718\u0736\u0713\u0742",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1920,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1920.json"
+        },
+        "stem": "\u0722\u0718\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to shipwreck",
+                "be shipwrecked",
+                "IIp."
+            ]
+        },
+        "word": {
+            "id": 12588,
+            "uri": "https://sedra.bethmardutho.org/api/word/12588.json"
+        }
+    }
+]

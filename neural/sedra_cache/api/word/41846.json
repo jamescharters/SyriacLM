@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0729\u0728\u0726",
+        "western": "\u0722\u0736\u0729\u0728\u0730\u0726",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15783,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15783.json"
+        },
+        "stem": "\u0729\u0728\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u063a\u062a\u0627\u0638, \u0627\u0633\u062a\u0627\u0621"
+            ],
+            "eng": [
+                "to take amiss",
+                "& <span class=\"selectableFont\">\u0729\u0728\u0736\u0726</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u0728\u0730\u0726</span>, Ia to be irritated, indignant",
+                "IIp to be vexed",
+                "to be sick",
+                "IIIa to grudge."
+            ],
+            "fre": [
+                "\u00eatre irrit\u00e9, indign\u00e9"
+            ]
+        },
+        "word": {
+            "id": 41846,
+            "uri": "https://sedra.bethmardutho.org/api/word/41846.json"
+        }
+    }
+]

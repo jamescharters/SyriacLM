@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15838,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15838.json"
+        },
+        "syriac": "\u072c\u071a",
+        "glosses": {
+            "English": [
+                "Ia to rot",
+                "IIa <span class=\"selectableFont\">\u072c\u0730\u071d\u0730\u071a</span> to calm."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3070,
+            "uri": "https://sedra.bethmardutho.org/api/root/3070.json"
+        },
+        "words": [
+            {
+                "id": 42006,
+                "uri": "https://sedra.bethmardutho.org/api/word/42006.json"
+            },
+            {
+                "id": 40213,
+                "uri": "https://sedra.bethmardutho.org/api/word/40213.json"
+            },
+            {
+                "id": 40116,
+                "uri": "https://sedra.bethmardutho.org/api/word/40116.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

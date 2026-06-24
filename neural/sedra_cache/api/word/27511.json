@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0721\u0726\u0729\u0729\u071d\u0722",
+        "western": "\u0721\u0726\u0742\u0730\u0729\u0729\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15286,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15286.json"
+        },
+        "stem": "\u0726\u0729\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u062c\u0644\u062c",
+                "\u062b\u0631\u062b\u0631",
+                "\u00a0"
+            ],
+            "eng": [
+                "stammer",
+                "to stammer.",
+                "IIa to babble, prate, talk nonsense"
+            ],
+            "fre": [
+                "balbutier",
+                "bavarder",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 27511,
+            "uri": "https://sedra.bethmardutho.org/api/word/27511.json"
+        }
+    }
+]

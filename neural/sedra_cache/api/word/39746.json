@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u071a\u072c\u0710",
+        "western": "\u0722\u071a\u0733\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14277,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14277.json"
+        },
+        "stem": "\u0722\u071a\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0632\u0648\u0644"
+            ],
+            "eng": [
+                "descent."
+            ],
+            "fre": [
+                "descente"
+            ]
+        },
+        "word": {
+            "id": 39746,
+            "uri": "https://sedra.bethmardutho.org/api/word/39746.json"
+        }
+    }
+]

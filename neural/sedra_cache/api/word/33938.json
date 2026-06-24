@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071b\u0718\u0726\u072c\u0710",
+        "western": "\u071b\u073d\u0718\u0726\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6260,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6260.json"
+        },
+        "stem": "\u071b\u0718\u0726\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0642\u0637\u0631\u0629"
+            ],
+            "eng": [
+                "drop."
+            ],
+            "fre": [
+                "goutte\u2026",
+                "goutte"
+            ]
+        },
+        "word": {
+            "id": 33938,
+            "uri": "https://sedra.bethmardutho.org/api/word/33938.json"
+        }
+    }
+]

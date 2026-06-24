@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15579,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15579.json"
+        },
+        "syriac": "\u0712\u071a\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0633\u062a\u0639\u062c\u0644",
+                "\u0647\u0627\u062c"
+            ],
+            "French": [
+                "se h\u00e2ter",
+                "\u00eatre agit\u00e9"
+            ],
+            "English": [
+                "Ia to hasten."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2493,
+            "uri": "https://sedra.bethmardutho.org/api/root/2493.json"
+        },
+        "words": [
+            {
+                "id": 41612,
+                "uri": "https://sedra.bethmardutho.org/api/word/41612.json"
+            },
+            {
+                "id": 40904,
+                "uri": "https://sedra.bethmardutho.org/api/word/40904.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

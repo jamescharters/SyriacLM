@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2923,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2923.json"
+        },
+        "syriac": "\u0721\u072a\u0712\u0725\u0710",
+        "glosses": {
+            "English": [
+                "womb",
+                "womb",
+                "inner part",
+                "sheepfold."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1724,
+            "uri": "https://sedra.bethmardutho.org/api/root/1724.json"
+        },
+        "words": [
+            {
+                "id": 19027,
+                "uri": "https://sedra.bethmardutho.org/api/word/19027.json"
+            },
+            {
+                "id": 19028,
+                "uri": "https://sedra.bethmardutho.org/api/word/19028.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

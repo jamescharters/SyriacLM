@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0721\u0710",
+        "western": "\u0710\u0730\u0721\u0308\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 173,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/173.json"
+        },
+        "stem": "\u0710\u0721\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "span.",
+                "cubit",
+                "1 (pl. <span class=\"selectableFont\">\u0710\u0730\u0721\u0308\u0736\u0710</span>) f. fore-arm"
+            ]
+        },
+        "word": {
+            "id": 42287,
+            "uri": "https://sedra.bethmardutho.org/api/word/42287.json"
+        }
+    }
+]

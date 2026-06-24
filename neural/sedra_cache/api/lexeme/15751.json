@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15751,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15751.json"
+        },
+        "syriac": "\u0721\u0728\u0710",
+        "glosses": {
+            "English": [
+                "to resist.",
+                "Ip to be able, prevail over",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0721\u0728\u0736\u0710</span>, Ia pass. part. <span class=\"selectableFont\">\u0721\u0728\u0736\u0710</span> to be able, capable"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2620,
+            "uri": "https://sedra.bethmardutho.org/api/root/2620.json"
+        },
+        "words": [
+            {
+                "id": 41744,
+                "uri": "https://sedra.bethmardutho.org/api/word/41744.json"
+            },
+            {
+                "id": 39862,
+                "uri": "https://sedra.bethmardutho.org/api/word/39862.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072c\u0721\u0723\u0718\u072c\u0710",
+        "western": "\u072c\u0730\u0721\u0723\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8794,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8794.json"
+        },
+        "stem": "\u072c\u0721\u0723\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0647\u0631 \u0646\u0637\u0631\u0648\u0646",
+                "\u0642\u064a\u062d",
+                "\u0639\u0641\u0648\u0646\u0629"
+            ],
+            "eng": [
+                "putrefaction, decay."
+            ],
+            "fre": [
+                "pus",
+                "pourriture",
+                "fleur de nitre"
+            ]
+        },
+        "word": {
+            "id": 31038,
+            "uri": "https://sedra.bethmardutho.org/api/word/31038.json"
+        }
+    }
+]

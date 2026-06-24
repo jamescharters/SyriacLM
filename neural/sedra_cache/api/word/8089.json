@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071b\u0720\u071d\u071d",
+        "western": "\u071b\u0730\u0720\u073a\u071d\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1235,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1235.json"
+        },
+        "stem": "\u071b\u0720\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "youth",
+                "young",
+                "child, boy",
+                "servant.",
+                "girl.",
+                "maid",
+                "girl",
+                "servant",
+                "boy"
+            ]
+        },
+        "word": {
+            "id": 8089,
+            "uri": "https://sedra.bethmardutho.org/api/word/8089.json"
+        }
+    }
+]

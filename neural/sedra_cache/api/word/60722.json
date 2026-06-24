@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0710\u0721\u072a\u0725",
+        "western": "\u0710\u0730\u0721\u072a\u0730\u0725",
+        "lexeme": {
+            "id": 34367,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/34367.json"
+        },
+        "stem": "\u0710\u0721\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to cause sickness"
+            ]
+        },
+        "word": {
+            "id": 60722,
+            "uri": "https://sedra.bethmardutho.org/api/word/60722.json"
+        }
+    }
+]

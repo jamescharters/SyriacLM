@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1486,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1486.json"
+        },
+        "syriac": "\u071f\u0718\u0721\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0627\u0647\u0646\u0629"
+            ],
+            "French": [
+                "pr\u00eatresse"
+            ],
+            "English": [
+                "priestess",
+                "priestess."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 881,
+            "uri": "https://sedra.bethmardutho.org/api/root/881.json"
+        },
+        "words": [
+            {
+                "id": 9791,
+                "uri": "https://sedra.bethmardutho.org/api/word/9791.json"
+            },
+            {
+                "id": 9792,
+                "uri": "https://sedra.bethmardutho.org/api/word/9792.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

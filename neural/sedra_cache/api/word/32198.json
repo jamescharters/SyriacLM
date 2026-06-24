@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u071b\u072a\u072a\u071f\u0718\u072c\u0710",
+        "western": "\u071b\u0736\u071b\u072a\u0730\u072a\u071f\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8251,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8251.json"
+        },
+        "stem": "\u071b\u071b\u072a\u072a\u071f\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0644\u0627\u064a\u0629 \u0631\u0628\u0639\u064a\u0629"
+            ],
+            "eng": [
+                "tetrarchy."
+            ],
+            "fre": [
+                "t\u00e9trarchie"
+            ]
+        },
+        "word": {
+            "id": 32198,
+            "uri": "https://sedra.bethmardutho.org/api/word/32198.json"
+        }
+    }
+]

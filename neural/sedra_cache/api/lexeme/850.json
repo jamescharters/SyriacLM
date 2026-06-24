@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 850,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/850.json"
+        },
+        "syriac": "\u0719\u0715\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0627 \u0647\u0648 \u0639\u0627\u062f\u0644, \u0648\u0627\u062c\u0628",
+                "\u062d\u0642",
+                "\u0634\u0631\u064a\u0639\u0629, \u0623\u0645\u0631",
+                "\u0648\u0627\u062c\u0628",
+                "\u062c\u0632\u064a\u0629"
+            ],
+            "French": [
+                "ce qui est juste, d\u00fb",
+                "droit",
+                "loi , prescription",
+                "devoir",
+                "tribut"
+            ],
+            "English": [
+                "justice",
+                "rectitude",
+                "propriety",
+                "due, portion, what is right."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 543,
+            "uri": "https://sedra.bethmardutho.org/api/root/543.json"
+        },
+        "words": [
+            {
+                "id": 5561,
+                "uri": "https://sedra.bethmardutho.org/api/word/5561.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

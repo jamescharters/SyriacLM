@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1212,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1212.json"
+        },
+        "syriac": "\u071b\u0718\u071f\u071d\u0729\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Tychicus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 712,
+            "uri": "https://sedra.bethmardutho.org/api/root/712.json"
+        },
+        "words": [
+            {
+                "id": 8016,
+                "uri": "https://sedra.bethmardutho.org/api/word/8016.json"
+            },
+            {
+                "id": 8015,
+                "uri": "https://sedra.bethmardutho.org/api/word/8015.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

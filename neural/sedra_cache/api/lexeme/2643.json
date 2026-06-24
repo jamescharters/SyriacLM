@@ -1,0 +1,89 @@
+[
+    {
+        "lexeme": {
+            "id": 2643,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2643.json"
+        },
+        "syriac": "\u0726\u072c\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0627\u0648\u0644\u0629",
+                "\u0635\u064a\u0646\u064a\u0629",
+                "\u0648\u0644\u064a\u0645\u0629",
+                "\u0645\u0633\u0627\u0647\u0645\u0629, \u0647\u0628\u0629"
+            ],
+            "French": [
+                "table",
+                "plateau",
+                "festin",
+                "contribution, don"
+            ],
+            "English": [
+                "table",
+                "table",
+                "meal.",
+                "table, tray, by extension \"a meal\""
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1566,
+            "uri": "https://sedra.bethmardutho.org/api/root/1566.json"
+        },
+        "words": [
+            {
+                "id": 57996,
+                "uri": "https://sedra.bethmardutho.org/api/word/57996.json"
+            },
+            {
+                "id": 26084,
+                "uri": "https://sedra.bethmardutho.org/api/word/26084.json"
+            },
+            {
+                "id": 23020,
+                "uri": "https://sedra.bethmardutho.org/api/word/23020.json"
+            },
+            {
+                "id": 17168,
+                "uri": "https://sedra.bethmardutho.org/api/word/17168.json"
+            },
+            {
+                "id": 17167,
+                "uri": "https://sedra.bethmardutho.org/api/word/17167.json"
+            },
+            {
+                "id": 17165,
+                "uri": "https://sedra.bethmardutho.org/api/word/17165.json"
+            },
+            {
+                "id": 26085,
+                "uri": "https://sedra.bethmardutho.org/api/word/26085.json"
+            },
+            {
+                "id": 17171,
+                "uri": "https://sedra.bethmardutho.org/api/word/17171.json"
+            },
+            {
+                "id": 17170,
+                "uri": "https://sedra.bethmardutho.org/api/word/17170.json"
+            },
+            {
+                "id": 17169,
+                "uri": "https://sedra.bethmardutho.org/api/word/17169.json"
+            },
+            {
+                "id": 17166,
+                "uri": "https://sedra.bethmardutho.org/api/word/17166.json"
+            },
+            {
+                "id": 17173,
+                "uri": "https://sedra.bethmardutho.org/api/word/17173.json"
+            },
+            {
+                "id": 17172,
+                "uri": "https://sedra.bethmardutho.org/api/word/17172.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

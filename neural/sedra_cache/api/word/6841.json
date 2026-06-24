@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0722\u071a\u0718\u0722",
+        "western": "\u0715\u0741\u0722\u073a\u071a\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1018,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1018.json"
+        },
+        "stem": "\u071a\u071d\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "live",
+                "to save",
+                "Ia to live, be alive, revive",
+                "IIIp.",
+                "IIIa to give life, keep alive, save alive, bring to life",
+                "to save.",
+                "to be saved",
+                "save",
+                "make live",
+                "to restore to life, to revive"
+            ]
+        },
+        "word": {
+            "id": 6841,
+            "uri": "https://sedra.bethmardutho.org/api/word/6841.json"
+        }
+    }
+]

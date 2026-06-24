@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 15201,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15201.json"
+        },
+        "syriac": "\u0725\u071d\u0722",
+        "glosses": {
+            "English": [
+                "Kth. to be appointed.",
+                "IIa to eye, to look at",
+                "IIp to be pointed out",
+                "to point to",
+                "to be respected",
+                "Kth. to appoint"
+            ],
+            "Arabic": [
+                "\u0646\u0638\u0631",
+                "\u0631\u0623\u0649",
+                "\u00a0"
+            ],
+            "French": [
+                "regarder",
+                "voir",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2390,
+            "uri": "https://sedra.bethmardutho.org/api/root/2390.json"
+        },
+        "words": [
+            {
+                "id": 40560,
+                "uri": "https://sedra.bethmardutho.org/api/word/40560.json"
+            },
+            {
+                "id": 40443,
+                "uri": "https://sedra.bethmardutho.org/api/word/40443.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072c\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072b\u072c\u0741\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3336,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3336.json"
+        },
+        "stem": "\u0721\u072b\u072c\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0631\u0633",
+                "\u0648\u0644\u064a\u0645\u0629"
+            ],
+            "eng": [
+                "wedding feast",
+                "feast, banquet, wedding.",
+                "symposium",
+                "festivity"
+            ],
+            "fre": [
+                "banquet",
+                "noces"
+            ]
+        },
+        "word": {
+            "id": 22204,
+            "uri": "https://sedra.bethmardutho.org/api/word/22204.json"
+        }
+    }
+]

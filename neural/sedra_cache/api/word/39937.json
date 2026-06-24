@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u072a\u0715\u0723",
+        "western": "\u0715\u0730\u072a\u0715\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14641,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14641.json"
+        },
+        "stem": "\u0715\u072a\u0715\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0637\u062e \u0628\u0642\u0630\u0631"
+            ],
+            "eng": [
+                "IVa to foul, to soil."
+            ],
+            "fre": [
+                "souiller d&#39;ordure"
+            ]
+        },
+        "word": {
+            "id": 39937,
+            "uri": "https://sedra.bethmardutho.org/api/word/39937.json"
+        }
+    }
+]

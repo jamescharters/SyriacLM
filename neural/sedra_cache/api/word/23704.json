@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0713\u0715\u072b",
+        "western": "\u0713\u0741\u0733\u0715\u0742\u0736\u072b",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 523,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/523.json"
+        },
+        "stem": "\u0713\u0715\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0631\u0623 \u0644\u0640",
+                "\u062d\u062f\u062b"
+            ],
+            "eng": [
+                "occur",
+                "Ia to happen, occur.",
+                "happen"
+            ],
+            "fre": [
+                "survenir \u00e0 (quelqu&#39;un)",
+                "arriver"
+            ]
+        },
+        "word": {
+            "id": 23704,
+            "uri": "https://sedra.bethmardutho.org/api/word/23704.json"
+        }
+    }
+]

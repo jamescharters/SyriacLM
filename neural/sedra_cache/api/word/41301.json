@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0729\u0720\u0729\u0720",
+        "western": "\u0729\u0730\u0720\u0729\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14837,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14837.json"
+        },
+        "stem": "\u0729\u0720\u0729\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to bring shame on",
+                "IVp to be prompt",
+                "IVa to distort",
+                "to be disburdened.",
+                "to throw into disorder"
+            ]
+        },
+        "word": {
+            "id": 41301,
+            "uri": "https://sedra.bethmardutho.org/api/word/41301.json"
+        }
+    }
+]

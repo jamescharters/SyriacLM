@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u071a\u072b\u0720",
+        "western": "\u071a\u072b\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1180,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1180.json"
+        },
+        "stem": "\u071a\u072b\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062b",
+                "\u0648\u0647\u0645",
+                "\u0635\u0646\u0639, \u0635\u0627\u063a",
+                "\u062f\u0633",
+                "\u00a0"
+            ],
+            "eng": [
+                "to devise, contrive",
+                "forge",
+                "Ia to cast (metal), forge",
+                "Gram. to form",
+                "excite",
+                "IIa to make out of metal.",
+                "Ip"
+            ],
+            "fre": [
+                "exciter",
+                "fabriquer , former",
+                "concevoir (s.fig)",
+                "machiner",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 7794,
+            "uri": "https://sedra.bethmardutho.org/api/word/7794.json"
+        }
+    }
+]

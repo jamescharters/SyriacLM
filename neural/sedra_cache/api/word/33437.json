@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u072a\u071f\u0722\u0718\u072c\u0710",
+        "western": "\u071b\u0730\u072a\u071f\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7823,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7823.json"
+        },
+        "stem": "\u071b\u072a\u071f\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0645\u064a\u0645\u0629, \u0645\u0643\u0631"
+            ],
+            "eng": [
+                "cunning, unfairness."
+            ],
+            "fre": [
+                "calomnie, perfidie"
+            ]
+        },
+        "word": {
+            "id": 33437,
+            "uri": "https://sedra.bethmardutho.org/api/word/33437.json"
+        }
+    }
+]

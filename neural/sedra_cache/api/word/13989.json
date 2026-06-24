@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0723\u071a\u0726",
+        "western": "\u0723\u0730\u071a\u0736\u0726\u0742",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2107,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2107.json"
+        },
+        "stem": "\u0723\u071a\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0631\u0639, \u0647\u062f\u0645",
+                "\u0637\u0631\u062f",
+                "\u00a0"
+            ],
+            "eng": [
+                "overthrow",
+                "Ia to overthrow, overturn, demolish",
+                "Ip, IIp",
+                "to thrust away.",
+                "to degrade",
+                "cast down",
+                "IIa to destroy, to ruin"
+            ],
+            "fre": [
+                "renverser, abbattre",
+                "expulser",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 13989,
+            "uri": "https://sedra.bethmardutho.org/api/word/13989.json"
+        }
+    }
+]

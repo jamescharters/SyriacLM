@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28955,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28955.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u0710",
+        "glosses": {
+            "Greek": [
+                "\u03b1\u1f36\u03bc\u03b1"
+            ],
+            "English": [
+                "blood"
+            ],
+            "Latin": [
+                "sanguis"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f36\u03bc\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 49483,
+                "uri": "https://sedra.bethmardutho.org/api/word/49483.json"
+            },
+            {
+                "id": 55329,
+                "uri": "https://sedra.bethmardutho.org/api/word/55329.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

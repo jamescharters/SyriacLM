@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0722\u072b\u0712\u0710",
+        "western": "\u0722\u0736\u072b\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5512,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5512.json"
+        },
+        "stem": "\u0722\u072b\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0628\u0648\u0628",
+                "\u0641\u062e, \u0634\u0628\u0643\u0629"
+            ],
+            "eng": [
+                "snare, noose, net."
+            ],
+            "fre": [
+                "souffle",
+                "filet"
+            ]
+        },
+        "word": {
+            "id": 33789,
+            "uri": "https://sedra.bethmardutho.org/api/word/33789.json"
+        }
+    }
+]

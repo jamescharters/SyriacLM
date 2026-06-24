@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071d\u071a\u0720",
+        "western": "\u071d\u071a\u0720",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14686,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14686.json"
+        },
+        "stem": "\u071d\u071a\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u071a\u0736\u0720</span> to enfeeble, to make weak, to debilitate",
+                "to despair (of).",
+                "to become enfeebled.",
+                "to be unable",
+                "to become enfeebled"
+            ]
+        },
+        "word": {
+            "id": 39804,
+            "uri": "https://sedra.bethmardutho.org/api/word/39804.json"
+        }
+    }
+]

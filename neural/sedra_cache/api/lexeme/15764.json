@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 15764,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15764.json"
+        },
+        "syriac": "\u0723\u072a\u071a",
+        "glosses": {
+            "English": [
+                "hurt",
+                "IIIa to inflict damage, to deform.",
+                "IIp",
+                "to act corruptly",
+                "to corrupt",
+                "harm",
+                "IIa to mutilate, to maim",
+                "to tear apart, to mangle",
+                "to defile, to violate",
+                "to destroy",
+                "Ip to be damaged",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u072a\u073d\u0718\u071a</span>, Ia to harm, injure, damage"
+            ],
+            "Arabic": [
+                "\u0645\u0632\u0642",
+                "\u0623\u0641\u0633\u062f, \u062e\u0631\u0628",
+                "\u0642\u0630\u0631 (\u0645\u0636)",
+                "\u0623\u0633\u0627\u0621 \u0627\u0644\u0635\u0646\u0639, \u0623\u062e\u0637\u0623"
+            ],
+            "French": [
+                "d\u00e9chirer",
+                "corrompre, d\u00e9truire",
+                "souiller",
+                "mal agir, p\u00e9cher"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2170,
+            "uri": "https://sedra.bethmardutho.org/api/root/2170.json"
+        },
+        "words": [
+            {
+                "id": 14589,
+                "uri": "https://sedra.bethmardutho.org/api/word/14589.json"
+            },
+            {
+                "id": 41698,
+                "uri": "https://sedra.bethmardutho.org/api/word/41698.json"
+            },
+            {
+                "id": 40653,
+                "uri": "https://sedra.bethmardutho.org/api/word/40653.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

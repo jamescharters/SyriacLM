@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0715\u0725",
+        "western": "\u0710\u0730\u0718\u0715\u0730\u0725",
+        "eastern": "\u0710\u0718\u0715\u0725",
+        "lexeme": {
+            "id": 16568,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16568.json"
+        },
+        "stem": "\u0710\u0718\u0715\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0631\u0641 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to make know"
+            ],
+            "fre": [
+                "faire conna\u00eetre"
+            ]
+        },
+        "word": {
+            "id": 42942,
+            "uri": "https://sedra.bethmardutho.org/api/word/42942.json"
+        }
+    }
+]

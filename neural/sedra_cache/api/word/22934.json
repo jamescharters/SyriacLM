@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0725\u072c",
+        "western": "\u0710\u0736\u072a\u0725\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 301,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/301.json"
+        },
+        "stem": "\u0710\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to happen, befall",
+                "Ia to meet, encounter",
+                "meet",
+                "encounter",
+                "IIIa to intercept."
+            ]
+        },
+        "word": {
+            "id": 22934,
+            "uri": "https://sedra.bethmardutho.org/api/word/22934.json"
+        }
+    }
+]

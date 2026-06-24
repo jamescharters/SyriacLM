@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0721\u0722\u0710",
+        "western": "\u0710\u073d\u0718\u0721\u0733\u0722\u0733\u0710",
+        "eastern": "\u0710\u0718\u073c\u0721\u0735\u0722\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 47,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/47.json"
+        },
+        "stem": "\u0710\u0718\u0721\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "craftsman.",
+                "builder",
+                "artificer",
+                "craftsman"
+            ]
+        },
+        "word": {
+            "id": 274,
+            "uri": "https://sedra.bethmardutho.org/api/word/274.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 433,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/433.json"
+        },
+        "syriac": "\u0712\u0725\u072a\u071d\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "fierce",
+                "wild"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 296,
+            "uri": "https://sedra.bethmardutho.org/api/root/296.json"
+        },
+        "words": [
+            {
+                "id": 22771,
+                "uri": "https://sedra.bethmardutho.org/api/word/22771.json"
+            },
+            {
+                "id": 3031,
+                "uri": "https://sedra.bethmardutho.org/api/word/3031.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

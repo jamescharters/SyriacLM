@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u0719\u0720\u0717\u0719\u0718\u072c\u0710",
+        "western": "\u0721\u0719\u0730\u0720\u0717\u0719\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5642,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5642.json"
+        },
+        "stem": "\u0721\u0719\u0720\u0717\u0719\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0635\u0631",
+                "\u062d\u0627\u062c\u0629, \u0639\u0648\u0632"
+            ],
+            "eng": [
+                "shortness (of time).",
+                "scarcity"
+            ],
+            "fre": [
+                "bri\u00e8vet\u00e9",
+                "manque, indigence"
+            ]
+        },
+        "word": {
+            "id": 34881,
+            "uri": "https://sedra.bethmardutho.org/api/word/34881.json"
+        }
+    }
+]

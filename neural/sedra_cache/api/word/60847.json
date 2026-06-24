@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0713\u0715\u0726",
+        "western": "\u0713\u0715\u0730\u0726",
+        "lexeme": {
+            "id": 34492,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/34492.json"
+        },
+        "stem": "\u0713\u0715\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "akk": [
+                "to fly"
+            ]
+        },
+        "word": {
+            "id": 60847,
+            "uri": "https://sedra.bethmardutho.org/api/word/60847.json"
+        }
+    }
+]

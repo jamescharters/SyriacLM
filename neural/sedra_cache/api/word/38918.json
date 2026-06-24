@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071b\u072a\u0718\u0722\u0718\u072c\u0710",
+        "western": "\u071b\u072a\u073d\u0718\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6264,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6264.json"
+        },
+        "stem": "\u071b\u072a\u0718\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u063a\u0649",
+                "\u062c\u0641\u0627\u0621"
+            ],
+            "eng": [
+                "tyranny, tyrannical rule",
+                "rebellion."
+            ],
+            "fre": [
+                "tyrannie",
+                "cruaut\u00e9"
+            ]
+        },
+        "word": {
+            "id": 38918,
+            "uri": "https://sedra.bethmardutho.org/api/word/38918.json"
+        }
+    }
+]

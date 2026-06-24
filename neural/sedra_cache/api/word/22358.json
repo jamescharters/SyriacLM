@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0720\u072c\u0715\u071d\u0710",
+        "western": "\u0718\u0720\u0730\u072c\u0741\u0715\u0742\u0730\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3359,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3359.json"
+        },
+        "stem": "\u072c\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u062f\u064a"
+            ],
+            "eng": [
+                "pap.",
+                "breast",
+                "breast"
+            ],
+            "fre": [
+                "mamelle"
+            ]
+        },
+        "word": {
+            "id": 22358,
+            "uri": "https://sedra.bethmardutho.org/api/word/22358.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 18904,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18904.json"
+        },
+        "syriac": "\u0710\u0713\u0710\u0726\u071d",
+        "glosses": {
+            "Latin": [
+                "amor"
+            ],
+            "Greek": [
+                "\u1f00\u03b3\u03ac\u03c0\u03b7"
+            ],
+            "English": [
+                "love"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03b3\u03ac\u03c0\u03b7"
+            ]
+        },
+        "words": [
+            {
+                "id": 46657,
+                "uri": "https://sedra.bethmardutho.org/api/word/46657.json"
+            },
+            {
+                "id": 45278,
+                "uri": "https://sedra.bethmardutho.org/api/word/45278.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

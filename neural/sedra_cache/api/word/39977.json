@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0710\u072c\u071f",
+        "western": "\u0710\u0730\u072c\u0736\u071f",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15530,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15530.json"
+        },
+        "stem": "\u072c\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0630\u0649 (\u0645\u0636)",
+                "\u062a\u0623\u0630\u0649"
+            ],
+            "eng": [
+                "to put a stop to.",
+                "to suffer harm.",
+                "Ip to be humiliated",
+                "Ia to harm, injure",
+                "IIIa to bring to harm",
+                "to harm etc."
+            ],
+            "fre": [
+                "causer un dommage",
+                "subir un dommage"
+            ]
+        },
+        "word": {
+            "id": 39977,
+            "uri": "https://sedra.bethmardutho.org/api/word/39977.json"
+        }
+    }
+]

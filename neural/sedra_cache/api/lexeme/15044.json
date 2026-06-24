@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15044,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15044.json"
+        },
+        "syriac": "\u0726\u071d\u0725",
+        "glosses": {
+            "English": [
+                "IIa to wash out (the mouth)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3134,
+            "uri": "https://sedra.bethmardutho.org/api/root/3134.json"
+        },
+        "words": [
+            {
+                "id": 41211,
+                "uri": "https://sedra.bethmardutho.org/api/word/41211.json"
+            },
+            {
+                "id": 41109,
+                "uri": "https://sedra.bethmardutho.org/api/word/41109.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

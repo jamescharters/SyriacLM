@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 501,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/501.json"
+        },
+        "syriac": "\u0713\u0712\u071d\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0645\u0629 \u062c\u0628\u0644"
+            ],
+            "French": [
+                "sommet ( de montagne)"
+            ],
+            "English": [
+                "brow",
+                "top"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 335,
+            "uri": "https://sedra.bethmardutho.org/api/root/335.json"
+        },
+        "words": [
+            {
+                "id": 3450,
+                "uri": "https://sedra.bethmardutho.org/api/word/3450.json"
+            },
+            {
+                "id": 3451,
+                "uri": "https://sedra.bethmardutho.org/api/word/3451.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

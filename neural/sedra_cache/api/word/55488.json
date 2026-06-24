@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0726\u0723\u071b\u071d\u0710",
+        "western": "\u0710\u073a\u071d\u0726\u0730\u0723\u071b\u0733\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 29114,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29114.json"
+        },
+        "stem": "\u0710\u071d\u0726\u0723\u071b\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "of Hephaestus"
+            ],
+            "grc": [
+                "\u1f29\u03c6\u03b1\u03af\u03c3\u03c4\u03b5\u03b9\u03bf\u03c2"
+            ],
+            "lat": [
+                "Vulcanius"
+            ]
+        },
+        "word": {
+            "id": 55488,
+            "uri": "https://sedra.bethmardutho.org/api/word/55488.json"
+        }
+    }
+]

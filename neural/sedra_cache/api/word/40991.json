@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0712\u0722\u0715\u0729",
+        "western": "\u0712\u0730\u0722\u0715\u0736\u0729",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14762,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14762.json"
+        },
+        "stem": "\u0712\u0722\u0715\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to roll up, make into a ball."
+            ]
+        },
+        "word": {
+            "id": 40991,
+            "uri": "https://sedra.bethmardutho.org/api/word/40991.json"
+        }
+    }
+]

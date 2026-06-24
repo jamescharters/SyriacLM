@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0720\u071d\u071b\u072a\u071d\u0722",
+        "western": "\u0720\u073a\u071d\u071b\u072a\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1668,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1668.json"
+        },
+        "stem": "\u0720\u071d\u071b\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0628\u0631\u0629"
+            ],
+            "eng": [
+                "pound (Roman)"
+            ],
+            "fre": [
+                "livre"
+            ]
+        },
+        "word": {
+            "id": 11042,
+            "uri": "https://sedra.bethmardutho.org/api/word/11042.json"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1272,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1272.json"
+        },
+        "syriac": "\u071b\u072a\u0718\u0710\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Troas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 750,
+            "uri": "https://sedra.bethmardutho.org/api/root/750.json"
+        },
+        "words": [
+            {
+                "id": 8337,
+                "uri": "https://sedra.bethmardutho.org/api/word/8337.json"
+            },
+            {
+                "id": 8335,
+                "uri": "https://sedra.bethmardutho.org/api/word/8335.json"
+            },
+            {
+                "id": 8334,
+                "uri": "https://sedra.bethmardutho.org/api/word/8334.json"
+            },
+            {
+                "id": 8338,
+                "uri": "https://sedra.bethmardutho.org/api/word/8338.json"
+            },
+            {
+                "id": 8336,
+                "uri": "https://sedra.bethmardutho.org/api/word/8336.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "lexeme": {
+            "id": 2724,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2724.json"
+        },
+        "syriac": "\u0720\u0718\u0729\u0712\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0628\u0644\u0627\u064b, \u0636\u062f, \u0639\u0644\u0649, \u0623\u0645\u0627\u0645, \u0628\u0642\u0631\u0628, \u0646\u062d\u0648",
+                "\u00a0",
+                "\u00a0"
+            ],
+            "French": [
+                "en face, contre, devant, aupr\u00e8s de, vers",
+                "\u00a0",
+                "en face de\u2026"
+            ],
+            "English": [
+                "resist",
+                "against",
+                "near",
+                "toward",
+                "opposite to",
+                "opposite, against",
+                "in front of, facing, towards",
+                "according to, in comparison."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1615,
+            "uri": "https://sedra.bethmardutho.org/api/root/1615.json"
+        },
+        "words": [
+            {
+                "id": 17652,
+                "uri": "https://sedra.bethmardutho.org/api/word/17652.json"
+            },
+            {
+                "id": 17650,
+                "uri": "https://sedra.bethmardutho.org/api/word/17650.json"
+            },
+            {
+                "id": 17653,
+                "uri": "https://sedra.bethmardutho.org/api/word/17653.json"
+            },
+            {
+                "id": 17651,
+                "uri": "https://sedra.bethmardutho.org/api/word/17651.json"
+            },
+            {
+                "id": 17659,
+                "uri": "https://sedra.bethmardutho.org/api/word/17659.json"
+            },
+            {
+                "id": 17658,
+                "uri": "https://sedra.bethmardutho.org/api/word/17658.json"
+            },
+            {
+                "id": 17657,
+                "uri": "https://sedra.bethmardutho.org/api/word/17657.json"
+            },
+            {
+                "id": 17656,
+                "uri": "https://sedra.bethmardutho.org/api/word/17656.json"
+            },
+            {
+                "id": 17655,
+                "uri": "https://sedra.bethmardutho.org/api/word/17655.json"
+            },
+            {
+                "id": 17654,
+                "uri": "https://sedra.bethmardutho.org/api/word/17654.json"
+            }
+        ],
+        "category": "preposition",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 28821,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28821.json"
+        },
+        "syriac": "\u0710\u071d\u0718\u0722\u0713\u0720\u071d\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u03b5\u1f50\u03b1\u03b3\u03b3\u03ad\u03bb\u03b9\u03bf\u03bd"
+            ],
+            "Latin": [
+                "evangelium"
+            ],
+            "English": [
+                "the gospel"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f50\u03b1\u03b3\u03b3\u03ad\u03bb\u03b9\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 55195,
+                "uri": "https://sedra.bethmardutho.org/api/word/55195.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

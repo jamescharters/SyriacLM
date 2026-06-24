@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 28773,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28773.json"
+        },
+        "syriac": "\u0710\u071d\u0715\u071d\u0718\u0721\u071b\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f30\u03b4\u03b9\u03ce\u03bc\u03b1\u03c4\u03b1"
+            ],
+            "Latin": [
+                "proprietates"
+            ],
+            "English": [
+                "peculiarities, specific properties, unique features"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f30\u03b4\u03af\u03c9\u03bc\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 55147,
+                "uri": "https://sedra.bethmardutho.org/api/word/55147.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

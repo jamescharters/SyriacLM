@@ -1,0 +1,88 @@
+[
+    {
+        "lexeme": {
+            "id": 1503,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1503.json"
+        },
+        "syriac": "\u071f\u072b\u0726",
+        "glosses": {
+            "English": [
+                "pray",
+                "supplication",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u071f\u0730\u072b\u0730\u0726</span> to supplicate, entreat."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 888,
+            "uri": "https://sedra.bethmardutho.org/api/root/888.json"
+        },
+        "words": [
+            {
+                "id": 25711,
+                "uri": "https://sedra.bethmardutho.org/api/word/25711.json"
+            },
+            {
+                "id": 25710,
+                "uri": "https://sedra.bethmardutho.org/api/word/25710.json"
+            },
+            {
+                "id": 25715,
+                "uri": "https://sedra.bethmardutho.org/api/word/25715.json"
+            },
+            {
+                "id": 25714,
+                "uri": "https://sedra.bethmardutho.org/api/word/25714.json"
+            },
+            {
+                "id": 9883,
+                "uri": "https://sedra.bethmardutho.org/api/word/9883.json"
+            },
+            {
+                "id": 9882,
+                "uri": "https://sedra.bethmardutho.org/api/word/9882.json"
+            },
+            {
+                "id": 9880,
+                "uri": "https://sedra.bethmardutho.org/api/word/9880.json"
+            },
+            {
+                "id": 9879,
+                "uri": "https://sedra.bethmardutho.org/api/word/9879.json"
+            },
+            {
+                "id": 25717,
+                "uri": "https://sedra.bethmardutho.org/api/word/25717.json"
+            },
+            {
+                "id": 25716,
+                "uri": "https://sedra.bethmardutho.org/api/word/25716.json"
+            },
+            {
+                "id": 9886,
+                "uri": "https://sedra.bethmardutho.org/api/word/9886.json"
+            },
+            {
+                "id": 9885,
+                "uri": "https://sedra.bethmardutho.org/api/word/9885.json"
+            },
+            {
+                "id": 9884,
+                "uri": "https://sedra.bethmardutho.org/api/word/9884.json"
+            },
+            {
+                "id": 25713,
+                "uri": "https://sedra.bethmardutho.org/api/word/25713.json"
+            },
+            {
+                "id": 25712,
+                "uri": "https://sedra.bethmardutho.org/api/word/25712.json"
+            },
+            {
+                "id": 9881,
+                "uri": "https://sedra.bethmardutho.org/api/word/9881.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

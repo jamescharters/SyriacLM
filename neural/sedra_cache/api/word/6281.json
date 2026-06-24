@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u0715\u0718\u072a\u0710",
+        "western": "\u071a\u0733\u0715\u0742\u073d\u0718\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 960,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/960.json"
+        },
+        "stem": "\u071a\u0715\u0718\u072a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u062d\u0627\u0630"
+            ],
+            "eng": [
+                "mendicant",
+                "vagrant",
+                "mendicant, vagrant, beggar."
+            ],
+            "fre": [
+                "mendiant"
+            ]
+        },
+        "word": {
+            "id": 6281,
+            "uri": "https://sedra.bethmardutho.org/api/word/6281.json"
+        }
+    }
+]

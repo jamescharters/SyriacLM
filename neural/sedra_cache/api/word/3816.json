@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0713\u0721\u0718\u072a\u0710",
+        "western": "\u0713\u0741\u0733\u0721\u073d\u0718\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 587,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/587.json"
+        },
+        "stem": "\u0713\u0721\u0718\u072a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0643\u0645\u0644"
+            ],
+            "eng": [
+                "finisher",
+                "accomplishing, perfecting, efficient.",
+                "perfecter"
+            ],
+            "fre": [
+                "qui ach\u00e8ve"
+            ]
+        },
+        "word": {
+            "id": 3816,
+            "uri": "https://sedra.bethmardutho.org/api/word/3816.json"
+        }
+    }
+]

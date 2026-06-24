@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 20842,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20842.json"
+        },
+        "syriac": "\u0710\u0715\u0718\u0722\u0710\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u0391\u1f30\u03bd\u03b5\u1f77\u03b1\u03c2"
+            ],
+            "English": [
+                "Aeneas"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u0391\u1f30\u03bd\u03b5\u03af\u03b1\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 47216,
+                "uri": "https://sedra.bethmardutho.org/api/word/47216.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

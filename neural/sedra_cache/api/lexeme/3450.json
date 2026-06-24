@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 3450,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3450.json"
+        },
+        "syriac": "\u072c\u0718\u072a\u0728\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0642\u0648\u064a\u0645",
+                "\u062a\u0646\u0628\u064a\u0647",
+                "\u0631\u062f\u0639"
+            ],
+            "French": [
+                "redressement",
+                "avertissement",
+                "r\u00e9pression"
+            ],
+            "English": [
+                "correction, revision",
+                "correction",
+                "straightening",
+                "<span class=\"selectableFont\">\u072c\u073d\u0718\u072a\u0733\u0728 \u0721\u0730\u0721\u0720\u0331</span><span class=\"selectableFont\">\u0720\u0733\u0710</span> grammar."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2001,
+            "uri": "https://sedra.bethmardutho.org/api/root/2001.json"
+        },
+        "words": [
+            {
+                "id": 22728,
+                "uri": "https://sedra.bethmardutho.org/api/word/22728.json"
+            },
+            {
+                "id": 22726,
+                "uri": "https://sedra.bethmardutho.org/api/word/22726.json"
+            },
+            {
+                "id": 22727,
+                "uri": "https://sedra.bethmardutho.org/api/word/22727.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

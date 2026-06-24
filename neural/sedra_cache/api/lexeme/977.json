@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 977,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/977.json"
+        },
+        "syriac": "\u071a\u071d\u0712\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0646\u0643\u0633\u0627\u0631",
+                "\u062d\u0643\u0645 \u0639\u0644\u0649",
+                "\u062d\u0627\u0644\u0629 \u0645\u0630\u0646\u0628\u064a\u0629",
+                "\u062e\u0637\u064a\u0626\u0629"
+            ],
+            "French": [
+                "d\u00e9faite",
+                "condamnation",
+                "culpabilit\u00e9",
+                "faute"
+            ],
+            "English": [
+                "condemnation",
+                "judgement",
+                "defeat.",
+                "guilt, condemnation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 602,
+            "uri": "https://sedra.bethmardutho.org/api/root/602.json"
+        },
+        "words": [
+            {
+                "id": 6448,
+                "uri": "https://sedra.bethmardutho.org/api/word/6448.json"
+            },
+            {
+                "id": 3183,
+                "uri": "https://sedra.bethmardutho.org/api/word/3183.json"
+            },
+            {
+                "id": 6447,
+                "uri": "https://sedra.bethmardutho.org/api/word/6447.json"
+            },
+            {
+                "id": 6446,
+                "uri": "https://sedra.bethmardutho.org/api/word/6446.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

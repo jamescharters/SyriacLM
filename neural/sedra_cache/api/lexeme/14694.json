@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14694,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14694.json"
+        },
+        "syriac": "\u0729\u0723\u0721\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u062e\u0631\u0641",
+                "\u00a0"
+            ],
+            "French": [
+                "orner",
+                "\u00a0"
+            ],
+            "English": [
+                "IVp.",
+                "IVa to adorn"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2726,
+            "uri": "https://sedra.bethmardutho.org/api/root/2726.json"
+        },
+        "words": [
+            {
+                "id": 41342,
+                "uri": "https://sedra.bethmardutho.org/api/word/41342.json"
+            },
+            {
+                "id": 40493,
+                "uri": "https://sedra.bethmardutho.org/api/word/40493.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

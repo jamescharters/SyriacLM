@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u0720\u0710\u071f\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u0720\u0730\u0710\u071f\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9980,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9980.json"
+        },
+        "stem": "\u0721\u0720\u0710\u071f\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0631\u0633\u0627\u0644\u0629",
+                "\u0637\u0628\u064a\u0639\u0629 \u0645\u0644\u0627\u0626\u0643\u064a\u0629"
+            ],
+            "eng": [
+                "embassy, mission",
+                "angelic property."
+            ],
+            "fre": [
+                "mission",
+                "\u00a0",
+                "nature ang\u00e9lique"
+            ]
+        },
+        "word": {
+            "id": 34961,
+            "uri": "https://sedra.bethmardutho.org/api/word/34961.json"
+        }
+    }
+]

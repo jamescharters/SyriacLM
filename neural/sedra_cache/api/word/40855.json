@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0718\u0729",
+        "western": "\u0723\u072a\u0718\u0729",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15181,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15181.json"
+        },
+        "stem": "\u0723\u072a\u0718\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u0723\u072c\u0730\u072a\u0718\u0730\u0729</span> to be overclouded."
+            ]
+        },
+        "word": {
+            "id": 40855,
+            "uri": "https://sedra.bethmardutho.org/api/word/40855.json"
+        }
+    }
+]

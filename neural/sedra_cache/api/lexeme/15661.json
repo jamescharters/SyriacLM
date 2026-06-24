@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 15661,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15661.json"
+        },
+        "syriac": "\u0722\u0715",
+        "glosses": {
+            "English": [
+                "Ip to be loathed",
+                "IIp to become an abomination",
+                "to be abominable",
+                "to chase away.",
+                "IIa to abhor, execrate",
+                "Ia to loathe",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0722\u0736\u0715</span> to be disgusted"
+            ],
+            "Arabic": [
+                "\u0637\u0631\u062f, \u0623\u0628\u0639\u062f",
+                "\u0646\u0628\u0647 (\u0645\u0636), \u062d\u062b"
+            ],
+            "French": [
+                "chasser, \u00e9loigner",
+                "r\u00e9veiller, exciter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3071,
+            "uri": "https://sedra.bethmardutho.org/api/root/3071.json"
+        },
+        "words": [
+            {
+                "id": 41768,
+                "uri": "https://sedra.bethmardutho.org/api/word/41768.json"
+            },
+            {
+                "id": 41045,
+                "uri": "https://sedra.bethmardutho.org/api/word/41045.json"
+            },
+            {
+                "id": 40629,
+                "uri": "https://sedra.bethmardutho.org/api/word/40629.json"
+            },
+            {
+                "id": 40530,
+                "uri": "https://sedra.bethmardutho.org/api/word/40530.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

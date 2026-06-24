@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0729\u072a\u0721\u0710",
+        "western": "\u0721\u0730\u0729\u072a\u0721\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10930,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10930.json"
+        },
+        "stem": "\u0721\u0729\u072a\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0634\u0627\u0621 (\u0627\u0644\u0642\u0644\u0628)"
+            ],
+            "eng": [
+                "membrane."
+            ],
+            "fre": [
+                "enveloppe )du c\u0153ur)"
+            ]
+        },
+        "word": {
+            "id": 36109,
+            "uri": "https://sedra.bethmardutho.org/api/word/36109.json"
+        }
+    }
+]

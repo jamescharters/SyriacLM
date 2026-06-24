@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15299.json"
+        },
+        "syriac": "\u072a\u0713\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0641\u0641"
+            ],
+            "French": [
+                "dess\u00e9cher"
+            ],
+            "English": [
+                "IIa to dry up."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2636,
+            "uri": "https://sedra.bethmardutho.org/api/root/2636.json"
+        },
+        "words": [
+            {
+                "id": 39871,
+                "uri": "https://sedra.bethmardutho.org/api/word/39871.json"
+            },
+            {
+                "id": 39828,
+                "uri": "https://sedra.bethmardutho.org/api/word/39828.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3485,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3485.json"
+        },
+        "syriac": "\u0715\u0721\u071f\u0710",
+        "glosses": {
+            "English": [
+                "asleep."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 458,
+            "uri": "https://sedra.bethmardutho.org/api/root/458.json"
+        },
+        "words": [
+            {
+                "id": 4715,
+                "uri": "https://sedra.bethmardutho.org/api/word/4715.json"
+            },
+            {
+                "id": 4732,
+                "uri": "https://sedra.bethmardutho.org/api/word/4732.json"
+            },
+            {
+                "id": 4720,
+                "uri": "https://sedra.bethmardutho.org/api/word/4720.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

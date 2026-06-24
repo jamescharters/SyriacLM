@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 2023,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2023.json"
+        },
+        "syriac": "\u0722\u0729\u0712\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0645\u0631\u0623\u0629",
+                "\u0623\u0646\u062b\u0649",
+                "\u0645\u0624\u0646\u062b"
+            ],
+            "French": [
+                "femme",
+                "femelle",
+                "f\u00e9minin"
+            ],
+            "English": [
+                "female",
+                "female, feminine."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1205,
+            "uri": "https://sedra.bethmardutho.org/api/root/1205.json"
+        },
+        "words": [
+            {
+                "id": 13343,
+                "uri": "https://sedra.bethmardutho.org/api/word/13343.json"
+            },
+            {
+                "id": 13342,
+                "uri": "https://sedra.bethmardutho.org/api/word/13342.json"
+            },
+            {
+                "id": 13346,
+                "uri": "https://sedra.bethmardutho.org/api/word/13346.json"
+            },
+            {
+                "id": 13344,
+                "uri": "https://sedra.bethmardutho.org/api/word/13344.json"
+            },
+            {
+                "id": 13345,
+                "uri": "https://sedra.bethmardutho.org/api/word/13345.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

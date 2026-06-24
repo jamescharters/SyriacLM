@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0721\u0725\u0723\u072a\u0710",
+        "western": "\u0721\u0730\u0725\u0723\u0733\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2375,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2375.json"
+        },
+        "stem": "\u0721\u0725\u0723\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "tenth",
+                "tithe",
+                "tithe, tenth part."
+            ]
+        },
+        "word": {
+            "id": 22834,
+            "uri": "https://sedra.bethmardutho.org/api/word/22834.json"
+        }
+    }
+]

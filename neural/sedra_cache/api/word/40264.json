@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072c\u0729\u0720",
+        "western": "\u072c\u0729\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15597,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15597.json"
+        },
+        "stem": "\u072c\u0729\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to weigh out",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072c\u0729\u073d\u0718\u0720</span>, Ia to weigh, balance",
+                "to equalize.",
+                "to be weighed down",
+                "Ip to be weighed",
+                "IIa to compare"
+            ]
+        },
+        "word": {
+            "id": 40264,
+            "uri": "https://sedra.bethmardutho.org/api/word/40264.json"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2596,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2596.json"
+        },
+        "syriac": "\u0726\u072a\u071d\u0723\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0628\u0632",
+                "\u0628\u0631\u0634\u0627\u0646"
+            ],
+            "French": [
+                "pain",
+                "hostie"
+            ],
+            "English": [
+                "a flat cake of bread, a wafer esp. that used for the holy Eucharist, the host",
+                "cake",
+                "loaf",
+                "wafer, (Eucharistic) Host."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1541,
+            "uri": "https://sedra.bethmardutho.org/api/root/1541.json"
+        },
+        "words": [
+            {
+                "id": 44571,
+                "uri": "https://sedra.bethmardutho.org/api/word/44571.json"
+            },
+            {
+                "id": 16887,
+                "uri": "https://sedra.bethmardutho.org/api/word/16887.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

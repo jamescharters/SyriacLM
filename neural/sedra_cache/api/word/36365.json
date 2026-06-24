@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u071a\u072b\u071d\u072a\u072c\u0722\u0718\u072c\u0710",
+        "western": "\u0722\u0730\u071a\u072b\u073a\u071d\u072a\u072c\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7753.json"
+        },
+        "stem": "\u0722\u071a\u072b\u071d\u072a\u072c\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u064a\u062f",
+                "\u0628\u0633\u0627\u0644\u0629",
+                "\u0623\u0647\u0644\u064a\u0629"
+            ],
+            "eng": [
+                "hunting",
+                "fortitude."
+            ],
+            "fre": [
+                "vaillance",
+                "chasse",
+                "aptitude"
+            ]
+        },
+        "word": {
+            "id": 36365,
+            "uri": "https://sedra.bethmardutho.org/api/word/36365.json"
+        }
+    }
+]

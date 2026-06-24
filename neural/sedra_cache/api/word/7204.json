@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u071a\u0721\u0725",
+        "western": "\u0721\u0730\u071a\u0721\u0730\u0725",
+        "tense": "active participle",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1070,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1070.json"
+        },
+        "stem": "\u071a\u0721\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062e\u062a\u0645\u0631"
+            ],
+            "eng": [
+                "IIIa to cause to ferment, to leaven.",
+                "leaven",
+                "make leaven",
+                "Ia to ferment, leaven"
+            ],
+            "fre": [
+                "fermenter"
+            ]
+        },
+        "word": {
+            "id": 7204,
+            "uri": "https://sedra.bethmardutho.org/api/word/7204.json"
+        }
+    }
+]

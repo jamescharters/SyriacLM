@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15750,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15750.json"
+        },
+        "syriac": "\u072b\u072c\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0635\u0628",
+                "\u0623\u0633\u0633, \u0628\u0646\u0649",
+                "\u0648\u0636\u0639",
+                "\u00a0"
+            ],
+            "French": [
+                "planter",
+                "fonder, construire",
+                "placer",
+                "\u00a0"
+            ],
+            "English": [
+                "to found",
+                "to insert",
+                "to plant",
+                "Ip.",
+                "Ia to transplant"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2112,
+            "uri": "https://sedra.bethmardutho.org/api/root/2112.json"
+        },
+        "words": [
+            {
+                "id": 42160,
+                "uri": "https://sedra.bethmardutho.org/api/word/42160.json"
+            },
+            {
+                "id": 39832,
+                "uri": "https://sedra.bethmardutho.org/api/word/39832.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

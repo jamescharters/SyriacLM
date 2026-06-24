@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072b\u0718\u071a\u072a\u0710\u071d\u072c",
+        "western": "\u0721\u072b\u0730\u0718\u071a\u072a\u0733\u0710\u073a\u071d\u072c",
+        "number": "singular",
+        "lexeme": {
+            "id": 6688,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6688.json"
+        },
+        "stem": "\u0721\u072b\u0718\u071a\u072a\u0710\u071d\u072c",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0624\u062e\u0631\u0627\u064b",
+                "\u0634\u064a\u0626\u0627\u064b \u0641\u0634\u064a\u0626\u0627\u064b"
+            ],
+            "eng": [
+                "tardily, slowly."
+            ],
+            "fre": [
+                "peu \u00e0 peu",
+                "tard"
+            ]
+        },
+        "word": {
+            "id": 34584,
+            "uri": "https://sedra.bethmardutho.org/api/word/34584.json"
+        }
+    }
+]

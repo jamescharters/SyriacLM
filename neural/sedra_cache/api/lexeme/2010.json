@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2010,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2010.json"
+        },
+        "syriac": "\u0721\u0728\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "strife",
+                "contention",
+                "law-suit",
+                "strife, quarrel, disputation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1199,
+            "uri": "https://sedra.bethmardutho.org/api/root/1199.json"
+        },
+        "words": [
+            {
+                "id": 13302,
+                "uri": "https://sedra.bethmardutho.org/api/word/13302.json"
+            },
+            {
+                "id": 13304,
+                "uri": "https://sedra.bethmardutho.org/api/word/13304.json"
+            },
+            {
+                "id": 13303,
+                "uri": "https://sedra.bethmardutho.org/api/word/13303.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

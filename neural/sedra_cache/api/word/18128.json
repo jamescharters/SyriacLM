@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0729\u071d\u0721\u0710",
+        "western": "\u0718\u0715\u0742\u0730\u0729\u071d\u0733\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2771,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2771.json"
+        },
+        "stem": "\u0729\u071d\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "monastic or clerical profession.",
+                "standing position",
+                "constitution, state",
+                "pact",
+                "stand",
+                "standing up",
+                "covenant, agreement, treaty",
+                "covenant"
+            ]
+        },
+        "word": {
+            "id": 18128,
+            "uri": "https://sedra.bethmardutho.org/api/word/18128.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072c\u071a\u0720\u0726\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072b\u072c\u0730\u071a\u0720\u0726\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11022.json"
+        },
+        "stem": "\u0721\u072b\u072c\u071a\u0720\u0726\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u063a\u064a\u064a\u0631"
+            ],
+            "eng": [
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> immutability.",
+                "changeability, mutability"
+            ],
+            "fre": [
+                "changement"
+            ]
+        },
+        "word": {
+            "id": 34490,
+            "uri": "https://sedra.bethmardutho.org/api/word/34490.json"
+        }
+    }
+]

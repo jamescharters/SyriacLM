@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0722\u0710",
+        "western": "\u0710\u0730\u071d\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10971,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10971.json"
+        },
+        "stem": "\u0710\u071d\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646\u061f \u0623\u064a\u061f"
+            ],
+            "eng": [
+                "who",
+                "<span class=\"selectableFont\">\u0710\u0730\u071d\u0715\u0733\u0710</span>, pl. <span class=\"selectableFont\">\u0710\u0730\u071d\u0720\u0736\u071d\u0722</span> who?, which? what?",
+                "+ -<span class=\"selectableFont\">\u0715</span> he who.",
+                "<span class=\"selectableFont\">\u0710\u0730\u071d\u0715\u0733\u0710</span>, pl. <span class=\"selectableFont\">\u0710\u0730\u071d\u0720\u0736\u071d\u0722</span> who?, which? what?",
+                "+ -<span class=\"selectableFont\">\u0715</span> he who.",
+                "which",
+                "what"
+            ],
+            "fre": [
+                "qui? quel? lequel?"
+            ]
+        },
+        "word": {
+            "id": 31731,
+            "uri": "https://sedra.bethmardutho.org/api/word/31731.json"
+        }
+    }
+]

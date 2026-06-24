@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u0715\u0721\u071d\u0717",
+        "western": "\u0715\u0741\u0730\u0715\u0742\u0721\u0736\u071d\u0717",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 6311,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6311.json"
+        },
+        "stem": "\u0715\u0721\u071d\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "price, value.",
+                "price"
+            ]
+        },
+        "word": {
+            "id": 4708,
+            "uri": "https://sedra.bethmardutho.org/api/word/4708.json"
+        }
+    }
+]

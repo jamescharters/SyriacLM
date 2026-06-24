@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 3065,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3065.json"
+        },
+        "syriac": "\u072a\u0726\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u062d\u0631\u0643",
+                "\u0627\u0646\u0633\u0627\u0628, \u0627\u0645\u062a\u062f",
+                "\u0631\u0643\u0636"
+            ],
+            "French": [
+                "se mouvoir",
+                "s&#39;insinuer, s&#39;\u00e9tendre",
+                "courir"
+            ],
+            "English": [
+                "swarm with",
+                "Ia to pulsate, to vibrate",
+                "to wriggle along",
+                "to swarm.",
+                "to stir"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1785,
+            "uri": "https://sedra.bethmardutho.org/api/root/1785.json"
+        },
+        "words": [
+            {
+                "id": 19965,
+                "uri": "https://sedra.bethmardutho.org/api/word/19965.json"
+            },
+            {
+                "id": 19966,
+                "uri": "https://sedra.bethmardutho.org/api/word/19966.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

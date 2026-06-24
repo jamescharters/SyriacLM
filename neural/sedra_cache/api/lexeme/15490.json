@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15490,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15490.json"
+        },
+        "syriac": "\u072b\u0725\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0627\u0631"
+            ],
+            "French": [
+                "voler"
+            ],
+            "English": [
+                "to fly.",
+                "to crawl",
+                "Ia to float, swim"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2774,
+            "uri": "https://sedra.bethmardutho.org/api/root/2774.json"
+        },
+        "words": [
+            {
+                "id": 41463,
+                "uri": "https://sedra.bethmardutho.org/api/word/41463.json"
+            },
+            {
+                "id": 42188,
+                "uri": "https://sedra.bethmardutho.org/api/word/42188.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

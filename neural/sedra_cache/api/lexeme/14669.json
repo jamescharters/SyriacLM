@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14669,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14669.json"
+        },
+        "syriac": "\u072b\u072a\u072b\u071d",
+        "glosses": {
+            "English": [
+                "to loose hold.",
+                "IVa to uproot",
+                "to be relaxed",
+                "IVp to strike root",
+                "to loosen",
+                "to facilitate",
+                "to eradicate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2311,
+            "uri": "https://sedra.bethmardutho.org/api/root/2311.json"
+        },
+        "words": [
+            {
+                "id": 40518,
+                "uri": "https://sedra.bethmardutho.org/api/word/40518.json"
+            },
+            {
+                "id": 40097,
+                "uri": "https://sedra.bethmardutho.org/api/word/40097.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

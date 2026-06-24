@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15883,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15883.json"
+        },
+        "syriac": "\u0722\u0713\u0712",
+        "glosses": {
+            "English": [
+                "IIa to make dry",
+                "IIp to be dried up.",
+                "Ia to dry up, to become dry"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2661,
+            "uri": "https://sedra.bethmardutho.org/api/root/2661.json"
+        },
+        "words": [
+            {
+                "id": 41860,
+                "uri": "https://sedra.bethmardutho.org/api/word/41860.json"
+            },
+            {
+                "id": 41674,
+                "uri": "https://sedra.bethmardutho.org/api/word/41674.json"
+            },
+            {
+                "id": 41415,
+                "uri": "https://sedra.bethmardutho.org/api/word/41415.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

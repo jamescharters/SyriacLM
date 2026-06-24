@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14950,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14950.json"
+        },
+        "syriac": "\u0712\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0641\u0647\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "faire comprendre",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp to understand, observe.",
+                "IIa to discern, to teach"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2708,
+            "uri": "https://sedra.bethmardutho.org/api/root/2708.json"
+        },
+        "words": [
+            {
+                "id": 41017,
+                "uri": "https://sedra.bethmardutho.org/api/word/41017.json"
+            },
+            {
+                "id": 40927,
+                "uri": "https://sedra.bethmardutho.org/api/word/40927.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

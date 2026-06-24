@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0722\u0722\u071b\u072a\u0718\u0722",
+        "western": "\u0722\u0722\u0730\u071b\u072a\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1954,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1954.json"
+        },
+        "stem": "\u0722\u071b\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "guard",
+                "Kth. <span class=\"selectableFont\">\u0722\u0733\u071b\u0730\u072a \u0710\u0331</span><span class=\"selectableFont\">\u072a\u0733\u0719\u0733\u0710</span> secretary",
+                "<span class=\"selectableFont\">\u0722\u0733\u071b\u0730\u072a \u071f\u073d\u0718\u072a\u0723\u073a\u071d</span>, <span class=\"selectableFont\">\u0722\u0733\u071b\u0730\u072a \u071f\u073d\u0718\u072a\u0723\u071d\u0733\u0710</span> \u2018keeper of the see\u2019 (Patriarchal-candidate from birth in the hereditary system of the Church of the East)",
+                "Ia to guard, watch, keep, preserve, retain",
+                "to be retained",
+                "IIIa to put in a safe place, to preserve, to entrust.",
+                "to abstain from",
+                "to be observed",
+                "Ip to be guarded",
+                "IIa to keep safe, to take care of",
+                "observe",
+                "reserve",
+                "keep"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 12834,
+            "uri": "https://sedra.bethmardutho.org/api/word/12834.json"
+        }
+    }
+]

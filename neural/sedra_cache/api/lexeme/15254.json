@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15254,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15254.json"
+        },
+        "syriac": "\u0723\u072a\u071a",
+        "glosses": {
+            "English": [
+                "IIIp to be ordained, appointed.",
+                "to publish, to bring out",
+                "to spread out",
+                "to designate, to appoint",
+                "to ordain",
+                "to bestow",
+                "2 IIIa <span class=\"selectableFont\">\u0710\u0730\u0723\u072a\u0730\u071a</span> to propound, to express"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2937,
+            "uri": "https://sedra.bethmardutho.org/api/root/2937.json"
+        },
+        "words": [
+            {
+                "id": 40119,
+                "uri": "https://sedra.bethmardutho.org/api/word/40119.json"
+            },
+            {
+                "id": 39830,
+                "uri": "https://sedra.bethmardutho.org/api/word/39830.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

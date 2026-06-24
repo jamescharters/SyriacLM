@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2892,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2892.json"
+        },
+        "syriac": "\u0729\u072a\u0729\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0631\u0642\u0648\u0631",
+                "\u0632\u0648\u0631\u0642"
+            ],
+            "French": [
+                "vaisseau l\u00e9ger",
+                "chaloupe"
+            ],
+            "English": [
+                "boat",
+                "small boat."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03ad\u03c1\u03ba\u03bf\u03c5\u03c1\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1715,
+            "uri": "https://sedra.bethmardutho.org/api/root/1715.json"
+        },
+        "words": [
+            {
+                "id": 18853,
+                "uri": "https://sedra.bethmardutho.org/api/word/18853.json"
+            },
+            {
+                "id": 18852,
+                "uri": "https://sedra.bethmardutho.org/api/word/18852.json"
+            },
+            {
+                "id": 18851,
+                "uri": "https://sedra.bethmardutho.org/api/word/18851.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

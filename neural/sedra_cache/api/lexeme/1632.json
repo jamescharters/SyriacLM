@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1632,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1632.json"
+        },
+        "syriac": "\u0720\u0717\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "plus loin, encore\u2026"
+            ],
+            "English": [
+                "beyond, far off (time, place).",
+                "far",
+                "far off",
+                "there",
+                "thither"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 958,
+            "uri": "https://sedra.bethmardutho.org/api/root/958.json"
+        },
+        "words": [
+            {
+                "id": 10900,
+                "uri": "https://sedra.bethmardutho.org/api/word/10900.json"
+            },
+            {
+                "id": 10899,
+                "uri": "https://sedra.bethmardutho.org/api/word/10899.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072b\u072c\u0710",
+        "western": "\u072b\u072c\u0741\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13316,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13316.json"
+        },
+        "stem": "\u072b\u072c",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u062a\u0629",
+                "\u0634\u0631\u0628",
+                "\u062a\u0631\u0648\u062a (\u0627\u0644\u0623\u0631\u0636)",
+                "\u062a\u0644\u0642\u0649 (\u0636\u0631\u0628\u0627\u062a)",
+                "\u00a0"
+            ],
+            "eng": [
+                "six."
+            ],
+            "fre": [
+                "boire",
+                "six",
+                "\u00a0",
+                "\u00eatre irrigu\u00e9e (terre)",
+                "recevoir (des coups)"
+            ]
+        },
+        "word": {
+            "id": 29811,
+            "uri": "https://sedra.bethmardutho.org/api/word/29811.json"
+        }
+    }
+]

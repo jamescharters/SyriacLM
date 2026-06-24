@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28694,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28694.json"
+        },
+        "syriac": "\u0710\u071b\u071d\u0729\u071d\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f08\u03c4\u03c4\u03b9\u03ba\u03ae (\u03b4\u03b9\u03ac\u03bb\u03b5\u03ba\u03c4\u03bf\u03c2)"
+            ],
+            "English": [
+                "Attic dialect, Greek language"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f08\u03c4\u03c4\u03b9\u03ba\u03cc\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49202,
+                "uri": "https://sedra.bethmardutho.org/api/word/49202.json"
+            },
+            {
+                "id": 55068,
+                "uri": "https://sedra.bethmardutho.org/api/word/55068.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

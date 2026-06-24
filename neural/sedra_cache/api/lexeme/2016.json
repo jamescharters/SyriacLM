@@ -1,0 +1,65 @@
+[
+    {
+        "lexeme": {
+            "id": 2016,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2016.json"
+        },
+        "syriac": "\u0722\u0728\u071a",
+        "glosses": {
+            "English": [
+                "to be distinguished",
+                "famous",
+                "excel",
+                "shine",
+                "to shine out.",
+                "Ia to shine out",
+                "to adorn, to celebrate",
+                "IIa to render celebrated",
+                "to excel",
+                "to triumph",
+                "IIp to be celebrated, renowned",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0728\u0730\u071a</span> to glorify"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1201,
+            "uri": "https://sedra.bethmardutho.org/api/root/1201.json"
+        },
+        "words": [
+            {
+                "id": 29682,
+                "uri": "https://sedra.bethmardutho.org/api/word/29682.json"
+            },
+            {
+                "id": 26702,
+                "uri": "https://sedra.bethmardutho.org/api/word/26702.json"
+            },
+            {
+                "id": 26701,
+                "uri": "https://sedra.bethmardutho.org/api/word/26701.json"
+            },
+            {
+                "id": 13327,
+                "uri": "https://sedra.bethmardutho.org/api/word/13327.json"
+            },
+            {
+                "id": 13326,
+                "uri": "https://sedra.bethmardutho.org/api/word/13326.json"
+            },
+            {
+                "id": 26700,
+                "uri": "https://sedra.bethmardutho.org/api/word/26700.json"
+            },
+            {
+                "id": 26699,
+                "uri": "https://sedra.bethmardutho.org/api/word/26699.json"
+            },
+            {
+                "id": 13325,
+                "uri": "https://sedra.bethmardutho.org/api/word/13325.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

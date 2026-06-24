@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0721\u0718\u0715\u0718\u072c\u0710",
+        "western": "\u0729\u0733\u0721\u073d\u0718\u0715\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8732,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8732.json"
+        },
+        "stem": "\u0729\u0721\u0718\u0715\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0647\u0632\u0644\u0629"
+            ],
+            "eng": [
+                "acting, comedy."
+            ],
+            "fre": [
+                "com\u00e9die"
+            ]
+        },
+        "word": {
+            "id": 30870,
+            "uri": "https://sedra.bethmardutho.org/api/word/30870.json"
+        }
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "syriac": "\u0715\u0726\u0718\u0720\u071a\u0722\u0710",
+        "western": "\u0715\u0741\u0726\u0742\u073d\u0718\u0720\u071a\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2527,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2527.json"
+        },
+        "stem": "\u0726\u0718\u0720\u071a\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u064a\u0634",
+                "\u0645\u0646\u062f\u064a\u0644",
+                "\u0631\u0642",
+                "\u0635\u0646\u0639",
+                "\u062d\u0631\u062b, \u0641\u0644\u0627\u062d\u0629",
+                "\u062d\u0642\u0648\u0644",
+                "\u0634\u063a\u0644, \u0639\u0645\u0644",
+                "\u0641\u0644\u0627\u062d\u0648\u0646",
+                "\u062e\u062f\u0645\u0629",
+                "\u062a\u0645\u0631\u064a\u0646, \u0645\u0645\u0627\u0631\u0633\u0629",
+                "\u062a\u0639\u0628\u062f",
+                "\u0641\u0631\u0636",
+                "\u0639\u0628\u0627\u062f\u0629"
+            ],
+            "eng": [
+                "trade",
+                "work",
+                "worship.",
+                "occupation",
+                "service, work, occupation"
+            ],
+            "fre": [
+                "fabrication",
+                "arm\u00e9e",
+                "d\u00e9votion",
+                "service",
+                "exercice, pratique",
+                "agriculteurs",
+                "linge",
+                "champs",
+                "labourage, culture",
+                "parchemin",
+                "travail, t\u00e2che",
+                "office",
+                "culte"
+            ]
+        },
+        "word": {
+            "id": 16477,
+            "uri": "https://sedra.bethmardutho.org/api/word/16477.json"
+        }
+    }
+]

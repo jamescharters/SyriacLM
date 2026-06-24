@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0723\u0718\u072a\u0725\u0726\u0710",
+        "western": "\u0723\u073d\u0718\u072a\u0725\u0733\u0726\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10899,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10899.json"
+        },
+        "stem": "\u0723\u0718\u072a\u0725\u0726\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0634\u0639\u0628",
+                "\u0623\u063a\u0635\u0627\u0646",
+                "\u062a\u0635\u0631\u064a\u0641"
+            ],
+            "eng": [
+                "branch, subdivision",
+                "Gram. paradigm, conjugation."
+            ],
+            "fre": [
+                "ramure",
+                "ramification",
+                "conjugaison"
+            ]
+        },
+        "word": {
+            "id": 37050,
+            "uri": "https://sedra.bethmardutho.org/api/word/37050.json"
+        }
+    }
+]

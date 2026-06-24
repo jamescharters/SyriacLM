@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15846,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15846.json"
+        },
+        "syriac": "\u0726\u071f",
+        "glosses": {
+            "English": [
+                "Ia to break",
+                "IIp.",
+                "IIa to shatter",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2338,
+            "uri": "https://sedra.bethmardutho.org/api/root/2338.json"
+        },
+        "words": [
+            {
+                "id": 41799,
+                "uri": "https://sedra.bethmardutho.org/api/word/41799.json"
+            },
+            {
+                "id": 40282,
+                "uri": "https://sedra.bethmardutho.org/api/word/40282.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

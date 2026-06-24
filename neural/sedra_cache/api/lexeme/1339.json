@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1339,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1339.json"
+        },
+        "syriac": "\u071d\u0718\u0721\u0722\u0710",
+        "glosses": {
+            "English": [
+                "to-day",
+                "today",
+                "at the present time."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 792,
+            "uri": "https://sedra.bethmardutho.org/api/root/792.json"
+        },
+        "words": [
+            {
+                "id": 8943,
+                "uri": "https://sedra.bethmardutho.org/api/word/8943.json"
+            },
+            {
+                "id": 8941,
+                "uri": "https://sedra.bethmardutho.org/api/word/8941.json"
+            },
+            {
+                "id": 8940,
+                "uri": "https://sedra.bethmardutho.org/api/word/8940.json"
+            },
+            {
+                "id": 8942,
+                "uri": "https://sedra.bethmardutho.org/api/word/8942.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

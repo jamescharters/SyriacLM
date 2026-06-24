@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0719\u072a\u071d\u0712\u0718\u072c\u0710",
+        "western": "\u0719\u072a\u073a\u071d\u0712\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10357,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10357.json"
+        },
+        "stem": "\u0719\u072a\u071d\u0712\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u063a\u064a, \u063a\u0635\u0628",
+                "\u0636\u063a\u0637, \u062d\u0635\u0631"
+            ],
+            "eng": [
+                "impetus.",
+                "compression, condensation"
+            ],
+            "fre": [
+                "oppression, violence",
+                "pression, compression"
+            ]
+        },
+        "word": {
+            "id": 38001,
+            "uri": "https://sedra.bethmardutho.org/api/word/38001.json"
+        }
+    }
+]

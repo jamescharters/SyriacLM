@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15521,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15521.json"
+        },
+        "syriac": "\u0728\u071a",
+        "glosses": {
+            "English": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u073d\u0718\u071a</span>, Ia to glow, be hot."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3150,
+            "uri": "https://sedra.bethmardutho.org/api/root/3150.json"
+        },
+        "words": [
+            {
+                "id": 42114,
+                "uri": "https://sedra.bethmardutho.org/api/word/42114.json"
+            },
+            {
+                "id": 39898,
+                "uri": "https://sedra.bethmardutho.org/api/word/39898.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

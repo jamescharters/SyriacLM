@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 834,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/834.json"
+        },
+        "syriac": "\u0719\u0712\u0718\u0720\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Zebulun"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 534,
+            "uri": "https://sedra.bethmardutho.org/api/root/534.json"
+        },
+        "words": [
+            {
+                "id": 5372,
+                "uri": "https://sedra.bethmardutho.org/api/word/5372.json"
+            },
+            {
+                "id": 5373,
+                "uri": "https://sedra.bethmardutho.org/api/word/5373.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

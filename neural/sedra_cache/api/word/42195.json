@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0722\u0719\u0718\u0722",
+        "western": "\u0722\u0719\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15829,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15829.json"
+        },
+        "stem": "\u0719\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0644\u062d (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIp.",
+                "to provide for",
+                "arm",
+                "IIp.",
+                "Ip to be nourished",
+                "Ia to provide with food, sustain, support",
+                "to arm",
+                "IIa <span class=\"selectableFont\">\u0719\u0730\u071d\u0736\u0722</span> to arm, equip"
+            ],
+            "fre": [
+                "armer",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 42195,
+            "uri": "https://sedra.bethmardutho.org/api/word/42195.json"
+        }
+    }
+]

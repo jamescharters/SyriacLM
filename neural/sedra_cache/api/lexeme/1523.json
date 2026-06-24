@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1523,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1523.json"
+        },
+        "syriac": "\u071f\u0720 \u071d\u0718\u0721",
+        "glosses": {
+            "English": [
+                "everyday"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2030,
+            "uri": "https://sedra.bethmardutho.org/api/root/2030.json"
+        },
+        "words": [
+            {
+                "id": 8921,
+                "uri": "https://sedra.bethmardutho.org/api/word/8921.json"
+            },
+            {
+                "id": 8916,
+                "uri": "https://sedra.bethmardutho.org/api/word/8916.json"
+            },
+            {
+                "id": 8935,
+                "uri": "https://sedra.bethmardutho.org/api/word/8935.json"
+            }
+        ],
+        "category": "idiom",
+        "kaylo": "p\u02bfal"
+    }
+]

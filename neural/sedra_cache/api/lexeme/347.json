@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 347,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/347.json"
+        },
+        "syriac": "\u0712\u0717\u072c\u072c\u0710",
+        "glosses": {
+            "English": [
+                "shame",
+                "shame, disgrace."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 250,
+            "uri": "https://sedra.bethmardutho.org/api/root/250.json"
+        },
+        "words": [
+            {
+                "id": 52159,
+                "uri": "https://sedra.bethmardutho.org/api/word/52159.json"
+            },
+            {
+                "id": 2407,
+                "uri": "https://sedra.bethmardutho.org/api/word/2407.json"
+            },
+            {
+                "id": 2404,
+                "uri": "https://sedra.bethmardutho.org/api/word/2404.json"
+            },
+            {
+                "id": 1746,
+                "uri": "https://sedra.bethmardutho.org/api/word/1746.json"
+            },
+            {
+                "id": 2408,
+                "uri": "https://sedra.bethmardutho.org/api/word/2408.json"
+            },
+            {
+                "id": 2406,
+                "uri": "https://sedra.bethmardutho.org/api/word/2406.json"
+            },
+            {
+                "id": 2405,
+                "uri": "https://sedra.bethmardutho.org/api/word/2405.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

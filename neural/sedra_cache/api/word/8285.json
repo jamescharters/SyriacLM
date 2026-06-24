@@ -1,0 +1,56 @@
+[
+    {
+        "syriac": "\u071b\u0725\u0721",
+        "western": "\u071b\u0725\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1264,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1264.json"
+        },
+        "stem": "\u071b\u0725\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062f\u0631\u0643, \u0639\u0631\u0641",
+                "\u0630\u0627\u0642",
+                "\u0623\u0643\u0644"
+            ],
+            "eng": [
+                "to acquire a taste",
+                "IIIp to be ingrafted, to be inserted.",
+                "taste",
+                "be grafted",
+                "graft",
+                "partake (of)",
+                "IIp to be grafted, budded",
+                "to relish",
+                "to taste of",
+                "to be discerned, tried",
+                "Ip to be tasted",
+                "to try, to perceive, experience",
+                "to habituate",
+                "Ia to taste",
+                "to be grafted",
+                "to engraft",
+                "IIIa to make to taste"
+            ],
+            "fre": [
+                "go\u00fbter",
+                "percevoir, conna\u00eetre",
+                "manger"
+            ]
+        },
+        "word": {
+            "id": 8285,
+            "uri": "https://sedra.bethmardutho.org/api/word/8285.json"
+        }
+    }
+]

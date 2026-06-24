@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0718\u0721\u072c\u0710\u0723\u071d\u0722",
+        "western": "\u0718\u0721\u0736\u072c\u0742\u0730\u0710\u0723\u0736\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 220,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/220.json"
+        },
+        "stem": "\u0710\u0723\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "heal"
+            ],
+            "lat": [
+                "healer, doctor"
+            ]
+        },
+        "word": {
+            "id": 1598,
+            "uri": "https://sedra.bethmardutho.org/api/word/1598.json"
+        }
+    }
+]

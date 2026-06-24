@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 19146,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19146.json"
+        },
+        "syriac": "\u0712\u0718\u0720\u0710\u0715",
+        "glosses": {
+            "English": [
+                "steel"
+            ],
+            "Arabic": [
+                "\u0641\u0648\u0644\u0627\u0630"
+            ],
+            "French": [
+                "acier"
+            ]
+        },
+        "etymologies": {
+            "Arabic": [
+                "\u0628\u0648\u0644\u0627\u062f"
+            ]
+        },
+        "words": [
+            {
+                "id": 45520,
+                "uri": "https://sedra.bethmardutho.org/api/word/45520.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

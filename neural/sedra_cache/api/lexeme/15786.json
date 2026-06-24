@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15786,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15786.json"
+        },
+        "syriac": "\u071b\u0712\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0628\u0644"
+            ],
+            "French": [
+                "jouer du tambourin"
+            ],
+            "English": [
+                "Ia to drum."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2246,
+            "uri": "https://sedra.bethmardutho.org/api/root/2246.json"
+        },
+        "words": [
+            {
+                "id": 41789,
+                "uri": "https://sedra.bethmardutho.org/api/word/41789.json"
+            },
+            {
+                "id": 39906,
+                "uri": "https://sedra.bethmardutho.org/api/word/39906.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

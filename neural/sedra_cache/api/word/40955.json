@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0713\u071a",
+        "western": "\u0713\u0733\u071a",
+        "eastern": "\u0713\u0735\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15709,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15709.json"
+        },
+        "stem": "\u0713\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to cause to gush out",
+                "IIIp.",
+                "Ia to pour forth, gush out"
+            ]
+        },
+        "word": {
+            "id": 40955,
+            "uri": "https://sedra.bethmardutho.org/api/word/40955.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u0718\u0720\u0712\u0710",
+        "western": "\u071a\u073d\u0718\u0720\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7917,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7917.json"
+        },
+        "stem": "\u071a\u0718\u0720\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0648\u0643",
+                "\u0639\u0648\u0633\u062c"
+            ],
+            "eng": [
+                "chisel.",
+                "goad",
+                "thorn"
+            ],
+            "fre": [
+                "\u00e9pine",
+                "ronces"
+            ]
+        },
+        "word": {
+            "id": 35884,
+            "uri": "https://sedra.bethmardutho.org/api/word/35884.json"
+        }
+    }
+]

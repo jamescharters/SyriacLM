@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 279,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/279.json"
+        },
+        "syriac": "\u0710\u072a\u071b\u0721\u0710\u0710",
+        "glosses": {
+            "English": [
+                "Artemas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 206,
+            "uri": "https://sedra.bethmardutho.org/api/root/206.json"
+        },
+        "words": [
+            {
+                "id": 1874,
+                "uri": "https://sedra.bethmardutho.org/api/word/1874.json"
+            },
+            {
+                "id": 1875,
+                "uri": "https://sedra.bethmardutho.org/api/word/1875.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

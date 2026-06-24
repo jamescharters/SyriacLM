@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0722\u0712\u0713\u072a",
+        "western": "\u0722\u0736\u0712\u0713\u0730\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15557,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15557.json"
+        },
+        "stem": "\u0712\u0713\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0628\u0637",
+                "\u063a\u0644\u0642",
+                "\u0636\u0639\u0641",
+                "\u0646\u0641\u0649",
+                "\u0623\u062d\u0627\u0637"
+            ],
+            "eng": [
+                "Ia to fasten, bolt",
+                "Ip",
+                "to be emaciated",
+                "IIa to hem in, hold back.",
+                "to be infirm"
+            ],
+            "fre": [
+                "s\u2019affaiblir",
+                "entourer",
+                "retenir",
+                "exiler",
+                "fermer"
+            ]
+        },
+        "word": {
+            "id": 42162,
+            "uri": "https://sedra.bethmardutho.org/api/word/42162.json"
+        }
+    }
+]

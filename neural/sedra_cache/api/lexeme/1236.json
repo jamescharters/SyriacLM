@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1236,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1236.json"
+        },
+        "syriac": "\u071b\u0720\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "youth",
+                "childhood",
+                "childhood, youth",
+                "young people."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 732,
+            "uri": "https://sedra.bethmardutho.org/api/root/732.json"
+        },
+        "words": [
+            {
+                "id": 8093,
+                "uri": "https://sedra.bethmardutho.org/api/word/8093.json"
+            },
+            {
+                "id": 8097,
+                "uri": "https://sedra.bethmardutho.org/api/word/8097.json"
+            },
+            {
+                "id": 8096,
+                "uri": "https://sedra.bethmardutho.org/api/word/8096.json"
+            },
+            {
+                "id": 8095,
+                "uri": "https://sedra.bethmardutho.org/api/word/8095.json"
+            },
+            {
+                "id": 8094,
+                "uri": "https://sedra.bethmardutho.org/api/word/8094.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

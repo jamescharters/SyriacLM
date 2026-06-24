@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072a\u0717\u0718\u071b\u0710",
+        "western": "\u072a\u0733\u0717\u073d\u0718\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6606,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6606.json"
+        },
+        "stem": "\u072a\u0717\u0718\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0627\u0643\u0636",
+                "\u0631\u062c\u0644 \u062e\u064a\u0631"
+            ],
+            "eng": [
+                "runner."
+            ],
+            "fre": [
+                "coureur",
+                "home de bien"
+            ]
+        },
+        "word": {
+            "id": 31541,
+            "uri": "https://sedra.bethmardutho.org/api/word/31541.json"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0720\u071f\u0718\u0710\u072a\u0710",
+        "western": "\u0720\u071f\u0742\u073d\u0718\u0733\u0710\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1460,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1460.json"
+        },
+        "stem": "\u071f\u0718\u0710\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u062c\u0644",
+                "\u0625\u0647\u0627\u0646\u0629",
+                "\u0642\u0635\u0627\u0635"
+            ],
+            "eng": [
+                "shame",
+                "reproach, ignominy, shame."
+            ],
+            "fre": [
+                "affront",
+                "punition",
+                "honte"
+            ]
+        },
+        "word": {
+            "id": 9708,
+            "uri": "https://sedra.bethmardutho.org/api/word/9708.json"
+        }
+    }
+]

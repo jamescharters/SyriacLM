@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072c\u071d\u0712\u0710",
+        "western": "\u072c\u0730\u071d\u0733\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7707,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7707.json"
+        },
+        "stem": "\u072c\u071d\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0627\u0626\u062f",
+                "\u0645\u062a\u0645\u0631\u062f",
+                "\u062a\u0627\u0626\u0628"
+            ],
+            "eng": [
+                "penitent",
+                "relenting",
+                "backslider",
+                "one who returns (repents)."
+            ],
+            "fre": [
+                "qui revient",
+                "p\u00e9nitent",
+                "rebelle"
+            ]
+        },
+        "word": {
+            "id": 35359,
+            "uri": "https://sedra.bethmardutho.org/api/word/35359.json"
+        }
+    }
+]

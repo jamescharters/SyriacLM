@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u071f\u072a\u071d\u0717\u071d\u0722",
+        "western": "\u071f\u0741\u072a\u073a\u071d\u0717\u073a\u071d\u0722",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1581,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1581.json"
+        },
+        "stem": "\u071f\u072a\u0717",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u0636"
+            ],
+            "eng": [
+                "IIp to fall sick",
+                "be sick",
+                "Ip to fall sick, to be ill",
+                "be weak",
+                "to injure.",
+                "to feign sickness",
+                "IIIa to make ill",
+                "Ia to be sick"
+            ],
+            "fre": [
+                "\u00eatre malade"
+            ]
+        },
+        "word": {
+            "id": 10425,
+            "uri": "https://sedra.bethmardutho.org/api/word/10425.json"
+        }
+    }
+]

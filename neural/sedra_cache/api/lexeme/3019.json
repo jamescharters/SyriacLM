@@ -1,0 +1,72 @@
+[
+    {
+        "lexeme": {
+            "id": 3019,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3019.json"
+        },
+        "syriac": "\u072a\u071d\u072b\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0628\u062a\u062f\u0627\u0621",
+                "\u0627\u0644\u0628\u0627\u0643\u0648\u0631\u0629 \u0645\u0646 \u0627\u0644\u0623\u062b\u0645\u0627\u0631"
+            ],
+            "French": [
+                "commencement",
+                "pr\u00e9mices"
+            ],
+            "English": [
+                "beginning",
+                "fruits",
+                "first place",
+                "first fruits",
+                "at the time of Creation.",
+                "beginning",
+                "<span class=\"selectableFont\">\u0712\u072a\u073a\u072b\u073a\u071d\u072c</span> Genesis"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1760,
+            "uri": "https://sedra.bethmardutho.org/api/root/1760.json"
+        },
+        "words": [
+            {
+                "id": 19697,
+                "uri": "https://sedra.bethmardutho.org/api/word/19697.json"
+            },
+            {
+                "id": 19696,
+                "uri": "https://sedra.bethmardutho.org/api/word/19696.json"
+            },
+            {
+                "id": 19702,
+                "uri": "https://sedra.bethmardutho.org/api/word/19702.json"
+            },
+            {
+                "id": 19698,
+                "uri": "https://sedra.bethmardutho.org/api/word/19698.json"
+            },
+            {
+                "id": 19703,
+                "uri": "https://sedra.bethmardutho.org/api/word/19703.json"
+            },
+            {
+                "id": 19704,
+                "uri": "https://sedra.bethmardutho.org/api/word/19704.json"
+            },
+            {
+                "id": 19700,
+                "uri": "https://sedra.bethmardutho.org/api/word/19700.json"
+            },
+            {
+                "id": 19699,
+                "uri": "https://sedra.bethmardutho.org/api/word/19699.json"
+            },
+            {
+                "id": 19701,
+                "uri": "https://sedra.bethmardutho.org/api/word/19701.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

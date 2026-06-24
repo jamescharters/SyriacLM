@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 1921,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1921.json"
+        },
+        "syriac": "\u0722\u0718\u0718\u0713\u0710",
+        "glosses": {
+            "English": [
+                "misfortune, disaster.",
+                "shipwreck",
+                "shipwreck"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bd\u03b1\u03c5\u03b1\u03b3\u03af\u03b1"
+            ]
+        },
+        "root": {
+            "id": 1146,
+            "uri": "https://sedra.bethmardutho.org/api/root/1146.json"
+        },
+        "words": [
+            {
+                "id": 12589,
+                "uri": "https://sedra.bethmardutho.org/api/word/12589.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

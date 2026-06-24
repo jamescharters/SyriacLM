@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0721\u072c\u071a\u0726\u071d\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072c\u071a\u0730\u0726\u071d\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6437,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6437.json"
+        },
+        "stem": "\u0721\u072c\u071a\u0726\u071d\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "obscuration, covering."
+            ]
+        },
+        "word": {
+            "id": 38691,
+            "uri": "https://sedra.bethmardutho.org/api/word/38691.json"
+        }
+    }
+]

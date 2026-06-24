@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2025,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2025.json"
+        },
+        "syriac": "\u0722\u0729\u0725\u0710",
+        "glosses": {
+            "English": [
+                "cavern, cave, den.",
+                "lair",
+                "hole",
+                "cavern"
+            ],
+            "Arabic": [
+                "\u0643\u0647\u0641"
+            ],
+            "French": [
+                "caverne"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1207,
+            "uri": "https://sedra.bethmardutho.org/api/root/1207.json"
+        },
+        "words": [
+            {
+                "id": 13348,
+                "uri": "https://sedra.bethmardutho.org/api/word/13348.json"
+            },
+            {
+                "id": 13340,
+                "uri": "https://sedra.bethmardutho.org/api/word/13340.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

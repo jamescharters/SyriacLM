@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0710\u0729\u0718\u0722\u0710",
+        "western": "\u0710\u0730\u0729\u073d\u0718\u0722\u0733\u0710",
+        "eastern": "\u0710\u0732\u0729\u0718\u073c\u0722\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13017,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13017.json"
+        },
+        "stem": "\u0710\u0729\u0718\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hollow of arm, knee."
+            ]
+        },
+        "word": {
+            "id": 35477,
+            "uri": "https://sedra.bethmardutho.org/api/word/35477.json"
+        }
+    }
+]

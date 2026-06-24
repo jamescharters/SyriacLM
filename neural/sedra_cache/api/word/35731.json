@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071b\u0718\u0720\u072b\u0710",
+        "western": "\u071b\u073d\u0718\u0720\u0733\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8568,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8568.json"
+        },
+        "stem": "\u071b\u0718\u0720\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0646\u0633",
+                "\u0648\u0633\u062e"
+            ],
+            "eng": [
+                "plastering (of house)."
+            ],
+            "fre": [
+                "tache",
+                "impuret\u00e9"
+            ]
+        },
+        "word": {
+            "id": 35731,
+            "uri": "https://sedra.bethmardutho.org/api/word/35731.json"
+        }
+    }
+]

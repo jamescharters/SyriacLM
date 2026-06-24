@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0722\u0723\u071d\u0722",
+        "western": "\u0721\u0722\u0730\u0723\u0736\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1986,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1986.json"
+        },
+        "stem": "\u0722\u0723\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "tempt",
+                "try",
+                "prove"
+            ]
+        },
+        "word": {
+            "id": 26621,
+            "uri": "https://sedra.bethmardutho.org/api/word/26621.json"
+        }
+    }
+]

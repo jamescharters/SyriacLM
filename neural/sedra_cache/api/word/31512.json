@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0729\u071b\u071d\u0722\u0718\u072c\u0710",
+        "western": "\u0729\u0730\u071b\u073a\u071d\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7122,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7122.json"
+        },
+        "stem": "\u0729\u071b\u071d\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0642\u0629",
+                "\u0628\u0635\u064a\u0631\u0629",
+                "\u0636\u064a\u0642\u0629",
+                "\u0631\u0642\u0629"
+            ],
+            "eng": [
+                "thinness",
+                "gracility."
+            ],
+            "fre": [
+                "finesse",
+                "gracilit\u00e9",
+                "sagacit\u00e9",
+                "\u00e9troitesse"
+            ]
+        },
+        "word": {
+            "id": 31512,
+            "uri": "https://sedra.bethmardutho.org/api/word/31512.json"
+        }
+    }
+]

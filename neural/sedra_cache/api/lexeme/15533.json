@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15533,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15533.json"
+        },
+        "syriac": "\u0720\u0721",
+        "glosses": {
+            "English": [
+                "IIp to be brought near, to agree with.",
+                "to attack",
+                "Ia to draw close, come near"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3009,
+            "uri": "https://sedra.bethmardutho.org/api/root/3009.json"
+        },
+        "words": [
+            {
+                "id": 42036,
+                "uri": "https://sedra.bethmardutho.org/api/word/42036.json"
+            },
+            {
+                "id": 40845,
+                "uri": "https://sedra.bethmardutho.org/api/word/40845.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

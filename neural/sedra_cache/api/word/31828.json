@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0723\u0725\u0715\u0710",
+        "western": "\u0723\u0736\u0725\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9626,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9626.json"
+        },
+        "stem": "\u0723\u0725\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0639\u0627\u062f\u0649",
+                "\u062c\u0630\u0631, \u0634\u0644\u0634"
+            ],
+            "eng": [
+                "shrub.",
+                "sedge, rush"
+            ],
+            "fre": [
+                "souche, racine",
+                "souchet"
+            ]
+        },
+        "word": {
+            "id": 31828,
+            "uri": "https://sedra.bethmardutho.org/api/word/31828.json"
+        }
+    }
+]

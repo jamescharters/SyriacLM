@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0725\u0715\u071f\u071d\u0720",
+        "western": "\u0718\u0730\u0725\u0715\u0742\u0730\u071f\u0741\u073a\u071d\u0720",
+        "lexeme": {
+            "id": 2246,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2246.json"
+        },
+        "stem": "\u0725\u0715\u071f\u071d\u0720",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0644\u0649 \u0647\u0646\u0627, \u0623\u064a\u0636\u0627\u064b",
+                "\u062d\u062f\u064a\u062b\u0627\u064b"
+            ],
+            "eng": [
+                "still, yet.",
+                "still",
+                "yet"
+            ],
+            "fre": [
+                "jusque l\u00e0, encore",
+                "r\u00e9cemment"
+            ]
+        },
+        "word": {
+            "id": 14972,
+            "uri": "https://sedra.bethmardutho.org/api/word/14972.json"
+        }
+    }
+]

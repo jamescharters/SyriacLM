@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0720",
+        "western": "\u0722\u0730\u0713\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15108,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15108.json"
+        },
+        "stem": "\u0722\u0713\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0647\u0631\u0628",
+                "\u0641\u0631\u063a (\u0645\u0636), \u0646\u0638\u0641 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIa to take to flight",
+                "IIp to be removed.",
+                "to remove"
+            ],
+            "fre": [
+                "\u00a0",
+                "d\u00e9barrasser, faire place nette",
+                "fuir"
+            ]
+        },
+        "word": {
+            "id": 41001,
+            "uri": "https://sedra.bethmardutho.org/api/word/41001.json"
+        }
+    }
+]

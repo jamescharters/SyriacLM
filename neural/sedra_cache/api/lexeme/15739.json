@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15739,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15739.json"
+        },
+        "syriac": "\u0713\u072b\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0644\u0639",
+                "\u0639\u0627\u0645\u0644 \u0628\u0633\u0648\u0621"
+            ],
+            "French": [
+                "arracher",
+                "maltraiter"
+            ],
+            "English": [
+                "IIp to be rubbed, torn off (of skin), to be torn away.",
+                "to flay, to tear away (skin)",
+                "Ia to graze (skin)",
+                "IIa to scratch"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3038,
+            "uri": "https://sedra.bethmardutho.org/api/root/3038.json"
+        },
+        "words": [
+            {
+                "id": 42067,
+                "uri": "https://sedra.bethmardutho.org/api/word/42067.json"
+            },
+            {
+                "id": 39918,
+                "uri": "https://sedra.bethmardutho.org/api/word/39918.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

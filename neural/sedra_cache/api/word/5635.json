@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0719\u071d\u0725\u071d\u0718\u0717\u071d",
+        "western": "\u0715\u0741\u0730\u0722\u0719\u073a\u071d\u0725\u073a\u071d\u0718\u0717\u0331\u071d",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 868,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/868.json"
+        },
+        "stem": "\u0719\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be shaken",
+                "Ia to move, stir, tremble",
+                "IIIa to set in motion, to stir.",
+                "stir",
+                "trouble",
+                "stir up",
+                "be confused",
+                "Ip"
+            ]
+        },
+        "word": {
+            "id": 5635,
+            "uri": "https://sedra.bethmardutho.org/api/word/5635.json"
+        }
+    }
+]

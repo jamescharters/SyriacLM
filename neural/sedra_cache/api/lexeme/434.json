@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 434,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/434.json"
+        },
+        "syriac": "\u0712\u0725\u071d\u0720\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0645\u0631\u0623\u0629 \u0645\u0632\u0648\u062c\u0629"
+            ],
+            "French": [
+                "femme mari\u00e9e"
+            ],
+            "English": [
+                "married woman",
+                "wife."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 297,
+            "uri": "https://sedra.bethmardutho.org/api/root/297.json"
+        },
+        "words": [
+            {
+                "id": 3033,
+                "uri": "https://sedra.bethmardutho.org/api/word/3033.json"
+            },
+            {
+                "id": 3032,
+                "uri": "https://sedra.bethmardutho.org/api/word/3032.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

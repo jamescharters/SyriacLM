@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u072b\u0710",
+        "western": "\u0729\u072b\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2900,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2900.json"
+        },
+        "stem": "\u0729\u072b\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "harden"
+            ]
+        },
+        "word": {
+            "id": 18892,
+            "uri": "https://sedra.bethmardutho.org/api/word/18892.json"
+        }
+    }
+]

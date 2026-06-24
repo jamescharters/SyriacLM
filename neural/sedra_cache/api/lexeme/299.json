@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/299.json"
+        },
+        "syriac": "\u0710\u072a\u0723\u071b\u072a\u071f\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Aristarchus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 221,
+            "uri": "https://sedra.bethmardutho.org/api/root/221.json"
+        },
+        "words": [
+            {
+                "id": 1943,
+                "uri": "https://sedra.bethmardutho.org/api/word/1943.json"
+            },
+            {
+                "id": 1942,
+                "uri": "https://sedra.bethmardutho.org/api/word/1942.json"
+            },
+            {
+                "id": 1941,
+                "uri": "https://sedra.bethmardutho.org/api/word/1941.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

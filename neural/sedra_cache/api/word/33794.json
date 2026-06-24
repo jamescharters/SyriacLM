@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0728\u072a\u071d\u071f\u0718\u072c\u0710",
+        "western": "\u0728\u072a\u073a\u071d\u071f\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9590,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9590.json"
+        },
+        "stem": "\u0728\u072a\u071d\u071f\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0642\u0631"
+            ],
+            "eng": [
+                "need, poverty."
+            ],
+            "fre": [
+                "pauvret\u00e9"
+            ]
+        },
+        "word": {
+            "id": 33794,
+            "uri": "https://sedra.bethmardutho.org/api/word/33794.json"
+        }
+    }
+]

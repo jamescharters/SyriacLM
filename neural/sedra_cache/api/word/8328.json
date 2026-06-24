@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0718\u0710\u072c\u071b\u072a\u071d\u0718",
+        "western": "\u0718\u0736\u0710\u072c\u0742\u071b\u0730\u072a\u073a\u071d\u0718",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1270,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1270.json"
+        },
+        "stem": "\u071b\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0635\u0635",
+                "\u00a0",
+                "\u0637\u0644\u0649"
+            ],
+            "eng": [
+                "trouble",
+                "impel",
+                "urge",
+                "beat upon",
+                "agitate"
+            ],
+            "fre": [
+                "\u00a0",
+                "cr\u00e9pir",
+                "enduire"
+            ]
+        },
+        "word": {
+            "id": 8328,
+            "uri": "https://sedra.bethmardutho.org/api/word/8328.json"
+        }
+    }
+]

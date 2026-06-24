@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0710\u0722\u0718\u0722\u0710",
+        "western": "\u0710\u0730\u0722\u073d\u0718\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8029,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8029.json"
+        },
+        "stem": "\u0710\u0722\u0718\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "soldier\u2019s allowance (of corn)",
+                "supplies."
+            ]
+        },
+        "word": {
+            "id": 35583,
+            "uri": "https://sedra.bethmardutho.org/api/word/35583.json"
+        }
+    }
+]

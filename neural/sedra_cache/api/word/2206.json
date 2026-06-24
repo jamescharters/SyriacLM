@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0715\u0712\u072c\u072a\u071d",
+        "western": "\u0715\u0741\u0712\u0742\u0733\u072c\u0742\u0730\u072a\u071d",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 325,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/325.json"
+        },
+        "stem": "\u0712\u072c\u072a",
+        "category": "preposition",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0639\u0644\u0649"
+            ],
+            "eng": [
+                "behind",
+                "after",
+                "<span class=\"selectableFont\">\u0712\u0733\u072c\u0730\u072a \u0712\u0733\u072c\u0730\u072a</span> one by one.",
+                "after",
+                "<span class=\"selectableFont\">\u0712\u0733\u072c\u0730\u072a \u072a\u073a\u071d\u072b\u0736\u0717</span> upside-down"
+            ],
+            "fre": [
+                "contre",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 2206,
+            "uri": "https://sedra.bethmardutho.org/api/word/2206.json"
+        }
+    }
+]

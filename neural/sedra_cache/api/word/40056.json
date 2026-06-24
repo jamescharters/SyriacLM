@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072b\u0718\u0725",
+        "western": "\u072b\u0718\u0725",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15130,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15130.json"
+        },
+        "stem": "\u072b\u0718\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIp <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0730\u072b\u0718\u0730\u0725</span> to be petrified."
+            ]
+        },
+        "word": {
+            "id": 40056,
+            "uri": "https://sedra.bethmardutho.org/api/word/40056.json"
+        }
+    }
+]

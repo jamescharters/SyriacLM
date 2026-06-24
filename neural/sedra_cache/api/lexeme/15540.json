@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 15540,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15540.json"
+        },
+        "syriac": "\u072b\u0713\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u063a\u0644 (\u0645\u0636)",
+                "\u0623\u062d\u0627\u062f",
+                "\u0631\u0628\u0642, \u063a\u0634",
+                "\u0623\u0636\u0631 \u0628\u0640",
+                "\u0627\u062c\u062a\u0647\u062f",
+                "\u00a0"
+            ],
+            "French": [
+                "occuper",
+                "d\u00e9tourner",
+                "capter, tromper",
+                "faire du tort \u00e0",
+                "s&#39;appliquer",
+                "\u00a0"
+            ],
+            "English": [
+                "IIIa to occupy the attention of.",
+                "to be deluded",
+                "Ip to be intent on",
+                "to wrong, to injure",
+                "Ia to engage in, to be occupied with",
+                "to cajole, to distract, to inveigle"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2114,
+            "uri": "https://sedra.bethmardutho.org/api/root/2114.json"
+        },
+        "words": [
+            {
+                "id": 42044,
+                "uri": "https://sedra.bethmardutho.org/api/word/42044.json"
+            },
+            {
+                "id": 40394,
+                "uri": "https://sedra.bethmardutho.org/api/word/40394.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

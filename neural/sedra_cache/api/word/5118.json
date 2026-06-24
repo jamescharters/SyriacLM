@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0720\u071d\u071b\u0710",
+        "western": "\u0720\u073a\u071d\u071b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3509,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3509.json"
+        },
+        "stem": "\u0720\u071d\u071b\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "accursed",
+                "accursed."
+            ]
+        },
+        "word": {
+            "id": 5118,
+            "uri": "https://sedra.bethmardutho.org/api/word/5118.json"
+        }
+    }
+]

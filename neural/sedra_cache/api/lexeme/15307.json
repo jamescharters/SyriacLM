@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15307,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15307.json"
+        },
+        "syriac": "\u0726\u071a\u071d",
+        "glosses": {
+            "English": [
+                "IIIa to set a snare.",
+                "IIa to catch in a snare"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2624,
+            "uri": "https://sedra.bethmardutho.org/api/root/2624.json"
+        },
+        "words": [
+            {
+                "id": 41205,
+                "uri": "https://sedra.bethmardutho.org/api/word/41205.json"
+            },
+            {
+                "id": 41116,
+                "uri": "https://sedra.bethmardutho.org/api/word/41116.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

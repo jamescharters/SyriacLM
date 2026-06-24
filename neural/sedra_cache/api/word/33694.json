@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u071b\u0718\u0726\u071d\u072c\u0710",
+        "western": "\u0721\u0730\u071b\u073d\u0718\u0726\u073a\u071d\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5167,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5167.json"
+        },
+        "stem": "\u0721\u071b\u0718\u0726\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "",
+                "\u062a\u0642\u0637\u064a\u0631"
+            ],
+            "eng": [
+                "splash, drop",
+                "ointment."
+            ],
+            "fre": [
+                "d\u00e9gouttement",
+                "goutte\u2026"
+            ]
+        },
+        "word": {
+            "id": 33694,
+            "uri": "https://sedra.bethmardutho.org/api/word/33694.json"
+        }
+    }
+]

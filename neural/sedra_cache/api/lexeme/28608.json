@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28608,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28608.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0722\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f50\u03c1\u03b1\u03bd\u03cc\u03c2"
+            ],
+            "Latin": [
+                "caelum"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bf\u1f50\u03c1\u03b1\u03bd\u03cc\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48985,
+                "uri": "https://sedra.bethmardutho.org/api/word/48985.json"
+            },
+            {
+                "id": 54982,
+                "uri": "https://sedra.bethmardutho.org/api/word/54982.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0720\u0710\u0718\u0728\u072a\u071d",
+        "western": "\u0720\u0730\u0710\u0718\u0728\u072a\u0730\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 52,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/52.json"
+        },
+        "stem": "\u0710\u0718\u0728\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "barn",
+                "storehouse, granary.",
+                "repository",
+                "store-house"
+            ]
+        },
+        "word": {
+            "id": 289,
+            "uri": "https://sedra.bethmardutho.org/api/word/289.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15165,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15165.json"
+        },
+        "syriac": "\u071b\u0721\u071d",
+        "glosses": {
+            "English": [
+                "IIa to pollute, defile",
+                "to declare unclean",
+                "IIp to be defiled, polluted",
+                "to corrupt, deflower",
+                "IIIa to pronounce unclean."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2062,
+            "uri": "https://sedra.bethmardutho.org/api/root/2062.json"
+        },
+        "words": [
+            {
+                "id": 41474,
+                "uri": "https://sedra.bethmardutho.org/api/word/41474.json"
+            },
+            {
+                "id": 41457,
+                "uri": "https://sedra.bethmardutho.org/api/word/41457.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

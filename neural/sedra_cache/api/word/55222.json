@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0718\u0726\u071d",
+        "western": "\u0710\u071d\u0718\u0733\u0726\u071d",
+        "lexeme": {
+            "id": 28848,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28848.json"
+        },
+        "stem": "\u0710\u071d\u0718\u0726\u071d",
+        "category": "proper noun (place name)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "city in Egypt"
+            ],
+            "grc": [
+                "\u1f38\u03cc\u03c0\u03c0\u03b7 ()"
+            ],
+            "lat": [
+                "Joppa"
+            ]
+        },
+        "word": {
+            "id": 55222,
+            "uri": "https://sedra.bethmardutho.org/api/word/55222.json"
+        }
+    }
+]

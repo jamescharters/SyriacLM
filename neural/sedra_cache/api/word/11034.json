@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0720\u071a\u0721\u0717\u0718\u0722",
+        "western": "\u0720\u0730\u071a\u0721\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1665,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1665.json"
+        },
+        "stem": "\u0720\u071a\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "shewbread",
+                "food.",
+                "bread",
+                "bread"
+            ]
+        },
+        "word": {
+            "id": 11034,
+            "uri": "https://sedra.bethmardutho.org/api/word/11034.json"
+        }
+    }
+]

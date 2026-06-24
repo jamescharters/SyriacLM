@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15463,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15463.json"
+        },
+        "syriac": "\u071f\u0721\u072b",
+        "glosses": {
+            "English": [
+                "Ia to shrivel up."
+            ],
+            "Arabic": [
+                "\u062a\u062c\u0641\u0641"
+            ],
+            "French": [
+                "se dess\u00e9cher"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2920,
+            "uri": "https://sedra.bethmardutho.org/api/root/2920.json"
+        },
+        "words": [
+            {
+                "id": 41828,
+                "uri": "https://sedra.bethmardutho.org/api/word/41828.json"
+            },
+            {
+                "id": 39936,
+                "uri": "https://sedra.bethmardutho.org/api/word/39936.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

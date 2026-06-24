@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 15754,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15754.json"
+        },
+        "syriac": "\u072a\u071a",
+        "glosses": {
+            "English": [
+                "to smell.",
+                "Ip to smell",
+                "to cause to inhale.",
+                "Ia to breathe",
+                "IIa <span class=\"selectableFont\">\u072a\u0730\u071d\u0730\u071a</span> to soothe, to mitigate, to calm",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072a\u073a\u071d\u071a</span> to smell"
+            ],
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2256,
+            "uri": "https://sedra.bethmardutho.org/api/root/2256.json"
+        },
+        "words": [
+            {
+                "id": 42118,
+                "uri": "https://sedra.bethmardutho.org/api/word/42118.json"
+            },
+            {
+                "id": 40669,
+                "uri": "https://sedra.bethmardutho.org/api/word/40669.json"
+            },
+            {
+                "id": 40601,
+                "uri": "https://sedra.bethmardutho.org/api/word/40601.json"
+            },
+            {
+                "id": 40246,
+                "uri": "https://sedra.bethmardutho.org/api/word/40246.json"
+            },
+            {
+                "id": 39817,
+                "uri": "https://sedra.bethmardutho.org/api/word/39817.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

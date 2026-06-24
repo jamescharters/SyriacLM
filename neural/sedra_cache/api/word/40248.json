@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0712\u071d\u0715\u0720",
+        "western": "\u0712\u071d\u0715\u0720",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15226,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15226.json"
+        },
+        "stem": "\u0712\u071d\u0715\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0712\u0730\u071d\u0715\u0730\u0720</span> to stagger, totter, be drunk."
+            ]
+        },
+        "word": {
+            "id": 40248,
+            "uri": "https://sedra.bethmardutho.org/api/word/40248.json"
+        }
+    }
+]

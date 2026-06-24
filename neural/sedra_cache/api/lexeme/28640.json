@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28640,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28640.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u072c\u072a\u071d\u0715\u0718",
+        "glosses": {
+            "Greek": [
+                "\u1f40\u03c1\u03b8\u03c1\u03af\u03b6\u03c9"
+            ],
+            "English": [
+                "ie awake before dawn"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f40\u03c1\u03b8\u03c1\u03b5\u03cd\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 49033,
+                "uri": "https://sedra.bethmardutho.org/api/word/49033.json"
+            },
+            {
+                "id": 55014,
+                "uri": "https://sedra.bethmardutho.org/api/word/55014.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

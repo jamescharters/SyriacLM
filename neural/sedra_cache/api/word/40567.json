@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0715\u0720\u0720",
+        "western": "\u0715\u0730\u0720\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15019,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15019.json"
+        },
+        "stem": "\u0715\u0720\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0646\u0642\u0635",
+                "\u0637\u0644\u0642 (\u0645\u0636)"
+            ],
+            "eng": [
+                "IIIa to diminish, lessen",
+                "to be designated",
+                "to repudiate",
+                "to be easy",
+                "IIa to designate, specify",
+                "to show.",
+                "IIp to be diminished, become few"
+            ],
+            "fre": [
+                "r\u00e9pudier",
+                "diminuer"
+            ]
+        },
+        "word": {
+            "id": 40567,
+            "uri": "https://sedra.bethmardutho.org/api/word/40567.json"
+        }
+    }
+]

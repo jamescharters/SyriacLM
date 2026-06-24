@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u071b\u072a\u0715",
+        "western": "\u0720\u0730\u071b\u072a\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14928,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14928.json"
+        },
+        "stem": "\u0720\u071b\u072a\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0646\u0649, \u0631\u062a\u0644 (\u0645\u0636)"
+            ],
+            "eng": [
+                "IVa to celebrate in song."
+            ],
+            "fre": [
+                "chanter"
+            ]
+        },
+        "word": {
+            "id": 40723,
+            "uri": "https://sedra.bethmardutho.org/api/word/40723.json"
+        }
+    }
+]

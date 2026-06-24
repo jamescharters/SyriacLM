@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0726\u071b\u0722",
+        "western": "\u0726\u071b\u0730\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15524,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15524.json"
+        },
+        "stem": "\u0726\u071b\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to perceive, understand, recognize."
+            ]
+        },
+        "word": {
+            "id": 41215,
+            "uri": "https://sedra.bethmardutho.org/api/word/41215.json"
+        }
+    }
+]

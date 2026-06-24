@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u072c\u072a\u0719",
+        "western": "\u0722\u0736\u072c\u072a\u0730\u0719",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15939,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15939.json"
+        },
+        "stem": "\u072c\u072a\u0719",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to fill",
+                "& <span class=\"selectableFont\">\u072c\u072a\u0730\u0719</span> fut. <span class=\"selectableFont\">\u0722\u0736\u072c\u072a\u073d\u0718\u0719</span> & <span class=\"selectableFont\">\u0722\u0736\u072c\u072a\u0730\u0719</span>, Ia to have one\u2019s fill",
+                "Ip to be filled",
+                "IIp to be crammed",
+                "to be ripped open.",
+                "to rip open, to burst"
+            ]
+        },
+        "word": {
+            "id": 41723,
+            "uri": "https://sedra.bethmardutho.org/api/word/41723.json"
+        }
+    }
+]

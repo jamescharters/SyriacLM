@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2019,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2019.json"
+        },
+        "syriac": "\u0722\u0728\u072a\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "Nazareth\u2026"
+            ],
+            "English": [
+                "Nazareth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1203,
+            "uri": "https://sedra.bethmardutho.org/api/root/1203.json"
+        },
+        "words": [
+            {
+                "id": 13334,
+                "uri": "https://sedra.bethmardutho.org/api/word/13334.json"
+            },
+            {
+                "id": 13335,
+                "uri": "https://sedra.bethmardutho.org/api/word/13335.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

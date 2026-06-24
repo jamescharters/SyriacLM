@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0717\u071b\u071b",
+        "western": "\u0717\u0730\u071b\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15022.json"
+        },
+        "stem": "\u0717\u071b\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to prick",
+                "to provoke."
+            ]
+        },
+        "word": {
+            "id": 40826,
+            "uri": "https://sedra.bethmardutho.org/api/word/40826.json"
+        }
+    }
+]

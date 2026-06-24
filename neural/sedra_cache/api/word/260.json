@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0712\u0710\u0718\u071d\u0718\u072c\u0710",
+        "western": "\u0712\u0741\u0730\u0710\u0718\u071d\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 41,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/41.json"
+        },
+        "stem": "\u0710\u0718\u071d\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "unity",
+                "harmony, concord, agreement.",
+                "agreement"
+            ]
+        },
+        "word": {
+            "id": 260,
+            "uri": "https://sedra.bethmardutho.org/api/word/260.json"
+        }
+    }
+]

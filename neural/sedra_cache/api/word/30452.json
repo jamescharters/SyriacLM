@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0719\u0720\u0721\u0710",
+        "western": "\u0719\u0720\u0733\u0721\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7657,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7657.json"
+        },
+        "stem": "\u0719\u0720\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0643\u0629"
+            ],
+            "eng": [
+                "the vowel e",
+                "crooked writing."
+            ],
+            "fre": [
+                "voyelle"
+            ]
+        },
+        "word": {
+            "id": 30452,
+            "uri": "https://sedra.bethmardutho.org/api/word/30452.json"
+        }
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0710\u071d\u072c\u0718\u0717\u071d",
+        "western": "\u0710\u073a\u071d\u072c\u0742\u0730\u0718\u0717\u0331\u071d",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 102,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/102.json"
+        },
+        "stem": "\u0710\u071d\u072c",
+        "category": "substantive",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0627\u0646",
+                "\u0623\u0643\u0648\u0646, \u062a\u0643\u0648\u0646,"
+            ],
+            "eng": [
+                "+ -<span class=\"selectableFont\">\u0720\u200d\u200d</span> to have.",
+                "is",
+                "are",
+                "there is, exists",
+                "+ -<span class=\"selectableFont\">\u0715</span> some"
+            ],
+            "fre": [
+                "je suis, tu es",
+                "\u00eatre"
+            ]
+        },
+        "word": {
+            "id": 722,
+            "uri": "https://sedra.bethmardutho.org/api/word/722.json"
+        }
+    }
+]

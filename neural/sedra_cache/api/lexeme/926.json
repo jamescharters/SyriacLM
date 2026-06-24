@@ -1,0 +1,65 @@
+[
+    {
+        "lexeme": {
+            "id": 926,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/926.json"
+        },
+        "syriac": "\u071a\u0712\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639, \u062e\u0628\u0637",
+                "\u062f\u0642, \u0643\u0633\u0631",
+                "\u0633\u0642\u0637 (\u0628\u0631\u062f)",
+                "\u00a0"
+            ],
+            "French": [
+                "abattre en coupant, en frappant",
+                "frapper, briser",
+                "tomber (gr\u00eale)",
+                "\u00a0"
+            ],
+            "English": [
+                "to batter",
+                "knock down",
+                "convulse",
+                "IIa to dash against the ground",
+                "Ip",
+                "Ia to beat down",
+                "to beat (the ground)",
+                "IIp to be thrown down headlong."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 584,
+            "uri": "https://sedra.bethmardutho.org/api/root/584.json"
+        },
+        "words": [
+            {
+                "id": 24547,
+                "uri": "https://sedra.bethmardutho.org/api/word/24547.json"
+            },
+            {
+                "id": 10025,
+                "uri": "https://sedra.bethmardutho.org/api/word/10025.json"
+            },
+            {
+                "id": 24548,
+                "uri": "https://sedra.bethmardutho.org/api/word/24548.json"
+            },
+            {
+                "id": 6078,
+                "uri": "https://sedra.bethmardutho.org/api/word/6078.json"
+            },
+            {
+                "id": 6076,
+                "uri": "https://sedra.bethmardutho.org/api/word/6076.json"
+            },
+            {
+                "id": 6077,
+                "uri": "https://sedra.bethmardutho.org/api/word/6077.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

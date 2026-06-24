@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15599,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15599.json"
+        },
+        "syriac": "\u071b\u0721\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0637\u0633 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "immerger",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to dip, soak, moisten",
+                "IIa to immerse.",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3041,
+            "uri": "https://sedra.bethmardutho.org/api/root/3041.json"
+        },
+        "words": [
+            {
+                "id": 41940,
+                "uri": "https://sedra.bethmardutho.org/api/word/41940.json"
+            },
+            {
+                "id": 40589,
+                "uri": "https://sedra.bethmardutho.org/api/word/40589.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

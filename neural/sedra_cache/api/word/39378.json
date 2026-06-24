@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0725\u071d\u071d\u0729\u0718\u072c\u0710",
+        "western": "\u0725\u0730\u071d\u073a\u071d\u0729\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12542,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12542.json"
+        },
+        "stem": "\u0725\u071d\u071d\u0729\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0632\u0646"
+            ],
+            "eng": [
+                "affliction",
+                "sadness."
+            ],
+            "fre": [
+                "affliction"
+            ]
+        },
+        "word": {
+            "id": 39378,
+            "uri": "https://sedra.bethmardutho.org/api/word/39378.json"
+        }
+    }
+]

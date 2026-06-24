@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0718\u0722",
+        "western": "\u0710\u073a\u071d\u0718\u0733\u0722",
+        "eastern": "\u0710\u071d\u073c\u0718\u0735\u0722 ",
+        "lexeme": {
+            "id": 28819,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28819.json"
+        },
+        "stem": "\u0710\u071d\u0718\u0722",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "violet, Viola odorata"
+            ],
+            "grc": [
+                "\u1f34\u03bf\u03bd"
+            ],
+            "lat": [
+                "viola"
+            ]
+        },
+        "word": {
+            "id": 49317,
+            "uri": "https://sedra.bethmardutho.org/api/word/49317.json"
+        }
+    }
+]

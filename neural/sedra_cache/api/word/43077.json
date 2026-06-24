@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072a\u071d\u071b\u0718\u072a\u071d\u0729\u071d",
+        "western": "\u072a\u073a\u071d\u071b\u073d\u0718\u072a\u073a\u071d\u0729\u073a\u071d",
+        "lexeme": {
+            "id": 16703,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16703.json"
+        },
+        "stem": "\u072a\u071d\u071b\u0718\u072a\u071d\u0729\u071d",
+        "category": "substantive",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0644\u0645 \u0627\u0644\u0628\u064a\u0627\u0646"
+            ],
+            "eng": [
+                "rethoric"
+            ],
+            "fre": [
+                "rh\u00e9torique"
+            ]
+        },
+        "word": {
+            "id": 43077,
+            "uri": "https://sedra.bethmardutho.org/api/word/43077.json"
+        }
+    }
+]

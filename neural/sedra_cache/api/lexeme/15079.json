@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15079,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15079.json"
+        },
+        "syriac": "\u0719\u072a\u071b",
+        "glosses": {
+            "English": [
+                "to vex.",
+                "IIa to lacerate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2526,
+            "uri": "https://sedra.bethmardutho.org/api/root/2526.json"
+        },
+        "words": [
+            {
+                "id": 40074,
+                "uri": "https://sedra.bethmardutho.org/api/word/40074.json"
+            },
+            {
+                "id": 40061,
+                "uri": "https://sedra.bethmardutho.org/api/word/40061.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

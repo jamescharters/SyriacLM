@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 28956,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28956.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u0710\u0718\u0723",
+        "glosses": {
+            "Latin": [
+                "\u1f31\u03bc\u03ac\u03c2",
+                "lorum"
+            ],
+            "English": [
+                "leathern strap"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f31\u03bc\u03ac\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49465,
+                "uri": "https://sedra.bethmardutho.org/api/word/49465.json"
+            },
+            {
+                "id": 55330,
+                "uri": "https://sedra.bethmardutho.org/api/word/55330.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

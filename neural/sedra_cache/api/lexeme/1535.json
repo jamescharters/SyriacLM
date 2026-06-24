@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1535,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1535.json"
+        },
+        "syriac": "\u071f\u0720\u0721\u071d\u0723",
+        "glosses": {
+            "English": [
+                "robe",
+                "mantle",
+                "mantle, robe."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c7\u03bb\u03b1\u03bc\u03cd\u03c2"
+            ]
+        },
+        "root": {
+            "id": 905,
+            "uri": "https://sedra.bethmardutho.org/api/root/905.json"
+        },
+        "words": [
+            {
+                "id": 10079,
+                "uri": "https://sedra.bethmardutho.org/api/word/10079.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

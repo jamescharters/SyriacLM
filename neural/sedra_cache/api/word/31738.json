@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0713\u0710",
+        "western": "\u0723\u0730\u072a\u0713\u0733\u0710",
+        "eastern": "\u0723\u0732\u072a\u0713\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9990,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9990.json"
+        },
+        "stem": "\u0723\u072a\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0631\u062c"
+            ],
+            "eng": [
+                "saddle",
+                "saddle, saddle-cloth.",
+                "<em>sar\u0101g\u0304\u0101</em>",
+                "sellarius (sic <em>LS</em>)",
+                "saddle-cloths",
+                "trappings worked with gold"
+            ],
+            "fre": [
+                "selle"
+            ]
+        },
+        "word": {
+            "id": 31738,
+            "uri": "https://sedra.bethmardutho.org/api/word/31738.json"
+        }
+    }
+]

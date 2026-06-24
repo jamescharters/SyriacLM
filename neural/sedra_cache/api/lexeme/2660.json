@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2660,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2660.json"
+        },
+        "syriac": "\u072c\u0728\u0712\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u064a\u0646\u0629"
+            ],
+            "French": [
+                "ornement"
+            ],
+            "English": [
+                "adornment",
+                "decoration, ornament."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1575,
+            "uri": "https://sedra.bethmardutho.org/api/root/1575.json"
+        },
+        "words": [
+            {
+                "id": 17342,
+                "uri": "https://sedra.bethmardutho.org/api/word/17342.json"
+            },
+            {
+                "id": 17341,
+                "uri": "https://sedra.bethmardutho.org/api/word/17341.json"
+            },
+            {
+                "id": 17340,
+                "uri": "https://sedra.bethmardutho.org/api/word/17340.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0717\u0710",
+        "western": "\u0717\u0736\u0710",
+        "number": "singular",
+        "lexeme": {
+            "id": 10690,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10690.json"
+        },
+        "stem": "\u0717\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0644\u062d\u0631\u0641 \u0647\u0627"
+            ],
+            "eng": [
+                "numerical value: 5.",
+                "the letter He"
+            ],
+            "fre": [
+                "lettre h\u00eb"
+            ]
+        },
+        "word": {
+            "id": 32653,
+            "uri": "https://sedra.bethmardutho.org/api/word/32653.json"
+        }
+    }
+]

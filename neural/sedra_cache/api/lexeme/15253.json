@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15253,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15253.json"
+        },
+        "syriac": "\u072b\u0720\u072b\u0720",
+        "glosses": {
+            "English": [
+                "concatenate.",
+                "IVa <span class=\"selectableFont\">\u072b\u0730\u0720\u072b\u0736\u0720</span> trace back in a chain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2627,
+            "uri": "https://sedra.bethmardutho.org/api/root/2627.json"
+        },
+        "words": [
+            {
+                "id": 41564,
+                "uri": "https://sedra.bethmardutho.org/api/word/41564.json"
+            },
+            {
+                "id": 41442,
+                "uri": "https://sedra.bethmardutho.org/api/word/41442.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

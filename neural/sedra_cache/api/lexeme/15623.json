@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15623,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15623.json"
+        },
+        "syriac": "\u0721\u0725\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0644\u0628\u0644"
+            ],
+            "French": [
+                "troubler fortement"
+            ],
+            "English": [
+                "Ia to disturb greatly."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2953,
+            "uri": "https://sedra.bethmardutho.org/api/root/2953.json"
+        },
+        "words": [
+            {
+                "id": 41625,
+                "uri": "https://sedra.bethmardutho.org/api/word/41625.json"
+            },
+            {
+                "id": 40985,
+                "uri": "https://sedra.bethmardutho.org/api/word/40985.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

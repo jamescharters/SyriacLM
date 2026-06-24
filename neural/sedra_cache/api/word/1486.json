@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0722\u072c\u072c\u071f",
+        "western": "\u0710\u0730\u0722\u0331\u072c\u0741\u072c\u0742\u0733\u071f\u0742",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 11191,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11191.json"
+        },
+        "stem": "\u0710\u0722\u072c\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "woman, wife.",
+                "wife",
+                "woman"
+            ]
+        },
+        "word": {
+            "id": 1486,
+            "uri": "https://sedra.bethmardutho.org/api/word/1486.json"
+        }
+    }
+]

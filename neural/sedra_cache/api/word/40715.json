@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0723\u0729\u0721",
+        "western": "\u0723\u0730\u0729\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15234,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15234.json"
+        },
+        "stem": "\u0723\u0729\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u0633",
+                "\u062d\u062f\u062f",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIp to be measured out",
+                "IIa to measure, to determine",
+                "to be proportioned, computed."
+            ],
+            "fre": [
+                "\u00a0",
+                "d\u00e9terminer",
+                "mesurer"
+            ]
+        },
+        "word": {
+            "id": 40715,
+            "uri": "https://sedra.bethmardutho.org/api/word/40715.json"
+        }
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "lexeme": {
+            "id": 1254,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1254.json"
+        },
+        "syriac": "\u071b\u0722\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u0627\u0631\u0629, \u063a\u064a\u0631\u0629",
+                "\u062d\u0633\u062f"
+            ],
+            "French": [
+                "ardeur , z\u00e8le",
+                "jalousie"
+            ],
+            "English": [
+                "jealousy",
+                "zeal",
+                "jealousy.",
+                "zeal, ardent desire"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 740,
+            "uri": "https://sedra.bethmardutho.org/api/root/740.json"
+        },
+        "words": [
+            {
+                "id": 8184,
+                "uri": "https://sedra.bethmardutho.org/api/word/8184.json"
+            },
+            {
+                "id": 8182,
+                "uri": "https://sedra.bethmardutho.org/api/word/8182.json"
+            },
+            {
+                "id": 8181,
+                "uri": "https://sedra.bethmardutho.org/api/word/8181.json"
+            },
+            {
+                "id": 8180,
+                "uri": "https://sedra.bethmardutho.org/api/word/8180.json"
+            },
+            {
+                "id": 23934,
+                "uri": "https://sedra.bethmardutho.org/api/word/23934.json"
+            },
+            {
+                "id": 8186,
+                "uri": "https://sedra.bethmardutho.org/api/word/8186.json"
+            },
+            {
+                "id": 8187,
+                "uri": "https://sedra.bethmardutho.org/api/word/8187.json"
+            },
+            {
+                "id": 8185,
+                "uri": "https://sedra.bethmardutho.org/api/word/8185.json"
+            },
+            {
+                "id": 8183,
+                "uri": "https://sedra.bethmardutho.org/api/word/8183.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

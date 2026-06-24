@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0718\u0722\u0712\u071d\u0710",
+        "western": "\u0718\u0730\u0722\u0712\u0742\u0730\u071d\u0730\u0710",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15148,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15148.json"
+        },
+        "stem": "\u0712\u071d\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0632\u0649",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIp.",
+                "IIa to console, comfort",
+                "encourage",
+                "comfort"
+            ],
+            "fre": [
+                "\u00a0",
+                "consoler"
+            ]
+        },
+        "word": {
+            "id": 2602,
+            "uri": "https://sedra.bethmardutho.org/api/word/2602.json"
+        }
+    }
+]

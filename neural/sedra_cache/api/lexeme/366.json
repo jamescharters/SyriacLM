@@ -1,0 +1,111 @@
+[
+    {
+        "lexeme": {
+            "id": 366,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/366.json"
+        },
+        "syriac": "\u0712\u071a\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0645\u062a\u062d\u0646, \u0641\u062d\u0635",
+                "\u00a0"
+            ],
+            "French": [
+                "\u00e9prouver, examiner",
+                "\u00a0"
+            ],
+            "English": [
+                "Ip",
+                "Ia to examine, observe",
+                "prove",
+                "examine",
+                "inspect",
+                "IIp to be tried, proved."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 259,
+            "uri": "https://sedra.bethmardutho.org/api/root/259.json"
+        },
+        "words": [
+            {
+                "id": 52317,
+                "uri": "https://sedra.bethmardutho.org/api/word/52317.json"
+            },
+            {
+                "id": 23415,
+                "uri": "https://sedra.bethmardutho.org/api/word/23415.json"
+            },
+            {
+                "id": 23414,
+                "uri": "https://sedra.bethmardutho.org/api/word/23414.json"
+            },
+            {
+                "id": 2502,
+                "uri": "https://sedra.bethmardutho.org/api/word/2502.json"
+            },
+            {
+                "id": 2501,
+                "uri": "https://sedra.bethmardutho.org/api/word/2501.json"
+            },
+            {
+                "id": 3243,
+                "uri": "https://sedra.bethmardutho.org/api/word/3243.json"
+            },
+            {
+                "id": 23419,
+                "uri": "https://sedra.bethmardutho.org/api/word/23419.json"
+            },
+            {
+                "id": 23418,
+                "uri": "https://sedra.bethmardutho.org/api/word/23418.json"
+            },
+            {
+                "id": 23417,
+                "uri": "https://sedra.bethmardutho.org/api/word/23417.json"
+            },
+            {
+                "id": 23416,
+                "uri": "https://sedra.bethmardutho.org/api/word/23416.json"
+            },
+            {
+                "id": 23413,
+                "uri": "https://sedra.bethmardutho.org/api/word/23413.json"
+            },
+            {
+                "id": 23412,
+                "uri": "https://sedra.bethmardutho.org/api/word/23412.json"
+            },
+            {
+                "id": 2508,
+                "uri": "https://sedra.bethmardutho.org/api/word/2508.json"
+            },
+            {
+                "id": 2507,
+                "uri": "https://sedra.bethmardutho.org/api/word/2507.json"
+            },
+            {
+                "id": 2506,
+                "uri": "https://sedra.bethmardutho.org/api/word/2506.json"
+            },
+            {
+                "id": 2505,
+                "uri": "https://sedra.bethmardutho.org/api/word/2505.json"
+            },
+            {
+                "id": 2504,
+                "uri": "https://sedra.bethmardutho.org/api/word/2504.json"
+            },
+            {
+                "id": 2503,
+                "uri": "https://sedra.bethmardutho.org/api/word/2503.json"
+            },
+            {
+                "id": 2500,
+                "uri": "https://sedra.bethmardutho.org/api/word/2500.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

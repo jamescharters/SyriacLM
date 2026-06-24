@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2456,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2456.json"
+        },
+        "syriac": "\u0726\u0715\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062f\u0627\u0646",
+                "\u0645\u062d\u0631\u0627\u062b",
+                "\u0641\u062f\u0627\u0646"
+            ],
+            "French": [
+                "paire de boeufs",
+                "charrue",
+                "arpent"
+            ],
+            "English": [
+                "plough",
+                "yoke",
+                "acre.",
+                "plough"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1450,
+            "uri": "https://sedra.bethmardutho.org/api/root/1450.json"
+        },
+        "words": [
+            {
+                "id": 16193,
+                "uri": "https://sedra.bethmardutho.org/api/word/16193.json"
+            },
+            {
+                "id": 16194,
+                "uri": "https://sedra.bethmardutho.org/api/word/16194.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

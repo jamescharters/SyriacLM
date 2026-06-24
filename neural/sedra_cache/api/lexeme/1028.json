@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 1028,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1028.json"
+        },
+        "syriac": "\u071a\u071f\u071d\u0721\u0710\u071d\u072c",
+        "glosses": {
+            "English": [
+                "wisely",
+                "prudently",
+                "wisely, prudently."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 623,
+            "uri": "https://sedra.bethmardutho.org/api/root/623.json"
+        },
+        "words": [
+            {
+                "id": 7030,
+                "uri": "https://sedra.bethmardutho.org/api/word/7030.json"
+            },
+            {
+                "id": 7031,
+                "uri": "https://sedra.bethmardutho.org/api/word/7031.json"
+            }
+        ],
+        "category": "adverb ending with aiyt",
+        "kaylo": "p\u02bfal"
+    }
+]

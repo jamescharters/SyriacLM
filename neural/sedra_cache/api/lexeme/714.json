@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 714,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/714.json"
+        },
+        "syriac": "\u0715\u0720\u0721\u071b\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Dalmatia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 451,
+            "uri": "https://sedra.bethmardutho.org/api/root/451.json"
+        },
+        "words": [
+            {
+                "id": 4629,
+                "uri": "https://sedra.bethmardutho.org/api/word/4629.json"
+            },
+            {
+                "id": 4628,
+                "uri": "https://sedra.bethmardutho.org/api/word/4628.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

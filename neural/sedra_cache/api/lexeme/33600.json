@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 33600,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33600.json"
+        },
+        "syriac": "\u0717\u071f\u0723\u0710\u071d\u072c\u071d\u0721\u071b\u0710",
+        "glosses": {
+            "English": [
+                "pustules"
+            ],
+            "Latin": [
+                "pustulae"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u0313\u03be\u03b1\u03bd\u03b8\u03b7\u0301\u03bc\u03b1\u03c4\u03b1 with nun-yudh confusion"
+            ]
+        },
+        "words": [
+            {
+                "id": 59955,
+                "uri": "https://sedra.bethmardutho.org/api/word/59955.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

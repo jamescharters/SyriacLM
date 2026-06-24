@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1358,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1358.json"
+        },
+        "syriac": "\u071d\u0718\u0723\u0726",
+        "glosses": {
+            "English": [
+                "Joseph"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 809,
+            "uri": "https://sedra.bethmardutho.org/api/root/809.json"
+        },
+        "words": [
+            {
+                "id": 8979,
+                "uri": "https://sedra.bethmardutho.org/api/word/8979.json"
+            },
+            {
+                "id": 8980,
+                "uri": "https://sedra.bethmardutho.org/api/word/8980.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

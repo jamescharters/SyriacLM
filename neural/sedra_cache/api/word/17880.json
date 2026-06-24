@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0729\u0715\u0721\u071d\u072c",
+        "western": "\u0729\u0730\u0715\u0742\u0721\u0733\u071d\u0730\u072c\u0742",
+        "state": "construct",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2748,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2748.json"
+        },
+        "stem": "\u0729\u0715\u0721\u071d\u072c",
+        "category": "adverb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "first",
+                "at first."
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 17880,
+            "uri": "https://sedra.bethmardutho.org/api/word/17880.json"
+        }
+    }
+]

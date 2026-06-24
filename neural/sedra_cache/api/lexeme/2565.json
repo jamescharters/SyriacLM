@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 2565,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2565.json"
+        },
+        "syriac": "\u0726\u0718\u0729\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0635\u064a\u0629"
+            ],
+            "French": [
+                "testament"
+            ],
+            "English": [
+                "commandment",
+                "precept",
+                "ordinance",
+                "will, testament",
+                "command, instruction",
+                "Gram. imperative."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03cd\u03bd\u03c4\u03b1\u03be\u03b9\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1521,
+            "uri": "https://sedra.bethmardutho.org/api/root/1521.json"
+        },
+        "words": [
+            {
+                "id": 16716,
+                "uri": "https://sedra.bethmardutho.org/api/word/16716.json"
+            },
+            {
+                "id": 16715,
+                "uri": "https://sedra.bethmardutho.org/api/word/16715.json"
+            },
+            {
+                "id": 16714,
+                "uri": "https://sedra.bethmardutho.org/api/word/16714.json"
+            },
+            {
+                "id": 16717,
+                "uri": "https://sedra.bethmardutho.org/api/word/16717.json"
+            },
+            {
+                "id": 16699,
+                "uri": "https://sedra.bethmardutho.org/api/word/16699.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

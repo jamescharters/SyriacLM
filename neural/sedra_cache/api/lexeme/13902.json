@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 13902,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13902.json"
+        },
+        "syriac": "\u0710\u0712\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u064a\u0634\u0629",
+                "\u062c\u0646\u0627\u062d",
+                "\u0639\u0636\u0648"
+            ],
+            "French": [
+                "plume",
+                "aile",
+                "membre"
+            ],
+            "English": [
+                "feather",
+                "<span class=\"selectableFont\">\u0710\u0736\u0712\u072a\u0308\u0736\u0710</span> wings."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 48282,
+                "uri": "https://sedra.bethmardutho.org/api/word/48282.json"
+            },
+            {
+                "id": 31339,
+                "uri": "https://sedra.bethmardutho.org/api/word/31339.json"
+            }
+        ]
+    }
+]

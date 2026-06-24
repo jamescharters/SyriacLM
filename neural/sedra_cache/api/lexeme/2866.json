@@ -1,0 +1,60 @@
+[
+    {
+        "lexeme": {
+            "id": 2866,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2866.json"
+        },
+        "syriac": "\u0729\u0728\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0643\u0647\u0646"
+            ],
+            "French": [
+                "pratiquer la divination"
+            ],
+            "English": [
+                "divine",
+                "Ia to use divination",
+                "IIIa to give omens.",
+                "IIp",
+                "IIa"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1700,
+            "uri": "https://sedra.bethmardutho.org/api/root/1700.json"
+        },
+        "words": [
+            {
+                "id": 28294,
+                "uri": "https://sedra.bethmardutho.org/api/word/28294.json"
+            },
+            {
+                "id": 28293,
+                "uri": "https://sedra.bethmardutho.org/api/word/28293.json"
+            },
+            {
+                "id": 18557,
+                "uri": "https://sedra.bethmardutho.org/api/word/18557.json"
+            },
+            {
+                "id": 28296,
+                "uri": "https://sedra.bethmardutho.org/api/word/28296.json"
+            },
+            {
+                "id": 28295,
+                "uri": "https://sedra.bethmardutho.org/api/word/28295.json"
+            },
+            {
+                "id": 18559,
+                "uri": "https://sedra.bethmardutho.org/api/word/18559.json"
+            },
+            {
+                "id": 18558,
+                "uri": "https://sedra.bethmardutho.org/api/word/18558.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

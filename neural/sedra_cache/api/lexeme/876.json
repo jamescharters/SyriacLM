@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 876,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/876.json"
+        },
+        "syriac": "\u0719\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "arms",
+                "weapons",
+                "armour",
+                "arms",
+                "armor, arms, weapon, trappings."
+            ],
+            "Arabic": [
+                "\u0645\u0634\u0643"
+            ],
+            "French": [
+                "armure"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 558,
+            "uri": "https://sedra.bethmardutho.org/api/root/558.json"
+        },
+        "words": [
+            {
+                "id": 5686,
+                "uri": "https://sedra.bethmardutho.org/api/word/5686.json"
+            },
+            {
+                "id": 5685,
+                "uri": "https://sedra.bethmardutho.org/api/word/5685.json"
+            },
+            {
+                "id": 5684,
+                "uri": "https://sedra.bethmardutho.org/api/word/5684.json"
+            },
+            {
+                "id": 5687,
+                "uri": "https://sedra.bethmardutho.org/api/word/5687.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

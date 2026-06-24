@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 213,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/213.json"
+        },
+        "syriac": "\u0710\u0723\u071b\u0726\u0722\u0710",
+        "glosses": {
+            "English": [
+                "Stephanas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 161,
+            "uri": "https://sedra.bethmardutho.org/api/root/161.json"
+        },
+        "words": [
+            {
+                "id": 1545,
+                "uri": "https://sedra.bethmardutho.org/api/word/1545.json"
+            },
+            {
+                "id": 1546,
+                "uri": "https://sedra.bethmardutho.org/api/word/1546.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

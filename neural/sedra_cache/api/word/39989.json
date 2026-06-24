@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0717\u0715\u0721",
+        "western": "\u0717\u0730\u0715\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15119,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15119.json"
+        },
+        "stem": "\u0717\u0715\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639 \u0639\u0636\u0648\u0627\u064b \u0639\u0636\u0648\u0627\u064b"
+            ],
+            "eng": [
+                "IIa to dismember",
+                "to be formed (inwomb).",
+                "IIp to be dismembered"
+            ],
+            "fre": [
+                "d\u00e9membrer"
+            ]
+        },
+        "word": {
+            "id": 39989,
+            "uri": "https://sedra.bethmardutho.org/api/word/39989.json"
+        }
+    }
+]

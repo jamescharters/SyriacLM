@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0718\u0722\u071a\u071b\u0718\u0726",
+        "western": "\u0718\u0722\u0736\u071a\u071b\u073d\u0718\u0726\u0742",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1016,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1016.json"
+        },
+        "stem": "\u071a\u071b\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u063a\u062a\u0635\u0628, \u0627\u062e\u062a\u0637\u0641",
+                "\u00a0",
+                "\u0633\u0644\u0628",
+                "\u062a\u0639\u062f\u0649"
+            ],
+            "eng": [
+                "Ia to take by force, seize, snatch, violate",
+                "IIa to take by force",
+                "Ip",
+                "seize",
+                "snatch",
+                "Kth. kidnap",
+                "IIp."
+            ],
+            "fre": [
+                "ravir, prendre de force",
+                "transgresser",
+                "d\u00e9pouiller",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 6805,
+            "uri": "https://sedra.bethmardutho.org/api/word/6805.json"
+        }
+    }
+]

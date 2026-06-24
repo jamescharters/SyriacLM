@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072b\u0718\u072b\u071d",
+        "western": "\u072b\u0730\u0718\u072b\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14864,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14864.json"
+        },
+        "stem": "\u072b\u0718\u072b\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to grunt."
+            ]
+        },
+        "word": {
+            "id": 40783,
+            "uri": "https://sedra.bethmardutho.org/api/word/40783.json"
+        }
+    }
+]

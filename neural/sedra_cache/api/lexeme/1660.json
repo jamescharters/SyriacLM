@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 1660,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1660.json"
+        },
+        "syriac": "\u0712\u0720\u071a\u0718\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "seulement"
+            ],
+            "English": [
+                "only",
+                "alone",
+                "alone, only."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 983,
+            "uri": "https://sedra.bethmardutho.org/api/root/983.json"
+        },
+        "words": [
+            {
+                "id": 11014,
+                "uri": "https://sedra.bethmardutho.org/api/word/11014.json"
+            },
+            {
+                "id": 11007,
+                "uri": "https://sedra.bethmardutho.org/api/word/11007.json"
+            },
+            {
+                "id": 11013,
+                "uri": "https://sedra.bethmardutho.org/api/word/11013.json"
+            },
+            {
+                "id": 11012,
+                "uri": "https://sedra.bethmardutho.org/api/word/11012.json"
+            },
+            {
+                "id": 11011,
+                "uri": "https://sedra.bethmardutho.org/api/word/11011.json"
+            },
+            {
+                "id": 11010,
+                "uri": "https://sedra.bethmardutho.org/api/word/11010.json"
+            },
+            {
+                "id": 11009,
+                "uri": "https://sedra.bethmardutho.org/api/word/11009.json"
+            },
+            {
+                "id": 11008,
+                "uri": "https://sedra.bethmardutho.org/api/word/11008.json"
+            }
+        ],
+        "category": "adverb"
+    }
+]

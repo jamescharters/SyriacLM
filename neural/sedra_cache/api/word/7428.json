@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0721\u072c\u071a\u0726\u071b",
+        "western": "\u0721\u0736\u072c\u0742\u071a\u0730\u0726\u0741\u0730\u071b",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1121,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1121.json"
+        },
+        "stem": "\u071a\u0726\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062b, \u062d\u0631\u0636",
+                "\u00a0",
+                "\u0628\u0630\u0644 \u0630\u0627\u062a\u0647"
+            ],
+            "eng": [
+                "IIIa=IIa.",
+                "to be effective",
+                "IIa to urge, encourage, incite",
+                "to be striven for",
+                "IIp to endeavor, take pains, be diligent",
+                "encourage",
+                "incite",
+                "exhort"
+            ],
+            "fre": [
+                "\u00a0",
+                "se d\u00e9penser",
+                "exciter, exhorter"
+            ]
+        },
+        "word": {
+            "id": 7428,
+            "uri": "https://sedra.bethmardutho.org/api/word/7428.json"
+        }
+    }
+]

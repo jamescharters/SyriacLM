@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0722\u071a\u072a\u0718\u071f",
+        "western": "\u0722\u0736\u071a\u072a\u073d\u0718\u071f",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15628,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15628.json"
+        },
+        "stem": "\u071a\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0636\u0637\u0631\u0645",
+                "\u063a\u0644\u0649"
+            ],
+            "eng": [
+                "Ia to burn, singe, scorch",
+                "to be heated, warmed.",
+                "Ip",
+                "IIp to be singed",
+                "IIa to burn up, parch, char"
+            ],
+            "fre": [
+                "br\u00fbler",
+                "bouillir"
+            ]
+        },
+        "word": {
+            "id": 41867,
+            "uri": "https://sedra.bethmardutho.org/api/word/41867.json"
+        }
+    }
+]

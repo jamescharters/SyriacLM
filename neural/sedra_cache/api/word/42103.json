@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u072a\u072b\u0718\u0720",
+        "western": "\u0722\u0736\u072a\u072b\u073d\u0718\u0720",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15842,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15842.json"
+        },
+        "stem": "\u072a\u072b\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to be feeble",
+                "IIIa to give up, to let go.",
+                "Ip to be paralyzed, to be disabled",
+                "to falter",
+                "IIp to grow feeble",
+                "to give way to"
+            ]
+        },
+        "word": {
+            "id": 42103,
+            "uri": "https://sedra.bethmardutho.org/api/word/42103.json"
+        }
+    }
+]

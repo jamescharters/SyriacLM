@@ -1,0 +1,82 @@
+[
+    {
+        "lexeme": {
+            "id": 847,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/847.json"
+        },
+        "syriac": "\u0719\u0715\u071d\u0729\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u062e\u0644\u0627\u0635, \u0628\u0631\u0627\u0631\u0629",
+                "\u0642\u062f\u0627\u0633\u0629",
+                "\u0635\u062f\u0642\u0629",
+                "\u0643\u0631\u0645"
+            ],
+            "French": [
+                "justice, probit\u00e9",
+                "saintet\u00e9",
+                "aum\u00f4ne",
+                "bienfaisance"
+            ],
+            "English": [
+                "righteousness",
+                "justness",
+                "uprightness",
+                "justice, righteousness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 543,
+            "uri": "https://sedra.bethmardutho.org/api/root/543.json"
+        },
+        "words": [
+            {
+                "id": 5521,
+                "uri": "https://sedra.bethmardutho.org/api/word/5521.json"
+            },
+            {
+                "id": 5520,
+                "uri": "https://sedra.bethmardutho.org/api/word/5520.json"
+            },
+            {
+                "id": 5517,
+                "uri": "https://sedra.bethmardutho.org/api/word/5517.json"
+            },
+            {
+                "id": 5516,
+                "uri": "https://sedra.bethmardutho.org/api/word/5516.json"
+            },
+            {
+                "id": 5515,
+                "uri": "https://sedra.bethmardutho.org/api/word/5515.json"
+            },
+            {
+                "id": 5513,
+                "uri": "https://sedra.bethmardutho.org/api/word/5513.json"
+            },
+            {
+                "id": 5512,
+                "uri": "https://sedra.bethmardutho.org/api/word/5512.json"
+            },
+            {
+                "id": 5522,
+                "uri": "https://sedra.bethmardutho.org/api/word/5522.json"
+            },
+            {
+                "id": 5519,
+                "uri": "https://sedra.bethmardutho.org/api/word/5519.json"
+            },
+            {
+                "id": 5518,
+                "uri": "https://sedra.bethmardutho.org/api/word/5518.json"
+            },
+            {
+                "id": 5514,
+                "uri": "https://sedra.bethmardutho.org/api/word/5514.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

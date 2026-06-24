@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1447,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1447.json"
+        },
+        "syriac": "\u0721\u071d\u072c\u072a\u0710",
+        "glosses": {
+            "English": [
+                "excellent",
+                "eminent",
+                "excellent, virtuous."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 858,
+            "uri": "https://sedra.bethmardutho.org/api/root/858.json"
+        },
+        "words": [
+            {
+                "id": 9646,
+                "uri": "https://sedra.bethmardutho.org/api/word/9646.json"
+            },
+            {
+                "id": 9644,
+                "uri": "https://sedra.bethmardutho.org/api/word/9644.json"
+            },
+            {
+                "id": 9643,
+                "uri": "https://sedra.bethmardutho.org/api/word/9643.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

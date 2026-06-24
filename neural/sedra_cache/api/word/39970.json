@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0720\u0729\u0712",
+        "western": "\u0715\u0730\u0720\u0729\u0736\u0712",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14684,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14684.json"
+        },
+        "stem": "\u0715\u0720\u0729\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "",
+                "\u0636\u0627\u062f"
+            ],
+            "eng": [
+                "IVp to be in disagreement, to be opposed.",
+                "IVa to oppose, contradict, be in opposition"
+            ],
+            "fre": [
+                "s&#39;opposer\u2026,",
+                "s&#39;opposer"
+            ]
+        },
+        "word": {
+            "id": 39970,
+            "uri": "https://sedra.bethmardutho.org/api/word/39970.json"
+        }
+    }
+]

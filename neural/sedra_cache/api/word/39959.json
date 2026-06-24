@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071b\u0723",
+        "western": "\u071b\u0733\u0723",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15663,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15663.json"
+        },
+        "stem": "\u071b\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to float.",
+                "Ia to fly, to fly up, on high"
+            ]
+        },
+        "word": {
+            "id": 39959,
+            "uri": "https://sedra.bethmardutho.org/api/word/39959.json"
+        }
+    }
+]

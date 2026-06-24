@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u072a\u072a\u0718\u072c\u0710",
+        "western": "\u0715\u0730\u072a\u0733\u072a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9176,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9176.json"
+        },
+        "stem": "\u0715\u072a\u072a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0646 \u0627\u0644\u0642\u062a\u0627\u0644"
+            ],
+            "eng": [
+                "prowess.",
+                "conflict"
+            ],
+            "fre": [
+                "art de combattre"
+            ]
+        },
+        "word": {
+            "id": 32392,
+            "uri": "https://sedra.bethmardutho.org/api/word/32392.json"
+        }
+    }
+]

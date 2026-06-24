@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 534,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/534.json"
+        },
+        "syriac": "\u0713\u0718\u0719\u0720\u0710",
+        "glosses": {
+            "English": [
+                "flame",
+                "flaming heat",
+                "burning, inflammation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 355,
+            "uri": "https://sedra.bethmardutho.org/api/root/355.json"
+        },
+        "words": [
+            {
+                "id": 3575,
+                "uri": "https://sedra.bethmardutho.org/api/word/3575.json"
+            },
+            {
+                "id": 3574,
+                "uri": "https://sedra.bethmardutho.org/api/word/3574.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p"
+    }
+]

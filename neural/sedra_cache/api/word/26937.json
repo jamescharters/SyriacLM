@@ -1,0 +1,53 @@
+[
+    {
+        "syriac": "\u0721\u0723\u071a\u071d",
+        "western": "\u0721\u0730\u0723\u071a\u0730\u071d",
+        "tense": "passive participle",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2102,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2102.json"
+        },
+        "stem": "\u0723\u071a\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u062a\u062d\u0645",
+                "\u0637\u0627\u0631, \u0631\u0643\u0636",
+                "\u0633\u0628\u062d",
+                "\u062a\u0637\u0647\u0631, \u062a\u0639\u0645\u062f",
+                "\u0633\u0631\u0649"
+            ],
+            "eng": [
+                "& <span class=\"selectableFont\">\u0723\u071a\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u071a\u0736\u0710</span>, Ia to bathe, to wash",
+                "to spread",
+                "IIa to wash, to purify",
+                "swim",
+                "IIIa to wash, to allow to wash.",
+                "wash",
+                "Ip",
+                "to be baptized",
+                "IIp",
+                "to swim, to float"
+            ],
+            "fre": [
+                "se propager",
+                "voler, courir",
+                "nager",
+                "se purifier, \u00eatre baptis\u00e9",
+                "se baigner"
+            ]
+        },
+        "word": {
+            "id": 26937,
+            "uri": "https://sedra.bethmardutho.org/api/word/26937.json"
+        }
+    }
+]

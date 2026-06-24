@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15269,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15269.json"
+        },
+        "syriac": "\u0726\u071a\u0722",
+        "glosses": {
+            "English": [
+                "IIa to ensnare."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2499,
+            "uri": "https://sedra.bethmardutho.org/api/root/2499.json"
+        },
+        "words": [
+            {
+                "id": 40818,
+                "uri": "https://sedra.bethmardutho.org/api/word/40818.json"
+            },
+            {
+                "id": 40679,
+                "uri": "https://sedra.bethmardutho.org/api/word/40679.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

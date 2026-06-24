@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u071a\u0723\u0720",
+        "western": "\u071a\u0723\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15758,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15758.json"
+        },
+        "stem": "\u071a\u0723\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0637\u0645",
+                "\u062d\u0631\u0631",
+                "\u0641\u0635\u0644",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ip.",
+                "to refrain, restrain",
+                "Ia to wean"
+            ],
+            "fre": [
+                "\u00a0",
+                "s\u00e9parer",
+                "lib\u00e9rer",
+                "sevrer"
+            ]
+        },
+        "word": {
+            "id": 40228,
+            "uri": "https://sedra.bethmardutho.org/api/word/40228.json"
+        }
+    }
+]

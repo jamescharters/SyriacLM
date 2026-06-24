@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u072b\u071f\u072a",
+        "western": "\u072b\u071f\u0742\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3198,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3198.json"
+        },
+        "stem": "\u072b\u071f\u072a",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0643\u0631"
+            ],
+            "eng": [
+                "to insult",
+                "to dishonor",
+                "IIa to mar, to disfigure",
+                "Ip, IIp to be disfigured",
+                "to blaspheme.",
+                "make hideous",
+                "Ia to get drunk"
+            ],
+            "fre": [
+                "s&#39;enivrer"
+            ]
+        },
+        "word": {
+            "id": 21004,
+            "uri": "https://sedra.bethmardutho.org/api/word/21004.json"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15024,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15024.json"
+        },
+        "syriac": "\u0715\u0722\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0627\u062c\u0645 \u0645\u0624\u062e\u0631 (\u0627\u0644\u062c\u064a\u0634)",
+                "\u0623\u0628\u0627\u062f"
+            ],
+            "French": [
+                "attaquer les arri\u00e8res ",
+                "an\u00e9antir"
+            ],
+            "English": [
+                "IIa to attack at the rear",
+                "to put in last place."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2503,
+            "uri": "https://sedra.bethmardutho.org/api/root/2503.json"
+        },
+        "words": [
+            {
+                "id": 41079,
+                "uri": "https://sedra.bethmardutho.org/api/word/41079.json"
+            },
+            {
+                "id": 40860,
+                "uri": "https://sedra.bethmardutho.org/api/word/40860.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

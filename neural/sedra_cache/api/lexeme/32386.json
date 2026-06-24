@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 32386,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/32386.json"
+        },
+        "syriac": "\u072b\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "See \u072b\u073a\u0710\u072a\u0733\u0710",
+                "silk"
+            ],
+            "Arabic": [
+                "\u0646\u0633\u064a\u062c \u0645\u0646 \u062d\u0631\u064a\u0631"
+            ],
+            "French": [
+                "\u00e9toffe de soie"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 47094,
+                "uri": "https://sedra.bethmardutho.org/api/word/47094.json"
+            },
+            {
+                "id": 58760,
+                "uri": "https://sedra.bethmardutho.org/api/word/58760.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

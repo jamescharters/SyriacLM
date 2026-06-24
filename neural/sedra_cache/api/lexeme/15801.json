@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15801.json"
+        },
+        "syriac": "\u0722\u072b\u0726",
+        "glosses": {
+            "English": [
+                "IIp.",
+                "Ia to pound, to pulverize",
+                "IIa to smooth, to rub clean",
+                "to clean out"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2689,
+            "uri": "https://sedra.bethmardutho.org/api/root/2689.json"
+        },
+        "words": [
+            {
+                "id": 41899,
+                "uri": "https://sedra.bethmardutho.org/api/word/41899.json"
+            },
+            {
+                "id": 39838,
+                "uri": "https://sedra.bethmardutho.org/api/word/39838.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

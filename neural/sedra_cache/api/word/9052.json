@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u071d\u0720\u071d\u0715\u071d",
+        "western": "\u071d\u073a\u0720\u073a\u071d\u0715\u0742\u0730\u071d",
+        "state": "construct",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3534,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3534.json"
+        },
+        "stem": "\u071d\u0720\u071d\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "son"
+            ]
+        },
+        "word": {
+            "id": 9052,
+            "uri": "https://sedra.bethmardutho.org/api/word/9052.json"
+        }
+    }
+]

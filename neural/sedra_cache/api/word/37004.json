@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0719\u072a\u071d\u0729\u0718\u072c\u0710",
+        "western": "\u0719\u072a\u073a\u071d\u0729\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10606,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10606.json"
+        },
+        "stem": "\u0719\u072a\u071d\u0729\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0628\u062f\u064a\u062f",
+                "\u062a\u0634\u062a\u062a"
+            ],
+            "eng": [
+                "dispersion."
+            ],
+            "fre": [
+                "divagation",
+                "dispersion"
+            ]
+        },
+        "word": {
+            "id": 37004,
+            "uri": "https://sedra.bethmardutho.org/api/word/37004.json"
+        }
+    }
+]

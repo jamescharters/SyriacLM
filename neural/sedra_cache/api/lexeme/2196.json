@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2196,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2196.json"
+        },
+        "syriac": "\u0723\u072a\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u062f\u0644, \u0646\u0633\u062c, \u0634\u0628\u0643",
+                "\u00a0"
+            ],
+            "French": [
+                "tresser, tisser, entrem\u00ealer",
+                "\u00a0"
+            ],
+            "English": [
+                "weave",
+                "Ia to plait, to weave, interweave, to entangle",
+                "IIa to harness, to saddle",
+                "Ip to be firmly knotted",
+                "to be tied in, to be connected",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1314,
+            "uri": "https://sedra.bethmardutho.org/api/root/1314.json"
+        },
+        "words": [
+            {
+                "id": 14573,
+                "uri": "https://sedra.bethmardutho.org/api/word/14573.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

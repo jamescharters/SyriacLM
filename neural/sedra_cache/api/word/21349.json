@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072b\u0721\u0718\u0722\u0710",
+        "western": "\u072b\u0733\u0721\u073d\u0718\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13118,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13118.json"
+        },
+        "stem": "\u072b\u0721\u0718\u0722\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u0639 \u0641\u0644\u0633"
+            ],
+            "eng": [
+                "small coin",
+                "very small coin."
+            ],
+            "fre": [
+                "quart d&#39;as"
+            ]
+        },
+        "word": {
+            "id": 21349,
+            "uri": "https://sedra.bethmardutho.org/api/word/21349.json"
+        }
+    }
+]

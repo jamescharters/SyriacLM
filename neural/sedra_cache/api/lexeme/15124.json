@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15124,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15124.json"
+        },
+        "syriac": "\u0723\u071b\u0726",
+        "glosses": {
+            "English": [
+                "IIa to cut, to puncture",
+                "IIp to be cut, to be scraped."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3020,
+            "uri": "https://sedra.bethmardutho.org/api/root/3020.json"
+        },
+        "words": [
+            {
+                "id": 39875,
+                "uri": "https://sedra.bethmardutho.org/api/word/39875.json"
+            },
+            {
+                "id": 39826,
+                "uri": "https://sedra.bethmardutho.org/api/word/39826.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

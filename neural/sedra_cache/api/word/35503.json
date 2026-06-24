@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u072b\u071f\u071d\u0722\u072c\u0710",
+        "western": "\u072b\u071f\u073a\u071d\u0722\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5857,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5857.json"
+        },
+        "stem": "\u072b\u071f\u071d\u0722\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0636\u0648\u0631 \u0627\u0644\u0644\u0647, \u0645\u062c\u062f \u0627\u0644\u0644\u0647 \u062d\u0627\u0636\u0631",
+                "\u0642\u0628\u0631",
+                "\u062e\u064a\u0645\u0629",
+                "\u0645\u0633\u0643\u0646",
+                "\u062d\u0636\u0648\u0631"
+            ],
+            "eng": [
+                "the Divine Presence.",
+                "reliquary",
+                "habitation",
+                "shrine"
+            ],
+            "fre": [
+                "tente",
+                "tombe",
+                "pr\u00e9sence",
+                "demeure",
+                "pr\u00e9sence divine, gloire divine pr\u00e9sente"
+            ]
+        },
+        "word": {
+            "id": 35503,
+            "uri": "https://sedra.bethmardutho.org/api/word/35503.json"
+        }
+    }
+]

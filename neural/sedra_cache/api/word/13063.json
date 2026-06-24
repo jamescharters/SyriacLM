@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u0726\u071b\u072a\u0710",
+        "western": "\u0722\u0730\u0726\u0742\u071b\u073a\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1994,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1994.json"
+        },
+        "stem": "\u0722\u0726\u071b\u071d\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0646\u062f\u064a\u0644"
+            ],
+            "eng": [
+                "torch, lantern.",
+                "lantern"
+            ],
+            "fre": [
+                "lampe"
+            ]
+        },
+        "word": {
+            "id": 13063,
+            "uri": "https://sedra.bethmardutho.org/api/word/13063.json"
+        }
+    }
+]

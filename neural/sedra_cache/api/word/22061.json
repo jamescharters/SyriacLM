@@ -1,0 +1,87 @@
+[
+    {
+        "syriac": "\u0718\u072b\u072a\u0718",
+        "western": "\u0718\u0730\u072b\u072a\u0730\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3315,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3315.json"
+        },
+        "stem": "\u072b\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0634\u0628\u0639",
+                "\u0641\u062a\u062d",
+                "\u062d\u0644",
+                "\u0633\u0643\u0646",
+                "\u0648\u0642\u0641, \u062a\u0639\u0633\u0643\u0631, \u0627\u0633\u062a\u0631\u0627\u062d",
+                "\u062d\u0644\u0644, \u0630\u0648\u0628",
+                "\u0623\u0628\u0639\u062f, \u0623\u0639\u0627\u062f, \u0637\u0644\u0642 (\u0645\u0636)",
+                "\u062d\u0631\u0631",
+                "\u062d\u0637 \u0627\u0644\u062d\u0645\u0644 \u0639\u0646",
+                "\u062a\u0641\u0631\u0642\u062a (\u062c\u0645\u0627\u0639\u0629)",
+                "\u0646\u0642\u0636, \u062e\u0627\u0644\u0641, \u0623\u0628\u0637\u0644, \u062e\u0631\u0628, \u0623\u0644\u063a\u0649, \u0641\u0633\u062e"
+            ],
+            "eng": [
+                "to repudiate",
+                "to disband, to break up",
+                "to abolish",
+                "to absolve",
+                "to confute",
+                "to reside, to dwell, to camp",
+                "Ia to loosen, unfasten",
+                "IIp to be begun",
+                "to dissolve",
+                "to be paralyzed",
+                "to dine",
+                "to be destroyed",
+                "to be violated (law etc.)",
+                "to weaken",
+                "IIa to begin",
+                "IIIa to call a halt",
+                "to be absolved",
+                "to make to reside",
+                "loosen",
+                "lodge",
+                "begin",
+                "be loosened",
+                "eat a meal",
+                "to instill.",
+                "Ip to be loosed, opened",
+                "to come to an end",
+                "to release, let go",
+                "to be dissolved",
+                "to violate, break (law etc.)",
+                "to weigh anchor",
+                "to be released, dismissed",
+                "to disband"
+            ],
+            "fre": [
+                "d\u00e9lier",
+                "d\u00e9charger",
+                "rompre, violer, mettre un terme \u00e0, d\u00e9truire, abolir, dirimer",
+                "assouvir",
+                "ouvrir",
+                "lib\u00e9rer",
+                "\u00e9loigner, renvoyer, r\u00e9pudier",
+                "s&#39;arr\u00eater, camper, se reposer",
+                "habiter",
+                "se disperser (assembl\u00e9e)",
+                "dissoudre, liqu\u00e9fier"
+            ]
+        },
+        "word": {
+            "id": 22061,
+            "uri": "https://sedra.bethmardutho.org/api/word/22061.json"
+        }
+    }
+]

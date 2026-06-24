@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u0726\u0729\u071a",
+        "western": "\u0715\u0741\u0726\u0742\u0730\u0729\u0733\u071a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2568,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2568.json"
+        },
+        "stem": "\u0726\u0729\u071a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "expedient",
+                "useful, expedient.",
+                "better",
+                "profitable",
+                "be profitable"
+            ]
+        },
+        "word": {
+            "id": 16810,
+            "uri": "https://sedra.bethmardutho.org/api/word/16810.json"
+        }
+    }
+]

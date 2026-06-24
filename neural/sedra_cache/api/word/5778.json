@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0719\u0721\u072a\u0710",
+        "western": "\u0719\u0730\u0721\u0733\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10041,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10041.json"
+        },
+        "stem": "\u0719\u0721\u072a\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "singer.",
+                "singer.",
+                "flute-player",
+                "musician"
+            ]
+        },
+        "word": {
+            "id": 5778,
+            "uri": "https://sedra.bethmardutho.org/api/word/5778.json"
+        }
+    }
+]

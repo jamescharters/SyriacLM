@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0728\u0720",
+        "western": "\u0728\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15578,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15578.json"
+        },
+        "stem": "\u0728\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to tingle, ring",
+                "IIa <span class=\"selectableFont\">\u0728\u0730\u0720\u0736\u0720</span> to strain (a liquid), filter",
+                "to refine",
+                "IIp to be made pure, refined."
+            ]
+        },
+        "word": {
+            "id": 41118,
+            "uri": "https://sedra.bethmardutho.org/api/word/41118.json"
+        }
+    }
+]

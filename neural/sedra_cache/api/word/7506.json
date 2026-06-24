@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071a\u072a\u0710",
+        "western": "\u071a\u072a\u0710",
+        "lexeme": {
+            "id": 1136,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1136.json"
+        },
+        "stem": "\u071a\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "affirm",
+                "contend",
+                "argue",
+                "strive",
+                "hold on to"
+            ]
+        },
+        "word": {
+            "id": 7506,
+            "uri": "https://sedra.bethmardutho.org/api/word/7506.json"
+        }
+    }
+]

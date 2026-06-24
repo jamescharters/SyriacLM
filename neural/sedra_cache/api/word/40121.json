@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0720\u0713\u0721",
+        "western": "\u0720\u0713\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15509,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15509.json"
+        },
+        "stem": "\u0720\u0713\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to chew."
+            ]
+        },
+        "word": {
+            "id": 40121,
+            "uri": "https://sedra.bethmardutho.org/api/word/40121.json"
+        }
+    }
+]

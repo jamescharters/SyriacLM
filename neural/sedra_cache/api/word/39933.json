@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0713\u0715\u0721",
+        "western": "\u0713\u0715\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15364,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15364.json"
+        },
+        "stem": "\u0713\u0715\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0642\u0637\u0639, \u062c\u0632\u0645"
+            ],
+            "eng": [
+                "Ia to hew, cut down",
+                "IIp.",
+                "Ip",
+                "IIa to dash to pieces"
+            ],
+            "fre": [
+                "\u00a0",
+                "couper, abattre en trenchant"
+            ]
+        },
+        "word": {
+            "id": 39933,
+            "uri": "https://sedra.bethmardutho.org/api/word/39933.json"
+        }
+    }
+]

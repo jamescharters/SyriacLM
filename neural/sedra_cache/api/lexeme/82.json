@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 82,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/82.json"
+        },
+        "syriac": "\u0710\u071d\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0623\u0646, \u0643\u0644\u0648"
+            ],
+            "French": [
+                "comme si"
+            ],
+            "English": [
+                "as",
+                "according to",
+                "as, like, according to",
+                "-<span class=\"selectableFont\">\u0710\u0730\u071d\u071f \u0715</span> so that."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 65,
+            "uri": "https://sedra.bethmardutho.org/api/root/65.json"
+        },
+        "words": [
+            {
+                "id": 626,
+                "uri": "https://sedra.bethmardutho.org/api/word/626.json"
+            },
+            {
+                "id": 625,
+                "uri": "https://sedra.bethmardutho.org/api/word/625.json"
+            },
+            {
+                "id": 624,
+                "uri": "https://sedra.bethmardutho.org/api/word/624.json"
+            },
+            {
+                "id": 623,
+                "uri": "https://sedra.bethmardutho.org/api/word/623.json"
+            },
+            {
+                "id": 622,
+                "uri": "https://sedra.bethmardutho.org/api/word/622.json"
+            },
+            {
+                "id": 619,
+                "uri": "https://sedra.bethmardutho.org/api/word/619.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

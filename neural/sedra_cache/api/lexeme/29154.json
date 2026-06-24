@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 29154,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29154.json"
+        },
+        "syriac": "\u0710\u071d\u072a\u0710\u071d\u0722",
+        "glosses": {
+            "Greek": [
+                "\u03b1\u1f34\u03c1\u03b5\u03b9\u03bd"
+            ],
+            "English": [
+                "to take up, raise, lift up"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f34\u03c1\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 49641,
+                "uri": "https://sedra.bethmardutho.org/api/word/49641.json"
+            },
+            {
+                "id": 55528,
+                "uri": "https://sedra.bethmardutho.org/api/word/55528.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

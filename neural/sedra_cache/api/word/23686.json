@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071d\u0729\u0715\u0710",
+        "western": "\u071d\u0733\u0729\u0715\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3499,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3499.json"
+        },
+        "stem": "\u071d\u0729\u0715\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "burning",
+                "fuel, kindling."
+            ]
+        },
+        "word": {
+            "id": 23686,
+            "uri": "https://sedra.bethmardutho.org/api/word/23686.json"
+        }
+    }
+]

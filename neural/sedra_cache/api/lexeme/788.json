@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 788,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/788.json"
+        },
+        "syriac": "\u0717\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0648\u0629",
+                "\u062a\u062e\u0631\u064a\u0628"
+            ],
+            "French": [
+                "ab\u00eeme",
+                "destruction"
+            ],
+            "English": [
+                "gulf",
+                "chasm",
+                "abyss, deep, chasm."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 499,
+            "uri": "https://sedra.bethmardutho.org/api/root/499.json"
+        },
+        "words": [
+            {
+                "id": 5128,
+                "uri": "https://sedra.bethmardutho.org/api/word/5128.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

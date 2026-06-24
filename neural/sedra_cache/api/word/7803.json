@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u0710\u071a\u072b\u0721\u0718",
+        "western": "\u0715\u0741\u0730\u0710\u071a\u072b\u0736\u0721\u0718",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1183,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1183.json"
+        },
+        "stem": "\u071a\u072b\u0721",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "eat supper",
+                "to take food, to eat.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071a\u072b\u0736\u0721</span> to sup, dine"
+            ]
+        },
+        "word": {
+            "id": 7803,
+            "uri": "https://sedra.bethmardutho.org/api/word/7803.json"
+        }
+    }
+]

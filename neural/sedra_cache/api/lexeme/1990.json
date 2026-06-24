@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1990,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1990.json"
+        },
+        "syriac": "\u0722\u0723\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u00a0",
+                "\u0646\u0634\u0631"
+            ],
+            "French": [
+                "\u00a0",
+                "d\u00e9ployer"
+            ],
+            "English": [
+                "saw"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1186,
+            "uri": "https://sedra.bethmardutho.org/api/root/1186.json"
+        },
+        "words": [
+            {
+                "id": 13057,
+                "uri": "https://sedra.bethmardutho.org/api/word/13057.json"
+            },
+            {
+                "id": 13056,
+                "uri": "https://sedra.bethmardutho.org/api/word/13056.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

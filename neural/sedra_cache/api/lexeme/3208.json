@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 3208,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3208.json"
+        },
+        "syriac": "\u072b\u0720\u0717\u0712\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0647\u064a\u0628",
+                "\u062a\u0644\u0623\u0644\u0624",
+                "\u0634\u0641\u0631\u0629"
+            ],
+            "French": [
+                "flamme",
+                "scintillement",
+                "lame"
+            ],
+            "English": [
+                "flame",
+                "flame, blaze",
+                "flash."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1870,
+            "uri": "https://sedra.bethmardutho.org/api/root/1870.json"
+        },
+        "words": [
+            {
+                "id": 21048,
+                "uri": "https://sedra.bethmardutho.org/api/word/21048.json"
+            },
+            {
+                "id": 21049,
+                "uri": "https://sedra.bethmardutho.org/api/word/21049.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "shaph\u02bfel"
+    }
+]

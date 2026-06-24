@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 2554,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2554.json"
+        },
+        "syriac": "\u0726\u0725",
+        "glosses": {
+            "English": [
+                "IIa",
+                "beat",
+                "wound",
+                "Ip",
+                "IIp.",
+                "Ia to beat, to batter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1514,
+            "uri": "https://sedra.bethmardutho.org/api/root/1514.json"
+        },
+        "words": [
+            {
+                "id": 27651,
+                "uri": "https://sedra.bethmardutho.org/api/word/27651.json"
+            },
+            {
+                "id": 27650,
+                "uri": "https://sedra.bethmardutho.org/api/word/27650.json"
+            },
+            {
+                "id": 16662,
+                "uri": "https://sedra.bethmardutho.org/api/word/16662.json"
+            },
+            {
+                "id": 27656,
+                "uri": "https://sedra.bethmardutho.org/api/word/27656.json"
+            },
+            {
+                "id": 27655,
+                "uri": "https://sedra.bethmardutho.org/api/word/27655.json"
+            },
+            {
+                "id": 16665,
+                "uri": "https://sedra.bethmardutho.org/api/word/16665.json"
+            },
+            {
+                "id": 16664,
+                "uri": "https://sedra.bethmardutho.org/api/word/16664.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

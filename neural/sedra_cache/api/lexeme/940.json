@@ -1,0 +1,107 @@
+[
+    {
+        "lexeme": {
+            "id": 940,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/940.json"
+        },
+        "syriac": "\u071a\u0712\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0635\u0631",
+                "\u062f\u0641\u0639, \u062d\u062b",
+                "\u0623\u062c\u0628\u0631",
+                "\u0627\u0632\u062f\u062d\u0645",
+                "\u0627\u0633\u062a\u0639\u062c\u0644, \u062a\u0633\u0627\u0631\u0639",
+                "\u00a0"
+            ],
+            "French": [
+                "presser",
+                "pousser",
+                "forcer",
+                "se presser",
+                "se h\u00e2ter, s&#39;empresser",
+                "\u00a0"
+            ],
+            "English": [
+                "to contract",
+                "crowd together",
+                "throng",
+                "to hasten, be eager",
+                "to be pressed together, compressed",
+                "IIa to press close together.",
+                "to hold back from",
+                "Ip to thrust, press",
+                "Ia to push, crowd together, throng",
+                "to try hard, take pains"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 590,
+            "uri": "https://sedra.bethmardutho.org/api/root/590.json"
+        },
+        "words": [
+            {
+                "id": 24582,
+                "uri": "https://sedra.bethmardutho.org/api/word/24582.json"
+            },
+            {
+                "id": 24581,
+                "uri": "https://sedra.bethmardutho.org/api/word/24581.json"
+            },
+            {
+                "id": 24580,
+                "uri": "https://sedra.bethmardutho.org/api/word/24580.json"
+            },
+            {
+                "id": 24579,
+                "uri": "https://sedra.bethmardutho.org/api/word/24579.json"
+            },
+            {
+                "id": 6134,
+                "uri": "https://sedra.bethmardutho.org/api/word/6134.json"
+            },
+            {
+                "id": 6133,
+                "uri": "https://sedra.bethmardutho.org/api/word/6133.json"
+            },
+            {
+                "id": 24586,
+                "uri": "https://sedra.bethmardutho.org/api/word/24586.json"
+            },
+            {
+                "id": 24585,
+                "uri": "https://sedra.bethmardutho.org/api/word/24585.json"
+            },
+            {
+                "id": 24583,
+                "uri": "https://sedra.bethmardutho.org/api/word/24583.json"
+            },
+            {
+                "id": 24584,
+                "uri": "https://sedra.bethmardutho.org/api/word/24584.json"
+            },
+            {
+                "id": 6451,
+                "uri": "https://sedra.bethmardutho.org/api/word/6451.json"
+            },
+            {
+                "id": 6138,
+                "uri": "https://sedra.bethmardutho.org/api/word/6138.json"
+            },
+            {
+                "id": 6137,
+                "uri": "https://sedra.bethmardutho.org/api/word/6137.json"
+            },
+            {
+                "id": 6135,
+                "uri": "https://sedra.bethmardutho.org/api/word/6135.json"
+            },
+            {
+                "id": 6136,
+                "uri": "https://sedra.bethmardutho.org/api/word/6136.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

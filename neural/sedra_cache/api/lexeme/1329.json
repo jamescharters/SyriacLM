@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1329,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1329.json"
+        },
+        "syriac": "\u071d\u0718\u071a\u0722",
+        "glosses": {
+            "English": [
+                "Joanna"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 783,
+            "uri": "https://sedra.bethmardutho.org/api/root/783.json"
+        },
+        "words": [
+            {
+                "id": 8879,
+                "uri": "https://sedra.bethmardutho.org/api/word/8879.json"
+            },
+            {
+                "id": 8880,
+                "uri": "https://sedra.bethmardutho.org/api/word/8880.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

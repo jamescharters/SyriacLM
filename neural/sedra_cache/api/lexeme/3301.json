@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3301,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3301.json"
+        },
+        "syriac": "\u072b\u0729\u071d\u0726\u0710",
+        "glosses": {
+            "English": [
+                "place",
+                "cliff",
+                "precipitous, headlong",
+                "disfigured",
+                "crag, precipice."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1922,
+            "uri": "https://sedra.bethmardutho.org/api/root/1922.json"
+        },
+        "words": [
+            {
+                "id": 21849,
+                "uri": "https://sedra.bethmardutho.org/api/word/21849.json"
+            },
+            {
+                "id": 21850,
+                "uri": "https://sedra.bethmardutho.org/api/word/21850.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

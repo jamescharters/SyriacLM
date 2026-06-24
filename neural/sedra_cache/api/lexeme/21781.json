@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 21781,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21781.json"
+        },
+        "syriac": "\u0710\u0718\u071f\u0723\u071d\u0722\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u0395\u1f54\u03be\u03b5\u03b9\u03bd\u03bf\u03c2 (\u03a0\u03cc\u03bd\u03c4\u03bf\u03c2)"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u0395\u1f54\u03be\u03b5\u03b9\u03bd\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49743,
+                "uri": "https://sedra.bethmardutho.org/api/word/49743.json"
+            },
+            {
+                "id": 48155,
+                "uri": "https://sedra.bethmardutho.org/api/word/48155.json"
+            }
+        ],
+        "category": "proper noun (place name)"
+    }
+]

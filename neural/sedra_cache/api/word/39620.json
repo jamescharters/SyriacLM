@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0728\u0718\u0720\u071a\u0710",
+        "western": "\u0728\u073d\u0718\u0720\u0733\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10523,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10523.json"
+        },
+        "stem": "\u0728\u0718\u0720\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0642"
+            ],
+            "eng": [
+                "splitting (of wood)",
+                "cleavage."
+            ],
+            "fre": [
+                "action de fendre"
+            ]
+        },
+        "word": {
+            "id": 39620,
+            "uri": "https://sedra.bethmardutho.org/api/word/39620.json"
+        }
+    }
+]

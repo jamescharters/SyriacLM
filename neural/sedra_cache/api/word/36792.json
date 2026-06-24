@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0719\u0713\u0715\u0718\u072c\u0710",
+        "western": "\u0710\u073a\u071d\u0719\u0713\u0730\u0715\u073d\u0718\u072c\u0733\u0710",
+        "eastern": "\u0710\u071d\u073c\u0719\u0713\u0732\u0715\u0718\u072c\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10115,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10115.json"
+        },
+        "stem": "\u0710\u071d\u0719\u0713\u0715\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0639\u062b\u0629"
+            ],
+            "eng": [
+                "embassy, message",
+                "intercession."
+            ],
+            "fre": [
+                "l\u00e9gation"
+            ]
+        },
+        "word": {
+            "id": 36792,
+            "uri": "https://sedra.bethmardutho.org/api/word/36792.json"
+        }
+    }
+]

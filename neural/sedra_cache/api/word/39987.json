@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0721\u071a",
+        "western": "\u0721\u071a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15041,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15041.json"
+        },
+        "stem": "\u0721\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to smell, perceive",
+                "to blow away.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0721\u071a\u0730\u071a</span> to be made dust"
+            ]
+        },
+        "word": {
+            "id": 39987,
+            "uri": "https://sedra.bethmardutho.org/api/word/39987.json"
+        }
+    }
+]

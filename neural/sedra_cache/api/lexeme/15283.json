@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15283,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15283.json"
+        },
+        "syriac": "\u071b\u0717\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0646\u0633 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "faire parent",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp to be related",
+                "IIIa = IIa.",
+                "IIa to bring into relationship, to relate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2478,
+            "uri": "https://sedra.bethmardutho.org/api/root/2478.json"
+        },
+        "words": [
+            {
+                "id": 40558,
+                "uri": "https://sedra.bethmardutho.org/api/word/40558.json"
+            },
+            {
+                "id": 40450,
+                "uri": "https://sedra.bethmardutho.org/api/word/40450.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

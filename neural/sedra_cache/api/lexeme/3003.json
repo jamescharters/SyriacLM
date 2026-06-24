@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 3003,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3003.json"
+        },
+        "syriac": "\u0721\u072a\u071a\u0726\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u062d\u0648\u0645"
+            ],
+            "French": [
+                "mis\u00e9ricordieux"
+            ],
+            "English": [
+                "tender",
+                "compassionate",
+                "kind",
+                "cherishing, compassionate."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1754,
+            "uri": "https://sedra.bethmardutho.org/api/root/1754.json"
+        },
+        "words": [
+            {
+                "id": 19587,
+                "uri": "https://sedra.bethmardutho.org/api/word/19587.json"
+            },
+            {
+                "id": 19589,
+                "uri": "https://sedra.bethmardutho.org/api/word/19589.json"
+            },
+            {
+                "id": 19588,
+                "uri": "https://sedra.bethmardutho.org/api/word/19588.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

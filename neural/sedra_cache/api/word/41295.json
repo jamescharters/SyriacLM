@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0719\u0718\u0713",
+        "western": "\u0719\u0730\u0718\u0736\u0713",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15302,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15302.json"
+        },
+        "stem": "\u0719\u0718\u0713",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0632\u0648\u062c",
+                "\u062c\u0645\u0639"
+            ],
+            "eng": [
+                "IIIa = IIa.",
+                "IIa to join together, marry",
+                "IIp"
+            ],
+            "fre": [
+                "marier",
+                "unir",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 41295,
+            "uri": "https://sedra.bethmardutho.org/api/word/41295.json"
+        }
+    }
+]

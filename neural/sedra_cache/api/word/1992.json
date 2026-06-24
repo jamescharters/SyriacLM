@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u072b\u0718\u0715\u0718",
+        "western": "\u0710\u0730\u072b\u073d\u0718\u0715\u0742\u0718",
+        "tense": "imperative",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 306,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/306.json"
+        },
+        "stem": "\u0710\u072b\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to pour, shed, pour out",
+                "Ip.",
+                "pour out"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 1992,
+            "uri": "https://sedra.bethmardutho.org/api/word/1992.json"
+        }
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0719\u0715\u0729\u0710",
+        "western": "\u0719\u0736\u0715\u0742\u0729\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 850,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/850.json"
+        },
+        "stem": "\u0719\u0715\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0631\u064a\u0639\u0629, \u0623\u0645\u0631",
+                "\u0645\u0627 \u0647\u0648 \u0639\u0627\u062f\u0644, \u0648\u0627\u062c\u0628",
+                "\u0648\u0627\u062c\u0628",
+                "\u062d\u0642",
+                "\u062c\u0632\u064a\u0629"
+            ],
+            "eng": [
+                "propriety",
+                "justice",
+                "rectitude",
+                "due, portion, what is right."
+            ],
+            "fre": [
+                "devoir",
+                "ce qui est juste, d\u00fb",
+                "loi , prescription",
+                "tribut",
+                "droit"
+            ]
+        },
+        "word": {
+            "id": 5561,
+            "uri": "https://sedra.bethmardutho.org/api/word/5561.json"
+        }
+    }
+]

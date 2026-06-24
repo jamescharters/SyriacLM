@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 1000,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1000.json"
+        },
+        "syriac": "\u071a\u0719\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u064a\u0627\u0631\u0629"
+            ],
+            "French": [
+                "visite"
+            ],
+            "English": [
+                "sight",
+                "spectacle",
+                "aspect",
+                "appearance"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 613,
+            "uri": "https://sedra.bethmardutho.org/api/root/613.json"
+        },
+        "words": [
+            {
+                "id": 6703,
+                "uri": "https://sedra.bethmardutho.org/api/word/6703.json"
+            },
+            {
+                "id": 6699,
+                "uri": "https://sedra.bethmardutho.org/api/word/6699.json"
+            },
+            {
+                "id": 3178,
+                "uri": "https://sedra.bethmardutho.org/api/word/3178.json"
+            },
+            {
+                "id": 6702,
+                "uri": "https://sedra.bethmardutho.org/api/word/6702.json"
+            },
+            {
+                "id": 6701,
+                "uri": "https://sedra.bethmardutho.org/api/word/6701.json"
+            },
+            {
+                "id": 6700,
+                "uri": "https://sedra.bethmardutho.org/api/word/6700.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0725\u0712\u0710",
+        "western": "\u0725\u0733\u0712\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2218,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2218.json"
+        },
+        "stem": "\u0725\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0627\u0628\u0629, \u063a\u064a\u0636\u0629"
+            ],
+            "eng": [
+                "wood",
+                "jungle",
+                "forest",
+                "thicket, dense wood.",
+                "thicket"
+            ],
+            "fre": [
+                "for\u00eat, bois"
+            ]
+        },
+        "word": {
+            "id": 14648,
+            "uri": "https://sedra.bethmardutho.org/api/word/14648.json"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0710\u0721\u072a",
+        "western": "\u0710\u0736\u0721\u0730\u072a",
+        "eastern": "\u0710\u0738\u0721\u0732\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 171,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/171.json"
+        },
+        "stem": "\u0710\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to say, speak",
+                "announce",
+                "affirm",
+                "Ip.",
+                "say",
+                "speak"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 1236,
+            "uri": "https://sedra.bethmardutho.org/api/word/1236.json"
+        }
+    }
+]

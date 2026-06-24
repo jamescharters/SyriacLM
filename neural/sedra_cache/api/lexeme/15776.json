@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15776,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15776.json"
+        },
+        "syriac": "\u0715\u0725\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0631\u0642",
+                "\u062a\u0639\u0628"
+            ],
+            "French": [
+                "transpirer",
+                "se fatiguer"
+            ],
+            "English": [
+                "Ia, to perspire, sweat",
+                "IIa."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2949,
+            "uri": "https://sedra.bethmardutho.org/api/root/2949.json"
+        },
+        "words": [
+            {
+                "id": 39978,
+                "uri": "https://sedra.bethmardutho.org/api/word/39978.json"
+            },
+            {
+                "id": 42194,
+                "uri": "https://sedra.bethmardutho.org/api/word/42194.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

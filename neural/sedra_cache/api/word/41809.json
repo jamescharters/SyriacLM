@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0721\u0718\u0715",
+        "western": "\u0722\u0736\u0713\u0721\u073d\u0718\u0715",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15667,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15667.json"
+        },
+        "stem": "\u0713\u0721\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0635\u0631"
+            ],
+            "eng": [
+                "IIIa to dare, persist obstinately, act boldly.",
+                "Ia to press, mangle (clothes)"
+            ],
+            "fre": [
+                "raccourcir"
+            ]
+        },
+        "word": {
+            "id": 41809,
+            "uri": "https://sedra.bethmardutho.org/api/word/41809.json"
+        }
+    }
+]

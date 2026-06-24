@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 319,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/319.json"
+        },
+        "syriac": "\u0710\u072c\u0718\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062a\u0648\u0646"
+            ],
+            "French": [
+                "fournaise"
+            ],
+            "English": [
+                "furnace",
+                "oven, furnace."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 235,
+            "uri": "https://sedra.bethmardutho.org/api/root/235.json"
+        },
+        "words": [
+            {
+                "id": 2168,
+                "uri": "https://sedra.bethmardutho.org/api/word/2168.json"
+            },
+            {
+                "id": 2167,
+                "uri": "https://sedra.bethmardutho.org/api/word/2167.json"
+            },
+            {
+                "id": 2169,
+                "uri": "https://sedra.bethmardutho.org/api/word/2169.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

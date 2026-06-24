@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15511,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15511.json"
+        },
+        "syriac": "\u0722\u0729\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639"
+            ],
+            "French": [
+                "couper"
+            ],
+            "English": [
+                "Ia to cut in pieces."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2143,
+            "uri": "https://sedra.bethmardutho.org/api/root/2143.json"
+        },
+        "words": [
+            {
+                "id": 42085,
+                "uri": "https://sedra.bethmardutho.org/api/word/42085.json"
+            },
+            {
+                "id": 40798,
+                "uri": "https://sedra.bethmardutho.org/api/word/40798.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

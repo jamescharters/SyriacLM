@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1953,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1953.json"
+        },
+        "syriac": "\u0722\u071b\u0718\u072a\u072c\u0710",
+        "glosses": {
+            "English": [
+                "custody",
+                "watching",
+                "observance",
+                "custody",
+                "charge, precept",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0722\u071b\u073d\u0718\u072a\u072c\u0733\u0710</span> prison."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1166,
+            "uri": "https://sedra.bethmardutho.org/api/root/1166.json"
+        },
+        "words": [
+            {
+                "id": 12770,
+                "uri": "https://sedra.bethmardutho.org/api/word/12770.json"
+            },
+            {
+                "id": 12769,
+                "uri": "https://sedra.bethmardutho.org/api/word/12769.json"
+            },
+            {
+                "id": 12772,
+                "uri": "https://sedra.bethmardutho.org/api/word/12772.json"
+            },
+            {
+                "id": 12771,
+                "uri": "https://sedra.bethmardutho.org/api/word/12771.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

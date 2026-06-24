@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1009,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1009.json"
+        },
+        "syriac": "\u0721\u071a\u071b\u0710",
+        "glosses": {
+            "English": [
+                "needle",
+                "needle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 617,
+            "uri": "https://sedra.bethmardutho.org/api/root/617.json"
+        },
+        "words": [
+            {
+                "id": 6729,
+                "uri": "https://sedra.bethmardutho.org/api/word/6729.json"
+            },
+            {
+                "id": 6731,
+                "uri": "https://sedra.bethmardutho.org/api/word/6731.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 18801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18801.json"
+        },
+        "syriac": "\u0713\u0718\u072a\u072a\u0710",
+        "glosses": {
+            "English": [
+                "clamour/shouting/vociferation/rumination/chewing the cud"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 359,
+            "uri": "https://sedra.bethmardutho.org/api/root/359.json"
+        },
+        "words": [
+            {
+                "id": 53016,
+                "uri": "https://sedra.bethmardutho.org/api/word/53016.json"
+            },
+            {
+                "id": 45175,
+                "uri": "https://sedra.bethmardutho.org/api/word/45175.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

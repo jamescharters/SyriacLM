@@ -1,0 +1,64 @@
+[
+    {
+        "syriac": "\u0721\u072c\u071a\u071d\u0722\u0722",
+        "western": "\u0721\u0733\u072c\u0742\u071a\u073a\u071d\u0722\u0730\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1879,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1879.json"
+        },
+        "stem": "\u0721\u072c\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062f",
+                "\u0628\u0636 (\u0627\u0644\u0623\u0648\u062a\u0627\u0631)",
+                "\u0627\u0645\u062a\u062f",
+                "\u062c\u0639\u0644\u0647 \u064a\u063a\u0646\u064a",
+                "\u062f\u0627\u0645",
+                "\u0628\u0633\u0637",
+                "\u0639\u0627\u0634",
+                "\u0642\u062f\u0645(\u0645\u0636)",
+                "\u0623\u0642\u0627\u0645, \u0631\u0641\u0639",
+                "\u0642\u0627\u062f",
+                "\u0623\u0637\u0627\u0644"
+            ],
+            "eng": [
+                "extend",
+                "stretch out",
+                "to reach out, direct",
+                "Ia to extend, stretch, lengthen, prolong",
+                "Ip to be spread out, to be stretched out, to reach, to be prolonged."
+            ],
+            "fre": [
+                "\u00e9tendre",
+                "diriger",
+                "dresser, \u00e9lever",
+                "tendre",
+                "pr\u00e9senter",
+                "pincer ( les cordes)",
+                "faire chanter",
+                "s&#39;\u00e9tendre",
+                "durer",
+                "rendre long",
+                "vivre"
+            ]
+        },
+        "word": {
+            "id": 26388,
+            "uri": "https://sedra.bethmardutho.org/api/word/26388.json"
+        }
+    }
+]

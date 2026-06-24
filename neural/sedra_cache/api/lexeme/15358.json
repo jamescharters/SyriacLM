@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15358,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15358.json"
+        },
+        "syriac": "\u072c\u0721\u0722",
+        "glosses": {
+            "English": [
+                "IIa to divide into eight."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2744,
+            "uri": "https://sedra.bethmardutho.org/api/root/2744.json"
+        },
+        "words": [
+            {
+                "id": 41446,
+                "uri": "https://sedra.bethmardutho.org/api/word/41446.json"
+            },
+            {
+                "id": 41493,
+                "uri": "https://sedra.bethmardutho.org/api/word/41493.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

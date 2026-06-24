@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0712\u072a\u0721",
+        "western": "\u0712\u0741\u072a\u0730\u0721",
+        "lexeme": {
+            "id": 481,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/481.json"
+        },
+        "stem": "\u0712\u072a\u0721",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "yet",
+                "nevertheless",
+                "but"
+            ]
+        },
+        "word": {
+            "id": 3349,
+            "uri": "https://sedra.bethmardutho.org/api/word/3349.json"
+        }
+    }
+]

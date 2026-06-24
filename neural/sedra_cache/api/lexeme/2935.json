@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2935,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2935.json"
+        },
+        "syriac": "\u072a\u0713\u0720\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u064a\u0644",
+                "\u0634\u0639\u0628\u0629 (\u0646\u0647\u0631)"
+            ],
+            "French": [
+                "torrent",
+                "bras (de fleuve)"
+            ],
+            "English": [
+                "brook",
+                "torrent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1728,
+            "uri": "https://sedra.bethmardutho.org/api/root/1728.json"
+        },
+        "words": [
+            {
+                "id": 19141,
+                "uri": "https://sedra.bethmardutho.org/api/word/19141.json"
+            },
+            {
+                "id": 19142,
+                "uri": "https://sedra.bethmardutho.org/api/word/19142.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

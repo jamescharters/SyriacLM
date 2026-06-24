@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u072c\u0718\u0719",
+        "western": "\u0722\u0736\u072c\u073d\u0718\u0719",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15598,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15598.json"
+        },
+        "stem": "\u072c\u0719",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be indignant",
+                "to be enraged.",
+                "to be swollen with pride",
+                "Ia to bubble up, to boil",
+                "to swell up",
+                "IIp to be excited"
+            ]
+        },
+        "word": {
+            "id": 41852,
+            "uri": "https://sedra.bethmardutho.org/api/word/41852.json"
+        }
+    }
+]

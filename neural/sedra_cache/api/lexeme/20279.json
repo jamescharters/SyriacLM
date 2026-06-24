@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 20279,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20279.json"
+        },
+        "syriac": "\u0710\u0713\u0710\u0721\u0718\u0722\u0718\u0722",
+        "glosses": {
+            "Latin": [
+                "Agamemnon"
+            ],
+            "Greek": [
+                "\u1f08\u03b3\u03b1\u03bc\u03ad\u03bc\u03bd\u03c9\u03bd"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f08\u03b3\u03b1\u03bc\u03ad\u03bc\u03bd\u03c9\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 46653,
+                "uri": "https://sedra.bethmardutho.org/api/word/46653.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

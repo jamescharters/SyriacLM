@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 14889,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14889.json"
+        },
+        "syriac": "\u0721\u0723\u071f\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0641\u0642\u0631"
+            ],
+            "French": [
+                "appauvrir"
+            ],
+            "English": [
+                "poor",
+                "IVa to impoverish",
+                "IVp to become poor."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2612,
+            "uri": "https://sedra.bethmardutho.org/api/root/2612.json"
+        },
+        "words": [
+            {
+                "id": 12060,
+                "uri": "https://sedra.bethmardutho.org/api/word/12060.json"
+            },
+            {
+                "id": 12059,
+                "uri": "https://sedra.bethmardutho.org/api/word/12059.json"
+            },
+            {
+                "id": 40465,
+                "uri": "https://sedra.bethmardutho.org/api/word/40465.json"
+            },
+            {
+                "id": 40031,
+                "uri": "https://sedra.bethmardutho.org/api/word/40031.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

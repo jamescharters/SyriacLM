@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u071a\u072c\u0710",
+        "western": "\u072b\u071a\u0733\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7525,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7525.json"
+        },
+        "stem": "\u072b\u071a\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0628\u0637"
+            ],
+            "eng": [
+                "armpit."
+            ],
+            "fre": [
+                "aisselle"
+            ]
+        },
+        "word": {
+            "id": 32449,
+            "uri": "https://sedra.bethmardutho.org/api/word/32449.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0718\u0720\u0710\u0721\u072a\u0710",
+        "western": "\u0718\u0720\u0736\u0710\u0721\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 172,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/172.json"
+        },
+        "stem": "\u0710\u0721\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0645\u0631"
+            ],
+            "eng": [
+                "Aries (sign of zodiac).",
+                "young sheep",
+                "lamb",
+                "lamb"
+            ],
+            "fre": [
+                "ordre"
+            ]
+        },
+        "word": {
+            "id": 1331,
+            "uri": "https://sedra.bethmardutho.org/api/word/1331.json"
+        }
+    }
+]

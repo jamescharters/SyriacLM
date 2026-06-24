@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 3272,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3272.json"
+        },
+        "syriac": "\u072b\u0722\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062c\u0646\u0648\u0646"
+            ],
+            "French": [
+                "fou"
+            ],
+            "English": [
+                "madness",
+                "wildness",
+                "frenzy, infatuation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1907,
+            "uri": "https://sedra.bethmardutho.org/api/root/1907.json"
+        },
+        "words": [
+            {
+                "id": 28686,
+                "uri": "https://sedra.bethmardutho.org/api/word/28686.json"
+            },
+            {
+                "id": 21661,
+                "uri": "https://sedra.bethmardutho.org/api/word/21661.json"
+            },
+            {
+                "id": 21660,
+                "uri": "https://sedra.bethmardutho.org/api/word/21660.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1834,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1834.json"
+        },
+        "syriac": "\u0721\u0718\u072a\u0710",
+        "glosses": {
+            "English": [
+                "myrrh",
+                "degree (of circle)",
+                "myrrh."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1099,
+            "uri": "https://sedra.bethmardutho.org/api/root/1099.json"
+        },
+        "words": [
+            {
+                "id": 12139,
+                "uri": "https://sedra.bethmardutho.org/api/word/12139.json"
+            },
+            {
+                "id": 12138,
+                "uri": "https://sedra.bethmardutho.org/api/word/12138.json"
+            },
+            {
+                "id": 12140,
+                "uri": "https://sedra.bethmardutho.org/api/word/12140.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 52,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/52.json"
+        },
+        "syriac": "\u0710\u0718\u0728\u072a\u0710",
+        "glosses": {
+            "English": [
+                "store-house",
+                "barn",
+                "repository",
+                "storehouse, granary."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 42,
+            "uri": "https://sedra.bethmardutho.org/api/root/42.json"
+        },
+        "words": [
+            {
+                "id": 22931,
+                "uri": "https://sedra.bethmardutho.org/api/word/22931.json"
+            },
+            {
+                "id": 291,
+                "uri": "https://sedra.bethmardutho.org/api/word/291.json"
+            },
+            {
+                "id": 48931,
+                "uri": "https://sedra.bethmardutho.org/api/word/48931.json"
+            },
+            {
+                "id": 287,
+                "uri": "https://sedra.bethmardutho.org/api/word/287.json"
+            },
+            {
+                "id": 290,
+                "uri": "https://sedra.bethmardutho.org/api/word/290.json"
+            },
+            {
+                "id": 289,
+                "uri": "https://sedra.bethmardutho.org/api/word/289.json"
+            },
+            {
+                "id": 288,
+                "uri": "https://sedra.bethmardutho.org/api/word/288.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "lexeme": {
+            "id": 1305,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1305.json"
+        },
+        "syriac": "\u071d\u0715\u0725\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0644\u0645, \u0645\u0639\u0631\u0641\u0629"
+            ],
+            "French": [
+                "science, connaissance"
+            ],
+            "English": [
+                "indication",
+                "knowledge",
+                "intelligence",
+                "prognosis.",
+                "understanding, apprehension",
+                "knowledge",
+                "<span class=\"selectableFont\">\u0721\u0729\u0730\u0715\u0721\u073d\u0718\u072c \u071d\u073a\u0715\u0730\u0725\u072c\u0733\u0710</span> foreknowledge"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 768,
+            "uri": "https://sedra.bethmardutho.org/api/root/768.json"
+        },
+        "words": [
+            {
+                "id": 8695,
+                "uri": "https://sedra.bethmardutho.org/api/word/8695.json"
+            },
+            {
+                "id": 8691,
+                "uri": "https://sedra.bethmardutho.org/api/word/8691.json"
+            },
+            {
+                "id": 8690,
+                "uri": "https://sedra.bethmardutho.org/api/word/8690.json"
+            },
+            {
+                "id": 8689,
+                "uri": "https://sedra.bethmardutho.org/api/word/8689.json"
+            },
+            {
+                "id": 8687,
+                "uri": "https://sedra.bethmardutho.org/api/word/8687.json"
+            },
+            {
+                "id": 8683,
+                "uri": "https://sedra.bethmardutho.org/api/word/8683.json"
+            },
+            {
+                "id": 8692,
+                "uri": "https://sedra.bethmardutho.org/api/word/8692.json"
+            },
+            {
+                "id": 8686,
+                "uri": "https://sedra.bethmardutho.org/api/word/8686.json"
+            },
+            {
+                "id": 8688,
+                "uri": "https://sedra.bethmardutho.org/api/word/8688.json"
+            },
+            {
+                "id": 8685,
+                "uri": "https://sedra.bethmardutho.org/api/word/8685.json"
+            },
+            {
+                "id": 8684,
+                "uri": "https://sedra.bethmardutho.org/api/word/8684.json"
+            },
+            {
+                "id": 8694,
+                "uri": "https://sedra.bethmardutho.org/api/word/8694.json"
+            },
+            {
+                "id": 8693,
+                "uri": "https://sedra.bethmardutho.org/api/word/8693.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

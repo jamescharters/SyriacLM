@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u071b\u0718\u0721\u071d\u0710",
+        "western": "\u0710\u0730\u071b\u073d\u0718\u0721\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11047,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11047.json"
+        },
+        "stem": "\u0710\u071b\u0718\u0721\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "individual.",
+                "f or belonging to a person, personal"
+            ],
+            "grc": [
+                "\u1f00\u03c4\u03bf\u03bc\u03b9\u03ba\u03cc\u03c2 (from medieval Greek)"
+            ],
+            "lat": [
+                "individuus, personalis"
+            ]
+        },
+        "word": {
+            "id": 36422,
+            "uri": "https://sedra.bethmardutho.org/api/word/36422.json"
+        }
+    }
+]

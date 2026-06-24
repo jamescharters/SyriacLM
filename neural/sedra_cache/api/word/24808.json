@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u071a\u071f\u071d\u0721",
+        "western": "\u071a\u071f\u0742\u073a\u071d\u0721",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1029,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1029.json"
+        },
+        "stem": "\u071a\u071f\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0631\u0641, \u0639\u0644\u0645",
+                "\u062d\u0643\u0645, \u0639\u0642\u0644",
+                "\u0642\u062f\u0631"
+            ],
+            "eng": [
+                "to be cunning, act with guile.",
+                "give wisdom",
+                "know",
+                "to have sexual intercourse",
+                "IIp to act wisely, to become wise",
+                "IIa to make wise, instruct",
+                "Ia to know, discern",
+                "Ip"
+            ],
+            "fre": [
+                "\u00eatre sage",
+                "conna\u00eetre, savoir",
+                "pouvoir"
+            ]
+        },
+        "word": {
+            "id": 24808,
+            "uri": "https://sedra.bethmardutho.org/api/word/24808.json"
+        }
+    }
+]

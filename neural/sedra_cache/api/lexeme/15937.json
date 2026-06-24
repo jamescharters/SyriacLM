@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15937,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15937.json"
+        },
+        "syriac": "\u0726\u072b\u071a",
+        "glosses": {
+            "English": [
+                "to diminish",
+                "IIp.",
+                "IIa to cut in pieces, to cut off, to tear asunder",
+                "Ip",
+                "to detach",
+                "to cut down",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0726\u072b\u073d\u0718\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0726\u072b\u0730\u071a</span>, Ia to tear, to rend"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2283,
+            "uri": "https://sedra.bethmardutho.org/api/root/2283.json"
+        },
+        "words": [
+            {
+                "id": 42147,
+                "uri": "https://sedra.bethmardutho.org/api/word/42147.json"
+            },
+            {
+                "id": 39961,
+                "uri": "https://sedra.bethmardutho.org/api/word/39961.json"
+            },
+            {
+                "id": 42193,
+                "uri": "https://sedra.bethmardutho.org/api/word/42193.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

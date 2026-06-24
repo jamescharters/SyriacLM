@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14943,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14943.json"
+        },
+        "syriac": "\u0713\u072a\u0715\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0642\u0635, \u0632\u0627\u0644",
+                "\u062d\u0631\u0645 (\u0645\u062c)"
+            ],
+            "French": [
+                "manquer , cesser",
+                "\u00eatre priv\u00e9"
+            ],
+            "English": [
+                "IVa to be wanting, lacking",
+                "IVp to fail, grow weak, be deprived of."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2072,
+            "uri": "https://sedra.bethmardutho.org/api/root/2072.json"
+        },
+        "words": [
+            {
+                "id": 40970,
+                "uri": "https://sedra.bethmardutho.org/api/word/40970.json"
+            },
+            {
+                "id": 41120,
+                "uri": "https://sedra.bethmardutho.org/api/word/41120.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

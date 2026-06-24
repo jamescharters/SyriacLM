@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072a\u0725\u0715\u0710",
+        "western": "\u072a\u0730\u0725\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12176,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12176.json"
+        },
+        "stem": "\u072a\u0725\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0631\u064a, \u0644\u064a\u0646",
+                "\u0636\u0639\u064a\u0641"
+            ],
+            "eng": [
+                "tender",
+                "feeble, weak."
+            ],
+            "fre": [
+                "faible",
+                "tender , mou"
+            ]
+        },
+        "word": {
+            "id": 32629,
+            "uri": "https://sedra.bethmardutho.org/api/word/32629.json"
+        }
+    }
+]

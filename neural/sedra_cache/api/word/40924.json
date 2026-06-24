@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0722\u071f\u072b",
+        "western": "\u0722\u071f\u072b",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15261,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15261.json"
+        },
+        "stem": "\u0722\u071f\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u0736\u072b</span> to strike, injure."
+            ]
+        },
+        "word": {
+            "id": 40924,
+            "uri": "https://sedra.bethmardutho.org/api/word/40924.json"
+        }
+    }
+]

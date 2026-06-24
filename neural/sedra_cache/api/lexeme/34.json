@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 34,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/34.json"
+        },
+        "syriac": "\u0710\u0715\u072a\u0710",
+        "glosses": {
+            "English": [
+                "threshing-floor",
+                "threshing floor."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 27,
+            "uri": "https://sedra.bethmardutho.org/api/root/27.json"
+        },
+        "words": [
+            {
+                "id": 247,
+                "uri": "https://sedra.bethmardutho.org/api/word/247.json"
+            },
+            {
+                "id": 248,
+                "uri": "https://sedra.bethmardutho.org/api/word/248.json"
+            },
+            {
+                "id": 246,
+                "uri": "https://sedra.bethmardutho.org/api/word/246.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

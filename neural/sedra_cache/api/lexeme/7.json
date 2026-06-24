@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 7,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7.json"
+        },
+        "syriac": "\u0710\u0712\u071d\u0715\u0710",
+        "glosses": {
+            "English": [
+                "perished",
+                "lost",
+                "lost, gone astray."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 4,
+            "uri": "https://sedra.bethmardutho.org/api/root/4.json"
+        },
+        "words": [
+            {
+                "id": 130,
+                "uri": "https://sedra.bethmardutho.org/api/word/130.json"
+            },
+            {
+                "id": 48231,
+                "uri": "https://sedra.bethmardutho.org/api/word/48231.json"
+            },
+            {
+                "id": 128,
+                "uri": "https://sedra.bethmardutho.org/api/word/128.json"
+            },
+            {
+                "id": 127,
+                "uri": "https://sedra.bethmardutho.org/api/word/127.json"
+            },
+            {
+                "id": 125,
+                "uri": "https://sedra.bethmardutho.org/api/word/125.json"
+            },
+            {
+                "id": 129,
+                "uri": "https://sedra.bethmardutho.org/api/word/129.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

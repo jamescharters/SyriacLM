@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071a\u0715\u071d\u071d\u0722",
+        "western": "\u071a\u0715\u0742\u0733\u071d\u0736\u071d\u0722",
+        "tense": "imperative",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 956,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/956.json"
+        },
+        "stem": "\u071a\u0715\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "rejoice",
+                "IIp.",
+                "Ia to be glad, rejoice",
+                "IIa, IIIa to gladden",
+                "gladden",
+                "be glad"
+            ]
+        },
+        "word": {
+            "id": 6260,
+            "uri": "https://sedra.bethmardutho.org/api/word/6260.json"
+        }
+    }
+]

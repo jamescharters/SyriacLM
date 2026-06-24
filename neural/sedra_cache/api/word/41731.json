@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0722\u072a\u0723\u0721",
+        "western": "\u0722\u0736\u072a\u0723\u0730\u0721",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15514,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15514.json"
+        },
+        "stem": "\u072a\u0723\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0643\u0628",
+                "\u0642\u0637\u0631 (\u0645\u0636)",
+                "\u0642\u0637\u0631",
+                "\u0633\u0627\u0644"
+            ],
+            "eng": [
+                "IIIa.",
+                "Ia to flow gently",
+                "to drip",
+                "to pour",
+                "Ip"
+            ],
+            "fre": [
+                "distiller",
+                "d\u00e9goutter",
+                "couler",
+                "verser"
+            ]
+        },
+        "word": {
+            "id": 41731,
+            "uri": "https://sedra.bethmardutho.org/api/word/41731.json"
+        }
+    }
+]

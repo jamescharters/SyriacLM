@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0713\u0722\u0710",
+        "western": "\u0713\u0730\u0722\u0308\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 612,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/612.json"
+        },
+        "stem": "\u0713\u0722\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0633\u062a\u0627\u0646"
+            ],
+            "eng": [
+                "garden",
+                "garden."
+            ],
+            "fre": [
+                "jardin"
+            ]
+        },
+        "word": {
+            "id": 42293,
+            "uri": "https://sedra.bethmardutho.org/api/word/42293.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u071f\u072c\u0722\u0718\u072c\u0710",
+        "western": "\u0710\u0730\u071f\u072c\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "eastern": "\u0710\u071f\u072c\u0735\u0722\u0718\u072c\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6611,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6611.json"
+        },
+        "stem": "\u0710\u071f\u072c\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0631\u0639\u0629 \u0627\u0644\u063a\u0636\u0628"
+            ],
+            "eng": [
+                "ill-will, malice."
+            ],
+            "fre": [
+                "irascibilit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 35877,
+            "uri": "https://sedra.bethmardutho.org/api/word/35877.json"
+        }
+    }
+]

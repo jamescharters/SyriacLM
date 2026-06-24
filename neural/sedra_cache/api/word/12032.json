@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0721\u0722\u072c\u0710",
+        "western": "\u0721\u0722\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1805,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1805.json"
+        },
+        "stem": "\u0721\u0722\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0632\u0621, \u0633\u0647\u0645",
+                "\u0646\u0635\u064a\u0628",
+                "\u062f\u0631\u062c\u0629"
+            ],
+            "eng": [
+                "part",
+                "relic",
+                "portion",
+                "part, portion, lot",
+                "<span class=\"selectableFont\">\u0721\u0722\u0730\u0718\u0308\u0733\u072c\u0733\u0710 \u0721\u0726\u0730\u0723\u0308</span><span class=\"selectableFont\">\u0729\u0733\u072c\u0733\u0710</span> fragments."
+            ],
+            "fre": [
+                "sort",
+                "degr\u00e9",
+                "partie, part"
+            ]
+        },
+        "word": {
+            "id": 12032,
+            "uri": "https://sedra.bethmardutho.org/api/word/12032.json"
+        }
+    }
+]

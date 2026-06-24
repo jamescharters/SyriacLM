@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0728\u072a\u072a\u0710",
+        "western": "\u0728\u072a\u0733\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8449,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8449.json"
+        },
+        "stem": "\u0728\u072a\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u0627\u0637",
+                "\u0635\u0631\u0629, \u062c\u0631\u0627\u0628"
+            ],
+            "eng": [
+                "bundle, purse, knot."
+            ],
+            "fre": [
+                "lien",
+                "bourse, sac"
+            ]
+        },
+        "word": {
+            "id": 35074,
+            "uri": "https://sedra.bethmardutho.org/api/word/35074.json"
+        }
+    }
+]

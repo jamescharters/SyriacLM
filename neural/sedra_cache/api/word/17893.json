@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0729\u0715\u072b\u0710",
+        "western": "\u0721\u0730\u0729\u0715\u0741\u072b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2755,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2755.json"
+        },
+        "stem": "\u0721\u0729\u0715\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0642\u062f\u0633"
+            ],
+            "eng": [
+                "sanctuary.",
+                "holy place",
+                "sanctuary"
+            ],
+            "fre": [
+                "sanctuaire"
+            ]
+        },
+        "word": {
+            "id": 17893,
+            "uri": "https://sedra.bethmardutho.org/api/word/17893.json"
+        }
+    }
+]

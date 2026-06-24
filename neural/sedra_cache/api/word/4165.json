@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0715\u0710",
+        "western": "\u0715\u0741\u0733\u0715\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 657,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/657.json"
+        },
+        "stem": "\u0715\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645",
+                "\u062d\u0628\u064a\u0628"
+            ],
+            "eng": [
+                "beloved.",
+                "paternal uncle",
+                "paternal uncle",
+                "cousin"
+            ],
+            "fre": [
+                "bien-aim\u00e9",
+                "oncle paternal"
+            ]
+        },
+        "word": {
+            "id": 4165,
+            "uri": "https://sedra.bethmardutho.org/api/word/4165.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15848,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15848.json"
+        },
+        "syriac": "\u0729\u072a\u0723",
+        "glosses": {
+            "English": [
+                "Ia to become dried up, rough, hard",
+                "to solidify",
+                "IIa to harden",
+                "IIp to join battle (cf. <span class=\"selectableFont\">\u0729\u073a\u0710\u072a\u0723\u0733\u0710</span>)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2917,
+            "uri": "https://sedra.bethmardutho.org/api/root/2917.json"
+        },
+        "words": [
+            {
+                "id": 41589,
+                "uri": "https://sedra.bethmardutho.org/api/word/41589.json"
+            },
+            {
+                "id": 41105,
+                "uri": "https://sedra.bethmardutho.org/api/word/41105.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

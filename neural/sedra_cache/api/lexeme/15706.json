@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15706,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15706.json"
+        },
+        "syriac": "\u0719\u072a\u0726",
+        "glosses": {
+            "English": [
+                "Ia to sprinkle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2253,
+            "uri": "https://sedra.bethmardutho.org/api/root/2253.json"
+        },
+        "words": [
+            {
+                "id": 41641,
+                "uri": "https://sedra.bethmardutho.org/api/word/41641.json"
+            },
+            {
+                "id": 40014,
+                "uri": "https://sedra.bethmardutho.org/api/word/40014.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

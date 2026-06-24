@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0712\u0722\u0710",
+        "western": "\u0710\u0730\u072a\u0712\u0733\u0722\u0733\u0710",
+        "eastern": "\u0710\u0732\u072a\u0712\u0735\u0722\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5372,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5372.json"
+        },
+        "stem": "\u0710\u072a\u0712\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0631\u062f\u064a"
+            ],
+            "eng": [
+                "papyrus."
+            ],
+            "fre": [
+                "papyrus"
+            ]
+        },
+        "word": {
+            "id": 36171,
+            "uri": "https://sedra.bethmardutho.org/api/word/36171.json"
+        }
+    }
+]

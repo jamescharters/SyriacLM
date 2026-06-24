@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 15805,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15805.json"
+        },
+        "syriac": "\u0723\u0710\u0712",
+        "glosses": {
+            "English": [
+                "Ia to grow old, to be old",
+                "old",
+                "IIIa to come to old age."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2556,
+            "uri": "https://sedra.bethmardutho.org/api/root/2556.json"
+        },
+        "words": [
+            {
+                "id": 13450,
+                "uri": "https://sedra.bethmardutho.org/api/word/13450.json"
+            },
+            {
+                "id": 13447,
+                "uri": "https://sedra.bethmardutho.org/api/word/13447.json"
+            },
+            {
+                "id": 13449,
+                "uri": "https://sedra.bethmardutho.org/api/word/13449.json"
+            },
+            {
+                "id": 13448,
+                "uri": "https://sedra.bethmardutho.org/api/word/13448.json"
+            },
+            {
+                "id": 41835,
+                "uri": "https://sedra.bethmardutho.org/api/word/41835.json"
+            },
+            {
+                "id": 40976,
+                "uri": "https://sedra.bethmardutho.org/api/word/40976.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 1071,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1071.json"
+        },
+        "syriac": "\u071a\u0721\u0728",
+        "glosses": {
+            "English": [
+                "shame",
+                "IIIa to turn something sour",
+                "IIa to make ashamed",
+                "IIp to be ashamed, confused",
+                "to make ashamed.",
+                "Ia to turn sour"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 645,
+            "uri": "https://sedra.bethmardutho.org/api/root/645.json"
+        },
+        "words": [
+            {
+                "id": 7205,
+                "uri": "https://sedra.bethmardutho.org/api/word/7205.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

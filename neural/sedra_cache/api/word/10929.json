@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0718\u0720\u0718\u071a\u0710",
+        "western": "\u0718\u0720\u073d\u0718\u071a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1640,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1640.json"
+        },
+        "stem": "\u0720\u0718\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0627\u0648\u0644\u0629"
+            ],
+            "eng": [
+                "tablet",
+                "title",
+                "Kth. black-board, white-board (for writing).",
+                "writing-tablet",
+                "table",
+                "table",
+                "tablet"
+            ],
+            "fre": [
+                "table"
+            ]
+        },
+        "word": {
+            "id": 10929,
+            "uri": "https://sedra.bethmardutho.org/api/word/10929.json"
+        }
+    }
+]

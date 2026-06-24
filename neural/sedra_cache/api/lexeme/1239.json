@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1239,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1239.json"
+        },
+        "syriac": "\u071b\u0720\u0720\u0710",
+        "glosses": {
+            "English": [
+                "shadow",
+                "shade",
+                "reflection.",
+                "shade, shadow",
+                "protection"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 733,
+            "uri": "https://sedra.bethmardutho.org/api/root/733.json"
+        },
+        "words": [
+            {
+                "id": 8111,
+                "uri": "https://sedra.bethmardutho.org/api/word/8111.json"
+            },
+            {
+                "id": 23935,
+                "uri": "https://sedra.bethmardutho.org/api/word/23935.json"
+            },
+            {
+                "id": 8113,
+                "uri": "https://sedra.bethmardutho.org/api/word/8113.json"
+            },
+            {
+                "id": 8112,
+                "uri": "https://sedra.bethmardutho.org/api/word/8112.json"
+            },
+            {
+                "id": 8110,
+                "uri": "https://sedra.bethmardutho.org/api/word/8110.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

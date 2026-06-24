@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1711,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1711.json"
+        },
+        "syriac": "\u0721\u0715\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Mede"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1021,
+            "uri": "https://sedra.bethmardutho.org/api/root/1021.json"
+        },
+        "words": [
+            {
+                "id": 11231,
+                "uri": "https://sedra.bethmardutho.org/api/word/11231.json"
+            },
+            {
+                "id": 11233,
+                "uri": "https://sedra.bethmardutho.org/api/word/11233.json"
+            },
+            {
+                "id": 11232,
+                "uri": "https://sedra.bethmardutho.org/api/word/11232.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

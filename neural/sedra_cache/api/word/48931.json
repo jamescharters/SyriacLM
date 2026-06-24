@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0728\u072a\u0710",
+        "western": "\u0710\u0733\u0718\u0728\u072a\u0308\u0736\u0710",
+        "eastern": "\u0710\u0735\u0718\u0728\u072a\u0308\u0710",
+        "lexeme": {
+            "id": 52,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/52.json"
+        },
+        "stem": "\u0710\u0718\u0728\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "barn",
+                "storehouse, granary.",
+                "repository",
+                "store-house"
+            ]
+        },
+        "word": {
+            "id": 48931,
+            "uri": "https://sedra.bethmardutho.org/api/word/48931.json"
+        }
+    }
+]

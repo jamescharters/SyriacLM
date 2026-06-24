@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 773,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/773.json"
+        },
+        "syriac": "\u0717\u0713\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u062f\u0645"
+            ],
+            "French": [
+                "renverser"
+            ],
+            "English": [
+                "Ip",
+                "destroy",
+                "Ia to destroy, overthrow",
+                "IIa to ruin utterly",
+                "to gather force.",
+                "IIp to be utterly destroyed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 486,
+            "uri": "https://sedra.bethmardutho.org/api/root/486.json"
+        },
+        "words": [
+            {
+                "id": 4919,
+                "uri": "https://sedra.bethmardutho.org/api/word/4919.json"
+            },
+            {
+                "id": 4920,
+                "uri": "https://sedra.bethmardutho.org/api/word/4920.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

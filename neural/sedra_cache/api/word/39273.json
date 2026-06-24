@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0728\u0718\u072c\u0710",
+        "western": "\u0728\u0730\u0718\u072c\u0741\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8114,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8114.json"
+        },
+        "stem": "\u0728\u0718\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0635\u062a, \u0633\u0645\u0639",
+                "\u0631\u0641\u064a\u0642",
+                "\u0623\u0646\u0633, \u0645\u0639\u0627\u0634\u0631\u0629",
+                "\u0635\u0648\u062a"
+            ],
+            "eng": [
+                "conversation, companionship, society.",
+                "sound of voice.",
+                "sound",
+                "attention, heed",
+                "voice"
+            ],
+            "fre": [
+                "voix, son",
+                "audition",
+                "compagnie, fr\u00e9quentation",
+                "compagnon"
+            ]
+        },
+        "word": {
+            "id": 39273,
+            "uri": "https://sedra.bethmardutho.org/api/word/39273.json"
+        }
+    }
+]

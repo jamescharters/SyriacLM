@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0720\u0725",
+        "western": "\u0720\u0733\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15759,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15759.json"
+        },
+        "stem": "\u0720\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to lick up, lap."
+            ]
+        },
+        "word": {
+            "id": 41466,
+            "uri": "https://sedra.bethmardutho.org/api/word/41466.json"
+        }
+    }
+]

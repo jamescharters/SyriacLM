@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0722\u0721\u072c\u0720",
+        "western": "\u0722\u0730\u0721\u072c\u0741\u0736\u0720",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "plural",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 1883,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1883.json"
+        },
+        "stem": "\u0721\u072c\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "",
+                "\u0634\u0628\u0647 (\u0645\u0636)",
+                "\u0627\u0633\u062a\u0639\u0645\u0644 \u0645\u062b\u0644\u0627\u064b",
+                "\u0645\u062b\u0644 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to use a simile.",
+                "Ip",
+                "Ia to speak in parables, figuratively, compare",
+                "IIa to liken, compare, express in parables",
+                "IIp to be represented as, to be likened to",
+                "IIIa to use parables, proverbs, fables",
+                "use parables"
+            ],
+            "fre": [
+                "symboliser",
+                "user de parabole",
+                "",
+                "comparer"
+            ]
+        },
+        "word": {
+            "id": 12364,
+            "uri": "https://sedra.bethmardutho.org/api/word/12364.json"
+        }
+    }
+]

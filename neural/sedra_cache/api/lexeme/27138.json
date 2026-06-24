@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 27138,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27138.json"
+        },
+        "syriac": "\u0710\u0718\u0723\u071d\u072a\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f44\u03c3\u03c5\u03c1\u03b9\u03c2",
+                "\u1f4c\u03c3\u03b9\u03c1\u03b9\u03c2"
+            ],
+            "Latin": [
+                "osyris"
+            ],
+            "English": [
+                "a plant, prob. the broom-like goose-foot or summer cypress",
+                "Osiris"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f4c\u03c3\u03b9\u03c1\u03b9\u03c2"
+            ],
+            "Latin": [
+                "osyris"
+            ]
+        },
+        "words": [
+            {
+                "id": 53513,
+                "uri": "https://sedra.bethmardutho.org/api/word/53513.json"
+            },
+            {
+                "id": 53512,
+                "uri": "https://sedra.bethmardutho.org/api/word/53512.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

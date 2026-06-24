@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u072a\u0718\u0720\u0710",
+        "western": "\u071f\u072a\u073d\u0718\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5094,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5094.json"
+        },
+        "stem": "\u071f\u072a\u0718\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0644\u0627\u0628"
+            ],
+            "eng": [
+                "hook."
+            ],
+            "fre": [
+                "crochet"
+            ]
+        },
+        "word": {
+            "id": 33100,
+            "uri": "https://sedra.bethmardutho.org/api/word/33100.json"
+        }
+    }
+]

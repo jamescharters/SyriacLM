@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 1407,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1407.json"
+        },
+        "syriac": "\u071d\u0728\u071d\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0647\u062a\u0645, \u0645\u062c\u062a\u0647\u062f"
+            ],
+            "French": [
+                "pr\u00e9occup\u00e9, diligent"
+            ],
+            "English": [
+                "cared for, studied, sought out.",
+                "careful",
+                "diligent",
+                "solicitous, careful, anxious"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 841,
+            "uri": "https://sedra.bethmardutho.org/api/root/841.json"
+        },
+        "words": [
+            {
+                "id": 9322,
+                "uri": "https://sedra.bethmardutho.org/api/word/9322.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

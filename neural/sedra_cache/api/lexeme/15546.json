@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15546,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15546.json"
+        },
+        "syriac": "\u0712\u071a\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0632",
+                "\u0628\u0644\u0628\u0644",
+                "\u062d\u062b"
+            ],
+            "French": [
+                "agiter",
+                "troubler",
+                "exciter"
+            ],
+            "English": [
+                "Ia to shake, disturb",
+                "IIa, IIIa to agitate, stir."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2340,
+            "uri": "https://sedra.bethmardutho.org/api/root/2340.json"
+        },
+        "words": [
+            {
+                "id": 41919,
+                "uri": "https://sedra.bethmardutho.org/api/word/41919.json"
+            },
+            {
+                "id": 40194,
+                "uri": "https://sedra.bethmardutho.org/api/word/40194.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

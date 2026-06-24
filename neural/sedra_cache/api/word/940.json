@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0720\u0718",
+        "western": "\u0710\u0736\u0720\u073d\u0718",
+        "eastern": "\u0710\u0738\u0720\u0718\u073c",
+        "lexeme": {
+            "id": 134,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/134.json"
+        },
+        "stem": "\u0710\u0720\u0718",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0648"
+            ],
+            "eng": [
+                "if only, if (unreal).",
+                "if"
+            ],
+            "fre": [
+                "si"
+            ]
+        },
+        "word": {
+            "id": 940,
+            "uri": "https://sedra.bethmardutho.org/api/word/940.json"
+        }
+    }
+]

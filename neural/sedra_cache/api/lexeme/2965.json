@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2965,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2965.json"
+        },
+        "syriac": "\u072a\u0712",
+        "glosses": {
+            "English": [
+                "shout",
+                "uproar",
+                "to rebel",
+                "to quarrel",
+                "to contend with.",
+                "Ia to shout",
+                "IIIa to cause an uproar"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1739,
+            "uri": "https://sedra.bethmardutho.org/api/root/1739.json"
+        },
+        "words": [
+            {
+                "id": 19333,
+                "uri": "https://sedra.bethmardutho.org/api/word/19333.json"
+            },
+            {
+                "id": 19332,
+                "uri": "https://sedra.bethmardutho.org/api/word/19332.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

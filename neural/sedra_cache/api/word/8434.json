@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0722\u0718\u0712\u0720\u071f",
+        "western": "\u0722\u0730\u0718\u0712\u0741\u0720\u0733\u071f\u0742",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1292,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1292.json"
+        },
+        "stem": "\u071d\u0712\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIp to be led, brought, carried",
+                "to conduct",
+                "IIa <span class=\"selectableFont\">\u071d\u0730\u0712\u0736\u0720</span> to hand down, transmit",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0712\u0736\u0720</span> to bring, lead, take, carry",
+                "to bring, escort",
+                "IIp to be handed down, transmitted",
+                "to be escorted, brought, accompanied",
+                "to be driven.",
+                "to be derived, take origin from",
+                "to be translated",
+                "to do in succession",
+                "to follow in order",
+                "to be translated, transferred to another see (of bishop)",
+                "to translate",
+                "be transmitted",
+                "lead away",
+                "to convey.",
+                "take",
+                "conduct"
+            ]
+        },
+        "word": {
+            "id": 8434,
+            "uri": "https://sedra.bethmardutho.org/api/word/8434.json"
+        }
+    }
+]

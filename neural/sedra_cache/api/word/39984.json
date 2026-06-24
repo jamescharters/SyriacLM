@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071a\u072a\u071b",
+        "western": "\u071a\u072a\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15549,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15549.json"
+        },
+        "stem": "\u071a\u072a\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0632\u0642 (\u0645\u0636)",
+                "\u0634\u0631\u0637"
+            ],
+            "eng": [
+                "IIa to scratch (with nails)",
+                "IIp to be lacerated.",
+                "Ia to scrape, scratch"
+            ],
+            "fre": [
+                "faire les incisions",
+                "lac\u00e9rer"
+            ]
+        },
+        "word": {
+            "id": 39984,
+            "uri": "https://sedra.bethmardutho.org/api/word/39984.json"
+        }
+    }
+]

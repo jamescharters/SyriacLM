@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 2553,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2553.json"
+        },
+        "syriac": "\u0726\u0723\u0729\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0635\u064a\u0628\u0629",
+                "\u0632\u064a\u0646\u0629",
+                "\u062b\u0648\u0628 \u0631\u0627\u0647\u0628"
+            ],
+            "French": [
+                "bandelette",
+                "garniture",
+                "v\u00eatement de moine"
+            ],
+            "English": [
+                "bandage.",
+                "bandage"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c6\u03b1\u03c3\u03ba\u03af\u03b1"
+            ]
+        },
+        "root": {
+            "id": 1513,
+            "uri": "https://sedra.bethmardutho.org/api/root/1513.json"
+        },
+        "words": [
+            {
+                "id": 16659,
+                "uri": "https://sedra.bethmardutho.org/api/word/16659.json"
+            },
+            {
+                "id": 16661,
+                "uri": "https://sedra.bethmardutho.org/api/word/16661.json"
+            },
+            {
+                "id": 16660,
+                "uri": "https://sedra.bethmardutho.org/api/word/16660.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

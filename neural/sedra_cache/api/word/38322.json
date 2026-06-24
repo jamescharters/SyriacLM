@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0719\u072a\u0713\u0710",
+        "western": "\u0719\u0733\u072a\u0713\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9046,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9046.json"
+        },
+        "stem": "\u0719\u072a\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0645\u063a\u0631 (\u0646\u0628\u064a\u0630)",
+                "\u0632\u0628\u0631\u062c\u062f, \u062c\u0645\u0634\u062a",
+                "\u0644\u0627\u0645\u0639\u0629 (\u0639\u064a\u0646)"
+            ],
+            "eng": [
+                "wine color, reddish."
+            ],
+            "fre": [
+                "topaze, am\u00e9thyste",
+                "rouge\u00e2tre (vin)",
+                "brillant (\u0153il)"
+            ]
+        },
+        "word": {
+            "id": 38322,
+            "uri": "https://sedra.bethmardutho.org/api/word/38322.json"
+        }
+    }
+]

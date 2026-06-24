@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15048,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15048.json"
+        },
+        "syriac": "\u0723\u0729\u0715",
+        "glosses": {
+            "English": [
+                "IIa to make bitter."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2063,
+            "uri": "https://sedra.bethmardutho.org/api/root/2063.json"
+        },
+        "words": [
+            {
+                "id": 40081,
+                "uri": "https://sedra.bethmardutho.org/api/word/40081.json"
+            },
+            {
+                "id": 40046,
+                "uri": "https://sedra.bethmardutho.org/api/word/40046.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

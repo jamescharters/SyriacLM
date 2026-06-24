@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0719\u072a",
+        "western": "\u0722\u0719\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15726,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15726.json"
+        },
+        "stem": "\u0722\u0719\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to separate, to abstain",
+                "IIa to consecrate as a Nazirite",
+                "Ip, IIp to live a life of abstinence."
+            ]
+        },
+        "word": {
+            "id": 41164,
+            "uri": "https://sedra.bethmardutho.org/api/word/41164.json"
+        }
+    }
+]

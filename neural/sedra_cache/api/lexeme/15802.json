@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15802,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15802.json"
+        },
+        "syriac": "\u072c\u0722",
+        "glosses": {
+            "English": [
+                "IIp to be smoked out",
+                "IIIa to fumigate.",
+                "Ip to smolder, emit smoke",
+                "to emit smoke",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072c\u0730\u0722</span>, Ia to smoke"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2693,
+            "uri": "https://sedra.bethmardutho.org/api/root/2693.json"
+        },
+        "words": [
+            {
+                "id": 42177,
+                "uri": "https://sedra.bethmardutho.org/api/word/42177.json"
+            },
+            {
+                "id": 40177,
+                "uri": "https://sedra.bethmardutho.org/api/word/40177.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

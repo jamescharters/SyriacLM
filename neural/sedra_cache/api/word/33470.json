@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a\u072b\u0720\u0710",
+        "western": "\u072a\u072b\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6481,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6481.json"
+        },
+        "stem": "\u072a\u072b\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0642\u064a\u062d"
+            ],
+            "eng": [
+                "slackening.",
+                "flabbiness, languor"
+            ],
+            "fre": [
+                "purulent"
+            ]
+        },
+        "word": {
+            "id": 33470,
+            "uri": "https://sedra.bethmardutho.org/api/word/33470.json"
+        }
+    }
+]

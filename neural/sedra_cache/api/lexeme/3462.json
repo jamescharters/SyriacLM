@@ -1,0 +1,60 @@
+[
+    {
+        "lexeme": {
+            "id": 3462,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3462.json"
+        },
+        "syriac": "\u071f\u0720\u0722\u072b",
+        "glosses": {
+            "English": [
+                "every one"
+            ],
+            "Arabic": [
+                "\u0643\u0644 \u0645\u0646"
+            ],
+            "French": [
+                "quiconque"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 145,
+            "uri": "https://sedra.bethmardutho.org/api/root/145.json"
+        },
+        "words": [
+            {
+                "id": 1466,
+                "uri": "https://sedra.bethmardutho.org/api/word/1466.json"
+            },
+            {
+                "id": 1459,
+                "uri": "https://sedra.bethmardutho.org/api/word/1459.json"
+            },
+            {
+                "id": 1456,
+                "uri": "https://sedra.bethmardutho.org/api/word/1456.json"
+            },
+            {
+                "id": 1454,
+                "uri": "https://sedra.bethmardutho.org/api/word/1454.json"
+            },
+            {
+                "id": 1448,
+                "uri": "https://sedra.bethmardutho.org/api/word/1448.json"
+            },
+            {
+                "id": 1444,
+                "uri": "https://sedra.bethmardutho.org/api/word/1444.json"
+            },
+            {
+                "id": 1430,
+                "uri": "https://sedra.bethmardutho.org/api/word/1430.json"
+            },
+            {
+                "id": 1460,
+                "uri": "https://sedra.bethmardutho.org/api/word/1460.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071f\u0718\u071f\u0712\u071d\u0722",
+        "western": "\u071f\u0741\u0730\u0718\u071f\u0741\u0712\u0742\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1482,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1482.json"
+        },
+        "stem": "\u071f\u0718\u071f\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "star",
+                "planet",
+                "star."
+            ]
+        },
+        "word": {
+            "id": 9778,
+            "uri": "https://sedra.bethmardutho.org/api/word/9778.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071d\u0715\u0725\u0710",
+        "western": "\u071d\u0733\u0715\u0742\u0725\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3532,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3532.json"
+        },
+        "stem": "\u071d\u0715\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0644\u064a\u0641"
+            ],
+            "eng": [
+                "acquaintance"
+            ],
+            "fre": [
+                "familier"
+            ]
+        },
+        "word": {
+            "id": 8124,
+            "uri": "https://sedra.bethmardutho.org/api/word/8124.json"
+        }
+    }
+]

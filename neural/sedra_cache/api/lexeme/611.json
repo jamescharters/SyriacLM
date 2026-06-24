@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 611,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/611.json"
+        },
+        "syriac": "\u0713\u0722\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0633\u062a\u0627\u0646\u064a"
+            ],
+            "French": [
+                "jardinier"
+            ],
+            "English": [
+                "gardener",
+                "gardener."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 391,
+            "uri": "https://sedra.bethmardutho.org/api/root/391.json"
+        },
+        "words": [
+            {
+                "id": 3925,
+                "uri": "https://sedra.bethmardutho.org/api/word/3925.json"
+            },
+            {
+                "id": 3924,
+                "uri": "https://sedra.bethmardutho.org/api/word/3924.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

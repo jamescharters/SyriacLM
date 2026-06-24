@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15423,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15423.json"
+        },
+        "syriac": "\u0723\u0729\u0720",
+        "glosses": {
+            "English": [
+                "IIa to adorn",
+                "IIp to embellish oneself.",
+                "to make elegant",
+                "Ip",
+                "Ia to polish, to burnish"
+            ],
+            "Arabic": [
+                "\u0635\u0642\u0644",
+                "\u0632\u062e\u0631\u0641",
+                "\u00a0"
+            ],
+            "French": [
+                "polir",
+                "embellir",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3184,
+            "uri": "https://sedra.bethmardutho.org/api/root/3184.json"
+        },
+        "words": [
+            {
+                "id": 41888,
+                "uri": "https://sedra.bethmardutho.org/api/word/41888.json"
+            },
+            {
+                "id": 41476,
+                "uri": "https://sedra.bethmardutho.org/api/word/41476.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

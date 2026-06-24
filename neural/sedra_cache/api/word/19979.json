@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u072a\u0729\u0710",
+        "western": "\u072a\u0730\u0729\u0730\u0710",
+        "lexeme": {
+            "id": 3070,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3070.json"
+        },
+        "stem": "\u072a\u0729\u0710",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fool"
+            ]
+        },
+        "word": {
+            "id": 19979,
+            "uri": "https://sedra.bethmardutho.org/api/word/19979.json"
+        }
+    }
+]

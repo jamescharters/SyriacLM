@@ -1,0 +1,90 @@
+[
+    {
+        "lexeme": {
+            "id": 3394,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3394.json"
+        },
+        "syriac": "\u072c\u071f\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0646\u0639, \u0632\u062c\u0631",
+                "\u0646\u0642\u0631 (\u0627\u0644\u0642\u064a\u062b\u0627\u0631\u0629)",
+                "\u0627\u0632\u062f\u062c\u0631, \u0627\u0645\u062a\u0646\u0639",
+                "\u062a\u0635\u0644\u0628"
+            ],
+            "French": [
+                "retenir,emp\u00eacher",
+                "faire vibrer ( la cithare)",
+                "\u00eatre retenu, emp\u00each\u00e9",
+                "se raidir"
+            ],
+            "English": [
+                "to reprimand",
+                "IIa to suppress",
+                "hinder",
+                "IIp.",
+                "to strike",
+                "to drive back",
+                "to be dislocated, put out of joint",
+                "Ip to be prevented, deterred",
+                "Ia to hold back, restrain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1970,
+            "uri": "https://sedra.bethmardutho.org/api/root/1970.json"
+        },
+        "words": [
+            {
+                "id": 29501,
+                "uri": "https://sedra.bethmardutho.org/api/word/29501.json"
+            },
+            {
+                "id": 29500,
+                "uri": "https://sedra.bethmardutho.org/api/word/29500.json"
+            },
+            {
+                "id": 22489,
+                "uri": "https://sedra.bethmardutho.org/api/word/22489.json"
+            },
+            {
+                "id": 22488,
+                "uri": "https://sedra.bethmardutho.org/api/word/22488.json"
+            },
+            {
+                "id": 29505,
+                "uri": "https://sedra.bethmardutho.org/api/word/29505.json"
+            },
+            {
+                "id": 29504,
+                "uri": "https://sedra.bethmardutho.org/api/word/29504.json"
+            },
+            {
+                "id": 29503,
+                "uri": "https://sedra.bethmardutho.org/api/word/29503.json"
+            },
+            {
+                "id": 29502,
+                "uri": "https://sedra.bethmardutho.org/api/word/29502.json"
+            },
+            {
+                "id": 22493,
+                "uri": "https://sedra.bethmardutho.org/api/word/22493.json"
+            },
+            {
+                "id": 22492,
+                "uri": "https://sedra.bethmardutho.org/api/word/22492.json"
+            },
+            {
+                "id": 22491,
+                "uri": "https://sedra.bethmardutho.org/api/word/22491.json"
+            },
+            {
+                "id": 22490,
+                "uri": "https://sedra.bethmardutho.org/api/word/22490.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

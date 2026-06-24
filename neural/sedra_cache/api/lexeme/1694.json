@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1694,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1694.json"
+        },
+        "syriac": "\u0715\u0720\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0643\u0645\u064a\u0644\u064a\u0629 \u0628\u0639\u062f \u0641\u0639\u0644 \u062d\u0630\u0631 \u0623\u0648 \u062e\u0648\u0641",
+                "\u0625\u0646 ...",
+                "\u062e\u0648\u0641\u0627\u064b \u0645\u0646 \u0623\u0646",
+                "\u0647\u0644 \u0631\u0628\u0645\u0627....\u061f",
+                "\u0638\u0631\u0641 \u0631\u064a\u0628",
+                "\u0631\u0628\u0645\u0627",
+                ""
+            ],
+            "French": [
+                "[compl\u00e9t. apr\u00e8s v. de vigilance ou de crainte]",
+                "que\u2026ne\u2026",
+                "de peur que peut- \u00eatre",
+                "est-ce que peut-\u00eatre\u2026?",
+                "[adv. de doute]",
+                "peut- \u00eatre",
+                ""
+            ],
+            "English": [
+                "lest",
+                "lest, that not",
+                "why?, whether?, is not?",
+                "maybe, perchance"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1007,
+            "uri": "https://sedra.bethmardutho.org/api/root/1007.json"
+        },
+        "words": [
+            {
+                "id": 11168,
+                "uri": "https://sedra.bethmardutho.org/api/word/11168.json"
+            },
+            {
+                "id": 11169,
+                "uri": "https://sedra.bethmardutho.org/api/word/11169.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

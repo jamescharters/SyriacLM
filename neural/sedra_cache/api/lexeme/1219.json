@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1219,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1219.json"
+        },
+        "syriac": "\u071b\u0718\u072a\u0722\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Tyrannus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 718,
+            "uri": "https://sedra.bethmardutho.org/api/root/718.json"
+        },
+        "words": [
+            {
+                "id": 8039,
+                "uri": "https://sedra.bethmardutho.org/api/word/8039.json"
+            },
+            {
+                "id": 8038,
+                "uri": "https://sedra.bethmardutho.org/api/word/8038.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

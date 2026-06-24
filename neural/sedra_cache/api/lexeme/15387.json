@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15387,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15387.json"
+        },
+        "syriac": "\u071a\u071b\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u0631\u0628 \u0628\u0627\u0644\u0642\u0636\u0628\u0627\u0646",
+                "\u0646\u062c\u062f (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "batter de verges",
+                "carder",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to beat with rods",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2218,
+            "uri": "https://sedra.bethmardutho.org/api/root/2218.json"
+        },
+        "words": [
+            {
+                "id": 41753,
+                "uri": "https://sedra.bethmardutho.org/api/word/41753.json"
+            },
+            {
+                "id": 41413,
+                "uri": "https://sedra.bethmardutho.org/api/word/41413.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1656,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1656.json"
+        },
+        "syriac": "\u0720\u0718\u0729\u071d\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Lucius"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 979,
+            "uri": "https://sedra.bethmardutho.org/api/root/979.json"
+        },
+        "words": [
+            {
+                "id": 10980,
+                "uri": "https://sedra.bethmardutho.org/api/word/10980.json"
+            },
+            {
+                "id": 10979,
+                "uri": "https://sedra.bethmardutho.org/api/word/10979.json"
+            },
+            {
+                "id": 10981,
+                "uri": "https://sedra.bethmardutho.org/api/word/10981.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

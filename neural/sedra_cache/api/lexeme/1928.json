@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1928,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1928.json"
+        },
+        "syriac": "\u0722\u071d\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "]\u0647\u0627\u062f\u0626[",
+                "\u0648\u062f\u064a\u0639",
+                "\u0645\u0633\u062a\u062d\u0628"
+            ],
+            "French": [
+                "tranquille",
+                "doux",
+                "agr\u00e9able"
+            ],
+            "English": [
+                "quietness",
+                "restfulness",
+                "rest",
+                "relief",
+                "gentle, tranquil, quiet."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1149,
+            "uri": "https://sedra.bethmardutho.org/api/root/1149.json"
+        },
+        "words": [
+            {
+                "id": 12640,
+                "uri": "https://sedra.bethmardutho.org/api/word/12640.json"
+            },
+            {
+                "id": 12642,
+                "uri": "https://sedra.bethmardutho.org/api/word/12642.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u0721\u0710",
+        "western": "\u071a\u0721\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1065,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1065.json"
+        },
+        "stem": "\u071a\u0721\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to grow faint",
+                "fade",
+                "languish",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0721\u0736\u0710</span>, Ia to wither, fade",
+                "droop",
+                "wither",
+                "IIIa to wither, cause to dry up, fade."
+            ]
+        },
+        "word": {
+            "id": 7184,
+            "uri": "https://sedra.bethmardutho.org/api/word/7184.json"
+        }
+    }
+]

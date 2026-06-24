@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 3038,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3038.json"
+        },
+        "syriac": "\u072a\u0723",
+        "glosses": {
+            "English": [
+                "to bedew.",
+                "sprinkle",
+                "bespatter",
+                "Ia to sprinkle",
+                "IIa to sprinkle, to moisten",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1771,
+            "uri": "https://sedra.bethmardutho.org/api/root/1771.json"
+        },
+        "words": [
+            {
+                "id": 19821,
+                "uri": "https://sedra.bethmardutho.org/api/word/19821.json"
+            },
+            {
+                "id": 28662,
+                "uri": "https://sedra.bethmardutho.org/api/word/28662.json"
+            },
+            {
+                "id": 28661,
+                "uri": "https://sedra.bethmardutho.org/api/word/28661.json"
+            },
+            {
+                "id": 19823,
+                "uri": "https://sedra.bethmardutho.org/api/word/19823.json"
+            },
+            {
+                "id": 19828,
+                "uri": "https://sedra.bethmardutho.org/api/word/19828.json"
+            },
+            {
+                "id": 19822,
+                "uri": "https://sedra.bethmardutho.org/api/word/19822.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

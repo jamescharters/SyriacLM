@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 21054,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21054.json"
+        },
+        "syriac": "\u0710\u0718\u0710\u0718\u071d\u0718",
+        "glosses": {
+            "Greek": [
+                "\u1f45\u03bf\u03c5"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f45\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48578,
+                "uri": "https://sedra.bethmardutho.org/api/word/48578.json"
+            },
+            {
+                "id": 47428,
+                "uri": "https://sedra.bethmardutho.org/api/word/47428.json"
+            }
+        ],
+        "category": "pronoun"
+    }
+]

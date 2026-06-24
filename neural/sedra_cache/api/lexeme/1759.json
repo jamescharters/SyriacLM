@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1759,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1759.json"
+        },
+        "syriac": "\u0721\u071f\u071d\u0720",
+        "glosses": {
+            "English": [
+                "therefore",
+                "now",
+                "henceforth",
+                "thence",
+                "and so, therefore",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> no longer, no more."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1055,
+            "uri": "https://sedra.bethmardutho.org/api/root/1055.json"
+        },
+        "words": [
+            {
+                "id": 11544,
+                "uri": "https://sedra.bethmardutho.org/api/word/11544.json"
+            },
+            {
+                "id": 11543,
+                "uri": "https://sedra.bethmardutho.org/api/word/11543.json"
+            },
+            {
+                "id": 11545,
+                "uri": "https://sedra.bethmardutho.org/api/word/11545.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

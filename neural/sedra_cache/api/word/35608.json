@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0719\u0710\u0726\u0710",
+        "western": "\u0719\u073a\u0710\u0726\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11273,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11273.json"
+        },
+        "stem": "\u0719\u0710\u0726\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0643\u0631, \u0643\u0630\u0628",
+                "\u062e\u0628\u062b",
+                "\u00a0"
+            ],
+            "eng": [
+                "fraud, deceit."
+            ],
+            "fre": [
+                "scorie",
+                "fraude, mensonge",
+                "fausset\u00e9\u2026"
+            ]
+        },
+        "word": {
+            "id": 35608,
+            "uri": "https://sedra.bethmardutho.org/api/word/35608.json"
+        }
+    }
+]

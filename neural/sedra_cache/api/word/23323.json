@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0721\u0712\u0715\u072a\u071d\u0722",
+        "western": "\u0721\u0712\u0742\u0730\u0715\u0741\u072a\u073a\u071d\u0722",
+        "tense": "passive participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 339,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/339.json"
+        },
+        "stem": "\u0712\u0715\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0628\u0630\u0631",
+                "\u0628\u062f\u062f"
+            ],
+            "eng": [
+                "Ia to scatter",
+                "waste",
+                "scare away",
+                "disperse",
+                "spend",
+                "scatter",
+                "IIp.",
+                "IIa to disperse"
+            ],
+            "fre": [
+                "r\u00e9pandre",
+                "disperser",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 23323,
+            "uri": "https://sedra.bethmardutho.org/api/word/23323.json"
+        }
+    }
+]

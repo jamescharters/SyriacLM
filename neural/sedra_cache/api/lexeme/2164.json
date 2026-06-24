@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2164,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2164.json"
+        },
+        "syriac": "\u0723\u0722\u0710\u0710",
+        "glosses": {
+            "English": [
+                "enemy",
+                "enemy, adversary."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1292,
+            "uri": "https://sedra.bethmardutho.org/api/root/1292.json"
+        },
+        "words": [
+            {
+                "id": 14406,
+                "uri": "https://sedra.bethmardutho.org/api/word/14406.json"
+            },
+            {
+                "id": 14403,
+                "uri": "https://sedra.bethmardutho.org/api/word/14403.json"
+            },
+            {
+                "id": 14405,
+                "uri": "https://sedra.bethmardutho.org/api/word/14405.json"
+            },
+            {
+                "id": 14404,
+                "uri": "https://sedra.bethmardutho.org/api/word/14404.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

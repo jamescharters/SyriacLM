@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u071b\u071f\u072b\u0718\u072c\u0710",
+        "western": "\u0726\u071b\u0730\u071f\u072b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7007,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7007.json"
+        },
+        "stem": "\u0726\u071b\u071f\u072b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u0632\u0628\u0629"
+            ],
+            "eng": [
+                "satrapy, governorship."
+            ],
+            "fre": [
+                "satrapie"
+            ]
+        },
+        "word": {
+            "id": 34504,
+            "uri": "https://sedra.bethmardutho.org/api/word/34504.json"
+        }
+    }
+]

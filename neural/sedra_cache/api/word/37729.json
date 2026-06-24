@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0712\u071f\u0710",
+        "western": "\u0710\u0733\u0712\u0730\u071f\u0733\u0710",
+        "eastern": "\u0710\u0735\u0712\u0732\u071f\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12712,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12712.json"
+        },
+        "stem": "\u0710\u0712\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u064a\u0643"
+            ],
+            "eng": [
+                "cock."
+            ],
+            "fre": [
+                "coq"
+            ]
+        },
+        "word": {
+            "id": 37729,
+            "uri": "https://sedra.bethmardutho.org/api/word/37729.json"
+        }
+    }
+]

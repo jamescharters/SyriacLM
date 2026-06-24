@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 21092,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21092.json"
+        },
+        "syriac": "\u0710\u0718\u0713\u0718\u0723\u071b\u0710\u0720\u071d\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03b1\u1f50\u03b3\u03bf\u03c5\u03c3\u03c4\u03ac\u03bb\u03b9\u03bf\u03c2"
+            ],
+            "Latin": [
+                "Augustalis"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "Augustalis"
+            ]
+        },
+        "words": [
+            {
+                "id": 48612,
+                "uri": "https://sedra.bethmardutho.org/api/word/48612.json"
+            },
+            {
+                "id": 47466,
+                "uri": "https://sedra.bethmardutho.org/api/word/47466.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

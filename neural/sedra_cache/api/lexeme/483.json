@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 483,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/483.json"
+        },
+        "syriac": "\u0712\u072a\u0722\u071d\u0729\u0710",
+        "glosses": {
+            "English": [
+                "Bernice"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 325,
+            "uri": "https://sedra.bethmardutho.org/api/root/325.json"
+        },
+        "words": [
+            {
+                "id": 3355,
+                "uri": "https://sedra.bethmardutho.org/api/word/3355.json"
+            },
+            {
+                "id": 3356,
+                "uri": "https://sedra.bethmardutho.org/api/word/3356.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

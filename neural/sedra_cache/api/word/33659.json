@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0725\u0728\u072c\u0710",
+        "western": "\u0725\u0728\u0733\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14504,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14504.json"
+        },
+        "stem": "\u0725\u0728\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u062c\u0628\u0627\u0631, \u0648\u062c\u0648\u0628",
+                "\u0645\u0642\u0627\u0648\u0645\u0629"
+            ],
+            "eng": [
+                "compulsion, force."
+            ],
+            "fre": [
+                "contrainte, n\u00e9cessit\u00e9",
+                "r\u00e9sistance"
+            ]
+        },
+        "word": {
+            "id": 33659,
+            "uri": "https://sedra.bethmardutho.org/api/word/33659.json"
+        }
+    }
+]

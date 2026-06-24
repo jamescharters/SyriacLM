@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2991,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2991.json"
+        },
+        "syriac": "\u072a\u071a\u0712\u0725\u0721",
+        "glosses": {
+            "English": [
+                "Rehoboam"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1750,
+            "uri": "https://sedra.bethmardutho.org/api/root/1750.json"
+        },
+        "words": [
+            {
+                "id": 19483,
+                "uri": "https://sedra.bethmardutho.org/api/word/19483.json"
+            },
+            {
+                "id": 19484,
+                "uri": "https://sedra.bethmardutho.org/api/word/19484.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

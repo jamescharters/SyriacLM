@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0722\u072a\u0729\u0718\u0722",
+        "western": "\u0718\u0722\u0736\u072a\u0729\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3069,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3069.json"
+        },
+        "stem": "\u072a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "spit",
+                "IIa to make thin",
+                "Ip",
+                "IIp",
+                "IIIa to attenuate",
+                "Ia to spit",
+                "to make thin."
+            ]
+        },
+        "word": {
+            "id": 19971,
+            "uri": "https://sedra.bethmardutho.org/api/word/19971.json"
+        }
+    }
+]

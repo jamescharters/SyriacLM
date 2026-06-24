@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15245,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15245.json"
+        },
+        "syriac": "\u0729\u072a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0631\u0642\u0631"
+            ],
+            "French": [
+                "glousser"
+            ],
+            "English": [
+                "IIa to cluck."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2334,
+            "uri": "https://sedra.bethmardutho.org/api/root/2334.json"
+        },
+        "words": [
+            {
+                "id": 40787,
+                "uri": "https://sedra.bethmardutho.org/api/word/40787.json"
+            },
+            {
+                "id": 40711,
+                "uri": "https://sedra.bethmardutho.org/api/word/40711.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

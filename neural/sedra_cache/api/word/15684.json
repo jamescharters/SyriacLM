@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u072c\u0725\u0721\u0720",
+        "western": "\u072c\u0741\u0736\u0725\u0721\u0730\u0720",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2350,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2350.json"
+        },
+        "stem": "\u0725\u0721\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u062f, \u0627\u0634\u062a\u063a\u0644",
+                "\u0646\u0643\u062f",
+                "\u0639\u0645\u0644"
+            ],
+            "eng": [
+                "toil",
+                "Ip to labor under",
+                "Ia to toil, to take trouble, to labor",
+                "trouble",
+                "labour",
+                "IIIa to weary, to trouble, to tire."
+            ],
+            "fre": [
+                "fatiguer",
+                "faire",
+                "peiner, travailler"
+            ]
+        },
+        "word": {
+            "id": 15684,
+            "uri": "https://sedra.bethmardutho.org/api/word/15684.json"
+        }
+    }
+]

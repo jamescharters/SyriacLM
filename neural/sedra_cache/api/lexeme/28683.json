@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 28683,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28683.json"
+        },
+        "syriac": "\u0710\u071b\u0718\u0722\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f41\u03bc\u03cc\u03c4\u03bf\u03bd\u03bf\u03c2"
+            ],
+            "English": [
+                "having the same tension, with equal force, of fevers",
+                "having the same pitch",
+                "equable"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f41\u03bc\u03cc\u03c4\u03bf\u03bd\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49189,
+                "uri": "https://sedra.bethmardutho.org/api/word/49189.json"
+            },
+            {
+                "id": 42592,
+                "uri": "https://sedra.bethmardutho.org/api/word/42592.json"
+            },
+            {
+                "id": 55057,
+                "uri": "https://sedra.bethmardutho.org/api/word/55057.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3499,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3499.json"
+        },
+        "syriac": "\u071d\u0729\u0715\u0710",
+        "glosses": {
+            "English": [
+                "burning",
+                "fuel, kindling."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 842,
+            "uri": "https://sedra.bethmardutho.org/api/root/842.json"
+        },
+        "words": [
+            {
+                "id": 23686,
+                "uri": "https://sedra.bethmardutho.org/api/word/23686.json"
+            },
+            {
+                "id": 9361,
+                "uri": "https://sedra.bethmardutho.org/api/word/9361.json"
+            },
+            {
+                "id": 9359,
+                "uri": "https://sedra.bethmardutho.org/api/word/9359.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

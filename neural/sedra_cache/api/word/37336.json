@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u0715\u0710",
+        "western": "\u0729\u0736\u0715\u0308\u0736\u0710",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10399,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10399.json"
+        },
+        "stem": "\u0729\u0715\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0633\u0639",
+                "\u0634\u0642\u0629"
+            ],
+            "eng": [
+                "sandal, shoe strap",
+                "rectangular basket.",
+                "band of cloth"
+            ],
+            "fre": [
+                "bande ( d&#39;\u00e9toffe)",
+                "courroie (de sandale)"
+            ]
+        },
+        "word": {
+            "id": 37336,
+            "uri": "https://sedra.bethmardutho.org/api/word/37336.json"
+        }
+    }
+]

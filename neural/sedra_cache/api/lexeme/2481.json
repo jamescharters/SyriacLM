@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2481,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2481.json"
+        },
+        "syriac": "\u0726\u071a\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062e\u0627\u0631\u064a",
+                "\u062e\u0632\u0641"
+            ],
+            "French": [
+                "potier",
+                "argile"
+            ],
+            "English": [
+                "potter",
+                "potter",
+                "clay vessel."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1470,
+            "uri": "https://sedra.bethmardutho.org/api/root/1470.json"
+        },
+        "words": [
+            {
+                "id": 16288,
+                "uri": "https://sedra.bethmardutho.org/api/word/16288.json"
+            },
+            {
+                "id": 16287,
+                "uri": "https://sedra.bethmardutho.org/api/word/16287.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

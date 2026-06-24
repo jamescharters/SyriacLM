@@ -1,0 +1,59 @@
+[
+    {
+        "syriac": "\u0721\u072b\u071a\u071f",
+        "western": "\u0721\u0730\u072b\u071a\u0733\u071f\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1874,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1874.json"
+        },
+        "stem": "\u0721\u072b\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u0633",
+                "\u0645\u0633\u062d",
+                "\u0639\u0645\u062f (\u0645\u0636)",
+                "\u0645\u0633\u062d \u0630\u0627\u062a\u0647",
+                "\u062f\u0627\u0644\u0649",
+                ""
+            ],
+            "eng": [
+                "IIp to be measured",
+                "Ip",
+                "to stretch out, extend",
+                "to be extended.",
+                "to measure",
+                "Ia to anoint, smear",
+                "measure",
+                "anoint",
+                "to keep time (in music)",
+                "IIa to measure, moderate, proportion"
+            ],
+            "fre": [
+                "baptiser",
+                "",
+                "mesurer",
+                "s&#39;oindre",
+                "oindre",
+                "caresser"
+            ]
+        },
+        "word": {
+            "id": 12296,
+            "uri": "https://sedra.bethmardutho.org/api/word/12296.json"
+        }
+    }
+]

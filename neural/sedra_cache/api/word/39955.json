@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0713\u071d",
+        "western": "\u0710\u0730\u0718\u0713\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14906,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14906.json"
+        },
+        "stem": "\u071d\u0713\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to forbid.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0713\u073a\u071d</span> to send away, expel, remove",
+                "to prohibit.",
+                "to drive off"
+            ]
+        },
+        "word": {
+            "id": 39955,
+            "uri": "https://sedra.bethmardutho.org/api/word/39955.json"
+        }
+    }
+]

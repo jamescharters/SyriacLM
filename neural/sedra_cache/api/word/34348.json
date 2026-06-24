@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u0712\u0710",
+        "western": "\u0712\u0733\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5281,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5281.json"
+        },
+        "stem": "\u0712\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0627\u0628\u0627"
+            ],
+            "eng": [
+                "papa, father",
+                "Kth. baby."
+            ],
+            "fre": [
+                "papa"
+            ]
+        },
+        "word": {
+            "id": 34348,
+            "uri": "https://sedra.bethmardutho.org/api/word/34348.json"
+        }
+    }
+]

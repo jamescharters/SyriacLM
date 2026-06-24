@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u071a\u0728\u0726",
+        "western": "\u071a\u0730\u0728\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15161,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15161.json"
+        },
+        "stem": "\u071a\u0728\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u062f",
+                "\u0633\u0641\u0647"
+            ],
+            "eng": [
+                "to persist in",
+                "be obnoxious",
+                "be bold",
+                "IIIa to be bold, persistent",
+                "to be insistent",
+                "to be urgent.",
+                "IIp to behave shamelessly",
+                "IIa to be impudent"
+            ],
+            "fre": [
+                "\u00eatre querelleur",
+                "\u00eatre effront\u00e9"
+            ]
+        },
+        "word": {
+            "id": 40610,
+            "uri": "https://sedra.bethmardutho.org/api/word/40610.json"
+        }
+    }
+]

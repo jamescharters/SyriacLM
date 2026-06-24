@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u0722\u0722\u072c\u0710",
+        "western": "\u072b\u0722\u0733\u0722\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5818,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5818.json"
+        },
+        "stem": "\u072b\u0722\u0722\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u062e\u0631\u0629",
+                "\u062d\u0631\u0641 (\u0635\u062e\u0631\u0629), \u062e\u0631\u0634\u0648\u0645",
+                "\u062c\u0628\u0644"
+            ],
+            "eng": [
+                "crag, cliff, peak."
+            ],
+            "fre": [
+                "pointe (de rocher), pic",
+                "roche",
+                "montagne"
+            ]
+        },
+        "word": {
+            "id": 39104,
+            "uri": "https://sedra.bethmardutho.org/api/word/39104.json"
+        }
+    }
+]

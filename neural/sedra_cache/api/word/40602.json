@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0715",
+        "western": "\u0720\u0712\u0730\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15696,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15696.json"
+        },
+        "stem": "\u0720\u0712\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to thicken, make dense, compact",
+                "Ip to be condensed, solidified, become heavy",
+                "IIp to be condensed, become dense.",
+                "IIa to solidify, thicken"
+            ]
+        },
+        "word": {
+            "id": 40602,
+            "uri": "https://sedra.bethmardutho.org/api/word/40602.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1285,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1285.json"
+        },
+        "syriac": "\u071b\u0718\u072b\u071d\u0710",
+        "glosses": {
+            "English": [
+                "secretly",
+                "hiding, lurking, concealment."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 761,
+            "uri": "https://sedra.bethmardutho.org/api/root/761.json"
+        },
+        "words": [
+            {
+                "id": 8371,
+                "uri": "https://sedra.bethmardutho.org/api/word/8371.json"
+            },
+            {
+                "id": 8370,
+                "uri": "https://sedra.bethmardutho.org/api/word/8370.json"
+            },
+            {
+                "id": 8369,
+                "uri": "https://sedra.bethmardutho.org/api/word/8369.json"
+            },
+            {
+                "id": 28586,
+                "uri": "https://sedra.bethmardutho.org/api/word/28586.json"
+            },
+            {
+                "id": 8372,
+                "uri": "https://sedra.bethmardutho.org/api/word/8372.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

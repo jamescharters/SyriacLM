@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1460,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1460.json"
+        },
+        "syriac": "\u071f\u0718\u0710\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u062c\u0644",
+                "\u0625\u0647\u0627\u0646\u0629",
+                "\u0642\u0635\u0627\u0635"
+            ],
+            "French": [
+                "honte",
+                "affront",
+                "punition"
+            ],
+            "English": [
+                "shame",
+                "reproach, ignominy, shame."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 864,
+            "uri": "https://sedra.bethmardutho.org/api/root/864.json"
+        },
+        "words": [
+            {
+                "id": 9708,
+                "uri": "https://sedra.bethmardutho.org/api/word/9708.json"
+            },
+            {
+                "id": 9709,
+                "uri": "https://sedra.bethmardutho.org/api/word/9709.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

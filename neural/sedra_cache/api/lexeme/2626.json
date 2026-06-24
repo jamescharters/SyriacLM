@@ -1,0 +1,85 @@
+[
+    {
+        "lexeme": {
+            "id": 2626,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2626.json"
+        },
+        "syriac": "\u0726\u072b\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062f, \u0628\u0633\u0637",
+                "\u0641\u0643, \u0634\u0641\u0649",
+                "\u0627\u0645\u062a\u062f",
+                "\u0646\u0645\u0627",
+                "\u0627\u0633\u062a\u0642\u0627\u0645, \u062a\u0633\u0637\u062d (\u0637\u0631\u064a\u0642)",
+                "\u0645\u0636\u0649 \u0642\u062f\u0645\u0627\u064b",
+                "\u0647\u062f\u0623 (\u0628\u063a\u0636)"
+            ],
+            "French": [
+                "tendre, \u00e9tendre",
+                "d\u00e9lier, gu\u00e9rir",
+                "s&#39;\u00e9tendre",
+                "cro\u00eetre",
+                "\u00eatre droit, plat (chemin)",
+                "aller tout droit",
+                "s&#39;apaiser (haine)"
+            ],
+            "English": [
+                "stretch out",
+                "straight",
+                "IIa",
+                "Ip",
+                "IIp.",
+                "Ia to stretch, extend, spread out"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1559,
+            "uri": "https://sedra.bethmardutho.org/api/root/1559.json"
+        },
+        "words": [
+            {
+                "id": 17102,
+                "uri": "https://sedra.bethmardutho.org/api/word/17102.json"
+            },
+            {
+                "id": 17108,
+                "uri": "https://sedra.bethmardutho.org/api/word/17108.json"
+            },
+            {
+                "id": 17101,
+                "uri": "https://sedra.bethmardutho.org/api/word/17101.json"
+            },
+            {
+                "id": 17104,
+                "uri": "https://sedra.bethmardutho.org/api/word/17104.json"
+            },
+            {
+                "id": 17103,
+                "uri": "https://sedra.bethmardutho.org/api/word/17103.json"
+            },
+            {
+                "id": 17109,
+                "uri": "https://sedra.bethmardutho.org/api/word/17109.json"
+            },
+            {
+                "id": 17107,
+                "uri": "https://sedra.bethmardutho.org/api/word/17107.json"
+            },
+            {
+                "id": 17106,
+                "uri": "https://sedra.bethmardutho.org/api/word/17106.json"
+            },
+            {
+                "id": 17105,
+                "uri": "https://sedra.bethmardutho.org/api/word/17105.json"
+            },
+            {
+                "id": 17100,
+                "uri": "https://sedra.bethmardutho.org/api/word/17100.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0726\u071d\u0713\u0710",
+        "western": "\u0726\u0730\u071d\u0713\u0733\u0710",
+        "eastern": "\u0726\u0732\u071d\u0713\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7926,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7926.json"
+        },
+        "stem": "\u0726\u071d\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0646\u062f\u064a \u0631\u0627\u062c\u0644",
+                "\u0634\u0631\u0637\u064a"
+            ],
+            "eng": [
+                "foot-soldier",
+                "runner",
+                "foot-soldier",
+                "police.",
+                "armed police",
+                "guard",
+                "lictor",
+                "infantry"
+            ],
+            "fre": [
+                "fantassin",
+                "licteur"
+            ]
+        },
+        "word": {
+            "id": 32310,
+            "uri": "https://sedra.bethmardutho.org/api/word/32310.json"
+        }
+    }
+]

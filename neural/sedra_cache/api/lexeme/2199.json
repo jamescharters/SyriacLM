@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2199,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2199.json"
+        },
+        "syriac": "\u0723\u0718\u072a\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0632\u0639"
+            ],
+            "French": [
+                "terreur"
+            ],
+            "English": [
+                "terror",
+                "terror, fright."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1316,
+            "uri": "https://sedra.bethmardutho.org/api/root/1316.json"
+        },
+        "words": [
+            {
+                "id": 14577,
+                "uri": "https://sedra.bethmardutho.org/api/word/14577.json"
+            },
+            {
+                "id": 14579,
+                "uri": "https://sedra.bethmardutho.org/api/word/14579.json"
+            },
+            {
+                "id": 14578,
+                "uri": "https://sedra.bethmardutho.org/api/word/14578.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

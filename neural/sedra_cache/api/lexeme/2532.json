@@ -1,0 +1,65 @@
+[
+    {
+        "lexeme": {
+            "id": 2532,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2532.json"
+        },
+        "syriac": "\u0726\u0720\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0633\u062a\u0641\u0631\u063a",
+                "\u0648\u0644\u062f (\u0645\u0636)",
+                "\u062e\u0631\u062c"
+            ],
+            "French": [
+                "rejeter",
+                "enfanter",
+                "sortir"
+            ],
+            "English": [
+                "escape",
+                "deliver"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1500,
+            "uri": "https://sedra.bethmardutho.org/api/root/1500.json"
+        },
+        "words": [
+            {
+                "id": 23065,
+                "uri": "https://sedra.bethmardutho.org/api/word/23065.json"
+            },
+            {
+                "id": 16540,
+                "uri": "https://sedra.bethmardutho.org/api/word/16540.json"
+            },
+            {
+                "id": 16544,
+                "uri": "https://sedra.bethmardutho.org/api/word/16544.json"
+            },
+            {
+                "id": 26141,
+                "uri": "https://sedra.bethmardutho.org/api/word/26141.json"
+            },
+            {
+                "id": 16545,
+                "uri": "https://sedra.bethmardutho.org/api/word/16545.json"
+            },
+            {
+                "id": 16543,
+                "uri": "https://sedra.bethmardutho.org/api/word/16543.json"
+            },
+            {
+                "id": 16542,
+                "uri": "https://sedra.bethmardutho.org/api/word/16542.json"
+            },
+            {
+                "id": 16541,
+                "uri": "https://sedra.bethmardutho.org/api/word/16541.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

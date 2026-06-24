@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 1487,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1487.json"
+        },
+        "syriac": "\u071f\u0710\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "juste\u2026"
+            ],
+            "English": [
+                "upright",
+                "just",
+                "righteous",
+                "right",
+                "just",
+                "upright, just."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 882,
+            "uri": "https://sedra.bethmardutho.org/api/root/882.json"
+        },
+        "words": [
+            {
+                "id": 9801,
+                "uri": "https://sedra.bethmardutho.org/api/word/9801.json"
+            },
+            {
+                "id": 9797,
+                "uri": "https://sedra.bethmardutho.org/api/word/9797.json"
+            },
+            {
+                "id": 9795,
+                "uri": "https://sedra.bethmardutho.org/api/word/9795.json"
+            },
+            {
+                "id": 9793,
+                "uri": "https://sedra.bethmardutho.org/api/word/9793.json"
+            },
+            {
+                "id": 9802,
+                "uri": "https://sedra.bethmardutho.org/api/word/9802.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

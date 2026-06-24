@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0715\u0721",
+        "western": "\u0710\u0733\u0715\u0742\u0733\u0721",
+        "eastern": "\u0710\u0735\u0715\u0742\u0735\u0721",
+        "lexeme": {
+            "id": 32,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/32.json"
+        },
+        "stem": "\u0710\u0715\u0721",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "Adam"
+            ],
+            "fre": [
+                "Adam"
+            ]
+        },
+        "word": {
+            "id": 222,
+            "uri": "https://sedra.bethmardutho.org/api/word/222.json"
+        }
+    }
+]

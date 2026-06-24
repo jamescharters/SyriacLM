@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15625,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15625.json"
+        },
+        "syriac": "\u0729\u072b\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0645\u0649 (\u0633\u0647\u0645\u0627\u064b)"
+            ],
+            "French": [
+                "tirer (une fl\u00e8che)"
+            ],
+            "English": [
+                "Ia to shoot an arrow (see also <span class=\"selectableFont\">\u071f\u072b\u0730\u071b</span>)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2771,
+            "uri": "https://sedra.bethmardutho.org/api/root/2771.json"
+        },
+        "words": [
+            {
+                "id": 41812,
+                "uri": "https://sedra.bethmardutho.org/api/word/41812.json"
+            },
+            {
+                "id": 40741,
+                "uri": "https://sedra.bethmardutho.org/api/word/40741.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

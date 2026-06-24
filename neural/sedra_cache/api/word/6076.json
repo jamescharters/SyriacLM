@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u071a\u0712\u071b\u0710",
+        "western": "\u071a\u0733\u0712\u0742\u071b\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 926,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/926.json"
+        },
+        "stem": "\u071a\u0712\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0642, \u0643\u0633\u0631",
+                "\u0633\u0642\u0637 (\u0628\u0631\u062f)",
+                "\u00a0",
+                "\u0642\u0637\u0639, \u062e\u0628\u0637"
+            ],
+            "eng": [
+                "IIp to be thrown down headlong.",
+                "to beat (the ground)",
+                "knock down",
+                "IIa to dash against the ground",
+                "convulse",
+                "Ip",
+                "to batter",
+                "Ia to beat down"
+            ],
+            "fre": [
+                "tomber (gr\u00eale)",
+                "frapper, briser",
+                "\u00a0",
+                "abattre en coupant, en frappant"
+            ]
+        },
+        "word": {
+            "id": 6076,
+            "uri": "https://sedra.bethmardutho.org/api/word/6076.json"
+        }
+    }
+]

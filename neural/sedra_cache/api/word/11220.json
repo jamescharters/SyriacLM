@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0713\u0718\u072b\u0710",
+        "western": "\u0720\u0730\u0721\u0713\u0742\u073d\u0718\u072b\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1707,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1707.json"
+        },
+        "stem": "\u0721\u0713\u0718\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0627\u0642"
+            ],
+            "eng": [
+                "magus",
+                "Magi",
+                "Magian",
+                "magian, Zoroastrian priest."
+            ],
+            "fre": [
+                "magicien"
+            ]
+        },
+        "word": {
+            "id": 11220,
+            "uri": "https://sedra.bethmardutho.org/api/word/11220.json"
+        }
+    }
+]

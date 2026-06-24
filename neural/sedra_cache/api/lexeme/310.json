@@ -1,0 +1,74 @@
+[
+    {
+        "lexeme": {
+            "id": 310,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/310.json"
+        },
+        "syriac": "\u0710\u072b\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0",
+                "\u00a0"
+            ],
+            "French": [
+                "fond",
+                "six\u2026"
+            ],
+            "English": [
+                "foundation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 230,
+            "uri": "https://sedra.bethmardutho.org/api/root/230.json"
+        },
+        "words": [
+            {
+                "id": 2012,
+                "uri": "https://sedra.bethmardutho.org/api/word/2012.json"
+            },
+            {
+                "id": 2011,
+                "uri": "https://sedra.bethmardutho.org/api/word/2011.json"
+            },
+            {
+                "id": 2010,
+                "uri": "https://sedra.bethmardutho.org/api/word/2010.json"
+            },
+            {
+                "id": 2009,
+                "uri": "https://sedra.bethmardutho.org/api/word/2009.json"
+            },
+            {
+                "id": 2008,
+                "uri": "https://sedra.bethmardutho.org/api/word/2008.json"
+            },
+            {
+                "id": 2007,
+                "uri": "https://sedra.bethmardutho.org/api/word/2007.json"
+            },
+            {
+                "id": 2006,
+                "uri": "https://sedra.bethmardutho.org/api/word/2006.json"
+            },
+            {
+                "id": 2005,
+                "uri": "https://sedra.bethmardutho.org/api/word/2005.json"
+            },
+            {
+                "id": 2004,
+                "uri": "https://sedra.bethmardutho.org/api/word/2004.json"
+            },
+            {
+                "id": 2003,
+                "uri": "https://sedra.bethmardutho.org/api/word/2003.json"
+            },
+            {
+                "id": 2013,
+                "uri": "https://sedra.bethmardutho.org/api/word/2013.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

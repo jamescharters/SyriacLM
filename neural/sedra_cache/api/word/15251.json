@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u0725\u071b\u0720\u0710",
+        "western": "\u0715\u0741\u0725\u0730\u071b\u0720\u0733\u0710",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2300,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2300.json"
+        },
+        "stem": "\u0725\u071b\u0720\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "obtuse",
+                "difficult",
+                "stubborn",
+                "hard"
+            ]
+        },
+        "word": {
+            "id": 15251,
+            "uri": "https://sedra.bethmardutho.org/api/word/15251.json"
+        }
+    }
+]

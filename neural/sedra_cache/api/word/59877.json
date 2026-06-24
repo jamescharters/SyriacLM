@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u071a\u0718\u0723\u0710",
+        "western": "\u0710\u0730\u071a\u0718\u073d\u0723\u0733\u0710",
+        "lexeme": {
+            "id": 33522,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33522.json"
+        },
+        "stem": "\u0710\u071a\u0718\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "younger brother",
+                "little brother"
+            ],
+            "lat": [
+                "fraterculus"
+            ]
+        },
+        "word": {
+            "id": 59877,
+            "uri": "https://sedra.bethmardutho.org/api/word/59877.json"
+        }
+    }
+]

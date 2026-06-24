@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0723\u0717\u072a\u0710",
+        "western": "\u0723\u0730\u0717\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "common",
+        "lexeme": {
+            "id": 2080,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2080.json"
+        },
+        "stem": "\u0723\u0717\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "moon.",
+                "moon"
+            ]
+        },
+        "word": {
+            "id": 13879,
+            "uri": "https://sedra.bethmardutho.org/api/word/13879.json"
+        }
+    }
+]

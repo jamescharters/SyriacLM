@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071b\u072a\u071b\u0725",
+        "western": "\u071b\u0730\u072a\u071b\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14753.json"
+        },
+        "stem": "\u071b\u072a\u071b\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to seethe, swell, surge",
+                "IVp to be made to boil, seethe up."
+            ]
+        },
+        "word": {
+            "id": 40591,
+            "uri": "https://sedra.bethmardutho.org/api/word/40591.json"
+        }
+    }
+]

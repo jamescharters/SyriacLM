@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u072c\u0717\u0720\u0720\u072c\u0710",
+        "western": "\u072c\u0730\u0717\u0720\u0730\u0720\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6170,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6170.json"
+        },
+        "stem": "\u072c\u0717\u0720\u0720\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "mockery",
+                "object of derision",
+                "jest."
+            ]
+        },
+        "word": {
+            "id": 34133,
+            "uri": "https://sedra.bethmardutho.org/api/word/34133.json"
+        }
+    }
+]

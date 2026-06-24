@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072a\u0725\u071d",
+        "western": "\u072a\u0730\u0725\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3048,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3048.json"
+        },
+        "stem": "\u072a\u0725\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "reconcile"
+            ]
+        },
+        "word": {
+            "id": 19869,
+            "uri": "https://sedra.bethmardutho.org/api/word/19869.json"
+        }
+    }
+]

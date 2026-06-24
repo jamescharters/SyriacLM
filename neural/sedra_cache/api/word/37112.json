@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u071f\u0718\u072a\u072c\u0710",
+        "western": "\u0721\u071f\u073d\u0718\u072a\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11608,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11608.json"
+        },
+        "stem": "\u0721\u071f\u0718\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062e\u0637\u0628, \u0645\u0632\u0648\u062c",
+                "\u0637\u0627\u0644\u0628, \u0627\u0644\u0632\u0648\u0627\u062c",
+                "\u0639\u0627\u0634\u0642",
+                ""
+            ],
+            "eng": [
+                "bridegroom, bride",
+                "suitor."
+            ],
+            "fre": [
+                "amant",
+                "",
+                "qui fiance, marie",
+                "pr\u00e9tendant"
+            ]
+        },
+        "word": {
+            "id": 37112,
+            "uri": "https://sedra.bethmardutho.org/api/word/37112.json"
+        }
+    }
+]

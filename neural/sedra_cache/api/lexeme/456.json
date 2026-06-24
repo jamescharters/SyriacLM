@@ -1,0 +1,26 @@
+[
+    {
+        "lexeme": {
+            "id": 456,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/456.json"
+        },
+        "syriac": "\u0712\u072a\u072b\u0712\u0710",
+        "glosses": {
+            "English": [
+                "Barsabas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 309,
+            "uri": "https://sedra.bethmardutho.org/api/root/309.json"
+        },
+        "words": [
+            {
+                "id": 3154,
+                "uri": "https://sedra.bethmardutho.org/api/word/3154.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

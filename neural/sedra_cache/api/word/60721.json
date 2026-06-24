@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0725",
+        "western": "\u0721\u0730\u072a\u0730\u0725",
+        "lexeme": {
+            "id": 34366,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/34366.json"
+        },
+        "stem": "\u0721\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be ill"
+            ]
+        },
+        "word": {
+            "id": 60721,
+            "uri": "https://sedra.bethmardutho.org/api/word/60721.json"
+        }
+    }
+]

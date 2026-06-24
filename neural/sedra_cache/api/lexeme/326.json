@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 326,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/326.json"
+        },
+        "syriac": "\u0712\u072c\u072a\u071f\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0639\u062f, \u062b\u0645",
+                "\u0628\u0639\u062f\u0626\u0630"
+            ],
+            "French": [
+                "apr\u00e8s, ensuite",
+                "ensuite"
+            ],
+            "English": [
+                "afterwards",
+                "afterwards."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 239,
+            "uri": "https://sedra.bethmardutho.org/api/root/239.json"
+        },
+        "words": [
+            {
+                "id": 2209,
+                "uri": "https://sedra.bethmardutho.org/api/word/2209.json"
+            },
+            {
+                "id": 2201,
+                "uri": "https://sedra.bethmardutho.org/api/word/2201.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

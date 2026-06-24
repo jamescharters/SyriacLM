@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0712\u072a\u071d\u071f\u0710",
+        "western": "\u0712\u0730\u072a\u073a\u071d\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9912,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9912.json"
+        },
+        "stem": "\u0712\u072a\u071d\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646\u0637\u0631\u062d, \u0633\u0627\u062c\u062f"
+            ],
+            "eng": [
+                "curved, kneeling down."
+            ],
+            "fre": [
+                "prostern\u00e9"
+            ]
+        },
+        "word": {
+            "id": 35924,
+            "uri": "https://sedra.bethmardutho.org/api/word/35924.json"
+        }
+    }
+]

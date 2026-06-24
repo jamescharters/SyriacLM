@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0725",
+        "western": "\u0722\u0713\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15690,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15690.json"
+        },
+        "stem": "\u0722\u0713\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to sink down, to tear (a cloth), make a hole."
+            ]
+        },
+        "word": {
+            "id": 41511,
+            "uri": "https://sedra.bethmardutho.org/api/word/41511.json"
+        }
+    }
+]

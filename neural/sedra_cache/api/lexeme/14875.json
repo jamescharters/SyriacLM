@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 14875,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14875.json"
+        },
+        "syriac": "\u0726\u0720\u0726\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0634, \u0644\u0648\u062b",
+                "\u00a0"
+            ],
+            "French": [
+                "asperger, souiller",
+                "\u00a0"
+            ],
+            "English": [
+                "IVp.",
+                "to wallow",
+                "IVa to bespatter, to defile"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2514,
+            "uri": "https://sedra.bethmardutho.org/api/root/2514.json"
+        },
+        "words": [
+            {
+                "id": 40982,
+                "uri": "https://sedra.bethmardutho.org/api/word/40982.json"
+            },
+            {
+                "id": 39891,
+                "uri": "https://sedra.bethmardutho.org/api/word/39891.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

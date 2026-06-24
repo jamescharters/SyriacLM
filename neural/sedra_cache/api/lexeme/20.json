@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 20,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20.json"
+        },
+        "syriac": "\u0710\u0713\u0718\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0635\u0627\u0631\u0639\u0629, \u062c\u0647\u0627\u062f"
+            ],
+            "French": [
+                "lutte, combat"
+            ],
+            "English": [
+                "contest, struggle.",
+                "contest",
+                "conflict"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03b3\u03ce\u03bd"
+            ]
+        },
+        "root": {
+            "id": 15,
+            "uri": "https://sedra.bethmardutho.org/api/root/15.json"
+        },
+        "words": [
+            {
+                "id": 176,
+                "uri": "https://sedra.bethmardutho.org/api/word/176.json"
+            },
+            {
+                "id": 175,
+                "uri": "https://sedra.bethmardutho.org/api/word/175.json"
+            },
+            {
+                "id": 174,
+                "uri": "https://sedra.bethmardutho.org/api/word/174.json"
+            },
+            {
+                "id": 173,
+                "uri": "https://sedra.bethmardutho.org/api/word/173.json"
+            },
+            {
+                "id": 172,
+                "uri": "https://sedra.bethmardutho.org/api/word/172.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

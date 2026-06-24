@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1481,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1481.json"
+        },
+        "syriac": "\u071f\u0718\u071d\u0720\u0710",
+        "glosses": {
+            "English": [
+                "ark",
+                "(Noah\u2019s) Ark."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 878,
+            "uri": "https://sedra.bethmardutho.org/api/root/878.json"
+        },
+        "words": [
+            {
+                "id": 33596,
+                "uri": "https://sedra.bethmardutho.org/api/word/33596.json"
+            },
+            {
+                "id": 9766,
+                "uri": "https://sedra.bethmardutho.org/api/word/9766.json"
+            },
+            {
+                "id": 9767,
+                "uri": "https://sedra.bethmardutho.org/api/word/9767.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

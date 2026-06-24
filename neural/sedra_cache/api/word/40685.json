@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0719\u072a\u0729",
+        "western": "\u0719\u072a\u0730\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15682,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15682.json"
+        },
+        "stem": "\u0719\u072a\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0628\u062f\u062f, \u0634\u062a\u062a",
+                "\u0623\u0631\u062e\u0649"
+            ],
+            "eng": [
+                "Ip",
+                "IIa, IIIa to disperse.",
+                "Ia to scatter, sprinkle"
+            ],
+            "fre": [
+                "disperser, r\u00e9pandre",
+                "rel\u00e2cher",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40685,
+            "uri": "https://sedra.bethmardutho.org/api/word/40685.json"
+        }
+    }
+]

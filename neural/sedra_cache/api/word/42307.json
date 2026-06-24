@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0717\u0712\u0712\u0710",
+        "western": "\u0717\u0730\u0712\u0733\u0712\u0308\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 771,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/771.json"
+        },
+        "stem": "\u0717\u0712\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0647\u0631\u0629"
+            ],
+            "eng": [
+                "flower.",
+                "flower"
+            ],
+            "fre": [
+                "fleur"
+            ]
+        },
+        "word": {
+            "id": 42307,
+            "uri": "https://sedra.bethmardutho.org/api/word/42307.json"
+        }
+    }
+]

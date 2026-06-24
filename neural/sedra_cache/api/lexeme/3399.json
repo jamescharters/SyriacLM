@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 3399,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3399.json"
+        },
+        "syriac": "\u072c\u0720\u072c\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0644\u0627\u062b\u0648\u0646"
+            ],
+            "French": [
+                "trente"
+            ],
+            "English": [
+                "thirty.",
+                "thirty"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1973,
+            "uri": "https://sedra.bethmardutho.org/api/root/1973.json"
+        },
+        "words": [
+            {
+                "id": 22526,
+                "uri": "https://sedra.bethmardutho.org/api/word/22526.json"
+            },
+            {
+                "id": 22525,
+                "uri": "https://sedra.bethmardutho.org/api/word/22525.json"
+            },
+            {
+                "id": 22524,
+                "uri": "https://sedra.bethmardutho.org/api/word/22524.json"
+            },
+            {
+                "id": 22527,
+                "uri": "https://sedra.bethmardutho.org/api/word/22527.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0720\u0718\u0729\u071b\u0710",
+        "western": "\u0720\u073d\u0718\u0729\u0733\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6290,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6290.json"
+        },
+        "stem": "\u0720\u0718\u0729\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646\u062a\u062e\u0628\u0627\u062a",
+                "\u0642\u0637\u0641, \u0644\u0645"
+            ],
+            "eng": [
+                "gathering in (of fruit etc.)",
+                "extract, selection."
+            ],
+            "fre": [
+                "anthologie",
+                "cueillette, qu\u00eate"
+            ]
+        },
+        "word": {
+            "id": 30627,
+            "uri": "https://sedra.bethmardutho.org/api/word/30627.json"
+        }
+    }
+]

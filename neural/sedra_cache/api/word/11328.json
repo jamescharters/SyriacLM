@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0718\u072c\u0717",
+        "western": "\u0720\u0721\u0730\u0718\u072c\u0741\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1728,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1728.json"
+        },
+        "stem": "\u0721\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "death",
+                "death."
+            ]
+        },
+        "word": {
+            "id": 11328,
+            "uri": "https://sedra.bethmardutho.org/api/word/11328.json"
+        }
+    }
+]

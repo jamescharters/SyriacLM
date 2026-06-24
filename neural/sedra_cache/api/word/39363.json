@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u0723\u0726\u072a\u0713\u0720\u0710",
+        "western": "\u0710\u0736\u0723\u0726\u0730\u072a\u0713\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14315,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14315.json"
+        },
+        "stem": "\u0710\u0723\u0726\u072a\u0713\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u062c\u0631\u0629 \u0633\u0641\u0631\u062c\u0644",
+                "\u0633\u0641\u0631\u062c\u0644"
+            ],
+            "eng": [
+                "quince."
+            ],
+            "fre": [
+                "coing",
+                "cognassier"
+            ]
+        },
+        "word": {
+            "id": 39363,
+            "uri": "https://sedra.bethmardutho.org/api/word/39363.json"
+        }
+    }
+]

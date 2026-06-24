@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 205,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/205.json"
+        },
+        "syriac": "\u0710\u0723\u071b\u0715\u0710",
+        "glosses": {
+            "English": [
+                "stade",
+                "stadium",
+                "arena",
+                "stade (measure of distance)."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c4\u03ac\u03b4\u03b9\u03bf\u03bd"
+            ]
+        },
+        "root": {
+            "id": 153,
+            "uri": "https://sedra.bethmardutho.org/api/root/153.json"
+        },
+        "words": [
+            {
+                "id": 1522,
+                "uri": "https://sedra.bethmardutho.org/api/word/1522.json"
+            },
+            {
+                "id": 50365,
+                "uri": "https://sedra.bethmardutho.org/api/word/50365.json"
+            },
+            {
+                "id": 1519,
+                "uri": "https://sedra.bethmardutho.org/api/word/1519.json"
+            },
+            {
+                "id": 1520,
+                "uri": "https://sedra.bethmardutho.org/api/word/1520.json"
+            },
+            {
+                "id": 22957,
+                "uri": "https://sedra.bethmardutho.org/api/word/22957.json"
+            },
+            {
+                "id": 1521,
+                "uri": "https://sedra.bethmardutho.org/api/word/1521.json"
+            },
+            {
+                "id": 1523,
+                "uri": "https://sedra.bethmardutho.org/api/word/1523.json"
+            },
+            {
+                "id": 42317,
+                "uri": "https://sedra.bethmardutho.org/api/word/42317.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

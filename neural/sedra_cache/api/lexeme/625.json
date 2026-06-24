@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 625,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/625.json"
+        },
+        "syriac": "\u0713\u072a\u0712\u0710",
+        "glosses": {
+            "English": [
+                "leathern bottle",
+                "vessel",
+                "jar",
+                "pitcher",
+                "well",
+                "robe",
+                "bottle",
+                "jar",
+                "pitcher",
+                "skin",
+                "jar, pitcher",
+                "garment.",
+                "leather bottle"
+            ],
+            "Greek": [
+                "\u03bb\u1f71\u03ba\u03ba\u03bf\u03c2"
+            ],
+            "Arabic": [
+                "\u0632\u0642",
+                "\u062c\u0631\u0629",
+                "\u0628\u0626\u0631",
+                "\u062b\u0648\u0628"
+            ],
+            "French": [
+                "outre",
+                "jarre",
+                "puits",
+                "v\u00eatement"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 401,
+            "uri": "https://sedra.bethmardutho.org/api/root/401.json"
+        },
+        "words": [
+            {
+                "id": 3966,
+                "uri": "https://sedra.bethmardutho.org/api/word/3966.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

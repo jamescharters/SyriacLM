@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u071f\u071a\u0718\u0720",
+        "western": "\u071f\u0741\u071a\u073d\u0718\u0720",
+        "tense": "imperative",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1507,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1507.json"
+        },
+        "stem": "\u071f\u071a\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0623\u0639\u0645\u0649",
+                "\u062e\u0636\u0628 (\u0627\u0644\u0623\u0639\u064a\u0646)"
+            ],
+            "eng": [
+                "to gouge out (eyes)",
+                "Ip.",
+                "Ia to apply eye-black, Kth. mascara",
+                "paint"
+            ],
+            "fre": [
+                "\u00a0",
+                "farder ( les yeux)",
+                "aveugler"
+            ]
+        },
+        "word": {
+            "id": 9895,
+            "uri": "https://sedra.bethmardutho.org/api/word/9895.json"
+        }
+    }
+]

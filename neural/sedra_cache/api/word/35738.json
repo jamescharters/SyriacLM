@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u072c\u071d\u071a\u0718\u072c\u0710",
+        "western": "\u0726\u072c\u073a\u071d\u071a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10450,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10450.json"
+        },
+        "stem": "\u0726\u072c\u071d\u071a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062a\u062d"
+            ],
+            "eng": [
+                "aperture, opening."
+            ],
+            "fre": [
+                "ouverture"
+            ]
+        },
+        "word": {
+            "id": 35738,
+            "uri": "https://sedra.bethmardutho.org/api/word/35738.json"
+        }
+    }
+]

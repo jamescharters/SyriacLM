@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 3088,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3088.json"
+        },
+        "syriac": "\u0721\u072b\u072a\u072c\u071a\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u062b\u0631\u0629"
+            ],
+            "French": [
+                "abondance"
+            ],
+            "English": [
+                "abundance",
+                "abundance, plenty."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1796,
+            "uri": "https://sedra.bethmardutho.org/api/root/1796.json"
+        },
+        "words": [
+            {
+                "id": 20052,
+                "uri": "https://sedra.bethmardutho.org/api/word/20052.json"
+            },
+            {
+                "id": 20053,
+                "uri": "https://sedra.bethmardutho.org/api/word/20053.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "saph\u02bfel"
+    }
+]

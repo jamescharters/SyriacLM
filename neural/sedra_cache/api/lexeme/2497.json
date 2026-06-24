@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2497,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2497.json"
+        },
+        "syriac": "\u0726\u071d\u0720\u071d\u0726\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Philip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1483,
+            "uri": "https://sedra.bethmardutho.org/api/root/1483.json"
+        },
+        "words": [
+            {
+                "id": 16326,
+                "uri": "https://sedra.bethmardutho.org/api/word/16326.json"
+            },
+            {
+                "id": 16327,
+                "uri": "https://sedra.bethmardutho.org/api/word/16327.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

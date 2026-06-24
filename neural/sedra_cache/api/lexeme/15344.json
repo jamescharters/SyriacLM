@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 15344,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15344.json"
+        },
+        "syriac": "\u0726\u0722\u0729",
+        "glosses": {
+            "English": [
+                "to live luxuriously, to revel",
+                "delight",
+                "IIIa.",
+                "IIp to enjoy, to delight in",
+                "to give pleasure",
+                "IIa to indulge"
+            ],
+            "Arabic": [
+                "\u0646\u0639\u0645 (\u0645\u0636)",
+                "\u062f\u0644\u0644"
+            ],
+            "French": [
+                "charmer",
+                "amollir"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2153,
+            "uri": "https://sedra.bethmardutho.org/api/root/2153.json"
+        },
+        "words": [
+            {
+                "id": 16608,
+                "uri": "https://sedra.bethmardutho.org/api/word/16608.json"
+            },
+            {
+                "id": 27636,
+                "uri": "https://sedra.bethmardutho.org/api/word/27636.json"
+            },
+            {
+                "id": 27637,
+                "uri": "https://sedra.bethmardutho.org/api/word/27637.json"
+            },
+            {
+                "id": 16609,
+                "uri": "https://sedra.bethmardutho.org/api/word/16609.json"
+            },
+            {
+                "id": 40592,
+                "uri": "https://sedra.bethmardutho.org/api/word/40592.json"
+            },
+            {
+                "id": 40431,
+                "uri": "https://sedra.bethmardutho.org/api/word/40431.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 665,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/665.json"
+        },
+        "syriac": "\u0715\u0718\u071d\u0715",
+        "glosses": {
+            "Arabic": [
+                "",
+                "\u0643\u062a\u0627\u0628 \u0627\u0644\u0645\u0632\u0627\u0645\u064a\u0631"
+            ],
+            "French": [
+                "David\u2026",
+                "psautier"
+            ],
+            "English": [
+                "David",
+                "Psalter (of David)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 422,
+            "uri": "https://sedra.bethmardutho.org/api/root/422.json"
+        },
+        "words": [
+            {
+                "id": 4199,
+                "uri": "https://sedra.bethmardutho.org/api/word/4199.json"
+            },
+            {
+                "id": 4198,
+                "uri": "https://sedra.bethmardutho.org/api/word/4198.json"
+            },
+            {
+                "id": 4196,
+                "uri": "https://sedra.bethmardutho.org/api/word/4196.json"
+            },
+            {
+                "id": 4197,
+                "uri": "https://sedra.bethmardutho.org/api/word/4197.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

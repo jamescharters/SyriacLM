@@ -1,0 +1,95 @@
+[
+    {
+        "lexeme": {
+            "id": 15133,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15133.json"
+        },
+        "syriac": "\u071b\u071f\u0723",
+        "glosses": {
+            "English": [
+                "IIp to be set in order, arranged",
+                "arrange",
+                "order",
+                "to institute, set over, appoint",
+                "IIa to set in order, arrange, assign",
+                "to be instituted, ordained, appointed",
+                "to control, keep in order",
+                "to be drawn up, composed."
+            ],
+            "Arabic": [
+                "\u0646\u0638\u0645 (\u0645\u0636), \u0631\u062a\u0628 (\u0645\u0636), \u0646\u0633\u0642",
+                "\u0635\u0644\u062d (\u0645\u0636)",
+                "\u0648\u0636\u0639, \u062e\u0635",
+                "\u0623\u0642\u0627\u0645",
+                "\u062f\u0641\u0646",
+                "\u0627\u062d\u062a\u0641\u0644 (\u0628\u0627\u0644\u0642\u062f\u0627\u0633), \u0633\u0627\u0645 (\u0643\u0627\u0647\u0646\u0627\u064b), \u062a\u0646\u0627\u0648\u0644",
+                "\u00a0"
+            ],
+            "French": [
+                "mettre en ordre, disposer, composer",
+                "corriger",
+                "placer, attribuer",
+                "\u00e9tablir",
+                "ensevelir",
+                "c\u00e9l\u00e9brer ( la messe), ordonner ( un pr\u00eatre ), communier",
+                "\u00a0"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c4\u03ac\u03be\u03b9\u03c2"
+            ]
+        },
+        "root": {
+            "id": 3073,
+            "uri": "https://sedra.bethmardutho.org/api/root/3073.json"
+        },
+        "words": [
+            {
+                "id": 8074,
+                "uri": "https://sedra.bethmardutho.org/api/word/8074.json"
+            },
+            {
+                "id": 8073,
+                "uri": "https://sedra.bethmardutho.org/api/word/8073.json"
+            },
+            {
+                "id": 25116,
+                "uri": "https://sedra.bethmardutho.org/api/word/25116.json"
+            },
+            {
+                "id": 25117,
+                "uri": "https://sedra.bethmardutho.org/api/word/25117.json"
+            },
+            {
+                "id": 29306,
+                "uri": "https://sedra.bethmardutho.org/api/word/29306.json"
+            },
+            {
+                "id": 29309,
+                "uri": "https://sedra.bethmardutho.org/api/word/29309.json"
+            },
+            {
+                "id": 8072,
+                "uri": "https://sedra.bethmardutho.org/api/word/8072.json"
+            },
+            {
+                "id": 25114,
+                "uri": "https://sedra.bethmardutho.org/api/word/25114.json"
+            },
+            {
+                "id": 25115,
+                "uri": "https://sedra.bethmardutho.org/api/word/25115.json"
+            },
+            {
+                "id": 40756,
+                "uri": "https://sedra.bethmardutho.org/api/word/40756.json"
+            },
+            {
+                "id": 40736,
+                "uri": "https://sedra.bethmardutho.org/api/word/40736.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

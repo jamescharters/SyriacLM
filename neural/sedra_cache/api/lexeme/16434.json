@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 16434,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16434.json"
+        },
+        "syriac": "\u0710\u0718\u0729\u0722\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "steward"
+            ],
+            "Greek": [
+                "\u03bf\u1f30\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c2"
+            ],
+            "English": [
+                "one who manages a household, generally, manager, administrator,"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bf\u1f30\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c2 from \u03bf\u1f34\u03ba\u03bf\u03c2 + \u03bd\u03cc\u03bc\u03bf\u03c2",
+                "\u03bf\u1f30\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 54885,
+                "uri": "https://sedra.bethmardutho.org/api/word/54885.json"
+            },
+            {
+                "id": 42808,
+                "uri": "https://sedra.bethmardutho.org/api/word/42808.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

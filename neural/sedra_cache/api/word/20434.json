@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0710\u072b\u072c\u0715\u072a\u072c",
+        "western": "\u0710\u0736\u072b\u072c\u0741\u0730\u0715\u0741\u072a\u0736\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 15074,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15074.json"
+        },
+        "stem": "\u072b\u0715\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0645\u0649",
+                "\u0623\u0631\u062c\u0639",
+                "\u0635\u0631\u0641 (\u0645\u0636)",
+                "\u00a0",
+                "\u0623\u0631\u0633\u0644"
+            ],
+            "eng": [
+                "IIp.",
+                "send",
+                "IIa to send"
+            ],
+            "fre": [
+                "laisser partir",
+                "\u00a0",
+                "renvoyer",
+                "jeter",
+                "envoyer"
+            ]
+        },
+        "word": {
+            "id": 20434,
+            "uri": "https://sedra.bethmardutho.org/api/word/20434.json"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3037,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3037.json"
+        },
+        "syriac": "\u072a\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "consideration",
+                "care",
+                "concern",
+                "care, anxiety.",
+                "reflection, thought, meditation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1770,
+            "uri": "https://sedra.bethmardutho.org/api/root/1770.json"
+        },
+        "words": [
+            {
+                "id": 19819,
+                "uri": "https://sedra.bethmardutho.org/api/word/19819.json"
+            },
+            {
+                "id": 19820,
+                "uri": "https://sedra.bethmardutho.org/api/word/19820.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

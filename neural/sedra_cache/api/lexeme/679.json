@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 679,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/679.json"
+        },
+        "syriac": "\u0715\u071a\u071d\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062e\u064a\u0641",
+                "\u0641\u0632\u0639"
+            ],
+            "French": [
+                "redoubtable",
+                "craintif"
+            ],
+            "English": [
+                "afraid"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 432,
+            "uri": "https://sedra.bethmardutho.org/api/root/432.json"
+        },
+        "words": [
+            {
+                "id": 4267,
+                "uri": "https://sedra.bethmardutho.org/api/word/4267.json"
+            },
+            {
+                "id": 4266,
+                "uri": "https://sedra.bethmardutho.org/api/word/4266.json"
+            },
+            {
+                "id": 4270,
+                "uri": "https://sedra.bethmardutho.org/api/word/4270.json"
+            },
+            {
+                "id": 4269,
+                "uri": "https://sedra.bethmardutho.org/api/word/4269.json"
+            },
+            {
+                "id": 4268,
+                "uri": "https://sedra.bethmardutho.org/api/word/4268.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15168,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15168.json"
+        },
+        "syriac": "\u0726\u071d\u071b",
+        "glosses": {
+            "English": [
+                "IIIa to treat lightly.",
+                "IIp",
+                "IIa to deride, to scorn utterly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2123,
+            "uri": "https://sedra.bethmardutho.org/api/root/2123.json"
+        },
+        "words": [
+            {
+                "id": 40792,
+                "uri": "https://sedra.bethmardutho.org/api/word/40792.json"
+            },
+            {
+                "id": 40708,
+                "uri": "https://sedra.bethmardutho.org/api/word/40708.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

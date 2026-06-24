@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1034,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1034.json"
+        },
+        "syriac": "\u071a\u0720\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0645\u062f"
+            ],
+            "French": [
+                "fourreau"
+            ],
+            "English": [
+                "sheath, scabbard.",
+                "sheath",
+                "scabbard"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 624,
+            "uri": "https://sedra.bethmardutho.org/api/root/624.json"
+        },
+        "words": [
+            {
+                "id": 3075,
+                "uri": "https://sedra.bethmardutho.org/api/word/3075.json"
+            },
+            {
+                "id": 7053,
+                "uri": "https://sedra.bethmardutho.org/api/word/7053.json"
+            },
+            {
+                "id": 7052,
+                "uri": "https://sedra.bethmardutho.org/api/word/7052.json"
+            },
+            {
+                "id": 42309,
+                "uri": "https://sedra.bethmardutho.org/api/word/42309.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

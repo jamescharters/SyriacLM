@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15708,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15708.json"
+        },
+        "syriac": "\u071f\u0721\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u062a\u0645",
+                "\u062a\u062c\u0641\u0641"
+            ],
+            "French": [
+                "taire",
+                "se dess\u00e9cher"
+            ],
+            "English": [
+                "to be silent.",
+                "Ia to dry up, fade away"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2431,
+            "uri": "https://sedra.bethmardutho.org/api/root/2431.json"
+        },
+        "words": [
+            {
+                "id": 41969,
+                "uri": "https://sedra.bethmardutho.org/api/word/41969.json"
+            },
+            {
+                "id": 40572,
+                "uri": "https://sedra.bethmardutho.org/api/word/40572.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

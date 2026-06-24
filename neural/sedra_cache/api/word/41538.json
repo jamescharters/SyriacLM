@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0725\u0718\u0710",
+        "western": "\u0725\u0718\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15619,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15619.json"
+        },
+        "stem": "\u0725\u0718\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to bark",
+                "IIIa to make to groan, to oppress.",
+                "to howl",
+                "Ia to groan"
+            ]
+        },
+        "word": {
+            "id": 41538,
+            "uri": "https://sedra.bethmardutho.org/api/word/41538.json"
+        }
+    }
+]

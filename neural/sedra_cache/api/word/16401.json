@@ -1,0 +1,53 @@
+[
+    {
+        "syriac": "\u0715\u0726\u071f\u072a\u0717",
+        "western": "\u0715\u0741\u0726\u0742\u0730\u071f\u0742\u072a\u0736\u0717",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2516,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2516.json"
+        },
+        "stem": "\u0726\u071f\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u0637, \u0623\u0648\u062b\u0642",
+                "\u0636\u0645",
+                "\u00a0"
+            ],
+            "eng": [
+                "to join, clasp (the hands)",
+                "Ip",
+                "involved",
+                "IIa to bind tightly",
+                "Ia to bind",
+                "fetter",
+                "entangle",
+                "to ensnare",
+                "bind",
+                "IIp."
+            ],
+            "fre": [
+                "lier, encha\u00eener",
+                "joindre ensemble",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 16401,
+            "uri": "https://sedra.bethmardutho.org/api/word/16401.json"
+        }
+    }
+]

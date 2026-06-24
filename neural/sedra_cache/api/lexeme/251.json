@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 251,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/251.json"
+        },
+        "syriac": "\u0710\u0726\u071d\u0723\u0729\u0718\u0726\u0710",
+        "glosses": {
+            "English": [
+                "bishop",
+                "overseer",
+                "bishop."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f10\u03c0\u03af\u03c3\u03ba\u03bf\u03c0\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 188,
+            "uri": "https://sedra.bethmardutho.org/api/root/188.json"
+        },
+        "words": [
+            {
+                "id": 50760,
+                "uri": "https://sedra.bethmardutho.org/api/word/50760.json"
+            },
+            {
+                "id": 1781,
+                "uri": "https://sedra.bethmardutho.org/api/word/1781.json"
+            },
+            {
+                "id": 1782,
+                "uri": "https://sedra.bethmardutho.org/api/word/1782.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

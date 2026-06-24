@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0726\u071f\u072a",
+        "western": "\u0721\u0736\u072c\u0742\u0726\u0741\u0730\u071f\u0741\u0730\u072a",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2516,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2516.json"
+        },
+        "stem": "\u0726\u071f\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u0637, \u0623\u0648\u062b\u0642",
+                "\u0636\u0645",
+                "\u00a0"
+            ],
+            "eng": [
+                "to join, clasp (the hands)",
+                "Ip",
+                "involved",
+                "IIa to bind tightly",
+                "Ia to bind",
+                "fetter",
+                "entangle",
+                "to ensnare",
+                "bind",
+                "IIp."
+            ],
+            "fre": [
+                "lier, encha\u00eener",
+                "joindre ensemble",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 27561,
+            "uri": "https://sedra.bethmardutho.org/api/word/27561.json"
+        }
+    }
+]

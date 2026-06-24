@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0726\u072b\u071d\u0729\u0718\u072c\u0710",
+        "western": "\u0726\u072b\u073a\u071d\u0729\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6742,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6742.json"
+        },
+        "stem": "\u0726\u072b\u071d\u0729\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0647\u0648\u0644\u0629",
+                "\u0643\u062b\u0631\u0629",
+                "\u0623\u0630\u0646"
+            ],
+            "eng": [
+                "ease, facility",
+                "readiness."
+            ],
+            "fre": [
+                "abondance",
+                "facilit\u00e9",
+                "permission"
+            ]
+        },
+        "word": {
+            "id": 33518,
+            "uri": "https://sedra.bethmardutho.org/api/word/33518.json"
+        }
+    }
+]

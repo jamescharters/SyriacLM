@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 3325,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3325.json"
+        },
+        "syriac": "\u072b\u072a\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0641\u0635\u0644",
+                "\u0644\u062d\u0627\u0645, \u062a\u062e\u064a\u064a\u0637"
+            ],
+            "French": [
+                "articulation",
+                "soudure, couture"
+            ],
+            "English": [
+                "joint",
+                "joint, articulation",
+                "laxity",
+                "+ <span class=\"selectableFont\">\u0715\u071f\u0730\u072a\u0723\u0733\u0710</span> diarrhea."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1931,
+            "uri": "https://sedra.bethmardutho.org/api/root/1931.json"
+        },
+        "words": [
+            {
+                "id": 22167,
+                "uri": "https://sedra.bethmardutho.org/api/word/22167.json"
+            },
+            {
+                "id": 22170,
+                "uri": "https://sedra.bethmardutho.org/api/word/22170.json"
+            },
+            {
+                "id": 22169,
+                "uri": "https://sedra.bethmardutho.org/api/word/22169.json"
+            },
+            {
+                "id": 22168,
+                "uri": "https://sedra.bethmardutho.org/api/word/22168.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

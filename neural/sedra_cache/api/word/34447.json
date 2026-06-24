@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0715\u0710",
+        "western": "\u0721\u0730\u072a\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10630,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10630.json"
+        },
+        "stem": "\u0721\u072a\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0631\u064a\u0642, \u0637\u0648\u0644"
+            ],
+            "eng": [
+                "journey",
+                "journey."
+            ],
+            "fre": [
+                "chemin, longueur"
+            ]
+        },
+        "word": {
+            "id": 34447,
+            "uri": "https://sedra.bethmardutho.org/api/word/34447.json"
+        }
+    }
+]

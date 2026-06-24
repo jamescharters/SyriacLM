@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3043,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3043.json"
+        },
+        "syriac": "\u072a\u0725\u071d\u0725\u0710",
+        "glosses": {
+            "English": [
+                "See verb \u072a\u0730\u0725",
+                "bruised",
+                "leaking.",
+                "bruised",
+                "broken"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1773,
+            "uri": "https://sedra.bethmardutho.org/api/root/1773.json"
+        },
+        "words": [
+            {
+                "id": 47022,
+                "uri": "https://sedra.bethmardutho.org/api/word/47022.json"
+            },
+            {
+                "id": 19833,
+                "uri": "https://sedra.bethmardutho.org/api/word/19833.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

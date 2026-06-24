@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 3418,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3418.json"
+        },
+        "syriac": "\u072c\u0722\u071d\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0646\u064a\u0646",
+                "\u062d\u064a\u0629"
+            ],
+            "French": [
+                "dragon",
+                "serpent"
+            ],
+            "English": [
+                "dragon",
+                "monster",
+                "dragon."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1982,
+            "uri": "https://sedra.bethmardutho.org/api/root/1982.json"
+        },
+        "words": [
+            {
+                "id": 22577,
+                "uri": "https://sedra.bethmardutho.org/api/word/22577.json"
+            },
+            {
+                "id": 22576,
+                "uri": "https://sedra.bethmardutho.org/api/word/22576.json"
+            },
+            {
+                "id": 22575,
+                "uri": "https://sedra.bethmardutho.org/api/word/22575.json"
+            },
+            {
+                "id": 22578,
+                "uri": "https://sedra.bethmardutho.org/api/word/22578.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

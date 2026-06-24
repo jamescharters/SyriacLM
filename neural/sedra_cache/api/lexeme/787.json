@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 787,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/787.json"
+        },
+        "syriac": "\u0717\u0718\u072b\u0725",
+        "glosses": {
+            "English": [
+                "Hosea"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 498,
+            "uri": "https://sedra.bethmardutho.org/api/root/498.json"
+        },
+        "words": [
+            {
+                "id": 5126,
+                "uri": "https://sedra.bethmardutho.org/api/word/5126.json"
+            },
+            {
+                "id": 5127,
+                "uri": "https://sedra.bethmardutho.org/api/word/5127.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

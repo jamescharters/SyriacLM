@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0723\u0726\u072a\u071d\u0715\u0710",
+        "western": "\u0710\u0723\u0726\u072a\u0308\u073a\u071d\u0715\u0736\u0710",
+        "lexeme": {
+            "id": 231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/231.json"
+        },
+        "stem": "\u0710\u0723\u0726\u072a\u071d\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0641\u0629"
+            ],
+            "eng": [
+                "basket",
+                "plaited basket."
+            ],
+            "fre": [
+                "corbeille"
+            ]
+        },
+        "word": {
+            "id": 50514,
+            "uri": "https://sedra.bethmardutho.org/api/word/50514.json"
+        }
+    }
+]

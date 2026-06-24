@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15076,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15076.json"
+        },
+        "syriac": "\u0725\u072a\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u0631\u0637"
+            ],
+            "French": [
+                "p\u00e9ter"
+            ],
+            "English": [
+                "IIa to fart."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2695,
+            "uri": "https://sedra.bethmardutho.org/api/root/2695.json"
+        },
+        "words": [
+            {
+                "id": 40333,
+                "uri": "https://sedra.bethmardutho.org/api/word/40333.json"
+            },
+            {
+                "id": 40273,
+                "uri": "https://sedra.bethmardutho.org/api/word/40273.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

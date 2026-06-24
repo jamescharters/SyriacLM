@@ -1,0 +1,81 @@
+[
+    {
+        "lexeme": {
+            "id": 2447,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2447.json"
+        },
+        "syriac": "\u0726\u0710\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0645\u0631\u0629",
+                "\u0648\u0644\u062f, \u0639\u0642\u0628",
+                "\u0645\u0641\u0639\u0648\u0644"
+            ],
+            "French": [
+                "fruit",
+                "enfant, post\u00e9rit\u00e9",
+                "effet"
+            ],
+            "English": [
+                "fruit",
+                "fruit."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1445,
+            "uri": "https://sedra.bethmardutho.org/api/root/1445.json"
+        },
+        "words": [
+            {
+                "id": 16138,
+                "uri": "https://sedra.bethmardutho.org/api/word/16138.json"
+            },
+            {
+                "id": 16137,
+                "uri": "https://sedra.bethmardutho.org/api/word/16137.json"
+            },
+            {
+                "id": 16136,
+                "uri": "https://sedra.bethmardutho.org/api/word/16136.json"
+            },
+            {
+                "id": 16133,
+                "uri": "https://sedra.bethmardutho.org/api/word/16133.json"
+            },
+            {
+                "id": 16132,
+                "uri": "https://sedra.bethmardutho.org/api/word/16132.json"
+            },
+            {
+                "id": 16143,
+                "uri": "https://sedra.bethmardutho.org/api/word/16143.json"
+            },
+            {
+                "id": 16139,
+                "uri": "https://sedra.bethmardutho.org/api/word/16139.json"
+            },
+            {
+                "id": 16135,
+                "uri": "https://sedra.bethmardutho.org/api/word/16135.json"
+            },
+            {
+                "id": 16134,
+                "uri": "https://sedra.bethmardutho.org/api/word/16134.json"
+            },
+            {
+                "id": 16142,
+                "uri": "https://sedra.bethmardutho.org/api/word/16142.json"
+            },
+            {
+                "id": 16141,
+                "uri": "https://sedra.bethmardutho.org/api/word/16141.json"
+            },
+            {
+                "id": 16140,
+                "uri": "https://sedra.bethmardutho.org/api/word/16140.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

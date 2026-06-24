@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0722\u0723\u072a",
+        "western": "\u0722\u0723\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1990,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1990.json"
+        },
+        "stem": "\u0722\u0723\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0646\u0634\u0631"
+            ],
+            "eng": [
+                "saw"
+            ],
+            "fre": [
+                "\u00a0",
+                "d\u00e9ployer"
+            ]
+        },
+        "word": {
+            "id": 13057,
+            "uri": "https://sedra.bethmardutho.org/api/word/13057.json"
+        }
+    }
+]

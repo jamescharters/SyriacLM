@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1635,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1635.json"
+        },
+        "syriac": "\u0720\u0718\u071d\u072c\u0710",
+        "glosses": {
+            "English": [
+                "escort, company, companionship",
+                "procession, funeral procession.",
+                "company"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 960,
+            "uri": "https://sedra.bethmardutho.org/api/root/960.json"
+        },
+        "words": [
+            {
+                "id": 10921,
+                "uri": "https://sedra.bethmardutho.org/api/word/10921.json"
+            },
+            {
+                "id": 10920,
+                "uri": "https://sedra.bethmardutho.org/api/word/10920.json"
+            },
+            {
+                "id": 10919,
+                "uri": "https://sedra.bethmardutho.org/api/word/10919.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

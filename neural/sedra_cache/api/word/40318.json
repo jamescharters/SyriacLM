@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u071a\u0719\u0721",
+        "western": "\u071a\u0719\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15704,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15704.json"
+        },
+        "stem": "\u071a\u0719\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u062a\u0631"
+            ],
+            "eng": [
+                "to stop the ears",
+                "Ia to cut off."
+            ],
+            "fre": [
+                "amputer"
+            ]
+        },
+        "word": {
+            "id": 40318,
+            "uri": "https://sedra.bethmardutho.org/api/word/40318.json"
+        }
+    }
+]

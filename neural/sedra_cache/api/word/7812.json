@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0712\u071a\u072b\u0721\u071d\u072c\u0710",
+        "western": "\u0712\u0741\u0730\u071a\u072b\u0733\u0721\u071d\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1184,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1184.json"
+        },
+        "stem": "\u071a\u072b\u0721\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "(also <span class=\"selectableFont\">\u0710\u0730\u071a\u072b\u0733\u0721\u073a\u071d\u072c\u0733\u0710</span>) supper, meal.",
+                "evening meal",
+                "supper",
+                "supper",
+                "feasts"
+            ]
+        },
+        "word": {
+            "id": 7812,
+            "uri": "https://sedra.bethmardutho.org/api/word/7812.json"
+        }
+    }
+]

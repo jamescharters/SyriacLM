@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 287,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/287.json"
+        },
+        "syriac": "\u0710\u072a\u071f\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "ruler",
+                "magistrate",
+                "captain",
+                "ruler, governor."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f04\u03c1\u03c7\u03c9\u03bd"
+            ]
+        },
+        "root": {
+            "id": 211,
+            "uri": "https://sedra.bethmardutho.org/api/root/211.json"
+        },
+        "words": [
+            {
+                "id": 1901,
+                "uri": "https://sedra.bethmardutho.org/api/word/1901.json"
+            },
+            {
+                "id": 1907,
+                "uri": "https://sedra.bethmardutho.org/api/word/1907.json"
+            },
+            {
+                "id": 1906,
+                "uri": "https://sedra.bethmardutho.org/api/word/1906.json"
+            },
+            {
+                "id": 1905,
+                "uri": "https://sedra.bethmardutho.org/api/word/1905.json"
+            },
+            {
+                "id": 1902,
+                "uri": "https://sedra.bethmardutho.org/api/word/1902.json"
+            },
+            {
+                "id": 1904,
+                "uri": "https://sedra.bethmardutho.org/api/word/1904.json"
+            },
+            {
+                "id": 1903,
+                "uri": "https://sedra.bethmardutho.org/api/word/1903.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

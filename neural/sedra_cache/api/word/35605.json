@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u071f\u072c\u0722\u0710",
+        "western": "\u0710\u0730\u071f\u072c\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6141,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6141.json"
+        },
+        "stem": "\u0710\u071f\u072c\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0636\u0628\u0627\u0646"
+            ],
+            "eng": [
+                "resentful, angry."
+            ],
+            "fre": [
+                "irrit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 35605,
+            "uri": "https://sedra.bethmardutho.org/api/word/35605.json"
+        }
+    }
+]

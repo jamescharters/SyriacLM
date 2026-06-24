@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0720\u071a\u0712\u072a\u0710",
+        "western": "\u0720\u071a\u0730\u0712\u0742\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 942,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/942.json"
+        },
+        "stem": "\u071a\u0712\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "mate.",
+                "companion",
+                "associate",
+                "friend",
+                "comrade",
+                "neighbour",
+                "m., <span class=\"selectableFont\">\u071a\u0712\u0730\u072a\u072c\u0733\u0710</span> f. companion, friend"
+            ]
+        },
+        "word": {
+            "id": 10018,
+            "uri": "https://sedra.bethmardutho.org/api/word/10018.json"
+        }
+    }
+]

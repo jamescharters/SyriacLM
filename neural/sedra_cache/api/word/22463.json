@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u072c\u071a\u072c\u071d",
+        "western": "\u072c\u0741\u0730\u071a\u072c\u0741\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bfli",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3385,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3385.json"
+        },
+        "stem": "\u072c\u071a\u072c\u071d",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0641\u0636",
+                "\u0623\u062e\u0636\u0639",
+                "\u0630\u0644\u0644"
+            ],
+            "eng": [
+                "to subdue",
+                "IVp.",
+                "to humble",
+                "bring low",
+                "to abase",
+                "IVa to bring low"
+            ],
+            "fre": [
+                "humilier",
+                "soumettre",
+                "abaisser"
+            ]
+        },
+        "word": {
+            "id": 22463,
+            "uri": "https://sedra.bethmardutho.org/api/word/22463.json"
+        }
+    }
+]

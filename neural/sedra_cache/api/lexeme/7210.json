@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 7210,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7210.json"
+        },
+        "syriac": "\u0723\u0718\u0726\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u0641\u0631\u0627\u063a",
+                "\u0633\u0643\u0628",
+                "\u0625\u0633\u0647\u0627\u0644",
+                "\u0642\u064a\u0621"
+            ],
+            "French": [
+                "\u00e9vacuation",
+                "versage",
+                "purgation",
+                "vomissement"
+            ],
+            "English": [
+                "emptying, evacuation, discharge."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03ad\u03bd\u03c9\u03c3\u03b9\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 38682,
+                "uri": "https://sedra.bethmardutho.org/api/word/38682.json"
+            }
+        ]
+    }
+]

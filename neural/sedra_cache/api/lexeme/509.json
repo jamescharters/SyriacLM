@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 509,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/509.json"
+        },
+        "syriac": "\u0713\u0713\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0644\u0642"
+            ],
+            "French": [
+                "gorge"
+            ],
+            "English": [
+                "throat",
+                "throat."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 340,
+            "uri": "https://sedra.bethmardutho.org/api/root/340.json"
+        },
+        "words": [
+            {
+                "id": 3484,
+                "uri": "https://sedra.bethmardutho.org/api/word/3484.json"
+            },
+            {
+                "id": 3485,
+                "uri": "https://sedra.bethmardutho.org/api/word/3485.json"
+            },
+            {
+                "id": 3483,
+                "uri": "https://sedra.bethmardutho.org/api/word/3483.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

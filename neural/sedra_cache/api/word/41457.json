@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071b\u0721\u071d",
+        "western": "\u071b\u0730\u0721\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15165,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15165.json"
+        },
+        "stem": "\u071b\u0721\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to pollute, defile",
+                "to declare unclean",
+                "IIp to be defiled, polluted",
+                "to corrupt, deflower",
+                "IIIa to pronounce unclean."
+            ]
+        },
+        "word": {
+            "id": 41457,
+            "uri": "https://sedra.bethmardutho.org/api/word/41457.json"
+        }
+    }
+]

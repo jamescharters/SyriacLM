@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0715\u0723\u071d\u0721\u072c",
+        "western": "\u0715\u0741\u0723\u073a\u071d\u0721\u0730\u072c\u0742",
+        "state": "construct",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7468,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7468.json"
+        },
+        "stem": "\u0723\u071d\u0721\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0628\u0646\u064a",
+                "\u0648\u0636\u0639",
+                "\u0633\u0631",
+                "\u063a\u0631\u0633",
+                "\u062d\u0637",
+                "\u0643\u0646\u0632"
+            ],
+            "eng": [
+                "treasure.",
+                "treasure",
+                "store"
+            ],
+            "fre": [
+                "plantation",
+                "adoption",
+                "d\u00e9position",
+                "action de placer",
+                "secret",
+                "tr\u00e9sor"
+            ]
+        },
+        "word": {
+            "id": 14092,
+            "uri": "https://sedra.bethmardutho.org/api/word/14092.json"
+        }
+    }
+]

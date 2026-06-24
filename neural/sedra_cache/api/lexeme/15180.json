@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15180,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15180.json"
+        },
+        "syriac": "\u0728\u0722\u0726",
+        "glosses": {
+            "English": [
+                "IIa to wind round."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2300,
+            "uri": "https://sedra.bethmardutho.org/api/root/2300.json"
+        },
+        "words": [
+            {
+                "id": 41000,
+                "uri": "https://sedra.bethmardutho.org/api/word/41000.json"
+            },
+            {
+                "id": 40980,
+                "uri": "https://sedra.bethmardutho.org/api/word/40980.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

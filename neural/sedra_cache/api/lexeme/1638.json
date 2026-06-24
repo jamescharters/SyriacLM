@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1638,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1638.json"
+        },
+        "syriac": "\u0720\u0718\u0715",
+        "glosses": {
+            "English": [
+                "Lydda"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 963,
+            "uri": "https://sedra.bethmardutho.org/api/root/963.json"
+        },
+        "words": [
+            {
+                "id": 10925,
+                "uri": "https://sedra.bethmardutho.org/api/word/10925.json"
+            },
+            {
+                "id": 10926,
+                "uri": "https://sedra.bethmardutho.org/api/word/10926.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

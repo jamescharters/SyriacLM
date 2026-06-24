@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 544,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/544.json"
+        },
+        "syriac": "\u0713\u0718\u072b\u0721\u0710",
+        "glosses": {
+            "English": [
+                "body",
+                "corpus",
+                "solid.",
+                "body"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 360,
+            "uri": "https://sedra.bethmardutho.org/api/root/360.json"
+        },
+        "words": [
+            {
+                "id": 3620,
+                "uri": "https://sedra.bethmardutho.org/api/word/3620.json"
+            },
+            {
+                "id": 3624,
+                "uri": "https://sedra.bethmardutho.org/api/word/3624.json"
+            },
+            {
+                "id": 3623,
+                "uri": "https://sedra.bethmardutho.org/api/word/3623.json"
+            },
+            {
+                "id": 3622,
+                "uri": "https://sedra.bethmardutho.org/api/word/3622.json"
+            },
+            {
+                "id": 3621,
+                "uri": "https://sedra.bethmardutho.org/api/word/3621.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 33609,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33609.json"
+        },
+        "syriac": "\u0717\u071f\u0723\u0717\u0713\u0710\u0720\u0717\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062d\u0631\u062c"
+            ],
+            "Syriac": [
+                "\u0710\u0726\u0729"
+            ],
+            "English": [
+                "he expelled"
+            ],
+            "Latin": [
+                "ejecit"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u0313\u03be\u03b7\u0301\u03b3\u03b1\u03b3\u03b5"
+            ]
+        },
+        "words": [
+            {
+                "id": 59964,
+                "uri": "https://sedra.bethmardutho.org/api/word/59964.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

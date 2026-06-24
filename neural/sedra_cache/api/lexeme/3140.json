@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 3140,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3140.json"
+        },
+        "syriac": "\u0721\u072b\u0713\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062c\u0627\u0646\u0629"
+            ],
+            "French": [
+                "bassin"
+            ],
+            "English": [
+                "wash-basin, wash-bowl.",
+                "basin"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1825,
+            "uri": "https://sedra.bethmardutho.org/api/root/1825.json"
+        },
+        "words": [
+            {
+                "id": 20657,
+                "uri": "https://sedra.bethmardutho.org/api/word/20657.json"
+            },
+            {
+                "id": 20658,
+                "uri": "https://sedra.bethmardutho.org/api/word/20658.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

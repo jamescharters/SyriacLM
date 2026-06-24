@@ -1,0 +1,71 @@
+[
+    {
+        "lexeme": {
+            "id": 762,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/762.json"
+        },
+        "syriac": "\u0715\u072a\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0631\u0627\u0639",
+                "\u0643\u062a\u0641",
+                "\u0630\u0631\u0627\u0639"
+            ],
+            "French": [
+                "bras",
+                "\u00e9paule",
+                "coud\u00e9e"
+            ],
+            "English": [
+                "arm",
+                "shoulder",
+                "arm, shoulder",
+                "cubit."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 480,
+            "uri": "https://sedra.bethmardutho.org/api/root/480.json"
+        },
+        "words": [
+            {
+                "id": 4890,
+                "uri": "https://sedra.bethmardutho.org/api/word/4890.json"
+            },
+            {
+                "id": 4888,
+                "uri": "https://sedra.bethmardutho.org/api/word/4888.json"
+            },
+            {
+                "id": 4891,
+                "uri": "https://sedra.bethmardutho.org/api/word/4891.json"
+            },
+            {
+                "id": 29639,
+                "uri": "https://sedra.bethmardutho.org/api/word/29639.json"
+            },
+            {
+                "id": 29638,
+                "uri": "https://sedra.bethmardutho.org/api/word/29638.json"
+            },
+            {
+                "id": 4889,
+                "uri": "https://sedra.bethmardutho.org/api/word/4889.json"
+            },
+            {
+                "id": 4885,
+                "uri": "https://sedra.bethmardutho.org/api/word/4885.json"
+            },
+            {
+                "id": 4887,
+                "uri": "https://sedra.bethmardutho.org/api/word/4887.json"
+            },
+            {
+                "id": 4886,
+                "uri": "https://sedra.bethmardutho.org/api/word/4886.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0723\u0721\u0723\u0721",
+        "western": "\u0723\u0730\u0721\u0723\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14946,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14946.json"
+        },
+        "stem": "\u0723\u0721\u0723\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0641\u0649",
+                "\u0637\u0628\u0628"
+            ],
+            "eng": [
+                "IVa to give medicine, to heal."
+            ],
+            "fre": [
+                "gu\u00e9rir",
+                "exercer la m\u00e9decine"
+            ]
+        },
+        "word": {
+            "id": 41454,
+            "uri": "https://sedra.bethmardutho.org/api/word/41454.json"
+        }
+    }
+]

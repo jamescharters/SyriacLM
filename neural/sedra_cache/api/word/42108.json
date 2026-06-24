@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0725\u0721",
+        "western": "\u0722\u0736\u0713\u0725\u0730\u0721",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15618,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15618.json"
+        },
+        "stem": "\u0713\u0725\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u0621"
+            ],
+            "eng": [
+                "IIa to cause to vomit.",
+                "Ia to vomit"
+            ],
+            "fre": [
+                "vomir"
+            ]
+        },
+        "word": {
+            "id": 42108,
+            "uri": "https://sedra.bethmardutho.org/api/word/42108.json"
+        }
+    }
+]

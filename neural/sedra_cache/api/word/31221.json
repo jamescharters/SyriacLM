@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u0719\u0713\u0710",
+        "western": "\u0726\u0730\u0719\u0713\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6677,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6677.json"
+        },
+        "stem": "\u0726\u0719\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "uneven, odd (number)."
+            ],
+            "fre": [
+                "nombre impair\u2026"
+            ]
+        },
+        "word": {
+            "id": 31221,
+            "uri": "https://sedra.bethmardutho.org/api/word/31221.json"
+        }
+    }
+]

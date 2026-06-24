@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072a\u071d\u072c\u0710",
+        "western": "\u0721\u0730\u072b\u072a\u071d\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3313,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3313.json"
+        },
+        "stem": "\u0721\u072b\u072a\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0633\u0643\u0631",
+                "\u0645\u0642\u0639\u062f",
+                "\u0645\u0639\u0633\u0643\u0631",
+                "\u062c\u064a\u0634, \u0641\u0631\u0642\u0629",
+                "\u0645\u0648\u0643\u0628"
+            ],
+            "eng": [
+                "retinue",
+                "habitation.",
+                "encampment",
+                "army",
+                "camp, encampment"
+            ],
+            "fre": [
+                "demeure",
+                "si\u00e8ge",
+                "cort\u00e8ge",
+                "arm\u00e9e, troupe",
+                "camp"
+            ]
+        },
+        "word": {
+            "id": 22014,
+            "uri": "https://sedra.bethmardutho.org/api/word/22014.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0710\u072c\u071a\u072a\u072a\u072c\u0718\u0722",
+        "western": "\u0710\u0736\u072c\u0742\u071a\u0730\u072a\u0730\u072a\u072c\u0741\u073d\u0718\u0722",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15164,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15164.json"
+        },
+        "stem": "\u071a\u072a\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0631, \u0623\u0639\u062a\u0642",
+                "\u00a0",
+                "\u0623\u0644\u063a\u0649",
+                "\u0623\u0628\u0639\u062f"
+            ],
+            "eng": [
+                "set free",
+                "IIa to liberate",
+                "IIp."
+            ],
+            "fre": [
+                "supprimer",
+                "\u00e9loigner",
+                "\u00a0",
+                "lib\u00e9rer, affranchir"
+            ]
+        },
+        "word": {
+            "id": 5971,
+            "uri": "https://sedra.bethmardutho.org/api/word/5971.json"
+        }
+    }
+]

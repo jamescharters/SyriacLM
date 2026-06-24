@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0710\u0715\u0723\u071d\u0710",
+        "western": "\u0710\u0736\u0715\u0736\u0723\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 20865,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20865.json"
+        },
+        "stem": "\u0710\u0715\u0723\u071d\u0710",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "a person's name"
+            ]
+        },
+        "word": {
+            "id": 47239,
+            "uri": "https://sedra.bethmardutho.org/api/word/47239.json"
+        }
+    }
+]

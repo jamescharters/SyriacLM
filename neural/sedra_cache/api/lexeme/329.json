@@ -1,0 +1,88 @@
+[
+    {
+        "lexeme": {
+            "id": 329,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/329.json"
+        },
+        "syriac": "\u0712\u0710\u072b",
+        "glosses": {
+            "English": [
+                "offended",
+                "ill-treat",
+                "to displease",
+                "IIIa to harm, cause evil.",
+                "Ia to be, seem evil"
+            ],
+            "Arabic": [
+                "\u0627\u063a\u062a\u0627\u0638"
+            ],
+            "French": [
+                "\u00eatre contrari\u00e9"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 242,
+            "uri": "https://sedra.bethmardutho.org/api/root/242.json"
+        },
+        "words": [
+            {
+                "id": 2247,
+                "uri": "https://sedra.bethmardutho.org/api/word/2247.json"
+            },
+            {
+                "id": 2253,
+                "uri": "https://sedra.bethmardutho.org/api/word/2253.json"
+            },
+            {
+                "id": 2252,
+                "uri": "https://sedra.bethmardutho.org/api/word/2252.json"
+            },
+            {
+                "id": 2251,
+                "uri": "https://sedra.bethmardutho.org/api/word/2251.json"
+            },
+            {
+                "id": 2250,
+                "uri": "https://sedra.bethmardutho.org/api/word/2250.json"
+            },
+            {
+                "id": 2249,
+                "uri": "https://sedra.bethmardutho.org/api/word/2249.json"
+            },
+            {
+                "id": 2248,
+                "uri": "https://sedra.bethmardutho.org/api/word/2248.json"
+            },
+            {
+                "id": 23314,
+                "uri": "https://sedra.bethmardutho.org/api/word/23314.json"
+            },
+            {
+                "id": 23313,
+                "uri": "https://sedra.bethmardutho.org/api/word/23313.json"
+            },
+            {
+                "id": 2255,
+                "uri": "https://sedra.bethmardutho.org/api/word/2255.json"
+            },
+            {
+                "id": 2258,
+                "uri": "https://sedra.bethmardutho.org/api/word/2258.json"
+            },
+            {
+                "id": 2257,
+                "uri": "https://sedra.bethmardutho.org/api/word/2257.json"
+            },
+            {
+                "id": 2256,
+                "uri": "https://sedra.bethmardutho.org/api/word/2256.json"
+            },
+            {
+                "id": 2254,
+                "uri": "https://sedra.bethmardutho.org/api/word/2254.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

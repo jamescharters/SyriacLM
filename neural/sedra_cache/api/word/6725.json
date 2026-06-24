@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u071a\u0719\u0729\u0710",
+        "western": "\u071a\u0719\u0733\u0729\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1006,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1006.json"
+        },
+        "stem": "\u071a\u0719\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u0627\u0637",
+                "\u062d\u0645\u0644",
+                "\u0632\u0646\u0627\u0631"
+            ],
+            "eng": [
+                "belt",
+                "band",
+                "belt, band, bond",
+                "bond",
+                "<span class=\"selectableFont\">\u071a\u0308\u0719\u0733\u0729\u0736\u0710</span> arteries, veins."
+            ],
+            "fre": [
+                "lien",
+                "ceinture",
+                "soutien"
+            ]
+        },
+        "word": {
+            "id": 6725,
+            "uri": "https://sedra.bethmardutho.org/api/word/6725.json"
+        }
+    }
+]

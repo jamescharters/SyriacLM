@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15717,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15717.json"
+        },
+        "syriac": "\u0722\u0723\u072a",
+        "glosses": {
+            "English": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u073d\u0718\u072a</span>, Ia to spread."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2335,
+            "uri": "https://sedra.bethmardutho.org/api/root/2335.json"
+        },
+        "words": [
+            {
+                "id": 41790,
+                "uri": "https://sedra.bethmardutho.org/api/word/41790.json"
+            },
+            {
+                "id": 41327,
+                "uri": "https://sedra.bethmardutho.org/api/word/41327.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

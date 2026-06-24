@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0728\u0715\u0725\u0710",
+        "western": "\u0728\u0736\u0715\u0725\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5475,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5475.json"
+        },
+        "stem": "\u0728\u0715\u0725\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u062f\u063a",
+                "\u0639\u0631\u0642 (\u062c\u0630\u0631)"
+            ],
+            "eng": [
+                "temples (of head)."
+            ],
+            "fre": [
+                "fibre (de racine)",
+                "tempe"
+            ]
+        },
+        "word": {
+            "id": 38191,
+            "uri": "https://sedra.bethmardutho.org/api/word/38191.json"
+        }
+    }
+]

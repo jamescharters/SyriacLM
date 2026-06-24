@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072b\u0721\u0718\u0725\u0710",
+        "western": "\u072b\u0733\u0721\u073d\u0718\u0725\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3247,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3247.json"
+        },
+        "stem": "\u072b\u0721\u0718\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u062a\u0645\u0639",
+                "\u0645\u0648\u0639\u0648\u0638"
+            ],
+            "eng": [
+                "auditor",
+                "listener, hearer",
+                "hearer",
+                "pupil."
+            ],
+            "fre": [
+                "auditeur",
+                "cat\u00e9chum\u00e8ne"
+            ]
+        },
+        "word": {
+            "id": 21396,
+            "uri": "https://sedra.bethmardutho.org/api/word/21396.json"
+        }
+    }
+]

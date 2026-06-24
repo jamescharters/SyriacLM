@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u071d\u072c\u0718\u072c\u0710",
+        "western": "\u0710\u073a\u071d\u072c\u0742\u073d\u0718\u072c\u0742\u0733\u0710",
+        "eastern": "\u0710\u071d\u073c\u072c\u0718\u073c\u072c\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 103,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/103.json"
+        },
+        "stem": "\u0710\u071d\u072c\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0648\u0647\u0631"
+            ],
+            "eng": [
+                "Divine Being, Godhead.",
+                "substance",
+                "essence",
+                "being, essence, existence"
+            ],
+            "fre": [
+                "essence"
+            ]
+        },
+        "word": {
+            "id": 760,
+            "uri": "https://sedra.bethmardutho.org/api/word/760.json"
+        }
+    }
+]

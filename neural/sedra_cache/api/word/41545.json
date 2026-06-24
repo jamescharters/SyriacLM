@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0726\u072a\u071f\u071f",
+        "western": "\u0726\u0730\u072a\u071f\u0736\u071f",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14801.json"
+        },
+        "stem": "\u0726\u072a\u071f\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u062d\u0642"
+            ],
+            "eng": [
+                "IVp.",
+                "IVa to pound, to break into pieces, to crumble"
+            ],
+            "fre": [
+                "broyer"
+            ]
+        },
+        "word": {
+            "id": 41545,
+            "uri": "https://sedra.bethmardutho.org/api/word/41545.json"
+        }
+    }
+]

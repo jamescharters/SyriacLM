@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2549,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2549.json"
+        },
+        "syriac": "\u0726\u0723\u0718\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0632\u0621",
+                "\u062a\u0639\u0628\u064a\u0631\u064a"
+            ],
+            "French": [
+                "section",
+                "\u00e9nonciatif"
+            ],
+            "English": [
+                "section",
+                "cutting off.",
+                "full stop",
+                "section"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1512,
+            "uri": "https://sedra.bethmardutho.org/api/root/1512.json"
+        },
+        "words": [
+            {
+                "id": 16626,
+                "uri": "https://sedra.bethmardutho.org/api/word/16626.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

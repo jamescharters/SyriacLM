@@ -1,0 +1,72 @@
+[
+    {
+        "lexeme": {
+            "id": 2928,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2928.json"
+        },
+        "syriac": "\u072a\u0713\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0647\u0648\u0629",
+                "\u0637\u0645\u0639",
+                "\u0641\u062a\u0627\u0646"
+            ],
+            "French": [
+                "d\u00e9sir",
+                "convoitise",
+                "s\u00e9duisant"
+            ],
+            "English": [
+                "lust.",
+                "desire",
+                "lust",
+                "desire, longing"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1725,
+            "uri": "https://sedra.bethmardutho.org/api/root/1725.json"
+        },
+        "words": [
+            {
+                "id": 46696,
+                "uri": "https://sedra.bethmardutho.org/api/word/46696.json"
+            },
+            {
+                "id": 19071,
+                "uri": "https://sedra.bethmardutho.org/api/word/19071.json"
+            },
+            {
+                "id": 19069,
+                "uri": "https://sedra.bethmardutho.org/api/word/19069.json"
+            },
+            {
+                "id": 19068,
+                "uri": "https://sedra.bethmardutho.org/api/word/19068.json"
+            },
+            {
+                "id": 19067,
+                "uri": "https://sedra.bethmardutho.org/api/word/19067.json"
+            },
+            {
+                "id": 19073,
+                "uri": "https://sedra.bethmardutho.org/api/word/19073.json"
+            },
+            {
+                "id": 19072,
+                "uri": "https://sedra.bethmardutho.org/api/word/19072.json"
+            },
+            {
+                "id": 19070,
+                "uri": "https://sedra.bethmardutho.org/api/word/19070.json"
+            },
+            {
+                "id": 19074,
+                "uri": "https://sedra.bethmardutho.org/api/word/19074.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

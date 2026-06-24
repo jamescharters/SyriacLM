@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15129,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15129.json"
+        },
+        "syriac": "\u0725\u0729\u0729",
+        "glosses": {
+            "English": [
+                "IIa to tie up, to bind."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2318,
+            "uri": "https://sedra.bethmardutho.org/api/root/2318.json"
+        },
+        "words": [
+            {
+                "id": 41160,
+                "uri": "https://sedra.bethmardutho.org/api/word/41160.json"
+            },
+            {
+                "id": 41152,
+                "uri": "https://sedra.bethmardutho.org/api/word/41152.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

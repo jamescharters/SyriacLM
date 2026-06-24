@@ -1,0 +1,24 @@
+[
+    {
+        "syriac": "\u0712\u0722\u071d \u072b\u0718\u072c\u0726\u0718\u072c\u0722",
+        "western": "\u0712\u0722\u0730\u071d\u0308 \u072b\u0730\u0718\u072c\u0733\u0726\u0733\u0718\u072c\u0733\u0722",
+        "lexeme": {
+            "id": 35181,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/35181.json"
+        },
+        "stem": "\u0712\u0722\u071d \u072b\u0718\u072c\u0726\u0718\u072c\u0722",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "lat": [
+                "socii nostri"
+            ]
+        },
+        "word": {
+            "id": 61536,
+            "uri": "https://sedra.bethmardutho.org/api/word/61536.json"
+        }
+    }
+]

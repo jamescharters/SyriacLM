@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 15826,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15826.json"
+        },
+        "syriac": "\u071d\u072a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0635\u0641\u0631",
+                "\u0627\u062e\u0636\u0631",
+                "\u0635\u0641\u0631(\u0645\u0636)",
+                "\u062e\u0636\u0631(\u0645\u0636)"
+            ],
+            "French": [
+                "\u00eatre livide",
+                "devenir vert",
+                "rendre livide",
+                "rendre vert"
+            ],
+            "English": [
+                "IIp to become pale",
+                "Ia to grow pale",
+                "to become green.",
+                "IIa to make pale",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u072a\u0736\u0729</span> to make pale, to turn pale"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2749,
+            "uri": "https://sedra.bethmardutho.org/api/root/2749.json"
+        },
+        "words": [
+            {
+                "id": 41999,
+                "uri": "https://sedra.bethmardutho.org/api/word/41999.json"
+            },
+            {
+                "id": 41398,
+                "uri": "https://sedra.bethmardutho.org/api/word/41398.json"
+            },
+            {
+                "id": 41140,
+                "uri": "https://sedra.bethmardutho.org/api/word/41140.json"
+            },
+            {
+                "id": 40131,
+                "uri": "https://sedra.bethmardutho.org/api/word/40131.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

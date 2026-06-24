@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u071d\u0722",
+        "western": "\u071b\u0730\u071d\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15337,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15337.json"
+        },
+        "stem": "\u071b\u071d\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to cover with clay."
+            ]
+        },
+        "word": {
+            "id": 40427,
+            "uri": "https://sedra.bethmardutho.org/api/word/40427.json"
+        }
+    }
+]

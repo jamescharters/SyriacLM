@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 3174,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3174.json"
+        },
+        "syriac": "\u072b\u071a\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u062f\u0626",
+                "\u062a\u0648\u0633\u062e"
+            ],
+            "French": [
+                "se rouiller",
+                "se souiller"
+            ],
+            "English": [
+                "rust",
+                "tarnish",
+                "Ia to rust",
+                "to be marred",
+                "IIIa to tarnish, to sully."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1847,
+            "uri": "https://sedra.bethmardutho.org/api/root/1847.json"
+        },
+        "words": [
+            {
+                "id": 20827,
+                "uri": "https://sedra.bethmardutho.org/api/word/20827.json"
+            },
+            {
+                "id": 20826,
+                "uri": "https://sedra.bethmardutho.org/api/word/20826.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u071b\u0722\u0722\u0710",
+        "western": "\u0715\u0741\u071b\u0730\u0722\u0733\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1255,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1255.json"
+        },
+        "stem": "\u071b\u0722\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u064a\u0648\u0631",
+                "\u062d\u0633\u0648\u062f"
+            ],
+            "eng": [
+                "zealous",
+                "zealot",
+                "zealous",
+                "jealous."
+            ],
+            "fre": [
+                "jaloux",
+                "z\u00e9l\u00e9"
+            ]
+        },
+        "word": {
+            "id": 8188,
+            "uri": "https://sedra.bethmardutho.org/api/word/8188.json"
+        }
+    }
+]

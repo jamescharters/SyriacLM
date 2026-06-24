@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0725\u0721\u0720\u0722",
+        "western": "\u0725\u0730\u0721\u0720\u0730\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2351,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2351.json"
+        },
+        "stem": "\u0725\u0721\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "administrative district.",
+                "toil, labor",
+                "weariness",
+                "labour",
+                "toil"
+            ]
+        },
+        "word": {
+            "id": 15696,
+            "uri": "https://sedra.bethmardutho.org/api/word/15696.json"
+        }
+    }
+]

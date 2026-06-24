@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071a\u072b\u072c\u0710",
+        "western": "\u071a\u0736\u072b\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12959,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12959.json"
+        },
+        "stem": "\u071a\u072b\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0633",
+                "\u0648\u062c\u0639"
+            ],
+            "eng": [
+                "feeling."
+            ],
+            "fre": [
+                "douleur",
+                "action de sentir"
+            ]
+        },
+        "word": {
+            "id": 31175,
+            "uri": "https://sedra.bethmardutho.org/api/word/31175.json"
+        }
+    }
+]

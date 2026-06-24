@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0718\u0721\u071f\u071d\u0720",
+        "western": "\u0718\u0721\u0736\u071f\u0741\u073a\u071d\u0720",
+        "lexeme": {
+            "id": 1759,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1759.json"
+        },
+        "stem": "\u0721\u071f\u071d\u0720",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "now",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> no longer, no more.",
+                "and so, therefore",
+                "thence",
+                "henceforth",
+                "therefore"
+            ]
+        },
+        "word": {
+            "id": 11544,
+            "uri": "https://sedra.bethmardutho.org/api/word/11544.json"
+        }
+    }
+]

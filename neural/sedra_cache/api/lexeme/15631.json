@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 15631,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15631.json"
+        },
+        "syriac": "\u0729\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0646\u0634\u0628, \u062d\u062f\u0642 (\u0645\u0636)"
+            ],
+            "French": [
+                "fixer"
+            ],
+            "English": [
+                "to fix (of gaze etc.).",
+                "Ia to remain fixed",
+                "to fix (claws) in.",
+                "to affix",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0729\u0736\u072c</span> to fix (eyes etc.), to gaze steadfastly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2984,
+            "uri": "https://sedra.bethmardutho.org/api/root/2984.json"
+        },
+        "words": [
+            {
+                "id": 42086,
+                "uri": "https://sedra.bethmardutho.org/api/word/42086.json"
+            },
+            {
+                "id": 41496,
+                "uri": "https://sedra.bethmardutho.org/api/word/41496.json"
+            },
+            {
+                "id": 41221,
+                "uri": "https://sedra.bethmardutho.org/api/word/41221.json"
+            },
+            {
+                "id": 39896,
+                "uri": "https://sedra.bethmardutho.org/api/word/39896.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u071b\u0726",
+        "western": "\u071b\u0733\u0726\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1213,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1213.json"
+        },
+        "stem": "\u071b\u0718\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be soaked",
+                "to rise (of water), overflow",
+                "Ia to float, swim, sail",
+                "to make to overflow",
+                "IIIa to make to float",
+                "to travel by sea",
+                "submerge",
+                "flood",
+                "overflow",
+                "to overwhelm."
+            ]
+        },
+        "word": {
+            "id": 8017,
+            "uri": "https://sedra.bethmardutho.org/api/word/8017.json"
+        }
+    }
+]

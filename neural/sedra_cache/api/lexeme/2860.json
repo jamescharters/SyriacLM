@@ -1,0 +1,72 @@
+[
+    {
+        "lexeme": {
+            "id": 2860,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2860.json"
+        },
+        "syriac": "\u0729\u0726\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0628\u0636",
+                "\u062c\u0645\u0639",
+                "\u062a\u0636\u0645\u0646",
+                "\u0642\u0635\u0631 (\u0645\u0636)",
+                "\u0642\u0630\u0641, \u0646\u0632\u0639",
+                "\u0623\u063a\u0645\u062f",
+                "\u0631\u062f\u0639",
+                "\u0642\u0645\u0639, \u0645\u0646\u0639",
+                "\u0623\u0643\u0644",
+                "\u0627\u0646\u0642\u0628\u0636",
+                "\u062a\u0642\u0635\u0631",
+                "\u0627\u0646\u0633\u062d\u0628, \u0632\u0627\u0644",
+                "\u00a0"
+            ],
+            "French": [
+                "contracter",
+                "rassembler",
+                "contenir",
+                "raccourcir",
+                "retirer, supprimer",
+                "rengainer",
+                "rejeter",
+                "r\u00e9primer, retenir",
+                "\u00e9mousser",
+                "se contracter",
+                "\u00eatre raccourci",
+                "se retirer. cesser",
+                "\u00a0"
+            ],
+            "English": [
+                "gather",
+                "to lay a mosaic floor.",
+                "IIa",
+                "to draw back, restrain",
+                "Ip",
+                "IIIa to abolish",
+                "to shorten",
+                "Ia to shrink, contract",
+                "IIp to be suppressed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1697,
+            "uri": "https://sedra.bethmardutho.org/api/root/1697.json"
+        },
+        "words": [
+            {
+                "id": 18536,
+                "uri": "https://sedra.bethmardutho.org/api/word/18536.json"
+            },
+            {
+                "id": 18538,
+                "uri": "https://sedra.bethmardutho.org/api/word/18538.json"
+            },
+            {
+                "id": 18537,
+                "uri": "https://sedra.bethmardutho.org/api/word/18537.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

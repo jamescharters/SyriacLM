@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071f\u071a\u0715",
+        "western": "\u071f\u071a\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15873,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15873.json"
+        },
+        "stem": "\u071f\u071a\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to stand in awe.",
+                "& <span class=\"selectableFont\">\u071f\u071a\u0730\u0715</span> fut. <span class=\"selectableFont\">\u0722\u0736\u071f\u071a\u0730\u0715</span> & <span class=\"selectableFont\">\u0722\u0736\u071f\u071a\u073d\u0718\u0715</span>, Ia to be modest",
+                "IIp to be ashamed",
+                "to be afraid",
+                "IIa to put to shame"
+            ]
+        },
+        "word": {
+            "id": 40126,
+            "uri": "https://sedra.bethmardutho.org/api/word/40126.json"
+        }
+    }
+]

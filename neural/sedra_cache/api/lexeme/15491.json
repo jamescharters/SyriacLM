@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15491,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15491.json"
+        },
+        "syriac": "\u0710\u072b\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "Ip.",
+                "Ia to soothe, charm, enchant"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2211,
+            "uri": "https://sedra.bethmardutho.org/api/root/2211.json"
+        },
+        "words": [
+            {
+                "id": 51260,
+                "uri": "https://sedra.bethmardutho.org/api/word/51260.json"
+            },
+            {
+                "id": 41985,
+                "uri": "https://sedra.bethmardutho.org/api/word/41985.json"
+            },
+            {
+                "id": 40347,
+                "uri": "https://sedra.bethmardutho.org/api/word/40347.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

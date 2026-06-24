@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0712\u0720\u0728\u0718\u0728\u071d\u072c\u0710",
+        "western": "\u0712\u0308\u0720\u0736\u0728\u073d\u0718\u0728\u071d\u0733\u072c\u0733\u0710",
+        "eastern": "\u0712\u0308\u0720\u0738\u0728\u0718\u073c\u0728\u071d\u0735\u072c\u0735\u0710",
+        "lexeme": {
+            "id": 8871,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8871.json"
+        },
+        "stem": "\u0712\u0720\u0728\u0718\u0728\u071d\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0631\u0627\u0631\u0629"
+            ],
+            "eng": [
+                "spark."
+            ],
+            "fre": [
+                "\u00e9tincelle"
+            ]
+        },
+        "word": {
+            "id": 52501,
+            "uri": "https://sedra.bethmardutho.org/api/word/52501.json"
+        }
+    }
+]

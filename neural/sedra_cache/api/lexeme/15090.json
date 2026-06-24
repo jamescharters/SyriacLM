@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15090,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15090.json"
+        },
+        "syriac": "\u0726\u072c\u0722",
+        "glosses": {
+            "English": [
+                "to make civil war.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u072c\u0736\u0722</span> to rebel"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2424,
+            "uri": "https://sedra.bethmardutho.org/api/root/2424.json"
+        },
+        "words": [
+            {
+                "id": 40841,
+                "uri": "https://sedra.bethmardutho.org/api/word/40841.json"
+            },
+            {
+                "id": 39949,
+                "uri": "https://sedra.bethmardutho.org/api/word/39949.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0723\u0722\u071b",
+        "western": "\u0723\u0722\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15688,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15688.json"
+        },
+        "stem": "\u0723\u0722\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to shake, quiver",
+                "Ip to be afraid."
+            ]
+        },
+        "word": {
+            "id": 40330,
+            "uri": "https://sedra.bethmardutho.org/api/word/40330.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072c\u071a\u072a\u071d\u0722",
+        "western": "\u0721\u0736\u072b\u072c\u0741\u0730\u071a\u072a\u073a\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethp\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3172,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3172.json"
+        },
+        "stem": "\u072b\u071a\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be left",
+                "3 Ip <span class=\"selectableFont\">\u0710\u0736\u072b\u072c\u071a\u0730\u072a</span> to be left over",
+                "to delay, tarry.",
+                "remain"
+            ]
+        },
+        "word": {
+            "id": 20823,
+            "uri": "https://sedra.bethmardutho.org/api/word/20823.json"
+        }
+    }
+]

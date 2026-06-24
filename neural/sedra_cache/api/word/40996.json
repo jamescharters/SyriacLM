@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u071b\u0729\u071b",
+        "western": "\u0729\u0730\u071b\u0729\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14838,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14838.json"
+        },
+        "stem": "\u0729\u071b\u0729\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to gnaw."
+            ]
+        },
+        "word": {
+            "id": 40996,
+            "uri": "https://sedra.bethmardutho.org/api/word/40996.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u071a\u0719\u071d\u0717\u071d",
+        "western": "\u071a\u0719\u0733\u071d\u0717\u0331\u071d",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 996,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/996.json"
+        },
+        "stem": "\u071a\u0719\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0623\u0649"
+            ],
+            "eng": [
+                "behold",
+                "to be seen, be visible, to appear.",
+                "see",
+                "Ip",
+                "Ia to see, perceive"
+            ],
+            "fre": [
+                "voir"
+            ]
+        },
+        "word": {
+            "id": 6637,
+            "uri": "https://sedra.bethmardutho.org/api/word/6637.json"
+        }
+    }
+]

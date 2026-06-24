@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0718\u072b\u071d\u0710",
+        "western": "\u0721\u073d\u0718\u072b\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7001,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7001.json"
+        },
+        "stem": "\u0721\u0718\u072b\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0648\u0633\u0648\u064a"
+            ],
+            "eng": [
+                "Mosaic."
+            ],
+            "fre": [
+                "mosa\u00efque (adj.)"
+            ]
+        },
+        "word": {
+            "id": 36987,
+            "uri": "https://sedra.bethmardutho.org/api/word/36987.json"
+        }
+    }
+]

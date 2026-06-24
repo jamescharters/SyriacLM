@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1315,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1315.json"
+        },
+        "syriac": "\u071d\u0717\u0718\u0715\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u064a\u0647\u0648\u062f\u064a"
+            ],
+            "French": [
+                "juda\u00efsme"
+            ],
+            "English": [
+                "Judaism"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 770,
+            "uri": "https://sedra.bethmardutho.org/api/root/770.json"
+        },
+        "words": [
+            {
+                "id": 8851,
+                "uri": "https://sedra.bethmardutho.org/api/word/8851.json"
+            },
+            {
+                "id": 8850,
+                "uri": "https://sedra.bethmardutho.org/api/word/8850.json"
+            },
+            {
+                "id": 8852,
+                "uri": "https://sedra.bethmardutho.org/api/word/8852.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

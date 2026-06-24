@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0723\u072a\u071d",
+        "western": "\u0723\u072a\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2195,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2195.json"
+        },
+        "stem": "\u0723\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0639\u0641\u0646, \u0646\u062a\u0646"
+            ],
+            "eng": [
+                "to make foul, to defile",
+                "IIa to cause to rot",
+                "be rotten",
+                "& <span class=\"selectableFont\">\u0723\u072a\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u072a\u0736\u0710</span>, Ia to be putrid, corrupt",
+                "IIIa to leave to putrefy.",
+                "Ip to become rotten",
+                "stink"
+            ],
+            "fre": [
+                "pourrir, exhaler une odeur f\u00e9tide"
+            ]
+        },
+        "word": {
+            "id": 14571,
+            "uri": "https://sedra.bethmardutho.org/api/word/14571.json"
+        }
+    }
+]

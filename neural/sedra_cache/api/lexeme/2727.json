@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 2727,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2727.json"
+        },
+        "syriac": "\u0721\u0729\u0712\u0720\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0637\u0631\u0634\u064a\u0644"
+            ],
+            "French": [
+                "\u00e9tole"
+            ],
+            "English": [
+                "host",
+                "entertainer",
+                "capable of receiving, receptive",
+                "susceptible",
+                "Gram. subject (of predication).",
+                "recipient, receptacle",
+                "God-parent",
+                "host"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1615,
+            "uri": "https://sedra.bethmardutho.org/api/root/1615.json"
+        },
+        "words": [
+            {
+                "id": 29613,
+                "uri": "https://sedra.bethmardutho.org/api/word/29613.json"
+            },
+            {
+                "id": 17671,
+                "uri": "https://sedra.bethmardutho.org/api/word/17671.json"
+            },
+            {
+                "id": 17669,
+                "uri": "https://sedra.bethmardutho.org/api/word/17669.json"
+            },
+            {
+                "id": 17670,
+                "uri": "https://sedra.bethmardutho.org/api/word/17670.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

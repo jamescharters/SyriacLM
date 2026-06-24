@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0718\u0726\u072a\u071f\u071d\u0722",
+        "western": "\u0718\u0726\u0742\u0733\u072a\u071f\u0741\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2591,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2591.json"
+        },
+        "stem": "\u0726\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0631\u0643",
+                "\u00a0",
+                "\u0633\u062d\u0642"
+            ],
+            "eng": [
+                "Ia to rub, to bruise, to crumble",
+                "rub",
+                "Ip",
+                "IIa to soften",
+                "IIp to be brittle, friable."
+            ],
+            "fre": [
+                "broyer",
+                "frotter",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 27701,
+            "uri": "https://sedra.bethmardutho.org/api/word/27701.json"
+        }
+    }
+]

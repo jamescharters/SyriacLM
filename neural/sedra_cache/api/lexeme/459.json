@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 459,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/459.json"
+        },
+        "syriac": "\u0712\u072a \u072c\u0718\u0720\u0721\u071d",
+        "glosses": {
+            "English": [
+                "Bartholomew"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 312,
+            "uri": "https://sedra.bethmardutho.org/api/root/312.json"
+        },
+        "words": [
+            {
+                "id": 3158,
+                "uri": "https://sedra.bethmardutho.org/api/word/3158.json"
+            },
+            {
+                "id": 3157,
+                "uri": "https://sedra.bethmardutho.org/api/word/3157.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

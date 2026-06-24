@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 15187,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15187.json"
+        },
+        "syriac": "\u0721\u0715\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0628\u0644 (\u0645\u0636)",
+                "\u0645\u0632\u062c",
+                "\u0623\u0639\u062f",
+                ""
+            ],
+            "French": [
+                "assaisonner",
+                "m\u00e9langer",
+                "pr\u00e9parer",
+                ""
+            ],
+            "English": [
+                "season",
+                "to make a preparation",
+                "IIp to be seasoned.",
+                "IIa to season"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2595,
+            "uri": "https://sedra.bethmardutho.org/api/root/2595.json"
+        },
+        "words": [
+            {
+                "id": 11237,
+                "uri": "https://sedra.bethmardutho.org/api/word/11237.json"
+            },
+            {
+                "id": 11238,
+                "uri": "https://sedra.bethmardutho.org/api/word/11238.json"
+            },
+            {
+                "id": 26053,
+                "uri": "https://sedra.bethmardutho.org/api/word/26053.json"
+            },
+            {
+                "id": 26054,
+                "uri": "https://sedra.bethmardutho.org/api/word/26054.json"
+            },
+            {
+                "id": 41165,
+                "uri": "https://sedra.bethmardutho.org/api/word/41165.json"
+            },
+            {
+                "id": 41158,
+                "uri": "https://sedra.bethmardutho.org/api/word/41158.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

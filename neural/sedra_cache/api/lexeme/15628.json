@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15628,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15628.json"
+        },
+        "syriac": "\u071a\u072a\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0644\u0649",
+                "\u0627\u0636\u0637\u0631\u0645"
+            ],
+            "French": [
+                "bouillir",
+                "br\u00fbler"
+            ],
+            "English": [
+                "to be heated, warmed.",
+                "Ia to burn, singe, scorch",
+                "Ip",
+                "IIa to burn up, parch, char",
+                "IIp to be singed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2127,
+            "uri": "https://sedra.bethmardutho.org/api/root/2127.json"
+        },
+        "words": [
+            {
+                "id": 41867,
+                "uri": "https://sedra.bethmardutho.org/api/word/41867.json"
+            },
+            {
+                "id": 39908,
+                "uri": "https://sedra.bethmardutho.org/api/word/39908.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "lexeme": {
+            "id": 722,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/722.json"
+        },
+        "syriac": "\u0715\u0721\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0648\u0631\u0629, \u0634\u0643\u0644, \u0647\u064a\u0626\u0629",
+                "\u0635\u0648\u0631\u0629 \u0623\u0635\u0644\u064a\u0629",
+                "\u0645\u062b\u0644",
+                "\u0644\u0628\u0627\u0633",
+                "\u0645\u062c\u0645\u0648\u0639 \u0646\u062c\u0648\u0645"
+            ],
+            "French": [
+                "figure , image",
+                "type",
+                "exemple",
+                "v\u00eatement",
+                "constellation"
+            ],
+            "English": [
+                "form",
+                "image",
+                "similitude",
+                "type",
+                "exemplar",
+                "pattern",
+                "likeness, form, shape, example, image, appearance."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 456,
+            "uri": "https://sedra.bethmardutho.org/api/root/456.json"
+        },
+        "words": [
+            {
+                "id": 4683,
+                "uri": "https://sedra.bethmardutho.org/api/word/4683.json"
+            },
+            {
+                "id": 4690,
+                "uri": "https://sedra.bethmardutho.org/api/word/4690.json"
+            },
+            {
+                "id": 4696,
+                "uri": "https://sedra.bethmardutho.org/api/word/4696.json"
+            },
+            {
+                "id": 4695,
+                "uri": "https://sedra.bethmardutho.org/api/word/4695.json"
+            },
+            {
+                "id": 4694,
+                "uri": "https://sedra.bethmardutho.org/api/word/4694.json"
+            },
+            {
+                "id": 4688,
+                "uri": "https://sedra.bethmardutho.org/api/word/4688.json"
+            },
+            {
+                "id": 4686,
+                "uri": "https://sedra.bethmardutho.org/api/word/4686.json"
+            },
+            {
+                "id": 4684,
+                "uri": "https://sedra.bethmardutho.org/api/word/4684.json"
+            },
+            {
+                "id": 4692,
+                "uri": "https://sedra.bethmardutho.org/api/word/4692.json"
+            },
+            {
+                "id": 4691,
+                "uri": "https://sedra.bethmardutho.org/api/word/4691.json"
+            },
+            {
+                "id": 4689,
+                "uri": "https://sedra.bethmardutho.org/api/word/4689.json"
+            },
+            {
+                "id": 4687,
+                "uri": "https://sedra.bethmardutho.org/api/word/4687.json"
+            },
+            {
+                "id": 4685,
+                "uri": "https://sedra.bethmardutho.org/api/word/4685.json"
+            },
+            {
+                "id": 4693,
+                "uri": "https://sedra.bethmardutho.org/api/word/4693.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

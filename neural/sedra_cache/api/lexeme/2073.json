@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2073,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2073.json"
+        },
+        "syriac": "\u0723\u0715\u0718\u0721",
+        "glosses": {
+            "English": [
+                "Sodom"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1237,
+            "uri": "https://sedra.bethmardutho.org/api/root/1237.json"
+        },
+        "words": [
+            {
+                "id": 13786,
+                "uri": "https://sedra.bethmardutho.org/api/word/13786.json"
+            },
+            {
+                "id": 13785,
+                "uri": "https://sedra.bethmardutho.org/api/word/13785.json"
+            },
+            {
+                "id": 13784,
+                "uri": "https://sedra.bethmardutho.org/api/word/13784.json"
+            },
+            {
+                "id": 13783,
+                "uri": "https://sedra.bethmardutho.org/api/word/13783.json"
+            },
+            {
+                "id": 13782,
+                "uri": "https://sedra.bethmardutho.org/api/word/13782.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

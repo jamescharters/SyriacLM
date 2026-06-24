@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0712\u0725\u072a\u071b\u0720\u071d\u0718\u072c\u0710",
+        "western": "\u0718\u0730\u0712\u0742\u0725\u0730\u072a\u071b\u0736\u0720\u0733\u071d\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2415,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2415.json"
+        },
+        "stem": "\u0725\u072a\u071b\u0720\u071d\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0631\u0649"
+            ],
+            "eng": [
+                "nakedness.",
+                "nakedness"
+            ],
+            "fre": [
+                "nudit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 15984,
+            "uri": "https://sedra.bethmardutho.org/api/word/15984.json"
+        }
+    }
+]

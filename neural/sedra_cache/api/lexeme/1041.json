@@ -1,0 +1,91 @@
+[
+    {
+        "lexeme": {
+            "id": 1041,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1041.json"
+        },
+        "syriac": "\u071a\u0720\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0644\u0637",
+                "\u062c\u0645\u0639",
+                "\u0627\u062e\u062a\u0644\u0637",
+                "\u0627\u0646\u0635\u0628",
+                "\u00a0"
+            ],
+            "French": [
+                "m\u00ealer",
+                "joindre",
+                "se m\u00ealer, \u00eatre m\u00eal\u00e9",
+                "se d\u00e9verser",
+                "\u00a0"
+            ],
+            "English": [
+                "mingle",
+                "company with",
+                "to join, unite",
+                "Ia to mingle, mix",
+                "IIp to be associated with, to mix with, mingle with.",
+                "to knead",
+                "IIa to mix together, mingle",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 629,
+            "uri": "https://sedra.bethmardutho.org/api/root/629.json"
+        },
+        "words": [
+            {
+                "id": 24817,
+                "uri": "https://sedra.bethmardutho.org/api/word/24817.json"
+            },
+            {
+                "id": 24816,
+                "uri": "https://sedra.bethmardutho.org/api/word/24816.json"
+            },
+            {
+                "id": 7064,
+                "uri": "https://sedra.bethmardutho.org/api/word/7064.json"
+            },
+            {
+                "id": 24821,
+                "uri": "https://sedra.bethmardutho.org/api/word/24821.json"
+            },
+            {
+                "id": 24820,
+                "uri": "https://sedra.bethmardutho.org/api/word/24820.json"
+            },
+            {
+                "id": 24819,
+                "uri": "https://sedra.bethmardutho.org/api/word/24819.json"
+            },
+            {
+                "id": 24818,
+                "uri": "https://sedra.bethmardutho.org/api/word/24818.json"
+            },
+            {
+                "id": 7068,
+                "uri": "https://sedra.bethmardutho.org/api/word/7068.json"
+            },
+            {
+                "id": 7067,
+                "uri": "https://sedra.bethmardutho.org/api/word/7067.json"
+            },
+            {
+                "id": 7066,
+                "uri": "https://sedra.bethmardutho.org/api/word/7066.json"
+            },
+            {
+                "id": 7065,
+                "uri": "https://sedra.bethmardutho.org/api/word/7065.json"
+            },
+            {
+                "id": 7063,
+                "uri": "https://sedra.bethmardutho.org/api/word/7063.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

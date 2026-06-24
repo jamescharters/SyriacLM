@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0721\u0723\u071b\u071d\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u0723\u071b\u071d\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2108,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2108.json"
+        },
+        "stem": "\u0721\u0723\u071b\u071d\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "transgression",
+                "apostasy",
+                "falling away",
+                "error, apostasy."
+            ]
+        },
+        "word": {
+            "id": 13993,
+            "uri": "https://sedra.bethmardutho.org/api/word/13993.json"
+        }
+    }
+]

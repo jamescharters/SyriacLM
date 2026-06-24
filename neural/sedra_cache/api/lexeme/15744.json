@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15744,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15744.json"
+        },
+        "syriac": "\u0722\u0717\u0713",
+        "glosses": {
+            "English": [
+                "to roar.",
+                "Ia to groan",
+                "to cry"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2601,
+            "uri": "https://sedra.bethmardutho.org/api/root/2601.json"
+        },
+        "words": [
+            {
+                "id": 42168,
+                "uri": "https://sedra.bethmardutho.org/api/word/42168.json"
+            },
+            {
+                "id": 40174,
+                "uri": "https://sedra.bethmardutho.org/api/word/40174.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

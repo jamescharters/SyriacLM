@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0725\u0713\u0718\u072b",
+        "western": "\u0722\u0736\u0725\u0713\u073d\u0718\u072b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15803,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15803.json"
+        },
+        "stem": "\u0725\u0713\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0637\u062d"
+            ],
+            "eng": [
+                "Ia to gore."
+            ],
+            "fre": [
+                "frapper de la corne"
+            ]
+        },
+        "word": {
+            "id": 41997,
+            "uri": "https://sedra.bethmardutho.org/api/word/41997.json"
+        }
+    }
+]

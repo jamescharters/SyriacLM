@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u0712\u071d\u0715\u072c\u0710",
+        "western": "\u0725\u0712\u073a\u071d\u0715\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6477,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6477.json"
+        },
+        "stem": "\u0725\u0712\u071d\u0715\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645\u0644, \u0641\u0639\u0644"
+            ],
+            "eng": [
+                "business, matter, action, occupation."
+            ],
+            "fre": [
+                "fait, action"
+            ]
+        },
+        "word": {
+            "id": 36079,
+            "uri": "https://sedra.bethmardutho.org/api/word/36079.json"
+        }
+    }
+]

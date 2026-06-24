@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0729\u071a\u0729\u071a",
+        "western": "\u0729\u0730\u071a\u0729\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14791,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14791.json"
+        },
+        "stem": "\u0729\u071a\u0729\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to laugh",
+                "IVp to gurgle."
+            ]
+        },
+        "word": {
+            "id": 39857,
+            "uri": "https://sedra.bethmardutho.org/api/word/39857.json"
+        }
+    }
+]

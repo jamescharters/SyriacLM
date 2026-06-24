@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071b\u0722\u0722\u0718\u072c\u0710",
+        "western": "\u071b\u0730\u0722\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5789,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5789.json"
+        },
+        "stem": "\u071b\u0722\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u064a\u0631\u0629",
+                "\u062d\u0633\u062f"
+            ],
+            "eng": [
+                "zeal, emulation",
+                "jealousy."
+            ],
+            "fre": [
+                "envie",
+                "z\u00e8le"
+            ]
+        },
+        "word": {
+            "id": 39228,
+            "uri": "https://sedra.bethmardutho.org/api/word/39228.json"
+        }
+    }
+]

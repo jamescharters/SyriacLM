@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15456,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15456.json"
+        },
+        "syriac": "\u072c\u0725\u072b",
+        "glosses": {
+            "English": [
+                "Ip to be weary.",
+                "& <span class=\"selectableFont\">\u072c\u0725\u0736\u072b</span> fut. <span class=\"selectableFont\">\u0722\u0736\u072c\u0725\u0730\u072b</span>, Ia to labor, toil"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2549,
+            "uri": "https://sedra.bethmardutho.org/api/root/2549.json"
+        },
+        "words": [
+            {
+                "id": 41989,
+                "uri": "https://sedra.bethmardutho.org/api/word/41989.json"
+            },
+            {
+                "id": 39852,
+                "uri": "https://sedra.bethmardutho.org/api/word/39852.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

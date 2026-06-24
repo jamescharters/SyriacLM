@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 7110,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7110.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0713\u0720\u071d\u0723\u071b\u0710",
+        "glosses": {
+            "English": [
+                "evangelist."
+            ],
+            "Arabic": [
+                "\u0625\u0646\u062c\u064a\u0644\u064a"
+            ],
+            "French": [
+                "\u00e9vang\u00e9liste"
+            ],
+            "Greek": [
+                "\u03b5\u1f50\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03c3\u03c4\u03ae\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f50\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03c3\u03c4\u03ae\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 53392,
+                "uri": "https://sedra.bethmardutho.org/api/word/53392.json"
+            },
+            {
+                "id": 38894,
+                "uri": "https://sedra.bethmardutho.org/api/word/38894.json"
+            }
+        ]
+    }
+]

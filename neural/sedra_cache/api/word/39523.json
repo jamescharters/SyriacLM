@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0720\u071b\u072b\u072c\u0710",
+        "western": "\u0721\u0730\u0720\u071b\u0730\u072b\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12515,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12515.json"
+        },
+        "stem": "\u0721\u0720\u071b\u072b\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u0646"
+            ],
+            "eng": [
+                "whetstone, grinding-stone."
+            ],
+            "fre": [
+                "pierre \u00e0 aiguiser"
+            ]
+        },
+        "word": {
+            "id": 39523,
+            "uri": "https://sedra.bethmardutho.org/api/word/39523.json"
+        }
+    }
+]

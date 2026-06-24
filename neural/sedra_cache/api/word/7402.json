@@ -1,0 +1,65 @@
+[
+    {
+        "syriac": "\u0715\u071a\u0723\u072a",
+        "western": "\u0715\u0741\u0730\u071a\u0723\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1118,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1118.json"
+        },
+        "stem": "\u071a\u0723\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0644",
+                "\u0646\u0642\u0635",
+                "\u0632\u0627\u0644",
+                "\u062e\u0633\u0631",
+                "\u062a\u0636\u0631\u0631",
+                "\u0641\u0631\u0636\u062a \u0639\u0644\u064a\u0647 \u0636\u0631\u064a\u0628\u0629",
+                "\u0635\u0631\u0641",
+                "\u0627\u062d\u062a\u0627\u062c",
+                "\u0623\u0636\u0631"
+            ],
+            "eng": [
+                "to deprive",
+                "to lose, suffer loss",
+                "to be in want",
+                "IIa to inflict loss, cause to lack",
+                "to be exacted (fine, price).",
+                "IIIa to allow to be in want",
+                "to harm, injure",
+                "lack",
+                "lose",
+                "Ia to be wanting, to decrease, to fail",
+                "to fine, to confiscate",
+                "to be damaged",
+                "IIIp to forfeit",
+                "IIp to be fined"
+            ],
+            "fre": [
+                "\u00eatre tax\u00e9",
+                "diminuer",
+                "p\u00e9rir",
+                "perdre",
+                "subir un dommage",
+                "nuire \u00e0",
+                "d\u00e9penser",
+                "avoir besoin",
+                "manquer"
+            ]
+        },
+        "word": {
+            "id": 7402,
+            "uri": "https://sedra.bethmardutho.org/api/word/7402.json"
+        }
+    }
+]

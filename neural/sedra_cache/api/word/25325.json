@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072a\u072b\u0722\u0710",
+        "western": "\u072a\u073a\u072b\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13777,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13777.json"
+        },
+        "stem": "\u072a\u071d\u072b\u0722\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0639\u064a\u0645, \u0631\u0626\u064a\u0633",
+                "\u062d\u0628\u0631"
+            ],
+            "eng": [
+                "ruler",
+                "chief",
+                "governor.",
+                "president"
+            ],
+            "fre": [
+                "pontife",
+                "chef, pr\u00e9sident"
+            ]
+        },
+        "word": {
+            "id": 25325,
+            "uri": "https://sedra.bethmardutho.org/api/word/25325.json"
+        }
+    }
+]

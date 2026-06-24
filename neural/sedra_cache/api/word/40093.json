@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0710\u072b\u0725",
+        "western": "\u0710\u0730\u072b\u0730\u0725",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14652,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14652.json"
+        },
+        "stem": "\u072b\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0644\u0633 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIp",
+                "IIa <span class=\"selectableFont\">\u072b\u0730\u0725\u0730\u0725</span> to smooth",
+                "Ia to plaster, to smooth",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072b\u0730\u0725</span> to make smooth, to make bare."
+            ],
+            "fre": [
+                "rendre lisse",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40093,
+            "uri": "https://sedra.bethmardutho.org/api/word/40093.json"
+        }
+    }
+]

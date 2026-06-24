@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28488,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28488.json"
+        },
+        "syriac": "\u0710\u0718\u0726\u072c\u0710\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f00\u03c0\u03b1\u03b8\u03ae\u03c2 (or) \u1f00\u03c0\u03b1\u03b8\u1ff6\u03c2"
+            ],
+            "English": [
+                "without passion or feeling, insensible, free from emotion"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c0\u03b1\u03b8\u03ae\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48922,
+                "uri": "https://sedra.bethmardutho.org/api/word/48922.json"
+            },
+            {
+                "id": 54862,
+                "uri": "https://sedra.bethmardutho.org/api/word/54862.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

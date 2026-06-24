@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0710\u0721\u0718\u072a\u0710",
+        "western": "\u0710\u0733\u0721\u073d\u0718\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10343,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10343.json"
+        },
+        "stem": "\u0710\u0721\u0718\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0637\u064a\u0628",
+                "\u0643\u0627\u062a\u0628",
+                "\u0642\u0627\u0635"
+            ],
+            "eng": [
+                "speaker, orator, narrator",
+                "Kth. poet."
+            ],
+            "fre": [
+                "\u00e9crivain",
+                "marrateur",
+                "orateur"
+            ]
+        },
+        "word": {
+            "id": 35517,
+            "uri": "https://sedra.bethmardutho.org/api/word/35517.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15120,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15120.json"
+        },
+        "syriac": "\u0726\u0723\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u062f, \u0637\u0631\u062f"
+            ],
+            "French": [
+                "rejeter, r\u00e9pudier"
+            ],
+            "English": [
+                "IIa to annul, to reject",
+                "repudiate (a wife)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3001,
+            "uri": "https://sedra.bethmardutho.org/api/root/3001.json"
+        },
+        "words": [
+            {
+                "id": 41576,
+                "uri": "https://sedra.bethmardutho.org/api/word/41576.json"
+            },
+            {
+                "id": 40311,
+                "uri": "https://sedra.bethmardutho.org/api/word/40311.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

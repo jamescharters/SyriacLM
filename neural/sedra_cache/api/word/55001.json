@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u0726\u071d",
+        "western": "\u0710\u0736\u0718\u072a\u0726\u073a\u071d",
+        "lexeme": {
+            "id": 28627,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28627.json"
+        },
+        "stem": "\u0710\u0718\u072a\u0726\u071d",
+        "category": "proper noun (place name)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Europe"
+            ],
+            "grc": [
+                "\u0395\u1f50\u03c1\u03ce\u03c0\u03b7"
+            ],
+            "lat": [
+                "Europa"
+            ]
+        },
+        "word": {
+            "id": 55001,
+            "uri": "https://sedra.bethmardutho.org/api/word/55001.json"
+        }
+    }
+]

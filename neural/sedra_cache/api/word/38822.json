@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0726\u072a\u071d\u072b\u072c\u0710",
+        "western": "\u0726\u072a\u073a\u071d\u072b\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10188,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10188.json"
+        },
+        "stem": "\u0726\u072a\u071d\u072b\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u062d\u064a\u0629",
+                "\u0623\u0639\u062c\u0648\u0628\u0629"
+            ],
+            "eng": [
+                "something dedicated.",
+                "miracle"
+            ],
+            "fre": [
+                "miracle",
+                "sacrifice"
+            ]
+        },
+        "word": {
+            "id": 38822,
+            "uri": "https://sedra.bethmardutho.org/api/word/38822.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2582,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2582.json"
+        },
+        "syriac": "\u0726\u072a\u0718\u0713\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Phrygia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1531,
+            "uri": "https://sedra.bethmardutho.org/api/root/1531.json"
+        },
+        "words": [
+            {
+                "id": 16844,
+                "uri": "https://sedra.bethmardutho.org/api/word/16844.json"
+            },
+            {
+                "id": 16843,
+                "uri": "https://sedra.bethmardutho.org/api/word/16843.json"
+            },
+            {
+                "id": 16842,
+                "uri": "https://sedra.bethmardutho.org/api/word/16842.json"
+            },
+            {
+                "id": 16845,
+                "uri": "https://sedra.bethmardutho.org/api/word/16845.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

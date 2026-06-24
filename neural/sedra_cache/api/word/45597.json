@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071b\u072a\u0718\u0726\u071d\u0729\u071d\u0710",
+        "western": "\u071b\u072a\u0733\u0718\u0726\u073a\u071d\u0729\u0733\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 19223,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19223.json"
+        },
+        "stem": "\u071b\u072a\u0718\u0726\u071d\u0729\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u062a\u0648\u0627\u0626\u064a, \u0645\u062e\u062a\u0635 \u0628\u0627\u0646\u0642\u0644\u0627\u0628 \u0627\u0644\u0634\u0645\u0633"
+            ],
+            "eng": [
+                "tropical",
+                "solstitial"
+            ],
+            "fre": [
+                "tropical, solsticial"
+            ]
+        },
+        "word": {
+            "id": 45597,
+            "uri": "https://sedra.bethmardutho.org/api/word/45597.json"
+        }
+    }
+]

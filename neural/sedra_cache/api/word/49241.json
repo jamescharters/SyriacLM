@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u071d\u071b\u072a\u0718\u0723",
+        "western": "\u0710\u073a\u071d\u071b\u072a\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 22866,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/22866.json"
+        },
+        "stem": "\u0710\u071d\u071b\u072a\u0718\u0723",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "one who heals, physician or surgeon"
+            ],
+            "grc": [
+                "\u1f30\u03b1\u03c4\u03c1\u03cc\u03c2"
+            ],
+            "lat": [
+                "medicus"
+            ]
+        },
+        "word": {
+            "id": 49241,
+            "uri": "https://sedra.bethmardutho.org/api/word/49241.json"
+        }
+    }
+]

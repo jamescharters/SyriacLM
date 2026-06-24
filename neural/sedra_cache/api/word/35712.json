@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0728\u071a\u071a\u0710",
+        "western": "\u0728\u071a\u0733\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9191,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9191.json"
+        },
+        "stem": "\u0728\u071a\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0633\u062e\u0629",
+                "\u062c\u0632\u0621, \u0641\u0635\u0644"
+            ],
+            "eng": [
+                "manuscript, copy, book",
+                "section (Kth. chapter) of biblical text."
+            ],
+            "fre": [
+                "section, chapitre",
+                "exemplaire"
+            ]
+        },
+        "word": {
+            "id": 35712,
+            "uri": "https://sedra.bethmardutho.org/api/word/35712.json"
+        }
+    }
+]

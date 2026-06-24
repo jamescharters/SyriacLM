@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 125,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/125.json"
+        },
+        "syriac": "\u0710\u071f\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0644\u0627\u062d"
+            ],
+            "French": [
+                "laboureur"
+            ],
+            "English": [
+                "ploughman",
+                "husbandman",
+                "farmer",
+                "farmer, ploughman."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 94,
+            "uri": "https://sedra.bethmardutho.org/api/root/94.json"
+        },
+        "words": [
+            {
+                "id": 888,
+                "uri": "https://sedra.bethmardutho.org/api/word/888.json"
+            },
+            {
+                "id": 887,
+                "uri": "https://sedra.bethmardutho.org/api/word/887.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2980,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2980.json"
+        },
+        "syriac": "\u0721\u072a\u071d\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u062a\u0641\u0639",
+                "\u0633\u0627\u0645"
+            ],
+            "French": [
+                "\u00e9lev\u00e9",
+                "supr\u00eame"
+            ],
+            "English": [
+                "high",
+                "high",
+                "most high."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1745,
+            "uri": "https://sedra.bethmardutho.org/api/root/1745.json"
+        },
+        "words": [
+            {
+                "id": 19412,
+                "uri": "https://sedra.bethmardutho.org/api/word/19412.json"
+            },
+            {
+                "id": 19413,
+                "uri": "https://sedra.bethmardutho.org/api/word/19413.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

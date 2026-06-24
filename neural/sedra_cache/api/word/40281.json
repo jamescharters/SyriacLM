@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0729\u071d\u0723",
+        "western": "\u0729\u0730\u071d\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15115,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15115.json"
+        },
+        "stem": "\u0729\u071d\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645\u0644 \u0645\u0646 \u062e\u0634\u0628",
+                "\u0628\u0646\u0649"
+            ],
+            "eng": [
+                "to convulse",
+                "to shatter",
+                "to cover with boards",
+                "IIa to make from wood",
+                "IIp to stiffen, become rigid",
+                "to be convulsed."
+            ],
+            "fre": [
+                "construire",
+                "faire en bois"
+            ]
+        },
+        "word": {
+            "id": 40281,
+            "uri": "https://sedra.bethmardutho.org/api/word/40281.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 362,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/362.json"
+        },
+        "syriac": "\u0721\u0712\u0719\u071a\u0722\u0710",
+        "glosses": {
+            "English": [
+                "mocker",
+                "mocker, derider."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 257,
+            "uri": "https://sedra.bethmardutho.org/api/root/257.json"
+        },
+        "words": [
+            {
+                "id": 2490,
+                "uri": "https://sedra.bethmardutho.org/api/word/2490.json"
+            },
+            {
+                "id": 1220,
+                "uri": "https://sedra.bethmardutho.org/api/word/1220.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

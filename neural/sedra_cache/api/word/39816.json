@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0712\u0715",
+        "western": "\u0712\u0730\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15749,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15749.json"
+        },
+        "stem": "\u0712\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to mix."
+            ]
+        },
+        "word": {
+            "id": 39816,
+            "uri": "https://sedra.bethmardutho.org/api/word/39816.json"
+        }
+    }
+]

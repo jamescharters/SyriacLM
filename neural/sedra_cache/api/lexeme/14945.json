@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14945,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14945.json"
+        },
+        "syriac": "\u071d\u0718\u0722\u0722",
+        "glosses": {
+            "English": [
+                "IVa to be versed in Greek."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2505,
+            "uri": "https://sedra.bethmardutho.org/api/root/2505.json"
+        },
+        "words": [
+            {
+                "id": 40743,
+                "uri": "https://sedra.bethmardutho.org/api/word/40743.json"
+            },
+            {
+                "id": 39998,
+                "uri": "https://sedra.bethmardutho.org/api/word/39998.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

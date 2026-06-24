@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 41,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/41.json"
+        },
+        "syriac": "\u0710\u0718\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "unity",
+                "agreement",
+                "harmony, concord, agreement."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 33,
+            "uri": "https://sedra.bethmardutho.org/api/root/33.json"
+        },
+        "words": [
+            {
+                "id": 259,
+                "uri": "https://sedra.bethmardutho.org/api/word/259.json"
+            },
+            {
+                "id": 261,
+                "uri": "https://sedra.bethmardutho.org/api/word/261.json"
+            },
+            {
+                "id": 260,
+                "uri": "https://sedra.bethmardutho.org/api/word/260.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

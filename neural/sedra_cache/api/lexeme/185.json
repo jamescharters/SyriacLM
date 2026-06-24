@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 185,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/185.json"
+        },
+        "syriac": "\u0710\u0722\u071b\u071d\u0718\u071f\u071d",
+        "glosses": {
+            "English": [
+                "Antioch of Syria"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2040,
+            "uri": "https://sedra.bethmardutho.org/api/root/2040.json"
+        },
+        "words": [
+            {
+                "id": 1398,
+                "uri": "https://sedra.bethmardutho.org/api/word/1398.json"
+            },
+            {
+                "id": 1397,
+                "uri": "https://sedra.bethmardutho.org/api/word/1397.json"
+            },
+            {
+                "id": 1396,
+                "uri": "https://sedra.bethmardutho.org/api/word/1396.json"
+            },
+            {
+                "id": 1395,
+                "uri": "https://sedra.bethmardutho.org/api/word/1395.json"
+            },
+            {
+                "id": 1394,
+                "uri": "https://sedra.bethmardutho.org/api/word/1394.json"
+            },
+            {
+                "id": 1399,
+                "uri": "https://sedra.bethmardutho.org/api/word/1399.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

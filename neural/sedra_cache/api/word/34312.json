@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0725\u0712\u072a\u0722\u0710",
+        "western": "\u0721\u0736\u072c\u0725\u0730\u0712\u072a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10940,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10940.json"
+        },
+        "stem": "\u0721\u072c\u0725\u0712\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u064a\u0639\u0628\u0631(\u0645\u062c)",
+                "\u0639\u0627\u0628\u0631",
+                "\u062e\u0627\u0637\u0626"
+            ],
+            "eng": [
+                "transgressor.",
+                "passable"
+            ],
+            "fre": [
+                "qui s&#39;\u00e9coule",
+                "franchissable",
+                "p\u00e9cheur"
+            ]
+        },
+        "word": {
+            "id": 34312,
+            "uri": "https://sedra.bethmardutho.org/api/word/34312.json"
+        }
+    }
+]

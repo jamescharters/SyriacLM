@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u0710\u072b\u0726",
+        "western": "\u0710\u0730\u072b\u0736\u0726",
+        "eastern": "\u0710\u0732\u072b\u0738\u0726",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15395,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15395.json"
+        },
+        "stem": "\u072b\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0632\u0644",
+                "\u0637\u0627\u0648\u0639, \u0627\u0633\u062a\u0633\u0644\u0645",
+                "\u0631\u0636\u064a"
+            ],
+            "eng": [
+                "to adapt oneself",
+                "to diverge (from).",
+                "Ia, IIa to crawl, slither",
+                "to deal gently with",
+                "IIIa to turn gently",
+                "to assent to.",
+                "to give assent, grant",
+                "+ <span class=\"selectableFont\">\u0722\u0730\u0726\u072b\u0736\u0717</span> to condescend",
+                "Ip to be cleared (of stones)",
+                "to give way",
+                "to turn gently"
+            ],
+            "fre": [
+                "consentir",
+                "descendre",
+                "adh\u00e9rer, se donner"
+            ]
+        },
+        "word": {
+            "id": 39854,
+            "uri": "https://sedra.bethmardutho.org/api/word/39854.json"
+        }
+    }
+]

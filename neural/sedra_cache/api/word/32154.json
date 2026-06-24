@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072a\u071a\u071d\u0721\u0718\u072c\u0710",
+        "western": "\u072a\u071a\u073a\u071d\u0721\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12274,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12274.json"
+        },
+        "stem": "\u072a\u071a\u071d\u0721\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0628, \u0648\u062f"
+            ],
+            "eng": [
+                "affection."
+            ],
+            "fre": [
+                "amour, dilection"
+            ]
+        },
+        "word": {
+            "id": 32154,
+            "uri": "https://sedra.bethmardutho.org/api/word/32154.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 32,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/32.json"
+        },
+        "syriac": "\u0710\u0715\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "Adam"
+            ],
+            "English": [
+                "Adam"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 25,
+            "uri": "https://sedra.bethmardutho.org/api/root/25.json"
+        },
+        "words": [
+            {
+                "id": 225,
+                "uri": "https://sedra.bethmardutho.org/api/word/225.json"
+            },
+            {
+                "id": 224,
+                "uri": "https://sedra.bethmardutho.org/api/word/224.json"
+            },
+            {
+                "id": 223,
+                "uri": "https://sedra.bethmardutho.org/api/word/223.json"
+            },
+            {
+                "id": 222,
+                "uri": "https://sedra.bethmardutho.org/api/word/222.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0717\u0721\u0718\u0722\u071d",
+        "western": "\u0710\u073a\u071d\u0717\u0721\u073d\u0718\u0722\u073a\u071d",
+        "lexeme": {
+            "id": 28785,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28785.json"
+        },
+        "stem": "\u0710\u071d\u0717\u0721\u0718\u0722\u071d",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "poppy anemone"
+            ],
+            "grc": [
+                "\u1f00\u03bd\u03b5\u03bc\u03ce\u03bd\u03b7"
+            ],
+            "lat": [
+                "Anemone coronaria"
+            ]
+        },
+        "word": {
+            "id": 49295,
+            "uri": "https://sedra.bethmardutho.org/api/word/49295.json"
+        }
+    }
+]

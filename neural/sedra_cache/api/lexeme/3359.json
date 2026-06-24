@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 3359,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3359.json"
+        },
+        "syriac": "\u072c\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u062f\u064a"
+            ],
+            "French": [
+                "mamelle"
+            ],
+            "English": [
+                "pap.",
+                "breast",
+                "breast"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1950,
+            "uri": "https://sedra.bethmardutho.org/api/root/1950.json"
+        },
+        "words": [
+            {
+                "id": 22358,
+                "uri": "https://sedra.bethmardutho.org/api/word/22358.json"
+            },
+            {
+                "id": 22361,
+                "uri": "https://sedra.bethmardutho.org/api/word/22361.json"
+            },
+            {
+                "id": 22360,
+                "uri": "https://sedra.bethmardutho.org/api/word/22360.json"
+            },
+            {
+                "id": 42297,
+                "uri": "https://sedra.bethmardutho.org/api/word/42297.json"
+            },
+            {
+                "id": 22359,
+                "uri": "https://sedra.bethmardutho.org/api/word/22359.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

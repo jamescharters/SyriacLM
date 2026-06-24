@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072a\u0713\u0718\u072b\u0718\u072c\u0710",
+        "western": "\u072a\u0733\u0713\u073d\u0718\u072b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 4986,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/4986.json"
+        },
+        "stem": "\u072a\u0713\u0718\u072b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0647\u0645",
+                "\u0625\u062d\u0633\u0627\u0633"
+            ],
+            "eng": [
+                "sensibility.",
+                "perception"
+            ],
+            "fre": [
+                "intelligence",
+                "sensibilit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 37510,
+            "uri": "https://sedra.bethmardutho.org/api/word/37510.json"
+        }
+    }
+]

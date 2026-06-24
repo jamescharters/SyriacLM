@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 577,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/577.json"
+        },
+        "syriac": "\u0713\u0720\u071d\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0631\u062f",
+                "\u062c\u0644\u064a\u062f"
+            ],
+            "French": [
+                "froid",
+                "glace"
+            ],
+            "English": [
+                "crystal",
+                "ice",
+                "ice."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 374,
+            "uri": "https://sedra.bethmardutho.org/api/root/374.json"
+        },
+        "words": [
+            {
+                "id": 3774,
+                "uri": "https://sedra.bethmardutho.org/api/word/3774.json"
+            },
+            {
+                "id": 3775,
+                "uri": "https://sedra.bethmardutho.org/api/word/3775.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

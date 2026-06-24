@@ -1,0 +1,68 @@
+[
+    {
+        "lexeme": {
+            "id": 3319,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3319.json"
+        },
+        "syriac": "\u072b\u072a\u0713\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0631\u0627\u062c",
+                "\u0634\u0645\u0639\u062f\u0627\u0646"
+            ],
+            "French": [
+                "lampe",
+                "lampadaire"
+            ],
+            "English": [
+                "light",
+                "lamp",
+                "wick",
+                "lamp.",
+                "lamp",
+                "oil-lamp"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1927,
+            "uri": "https://sedra.bethmardutho.org/api/root/1927.json"
+        },
+        "words": [
+            {
+                "id": 22149,
+                "uri": "https://sedra.bethmardutho.org/api/word/22149.json"
+            },
+            {
+                "id": 22148,
+                "uri": "https://sedra.bethmardutho.org/api/word/22148.json"
+            },
+            {
+                "id": 22147,
+                "uri": "https://sedra.bethmardutho.org/api/word/22147.json"
+            },
+            {
+                "id": 22154,
+                "uri": "https://sedra.bethmardutho.org/api/word/22154.json"
+            },
+            {
+                "id": 22151,
+                "uri": "https://sedra.bethmardutho.org/api/word/22151.json"
+            },
+            {
+                "id": 22150,
+                "uri": "https://sedra.bethmardutho.org/api/word/22150.json"
+            },
+            {
+                "id": 22153,
+                "uri": "https://sedra.bethmardutho.org/api/word/22153.json"
+            },
+            {
+                "id": 22152,
+                "uri": "https://sedra.bethmardutho.org/api/word/22152.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

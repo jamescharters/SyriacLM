@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u0713\u072c\u0710",
+        "western": "\u0720\u0730\u0713\u0741\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1629,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1629.json"
+        },
+        "stem": "\u0720\u0713\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0635\u0639\u0629"
+            ],
+            "eng": [
+                "dish, basin, vessel",
+                "dish",
+                "measure (solid)."
+            ],
+            "fre": [
+                "plat"
+            ]
+        },
+        "word": {
+            "id": 10891,
+            "uri": "https://sedra.bethmardutho.org/api/word/10891.json"
+        }
+    }
+]

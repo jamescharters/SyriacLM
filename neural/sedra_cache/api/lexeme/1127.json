@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 1127,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1127.json"
+        },
+        "syriac": "\u071a\u0728\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0644\u0639",
+                "\u00a0"
+            ],
+            "French": [
+                "arracher",
+                "\u00a0"
+            ],
+            "English": [
+                "pluck out",
+                "Ia to tear, knock out",
+                "IIa to tear out.",
+                "Ip, IIp to be plucked out (of eyes)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 673,
+            "uri": "https://sedra.bethmardutho.org/api/root/673.json"
+        },
+        "words": [
+            {
+                "id": 24956,
+                "uri": "https://sedra.bethmardutho.org/api/word/24956.json"
+            },
+            {
+                "id": 24955,
+                "uri": "https://sedra.bethmardutho.org/api/word/24955.json"
+            },
+            {
+                "id": 23995,
+                "uri": "https://sedra.bethmardutho.org/api/word/23995.json"
+            },
+            {
+                "id": 7459,
+                "uri": "https://sedra.bethmardutho.org/api/word/7459.json"
+            },
+            {
+                "id": 7458,
+                "uri": "https://sedra.bethmardutho.org/api/word/7458.json"
+            },
+            {
+                "id": 7457,
+                "uri": "https://sedra.bethmardutho.org/api/word/7457.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

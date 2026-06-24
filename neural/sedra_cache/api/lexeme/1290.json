@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1290,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1290.json"
+        },
+        "syriac": "\u071d\u0710\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "seemliness",
+                "beauty",
+                "comeliness, beauty, seemliness, appropriateness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 763,
+            "uri": "https://sedra.bethmardutho.org/api/root/763.json"
+        },
+        "words": [
+            {
+                "id": 8417,
+                "uri": "https://sedra.bethmardutho.org/api/word/8417.json"
+            },
+            {
+                "id": 8416,
+                "uri": "https://sedra.bethmardutho.org/api/word/8416.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

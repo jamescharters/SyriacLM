@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 38646,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/38646.json"
+        },
+        "syriac": "\u0715\u0710\u0729\u0726\u071d\u0722\u0723\u0710",
+        "glosses": {
+            "Latin": [
+                "qui progressus est",
+                "exiit manifeste"
+            ],
+            "English": [
+                "who has progressed",
+                "it came out clearly"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f10\u03ba\u03c6\u03b1\u03bd\u03af\u03b6\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 65001,
+                "uri": "https://sedra.bethmardutho.org/api/word/65001.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

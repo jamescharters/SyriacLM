@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 27013,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27013.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0710\u0715\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f50\u03bd\u03ad\u03b4\u03c9\u03bd"
+            ],
+            "Latin": [
+                "unedo"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "unedo"
+            ]
+        },
+        "words": [
+            {
+                "id": 48791,
+                "uri": "https://sedra.bethmardutho.org/api/word/48791.json"
+            },
+            {
+                "id": 53387,
+                "uri": "https://sedra.bethmardutho.org/api/word/53387.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

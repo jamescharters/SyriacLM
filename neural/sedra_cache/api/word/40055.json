@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0721\u0725",
+        "western": "\u0729\u0721\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15564,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15564.json"
+        },
+        "stem": "\u0729\u0721\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to tie, bind (of amulets)"
+            ]
+        },
+        "word": {
+            "id": 40055,
+            "uri": "https://sedra.bethmardutho.org/api/word/40055.json"
+        }
+    }
+]

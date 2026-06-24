@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 27128,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27128.json"
+        },
+        "syriac": "\u0710\u0718\u0723\u071b\u072c\u071d\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u0395\u1f50\u03c3\u03c4\u03ac\u03b8\u03b9\u03bf\u03c2"
+            ],
+            "Latin": [
+                "Eustathius"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 53564,
+                "uri": "https://sedra.bethmardutho.org/api/word/53564.json"
+            },
+            {
+                "id": 53502,
+                "uri": "https://sedra.bethmardutho.org/api/word/53502.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

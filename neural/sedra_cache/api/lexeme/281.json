@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 281,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/281.json"
+        },
+        "syriac": "\u0710\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "lion",
+                "Leo (sign of zodiac).",
+                "leprosy",
+                "elephantiasis.",
+                "lion"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 208,
+            "uri": "https://sedra.bethmardutho.org/api/root/208.json"
+        },
+        "words": [
+            {
+                "id": 1883,
+                "uri": "https://sedra.bethmardutho.org/api/word/1883.json"
+            },
+            {
+                "id": 1882,
+                "uri": "https://sedra.bethmardutho.org/api/word/1882.json"
+            },
+            {
+                "id": 1880,
+                "uri": "https://sedra.bethmardutho.org/api/word/1880.json"
+            },
+            {
+                "id": 1879,
+                "uri": "https://sedra.bethmardutho.org/api/word/1879.json"
+            },
+            {
+                "id": 1884,
+                "uri": "https://sedra.bethmardutho.org/api/word/1884.json"
+            },
+            {
+                "id": 42236,
+                "uri": "https://sedra.bethmardutho.org/api/word/42236.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

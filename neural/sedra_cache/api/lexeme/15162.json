@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15162,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15162.json"
+        },
+        "syriac": "\u072b\u0712\u072a",
+        "glosses": {
+            "English": [
+                "IIIa to feign childishness.",
+                "IIa to be childish",
+                "IIp to behave as a child"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2148,
+            "uri": "https://sedra.bethmardutho.org/api/root/2148.json"
+        },
+        "words": [
+            {
+                "id": 40765,
+                "uri": "https://sedra.bethmardutho.org/api/word/40765.json"
+            },
+            {
+                "id": 40730,
+                "uri": "https://sedra.bethmardutho.org/api/word/40730.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

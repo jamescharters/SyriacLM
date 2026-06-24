@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15932,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15932.json"
+        },
+        "syriac": "\u0729\u0720\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0631\u062f"
+            ],
+            "French": [
+                "chasser"
+            ],
+            "English": [
+                "Ia to drive away",
+                "IIa to sling, hurl."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2903,
+            "uri": "https://sedra.bethmardutho.org/api/root/2903.json"
+        },
+        "words": [
+            {
+                "id": 41926,
+                "uri": "https://sedra.bethmardutho.org/api/word/41926.json"
+            },
+            {
+                "id": 41693,
+                "uri": "https://sedra.bethmardutho.org/api/word/41693.json"
+            },
+            {
+                "id": 40461,
+                "uri": "https://sedra.bethmardutho.org/api/word/40461.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

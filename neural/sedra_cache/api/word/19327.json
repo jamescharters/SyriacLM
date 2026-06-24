@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072a\u0718\u071d",
+        "western": "\u072a\u0730\u0718\u0733\u071d",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2963,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2963.json"
+        },
+        "stem": "\u072a\u0718\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0643\u0631\u0627\u0646",
+                "\u0645\u0636\u0637\u0631\u0645"
+            ],
+            "eng": [
+                "drunkard",
+                "ardent.",
+                "thirsty",
+                "drunkard"
+            ],
+            "fre": [
+                "ivre",
+                "ardent"
+            ]
+        },
+        "word": {
+            "id": 19327,
+            "uri": "https://sedra.bethmardutho.org/api/word/19327.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15534,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15534.json"
+        },
+        "syriac": "\u0723\u072c\u072a",
+        "glosses": {
+            "English": [
+                "to protect",
+                "to shelter",
+                "IIIa to conceal.",
+                "IIa to conceal",
+                "IIp to be sheltered",
+                "to take shelter",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u072c\u073d\u0718\u072a</span>, Ia to hide, cover"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2462,
+            "uri": "https://sedra.bethmardutho.org/api/root/2462.json"
+        },
+        "words": [
+            {
+                "id": 42123,
+                "uri": "https://sedra.bethmardutho.org/api/word/42123.json"
+            },
+            {
+                "id": 40009,
+                "uri": "https://sedra.bethmardutho.org/api/word/40009.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

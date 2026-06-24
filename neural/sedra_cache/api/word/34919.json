@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072c\u072a\u071d\u0722\u0710",
+        "western": "\u072c\u072a\u0730\u071d\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9693,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9693.json"
+        },
+        "stem": "\u072c\u072a\u071d\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0627\u0646\u0648\u064a",
+                "\u0642\u0627\u0626\u0645 \u0645\u0642\u0627\u0645, \u0646\u0627\u0626\u0628",
+                "\u062b\u0627\u0646"
+            ],
+            "eng": [
+                "second",
+                "secondary",
+                "vicegerent.",
+                "substitute"
+            ],
+            "fre": [
+                "secondaire",
+                "second",
+                "rempla\u00e7ant, vicaire"
+            ]
+        },
+        "word": {
+            "id": 34919,
+            "uri": "https://sedra.bethmardutho.org/api/word/34919.json"
+        }
+    }
+]

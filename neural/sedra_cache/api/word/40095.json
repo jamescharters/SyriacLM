@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u072c\u0720\u071a",
+        "western": "\u072c\u0720\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15677,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15677.json"
+        },
+        "stem": "\u072c\u0720\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0628\u0637\u0644",
+                "\u0634\u0642",
+                "\u00a0",
+                "\u0645\u0632\u0642 (\u0645\u0636)"
+            ],
+            "eng": [
+                "IIa to flay, to lacerate.",
+                "to be rent apart",
+                "to tear, to tear up",
+                "Ia to burst asunder",
+                "Ip, IIp to be ruptured, to burst open"
+            ],
+            "fre": [
+                "\u00a0",
+                "annuler",
+                "fendre",
+                "d\u00e9chirer"
+            ]
+        },
+        "word": {
+            "id": 40095,
+            "uri": "https://sedra.bethmardutho.org/api/word/40095.json"
+        }
+    }
+]

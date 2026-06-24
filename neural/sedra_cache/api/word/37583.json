@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072c\u0726\u0722\u071d\u071f\u0710",
+        "western": "\u072c\u0730\u0726\u0722\u073a\u071d\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10445,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10445.json"
+        },
+        "stem": "\u072c\u0726\u0722\u071d\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0648\u0631\u0629 \u0623\u0635\u0644\u064a\u0629, \u0635\u0648\u0631\u0629, \u0634\u062e\u0635",
+                "\u0645\u062b\u0627\u0644 \u0623\u0635\u0644\u064a"
+            ],
+            "eng": [
+                "prototype",
+                "prototype, exemplar, original.",
+                "t. gramm. basic, primary word (from which an adjective is derived)",
+                "image",
+                "type"
+            ],
+            "fre": [
+                "type, image, statue",
+                "prototype"
+            ]
+        },
+        "word": {
+            "id": 37583,
+            "uri": "https://sedra.bethmardutho.org/api/word/37583.json"
+        }
+    }
+]

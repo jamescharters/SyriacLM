@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1875,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1875.json"
+        },
+        "syriac": "\u0721\u072b\u071f\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0644\u062f"
+            ],
+            "French": [
+                "peau, cuir"
+            ],
+            "English": [
+                "skin",
+                "leather",
+                "hide",
+                "leather.",
+                "skin, hide, rind"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1119,
+            "uri": "https://sedra.bethmardutho.org/api/root/1119.json"
+        },
+        "words": [
+            {
+                "id": 12343,
+                "uri": "https://sedra.bethmardutho.org/api/word/12343.json"
+            },
+            {
+                "id": 12345,
+                "uri": "https://sedra.bethmardutho.org/api/word/12345.json"
+            },
+            {
+                "id": 12344,
+                "uri": "https://sedra.bethmardutho.org/api/word/12344.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

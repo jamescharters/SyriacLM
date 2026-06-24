@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0718\u0721\u071b\u071d\u0712\u071d\u0722\u0722",
+        "western": "\u0718\u0730\u0721\u071b\u0730\u071d\u0712\u0742\u073a\u071d\u0722\u0730\u0722",
+        "tense": "passive participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1198,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1198.json"
+        },
+        "stem": "\u071b\u0718\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "make ready"
+            ]
+        },
+        "word": {
+            "id": 25082,
+            "uri": "https://sedra.bethmardutho.org/api/word/25082.json"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0723\u0726\u072a",
+        "western": "\u0723\u0726\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2186,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2186.json"
+        },
+        "stem": "\u0723\u0726\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "shave"
+            ]
+        },
+        "word": {
+            "id": 22828,
+            "uri": "https://sedra.bethmardutho.org/api/word/22828.json"
+        }
+    }
+]

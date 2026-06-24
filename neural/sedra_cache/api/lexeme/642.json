@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 642,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/642.json"
+        },
+        "syriac": "\u0715\u0712\u071d\u071a\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0628\u064a\u062d\u0629, \u062a\u0636\u062d\u064a\u0629"
+            ],
+            "French": [
+                "sacrifice , immolation"
+            ],
+            "English": [
+                "sacrificing",
+                "immolation",
+                "sacrificing."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 413,
+            "uri": "https://sedra.bethmardutho.org/api/root/413.json"
+        },
+        "words": [
+            {
+                "id": 4030,
+                "uri": "https://sedra.bethmardutho.org/api/word/4030.json"
+            },
+            {
+                "id": 23383,
+                "uri": "https://sedra.bethmardutho.org/api/word/23383.json"
+            },
+            {
+                "id": 4029,
+                "uri": "https://sedra.bethmardutho.org/api/word/4029.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

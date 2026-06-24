@@ -1,0 +1,93 @@
+[
+    {
+        "lexeme": {
+            "id": 1281,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1281.json"
+        },
+        "syriac": "\u071b\u072a\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u0631\u0628",
+                "\u062d\u0631\u0643 (\u0645\u0636) (\u0623\u062c\u0646\u062d\u062a\u0647)"
+            ],
+            "French": [
+                "frapper",
+                "agiter ( les ailes)"
+            ],
+            "English": [
+                "to glance",
+                "IIIa to shake violently",
+                "smite",
+                "beat",
+                "to harass",
+                "Ia to buffet, hit, smite",
+                "to be exhausted, worn out",
+                "IIp to be harassed, shaken, agitated",
+                "IIa to buffet, treat roughly",
+                "to wag (tail).",
+                "to shake to and fro",
+                "to stagger"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 759,
+            "uri": "https://sedra.bethmardutho.org/api/root/759.json"
+        },
+        "words": [
+            {
+                "id": 25225,
+                "uri": "https://sedra.bethmardutho.org/api/word/25225.json"
+            },
+            {
+                "id": 25224,
+                "uri": "https://sedra.bethmardutho.org/api/word/25224.json"
+            },
+            {
+                "id": 8356,
+                "uri": "https://sedra.bethmardutho.org/api/word/8356.json"
+            },
+            {
+                "id": 8312,
+                "uri": "https://sedra.bethmardutho.org/api/word/8312.json"
+            },
+            {
+                "id": 8365,
+                "uri": "https://sedra.bethmardutho.org/api/word/8365.json"
+            },
+            {
+                "id": 8364,
+                "uri": "https://sedra.bethmardutho.org/api/word/8364.json"
+            },
+            {
+                "id": 25228,
+                "uri": "https://sedra.bethmardutho.org/api/word/25228.json"
+            },
+            {
+                "id": 25227,
+                "uri": "https://sedra.bethmardutho.org/api/word/25227.json"
+            },
+            {
+                "id": 25226,
+                "uri": "https://sedra.bethmardutho.org/api/word/25226.json"
+            },
+            {
+                "id": 8368,
+                "uri": "https://sedra.bethmardutho.org/api/word/8368.json"
+            },
+            {
+                "id": 8367,
+                "uri": "https://sedra.bethmardutho.org/api/word/8367.json"
+            },
+            {
+                "id": 8357,
+                "uri": "https://sedra.bethmardutho.org/api/word/8357.json"
+            },
+            {
+                "id": 8366,
+                "uri": "https://sedra.bethmardutho.org/api/word/8366.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

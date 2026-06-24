@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2492,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2492.json"
+        },
+        "syriac": "\u0726\u071d\u0720\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Pontius Pilate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1478,
+            "uri": "https://sedra.bethmardutho.org/api/root/1478.json"
+        },
+        "words": [
+            {
+                "id": 16314,
+                "uri": "https://sedra.bethmardutho.org/api/word/16314.json"
+            },
+            {
+                "id": 16313,
+                "uri": "https://sedra.bethmardutho.org/api/word/16313.json"
+            },
+            {
+                "id": 16312,
+                "uri": "https://sedra.bethmardutho.org/api/word/16312.json"
+            },
+            {
+                "id": 16311,
+                "uri": "https://sedra.bethmardutho.org/api/word/16311.json"
+            },
+            {
+                "id": 16316,
+                "uri": "https://sedra.bethmardutho.org/api/word/16316.json"
+            },
+            {
+                "id": 16315,
+                "uri": "https://sedra.bethmardutho.org/api/word/16315.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

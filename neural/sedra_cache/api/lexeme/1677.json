@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1677,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1677.json"
+        },
+        "syriac": "\u0720\u0721\u0710\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u0641\u0623"
+            ],
+            "French": [
+                "port"
+            ],
+            "English": [
+                "port",
+                "haven",
+                "harbor, haven",
+                "Lit. <span class=\"selectableFont\">\u0718\u0730\u0725\u0715\u0733\u0710 \u0715\u0730\u0720\u0721\u073a\u0710\u0722\u0733\u0710</span> service commemorating the ten wise virgins at the beginning of Passion Week."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bb\u03b9\u03bc\u03ae\u03bd"
+            ]
+        },
+        "root": {
+            "id": 995,
+            "uri": "https://sedra.bethmardutho.org/api/root/995.json"
+        },
+        "words": [
+            {
+                "id": 11059,
+                "uri": "https://sedra.bethmardutho.org/api/word/11059.json"
+            },
+            {
+                "id": 11061,
+                "uri": "https://sedra.bethmardutho.org/api/word/11061.json"
+            },
+            {
+                "id": 11060,
+                "uri": "https://sedra.bethmardutho.org/api/word/11060.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

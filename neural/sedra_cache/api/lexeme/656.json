@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 656,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/656.json"
+        },
+        "syriac": "\u0715\u0713\u0720\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "falsity",
+                "lie",
+                "falsehood, treachery."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 417,
+            "uri": "https://sedra.bethmardutho.org/api/root/417.json"
+        },
+        "words": [
+            {
+                "id": 4163,
+                "uri": "https://sedra.bethmardutho.org/api/word/4163.json"
+            },
+            {
+                "id": 4162,
+                "uri": "https://sedra.bethmardutho.org/api/word/4162.json"
+            },
+            {
+                "id": 4159,
+                "uri": "https://sedra.bethmardutho.org/api/word/4159.json"
+            },
+            {
+                "id": 4161,
+                "uri": "https://sedra.bethmardutho.org/api/word/4161.json"
+            },
+            {
+                "id": 4160,
+                "uri": "https://sedra.bethmardutho.org/api/word/4160.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

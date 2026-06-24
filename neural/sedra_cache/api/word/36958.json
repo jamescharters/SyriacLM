@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u071a\u072b\u071d\u072a\u072c\u0722\u0710",
+        "western": "\u0722\u0730\u071a\u072b\u073a\u071d\u072a\u072c\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7137,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7137.json"
+        },
+        "stem": "\u0722\u071a\u072b\u071d\u072a\u072c\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0646\u062f\u064a",
+                "\u0635\u064a\u0627\u062f"
+            ],
+            "eng": [
+                "hunter",
+                "enduring, valiant.",
+                "warrior"
+            ],
+            "fre": [
+                "chasseur",
+                "soldat"
+            ]
+        },
+        "word": {
+            "id": 36958,
+            "uri": "https://sedra.bethmardutho.org/api/word/36958.json"
+        }
+    }
+]

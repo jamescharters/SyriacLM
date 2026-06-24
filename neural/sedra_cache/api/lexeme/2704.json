@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2704,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2704.json"
+        },
+        "syriac": "\u0728\u0725",
+        "glosses": {
+            "English": [
+                "foul",
+                "filthy"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1600,
+            "uri": "https://sedra.bethmardutho.org/api/root/1600.json"
+        },
+        "words": [
+            {
+                "id": 17567,
+                "uri": "https://sedra.bethmardutho.org/api/word/17567.json"
+            },
+            {
+                "id": 17569,
+                "uri": "https://sedra.bethmardutho.org/api/word/17569.json"
+            },
+            {
+                "id": 17568,
+                "uri": "https://sedra.bethmardutho.org/api/word/17568.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

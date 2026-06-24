@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14928,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14928.json"
+        },
+        "syriac": "\u0720\u071b\u072a\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0646\u0649, \u0631\u062a\u0644 (\u0645\u0636)"
+            ],
+            "French": [
+                "chanter"
+            ],
+            "English": [
+                "IVa to celebrate in song."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3128,
+            "uri": "https://sedra.bethmardutho.org/api/root/3128.json"
+        },
+        "words": [
+            {
+                "id": 40723,
+                "uri": "https://sedra.bethmardutho.org/api/word/40723.json"
+            },
+            {
+                "id": 39934,
+                "uri": "https://sedra.bethmardutho.org/api/word/39934.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

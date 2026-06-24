@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0719\u0729\u0710",
+        "western": "\u0719\u0736\u0729\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 907,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/907.json"
+        },
+        "stem": "\u0719\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0642"
+            ],
+            "eng": [
+                "wineskin",
+                "leather bag",
+                "wineskin, leather bottle."
+            ],
+            "fre": [
+                "outre"
+            ]
+        },
+        "word": {
+            "id": 5724,
+            "uri": "https://sedra.bethmardutho.org/api/word/5724.json"
+        }
+    }
+]

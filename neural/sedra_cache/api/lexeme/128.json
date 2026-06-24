@@ -1,0 +1,79 @@
+[
+    {
+        "lexeme": {
+            "id": 128,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/128.json"
+        },
+        "syriac": "\u0710\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0642\u0637",
+                "\u0648\u0644\u0643\u0646, \u0645\u0639 \u0630\u0644\u0643",
+                "\u0646\u0627\u062d"
+            ],
+            "French": [
+                "seulement",
+                "mais, cependant",
+                "se lamenter"
+            ],
+            "English": [
+                "Ia to mourn, lament.",
+                "howl",
+                "lament aloud",
+                "wail"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 97,
+            "uri": "https://sedra.bethmardutho.org/api/root/97.json"
+        },
+        "words": [
+            {
+                "id": 896,
+                "uri": "https://sedra.bethmardutho.org/api/word/896.json"
+            },
+            {
+                "id": 23095,
+                "uri": "https://sedra.bethmardutho.org/api/word/23095.json"
+            },
+            {
+                "id": 23094,
+                "uri": "https://sedra.bethmardutho.org/api/word/23094.json"
+            },
+            {
+                "id": 23093,
+                "uri": "https://sedra.bethmardutho.org/api/word/23093.json"
+            },
+            {
+                "id": 895,
+                "uri": "https://sedra.bethmardutho.org/api/word/895.json"
+            },
+            {
+                "id": 893,
+                "uri": "https://sedra.bethmardutho.org/api/word/893.json"
+            },
+            {
+                "id": 23097,
+                "uri": "https://sedra.bethmardutho.org/api/word/23097.json"
+            },
+            {
+                "id": 23096,
+                "uri": "https://sedra.bethmardutho.org/api/word/23096.json"
+            },
+            {
+                "id": 899,
+                "uri": "https://sedra.bethmardutho.org/api/word/899.json"
+            },
+            {
+                "id": 898,
+                "uri": "https://sedra.bethmardutho.org/api/word/898.json"
+            },
+            {
+                "id": 897,
+                "uri": "https://sedra.bethmardutho.org/api/word/897.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

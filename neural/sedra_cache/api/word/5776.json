@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0718\u0712\u0719\u0721\u072a\u0710",
+        "western": "\u0718\u0712\u0742\u0730\u0719\u0721\u0733\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 893,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/893.json"
+        },
+        "stem": "\u0719\u0721\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0648\u0633\u064a\u0642\u0649",
+                "\u0639\u064a\u062f",
+                "\u0623\u063a\u0646\u064a\u0629, \u062a\u0631\u062a\u064a\u0644"
+            ],
+            "eng": [
+                "singing",
+                "music",
+                "music, song."
+            ],
+            "fre": [
+                "f\u00eate",
+                "musique",
+                "chant"
+            ]
+        },
+        "word": {
+            "id": 5776,
+            "uri": "https://sedra.bethmardutho.org/api/word/5776.json"
+        }
+    }
+]

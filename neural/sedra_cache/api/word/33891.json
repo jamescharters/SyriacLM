@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u0721\u0722\u0710",
+        "western": "\u0710\u0730\u0721\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5376,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5376.json"
+        },
+        "stem": "\u0710\u0721\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u063a\u0644, \u062d\u0631\u0641\u0629, \u0648\u0638\u064a\u0641\u0629",
+                "\u0623\u0645\u0631",
+                "\u062a\u0635\u0631\u0641, \u0645\u0646\u0647\u062c",
+                "\u0623\u0645\u0646"
+            ],
+            "eng": [
+                "pursuit, practice, craft, trade, profession, occupation."
+            ],
+            "fre": [
+                "fa\u00e7on d&#39; agir, pratique",
+                "s\u00e9curit\u00e9",
+                "occupation, m\u00e9tier, office",
+                "affaire"
+            ]
+        },
+        "word": {
+            "id": 33891,
+            "uri": "https://sedra.bethmardutho.org/api/word/33891.json"
+        }
+    }
+]

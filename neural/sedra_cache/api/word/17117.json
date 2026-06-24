@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0715\u0726\u072b\u071d\u071b\u0718\u072c\u0717\u0718\u0722",
+        "western": "\u0715\u0741\u0730\u0726\u0742\u072b\u073a\u071d\u071b\u073d\u0718\u072c\u0742\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2629,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2629.json"
+        },
+        "stem": "\u0726\u072b\u071d\u071b\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0630\u0627\u062c\u0629",
+                "\u0627\u0646\u0628\u0633\u0627\u0637",
+                "\u0643\u0631\u0645"
+            ],
+            "eng": [
+                "simplicity",
+                "outstretching.",
+                "simplicity",
+                "directness"
+            ],
+            "fre": [
+                "simplicit\u00e9",
+                "extention",
+                "lib\u00e9ralit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 17117,
+            "uri": "https://sedra.bethmardutho.org/api/word/17117.json"
+        }
+    }
+]

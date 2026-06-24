@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 38647,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/38647.json"
+        },
+        "syriac": "\u0715\u0710\u0729\u072a\u071d\u0718\u0723",
+        "glosses": {
+            "Latin": [
+                "lachryma"
+            ],
+            "English": [
+                "tear"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b4\u03ac\u03c1\u03ba\u03c1\u03c5"
+            ]
+        },
+        "words": [
+            {
+                "id": 65002,
+                "uri": "https://sedra.bethmardutho.org/api/word/65002.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

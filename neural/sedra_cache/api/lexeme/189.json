@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 189,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/189.json"
+        },
+        "syriac": "\u0710\u0722\u071b\u071d\u0726\u071b\u072a\u0723",
+        "glosses": {
+            "English": [
+                "Antipatris"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 140,
+            "uri": "https://sedra.bethmardutho.org/api/root/140.json"
+        },
+        "words": [
+            {
+                "id": 1408,
+                "uri": "https://sedra.bethmardutho.org/api/word/1408.json"
+            },
+            {
+                "id": 1409,
+                "uri": "https://sedra.bethmardutho.org/api/word/1409.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

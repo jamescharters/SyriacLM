@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0712\u072a\u071d\u0721\u0729\u0718\u0722\u071d\u071b\u0710",
+        "western": "\u0710\u0712\u072a\u0308\u071d\u0721\u0729\u0718\u0722\u071d\u071b\u0710",
+        "lexeme": {
+            "id": 20964,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20964.json"
+        },
+        "stem": "\u0710\u0712\u072a\u071d\u0721\u0729\u0718\u0722\u071d\u071b\u0710",
+        "category": "numeral",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u1f11\u03b2\u03b4\u03bf\u03bc\u03ae\u03ba\u03bf\u03bd\u03c4\u03b1"
+            ],
+            "lat": [
+                "septuaginta"
+            ]
+        },
+        "word": {
+            "id": 47338,
+            "uri": "https://sedra.bethmardutho.org/api/word/47338.json"
+        }
+    }
+]

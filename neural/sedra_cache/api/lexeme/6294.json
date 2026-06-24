@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 6294,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6294.json"
+        },
+        "syriac": "\u0710\u0723\u0729\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0623\u0633",
+                "\u0625\u0646\u0627\u0621 \u0642\u0646\u062f\u064a\u0644"
+            ],
+            "French": [
+                "coupe",
+                "vase de lampe"
+            ],
+            "English": [
+                "cup, bowl."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03ba\u03cd\u03c6\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 50545,
+                "uri": "https://sedra.bethmardutho.org/api/word/50545.json"
+            },
+            {
+                "id": 37916,
+                "uri": "https://sedra.bethmardutho.org/api/word/37916.json"
+            }
+        ]
+    }
+]

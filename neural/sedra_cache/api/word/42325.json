@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0725\u0726",
+        "western": "\u0710\u0730\u0725\u0736\u0726",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2380,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2380.json"
+        },
+        "stem": "\u0725\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa <span class=\"selectableFont\">\u0725\u0730\u0726\u0736\u0726</span>, IIIa <span class=\"selectableFont\">\u0710\u0730\u0725\u0736\u0726</span> to double, to repeat, to multiply",
+                "Ia to fold, to double, to increase",
+                "Ip to be repeated",
+                "fold up",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0725\u0730\u0726\u0730\u0726</span>, IIIp <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0730\u0725\u0730\u0726</span>."
+            ]
+        },
+        "word": {
+            "id": 42325,
+            "uri": "https://sedra.bethmardutho.org/api/word/42325.json"
+        }
+    }
+]

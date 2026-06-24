@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1247,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1247.json"
+        },
+        "syriac": "\u071b\u0718\u0720\u072b\u0710",
+        "glosses": {
+            "English": [
+                "spot",
+                "impurity",
+                "stain",
+                "blemish",
+                "stain, spot, defilement."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 737,
+            "uri": "https://sedra.bethmardutho.org/api/root/737.json"
+        },
+        "words": [
+            {
+                "id": 8145,
+                "uri": "https://sedra.bethmardutho.org/api/word/8145.json"
+            },
+            {
+                "id": 8146,
+                "uri": "https://sedra.bethmardutho.org/api/word/8146.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

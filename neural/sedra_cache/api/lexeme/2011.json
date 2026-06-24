@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 2011,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2011.json"
+        },
+        "syriac": "\u0722\u0728\u0710",
+        "glosses": {
+            "English": [
+                "contend",
+                "strive",
+                "Ia to contend, quarrel."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1199,
+            "uri": "https://sedra.bethmardutho.org/api/root/1199.json"
+        },
+        "words": [
+            {
+                "id": 26684,
+                "uri": "https://sedra.bethmardutho.org/api/word/26684.json"
+            },
+            {
+                "id": 26683,
+                "uri": "https://sedra.bethmardutho.org/api/word/26683.json"
+            },
+            {
+                "id": 13305,
+                "uri": "https://sedra.bethmardutho.org/api/word/13305.json"
+            },
+            {
+                "id": 26686,
+                "uri": "https://sedra.bethmardutho.org/api/word/26686.json"
+            },
+            {
+                "id": 26685,
+                "uri": "https://sedra.bethmardutho.org/api/word/26685.json"
+            },
+            {
+                "id": 13307,
+                "uri": "https://sedra.bethmardutho.org/api/word/13307.json"
+            },
+            {
+                "id": 13306,
+                "uri": "https://sedra.bethmardutho.org/api/word/13306.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

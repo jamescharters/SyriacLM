@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0712\u0728\u071d\u072a",
+        "western": "\u0712\u0728\u073a\u071d\u072a",
+        "number": "singular",
+        "lexeme": {
+            "id": 6307,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6307.json"
+        },
+        "stem": "\u0712\u0728\u071d\u072a",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0644\u064a\u0644\u0648 \u0627\u0644\u0639\u062f\u062f",
+                "\u0623\u0642\u0644",
+                "\u062a\u0642\u0631\u064a\u0628\u0627\u064e"
+            ],
+            "eng": [
+                "less",
+                "<span class=\"selectableFont\">\u0712\u0728\u073a\u071d\u072a \u0729\u0720\u073a\u071d\u0720</span> almost."
+            ],
+            "fre": [
+                "moins",
+                "peu nombreux",
+                "presque"
+            ]
+        },
+        "word": {
+            "id": 39628,
+            "uri": "https://sedra.bethmardutho.org/api/word/39628.json"
+        }
+    }
+]

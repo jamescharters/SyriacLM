@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u0712\u0720\u072c\u0710",
+        "western": "\u0715\u0712\u0730\u0720\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5541,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5541.json"
+        },
+        "stem": "\u0715\u0712\u0720\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0631\u0635\u0629 \u0645\u0646 \u0627\u0644\u062a\u064a\u0646"
+            ],
+            "eng": [
+                "fig cake."
+            ],
+            "fre": [
+                "g\u00e2teau de figues"
+            ]
+        },
+        "word": {
+            "id": 32736,
+            "uri": "https://sedra.bethmardutho.org/api/word/32736.json"
+        }
+    }
+]

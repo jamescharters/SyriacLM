@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072a\u0719\u0726",
+        "western": "\u072a\u0719\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15768,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15768.json"
+        },
+        "stem": "\u072a\u0719\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0634"
+            ],
+            "eng": [
+                "IIIa to drip",
+                "to rain gently",
+                "Ip",
+                "IIIp to be sprinkled.",
+                "Ia to sprinkle"
+            ],
+            "fre": [
+                "r\u00e9pandre"
+            ]
+        },
+        "word": {
+            "id": 40421,
+            "uri": "https://sedra.bethmardutho.org/api/word/40421.json"
+        }
+    }
+]

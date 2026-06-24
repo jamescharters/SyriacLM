@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0717\u0726\u071f\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072c\u0717\u0730\u0726\u071f\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8836,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8836.json"
+        },
+        "stem": "\u0721\u072c\u0717\u0726\u071f\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0642\u0644\u0628",
+                "\u062a\u063a\u064a\u0631"
+            ],
+            "eng": [
+                "overthrow.",
+                "retrogression, turning back"
+            ],
+            "fre": [
+                "changement",
+                "versatilit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 31355,
+            "uri": "https://sedra.bethmardutho.org/api/word/31355.json"
+        }
+    }
+]

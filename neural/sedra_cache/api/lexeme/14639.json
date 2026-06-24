@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 14639,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14639.json"
+        },
+        "syriac": "\u072b\u071f\u0720\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0645\u0644 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "achever",
+                "\u00a0"
+            ],
+            "English": [
+                "to restore",
+                "IVp.",
+                "IVa to complete (a building etc.)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2561,
+            "uri": "https://sedra.bethmardutho.org/api/root/2561.json"
+        },
+        "words": [
+            {
+                "id": 47029,
+                "uri": "https://sedra.bethmardutho.org/api/word/47029.json"
+            },
+            {
+                "id": 40325,
+                "uri": "https://sedra.bethmardutho.org/api/word/40325.json"
+            },
+            {
+                "id": 40218,
+                "uri": "https://sedra.bethmardutho.org/api/word/40218.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

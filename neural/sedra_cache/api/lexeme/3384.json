@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 3384,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3384.json"
+        },
+        "syriac": "\u072c\u071a\u071d\u072c",
+        "glosses": {
+            "English": [
+                "under",
+                "beneath, below, under."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1966,
+            "uri": "https://sedra.bethmardutho.org/api/root/1966.json"
+        },
+        "words": [
+            {
+                "id": 22460,
+                "uri": "https://sedra.bethmardutho.org/api/word/22460.json"
+            },
+            {
+                "id": 22459,
+                "uri": "https://sedra.bethmardutho.org/api/word/22459.json"
+            },
+            {
+                "id": 22458,
+                "uri": "https://sedra.bethmardutho.org/api/word/22458.json"
+            },
+            {
+                "id": 22456,
+                "uri": "https://sedra.bethmardutho.org/api/word/22456.json"
+            },
+            {
+                "id": 22457,
+                "uri": "https://sedra.bethmardutho.org/api/word/22457.json"
+            },
+            {
+                "id": 22461,
+                "uri": "https://sedra.bethmardutho.org/api/word/22461.json"
+            }
+        ],
+        "category": "preposition"
+    }
+]

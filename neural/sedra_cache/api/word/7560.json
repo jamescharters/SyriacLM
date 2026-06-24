@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0718\u071a\u072a\u071d\u0726\u0710",
+        "western": "\u0718\u071a\u0730\u072a\u073a\u071d\u0726\u0742\u0733\u0710",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1150,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1150.json"
+        },
+        "stem": "\u071a\u072a\u071d\u0726\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0631\u064a\u0639, \u0646\u0634\u064a\u0637",
+                "\u0642\u0648\u064a, \u0642\u0627\u0633",
+                "\u062d\u0627\u062f, \u0630\u0631\u0628"
+            ],
+            "eng": [
+                "shrill.",
+                "sharp, sudden, acute, severe",
+                "prompt, swift",
+                "fervent",
+                "keen",
+                "incisive",
+                "sharp"
+            ],
+            "fre": [
+                "tranchant, pointu",
+                "prompt, vif",
+                "fort , dur"
+            ]
+        },
+        "word": {
+            "id": 7560,
+            "uri": "https://sedra.bethmardutho.org/api/word/7560.json"
+        }
+    }
+]

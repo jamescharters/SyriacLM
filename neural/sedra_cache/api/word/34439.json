@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0715\u071a\u0720\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0715\u0730\u071a\u0720\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9486,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9486.json"
+        },
+        "stem": "\u0721\u0715\u071a\u0720\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0631\u0639\u064a\u0628"
+            ],
+            "eng": [
+                "source of terror."
+            ],
+            "fre": [
+                "action de terrifier"
+            ]
+        },
+        "word": {
+            "id": 34439,
+            "uri": "https://sedra.bethmardutho.org/api/word/34439.json"
+        }
+    }
+]

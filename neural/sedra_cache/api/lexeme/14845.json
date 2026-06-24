@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 14845,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14845.json"
+        },
+        "syriac": "\u0723\u072a\u0717\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0641\u0639, \u0639\u062c\u0644 (\u0645\u0636)",
+                "\u0627\u0633\u062a\u0639\u062c\u0644",
+                "\u0631\u0643\u0636, \u062a\u0647\u064a\u062c",
+                "\u00a0"
+            ],
+            "French": [
+                "pousser, h\u00e2ter",
+                "se h\u00e2ter",
+                "courir, s&#39;agiter",
+                "pousser\u2026"
+            ],
+            "English": [
+                "to be frightened.",
+                "IVp to make haste",
+                "to act in haste",
+                "to urge on",
+                "IVa to hasten"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2145,
+            "uri": "https://sedra.bethmardutho.org/api/root/2145.json"
+        },
+        "words": [
+            {
+                "id": 41329,
+                "uri": "https://sedra.bethmardutho.org/api/word/41329.json"
+            },
+            {
+                "id": 40468,
+                "uri": "https://sedra.bethmardutho.org/api/word/40468.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

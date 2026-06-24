@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 999,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/999.json"
+        },
+        "syriac": "\u071a\u0719\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0635\u0631"
+            ],
+            "French": [
+                "vue"
+            ],
+            "English": [
+                "sight",
+                "vision, perception.",
+                "sight"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 613,
+            "uri": "https://sedra.bethmardutho.org/api/root/613.json"
+        },
+        "words": [
+            {
+                "id": 6697,
+                "uri": "https://sedra.bethmardutho.org/api/word/6697.json"
+            },
+            {
+                "id": 6698,
+                "uri": "https://sedra.bethmardutho.org/api/word/6698.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

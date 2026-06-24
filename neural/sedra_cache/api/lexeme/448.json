@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 448,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/448.json"
+        },
+        "syriac": "\u0712\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0631\u063a\u0634"
+            ],
+            "French": [
+                "moustique"
+            ],
+            "English": [
+                "gnat",
+                "gnat, mosquito."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 303,
+            "uri": "https://sedra.bethmardutho.org/api/root/303.json"
+        },
+        "words": [
+            {
+                "id": 3119,
+                "uri": "https://sedra.bethmardutho.org/api/word/3119.json"
+            },
+            {
+                "id": 29335,
+                "uri": "https://sedra.bethmardutho.org/api/word/29335.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

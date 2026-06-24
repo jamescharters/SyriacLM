@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15729,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15729.json"
+        },
+        "syriac": "\u072b\u0720\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0632\u0639, \u0642\u0644\u0639",
+                "\u064a\u0628\u0633"
+            ],
+            "French": [
+                "tirer hors, arracher",
+                "se d\u00e9ss\u00e9cher"
+            ],
+            "English": [
+                "Ia to draw out, to tear out, to pull out",
+                "IIa to dry up",
+                "IIp to be drawn (of sword)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3108,
+            "uri": "https://sedra.bethmardutho.org/api/root/3108.json"
+        },
+        "words": [
+            {
+                "id": 41709,
+                "uri": "https://sedra.bethmardutho.org/api/word/41709.json"
+            },
+            {
+                "id": 41297,
+                "uri": "https://sedra.bethmardutho.org/api/word/41297.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0718\u0722\u072c\u0720\u071d\u0718\u0717\u071d",
+        "western": "\u0718\u0722\u0736\u072c\u0741\u0720\u073a\u071d\u0718\u0717\u0331\u071d",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 15819,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15819.json"
+        },
+        "stem": "\u071d\u0717\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to entrust, commit",
+                "to put, place",
+                "to be permitted",
+                "Ip to be given, granted",
+                "to allow, permit",
+                "to yield",
+                "to be given up, delivered.",
+                "Ia to give, to grant",
+                "give"
+            ]
+        },
+        "word": {
+            "id": 8774,
+            "uri": "https://sedra.bethmardutho.org/api/word/8774.json"
+        }
+    }
+]

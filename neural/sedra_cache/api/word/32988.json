@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072b\u0729\u0726\u0718\u072c\u0710",
+        "western": "\u0721\u072b\u0730\u0729\u0726\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12401,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12401.json"
+        },
+        "stem": "\u0721\u072b\u0729\u0726\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0639\u062c\u0628"
+            ],
+            "eng": [
+                "astonishment."
+            ],
+            "fre": [
+                "\u00e9tonnement"
+            ]
+        },
+        "word": {
+            "id": 32988,
+            "uri": "https://sedra.bethmardutho.org/api/word/32988.json"
+        }
+    }
+]

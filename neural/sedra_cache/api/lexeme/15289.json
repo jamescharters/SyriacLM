@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15289,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15289.json"
+        },
+        "syriac": "\u072c\u071d\u072a",
+        "glosses": {
+            "English": [
+                "IIa, IIIa to plough with oxen."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3123,
+            "uri": "https://sedra.bethmardutho.org/api/root/3123.json"
+        },
+        "words": [
+            {
+                "id": 40086,
+                "uri": "https://sedra.bethmardutho.org/api/word/40086.json"
+            },
+            {
+                "id": 40042,
+                "uri": "https://sedra.bethmardutho.org/api/word/40042.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

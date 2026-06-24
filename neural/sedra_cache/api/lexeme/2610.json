@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 2610,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2610.json"
+        },
+        "syriac": "\u0726\u0718\u072a\u0729\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062f\u0627\u0621",
+                "\u0641\u062f\u064a\u0629"
+            ],
+            "French": [
+                "r\u00e9demption",
+                "ran\u00e7on"
+            ],
+            "English": [
+                "redemption",
+                "salvation",
+                "deliverance",
+                "redemption",
+                "salvation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1551,
+            "uri": "https://sedra.bethmardutho.org/api/root/1551.json"
+        },
+        "words": [
+            {
+                "id": 16966,
+                "uri": "https://sedra.bethmardutho.org/api/word/16966.json"
+            },
+            {
+                "id": 16965,
+                "uri": "https://sedra.bethmardutho.org/api/word/16965.json"
+            },
+            {
+                "id": 16964,
+                "uri": "https://sedra.bethmardutho.org/api/word/16964.json"
+            },
+            {
+                "id": 16963,
+                "uri": "https://sedra.bethmardutho.org/api/word/16963.json"
+            },
+            {
+                "id": 16962,
+                "uri": "https://sedra.bethmardutho.org/api/word/16962.json"
+            },
+            {
+                "id": 16968,
+                "uri": "https://sedra.bethmardutho.org/api/word/16968.json"
+            },
+            {
+                "id": 16967,
+                "uri": "https://sedra.bethmardutho.org/api/word/16967.json"
+            },
+            {
+                "id": 16969,
+                "uri": "https://sedra.bethmardutho.org/api/word/16969.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

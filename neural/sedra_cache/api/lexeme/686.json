@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 686,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/686.json"
+        },
+        "syriac": "\u0715\u071d\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "possessed",
+                "demoniac",
+                "demoniac, madman",
+                "Kth. crazy, idiot."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 435,
+            "uri": "https://sedra.bethmardutho.org/api/root/435.json"
+        },
+        "words": [
+            {
+                "id": 4345,
+                "uri": "https://sedra.bethmardutho.org/api/word/4345.json"
+            },
+            {
+                "id": 4342,
+                "uri": "https://sedra.bethmardutho.org/api/word/4342.json"
+            },
+            {
+                "id": 4344,
+                "uri": "https://sedra.bethmardutho.org/api/word/4344.json"
+            },
+            {
+                "id": 4343,
+                "uri": "https://sedra.bethmardutho.org/api/word/4343.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

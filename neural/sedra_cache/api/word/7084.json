@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0715\u0710\u071a\u0720\u0721\u0717",
+        "western": "\u0715\u0741\u0730\u0710\u071a\u0720\u0721\u0736\u0717",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1047,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1047.json"
+        },
+        "stem": "\u071a\u0720\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0644\u0645"
+            ],
+            "eng": [
+                "Ip to recover health, to be cured, healed",
+                "to be refreshed by sleep",
+                "Ia to dream",
+                "dream",
+                "cure",
+                "IIa to heal",
+                "be cured",
+                "IIIa to restore, heal, cure."
+            ],
+            "fre": [
+                "r\u00eaver"
+            ]
+        },
+        "word": {
+            "id": 7084,
+            "uri": "https://sedra.bethmardutho.org/api/word/7084.json"
+        }
+    }
+]

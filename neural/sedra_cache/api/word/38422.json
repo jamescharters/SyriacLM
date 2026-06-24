@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0722\u0722\u072c\u0710",
+        "western": "\u0710\u0736\u0722\u0730\u0722\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8814,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8814.json"
+        },
+        "stem": "\u0710\u0722\u0722\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0646\u064a\u0646"
+            ],
+            "eng": [
+                "groan."
+            ],
+            "fre": [
+                "g\u00e9missement"
+            ]
+        },
+        "word": {
+            "id": 38422,
+            "uri": "https://sedra.bethmardutho.org/api/word/38422.json"
+        }
+    }
+]

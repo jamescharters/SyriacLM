@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u0718\u072a\u0710",
+        "western": "\u0720\u0730\u0718\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14335,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14335.json"
+        },
+        "stem": "\u0720\u0718\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u064a\u0631"
+            ],
+            "eng": [
+                "lavra, monastery."
+            ],
+            "fre": [
+                "monast\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 29820,
+            "uri": "https://sedra.bethmardutho.org/api/word/29820.json"
+        }
+    }
+]

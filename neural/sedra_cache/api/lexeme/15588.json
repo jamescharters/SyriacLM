@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15588,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15588.json"
+        },
+        "syriac": "\u071a\u0726\u072a",
+        "glosses": {
+            "English": [
+                "IIIa to cause to blush, put to shame.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0726\u073d\u0718\u072a</span>, Ia to blush, be ashamed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2061,
+            "uri": "https://sedra.bethmardutho.org/api/root/2061.json"
+        },
+        "words": [
+            {
+                "id": 42071,
+                "uri": "https://sedra.bethmardutho.org/api/word/42071.json"
+            },
+            {
+                "id": 40529,
+                "uri": "https://sedra.bethmardutho.org/api/word/40529.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

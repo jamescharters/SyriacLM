@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0728\u0718\u071a",
+        "western": "\u0728\u0718\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15665,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15665.json"
+        },
+        "stem": "\u0728\u0718\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u0718\u0730\u071a</span>, Ia to feel a sharp pain."
+            ]
+        },
+        "word": {
+            "id": 40619,
+            "uri": "https://sedra.bethmardutho.org/api/word/40619.json"
+        }
+    }
+]

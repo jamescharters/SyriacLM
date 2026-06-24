@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 2099,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2099.json"
+        },
+        "syriac": "\u0723\u0718\u0726\u0710",
+        "glosses": {
+            "English": [
+                "end",
+                "limit",
+                "edge, end, extremity."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1254,
+            "uri": "https://sedra.bethmardutho.org/api/root/1254.json"
+        },
+        "words": [
+            {
+                "id": 13956,
+                "uri": "https://sedra.bethmardutho.org/api/word/13956.json"
+            },
+            {
+                "id": 26720,
+                "uri": "https://sedra.bethmardutho.org/api/word/26720.json"
+            },
+            {
+                "id": 26719,
+                "uri": "https://sedra.bethmardutho.org/api/word/26719.json"
+            },
+            {
+                "id": 13955,
+                "uri": "https://sedra.bethmardutho.org/api/word/13955.json"
+            },
+            {
+                "id": 13957,
+                "uri": "https://sedra.bethmardutho.org/api/word/13957.json"
+            },
+            {
+                "id": 13954,
+                "uri": "https://sedra.bethmardutho.org/api/word/13954.json"
+            },
+            {
+                "id": 13953,
+                "uri": "https://sedra.bethmardutho.org/api/word/13953.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

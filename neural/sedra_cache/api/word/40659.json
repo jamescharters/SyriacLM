@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0726\u0717\u072a",
+        "western": "\u0726\u0730\u0717\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15150,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15150.json"
+        },
+        "stem": "\u0726\u0717\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa, IIp to yawn."
+            ]
+        },
+        "word": {
+            "id": 40659,
+            "uri": "https://sedra.bethmardutho.org/api/word/40659.json"
+        }
+    }
+]

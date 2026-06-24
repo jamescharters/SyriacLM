@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0725\u0718\u071b\u0710",
+        "western": "\u072b\u0730\u072a\u0725\u073d\u0718\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7152,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7152.json"
+        },
+        "stem": "\u072b\u072a\u0725\u0718\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0627\u0639\u0648\u0646",
+                "\u0628\u0626\u0631, \u062f\u0645\u0644"
+            ],
+            "eng": [
+                "tumor",
+                "plague."
+            ],
+            "fre": [
+                "peste",
+                "pustule, tumeur"
+            ]
+        },
+        "word": {
+            "id": 36521,
+            "uri": "https://sedra.bethmardutho.org/api/word/36521.json"
+        }
+    }
+]

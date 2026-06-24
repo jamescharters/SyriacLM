@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0713\u0720\u072b",
+        "western": "\u0713\u0720\u0730\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15837,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15837.json"
+        },
+        "stem": "\u0713\u0720\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to scratch",
+                "Ip."
+            ]
+        },
+        "word": {
+            "id": 41277,
+            "uri": "https://sedra.bethmardutho.org/api/word/41277.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u072c\u0725\u0710",
+        "western": "\u0722\u0736\u072c\u0725\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9675,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9675.json"
+        },
+        "stem": "\u0722\u072c\u0725\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u062c\u062d\u0627\u0646"
+            ],
+            "eng": [
+                "inclination (of scales)."
+            ],
+            "fre": [
+                "tr\u00e9buchement (de la balance)"
+            ]
+        },
+        "word": {
+            "id": 34034,
+            "uri": "https://sedra.bethmardutho.org/api/word/34034.json"
+        }
+    }
+]

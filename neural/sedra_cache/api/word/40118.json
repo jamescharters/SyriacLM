@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0717",
+        "western": "\u0710\u0730\u071f\u0730\u0717",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14730,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14730.json"
+        },
+        "stem": "\u071f\u0717",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to breathe out",
+                "to sigh.",
+                "to sigh.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u0730\u0717</span> to breathe out"
+            ]
+        },
+        "word": {
+            "id": 40118,
+            "uri": "https://sedra.bethmardutho.org/api/word/40118.json"
+        }
+    }
+]

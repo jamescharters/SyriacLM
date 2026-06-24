@@ -1,0 +1,77 @@
+[
+    {
+        "lexeme": {
+            "id": 3156,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3156.json"
+        },
+        "syriac": "\u072b\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0648\u0631",
+                "\u0628\u062c\u0631\u0629",
+                "\u0623\u0635\u0644 \u0635\u062d\u064a\u062d",
+                "\u0633\u0644\u0633\u0644\u0629"
+            ],
+            "French": [
+                "rempart",
+                "nombril",
+                "race authentique",
+                "cha\u00eene"
+            ],
+            "English": [
+                "wall",
+                "rampart",
+                "wall",
+                "navel."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1837,
+            "uri": "https://sedra.bethmardutho.org/api/root/1837.json"
+        },
+        "words": [
+            {
+                "id": 20734,
+                "uri": "https://sedra.bethmardutho.org/api/word/20734.json"
+            },
+            {
+                "id": 20731,
+                "uri": "https://sedra.bethmardutho.org/api/word/20731.json"
+            },
+            {
+                "id": 1814,
+                "uri": "https://sedra.bethmardutho.org/api/word/1814.json"
+            },
+            {
+                "id": 1777,
+                "uri": "https://sedra.bethmardutho.org/api/word/1777.json"
+            },
+            {
+                "id": 20738,
+                "uri": "https://sedra.bethmardutho.org/api/word/20738.json"
+            },
+            {
+                "id": 20736,
+                "uri": "https://sedra.bethmardutho.org/api/word/20736.json"
+            },
+            {
+                "id": 20735,
+                "uri": "https://sedra.bethmardutho.org/api/word/20735.json"
+            },
+            {
+                "id": 20733,
+                "uri": "https://sedra.bethmardutho.org/api/word/20733.json"
+            },
+            {
+                "id": 20732,
+                "uri": "https://sedra.bethmardutho.org/api/word/20732.json"
+            },
+            {
+                "id": 20737,
+                "uri": "https://sedra.bethmardutho.org/api/word/20737.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15428,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15428.json"
+        },
+        "syriac": "\u0721\u0720\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0647\u0646",
+                "\u0637\u0644\u0649"
+            ],
+            "French": [
+                "oindre",
+                "enduire"
+            ],
+            "English": [
+                "Ip.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0721\u0720\u073d\u0718\u071b</span>, Ia to smear"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2582,
+            "uri": "https://sedra.bethmardutho.org/api/root/2582.json"
+        },
+        "words": [
+            {
+                "id": 41643,
+                "uri": "https://sedra.bethmardutho.org/api/word/41643.json"
+            },
+            {
+                "id": 40375,
+                "uri": "https://sedra.bethmardutho.org/api/word/40375.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

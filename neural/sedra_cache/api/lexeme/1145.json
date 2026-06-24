@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 1145,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1145.json"
+        },
+        "syriac": "\u071a\u072a\u0721",
+        "glosses": {
+            "English": [
+                "vow",
+                "curse",
+                "anathematize",
+                "IIIp to be excommunicated, anathematized.",
+                "to separate from ordinary use",
+                "IIIa to put under a curse, to anathematize, excommunicate",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u071a\u072a\u0736\u0721</span> to be anathematized, excommunicated"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 684,
+            "uri": "https://sedra.bethmardutho.org/api/root/684.json"
+        },
+        "words": [
+            {
+                "id": 7543,
+                "uri": "https://sedra.bethmardutho.org/api/word/7543.json"
+            },
+            {
+                "id": 7542,
+                "uri": "https://sedra.bethmardutho.org/api/word/7542.json"
+            },
+            {
+                "id": 24982,
+                "uri": "https://sedra.bethmardutho.org/api/word/24982.json"
+            },
+            {
+                "id": 24981,
+                "uri": "https://sedra.bethmardutho.org/api/word/24981.json"
+            },
+            {
+                "id": 7547,
+                "uri": "https://sedra.bethmardutho.org/api/word/7547.json"
+            },
+            {
+                "id": 7546,
+                "uri": "https://sedra.bethmardutho.org/api/word/7546.json"
+            },
+            {
+                "id": 7545,
+                "uri": "https://sedra.bethmardutho.org/api/word/7545.json"
+            },
+            {
+                "id": 7544,
+                "uri": "https://sedra.bethmardutho.org/api/word/7544.json"
+            },
+            {
+                "id": 7541,
+                "uri": "https://sedra.bethmardutho.org/api/word/7541.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

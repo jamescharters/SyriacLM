@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 19177,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19177.json"
+        },
+        "syriac": "\u071f\u0718\u072a\u0713\u0710",
+        "glosses": {
+            "English": [
+                "a travelling-bag, saddle-bag, pouch; a horse-cloth, housing",
+                "saddle-bag"
+            ]
+        },
+        "etymologies": {
+            "Arabic": [
+                "khurjin"
+            ]
+        },
+        "words": [
+            {
+                "id": 47866,
+                "uri": "https://sedra.bethmardutho.org/api/word/47866.json"
+            },
+            {
+                "id": 45551,
+                "uri": "https://sedra.bethmardutho.org/api/word/45551.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "lexeme": {
+            "id": 325,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/325.json"
+        },
+        "syriac": "\u0712\u072c\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0644\u0649",
+                "\u00a0"
+            ],
+            "French": [
+                "contre",
+                "\u00a0"
+            ],
+            "English": [
+                "after",
+                "behind",
+                "after",
+                "<span class=\"selectableFont\">\u0712\u0733\u072c\u0730\u072a \u0712\u0733\u072c\u0730\u072a</span> one by one.",
+                "<span class=\"selectableFont\">\u0712\u0733\u072c\u0730\u072a \u072a\u073a\u071d\u072b\u0736\u0717</span> upside-down"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 239,
+            "uri": "https://sedra.bethmardutho.org/api/root/239.json"
+        },
+        "words": [
+            {
+                "id": 2207,
+                "uri": "https://sedra.bethmardutho.org/api/word/2207.json"
+            },
+            {
+                "id": 2203,
+                "uri": "https://sedra.bethmardutho.org/api/word/2203.json"
+            },
+            {
+                "id": 2195,
+                "uri": "https://sedra.bethmardutho.org/api/word/2195.json"
+            },
+            {
+                "id": 2200,
+                "uri": "https://sedra.bethmardutho.org/api/word/2200.json"
+            },
+            {
+                "id": 2210,
+                "uri": "https://sedra.bethmardutho.org/api/word/2210.json"
+            },
+            {
+                "id": 2208,
+                "uri": "https://sedra.bethmardutho.org/api/word/2208.json"
+            },
+            {
+                "id": 2206,
+                "uri": "https://sedra.bethmardutho.org/api/word/2206.json"
+            },
+            {
+                "id": 2205,
+                "uri": "https://sedra.bethmardutho.org/api/word/2205.json"
+            },
+            {
+                "id": 2204,
+                "uri": "https://sedra.bethmardutho.org/api/word/2204.json"
+            },
+            {
+                "id": 2202,
+                "uri": "https://sedra.bethmardutho.org/api/word/2202.json"
+            },
+            {
+                "id": 2199,
+                "uri": "https://sedra.bethmardutho.org/api/word/2199.json"
+            },
+            {
+                "id": 2198,
+                "uri": "https://sedra.bethmardutho.org/api/word/2198.json"
+            },
+            {
+                "id": 2197,
+                "uri": "https://sedra.bethmardutho.org/api/word/2197.json"
+            },
+            {
+                "id": 2196,
+                "uri": "https://sedra.bethmardutho.org/api/word/2196.json"
+            }
+        ],
+        "category": "preposition"
+    }
+]

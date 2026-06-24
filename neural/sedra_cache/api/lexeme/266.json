@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 266,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/266.json"
+        },
+        "syriac": "\u0725\u072a\u0712\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Arab"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2011,
+            "uri": "https://sedra.bethmardutho.org/api/root/2011.json"
+        },
+        "words": [
+            {
+                "id": 1818,
+                "uri": "https://sedra.bethmardutho.org/api/word/1818.json"
+            },
+            {
+                "id": 1820,
+                "uri": "https://sedra.bethmardutho.org/api/word/1820.json"
+            },
+            {
+                "id": 1819,
+                "uri": "https://sedra.bethmardutho.org/api/word/1819.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

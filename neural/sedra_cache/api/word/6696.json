@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0719\u071d\u071d",
+        "western": "\u071a\u0730\u0719\u0733\u071d\u0730\u071d",
+        "state": "construct",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 998,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/998.json"
+        },
+        "stem": "\u071a\u0719\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "spectator",
+                "observer",
+                "spectator, eye-witness, onlooker",
+                "eye-witness",
+                "perceptive."
+            ]
+        },
+        "word": {
+            "id": 6696,
+            "uri": "https://sedra.bethmardutho.org/api/word/6696.json"
+        }
+    }
+]

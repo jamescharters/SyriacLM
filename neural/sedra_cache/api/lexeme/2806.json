@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 2806,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2806.json"
+        },
+        "syriac": "\u0729\u071d\u071b\u0718\u0722\u0729\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0627\u062c\u0628"
+            ],
+            "French": [
+                "chambellan"
+            ],
+            "English": [
+                "chamberlain",
+                "chamberlain."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1654,
+            "uri": "https://sedra.bethmardutho.org/api/root/1654.json"
+        },
+        "words": [
+            {
+                "id": 18324,
+                "uri": "https://sedra.bethmardutho.org/api/word/18324.json"
+            },
+            {
+                "id": 18323,
+                "uri": "https://sedra.bethmardutho.org/api/word/18323.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

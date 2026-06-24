@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0721\u0710",
+        "western": "\u0723\u072a\u0733\u0721\u0733\u0710",
+        "lexeme": {
+            "id": 17636,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/17636.json"
+        },
+        "stem": "\u0723\u072a\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0641\u0637\u0633"
+            ],
+            "eng": [
+                "flat-nosed, part of the nose or lip cut off"
+            ],
+            "fre": [
+                "camus"
+            ]
+        },
+        "word": {
+            "id": 44010,
+            "uri": "https://sedra.bethmardutho.org/api/word/44010.json"
+        }
+    }
+]

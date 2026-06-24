@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072c\u072c\u072b\u0720\u0721\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072c\u072c\u0730\u072b\u0720\u0721\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11512,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11512.json"
+        },
+        "stem": "\u0721\u072c\u072c\u072b\u0720\u0721\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0633\u0644\u064a\u0645"
+            ],
+            "eng": [
+                "delivery (of goods)."
+            ],
+            "fre": [
+                "remise"
+            ]
+        },
+        "word": {
+            "id": 31948,
+            "uri": "https://sedra.bethmardutho.org/api/word/31948.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0722\u0710",
+        "western": "\u0721\u0733\u0722\u0733\u0710",
+        "lexeme": {
+            "id": 1801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1801.json"
+        },
+        "stem": "\u0721\u0722\u0710",
+        "category": "pronoun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                ""
+            ],
+            "eng": [
+                "why",
+                "what",
+                "what? <span class=\"selectableFont\">\u0720\u0721\u0733\u0722\u0733\u0710</span>, <span class=\"selectableFont\">\u0721\u0736\u071b\u073d\u0720 \u0721\u0733\u0722\u0733\u0710</span>, <span class=\"selectableFont\">\u0725\u0730\u0720 \u0721\u0733\u0722\u0733\u0710</span> why, wherefore?"
+            ],
+            "fre": [
+                "instrument\u2026"
+            ]
+        },
+        "word": {
+            "id": 12010,
+            "uri": "https://sedra.bethmardutho.org/api/word/12010.json"
+        }
+    }
+]

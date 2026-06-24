@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u0712\u0718\u072a\u0710",
+        "western": "\u0715\u0736\u0712\u073d\u0718\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5607,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5607.json"
+        },
+        "stem": "\u0715\u0712\u0718\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0646\u0628\u0648\u0631"
+            ],
+            "eng": [
+                "wasp."
+            ],
+            "fre": [
+                "gu\u00eape, frelon"
+            ]
+        },
+        "word": {
+            "id": 38948,
+            "uri": "https://sedra.bethmardutho.org/api/word/38948.json"
+        }
+    }
+]

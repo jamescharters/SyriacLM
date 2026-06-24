@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2153,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2153.json"
+        },
+        "syriac": "\u0723\u0721\u071d\u071f\u0710",
+        "glosses": {
+            "English": [
+                "guest",
+                "seated",
+                "guest",
+                "stable, firm, established."
+            ],
+            "Arabic": [
+                "\u062b\u0627\u0628\u062a",
+                "\u0645\u0624\u0627\u0643\u0644"
+            ],
+            "French": [
+                "stable",
+                "convive"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1288,
+            "uri": "https://sedra.bethmardutho.org/api/root/1288.json"
+        },
+        "words": [
+            {
+                "id": 14330,
+                "uri": "https://sedra.bethmardutho.org/api/word/14330.json"
+            },
+            {
+                "id": 22826,
+                "uri": "https://sedra.bethmardutho.org/api/word/22826.json"
+            },
+            {
+                "id": 14332,
+                "uri": "https://sedra.bethmardutho.org/api/word/14332.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

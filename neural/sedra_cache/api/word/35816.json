@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0713\u0715\u0715\u0710",
+        "western": "\u0713\u0715\u0733\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5752,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5752.json"
+        },
+        "stem": "\u0713\u0715\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639",
+                "\u062e\u064a\u0637"
+            ],
+            "eng": [
+                "cutting off (of web)",
+                "thread."
+            ],
+            "fre": [
+                "coupure",
+                "fil"
+            ]
+        },
+        "word": {
+            "id": 35816,
+            "uri": "https://sedra.bethmardutho.org/api/word/35816.json"
+        }
+    }
+]

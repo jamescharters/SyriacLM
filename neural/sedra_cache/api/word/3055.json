@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u0725\u0720\u0715\u0712\u0712\u071d\u0717\u0718\u0722",
+        "western": "\u0712\u0741\u0725\u0736\u0720\u0715\u0741\u0712\u0742\u0733\u0712\u0742\u0730\u071d\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 437,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/437.json"
+        },
+        "stem": "\u0712\u0725\u0720\u0715\u0712\u0712\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "enemy",
+                "enemy."
+            ]
+        },
+        "word": {
+            "id": 3055,
+            "uri": "https://sedra.bethmardutho.org/api/word/3055.json"
+        }
+    }
+]

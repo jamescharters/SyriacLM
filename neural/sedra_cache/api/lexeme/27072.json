@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 27072,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27072.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0718\u0726\u0720\u071d\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f40\u03bd\u03cc\u03c6\u03c5\u03bb\u03bb\u03bf\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "anchusa"
+            ]
+        },
+        "words": [
+            {
+                "id": 48806,
+                "uri": "https://sedra.bethmardutho.org/api/word/48806.json"
+            },
+            {
+                "id": 53446,
+                "uri": "https://sedra.bethmardutho.org/api/word/53446.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

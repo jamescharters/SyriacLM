@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 15406,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15406.json"
+        },
+        "syriac": "\u0723\u072a\u0726",
+        "glosses": {
+            "English": [
+                "IIIa to make to swallow.",
+                "to obstruct",
+                "Ia to swallow up, to absorb",
+                "Ip to be blocked up",
+                "IIa to gulp down, to swallow",
+                "to block up"
+            ],
+            "Arabic": [
+                "\u0645\u0635",
+                "\u0628\u0644\u0639",
+                "\u063a\u0644\u0642, \u0633\u062f",
+                "\u00a0"
+            ],
+            "French": [
+                "sucer",
+                "avaler, absorber",
+                "fermer, obstruer",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2209,
+            "uri": "https://sedra.bethmardutho.org/api/root/2209.json"
+        },
+        "words": [
+            {
+                "id": 42056,
+                "uri": "https://sedra.bethmardutho.org/api/word/42056.json"
+            },
+            {
+                "id": 40717,
+                "uri": "https://sedra.bethmardutho.org/api/word/40717.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

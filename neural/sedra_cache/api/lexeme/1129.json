@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1129,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1129.json"
+        },
+        "syriac": "\u071a\u0728\u0715\u0710",
+        "glosses": {
+            "English": [
+                "harvest",
+                "reaping, harvest, ripe crop."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 674,
+            "uri": "https://sedra.bethmardutho.org/api/root/674.json"
+        },
+        "words": [
+            {
+                "id": 7478,
+                "uri": "https://sedra.bethmardutho.org/api/word/7478.json"
+            },
+            {
+                "id": 7476,
+                "uri": "https://sedra.bethmardutho.org/api/word/7476.json"
+            },
+            {
+                "id": 7477,
+                "uri": "https://sedra.bethmardutho.org/api/word/7477.json"
+            },
+            {
+                "id": 7479,
+                "uri": "https://sedra.bethmardutho.org/api/word/7479.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

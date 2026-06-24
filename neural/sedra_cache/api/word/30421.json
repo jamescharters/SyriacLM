@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u071a\u0723\u071f\u0718\u072c\u0710",
+        "western": "\u0721\u071a\u0730\u0723\u071f\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14092,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14092.json"
+        },
+        "stem": "\u0721\u071a\u0723\u071f\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0642\u062a\u064a\u0631",
+                "\u0632\u0647\u062f"
+            ],
+            "eng": [
+                "poverty.",
+                "holding back, niggardliness"
+            ],
+            "fre": [
+                "parcimonie",
+                "asc\u00e8se"
+            ]
+        },
+        "word": {
+            "id": 30421,
+            "uri": "https://sedra.bethmardutho.org/api/word/30421.json"
+        }
+    }
+]

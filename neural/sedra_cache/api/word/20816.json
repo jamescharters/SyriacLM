@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072b\u071a\u072a\u0718",
+        "western": "\u072b\u0730\u071a\u0730\u072a\u0718",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3171,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3171.json"
+        },
+        "stem": "\u072b\u071a\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u0648\u062f",
+                "\u0627\u062c\u062a\u0645\u0639",
+                "\u062e\u0627\u0641"
+            ],
+            "eng": [
+                "fear",
+                "compel"
+            ],
+            "fre": [
+                "se r\u00e9unir",
+                "\u00eatre ou devenir noir",
+                "craindre"
+            ]
+        },
+        "word": {
+            "id": 20816,
+            "uri": "https://sedra.bethmardutho.org/api/word/20816.json"
+        }
+    }
+]

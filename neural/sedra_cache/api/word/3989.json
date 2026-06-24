@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0713\u072a\u072b\u0710",
+        "western": "\u0713\u0741\u0733\u072a\u072b\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 633,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/633.json"
+        },
+        "stem": "\u0713\u072a\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u062d\u0628"
+            ],
+            "eng": [
+                "draw away",
+                "to protract, prolong",
+                "IIa to drive out.",
+                "Ia to drag",
+                "drag"
+            ],
+            "fre": [
+                "tirer"
+            ]
+        },
+        "word": {
+            "id": 3989,
+            "uri": "https://sedra.bethmardutho.org/api/word/3989.json"
+        }
+    }
+]

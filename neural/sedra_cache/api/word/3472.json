@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u0713\u0712\u072a\u0710",
+        "western": "\u0720\u0713\u0742\u0730\u0712\u0742\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 504,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/504.json"
+        },
+        "stem": "\u0713\u0712\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "man, male, husband.",
+                "person",
+                "husband",
+                "man"
+            ]
+        },
+        "word": {
+            "id": 3472,
+            "uri": "https://sedra.bethmardutho.org/api/word/3472.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072b\u0718\u072a\u071d",
+        "western": "\u072b\u0718\u072a\u071d",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15196,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15196.json"
+        },
+        "stem": "\u072b\u0718\u072a\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to attack",
+                "to happen to be present.",
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072b\u072c\u0730\u0718\u072a\u073a\u071d</span> to be arrogant"
+            ]
+        },
+        "word": {
+            "id": 40084,
+            "uri": "https://sedra.bethmardutho.org/api/word/40084.json"
+        }
+    }
+]

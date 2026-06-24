@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15722,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15722.json"
+        },
+        "syriac": "\u071b\u0720\u071a",
+        "glosses": {
+            "English": [
+                "Ia, IIa to hammer, beat out."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2118,
+            "uri": "https://sedra.bethmardutho.org/api/root/2118.json"
+        },
+        "words": [
+            {
+                "id": 41891,
+                "uri": "https://sedra.bethmardutho.org/api/word/41891.json"
+            },
+            {
+                "id": 40422,
+                "uri": "https://sedra.bethmardutho.org/api/word/40422.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

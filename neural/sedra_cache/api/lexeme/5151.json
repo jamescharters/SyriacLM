@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 5151,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5151.json"
+        },
+        "syriac": "\u0723\u0718\u0722\u071b\u071f\u0723\u071d\u0723",
+        "glosses": {
+            "English": [
+                "farewell address",
+                "syntax",
+                "arrangement, composition",
+                "valediction."
+            ],
+            "Arabic": [
+                "\u0646\u062d\u0648",
+                "\u0646\u0638\u0627\u0645"
+            ],
+            "French": [
+                "syntaxe",
+                "ordre"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03cd\u03bd\u03c4\u03b1\u03be\u03b9\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 43752,
+                "uri": "https://sedra.bethmardutho.org/api/word/43752.json"
+            },
+            {
+                "id": 37671,
+                "uri": "https://sedra.bethmardutho.org/api/word/37671.json"
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0715\u0721\u072a\u0722\u0710",
+        "western": "\u0721\u0715\u0730\u0721\u072a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7569,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7569.json"
+        },
+        "stem": "\u0721\u0715\u0721\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062c\u064a\u0628"
+            ],
+            "eng": [
+                "Gram. type of an accent point.",
+                "causing wonder, wonderful"
+            ],
+            "fre": [
+                "admirable"
+            ]
+        },
+        "word": {
+            "id": 33876,
+            "uri": "https://sedra.bethmardutho.org/api/word/33876.json"
+        }
+    }
+]

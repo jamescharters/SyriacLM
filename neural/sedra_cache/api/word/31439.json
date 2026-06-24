@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u071d\u0718\u071b\u0718\u072c\u0710",
+        "western": "\u072b\u0733\u071d\u073d\u0718\u071b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11068,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11068.json"
+        },
+        "stem": "\u072b\u071d\u0718\u071b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u0642\u0627\u0631"
+            ],
+            "eng": [
+                "contempt, scorn."
+            ],
+            "fre": [
+                "m\u00e9pris"
+            ]
+        },
+        "word": {
+            "id": 31439,
+            "uri": "https://sedra.bethmardutho.org/api/word/31439.json"
+        }
+    }
+]

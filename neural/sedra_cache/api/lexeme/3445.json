@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3445,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3445.json"
+        },
+        "syriac": "\u072c\u0718\u072a\u0723\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0648\u0646\u0629"
+            ],
+            "French": [
+                "vivres"
+            ],
+            "English": [
+                "nourishment",
+                "food",
+                "provisions, nourishment."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1999,
+            "uri": "https://sedra.bethmardutho.org/api/root/1999.json"
+        },
+        "words": [
+            {
+                "id": 22698,
+                "uri": "https://sedra.bethmardutho.org/api/word/22698.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p"
+    }
+]

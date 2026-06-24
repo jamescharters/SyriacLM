@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0723\u072a\u071b\u0722\u0710",
+        "western": "\u0723\u0730\u072a\u071b\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7058,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7058.json"
+        },
+        "stem": "\u0723\u072a\u071b\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0631\u0637\u0627\u0646",
+                "\u0633\u0631\u0637\u0627\u0646"
+            ],
+            "eng": [
+                "cancer.",
+                "crab"
+            ],
+            "fre": [
+                "crabe",
+                "cancer"
+            ]
+        },
+        "word": {
+            "id": 35736,
+            "uri": "https://sedra.bethmardutho.org/api/word/35736.json"
+        }
+    }
+]

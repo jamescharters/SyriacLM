@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0715\u071d\u0721\u0718\u0723\u071d\u0710",
+        "western": "\u0715\u073a\u071d\u0721\u073d\u0718\u0723\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10480,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10480.json"
+        },
+        "stem": "\u0715\u071d\u0721\u0718\u0723\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "public (baths, money, prison, latrines)."
+            ],
+            "lat": [
+                "publicus"
+            ]
+        },
+        "word": {
+            "id": 39143,
+            "uri": "https://sedra.bethmardutho.org/api/word/39143.json"
+        }
+    }
+]

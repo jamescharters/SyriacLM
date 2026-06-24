@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1662,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1662.json"
+        },
+        "syriac": "\u0720\u071a\u071f",
+        "glosses": {
+            "English": [
+                "lick",
+                "IIa to lick (frequently).",
+                "Ia to lick, lick up"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 984,
+            "uri": "https://sedra.bethmardutho.org/api/root/984.json"
+        },
+        "words": [
+            {
+                "id": 11018,
+                "uri": "https://sedra.bethmardutho.org/api/word/11018.json"
+            },
+            {
+                "id": 26018,
+                "uri": "https://sedra.bethmardutho.org/api/word/26018.json"
+            },
+            {
+                "id": 26017,
+                "uri": "https://sedra.bethmardutho.org/api/word/26017.json"
+            },
+            {
+                "id": 11017,
+                "uri": "https://sedra.bethmardutho.org/api/word/11017.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

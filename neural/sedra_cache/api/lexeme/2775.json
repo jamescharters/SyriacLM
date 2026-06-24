@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2775,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2775.json"
+        },
+        "syriac": "\u0729\u0718\u0726\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "basket",
+                "basket (large)."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03cc\u03c6\u03b9\u03bd\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1635,
+            "uri": "https://sedra.bethmardutho.org/api/root/1635.json"
+        },
+        "words": [
+            {
+                "id": 18149,
+                "uri": "https://sedra.bethmardutho.org/api/word/18149.json"
+            },
+            {
+                "id": 18148,
+                "uri": "https://sedra.bethmardutho.org/api/word/18148.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

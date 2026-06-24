@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0715\u072a\u071a\u0721\u071d\u0722",
+        "western": "\u0715\u0741\u072a\u0733\u071a\u0721\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2997,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2997.json"
+        },
+        "stem": "\u072a\u071a\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062d\u0628",
+                "\u0627\u0634\u062a\u0647\u0649"
+            ],
+            "eng": [
+                "to obtain a favor.",
+                "IIa, IIp to have mercy (on)",
+                "IIIa to show love",
+                "Ia to love, to delight in",
+                "love",
+                "have mercy",
+                "have mercy",
+                "have compassion"
+            ],
+            "fre": [
+                "d\u00e9sirer",
+                "aimer"
+            ]
+        },
+        "word": {
+            "id": 28563,
+            "uri": "https://sedra.bethmardutho.org/api/word/28563.json"
+        }
+    }
+]

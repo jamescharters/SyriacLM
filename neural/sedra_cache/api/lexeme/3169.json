@@ -1,0 +1,108 @@
+[
+    {
+        "lexeme": {
+            "id": 3169,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3169.json"
+        },
+        "syriac": "\u072b\u071a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u062d\u0642",
+                "\u0639\u0630\u0628 (\u0645\u0636)",
+                "\u062c\u0627\u0631 \u0639\u0644\u0649",
+                "\u0623\u062a\u0639\u0628",
+                "\u0645\u0631\u0646 (\u0645\u0636)"
+            ],
+            "French": [
+                "broyer",
+                "tourmenter",
+                "opprimer",
+                "fatiguer",
+                "exercer"
+            ],
+            "English": [
+                "break",
+                "harass",
+                "IIp.",
+                "to vex, to importune",
+                "to wear oneself out",
+                "Ia to shatter, to pound",
+                "Ip",
+                "IIa",
+                "to take trouble"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1844,
+            "uri": "https://sedra.bethmardutho.org/api/root/1844.json"
+        },
+        "words": [
+            {
+                "id": 29351,
+                "uri": "https://sedra.bethmardutho.org/api/word/29351.json"
+            },
+            {
+                "id": 29024,
+                "uri": "https://sedra.bethmardutho.org/api/word/29024.json"
+            },
+            {
+                "id": 29023,
+                "uri": "https://sedra.bethmardutho.org/api/word/29023.json"
+            },
+            {
+                "id": 20805,
+                "uri": "https://sedra.bethmardutho.org/api/word/20805.json"
+            },
+            {
+                "id": 29352,
+                "uri": "https://sedra.bethmardutho.org/api/word/29352.json"
+            },
+            {
+                "id": 29026,
+                "uri": "https://sedra.bethmardutho.org/api/word/29026.json"
+            },
+            {
+                "id": 29025,
+                "uri": "https://sedra.bethmardutho.org/api/word/29025.json"
+            },
+            {
+                "id": 1036,
+                "uri": "https://sedra.bethmardutho.org/api/word/1036.json"
+            },
+            {
+                "id": 1512,
+                "uri": "https://sedra.bethmardutho.org/api/word/1512.json"
+            },
+            {
+                "id": 1405,
+                "uri": "https://sedra.bethmardutho.org/api/word/1405.json"
+            },
+            {
+                "id": 20809,
+                "uri": "https://sedra.bethmardutho.org/api/word/20809.json"
+            },
+            {
+                "id": 20808,
+                "uri": "https://sedra.bethmardutho.org/api/word/20808.json"
+            },
+            {
+                "id": 20807,
+                "uri": "https://sedra.bethmardutho.org/api/word/20807.json"
+            },
+            {
+                "id": 20804,
+                "uri": "https://sedra.bethmardutho.org/api/word/20804.json"
+            },
+            {
+                "id": 20803,
+                "uri": "https://sedra.bethmardutho.org/api/word/20803.json"
+            },
+            {
+                "id": 20806,
+                "uri": "https://sedra.bethmardutho.org/api/word/20806.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

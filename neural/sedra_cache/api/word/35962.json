@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071d\u0715\u0718\u0725\u0710",
+        "western": "\u071d\u0730\u0715\u073d\u0718\u0725\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6331,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6331.json"
+        },
+        "stem": "\u071d\u0715\u0718\u0725\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062d\u062f \u0627\u0644\u0645\u0639\u0627\u0631\u0641, \u0635\u062f\u064a\u0642",
+                "\u0639\u0631\u0627\u0641",
+                "\u062e\u0628\u064a\u0631"
+            ],
+            "eng": [
+                "wizard."
+            ],
+            "fre": [
+                "connaissance",
+                "devin",
+                "connaissance, ami"
+            ]
+        },
+        "word": {
+            "id": 35962,
+            "uri": "https://sedra.bethmardutho.org/api/word/35962.json"
+        }
+    }
+]

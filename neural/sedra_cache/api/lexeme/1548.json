@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1548,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1548.json"
+        },
+        "syriac": "\u071f\u0722\u0726\u0710",
+        "glosses": {
+            "English": [
+                "wing",
+                "side",
+                "edge",
+                "wing",
+                "bay",
+                "border",
+                "edge, side",
+                "border, hem",
+                "bay (of coast).",
+                "lap, bosom"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 913,
+            "uri": "https://sedra.bethmardutho.org/api/root/913.json"
+        },
+        "words": [
+            {
+                "id": 10105,
+                "uri": "https://sedra.bethmardutho.org/api/word/10105.json"
+            },
+            {
+                "id": 10104,
+                "uri": "https://sedra.bethmardutho.org/api/word/10104.json"
+            },
+            {
+                "id": 42253,
+                "uri": "https://sedra.bethmardutho.org/api/word/42253.json"
+            },
+            {
+                "id": 42315,
+                "uri": "https://sedra.bethmardutho.org/api/word/42315.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

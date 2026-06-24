@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15377,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15377.json"
+        },
+        "syriac": "\u072a\u0725\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0632\u0642 (\u0645\u0636), \u062d\u0637\u0645 (\u0645\u0636)"
+            ],
+            "French": [
+                "mettre en pi\u00e8ces"
+            ],
+            "English": [
+                "to convulse, to tear in pieces.",
+                "Ia to trample"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2715,
+            "uri": "https://sedra.bethmardutho.org/api/root/2715.json"
+        },
+        "words": [
+            {
+                "id": 42094,
+                "uri": "https://sedra.bethmardutho.org/api/word/42094.json"
+            },
+            {
+                "id": 40556,
+                "uri": "https://sedra.bethmardutho.org/api/word/40556.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

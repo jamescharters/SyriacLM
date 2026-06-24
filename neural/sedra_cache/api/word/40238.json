@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0715\u072a\u0721",
+        "western": "\u0715\u072a\u0721",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15172,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15172.json"
+        },
+        "stem": "\u0715\u072a\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp to plot.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0715\u072a\u0736\u0721</span> to use deceit"
+            ]
+        },
+        "word": {
+            "id": 40238,
+            "uri": "https://sedra.bethmardutho.org/api/word/40238.json"
+        }
+    }
+]

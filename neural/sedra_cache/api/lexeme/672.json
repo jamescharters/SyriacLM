@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 672,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/672.json"
+        },
+        "syriac": "\u0715\u0718\u0728",
+        "glosses": {
+            "English": [
+                "leap",
+                "rejoice",
+                "exult",
+                "to exhilarate.",
+                "Ia to leap for joy, exult",
+                "IIa <span class=\"selectableFont\">\u0715\u0730\u071d\u0736\u0728</span> to dance for joy"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 428,
+            "uri": "https://sedra.bethmardutho.org/api/root/428.json"
+        },
+        "words": [
+            {
+                "id": 4230,
+                "uri": "https://sedra.bethmardutho.org/api/word/4230.json"
+            },
+            {
+                "id": 4232,
+                "uri": "https://sedra.bethmardutho.org/api/word/4232.json"
+            },
+            {
+                "id": 4231,
+                "uri": "https://sedra.bethmardutho.org/api/word/4231.json"
+            },
+            {
+                "id": 4229,
+                "uri": "https://sedra.bethmardutho.org/api/word/4229.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

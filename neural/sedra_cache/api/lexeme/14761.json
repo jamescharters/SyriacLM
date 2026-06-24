@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 14761,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14761.json"
+        },
+        "syriac": "\u071a\u0720\u071a\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0641\u0631"
+            ],
+            "French": [
+                "creuser"
+            ],
+            "English": [
+                "to bore through",
+                "to be hollowed out, to be loosened.",
+                "IVp to be dissolved, waste away",
+                "IVa to shake violently, move to and fro",
+                "to hollow out"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2613,
+            "uri": "https://sedra.bethmardutho.org/api/root/2613.json"
+        },
+        "words": [
+            {
+                "id": 41282,
+                "uri": "https://sedra.bethmardutho.org/api/word/41282.json"
+            },
+            {
+                "id": 40842,
+                "uri": "https://sedra.bethmardutho.org/api/word/40842.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

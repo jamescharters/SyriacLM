@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072a\u0723\u0718\u0729\u0710",
+        "western": "\u072a\u0733\u0723\u073d\u0718\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7424.json"
+        },
+        "stem": "\u072a\u0723\u0718\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0644\u0633\u0644\u0629"
+            ],
+            "eng": [
+                "chain."
+            ],
+            "fre": [
+                "cha\u00eene"
+            ]
+        },
+        "word": {
+            "id": 33228,
+            "uri": "https://sedra.bethmardutho.org/api/word/33228.json"
+        }
+    }
+]

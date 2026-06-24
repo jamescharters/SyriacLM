@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2470,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2470.json"
+        },
+        "syriac": "\u0726\u0718\u072a",
+        "glosses": {
+            "English": [
+                "provoked",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0726\u073a\u071d\u072a</span> to be hot with anger, to be furious",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0726\u0730\u0718\u0730\u072a</span> to burn (with fever)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1464,
+            "uri": "https://sedra.bethmardutho.org/api/root/1464.json"
+        },
+        "words": [
+            {
+                "id": 16252,
+                "uri": "https://sedra.bethmardutho.org/api/word/16252.json"
+            },
+            {
+                "id": 27517,
+                "uri": "https://sedra.bethmardutho.org/api/word/27517.json"
+            },
+            {
+                "id": 27516,
+                "uri": "https://sedra.bethmardutho.org/api/word/27516.json"
+            },
+            {
+                "id": 16255,
+                "uri": "https://sedra.bethmardutho.org/api/word/16255.json"
+            },
+            {
+                "id": 16254,
+                "uri": "https://sedra.bethmardutho.org/api/word/16254.json"
+            },
+            {
+                "id": 16253,
+                "uri": "https://sedra.bethmardutho.org/api/word/16253.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

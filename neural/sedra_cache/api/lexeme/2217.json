@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2217,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2217.json"
+        },
+        "syriac": "\u0725\u0715\u0725\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u064a\u062f"
+            ],
+            "French": [
+                "f\u00eate"
+            ],
+            "English": [
+                "feast",
+                "festival"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1326,
+            "uri": "https://sedra.bethmardutho.org/api/root/1326.json"
+        },
+        "words": [
+            {
+                "id": 14647,
+                "uri": "https://sedra.bethmardutho.org/api/word/14647.json"
+            },
+            {
+                "id": 14646,
+                "uri": "https://sedra.bethmardutho.org/api/word/14646.json"
+            },
+            {
+                "id": 14645,
+                "uri": "https://sedra.bethmardutho.org/api/word/14645.json"
+            },
+            {
+                "id": 14644,
+                "uri": "https://sedra.bethmardutho.org/api/word/14644.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

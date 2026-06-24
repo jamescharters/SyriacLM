@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0717\u072a",
+        "western": "\u0722\u0736\u0713\u0717\u0730\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15745,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15745.json"
+        },
+        "stem": "\u0713\u0717\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0644 (\u0628\u0635\u0631 \u0625\u0644\u062e)",
+                "\u0639\u0645\u064a",
+                "\u0623\u0639\u0645\u0649"
+            ],
+            "eng": [
+                "to be dim.",
+                "to see indistinctly",
+                "Ia to be dim (of eyes, mind)",
+                "to be dazzled",
+                "to dim",
+                "IIIa to blind"
+            ],
+            "fre": [
+                "\u00eatre aveugl\u00e9",
+                "\u00eatre obscurcie( vue, etc.)",
+                "aveugler"
+            ]
+        },
+        "word": {
+            "id": 41763,
+            "uri": "https://sedra.bethmardutho.org/api/word/41763.json"
+        }
+    }
+]

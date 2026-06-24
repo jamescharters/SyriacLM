@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 363,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/363.json"
+        },
+        "syriac": "\u0712\u0719\u0725",
+        "glosses": {
+            "English": [
+                "break through",
+                "burst",
+                "tear",
+                "IIp.",
+                "Ia to pierce, cleave, penetrate",
+                "Ip",
+                "IIa to bore, drill"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 258,
+            "uri": "https://sedra.bethmardutho.org/api/root/258.json"
+        },
+        "words": [
+            {
+                "id": 2493,
+                "uri": "https://sedra.bethmardutho.org/api/word/2493.json"
+            },
+            {
+                "id": 23411,
+                "uri": "https://sedra.bethmardutho.org/api/word/23411.json"
+            },
+            {
+                "id": 23410,
+                "uri": "https://sedra.bethmardutho.org/api/word/23410.json"
+            },
+            {
+                "id": 2494,
+                "uri": "https://sedra.bethmardutho.org/api/word/2494.json"
+            },
+            {
+                "id": 2491,
+                "uri": "https://sedra.bethmardutho.org/api/word/2491.json"
+            },
+            {
+                "id": 2492,
+                "uri": "https://sedra.bethmardutho.org/api/word/2492.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

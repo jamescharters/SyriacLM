@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2120,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2120.json"
+        },
+        "syriac": "\u0723\u071d\u0722\u071d",
+        "glosses": {
+            "English": [
+                "Sinai"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1266,
+            "uri": "https://sedra.bethmardutho.org/api/root/1266.json"
+        },
+        "words": [
+            {
+                "id": 14107,
+                "uri": "https://sedra.bethmardutho.org/api/word/14107.json"
+            },
+            {
+                "id": 14108,
+                "uri": "https://sedra.bethmardutho.org/api/word/14108.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2814,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2814.json"
+        },
+        "syriac": "\u0729\u071d\u0726\u0710",
+        "glosses": {
+            "English": [
+                "Caiaphas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1662,
+            "uri": "https://sedra.bethmardutho.org/api/root/1662.json"
+        },
+        "words": [
+            {
+                "id": 18343,
+                "uri": "https://sedra.bethmardutho.org/api/word/18343.json"
+            },
+            {
+                "id": 18342,
+                "uri": "https://sedra.bethmardutho.org/api/word/18342.json"
+            },
+            {
+                "id": 18341,
+                "uri": "https://sedra.bethmardutho.org/api/word/18341.json"
+            },
+            {
+                "id": 18344,
+                "uri": "https://sedra.bethmardutho.org/api/word/18344.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

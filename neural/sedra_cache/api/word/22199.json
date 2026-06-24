@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072b\u072c\u071d\u072c\u071d\u0710",
+        "western": "\u072b\u072c\u0742\u073a\u071d\u072c\u0742\u0733\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3333,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3333.json"
+        },
+        "stem": "\u072b\u072c\u071d\u072c\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0627\u062f\u0633"
+            ],
+            "eng": [
+                "sixth",
+                "sixth",
+                "consisting of six",
+                "hexagonal."
+            ],
+            "fre": [
+                "sixi\u00e8me"
+            ]
+        },
+        "word": {
+            "id": 22199,
+            "uri": "https://sedra.bethmardutho.org/api/word/22199.json"
+        }
+    }
+]

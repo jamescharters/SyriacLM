@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15405,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15405.json"
+        },
+        "syriac": "\u072a\u0728\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0628\u0639, \u0646\u0632, \u0633\u0627\u0644"
+            ],
+            "French": [
+                "sourdre, d\u00e9couler, se r\u00e9pandre"
+            ],
+            "English": [
+                "Ia, Ip to ooze, to trickle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2071,
+            "uri": "https://sedra.bethmardutho.org/api/root/2071.json"
+        },
+        "words": [
+            {
+                "id": 42111,
+                "uri": "https://sedra.bethmardutho.org/api/word/42111.json"
+            },
+            {
+                "id": 41382,
+                "uri": "https://sedra.bethmardutho.org/api/word/41382.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

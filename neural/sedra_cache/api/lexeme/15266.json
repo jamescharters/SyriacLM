@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15266,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15266.json"
+        },
+        "syriac": "\u0725\u0719\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0633\u0631",
+                "\u062b\u0628\u062a (\u0645\u0636)"
+            ],
+            "French": [
+                "oser",
+                "affermir"
+            ],
+            "English": [
+                "IIa to be strong, valiant",
+                "to resist",
+                "IIp to be patient, to endure."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2870,
+            "uri": "https://sedra.bethmardutho.org/api/root/2870.json"
+        },
+        "words": [
+            {
+                "id": 41405,
+                "uri": "https://sedra.bethmardutho.org/api/word/41405.json"
+            },
+            {
+                "id": 41328,
+                "uri": "https://sedra.bethmardutho.org/api/word/41328.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

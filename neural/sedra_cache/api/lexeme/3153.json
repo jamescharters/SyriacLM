@@ -1,0 +1,98 @@
+[
+    {
+        "lexeme": {
+            "id": 3153,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3153.json"
+        },
+        "syriac": "\u072b\u0718\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0627\u062d\u0629",
+                "\u0633\u0627\u062d\u0629 \u0627\u062c\u062a\u0645\u0627\u0639",
+                "\u0634\u0627\u0631\u0639",
+                "\u062d\u064a",
+                "\u0633\u0648\u0642",
+                "\u062f\u064a\u0631"
+            ],
+            "French": [
+                "place publique",
+                "fortum",
+                "rue",
+                "quartier",
+                "march\u00e9",
+                "laure"
+            ],
+            "English": [
+                "street",
+                "marketplace",
+                "square",
+                "bazaar",
+                "lavra",
+                "street",
+                "market",
+                "square",
+                "quarter (of town)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1834,
+            "uri": "https://sedra.bethmardutho.org/api/root/1834.json"
+        },
+        "words": [
+            {
+                "id": 20718,
+                "uri": "https://sedra.bethmardutho.org/api/word/20718.json"
+            },
+            {
+                "id": 20716,
+                "uri": "https://sedra.bethmardutho.org/api/word/20716.json"
+            },
+            {
+                "id": 20714,
+                "uri": "https://sedra.bethmardutho.org/api/word/20714.json"
+            },
+            {
+                "id": 20713,
+                "uri": "https://sedra.bethmardutho.org/api/word/20713.json"
+            },
+            {
+                "id": 20712,
+                "uri": "https://sedra.bethmardutho.org/api/word/20712.json"
+            },
+            {
+                "id": 20711,
+                "uri": "https://sedra.bethmardutho.org/api/word/20711.json"
+            },
+            {
+                "id": 20710,
+                "uri": "https://sedra.bethmardutho.org/api/word/20710.json"
+            },
+            {
+                "id": 20709,
+                "uri": "https://sedra.bethmardutho.org/api/word/20709.json"
+            },
+            {
+                "id": 20717,
+                "uri": "https://sedra.bethmardutho.org/api/word/20717.json"
+            },
+            {
+                "id": 20720,
+                "uri": "https://sedra.bethmardutho.org/api/word/20720.json"
+            },
+            {
+                "id": 20719,
+                "uri": "https://sedra.bethmardutho.org/api/word/20719.json"
+            },
+            {
+                "id": 20715,
+                "uri": "https://sedra.bethmardutho.org/api/word/20715.json"
+            },
+            {
+                "id": 20721,
+                "uri": "https://sedra.bethmardutho.org/api/word/20721.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

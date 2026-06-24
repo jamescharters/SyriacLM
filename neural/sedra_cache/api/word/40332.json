@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u0726\u0720\u071b",
+        "western": "\u072b\u0730\u0726\u0720\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14690,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14690.json"
+        },
+        "stem": "\u072b\u0726\u0720\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0631\u062f"
+            ],
+            "eng": [
+                "IVa to expel."
+            ],
+            "fre": [
+                "expulser"
+            ]
+        },
+        "word": {
+            "id": 40332,
+            "uri": "https://sedra.bethmardutho.org/api/word/40332.json"
+        }
+    }
+]

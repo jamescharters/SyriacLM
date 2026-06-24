@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071a\u0728\u0715\u0710",
+        "western": "\u071a\u0728\u0733\u0715\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1129,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1129.json"
+        },
+        "stem": "\u071a\u0728\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "reaping, harvest, ripe crop.",
+                "harvest"
+            ]
+        },
+        "word": {
+            "id": 7477,
+            "uri": "https://sedra.bethmardutho.org/api/word/7477.json"
+        }
+    }
+]

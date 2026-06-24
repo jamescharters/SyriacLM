@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 768,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/768.json"
+        },
+        "syriac": "\u0717\u0712\u071d\u0720",
+        "glosses": {
+            "English": [
+                "Abel"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 483,
+            "uri": "https://sedra.bethmardutho.org/api/root/483.json"
+        },
+        "words": [
+            {
+                "id": 4911,
+                "uri": "https://sedra.bethmardutho.org/api/word/4911.json"
+            },
+            {
+                "id": 4912,
+                "uri": "https://sedra.bethmardutho.org/api/word/4912.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

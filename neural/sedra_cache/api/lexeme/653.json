@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 653,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/653.json"
+        },
+        "syriac": "\u0715\u0712\u072b\u0710",
+        "glosses": {
+            "English": [
+                "honey",
+                "honey."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 416,
+            "uri": "https://sedra.bethmardutho.org/api/root/416.json"
+        },
+        "words": [
+            {
+                "id": 4140,
+                "uri": "https://sedra.bethmardutho.org/api/word/4140.json"
+            },
+            {
+                "id": 4139,
+                "uri": "https://sedra.bethmardutho.org/api/word/4139.json"
+            },
+            {
+                "id": 4138,
+                "uri": "https://sedra.bethmardutho.org/api/word/4138.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

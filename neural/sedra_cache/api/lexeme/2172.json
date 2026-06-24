@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 2172,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2172.json"
+        },
+        "syriac": "\u0723\u0725\u0710",
+        "glosses": {
+            "English": [
+                "IIa to embolden.",
+                "intrude into",
+                "Ia to assail, attack",
+                "to attempt, dare"
+            ],
+            "Arabic": [
+                "\u062c\u0631\u0624",
+                "\u0647\u0627\u062c\u0645",
+                "\u062b\u0627\u0631"
+            ],
+            "French": [
+                "oser",
+                "attaquer",
+                "se r\u00e9volter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1297,
+            "uri": "https://sedra.bethmardutho.org/api/root/1297.json"
+        },
+        "words": [
+            {
+                "id": 27089,
+                "uri": "https://sedra.bethmardutho.org/api/word/27089.json"
+            },
+            {
+                "id": 27088,
+                "uri": "https://sedra.bethmardutho.org/api/word/27088.json"
+            },
+            {
+                "id": 14436,
+                "uri": "https://sedra.bethmardutho.org/api/word/14436.json"
+            },
+            {
+                "id": 27091,
+                "uri": "https://sedra.bethmardutho.org/api/word/27091.json"
+            },
+            {
+                "id": 27090,
+                "uri": "https://sedra.bethmardutho.org/api/word/27090.json"
+            },
+            {
+                "id": 14438,
+                "uri": "https://sedra.bethmardutho.org/api/word/14438.json"
+            },
+            {
+                "id": 14437,
+                "uri": "https://sedra.bethmardutho.org/api/word/14437.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

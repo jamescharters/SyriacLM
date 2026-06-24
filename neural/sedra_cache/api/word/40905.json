@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u0718\u072b\u071b",
+        "western": "\u072b\u0730\u0718\u072b\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14693,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14693.json"
+        },
+        "stem": "\u072b\u0718\u072b\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to cause to advance, grow",
+                "IVp to advance, make progress",
+                "to grow up."
+            ]
+        },
+        "word": {
+            "id": 40905,
+            "uri": "https://sedra.bethmardutho.org/api/word/40905.json"
+        }
+    }
+]

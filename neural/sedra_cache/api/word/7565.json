@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u071a\u072a\u0726",
+        "western": "\u071a\u072a\u0730\u0726\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1152,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1152.json"
+        },
+        "stem": "\u071a\u072a\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0644\u0637",
+                "\u062d\u0644\u0649 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "be sharp",
+                "IIa to mix, infuse.",
+                "Ia to mix, mingle"
+            ],
+            "fre": [
+                "m\u00ealer",
+                "adoucir",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 7565,
+            "uri": "https://sedra.bethmardutho.org/api/word/7565.json"
+        }
+    }
+]

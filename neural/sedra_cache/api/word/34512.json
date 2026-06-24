@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072b\u0718\u0729\u071d\u0710",
+        "western": "\u072b\u073d\u0718\u0729\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8855,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8855.json"
+        },
+        "stem": "\u072b\u0718\u0729\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646 \u0627\u0644\u0633\u0627\u062d\u0629 \u060c \u0645\u0646 \u0627\u0644\u0633\u0648\u0642, \u0645\u0646 \u0627\u0644\u0645\u062d\u0627\u0645\u0627\u0629",
+                "\u062a\u0627\u062c\u0631 \u0645\u062a\u0646\u0642\u0644",
+                "\u0645\u062a\u0634\u0631\u062f"
+            ],
+            "eng": [
+                "street vendor",
+                "peddler",
+                "(medical) injection."
+            ],
+            "fre": [
+                "vagabond",
+                "de forum, de plaidoirie, (jour, etc.)",
+                "marchand ambulant"
+            ]
+        },
+        "word": {
+            "id": 34512,
+            "uri": "https://sedra.bethmardutho.org/api/word/34512.json"
+        }
+    }
+]

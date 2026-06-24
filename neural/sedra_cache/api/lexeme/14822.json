@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 14822,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14822.json"
+        },
+        "syriac": "\u0722\u0726\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0641\u0631\u062e",
+                "\u062a\u0641\u0642\u0633"
+            ],
+            "French": [
+                "faire \u00e9clore",
+                "se fendre (\u0153uf)"
+            ],
+            "English": [
+                "to hatch (eggs).",
+                "IIIp to be hatched.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u0730\u0725</span> to hatch eggs"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 40651,
+                "uri": "https://sedra.bethmardutho.org/api/word/40651.json"
+            },
+            {
+                "id": 40758,
+                "uri": "https://sedra.bethmardutho.org/api/word/40758.json"
+            },
+            {
+                "id": 41057,
+                "uri": "https://sedra.bethmardutho.org/api/word/41057.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

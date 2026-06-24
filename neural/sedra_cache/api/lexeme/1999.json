@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 1999,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1999.json"
+        },
+        "syriac": "\u0721\u0726\u0729\u0710",
+        "glosses": {
+            "English": [
+                "defense",
+                "answer",
+                "exit, going out",
+                "preface, foreword.",
+                "<span class=\"selectableFont\">\u0721\u0730\u0726\u0730\u0729 \u0712\u072a\u073d\u0718\u071a\u0733\u0710</span> apology, excuse, defense"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1194,
+            "uri": "https://sedra.bethmardutho.org/api/root/1194.json"
+        },
+        "words": [
+            {
+                "id": 13120,
+                "uri": "https://sedra.bethmardutho.org/api/word/13120.json"
+            },
+            {
+                "id": 13119,
+                "uri": "https://sedra.bethmardutho.org/api/word/13119.json"
+            },
+            {
+                "id": 13118,
+                "uri": "https://sedra.bethmardutho.org/api/word/13118.json"
+            },
+            {
+                "id": 13117,
+                "uri": "https://sedra.bethmardutho.org/api/word/13117.json"
+            },
+            {
+                "id": 13116,
+                "uri": "https://sedra.bethmardutho.org/api/word/13116.json"
+            },
+            {
+                "id": 13122,
+                "uri": "https://sedra.bethmardutho.org/api/word/13122.json"
+            },
+            {
+                "id": 13121,
+                "uri": "https://sedra.bethmardutho.org/api/word/13121.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

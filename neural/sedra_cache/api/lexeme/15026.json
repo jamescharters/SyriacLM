@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15026,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15026.json"
+        },
+        "syriac": "\u071b\u0723\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0641\u062d"
+            ],
+            "French": [
+                "laminer"
+            ],
+            "English": [
+                "IIa to laminate",
+                "IIp to be beaten into thin plates."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2323,
+            "uri": "https://sedra.bethmardutho.org/api/root/2323.json"
+        },
+        "words": [
+            {
+                "id": 40993,
+                "uri": "https://sedra.bethmardutho.org/api/word/40993.json"
+            },
+            {
+                "id": 40961,
+                "uri": "https://sedra.bethmardutho.org/api/word/40961.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

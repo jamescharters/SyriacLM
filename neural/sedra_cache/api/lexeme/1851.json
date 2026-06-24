@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 1851,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1851.json"
+        },
+        "syriac": "\u0721\u072a\u071d\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0635\u064a\u0646",
+                "\u0623\u0645\u064a\u0646",
+                "\u0648\u0639\u0631",
+                "\u0645\u0645\u062a\u0646\u0639, \u0645\u0646\u064a\u0639"
+            ],
+            "French": [
+                "fortifi\u00e9",
+                "s\u00fbr",
+                "escarp\u00e9",
+                "ferm\u00e9, inaccessible"
+            ],
+            "English": [
+                "fortified",
+                "rebelling",
+                "defiant",
+                "resisting",
+                "inaccessible",
+                "fugitive",
+                "secure, fortified."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1103,
+            "uri": "https://sedra.bethmardutho.org/api/root/1103.json"
+        },
+        "words": [
+            {
+                "id": 22811,
+                "uri": "https://sedra.bethmardutho.org/api/word/22811.json"
+            },
+            {
+                "id": 12238,
+                "uri": "https://sedra.bethmardutho.org/api/word/12238.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0726\u072b\u0722\u0710",
+        "western": "\u0722\u0730\u0726\u072b\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10469,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10469.json"
+        },
+        "stem": "\u0722\u0726\u072b\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0648 \u0646\u0641\u0633 \u062d\u064a"
+            ],
+            "eng": [
+                "spiritual.",
+                "animate"
+            ],
+            "fre": [
+                "anim\u00e9, vivant"
+            ]
+        },
+        "word": {
+            "id": 35274,
+            "uri": "https://sedra.bethmardutho.org/api/word/35274.json"
+        }
+    }
+]

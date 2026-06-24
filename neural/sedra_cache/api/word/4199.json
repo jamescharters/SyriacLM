@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0720\u0715\u0718\u071d\u0715",
+        "western": "\u0720\u0715\u0742\u0730\u0718\u073a\u071d\u0715\u0742",
+        "lexeme": {
+            "id": 665,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/665.json"
+        },
+        "stem": "\u0715\u0718\u071d\u0715",
+        "category": "proper noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u062a\u0627\u0628 \u0627\u0644\u0645\u0632\u0627\u0645\u064a\u0631",
+                ""
+            ],
+            "eng": [
+                "Psalter (of David).",
+                "David"
+            ],
+            "fre": [
+                "psautier",
+                "David\u2026"
+            ]
+        },
+        "word": {
+            "id": 4199,
+            "uri": "https://sedra.bethmardutho.org/api/word/4199.json"
+        }
+    }
+]

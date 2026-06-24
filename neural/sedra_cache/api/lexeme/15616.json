@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15616,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15616.json"
+        },
+        "syriac": "\u0713\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0627\u0647 \u0628\u0640",
+                "\u062a\u0642\u064a\u0623 , \u0645\u062c",
+                "\u062a\u0641\u062c\u0631",
+                "\u00a0"
+            ],
+            "French": [
+                "prof\u00e9rer",
+                "vomir , rejeter",
+                "jaillir",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to vomit, throw up",
+                "to make to disgorge.",
+                "IIa to spit out, disgorge",
+                "to shed forth, belch out",
+                "Ip to be vomited up"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2433,
+            "uri": "https://sedra.bethmardutho.org/api/root/2433.json"
+        },
+        "words": [
+            {
+                "id": 40821,
+                "uri": "https://sedra.bethmardutho.org/api/word/40821.json"
+            },
+            {
+                "id": 42051,
+                "uri": "https://sedra.bethmardutho.org/api/word/42051.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

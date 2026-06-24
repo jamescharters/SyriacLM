@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072c\u0720\u0713\u0710",
+        "western": "\u072c\u0741\u0730\u0720\u0713\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3396,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3396.json"
+        },
+        "stem": "\u072c\u0720\u0713\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0644\u062c"
+            ],
+            "eng": [
+                "snow.",
+                "snow"
+            ],
+            "fre": [
+                "neige"
+            ]
+        },
+        "word": {
+            "id": 22504,
+            "uri": "https://sedra.bethmardutho.org/api/word/22504.json"
+        }
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "lexeme": {
+            "id": 1781,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1781.json"
+        },
+        "syriac": "\u0721\u0718\u0720\u071f\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0639\u062f",
+                "\u0645\u0634\u0648\u0631\u0629"
+            ],
+            "French": [
+                "promesse",
+                "conseil"
+            ],
+            "English": [
+                "promise",
+                "property (left by bequest).",
+                "advice",
+                "promise, declaration"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1065,
+            "uri": "https://sedra.bethmardutho.org/api/root/1065.json"
+        },
+        "words": [
+            {
+                "id": 29645,
+                "uri": "https://sedra.bethmardutho.org/api/word/29645.json"
+            },
+            {
+                "id": 11744,
+                "uri": "https://sedra.bethmardutho.org/api/word/11744.json"
+            },
+            {
+                "id": 11743,
+                "uri": "https://sedra.bethmardutho.org/api/word/11743.json"
+            },
+            {
+                "id": 11742,
+                "uri": "https://sedra.bethmardutho.org/api/word/11742.json"
+            },
+            {
+                "id": 11741,
+                "uri": "https://sedra.bethmardutho.org/api/word/11741.json"
+            },
+            {
+                "id": 11739,
+                "uri": "https://sedra.bethmardutho.org/api/word/11739.json"
+            },
+            {
+                "id": 11746,
+                "uri": "https://sedra.bethmardutho.org/api/word/11746.json"
+            },
+            {
+                "id": 11745,
+                "uri": "https://sedra.bethmardutho.org/api/word/11745.json"
+            },
+            {
+                "id": 11740,
+                "uri": "https://sedra.bethmardutho.org/api/word/11740.json"
+            },
+            {
+                "id": 11748,
+                "uri": "https://sedra.bethmardutho.org/api/word/11748.json"
+            },
+            {
+                "id": 11747,
+                "uri": "https://sedra.bethmardutho.org/api/word/11747.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

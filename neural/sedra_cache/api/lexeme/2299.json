@@ -1,0 +1,82 @@
+[
+    {
+        "lexeme": {
+            "id": 2299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2299.json"
+        },
+        "syriac": "\u0725\u071b\u0710",
+        "glosses": {
+            "English": [
+                "to destroy",
+                "IIa to obliterate",
+                "blot out",
+                "hide",
+                "delete",
+                "cancell",
+                "Ip",
+                "IIIa to cause to be blotted out.",
+                "Ia to efface, to cancel, to blot out"
+            ],
+            "Arabic": [
+                "\u0623\u062a\u0644\u0641, \u062e\u0631\u0628 (\u0645\u0636)",
+                "\u0645\u062d\u0627",
+                "\u062d\u062c\u0628",
+                "\u00a0"
+            ],
+            "French": [
+                "d\u00e9truire, ruiner",
+                "effacer",
+                "voiler",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1368,
+            "uri": "https://sedra.bethmardutho.org/api/root/1368.json"
+        },
+        "words": [
+            {
+                "id": 27312,
+                "uri": "https://sedra.bethmardutho.org/api/word/27312.json"
+            },
+            {
+                "id": 27311,
+                "uri": "https://sedra.bethmardutho.org/api/word/27311.json"
+            },
+            {
+                "id": 15247,
+                "uri": "https://sedra.bethmardutho.org/api/word/15247.json"
+            },
+            {
+                "id": 15246,
+                "uri": "https://sedra.bethmardutho.org/api/word/15246.json"
+            },
+            {
+                "id": 15245,
+                "uri": "https://sedra.bethmardutho.org/api/word/15245.json"
+            },
+            {
+                "id": 27314,
+                "uri": "https://sedra.bethmardutho.org/api/word/27314.json"
+            },
+            {
+                "id": 27313,
+                "uri": "https://sedra.bethmardutho.org/api/word/27313.json"
+            },
+            {
+                "id": 15250,
+                "uri": "https://sedra.bethmardutho.org/api/word/15250.json"
+            },
+            {
+                "id": 15249,
+                "uri": "https://sedra.bethmardutho.org/api/word/15249.json"
+            },
+            {
+                "id": 15248,
+                "uri": "https://sedra.bethmardutho.org/api/word/15248.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

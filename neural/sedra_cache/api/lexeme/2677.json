@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 2677,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2677.json"
+        },
+        "syriac": "\u0728\u0718\u072a",
+        "glosses": {
+            "English": [
+                "portray",
+                "form",
+                "Kth. photograph IIp.",
+                "IIa <span class=\"selectableFont\">\u0728\u0730\u071d\u0730\u072a</span> to paint, represent",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0728\u073d\u0718\u072a</span>, Ia to depict, portray"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1585,
+            "uri": "https://sedra.bethmardutho.org/api/root/1585.json"
+        },
+        "words": [
+            {
+                "id": 17420,
+                "uri": "https://sedra.bethmardutho.org/api/word/17420.json"
+            },
+            {
+                "id": 17419,
+                "uri": "https://sedra.bethmardutho.org/api/word/17419.json"
+            },
+            {
+                "id": 26008,
+                "uri": "https://sedra.bethmardutho.org/api/word/26008.json"
+            },
+            {
+                "id": 17425,
+                "uri": "https://sedra.bethmardutho.org/api/word/17425.json"
+            },
+            {
+                "id": 17422,
+                "uri": "https://sedra.bethmardutho.org/api/word/17422.json"
+            },
+            {
+                "id": 17421,
+                "uri": "https://sedra.bethmardutho.org/api/word/17421.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

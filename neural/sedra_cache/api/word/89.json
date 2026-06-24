@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0718\u0712\u0715\u0718\u0722\u071d\u0717\u071d",
+        "western": "\u0715\u0741\u0722\u0730\u0718\u0712\u0741\u0715\u0742\u073d\u0718\u0722\u0733\u071d\u0717\u0331\u071d",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 5,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5.json"
+        },
+        "stem": "\u0710\u0712\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "perish",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0712\u0736\u0715</span> destroy.",
+                "Ia to perish, be lost",
+                "Ip",
+                "lose",
+                "destroy"
+            ]
+        },
+        "word": {
+            "id": 89,
+            "uri": "https://sedra.bethmardutho.org/api/word/89.json"
+        }
+    }
+]

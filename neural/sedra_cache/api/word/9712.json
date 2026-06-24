@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0718\u0712\u071f\u0712\u0720\u0710",
+        "western": "\u0718\u0730\u0712\u0742\u071f\u0742\u0736\u0712\u0742\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1462,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1462.json"
+        },
+        "stem": "\u071f\u0712\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fetter, bond.",
+                "bond"
+            ]
+        },
+        "word": {
+            "id": 9712,
+            "uri": "https://sedra.bethmardutho.org/api/word/9712.json"
+        }
+    }
+]

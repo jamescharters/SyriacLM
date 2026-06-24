@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0712\u0718\u0729\u071d\u072c\u0710",
+        "western": "\u072b\u0730\u072a\u0712\u073d\u0718\u0729\u073a\u071d\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10756,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10756.json"
+        },
+        "stem": "\u072b\u072a\u0712\u0718\u0729\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0647\u0642"
+            ],
+            "eng": [
+                "netting.",
+                "lace",
+                "noose, loop"
+            ],
+            "fre": [
+                "lacet"
+            ]
+        },
+        "word": {
+            "id": 34612,
+            "uri": "https://sedra.bethmardutho.org/api/word/34612.json"
+        }
+    }
+]

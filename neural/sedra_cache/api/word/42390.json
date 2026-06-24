@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0710\u0729\u0712",
+        "western": "\u0710\u0730\u0729\u0736\u0712",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2022.json"
+        },
+        "stem": "\u0722\u0729\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to tattoo",
+                "bore",
+                "pierce",
+                "Ip to be bored through",
+                "to bore, dig through",
+                "to break (seal).",
+                "IIp to be pierced through",
+                "Gram. to be in feminine gender",
+                "to be effeminate",
+                "Ia to pierce, perforate",
+                "to make effeminate",
+                "IIa to make a hole",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0729\u0736\u0712</span> to bore through"
+            ]
+        },
+        "word": {
+            "id": 42390,
+            "uri": "https://sedra.bethmardutho.org/api/word/42390.json"
+        }
+    }
+]

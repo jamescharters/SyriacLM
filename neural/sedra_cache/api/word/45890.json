@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u072a\u0715\u0710",
+        "western": "\u0720\u0736\u072a\u0715\u0733\u0710",
+        "eastern": "\u0720\u0739\u072a\u0715\u0735\u0710",
+        "lexeme": {
+            "id": 19516,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19516.json"
+        },
+        "stem": "\u0720\u072a\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "a great sack, sack for litter",
+                "leather",
+                "hide (leg. <em>l\u0113dr\u0101</em>?)",
+                "a great sack"
+            ],
+            "grc": [
+                "\u03b4\u1f73\u03c1\u03c1\u03b9\u03c2"
+            ]
+        },
+        "word": {
+            "id": 45890,
+            "uri": "https://sedra.bethmardutho.org/api/word/45890.json"
+        }
+    }
+]

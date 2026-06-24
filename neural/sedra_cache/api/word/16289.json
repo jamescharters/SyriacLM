@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u0721\u0726\u071b\u0721\u071d",
+        "western": "\u0718\u0730\u0721\u0726\u0742\u0730\u071b\u0721\u0730\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 3516,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3516.json"
+        },
+        "stem": "\u0721\u0726\u071b\u0721\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fattened"
+            ]
+        },
+        "word": {
+            "id": 16289,
+            "uri": "https://sedra.bethmardutho.org/api/word/16289.json"
+        }
+    }
+]

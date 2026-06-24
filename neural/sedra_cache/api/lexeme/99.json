@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 99,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/99.json"
+        },
+        "syriac": "\u0710\u071d\u072a\u0718\u0726\u0718\u0720\u071d\u0723",
+        "glosses": {
+            "Latin": [
+                "Hierapolis"
+            ],
+            "Arabic": [
+                "\u0645\u0646\u0628\u062c\u200e"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f39\u03b5\u03c1\u1f70 + \u03c0\u03cc\u03bb\u03b9\u03c2, Holy city",
+                "Hierapolis"
+            ]
+        },
+        "root": {
+            "id": 80,
+            "uri": "https://sedra.bethmardutho.org/api/root/80.json"
+        },
+        "words": [
+            {
+                "id": 712,
+                "uri": "https://sedra.bethmardutho.org/api/word/712.json"
+            },
+            {
+                "id": 713,
+                "uri": "https://sedra.bethmardutho.org/api/word/713.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

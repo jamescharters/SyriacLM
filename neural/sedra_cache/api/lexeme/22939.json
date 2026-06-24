@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 22939,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/22939.json"
+        },
+        "syriac": "\u0710\u071d\u0718\u0720\u0710\u071f\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03b1\u1f54\u03bb\u03b1\u03ba\u03bf\u03c2"
+            ],
+            "Latin": [
+                "sulcus"
+            ],
+            "English": [
+                "furrow"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f54\u03bb\u03b1\u03be"
+            ]
+        },
+        "words": [
+            {
+                "id": 55182,
+                "uri": "https://sedra.bethmardutho.org/api/word/55182.json"
+            },
+            {
+                "id": 49314,
+                "uri": "https://sedra.bethmardutho.org/api/word/49314.json"
+            }
+        ]
+    }
+]

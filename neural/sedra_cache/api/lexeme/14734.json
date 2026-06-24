@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 14734,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14734.json"
+        },
+        "syriac": "\u0710\u0713\u072a",
+        "glosses": {
+            "English": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0713\u0730\u072a</span> to hire out.",
+                "hire",
+                "to hire out.",
+                "Ip",
+                "Ia to hire"
+            ],
+            "Arabic": [
+                "\u0628\u0631\u0637\u0644",
+                "\u00a0"
+            ],
+            "French": [
+                "corrompre",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 48413,
+                "uri": "https://sedra.bethmardutho.org/api/word/48413.json"
+            },
+            {
+                "id": 189,
+                "uri": "https://sedra.bethmardutho.org/api/word/189.json"
+            },
+            {
+                "id": 193,
+                "uri": "https://sedra.bethmardutho.org/api/word/193.json"
+            },
+            {
+                "id": 192,
+                "uri": "https://sedra.bethmardutho.org/api/word/192.json"
+            },
+            {
+                "id": 190,
+                "uri": "https://sedra.bethmardutho.org/api/word/190.json"
+            },
+            {
+                "id": 191,
+                "uri": "https://sedra.bethmardutho.org/api/word/191.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

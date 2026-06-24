@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15629,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15629.json"
+        },
+        "syriac": "\u071f\u0721\u0717",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0645\u064a, \u0639\u0645\u064a (\u0645\u0636 \u0648\u0645\u062c)"
+            ],
+            "French": [
+                "\u00eatre aveugle, aveugl\u00e9"
+            ],
+            "English": [
+                "IIp",
+                "Ia to be blind",
+                "to darken.",
+                "IIa to blind",
+                "IIIa to blind"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2441,
+            "uri": "https://sedra.bethmardutho.org/api/root/2441.json"
+        },
+        "words": [
+            {
+                "id": 41647,
+                "uri": "https://sedra.bethmardutho.org/api/word/41647.json"
+            },
+            {
+                "id": 40545,
+                "uri": "https://sedra.bethmardutho.org/api/word/40545.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

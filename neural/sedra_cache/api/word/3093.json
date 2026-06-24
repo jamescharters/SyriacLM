@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0718\u0712\u0728\u0718",
+        "western": "\u0718\u0730\u0712\u0742\u0728\u0730\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 443,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/443.json"
+        },
+        "stem": "\u0712\u0728\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062a\u0641\u062d\u0635",
+                "\u0637\u0644\u0628 \u060c \u0628\u062d\u062b"
+            ],
+            "eng": [
+                "search",
+                "IIa",
+                "Ia to investigate, inquire into",
+                "examine",
+                "IIIa to inquire, desire, demand.",
+                "Ip"
+            ],
+            "fre": [
+                "rechercher",
+                "\u00a0",
+                "scruter"
+            ]
+        },
+        "word": {
+            "id": 3093,
+            "uri": "https://sedra.bethmardutho.org/api/word/3093.json"
+        }
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2867,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2867.json"
+        },
+        "syriac": "\u0729\u0728\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u062f\u0631"
+            ],
+            "French": [
+                "sort"
+            ],
+            "English": [
+                "divination",
+                "soothsaying",
+                "divination, lot."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1700,
+            "uri": "https://sedra.bethmardutho.org/api/root/1700.json"
+        },
+        "words": [
+            {
+                "id": 18561,
+                "uri": "https://sedra.bethmardutho.org/api/word/18561.json"
+            },
+            {
+                "id": 18560,
+                "uri": "https://sedra.bethmardutho.org/api/word/18560.json"
+            },
+            {
+                "id": 18563,
+                "uri": "https://sedra.bethmardutho.org/api/word/18563.json"
+            },
+            {
+                "id": 18562,
+                "uri": "https://sedra.bethmardutho.org/api/word/18562.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

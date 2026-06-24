@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 207,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/207.json"
+        },
+        "syriac": "\u0710\u0723\u071b\u0718\u0710\u071d\u0729\u0718",
+        "glosses": {
+            "English": [
+                "Stoics"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c4\u03c9\u03b9\u03ba\u03cc\u03c2"
+            ]
+        },
+        "root": {
+            "id": 155,
+            "uri": "https://sedra.bethmardutho.org/api/root/155.json"
+        },
+        "words": [
+            {
+                "id": 50371,
+                "uri": "https://sedra.bethmardutho.org/api/word/50371.json"
+            },
+            {
+                "id": 1529,
+                "uri": "https://sedra.bethmardutho.org/api/word/1529.json"
+            },
+            {
+                "id": 1528,
+                "uri": "https://sedra.bethmardutho.org/api/word/1528.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

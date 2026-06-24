@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u071d\u071d\u0729\u0710",
+        "western": "\u0725\u0730\u071d\u073a\u071d\u0729\u0733\u0710",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2279,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2279.json"
+        },
+        "stem": "\u0725\u071d\u071d\u0729\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "afflicted, distressed, in pain",
+                "narrow.",
+                "grieved",
+                "sad",
+                "sorrowful"
+            ]
+        },
+        "word": {
+            "id": 15181,
+            "uri": "https://sedra.bethmardutho.org/api/word/15181.json"
+        }
+    }
+]

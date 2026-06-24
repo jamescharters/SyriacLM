@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1964,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1964.json"
+        },
+        "syriac": "\u0722\u071f\u071d\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0627\u0634"
+            ],
+            "French": [
+                "trompeur"
+            ],
+            "English": [
+                "deceitful",
+                "wily",
+                "deceitful, perfidious."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1176,
+            "uri": "https://sedra.bethmardutho.org/api/root/1176.json"
+        },
+        "words": [
+            {
+                "id": 22816,
+                "uri": "https://sedra.bethmardutho.org/api/word/22816.json"
+            },
+            {
+                "id": 12860,
+                "uri": "https://sedra.bethmardutho.org/api/word/12860.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

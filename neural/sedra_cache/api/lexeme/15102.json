@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15102,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15102.json"
+        },
+        "syriac": "\u0721\u0717\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0644\u0645 (\u0645\u0636)"
+            ],
+            "French": [
+                "instruire"
+            ],
+            "English": [
+                "IIp to be skilled, trained.",
+                "IIa to train"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2522,
+            "uri": "https://sedra.bethmardutho.org/api/root/2522.json"
+        },
+        "words": [
+            {
+                "id": 40368,
+                "uri": "https://sedra.bethmardutho.org/api/word/40368.json"
+            },
+            {
+                "id": 40259,
+                "uri": "https://sedra.bethmardutho.org/api/word/40259.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

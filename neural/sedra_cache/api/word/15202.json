@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0725\u0718\u072a\u0718",
+        "western": "\u0710\u0736\u072c\u0742\u0725\u0730\u0718\u0730\u072a\u0718",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15235,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15235.json"
+        },
+        "stem": "\u0725\u0718\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0639\u0645\u0649"
+            ],
+            "eng": [
+                "IIa, IIIa to blind",
+                "blind",
+                "IIp."
+            ],
+            "fre": [
+                "aveugler"
+            ]
+        },
+        "word": {
+            "id": 15202,
+            "uri": "https://sedra.bethmardutho.org/api/word/15202.json"
+        }
+    }
+]

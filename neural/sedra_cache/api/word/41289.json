@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072c\u072a\u0712",
+        "western": "\u072c\u072a\u0730\u0712",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15833,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15833.json"
+        },
+        "stem": "\u072c\u072a\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to swell (of waves)",
+                "IIIa to become fat.",
+                "IIp to be fattened"
+            ]
+        },
+        "word": {
+            "id": 41289,
+            "uri": "https://sedra.bethmardutho.org/api/word/41289.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u071b\u0726\u071b\u0726",
+        "western": "\u071b\u0730\u0726\u071b\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "palpel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1268,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1268.json"
+        },
+        "stem": "\u071b\u0726\u071b\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "IVa to flicker.",
+                "flicker"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 8321,
+            "uri": "https://sedra.bethmardutho.org/api/word/8321.json"
+        }
+    }
+]

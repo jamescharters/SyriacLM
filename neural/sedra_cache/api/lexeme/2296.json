@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 2296,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2296.json"
+        },
+        "syriac": "\u0725\u0719\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0632\u0644",
+                "\u00a0"
+            ],
+            "French": [
+                "filer",
+                "\u00a0"
+            ],
+            "English": [
+                "spin",
+                "entangle",
+                "to intertwine.",
+                "Ia to twist, to spin"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1365,
+            "uri": "https://sedra.bethmardutho.org/api/root/1365.json"
+        },
+        "words": [
+            {
+                "id": 15238,
+                "uri": "https://sedra.bethmardutho.org/api/word/15238.json"
+            },
+            {
+                "id": 27310,
+                "uri": "https://sedra.bethmardutho.org/api/word/27310.json"
+            },
+            {
+                "id": 27309,
+                "uri": "https://sedra.bethmardutho.org/api/word/27309.json"
+            },
+            {
+                "id": 27308,
+                "uri": "https://sedra.bethmardutho.org/api/word/27308.json"
+            },
+            {
+                "id": 27307,
+                "uri": "https://sedra.bethmardutho.org/api/word/27307.json"
+            },
+            {
+                "id": 15237,
+                "uri": "https://sedra.bethmardutho.org/api/word/15237.json"
+            },
+            {
+                "id": 15236,
+                "uri": "https://sedra.bethmardutho.org/api/word/15236.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

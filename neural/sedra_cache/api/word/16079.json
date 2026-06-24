@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u072c\u071d\u0729\u0718\u072c\u0710",
+        "western": "\u0725\u0730\u072c\u073a\u071d\u0729\u073d\u0718\u072c\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2436,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2436.json"
+        },
+        "stem": "\u0725\u072c\u071d\u0729\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "antiquity",
+                "antiquity",
+                "oldness",
+                "old age",
+                "old habits."
+            ]
+        },
+        "word": {
+            "id": 16079,
+            "uri": "https://sedra.bethmardutho.org/api/word/16079.json"
+        }
+    }
+]

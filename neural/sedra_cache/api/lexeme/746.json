@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 746,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/746.json"
+        },
+        "syriac": "\u0715\u0729\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0637\u062d, \u0636\u0631\u0628",
+                "\u0646\u0641\u0630",
+                ""
+            ],
+            "French": [
+                "frapper ( de la corne), frapper",
+                "transpercer",
+                ""
+            ],
+            "English": [
+                "IIIp to thrust with the horn.",
+                "hit",
+                "pierce",
+                "prick",
+                "smote",
+                "Ia to pierce, stab",
+                "Ip",
+                "IIa to butt, gore, wound"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 471,
+            "uri": "https://sedra.bethmardutho.org/api/root/471.json"
+        },
+        "words": [
+            {
+                "id": 4815,
+                "uri": "https://sedra.bethmardutho.org/api/word/4815.json"
+            },
+            {
+                "id": 4819,
+                "uri": "https://sedra.bethmardutho.org/api/word/4819.json"
+            },
+            {
+                "id": 4818,
+                "uri": "https://sedra.bethmardutho.org/api/word/4818.json"
+            },
+            {
+                "id": 29636,
+                "uri": "https://sedra.bethmardutho.org/api/word/29636.json"
+            },
+            {
+                "id": 29635,
+                "uri": "https://sedra.bethmardutho.org/api/word/29635.json"
+            },
+            {
+                "id": 4817,
+                "uri": "https://sedra.bethmardutho.org/api/word/4817.json"
+            },
+            {
+                "id": 4816,
+                "uri": "https://sedra.bethmardutho.org/api/word/4816.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

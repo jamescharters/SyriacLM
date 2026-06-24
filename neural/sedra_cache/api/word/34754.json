@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0721\u0729\u072c\u0710",
+        "western": "\u0710\u0733\u0721\u0730\u0729\u072c\u0733\u0710",
+        "eastern": "\u0710\u0735\u0721\u0732\u0729\u072c\u0735\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11707,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11707.json"
+        },
+        "stem": "\u0710\u0721\u0729\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0630\u0648\u0646"
+            ],
+            "eng": [
+                "lizard."
+            ],
+            "fre": [
+                "l\u00e9zard"
+            ]
+        },
+        "word": {
+            "id": 34754,
+            "uri": "https://sedra.bethmardutho.org/api/word/34754.json"
+        }
+    }
+]

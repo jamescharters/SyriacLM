@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0718\u0728\u0717\u071d\u072c",
+        "western": "\u0718\u0730\u0728\u0717\u073a\u071d\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 2663,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2663.json"
+        },
+        "stem": "\u0728\u0717\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0637\u0634"
+            ],
+            "eng": [
+                "IIIa to cause to thirst.",
+                ", <span class=\"selectableFont\">\u0728\u0717\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u0717\u0736\u0710</span>, Ia to be parched, dried up",
+                "IIp to be thirsty",
+                "to thirst",
+                "to desire",
+                "be thirsty"
+            ],
+            "fre": [
+                "avoir soif"
+            ]
+        },
+        "word": {
+            "id": 17350,
+            "uri": "https://sedra.bethmardutho.org/api/word/17350.json"
+        }
+    }
+]

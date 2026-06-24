@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0717\u0718\u0720\u0710",
+        "western": "\u0717\u073d\u0718\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5182,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5182.json"
+        },
+        "stem": "\u0717\u0718\u0720\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0634\u0628",
+                "\u063a\u0627\u0628\u0629",
+                "\u0645\u0627\u062f\u0629"
+            ],
+            "eng": [
+                "= <span class=\"selectableFont\">\u0717\u073a\u071d\u0720\u073a\u0710</span> f. matter.",
+                "matter, material."
+            ],
+            "fre": [
+                "mati\u00e8re",
+                "bois ( combustible)",
+                "for\u00eat"
+            ]
+        },
+        "word": {
+            "id": 39095,
+            "uri": "https://sedra.bethmardutho.org/api/word/39095.json"
+        }
+    }
+]

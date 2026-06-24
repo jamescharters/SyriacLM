@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15740,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15740.json"
+        },
+        "syriac": "\u0722\u071b\u071a",
+        "glosses": {
+            "English": [
+                "IIp to shine brightly.",
+                "IIa to glitter",
+                "to shine",
+                "Ia to be diffused, to spread"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2994,
+            "uri": "https://sedra.bethmardutho.org/api/root/2994.json"
+        },
+        "words": [
+            {
+                "id": 41936,
+                "uri": "https://sedra.bethmardutho.org/api/word/41936.json"
+            },
+            {
+                "id": 40898,
+                "uri": "https://sedra.bethmardutho.org/api/word/40898.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

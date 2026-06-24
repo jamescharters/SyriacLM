@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 1870,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1870.json"
+        },
+        "syriac": "\u0721\u072b\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u064a\u062a",
+                "\u062f\u0647\u0646"
+            ],
+            "French": [
+                "huile",
+                "graisse"
+            ],
+            "English": [
+                "ointment",
+                "oil",
+                "unguent",
+                "ointment, oil, unguent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1117,
+            "uri": "https://sedra.bethmardutho.org/api/root/1117.json"
+        },
+        "words": [
+            {
+                "id": 12311,
+                "uri": "https://sedra.bethmardutho.org/api/word/12311.json"
+            },
+            {
+                "id": 12310,
+                "uri": "https://sedra.bethmardutho.org/api/word/12310.json"
+            },
+            {
+                "id": 12309,
+                "uri": "https://sedra.bethmardutho.org/api/word/12309.json"
+            },
+            {
+                "id": 12308,
+                "uri": "https://sedra.bethmardutho.org/api/word/12308.json"
+            },
+            {
+                "id": 12312,
+                "uri": "https://sedra.bethmardutho.org/api/word/12312.json"
+            },
+            {
+                "id": 12313,
+                "uri": "https://sedra.bethmardutho.org/api/word/12313.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

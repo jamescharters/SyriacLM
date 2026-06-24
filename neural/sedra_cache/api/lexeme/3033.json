@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 3033,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3033.json"
+        },
+        "syriac": "\u072a\u0721\u072b\u0710",
+        "glosses": {
+            "English": [
+                "evening",
+                "Vespers.",
+                "evening"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1767,
+            "uri": "https://sedra.bethmardutho.org/api/root/1767.json"
+        },
+        "words": [
+            {
+                "id": 19804,
+                "uri": "https://sedra.bethmardutho.org/api/word/19804.json"
+            },
+            {
+                "id": 19803,
+                "uri": "https://sedra.bethmardutho.org/api/word/19803.json"
+            },
+            {
+                "id": 19802,
+                "uri": "https://sedra.bethmardutho.org/api/word/19802.json"
+            },
+            {
+                "id": 19805,
+                "uri": "https://sedra.bethmardutho.org/api/word/19805.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

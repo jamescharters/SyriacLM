@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0713\u0722\u0721",
+        "western": "\u0710\u073a\u071d\u0713\u0722\u0736\u0721",
+        "eastern": "\u0710\u071d\u073c\u0713\u0722\u0738\u0721",
+        "lexeme": {
+            "id": 28757,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28757.json"
+        },
+        "stem": "\u0710\u071d\u0713\u0722\u0721",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fire"
+            ],
+            "lat": [
+                "ignem"
+            ]
+        },
+        "word": {
+            "id": 49255,
+            "uri": "https://sedra.bethmardutho.org/api/word/49255.json"
+        }
+    }
+]

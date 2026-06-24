@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071a\u0720\u0712",
+        "western": "\u071a\u0720\u0730\u0712",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15617,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15617.json"
+        },
+        "stem": "\u071a\u0720\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0644\u0628",
+                "\u00a0"
+            ],
+            "eng": [
+                "to yield milk",
+                "Ia to milk, suck milk",
+                "Ip."
+            ],
+            "fre": [
+                "\u00a0",
+                "traire"
+            ]
+        },
+        "word": {
+            "id": 40830,
+            "uri": "https://sedra.bethmardutho.org/api/word/40830.json"
+        }
+    }
+]

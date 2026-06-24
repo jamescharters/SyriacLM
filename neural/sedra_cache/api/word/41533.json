@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072c\u0710\u0721\u0722",
+        "western": "\u072c\u0730\u0710\u0721\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14745,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14745.json"
+        },
+        "stem": "\u072c\u0710\u0721\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to double."
+            ]
+        },
+        "word": {
+            "id": 41533,
+            "uri": "https://sedra.bethmardutho.org/api/word/41533.json"
+        }
+    }
+]

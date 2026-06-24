@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 657,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/657.json"
+        },
+        "syriac": "\u0715\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0645",
+                "\u062d\u0628\u064a\u0628"
+            ],
+            "French": [
+                "oncle paternal",
+                "bien-aim\u00e9"
+            ],
+            "English": [
+                "uncle",
+                "cousin",
+                "beloved.",
+                "paternal uncle"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 418,
+            "uri": "https://sedra.bethmardutho.org/api/root/418.json"
+        },
+        "words": [
+            {
+                "id": 4165,
+                "uri": "https://sedra.bethmardutho.org/api/word/4165.json"
+            },
+            {
+                "id": 4164,
+                "uri": "https://sedra.bethmardutho.org/api/word/4164.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

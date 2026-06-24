@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15549,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15549.json"
+        },
+        "syriac": "\u071a\u072a\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0631\u0637",
+                "\u0645\u0632\u0642 (\u0645\u0636)"
+            ],
+            "French": [
+                "faire les incisions",
+                "lac\u00e9rer"
+            ],
+            "English": [
+                "IIp to be lacerated.",
+                "IIa to scratch (with nails)",
+                "Ia to scrape, scratch"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2178,
+            "uri": "https://sedra.bethmardutho.org/api/root/2178.json"
+        },
+        "words": [
+            {
+                "id": 41651,
+                "uri": "https://sedra.bethmardutho.org/api/word/41651.json"
+            },
+            {
+                "id": 39984,
+                "uri": "https://sedra.bethmardutho.org/api/word/39984.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

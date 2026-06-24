@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0718\u072a\u072c\u071d\u072c\u0710",
+        "western": "\u0718\u072a\u0730\u072c\u0741\u073a\u071d\u072c\u0742\u0733\u0710",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3083,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3083.json"
+        },
+        "stem": "\u072a\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u062a\u0639\u062f"
+            ],
+            "eng": [
+                "IIIa to terrify.",
+                "IIa to cause to tremble",
+                "tremble",
+                "Ia to tremble, shudder"
+            ],
+            "fre": [
+                "tremblant"
+            ]
+        },
+        "word": {
+            "id": 20038,
+            "uri": "https://sedra.bethmardutho.org/api/word/20038.json"
+        }
+    }
+]

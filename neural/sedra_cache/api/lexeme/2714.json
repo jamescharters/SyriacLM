@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2714,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2714.json"
+        },
+        "syriac": "\u0728\u0728\u0710",
+        "glosses": {
+            "English": [
+                "the tamarind",
+                "nail.",
+                "nail",
+                "spike"
+            ],
+            "Arabic": [
+                "\u0645\u0633\u0645\u0627\u0631"
+            ],
+            "French": [
+                "clou"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1606,
+            "uri": "https://sedra.bethmardutho.org/api/root/1606.json"
+        },
+        "words": [
+            {
+                "id": 44667,
+                "uri": "https://sedra.bethmardutho.org/api/word/44667.json"
+            },
+            {
+                "id": 17616,
+                "uri": "https://sedra.bethmardutho.org/api/word/17616.json"
+            },
+            {
+                "id": 17618,
+                "uri": "https://sedra.bethmardutho.org/api/word/17618.json"
+            },
+            {
+                "id": 17617,
+                "uri": "https://sedra.bethmardutho.org/api/word/17617.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

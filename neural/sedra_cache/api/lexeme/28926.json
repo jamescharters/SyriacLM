@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 28926,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28926.json"
+        },
+        "syriac": "\u0710\u071d\u0720\u0718\u0729\u0718\u0729\u071b\u0718\u0722\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f21 \u03bb\u03c5\u03ba\u03bf\u03ba\u03c4\u03cc\u03bd\u03bf\u03c2",
+                "\u03c4\u03cc \u03bb\u03c5\u03ba\u03bf\u03ba\u03c4\u03cc\u03bd\u03bf\u03bd"
+            ],
+            "English": [
+                "wolf-slaying",
+                "wolf's-bane, aconitum"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bb\u03c5\u03ba\u03bf\u03ba\u03c4\u03cc\u03bd\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55300,
+                "uri": "https://sedra.bethmardutho.org/api/word/55300.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

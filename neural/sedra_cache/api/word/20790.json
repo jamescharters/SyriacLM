@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u0718\u071a\u0722\u0710",
+        "western": "\u072b\u073d\u0718\u071a\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3167,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3167.json"
+        },
+        "stem": "\u072b\u0718\u071a\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0631\u062d"
+            ],
+            "eng": [
+                "ulcer",
+                "boil",
+                "ulcer, abscess, sore."
+            ],
+            "fre": [
+                "ulc\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 20790,
+            "uri": "https://sedra.bethmardutho.org/api/word/20790.json"
+        }
+    }
+]

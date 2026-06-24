@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0722\u0718\u072a",
+        "western": "\u0722\u0736\u0722\u0718\u0730\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15362,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15362.json"
+        },
+        "stem": "\u0722\u0718\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0722\u0730\u071d\u0730\u072a</span> to be set alight, illuminated.",
+                "IIa <span class=\"selectableFont\">\u0722\u0730\u071d\u0730\u072a</span> to kindle",
+                "to be alarmed, to bolt",
+                "Ia to be shy"
+            ]
+        },
+        "word": {
+            "id": 41613,
+            "uri": "https://sedra.bethmardutho.org/api/word/41613.json"
+        }
+    }
+]

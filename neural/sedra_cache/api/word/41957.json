@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0722\u0712\u0725\u0718\u072a",
+        "western": "\u0722\u0736\u0712\u0725\u073d\u0718\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15375,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15375.json"
+        },
+        "stem": "\u0712\u0725\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0644\u0628 \u062b\u0627\u0646\u064a\u0629",
+                "\u062c\u0627\u0628",
+                "\u0627\u062c\u062a\u0627\u0632"
+            ],
+            "eng": [
+                "IIa to gather up, glean",
+                "Ia to pluck, pick out",
+                "IIp.",
+                "to search diligently"
+            ],
+            "fre": [
+                "parcourir",
+                "p\u00e9n\u00e9trer",
+                "chercher de nouveau"
+            ]
+        },
+        "word": {
+            "id": 41957,
+            "uri": "https://sedra.bethmardutho.org/api/word/41957.json"
+        }
+    }
+]

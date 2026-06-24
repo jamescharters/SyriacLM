@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15099,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15099.json"
+        },
+        "syriac": "\u0722\u0725\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u064a\u0637\u0631"
+            ],
+            "French": [
+                "ferrer"
+            ],
+            "English": [
+                "IIa to shoe (a horse)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2121,
+            "uri": "https://sedra.bethmardutho.org/api/root/2121.json"
+        },
+        "words": [
+            {
+                "id": 40189,
+                "uri": "https://sedra.bethmardutho.org/api/word/40189.json"
+            },
+            {
+                "id": 40176,
+                "uri": "https://sedra.bethmardutho.org/api/word/40176.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 569,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/569.json"
+        },
+        "syriac": "\u0713\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "manifest",
+                "uncovered"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 373,
+            "uri": "https://sedra.bethmardutho.org/api/root/373.json"
+        },
+        "words": [
+            {
+                "id": 24147,
+                "uri": "https://sedra.bethmardutho.org/api/word/24147.json"
+            },
+            {
+                "id": 3747,
+                "uri": "https://sedra.bethmardutho.org/api/word/3747.json"
+            },
+            {
+                "id": 3746,
+                "uri": "https://sedra.bethmardutho.org/api/word/3746.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

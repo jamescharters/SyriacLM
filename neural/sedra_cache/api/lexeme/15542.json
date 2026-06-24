@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15542,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15542.json"
+        },
+        "syriac": "\u0712\u0725\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0639\u0633"
+            ],
+            "French": [
+                "pi\u00e9tiner"
+            ],
+            "English": [
+                "Ip.",
+                "Ia to tread on, trample"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3023,
+            "uri": "https://sedra.bethmardutho.org/api/root/3023.json"
+        },
+        "words": [
+            {
+                "id": 42035,
+                "uri": "https://sedra.bethmardutho.org/api/word/42035.json"
+            },
+            {
+                "id": 41353,
+                "uri": "https://sedra.bethmardutho.org/api/word/41353.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

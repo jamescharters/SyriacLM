@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u071d\u072c\u0710",
+        "western": "\u0722\u0730\u071d\u072c\u0741\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 316,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/316.json"
+        },
+        "stem": "\u0710\u072c\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "come",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071d\u072c\u073a\u071d</span> to bring, introduce",
+                "(f. <span class=\"selectableFont\">\u072c\u0733\u071d</span>) Ia to come, arrive",
+                "IIIp.",
+                "bring",
+                "to bring."
+            ]
+        },
+        "word": {
+            "id": 2138,
+            "uri": "https://sedra.bethmardutho.org/api/word/2138.json"
+        }
+    }
+]

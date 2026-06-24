@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1943,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1943.json"
+        },
+        "syriac": "\u0722\u0718\u071a\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0647\u0648\u0636",
+                "\u0642\u064a\u0627\u0645\u0629",
+                "\u0625\u0646\u0639\u0627\u0634"
+            ],
+            "French": [
+                "rel\u00e8vement",
+                "r\u00e9surrection",
+                "r\u00e9confort"
+            ],
+            "English": [
+                "resuscitation",
+                "resurrection",
+                "resurrection.",
+                "revival"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1161,
+            "uri": "https://sedra.bethmardutho.org/api/root/1161.json"
+        },
+        "words": [
+            {
+                "id": 12696,
+                "uri": "https://sedra.bethmardutho.org/api/word/12696.json"
+            },
+            {
+                "id": 12695,
+                "uri": "https://sedra.bethmardutho.org/api/word/12695.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

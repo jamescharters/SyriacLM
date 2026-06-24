@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3422,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3422.json"
+        },
+        "syriac": "\u072c\u0723\u0720\u0718\u0722\u071d\u0729\u0710",
+        "glosses": {
+            "English": [
+                "Thessalonica"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2050,
+            "uri": "https://sedra.bethmardutho.org/api/root/2050.json"
+        },
+        "words": [
+            {
+                "id": 22588,
+                "uri": "https://sedra.bethmardutho.org/api/word/22588.json"
+            },
+            {
+                "id": 22587,
+                "uri": "https://sedra.bethmardutho.org/api/word/22587.json"
+            },
+            {
+                "id": 22589,
+                "uri": "https://sedra.bethmardutho.org/api/word/22589.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0722\u0723\u0718\u071f",
+        "western": "\u0722\u0736\u0723\u073d\u0718\u071f",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15777,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15777.json"
+        },
+        "stem": "\u0722\u0723\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0642\u0644",
+                "\u00a0"
+            ],
+            "eng": [
+                "to infuse, distil",
+                "to pour, pour out, metaph. to pour forth, into, fut. \u0722\u0736\u0723\u0718\u073d\u071f",
+                "to inject",
+                "to be melted",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u073d\u0718\u071f</span>, Ia to pour out",
+                "Ip to be poured out, instilled",
+                "to be tried in the fire.",
+                "to smelt, to cast (metal)"
+            ],
+            "fre": [
+                "\u00a0",
+                "transcrire"
+            ]
+        },
+        "word": {
+            "id": 41864,
+            "uri": "https://sedra.bethmardutho.org/api/word/41864.json"
+        }
+    }
+]

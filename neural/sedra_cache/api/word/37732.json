@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0712\u0712\u0710",
+        "western": "\u0729\u0712\u0733\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7709,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7709.json"
+        },
+        "stem": "\u0729\u0712\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0642\u062f"
+            ],
+            "eng": [
+                "vault, dome."
+            ],
+            "fre": [
+                "vo\u00fbte"
+            ]
+        },
+        "word": {
+            "id": 37732,
+            "uri": "https://sedra.bethmardutho.org/api/word/37732.json"
+        }
+    }
+]

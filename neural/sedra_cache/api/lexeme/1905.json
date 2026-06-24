@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1905,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1905.json"
+        },
+        "syriac": "\u0722\u0713\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "long suffering",
+                "lasting, long, lengthy."
+            ],
+            "Arabic": [
+                "\u0645\u0633\u062a\u0645\u0631",
+                "\u0628\u0637\u064a\u0621"
+            ],
+            "French": [
+                "qui dure",
+                "lent"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1139,
+            "uri": "https://sedra.bethmardutho.org/api/root/1139.json"
+        },
+        "words": [
+            {
+                "id": 29664,
+                "uri": "https://sedra.bethmardutho.org/api/word/29664.json"
+            },
+            {
+                "id": 12492,
+                "uri": "https://sedra.bethmardutho.org/api/word/12492.json"
+            },
+            {
+                "id": 12493,
+                "uri": "https://sedra.bethmardutho.org/api/word/12493.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

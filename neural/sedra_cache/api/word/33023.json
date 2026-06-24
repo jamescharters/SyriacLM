@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0723\u072a\u071d\u071a\u0710",
+        "western": "\u0723\u072a\u073a\u071d\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9244,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9244.json"
+        },
+        "stem": "\u0723\u072a\u071d\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0628\u062a\u0631",
+                "\u0641\u0627\u0633\u062f",
+                "\u0641\u0627\u0633\u062f, \u0645\u0641\u0633\u062f",
+                "\u0636\u0639\u064a\u0641",
+                "\u0633\u0641\u064a\u0647",
+                "\u0634\u0646\u064a\u0639"
+            ],
+            "eng": [
+                "feeble",
+                "mutilated",
+                "vicious, wicked.",
+                "corrupt, damaged"
+            ],
+            "fre": [
+                "laid",
+                "vicieux",
+                "vici\u00e9",
+                "amput\u00e9",
+                "effront\u00e9",
+                "faible"
+            ]
+        },
+        "word": {
+            "id": 33023,
+            "uri": "https://sedra.bethmardutho.org/api/word/33023.json"
+        }
+    }
+]

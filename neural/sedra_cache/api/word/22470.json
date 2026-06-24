@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072c\u071f\u0712",
+        "western": "\u072c\u0741\u071f\u0742\u0736\u0712\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3387,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3387.json"
+        },
+        "stem": "\u072c\u071f\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "insist",
+                "IIa to put pressure on",
+                "IIIa to frequent",
+                "to be urgent",
+                "to oppress.",
+                "Ia to grow frequent",
+                "to press hard upon",
+                "to apply oneself to",
+                "Ip, IIp to be oppressed, weighed down",
+                "frequent",
+                "urge"
+            ]
+        },
+        "word": {
+            "id": 22470,
+            "uri": "https://sedra.bethmardutho.org/api/word/22470.json"
+        }
+    }
+]

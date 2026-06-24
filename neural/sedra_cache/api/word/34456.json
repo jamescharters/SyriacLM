@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u072a\u071f\u0712\u0722\u0710",
+        "western": "\u0721\u0730\u072a\u071f\u0712\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8987,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8987.json"
+        },
+        "stem": "\u0721\u072a\u071f\u0712\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0624\u0644\u0641",
+                "\u062d\u0648\u0630\u064a"
+            ],
+            "eng": [
+                "charioteer, driver."
+            ],
+            "fre": [
+                "cocher",
+                "auteur"
+            ]
+        },
+        "word": {
+            "id": 34456,
+            "uri": "https://sedra.bethmardutho.org/api/word/34456.json"
+        }
+    }
+]

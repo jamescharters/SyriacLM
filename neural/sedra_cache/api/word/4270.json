@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u071a\u071d\u0720",
+        "western": "\u0715\u0741\u0730\u071a\u073a\u071d\u0720",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 679,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/679.json"
+        },
+        "stem": "\u0715\u071a\u071d\u0720\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062e\u064a\u0641",
+                "\u0641\u0632\u0639"
+            ],
+            "eng": [
+                "afraid"
+            ],
+            "fre": [
+                "craintif",
+                "redoubtable"
+            ]
+        },
+        "word": {
+            "id": 4270,
+            "uri": "https://sedra.bethmardutho.org/api/word/4270.json"
+        }
+    }
+]

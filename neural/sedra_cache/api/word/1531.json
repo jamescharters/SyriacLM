@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u0723\u071b\u0718\u071f\u0723\u0718\u0717\u071d",
+        "western": "\u0710\u0736\u0723\u071b\u073d\u0718\u071f\u0741\u0723\u0730\u0718\u0717\u0331\u071d",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 208,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/208.json"
+        },
+        "stem": "\u0710\u0723\u071b\u0718\u071f\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0646\u0635\u0631"
+            ],
+            "eng": [
+                "heavenly body",
+                "element"
+            ],
+            "fre": [
+                "\u00e9l\u00e9ment"
+            ]
+        },
+        "word": {
+            "id": 1531,
+            "uri": "https://sedra.bethmardutho.org/api/word/1531.json"
+        }
+    }
+]

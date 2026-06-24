@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0712\u072a",
+        "western": "\u0721\u072c\u0742\u0730\u0712\u0741\u0730\u072a",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3354,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3354.json"
+        },
+        "stem": "\u072c\u0712\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0633\u0631",
+                "\u063a\u0644\u0628",
+                "\u00a0"
+            ],
+            "eng": [
+                "break",
+                "IIp.",
+                "Ia to break, fracture",
+                "Ip",
+                "IIa"
+            ],
+            "fre": [
+                "vaincre",
+                "\u00a0",
+                "briser"
+            ]
+        },
+        "word": {
+            "id": 29458,
+            "uri": "https://sedra.bethmardutho.org/api/word/29458.json"
+        }
+    }
+]

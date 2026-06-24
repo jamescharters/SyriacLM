@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15768,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15768.json"
+        },
+        "syriac": "\u072a\u0719\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0634"
+            ],
+            "French": [
+                "r\u00e9pandre"
+            ],
+            "English": [
+                "IIIa to drip",
+                "Ia to sprinkle",
+                "IIIp to be sprinkled.",
+                "Ip",
+                "to rain gently"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2426,
+            "uri": "https://sedra.bethmardutho.org/api/root/2426.json"
+        },
+        "words": [
+            {
+                "id": 41776,
+                "uri": "https://sedra.bethmardutho.org/api/word/41776.json"
+            },
+            {
+                "id": 40421,
+                "uri": "https://sedra.bethmardutho.org/api/word/40421.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

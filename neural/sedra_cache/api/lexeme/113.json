@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 113,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/113.json"
+        },
+        "syriac": "\u0710\u071f\u0720 \u0729\u072a\u0728\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0627\u0634",
+                "\u0627\u0644\u0634\u064a\u0637\u0627\u0646"
+            ],
+            "French": [
+                "accusateur",
+                "le d\u00e9mon"
+            ],
+            "English": [
+                "accuser, the devil.",
+                "accuser",
+                "calumniator"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 89,
+            "uri": "https://sedra.bethmardutho.org/api/root/89.json"
+        },
+        "words": [
+            {
+                "id": 854,
+                "uri": "https://sedra.bethmardutho.org/api/word/854.json"
+            },
+            {
+                "id": 834,
+                "uri": "https://sedra.bethmardutho.org/api/word/834.json"
+            },
+            {
+                "id": 826,
+                "uri": "https://sedra.bethmardutho.org/api/word/826.json"
+            },
+            {
+                "id": 812,
+                "uri": "https://sedra.bethmardutho.org/api/word/812.json"
+            },
+            {
+                "id": 848,
+                "uri": "https://sedra.bethmardutho.org/api/word/848.json"
+            },
+            {
+                "id": 795,
+                "uri": "https://sedra.bethmardutho.org/api/word/795.json"
+            },
+            {
+                "id": 802,
+                "uri": "https://sedra.bethmardutho.org/api/word/802.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

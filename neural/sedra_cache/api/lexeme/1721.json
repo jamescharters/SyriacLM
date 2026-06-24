@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1721,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1721.json"
+        },
+        "syriac": "\u0721\u0718\u0723\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Mysia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1030,
+            "uri": "https://sedra.bethmardutho.org/api/root/1030.json"
+        },
+        "words": [
+            {
+                "id": 11255,
+                "uri": "https://sedra.bethmardutho.org/api/word/11255.json"
+            },
+            {
+                "id": 11256,
+                "uri": "https://sedra.bethmardutho.org/api/word/11256.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

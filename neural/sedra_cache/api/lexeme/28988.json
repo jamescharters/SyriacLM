@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28988,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28988.json"
+        },
+        "syriac": "\u0710\u071d\u0722\u0710\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f00\u03b5\u03af\u03bd\u03b1\u03bf\u03c2"
+            ],
+            "English": [
+                "ever-flowing"
+            ],
+            "Latin": [
+                "sempiternus"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03ad\u03bd\u03b1\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49502,
+                "uri": "https://sedra.bethmardutho.org/api/word/49502.json"
+            },
+            {
+                "id": 55362,
+                "uri": "https://sedra.bethmardutho.org/api/word/55362.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

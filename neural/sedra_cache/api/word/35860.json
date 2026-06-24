@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u0718\u0712\u071a\u0710",
+        "western": "\u071b\u073d\u0718\u0712\u0733\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5091,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5091.json"
+        },
+        "stem": "\u071b\u0718\u0712\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u062d\u0642"
+            ],
+            "eng": [
+                "batterer, crusher."
+            ],
+            "fre": [
+                "broiement"
+            ]
+        },
+        "word": {
+            "id": 35860,
+            "uri": "https://sedra.bethmardutho.org/api/word/35860.json"
+        }
+    }
+]

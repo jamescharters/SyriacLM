@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071f\u072c\u0712\u0722\u0710",
+        "western": "\u0721\u0730\u071f\u072c\u0712\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7153,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7153.json"
+        },
+        "stem": "\u0721\u071f\u072c\u0712\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0624\u0644\u0641"
+            ],
+            "eng": [
+                "writer, author."
+            ],
+            "fre": [
+                "\u00e9crivain"
+            ]
+        },
+        "word": {
+            "id": 35512,
+            "uri": "https://sedra.bethmardutho.org/api/word/35512.json"
+        }
+    }
+]

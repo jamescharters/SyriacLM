@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15119,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15119.json"
+        },
+        "syriac": "\u0717\u0715\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639 \u0639\u0636\u0648\u0627\u064b \u0639\u0636\u0648\u0627\u064b"
+            ],
+            "French": [
+                "d\u00e9membrer"
+            ],
+            "English": [
+                "to be formed (inwomb).",
+                "IIa to dismember",
+                "IIp to be dismembered"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3197,
+            "uri": "https://sedra.bethmardutho.org/api/root/3197.json"
+        },
+        "words": [
+            {
+                "id": 39989,
+                "uri": "https://sedra.bethmardutho.org/api/word/39989.json"
+            },
+            {
+                "id": 39954,
+                "uri": "https://sedra.bethmardutho.org/api/word/39954.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 1074,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1074.json"
+        },
+        "syriac": "\u071a\u0721\u071d\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0645\u064a\u0631"
+            ],
+            "French": [
+                "ferment"
+            ],
+            "English": [
+                "leaven, leavened bread.",
+                "leaven"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 647,
+            "uri": "https://sedra.bethmardutho.org/api/root/647.json"
+        },
+        "words": [
+            {
+                "id": 7214,
+                "uri": "https://sedra.bethmardutho.org/api/word/7214.json"
+            },
+            {
+                "id": 7216,
+                "uri": "https://sedra.bethmardutho.org/api/word/7216.json"
+            },
+            {
+                "id": 7213,
+                "uri": "https://sedra.bethmardutho.org/api/word/7213.json"
+            },
+            {
+                "id": 7212,
+                "uri": "https://sedra.bethmardutho.org/api/word/7212.json"
+            },
+            {
+                "id": 7215,
+                "uri": "https://sedra.bethmardutho.org/api/word/7215.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

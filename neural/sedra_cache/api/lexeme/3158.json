@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3158,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3158.json"
+        },
+        "syriac": "\u072b\u0718\u072b\u0722\u072c\u0710",
+        "glosses": {
+            "English": [
+                "lily",
+                "lily."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1839,
+            "uri": "https://sedra.bethmardutho.org/api/root/1839.json"
+        },
+        "words": [
+            {
+                "id": 20741,
+                "uri": "https://sedra.bethmardutho.org/api/word/20741.json"
+            },
+            {
+                "id": 20743,
+                "uri": "https://sedra.bethmardutho.org/api/word/20743.json"
+            },
+            {
+                "id": 20742,
+                "uri": "https://sedra.bethmardutho.org/api/word/20742.json"
+            },
+            {
+                "id": 42235,
+                "uri": "https://sedra.bethmardutho.org/api/word/42235.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

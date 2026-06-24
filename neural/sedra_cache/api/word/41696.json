@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0725\u0728",
+        "western": "\u0722\u0736\u0713\u0725\u0730\u0728",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15595,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15595.json"
+        },
+        "stem": "\u0713\u0725\u0728",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to loathe, abominate",
+                "IIIa to fill with loathing."
+            ]
+        },
+        "word": {
+            "id": 41696,
+            "uri": "https://sedra.bethmardutho.org/api/word/41696.json"
+        }
+    }
+]

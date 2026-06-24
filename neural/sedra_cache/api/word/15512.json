@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0725\u0720\u072c\u0710",
+        "western": "\u0725\u0720\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2327,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2327.json"
+        },
+        "stem": "\u0725\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0630\u0628\u062d",
+                "\u0630\u0628\u064a\u062d\u0629"
+            ],
+            "eng": [
+                "altar",
+                "offering, whole sacrifice",
+                "pyre, altar."
+            ],
+            "fre": [
+                "sacrifice",
+                "autel"
+            ]
+        },
+        "word": {
+            "id": 15512,
+            "uri": "https://sedra.bethmardutho.org/api/word/15512.json"
+        }
+    }
+]

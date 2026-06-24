@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 442,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/442.json"
+        },
+        "syriac": "\u0712\u0725\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u062d\u0642",
+                "\u0647\u0632\u0632"
+            ],
+            "French": [
+                "broyer",
+                "secouer"
+            ],
+            "English": [
+                "tear",
+                "rend",
+                "Ia to crush",
+                "IIa to convulse",
+                "IIp.",
+                "to confound"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 300,
+            "uri": "https://sedra.bethmardutho.org/api/root/300.json"
+        },
+        "words": [
+            {
+                "id": 23582,
+                "uri": "https://sedra.bethmardutho.org/api/word/23582.json"
+            },
+            {
+                "id": 23581,
+                "uri": "https://sedra.bethmardutho.org/api/word/23581.json"
+            },
+            {
+                "id": 3083,
+                "uri": "https://sedra.bethmardutho.org/api/word/3083.json"
+            },
+            {
+                "id": 23584,
+                "uri": "https://sedra.bethmardutho.org/api/word/23584.json"
+            },
+            {
+                "id": 23583,
+                "uri": "https://sedra.bethmardutho.org/api/word/23583.json"
+            },
+            {
+                "id": 3085,
+                "uri": "https://sedra.bethmardutho.org/api/word/3085.json"
+            },
+            {
+                "id": 3084,
+                "uri": "https://sedra.bethmardutho.org/api/word/3084.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2026,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2026.json"
+        },
+        "syriac": "\u0722\u0729\u071d\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062a\u0635\u0644, \u0645\u062a\u062d\u062f",
+                "\u062a\u0627\u0628\u0639"
+            ],
+            "French": [
+                "qui adh\u00e8re, uni",
+                "qui suit"
+            ],
+            "English": [
+                "following",
+                "attentive to.",
+                "adhering",
+                "suitable",
+                "adherents, compagnons"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1208,
+            "uri": "https://sedra.bethmardutho.org/api/root/1208.json"
+        },
+        "words": [
+            {
+                "id": 59261,
+                "uri": "https://sedra.bethmardutho.org/api/word/59261.json"
+            },
+            {
+                "id": 13353,
+                "uri": "https://sedra.bethmardutho.org/api/word/13353.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "ethpa\u02bf\u02bfal"
+    }
+]

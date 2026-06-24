@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 8584,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8584.json"
+        },
+        "syriac": "\u0722\u071b\u0726\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u064a\u0627\u0631 \u0634\u0646\u0628\u0631",
+                "\u062e\u0637\u0645\u064a"
+            ],
+            "French": [
+                "casse",
+                "guimauve"
+            ],
+            "English": [
+                "oil of myrrh",
+                "marsh mallow.",
+                "Althaea ficifolia or officinalis"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 57963,
+                "uri": "https://sedra.bethmardutho.org/api/word/57963.json"
+            },
+            {
+                "id": 32425,
+                "uri": "https://sedra.bethmardutho.org/api/word/32425.json"
+            }
+        ]
+    }
+]

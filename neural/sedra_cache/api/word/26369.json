@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0712\u0723\u0726\u0718\u072c\u0710",
+        "western": "\u0712\u0741\u0723\u0736\u0726\u0742\u0718\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2190,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2190.json"
+        },
+        "stem": "\u0723\u0726\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "lip",
+                "edge",
+                "margin",
+                "shore",
+                "brim.",
+                "lip",
+                "edge, shore"
+            ]
+        },
+        "word": {
+            "id": 26369,
+            "uri": "https://sedra.bethmardutho.org/api/word/26369.json"
+        }
+    }
+]

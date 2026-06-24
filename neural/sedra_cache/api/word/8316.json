@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u071b\u0725\u0722\u071f",
+        "western": "\u071b\u0730\u0725\u0722\u0733\u071f\u0742",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1266,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1266.json"
+        },
+        "stem": "\u071b\u0725\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "load",
+                "<span class=\"selectableFont\">\u072b\u0729\u0730\u0720 \u071b\u0730\u0725\u0722\u0733\u0710</span> to take charge of, take care of, undertake.",
+                "load, burden",
+                "luggage, cargo, freight",
+                "cargo",
+                "burden"
+            ]
+        },
+        "word": {
+            "id": 8316,
+            "uri": "https://sedra.bethmardutho.org/api/word/8316.json"
+        }
+    }
+]

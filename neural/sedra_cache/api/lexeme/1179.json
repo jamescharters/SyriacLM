@@ -1,0 +1,94 @@
+[
+    {
+        "lexeme": {
+            "id": 1179,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1179.json"
+        },
+        "syriac": "\u071a\u072b\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0638\u0644\u0645, \u062f\u062c\u0646",
+                "\u0623\u0645\u0633\u0649"
+            ],
+            "French": [
+                "\u00eatre obscurci , s&#39;assombrir",
+                "\u00eatre au soir"
+            ],
+            "English": [
+                "IIIp.",
+                "dark",
+                "darken",
+                "darkened",
+                "Ia to grow dark, become darkened",
+                "IIIa to darken",
+                "IIp to be obscured, darkened",
+                "IIa to darken",
+                "to do something at evening"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 695,
+            "uri": "https://sedra.bethmardutho.org/api/root/695.json"
+        },
+        "words": [
+            {
+                "id": 7787,
+                "uri": "https://sedra.bethmardutho.org/api/word/7787.json"
+            },
+            {
+                "id": 7784,
+                "uri": "https://sedra.bethmardutho.org/api/word/7784.json"
+            },
+            {
+                "id": 7782,
+                "uri": "https://sedra.bethmardutho.org/api/word/7782.json"
+            },
+            {
+                "id": 7781,
+                "uri": "https://sedra.bethmardutho.org/api/word/7781.json"
+            },
+            {
+                "id": 7793,
+                "uri": "https://sedra.bethmardutho.org/api/word/7793.json"
+            },
+            {
+                "id": 7791,
+                "uri": "https://sedra.bethmardutho.org/api/word/7791.json"
+            },
+            {
+                "id": 7788,
+                "uri": "https://sedra.bethmardutho.org/api/word/7788.json"
+            },
+            {
+                "id": 7786,
+                "uri": "https://sedra.bethmardutho.org/api/word/7786.json"
+            },
+            {
+                "id": 7785,
+                "uri": "https://sedra.bethmardutho.org/api/word/7785.json"
+            },
+            {
+                "id": 7783,
+                "uri": "https://sedra.bethmardutho.org/api/word/7783.json"
+            },
+            {
+                "id": 7780,
+                "uri": "https://sedra.bethmardutho.org/api/word/7780.json"
+            },
+            {
+                "id": 7792,
+                "uri": "https://sedra.bethmardutho.org/api/word/7792.json"
+            },
+            {
+                "id": 7790,
+                "uri": "https://sedra.bethmardutho.org/api/word/7790.json"
+            },
+            {
+                "id": 7789,
+                "uri": "https://sedra.bethmardutho.org/api/word/7789.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

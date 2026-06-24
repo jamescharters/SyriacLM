@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u0713\u0722\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u0713\u0722\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10553,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10553.json"
+        },
+        "stem": "\u0721\u0713\u0722\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0638\u0644\u064a\u0644, \u0627\u0633\u062a\u0642\u0631\u0627\u0631 \u0639\u0644\u0649 (\u0627\u0644\u0631\u0648\u062d), \u0625\u0644\u0647\u0627\u0645",
+                "\u062d\u0645\u0627\u064a\u0629"
+            ],
+            "eng": [
+                "protection.",
+                "overshadowing, tabernacling (esp. of Holy Spirit)"
+            ],
+            "fre": [
+                "protection",
+                "action de couvrir de son ombre, de reposer sur (Esprit), inspiration"
+            ]
+        },
+        "word": {
+            "id": 30108,
+            "uri": "https://sedra.bethmardutho.org/api/word/30108.json"
+        }
+    }
+]

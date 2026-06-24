@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 3167,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3167.json"
+        },
+        "syriac": "\u072b\u0718\u071a\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0631\u062d"
+            ],
+            "French": [
+                "ulc\u00e8re"
+            ],
+            "English": [
+                "ulcer, abscess, sore.",
+                "boil",
+                "ulcer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1843,
+            "uri": "https://sedra.bethmardutho.org/api/root/1843.json"
+        },
+        "words": [
+            {
+                "id": 20789,
+                "uri": "https://sedra.bethmardutho.org/api/word/20789.json"
+            },
+            {
+                "id": 20793,
+                "uri": "https://sedra.bethmardutho.org/api/word/20793.json"
+            },
+            {
+                "id": 20790,
+                "uri": "https://sedra.bethmardutho.org/api/word/20790.json"
+            },
+            {
+                "id": 20792,
+                "uri": "https://sedra.bethmardutho.org/api/word/20792.json"
+            },
+            {
+                "id": 20791,
+                "uri": "https://sedra.bethmardutho.org/api/word/20791.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

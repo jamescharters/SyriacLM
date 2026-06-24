@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072c\u0729\u071d\u0726\u0718\u072c\u0710",
+        "western": "\u072c\u0730\u0729\u073a\u071d\u0726\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11505,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11505.json"
+        },
+        "stem": "\u072c\u0729\u071d\u0726\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0648\u0629, \u0634\u062f\u0629",
+                "\u0635\u0639\u0648\u0628\u0629",
+                "\u0633\u0646 (\u0627\u0644\u0633\u0647\u0645)"
+            ],
+            "eng": [
+                "strength, vehemence, might",
+                "difficulty."
+            ],
+            "fre": [
+                "difficult\u00e9",
+                "force, v\u00e9h\u00e9mence",
+                "dard (de la fl\u00e8che)"
+            ]
+        },
+        "word": {
+            "id": 33079,
+            "uri": "https://sedra.bethmardutho.org/api/word/33079.json"
+        }
+    }
+]

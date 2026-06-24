@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15418,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15418.json"
+        },
+        "syriac": "\u072b\u0713\u072a",
+        "glosses": {
+            "English": [
+                "to let down.",
+                "IIa to make to flow",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u072b\u0713\u073d\u0718\u072a</span>, Ia to flow, to pour forth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2065,
+            "uri": "https://sedra.bethmardutho.org/api/root/2065.json"
+        },
+        "words": [
+            {
+                "id": 42021,
+                "uri": "https://sedra.bethmardutho.org/api/word/42021.json"
+            },
+            {
+                "id": 39915,
+                "uri": "https://sedra.bethmardutho.org/api/word/39915.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

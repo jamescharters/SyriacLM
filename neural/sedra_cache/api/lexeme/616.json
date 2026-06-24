@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 616,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/616.json"
+        },
+        "syriac": "\u0713\u0725\u072a",
+        "glosses": {
+            "English": [
+                "rebuke",
+                "chide",
+                "Ip.",
+                "Ia to rebuke, reprove"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 394,
+            "uri": "https://sedra.bethmardutho.org/api/root/394.json"
+        },
+        "words": [
+            {
+                "id": 3938,
+                "uri": "https://sedra.bethmardutho.org/api/word/3938.json"
+            },
+            {
+                "id": 3941,
+                "uri": "https://sedra.bethmardutho.org/api/word/3941.json"
+            },
+            {
+                "id": 3940,
+                "uri": "https://sedra.bethmardutho.org/api/word/3940.json"
+            },
+            {
+                "id": 3939,
+                "uri": "https://sedra.bethmardutho.org/api/word/3939.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

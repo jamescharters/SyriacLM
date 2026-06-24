@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072c\u0726\u0726",
+        "western": "\u072c\u0730\u0726\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15308,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15308.json"
+        },
+        "stem": "\u072c\u0726\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062c\u0631\u0649",
+                "\u00a0"
+            ],
+            "eng": [
+                "to be diverted.",
+                "IIp to be poured",
+                "to begin to flow",
+                "IIa to cause to flow, to pour"
+            ],
+            "fre": [
+                "\u00a0",
+                "faire couler"
+            ]
+        },
+        "word": {
+            "id": 40777,
+            "uri": "https://sedra.bethmardutho.org/api/word/40777.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u071f\u071d\u0723\u0718\u072c\u0710",
+        "western": "\u0722\u071f\u073a\u071d\u0723\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13089,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13089.json"
+        },
+        "stem": "\u0722\u071f\u071d\u0723\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0628\u062d"
+            ],
+            "eng": [
+                "immolation."
+            ],
+            "fre": [
+                "immolation"
+            ]
+        },
+        "word": {
+            "id": 33896,
+            "uri": "https://sedra.bethmardutho.org/api/word/33896.json"
+        }
+    }
+]

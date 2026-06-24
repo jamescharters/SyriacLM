@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0725\u0726\u072a\u0710",
+        "western": "\u0721\u0730\u0725\u0726\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5507,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5507.json"
+        },
+        "stem": "\u0721\u0725\u0726\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0637\u0641"
+            ],
+            "eng": [
+                "cope.",
+                "cloak, hood"
+            ],
+            "fre": [
+                "manteau"
+            ]
+        },
+        "word": {
+            "id": 33476,
+            "uri": "https://sedra.bethmardutho.org/api/word/33476.json"
+        }
+    }
+]

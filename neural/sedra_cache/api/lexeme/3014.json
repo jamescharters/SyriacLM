@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3014,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3014.json"
+        },
+        "syriac": "\u072a\u071b\u0722\u0710",
+        "glosses": {
+            "English": [
+                "murmuring",
+                "murmuring."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1758,
+            "uri": "https://sedra.bethmardutho.org/api/root/1758.json"
+        },
+        "words": [
+            {
+                "id": 19627,
+                "uri": "https://sedra.bethmardutho.org/api/word/19627.json"
+            },
+            {
+                "id": 19628,
+                "uri": "https://sedra.bethmardutho.org/api/word/19628.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15231.json"
+        },
+        "syriac": "\u0722\u0712\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0646\u0628\u0623"
+            ],
+            "French": [
+                "proph\u00e9tiser"
+            ],
+            "English": [
+                "IIa to prophesy",
+                "IIp to act as a prophet, to prophesy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2330,
+            "uri": "https://sedra.bethmardutho.org/api/root/2330.json"
+        },
+        "words": [
+            {
+                "id": 40007,
+                "uri": "https://sedra.bethmardutho.org/api/word/40007.json"
+            },
+            {
+                "id": 39923,
+                "uri": "https://sedra.bethmardutho.org/api/word/39923.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

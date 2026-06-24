@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 700,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/700.json"
+        },
+        "syriac": "\u0715\u071f\u071d\u0710",
+        "glosses": {
+            "English": [
+                "clean",
+                "pure",
+                "pure, clean."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 444,
+            "uri": "https://sedra.bethmardutho.org/api/root/444.json"
+        },
+        "words": [
+            {
+                "id": 4560,
+                "uri": "https://sedra.bethmardutho.org/api/word/4560.json"
+            },
+            {
+                "id": 4558,
+                "uri": "https://sedra.bethmardutho.org/api/word/4558.json"
+            },
+            {
+                "id": 4557,
+                "uri": "https://sedra.bethmardutho.org/api/word/4557.json"
+            },
+            {
+                "id": 4556,
+                "uri": "https://sedra.bethmardutho.org/api/word/4556.json"
+            },
+            {
+                "id": 4554,
+                "uri": "https://sedra.bethmardutho.org/api/word/4554.json"
+            },
+            {
+                "id": 4552,
+                "uri": "https://sedra.bethmardutho.org/api/word/4552.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

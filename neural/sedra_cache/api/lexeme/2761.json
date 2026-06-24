@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 2761,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2761.json"
+        },
+        "syriac": "\u0729\u0718\u071d\u0710",
+        "glosses": {
+            "English": [
+                "woven objects",
+                "ball of thread.",
+                "loom"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1628,
+            "uri": "https://sedra.bethmardutho.org/api/root/1628.json"
+        },
+        "words": [
+            {
+                "id": 22846,
+                "uri": "https://sedra.bethmardutho.org/api/word/22846.json"
+            },
+            {
+                "id": 17991,
+                "uri": "https://sedra.bethmardutho.org/api/word/17991.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

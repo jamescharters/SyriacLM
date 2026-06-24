@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071f\u071d\u072c",
+        "western": "\u071f\u073a\u071d\u072c",
+        "number": "singular",
+        "lexeme": {
+            "id": 5344,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5344.json"
+        },
+        "stem": "\u071f\u071d\u072c",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0639\u0646\u064a, \u0625\u0630\u0627\u064b"
+            ],
+            "eng": [
+                "that is to say, indeed."
+            ],
+            "fre": [
+                "\u00e0 savoir, donc"
+            ]
+        },
+        "word": {
+            "id": 34780,
+            "uri": "https://sedra.bethmardutho.org/api/word/34780.json"
+        }
+    }
+]

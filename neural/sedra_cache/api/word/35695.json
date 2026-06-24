@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0717\u0718\u0726\u071b\u0718\u0723",
+        "western": "\u0717\u073d\u0718\u0726\u0730\u071b\u0733\u0718\u0723",
+        "number": "singular",
+        "lexeme": {
+            "id": 13739,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13739.json"
+        },
+        "stem": "\u0717\u0718\u0726\u071b\u0718\u0723",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0646\u0635\u0644"
+            ],
+            "eng": [
+                "consul."
+            ],
+            "fre": [
+                "consul"
+            ]
+        },
+        "word": {
+            "id": 35695,
+            "uri": "https://sedra.bethmardutho.org/api/word/35695.json"
+        }
+    }
+]

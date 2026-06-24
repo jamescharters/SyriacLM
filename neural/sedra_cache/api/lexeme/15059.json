@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15059,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15059.json"
+        },
+        "syriac": "\u0726\u071a\u0719",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0647\u0631"
+            ],
+            "French": [
+                "\u00eatre d\u00e9bauch\u00e9"
+            ],
+            "English": [
+                "IIIa to make wanton.",
+                "IIp to be licentious",
+                "IIa to act in a debauched way"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2168,
+            "uri": "https://sedra.bethmardutho.org/api/root/2168.json"
+        },
+        "words": [
+            {
+                "id": 41587,
+                "uri": "https://sedra.bethmardutho.org/api/word/41587.json"
+            },
+            {
+                "id": 40294,
+                "uri": "https://sedra.bethmardutho.org/api/word/40294.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

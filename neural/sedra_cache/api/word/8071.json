@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u071f",
+        "western": "\u071b\u0733\u071f\u0742",
+        "lexeme": {
+            "id": 1231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1231.json"
+        },
+        "stem": "\u071b\u071f",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u064a\u0645\u0643\u0646"
+            ],
+            "eng": [
+                "perhaps",
+                "peradventure"
+            ],
+            "fre": [
+                "peut-\u00eatre"
+            ]
+        },
+        "word": {
+            "id": 8071,
+            "uri": "https://sedra.bethmardutho.org/api/word/8071.json"
+        }
+    }
+]

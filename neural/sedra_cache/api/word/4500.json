@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u071d\u0722\u072a",
+        "western": "\u0715\u0741\u073a\u071d\u0722\u0733\u072a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 696,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/696.json"
+        },
+        "stem": "\u0715\u071d\u0722\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0631\u0647\u0645"
+            ],
+            "eng": [
+                "denarius, dinar.",
+                "denarius"
+            ],
+            "fre": [
+                "denier"
+            ]
+        },
+        "word": {
+            "id": 4500,
+            "uri": "https://sedra.bethmardutho.org/api/word/4500.json"
+        }
+    }
+]

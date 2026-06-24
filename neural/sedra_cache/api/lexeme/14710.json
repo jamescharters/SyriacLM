@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 14710,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14710.json"
+        },
+        "syriac": "\u071b\u0720\u0717\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0637\u0623 (\u0645\u0636)"
+            ],
+            "French": [
+                "rendre lent"
+            ],
+            "English": [
+                "IVa to make slow",
+                "IVp to be slow."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2833,
+            "uri": "https://sedra.bethmardutho.org/api/root/2833.json"
+        },
+        "words": [
+            {
+                "id": 40298,
+                "uri": "https://sedra.bethmardutho.org/api/word/40298.json"
+            },
+            {
+                "id": 40203,
+                "uri": "https://sedra.bethmardutho.org/api/word/40203.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

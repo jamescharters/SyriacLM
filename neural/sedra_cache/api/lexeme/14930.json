@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 14930,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14930.json"
+        },
+        "syriac": "\u072c\u0710\u072a",
+        "glosses": {
+            "English": [
+                "to observe, contemplate",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0730\u0710\u0730\u072a</span> to be prompted by instinct.",
+                "IIa <span class=\"selectableFont\">\u072c\u0730\u0710\u0730\u072a</span> to suggest"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2429,
+            "uri": "https://sedra.bethmardutho.org/api/root/2429.json"
+        },
+        "words": [
+            {
+                "id": 40337,
+                "uri": "https://sedra.bethmardutho.org/api/word/40337.json"
+            },
+            {
+                "id": 39971,
+                "uri": "https://sedra.bethmardutho.org/api/word/39971.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0721\u0715\u071d\u072a\u0710",
+        "western": "\u0721\u0736\u0715\u0742\u071d\u0733\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 751,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/751.json"
+        },
+        "stem": "\u0721\u0715\u071d\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "loft",
+                "storey, floor (of building)",
+                "dwelling, habitation.",
+                "floor"
+            ]
+        },
+        "word": {
+            "id": 4837,
+            "uri": "https://sedra.bethmardutho.org/api/word/4837.json"
+        }
+    }
+]

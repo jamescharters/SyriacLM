@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u072b\u072c\u0712\u0717\u072a\u071d\u0722\u0722",
+        "western": "\u0721\u0736\u072b\u072c\u0741\u0730\u0712\u0742\u0717\u072a\u073a\u071d\u0722\u0730\u0722",
+        "tense": "participle",
+        "kaylo": "eshtaph\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 341,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/341.json"
+        },
+        "stem": "\u0712\u0717\u072a",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "pride oneself",
+                "glorify"
+            ]
+        },
+        "word": {
+            "id": 2353,
+            "uri": "https://sedra.bethmardutho.org/api/word/2353.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u0718\u0710\u071d\u071b\u0718\u072c\u0710",
+        "western": "\u0726\u073d\u0718\u0710\u073a\u071d\u071b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8227,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8227.json"
+        },
+        "stem": "\u0726\u0718\u0710\u071d\u071b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0639\u0631"
+            ],
+            "eng": [
+                "poetry."
+            ],
+            "fre": [
+                "po\u00e9sie"
+            ]
+        },
+        "word": {
+            "id": 37614,
+            "uri": "https://sedra.bethmardutho.org/api/word/37614.json"
+        }
+    }
+]

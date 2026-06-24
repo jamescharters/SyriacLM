@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u0720\u071a\u0710",
+        "western": "\u0721\u0730\u0720\u0733\u071a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1775,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1775.json"
+        },
+        "stem": "\u0721\u0720\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u062d\u0627\u0631"
+            ],
+            "eng": [
+                "sailor",
+                "sailor, mariner."
+            ],
+            "fre": [
+                "marin"
+            ]
+        },
+        "word": {
+            "id": 22808,
+            "uri": "https://sedra.bethmardutho.org/api/word/22808.json"
+        }
+    }
+]

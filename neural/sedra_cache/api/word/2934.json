@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0723\u072a\u071d",
+        "western": "\u0720\u0712\u0742\u0736\u0723\u072a\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 422,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/422.json"
+        },
+        "stem": "\u0712\u0723\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0633\u062f"
+            ],
+            "eng": [
+                "Kth. meat.",
+                "pulp (of fruit)",
+                "flesh",
+                "flesh"
+            ],
+            "fre": [
+                "corps"
+            ]
+        },
+        "word": {
+            "id": 2934,
+            "uri": "https://sedra.bethmardutho.org/api/word/2934.json"
+        }
+    }
+]

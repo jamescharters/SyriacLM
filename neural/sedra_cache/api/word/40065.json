@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0725\u072a\u0726\u0720",
+        "western": "\u0725\u0730\u072a\u0726\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14658,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14658.json"
+        },
+        "stem": "\u0725\u072a\u0726\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0641"
+            ],
+            "eng": [
+                "to roll over.",
+                "IVa to envelop",
+                "IVp to grow dark, to cloud over"
+            ],
+            "fre": [
+                "envelopper"
+            ]
+        },
+        "word": {
+            "id": 40065,
+            "uri": "https://sedra.bethmardutho.org/api/word/40065.json"
+        }
+    }
+]

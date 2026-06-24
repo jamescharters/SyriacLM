@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0728\u0720\u071d\u0712\u0710",
+        "western": "\u0728\u0720\u073a\u071d\u0712\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2696,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2696.json"
+        },
+        "stem": "\u0728\u0720\u071d\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0644\u0628",
+                "\u0625\u0634\u0627\u0631\u0629 \u0627\u0644\u0635\u0644\u064a\u0628",
+                "\u0635\u0644\u064a\u0628"
+            ],
+            "eng": [
+                "cross",
+                "cross",
+                "sign of the cross."
+            ],
+            "fre": [
+                "croix",
+                "signe de croix",
+                "crucifixion"
+            ]
+        },
+        "word": {
+            "id": 17538,
+            "uri": "https://sedra.bethmardutho.org/api/word/17538.json"
+        }
+    }
+]

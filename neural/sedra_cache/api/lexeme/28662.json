@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 28662,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28662.json"
+        },
+        "syriac": "\u0710\u0719\u0713\u0719\u0718\u072a\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f00\u03b6\u03cc\u03b3\u03b7\u03c1\u03bf\u03bd"
+            ],
+            "English": [
+                "azogiros (a plant from Crete)"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 49070,
+                "uri": "https://sedra.bethmardutho.org/api/word/49070.json"
+            },
+            {
+                "id": 55036,
+                "uri": "https://sedra.bethmardutho.org/api/word/55036.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

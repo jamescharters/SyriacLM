@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28548,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28548.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0718\u0719\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f44\u03c1\u03c5\u03b6\u03b1"
+            ],
+            "English": [
+                "rice, Oryza sativa"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f44\u03c1\u03c5\u03b6\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 48989,
+                "uri": "https://sedra.bethmardutho.org/api/word/48989.json"
+            },
+            {
+                "id": 54922,
+                "uri": "https://sedra.bethmardutho.org/api/word/54922.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

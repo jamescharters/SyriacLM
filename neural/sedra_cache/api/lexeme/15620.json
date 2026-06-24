@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15620,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15620.json"
+        },
+        "syriac": "\u0719\u0720\u0726",
+        "glosses": {
+            "English": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0719\u0720\u073d\u0718\u0726</span>, Ia to adorn."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2855,
+            "uri": "https://sedra.bethmardutho.org/api/root/2855.json"
+        },
+        "words": [
+            {
+                "id": 41833,
+                "uri": "https://sedra.bethmardutho.org/api/word/41833.json"
+            },
+            {
+                "id": 41480,
+                "uri": "https://sedra.bethmardutho.org/api/word/41480.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0712\u0713",
+        "western": "\u0722\u0712\u0730\u0713",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15452,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15452.json"
+        },
+        "stem": "\u0722\u0712\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp to be divided (of stream)",
+                "to go away",
+                "IIIa to spread forth.",
+                "Ia to spring up, emerge, germinate"
+            ]
+        },
+        "word": {
+            "id": 40132,
+            "uri": "https://sedra.bethmardutho.org/api/word/40132.json"
+        }
+    }
+]

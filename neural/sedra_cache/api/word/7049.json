@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u071a\u0720",
+        "western": "\u071a\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1031,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1031.json"
+        },
+        "stem": "\u071a\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0644\u062c",
+                "\u0646\u0642\u0636"
+            ],
+            "eng": [
+                "sap",
+                "cut asunder"
+            ],
+            "fre": [
+                "couper en deux",
+                "saper"
+            ]
+        },
+        "word": {
+            "id": 7049,
+            "uri": "https://sedra.bethmardutho.org/api/word/7049.json"
+        }
+    }
+]

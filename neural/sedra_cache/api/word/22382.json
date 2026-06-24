@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u072c\u072c\u0718\u071d",
+        "western": "\u0710\u0736\u072c\u0741\u072c\u0741\u0718\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3368,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3368.json"
+        },
+        "stem": "\u072c\u0718\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to make contrite.",
+                "Ia to be sorry, to feel remorse",
+                "Ip to regret",
+                "repent",
+                "IIa to move to contrition"
+            ]
+        },
+        "word": {
+            "id": 22382,
+            "uri": "https://sedra.bethmardutho.org/api/word/22382.json"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0712\u0720\u071a\u0715",
+        "western": "\u0712\u0720\u071a\u0715",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15137,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15137.json"
+        },
+        "stem": "\u0712\u0720\u071a\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0712\u0730\u0720\u071a\u0730\u0715</span> to be singular."
+            ]
+        },
+        "word": {
+            "id": 40655,
+            "uri": "https://sedra.bethmardutho.org/api/word/40655.json"
+        }
+    }
+]

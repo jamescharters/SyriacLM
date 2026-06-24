@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 2961,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2961.json"
+        },
+        "syriac": "\u072a\u0717\u071b\u072a\u0710",
+        "glosses": {
+            "English": [
+                "orator",
+                "rhetorician",
+                "barrister"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1fe5\u1f75\u03c4\u03c9\u03c1"
+            ]
+        },
+        "root": {
+            "id": 1737,
+            "uri": "https://sedra.bethmardutho.org/api/root/1737.json"
+        },
+        "words": [
+            {
+                "id": 19315,
+                "uri": "https://sedra.bethmardutho.org/api/word/19315.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

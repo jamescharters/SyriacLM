@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071d\u072c\u0722\u071d\u0710",
+        "western": "\u071d\u0733\u072c\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13478,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13478.json"
+        },
+        "stem": "\u071d\u072c\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0648\u0647\u0631\u064a"
+            ],
+            "eng": [
+                "essential."
+            ],
+            "fre": [
+                "essentiel"
+            ]
+        },
+        "word": {
+            "id": 38315,
+            "uri": "https://sedra.bethmardutho.org/api/word/38315.json"
+        }
+    }
+]

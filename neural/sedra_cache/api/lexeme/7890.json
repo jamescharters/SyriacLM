@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 7890,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7890.json"
+        },
+        "syriac": "\u0728\u0721\u072a\u0710",
+        "glosses": {
+            "English": [
+                "strangury; stone in the bladder",
+                ", <span class=\"selectableFont\">\u0728\u0721\u0733\u072a\u072c\u0733\u0710</span> retention of urine."
+            ],
+            "Arabic": [
+                "\u0627\u062d\u062a\u0628\u0627\u0633 \u0627\u0644\u0628\u0648\u0644"
+            ],
+            "French": [
+                "r\u00e9tention d&#39;urine"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 44653,
+                "uri": "https://sedra.bethmardutho.org/api/word/44653.json"
+            },
+            {
+                "id": 34036,
+                "uri": "https://sedra.bethmardutho.org/api/word/34036.json"
+            }
+        ]
+    }
+]

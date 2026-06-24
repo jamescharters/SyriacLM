@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0722\u072b\u0726\u0718\u0715",
+        "western": "\u0722\u0736\u072b\u0726\u073d\u0718\u0715",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15639,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15639.json"
+        },
+        "stem": "\u072b\u0726\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0642\u0628, \u0634\u0643",
+                "\u063a\u0631\u0632"
+            ],
+            "eng": [
+                "Ip, IIp.",
+                "Ia to pierce, transfix"
+            ],
+            "fre": [
+                "percer, transpercer",
+                "fixer"
+            ]
+        },
+        "word": {
+            "id": 41631,
+            "uri": "https://sedra.bethmardutho.org/api/word/41631.json"
+        }
+    }
+]

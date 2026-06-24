@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071f\u071d\u072b",
+        "western": "\u071f\u0730\u071d\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15656,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15656.json"
+        },
+        "stem": "\u071f\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa <span class=\"selectableFont\">\u071f\u0730\u071d\u0736\u072b</span> to quieten down.",
+                "Ia to stay quiet"
+            ]
+        },
+        "word": {
+            "id": 39870,
+            "uri": "https://sedra.bethmardutho.org/api/word/39870.json"
+        }
+    }
+]

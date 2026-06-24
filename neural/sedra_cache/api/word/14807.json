@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0715\u0725\u0712\u0715\u0710",
+        "western": "\u0715\u0741\u0725\u0730\u0712\u0742\u0715\u0741\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2222,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2222.json"
+        },
+        "stem": "\u0725\u0712\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "servant",
+                "servant, slave."
+            ]
+        },
+        "word": {
+            "id": 14807,
+            "uri": "https://sedra.bethmardutho.org/api/word/14807.json"
+        }
+    }
+]

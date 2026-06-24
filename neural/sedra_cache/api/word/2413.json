@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0712\u0718\u072a",
+        "western": "\u0712\u0741\u073d\u0718\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 351,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/351.json"
+        },
+        "stem": "\u0712\u0718\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be uncultivated"
+            ]
+        },
+        "word": {
+            "id": 2413,
+            "uri": "https://sedra.bethmardutho.org/api/word/2413.json"
+        }
+    }
+]

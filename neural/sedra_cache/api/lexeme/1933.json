@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1933,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1933.json"
+        },
+        "syriac": "\u0722\u0718\u0721\u0726\u0710",
+        "glosses": {
+            "English": [
+                "Nymphas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1152,
+            "uri": "https://sedra.bethmardutho.org/api/root/1152.json"
+        },
+        "words": [
+            {
+                "id": 12660,
+                "uri": "https://sedra.bethmardutho.org/api/word/12660.json"
+            },
+            {
+                "id": 12661,
+                "uri": "https://sedra.bethmardutho.org/api/word/12661.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15260,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15260.json"
+        },
+        "syriac": "\u0726\u071b\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0645\u0646 (\u0645\u0636)"
+            ],
+            "French": [
+                "engraisser"
+            ],
+            "English": [
+                "fatten",
+                "IIa to fatten",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2616,
+            "uri": "https://sedra.bethmardutho.org/api/root/2616.json"
+        },
+        "words": [
+            {
+                "id": 16290,
+                "uri": "https://sedra.bethmardutho.org/api/word/16290.json"
+            },
+            {
+                "id": 41578,
+                "uri": "https://sedra.bethmardutho.org/api/word/41578.json"
+            },
+            {
+                "id": 40341,
+                "uri": "https://sedra.bethmardutho.org/api/word/40341.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0720\u0729\u0710",
+        "western": "\u0723\u0736\u0720\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6705,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6705.json"
+        },
+        "stem": "\u0723\u0720\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0644\u0642"
+            ],
+            "eng": [
+                "beetroot."
+            ],
+            "fre": [
+                "bette"
+            ]
+        },
+        "word": {
+            "id": 31151,
+            "uri": "https://sedra.bethmardutho.org/api/word/31151.json"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u071b\u0718\u0726\u0722\u0715\u071d\u0718\u0722",
+        "western": "\u071b\u073d\u0718\u0726\u0741\u0730\u0722\u0715\u0742\u073a\u071d\u0733\u0718\u0722",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1215,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1215.json"
+        },
+        "stem": "\u071b\u0718\u0726\u0722\u0715\u071d\u0718\u0722",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "topaz"
+            ]
+        },
+        "word": {
+            "id": 8020,
+            "uri": "https://sedra.bethmardutho.org/api/word/8020.json"
+        }
+    }
+]

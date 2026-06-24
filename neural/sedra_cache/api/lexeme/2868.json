@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2868,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2868.json"
+        },
+        "syriac": "\u0729\u072a",
+        "glosses": {
+            "English": [
+                "to cool.",
+                "IIp",
+                "cold",
+                "Ia to grow cold, cool",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0729\u0730\u072a</span> to cool."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1701,
+            "uri": "https://sedra.bethmardutho.org/api/root/1701.json"
+        },
+        "words": [
+            {
+                "id": 18564,
+                "uri": "https://sedra.bethmardutho.org/api/word/18564.json"
+            },
+            {
+                "id": 42394,
+                "uri": "https://sedra.bethmardutho.org/api/word/42394.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0725",
+        "western": "\u0710\u0730\u072c\u0730\u0725",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14850,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14850.json"
+        },
+        "stem": "\u0722\u072c\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp to be made heavy",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072c\u0730\u0725</span> to incline towards.",
+                "to incline towards.",
+                "IIa to give the preponderance",
+                "to be made to depend",
+                "to incline the scales",
+                "Ia to outweigh"
+            ]
+        },
+        "word": {
+            "id": 39884,
+            "uri": "https://sedra.bethmardutho.org/api/word/39884.json"
+        }
+    }
+]

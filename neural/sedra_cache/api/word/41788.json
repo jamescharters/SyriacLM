@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u072a\u0717\u0710",
+        "western": "\u0722\u0736\u072a\u0717\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15614,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15614.json"
+        },
+        "stem": "\u072a\u0717\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0627\u0642\u0628, \u062a\u0631\u0635\u062f",
+                "\u0643\u0645\u0646"
+            ],
+            "eng": [
+                "Ia to spy out",
+                "to watch out for, to observe",
+                "to lay snares for."
+            ],
+            "fre": [
+                "observer, guetter",
+                "tendre des emb\u00fbches"
+            ]
+        },
+        "word": {
+            "id": 41788,
+            "uri": "https://sedra.bethmardutho.org/api/word/41788.json"
+        }
+    }
+]

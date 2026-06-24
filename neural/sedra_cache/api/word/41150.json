@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071f\u072a",
+        "western": "\u071f\u0733\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15548,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15548.json"
+        },
+        "stem": "\u071f\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to be narrow",
+                "to be unpleasant."
+            ]
+        },
+        "word": {
+            "id": 41150,
+            "uri": "https://sedra.bethmardutho.org/api/word/41150.json"
+        }
+    }
+]

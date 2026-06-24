@@ -1,0 +1,65 @@
+[
+    {
+        "lexeme": {
+            "id": 1939,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1939.json"
+        },
+        "syriac": "\u0722\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0627\u0631"
+            ],
+            "French": [
+                "feu"
+            ],
+            "English": [
+                "fire",
+                "fire."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1157,
+            "uri": "https://sedra.bethmardutho.org/api/root/1157.json"
+        },
+        "words": [
+            {
+                "id": 12689,
+                "uri": "https://sedra.bethmardutho.org/api/word/12689.json"
+            },
+            {
+                "id": 12687,
+                "uri": "https://sedra.bethmardutho.org/api/word/12687.json"
+            },
+            {
+                "id": 12686,
+                "uri": "https://sedra.bethmardutho.org/api/word/12686.json"
+            },
+            {
+                "id": 12685,
+                "uri": "https://sedra.bethmardutho.org/api/word/12685.json"
+            },
+            {
+                "id": 12684,
+                "uri": "https://sedra.bethmardutho.org/api/word/12684.json"
+            },
+            {
+                "id": 12683,
+                "uri": "https://sedra.bethmardutho.org/api/word/12683.json"
+            },
+            {
+                "id": 12691,
+                "uri": "https://sedra.bethmardutho.org/api/word/12691.json"
+            },
+            {
+                "id": 12690,
+                "uri": "https://sedra.bethmardutho.org/api/word/12690.json"
+            },
+            {
+                "id": 12688,
+                "uri": "https://sedra.bethmardutho.org/api/word/12688.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

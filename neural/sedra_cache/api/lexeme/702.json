@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 702,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/702.json"
+        },
+        "syriac": "\u0715\u071f\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "purity",
+                "purity."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 444,
+            "uri": "https://sedra.bethmardutho.org/api/root/444.json"
+        },
+        "words": [
+            {
+                "id": 4567,
+                "uri": "https://sedra.bethmardutho.org/api/word/4567.json"
+            },
+            {
+                "id": 4566,
+                "uri": "https://sedra.bethmardutho.org/api/word/4566.json"
+            },
+            {
+                "id": 4564,
+                "uri": "https://sedra.bethmardutho.org/api/word/4564.json"
+            },
+            {
+                "id": 4563,
+                "uri": "https://sedra.bethmardutho.org/api/word/4563.json"
+            },
+            {
+                "id": 4565,
+                "uri": "https://sedra.bethmardutho.org/api/word/4565.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1425,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1425.json"
+        },
+        "syriac": "\u071d\u072a\u071f",
+        "glosses": {
+            "English": [
+                "long",
+                "Ia to be long",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u072a\u0736\u071f</span> to lengthen."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 848,
+            "uri": "https://sedra.bethmardutho.org/api/root/848.json"
+        },
+        "words": [
+            {
+                "id": 9452,
+                "uri": "https://sedra.bethmardutho.org/api/word/9452.json"
+            },
+            {
+                "id": 9455,
+                "uri": "https://sedra.bethmardutho.org/api/word/9455.json"
+            },
+            {
+                "id": 9454,
+                "uri": "https://sedra.bethmardutho.org/api/word/9454.json"
+            },
+            {
+                "id": 9453,
+                "uri": "https://sedra.bethmardutho.org/api/word/9453.json"
+            },
+            {
+                "id": 9456,
+                "uri": "https://sedra.bethmardutho.org/api/word/9456.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 28759,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28759.json"
+        },
+        "syriac": "\u0710\u071d\u0715\u0710\u071b\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f51\u03b4\u03b1\u03c4\u03af\u03c2"
+            ],
+            "English": [
+                "watery vesicle, hydatid,",
+                "a disease in the liver",
+                "a gem"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f51\u03b4\u03b1\u03c4\u03af\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49269,
+                "uri": "https://sedra.bethmardutho.org/api/word/49269.json"
+            },
+            {
+                "id": 55133,
+                "uri": "https://sedra.bethmardutho.org/api/word/55133.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

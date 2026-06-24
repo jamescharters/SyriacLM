@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u0710\u072a\u071d\u0718\u0722",
+        "western": "\u0710\u0718\u073d\u072a\u0710\u072a\u071d\u0718\u0733\u0722",
+        "lexeme": {
+            "id": 28525,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28525.json"
+        },
+        "stem": "\u0710\u0718\u072a\u0710\u072a\u071d\u0718\u0722",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "deacon's stole",
+                "a napkin, handkerchief,"
+            ],
+            "grc": [
+                "\u1f60\u03c1\u03ac\u03c1\u03b9\u03bf\u03bd"
+            ],
+            "lat": [
+                "orarium, kerchief, scarf"
+            ]
+        },
+        "word": {
+            "id": 54899,
+            "uri": "https://sedra.bethmardutho.org/api/word/54899.json"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0719\u072a\u071d\u0710",
+        "western": "\u0719\u072a\u073a\u071d\u0710",
+        "lexeme": {
+            "id": 19004,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19004.json"
+        },
+        "stem": "\u0719\u072a\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "brave, valiant, strenuous"
+            ],
+            "syr": [
+                "ready, swift, diligent"
+            ]
+        },
+        "word": {
+            "id": 45378,
+            "uri": "https://sedra.bethmardutho.org/api/word/45378.json"
+        }
+    }
+]

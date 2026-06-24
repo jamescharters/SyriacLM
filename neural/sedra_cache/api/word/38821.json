@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0718\u072c\u0710",
+        "western": "\u0729\u073a\u072a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12033,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12033.json"
+        },
+        "stem": "\u0729\u072a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0645\u0639 \u0639\u0633\u0644\u064a"
+            ],
+            "eng": [
+                "wax."
+            ],
+            "fre": [
+                "cire"
+            ]
+        },
+        "word": {
+            "id": 38821,
+            "uri": "https://sedra.bethmardutho.org/api/word/38821.json"
+        }
+    }
+]

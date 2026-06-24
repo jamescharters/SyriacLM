@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0721\u0717\u071d\u0721\u0722\u072c\u0710",
+        "western": "\u0721\u0717\u0730\u071d\u0721\u0730\u0722\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 167,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/167.json"
+        },
+        "stem": "\u0721\u0717\u071d\u0721\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0635\u064a"
+            ],
+            "eng": [
+                "eunuch",
+                "Christian.",
+                "faithful",
+                "believing",
+                "believer",
+                "believer, faithful, trustworthy",
+                "eunuch"
+            ],
+            "fre": [
+                "ennuque"
+            ]
+        },
+        "word": {
+            "id": 1230,
+            "uri": "https://sedra.bethmardutho.org/api/word/1230.json"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0710\u072b\u071f\u071a\u071d\u0717\u071d",
+        "western": "\u0710\u0736\u072b\u071f\u0741\u071a\u0733\u071d\u0717\u0331\u071d",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 15360,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15360.json"
+        },
+        "stem": "\u072b\u071f\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be able",
+                "Ia to find, to discover",
+                "to be discovered, detected.",
+                "be able",
+                "happen",
+                "find",
+                "Ip to be present, to happen"
+            ]
+        },
+        "word": {
+            "id": 20909,
+            "uri": "https://sedra.bethmardutho.org/api/word/20909.json"
+        }
+    }
+]

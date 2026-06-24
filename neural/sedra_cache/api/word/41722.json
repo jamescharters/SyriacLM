@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u0713\u071a\u0718\u072a",
+        "western": "\u0722\u0736\u0713\u071a\u073d\u0718\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15609,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15609.json"
+        },
+        "stem": "\u0713\u071a\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0643"
+            ],
+            "eng": [
+                "to discharge (pus)",
+                "Ia to wipe away."
+            ],
+            "fre": [
+                "racler"
+            ]
+        },
+        "word": {
+            "id": 41722,
+            "uri": "https://sedra.bethmardutho.org/api/word/41722.json"
+        }
+    }
+]

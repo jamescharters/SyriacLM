@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072a\u0725\u071d\u0710",
+        "western": "\u072a\u0733\u0725\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3046,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3046.json"
+        },
+        "stem": "\u072a\u0725\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "shepherd",
+                "pastor",
+                "shepherd, pastor."
+            ]
+        },
+        "word": {
+            "id": 19857,
+            "uri": "https://sedra.bethmardutho.org/api/word/19857.json"
+        }
+    }
+]

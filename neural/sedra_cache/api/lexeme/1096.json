@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 1096,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1096.json"
+        },
+        "syriac": "\u071a\u0722\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u062b\u0646\u064a",
+                "\u0643\u0627\u0641\u0631"
+            ],
+            "French": [
+                "Pa\u00efen",
+                "Impie"
+            ],
+            "English": [
+                "godless",
+                "Gentile",
+                "heathen",
+                "foreigner",
+                "profane",
+                "heathen, godless, profane, pagan."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 659,
+            "uri": "https://sedra.bethmardutho.org/api/root/659.json"
+        },
+        "words": [
+            {
+                "id": 7295,
+                "uri": "https://sedra.bethmardutho.org/api/word/7295.json"
+            },
+            {
+                "id": 7291,
+                "uri": "https://sedra.bethmardutho.org/api/word/7291.json"
+            },
+            {
+                "id": 7290,
+                "uri": "https://sedra.bethmardutho.org/api/word/7290.json"
+            },
+            {
+                "id": 7294,
+                "uri": "https://sedra.bethmardutho.org/api/word/7294.json"
+            },
+            {
+                "id": 7293,
+                "uri": "https://sedra.bethmardutho.org/api/word/7293.json"
+            },
+            {
+                "id": 7292,
+                "uri": "https://sedra.bethmardutho.org/api/word/7292.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

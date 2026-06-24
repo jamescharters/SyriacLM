@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 14895,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14895.json"
+        },
+        "syriac": "\u0721\u071a\u072b\u0720",
+        "glosses": {
+            "English": [
+                "IVp to be storm-tossed, shipwrecked",
+                "to be rough (of sea)",
+                "IVa to agitate",
+                "to fluctuate."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3226,
+            "uri": "https://sedra.bethmardutho.org/api/root/3226.json"
+        },
+        "words": [
+            {
+                "id": 40590,
+                "uri": "https://sedra.bethmardutho.org/api/word/40590.json"
+            },
+            {
+                "id": 40078,
+                "uri": "https://sedra.bethmardutho.org/api/word/40078.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

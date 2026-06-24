@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15637,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15637.json"
+        },
+        "syriac": "\u0725\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0642\u0648\u0649"
+            ],
+            "French": [
+                "\u00eatre r\u00e9confort\u00e9"
+            ],
+            "English": [
+                "Ia to revive."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2591,
+            "uri": "https://sedra.bethmardutho.org/api/root/2591.json"
+        },
+        "words": [
+            {
+                "id": 41614,
+                "uri": "https://sedra.bethmardutho.org/api/word/41614.json"
+            },
+            {
+                "id": 40290,
+                "uri": "https://sedra.bethmardutho.org/api/word/40290.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u071b\u0725\u0721\u0722\u0710",
+        "western": "\u071b\u0730\u0725\u0721\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10471,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10471.json"
+        },
+        "stem": "\u071b\u0725\u0721\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0627\u0637\u0646, \u062d\u0643\u064a\u0645",
+                "\u062d\u0644\u0648",
+                "\u0639\u0630\u0628"
+            ],
+            "eng": [
+                "tasteful",
+                "sensible, discreet, prudent.",
+                "agreeable"
+            ],
+            "fre": [
+                "agr\u00e9able",
+                "savoureux",
+                "prudent, sage"
+            ]
+        },
+        "word": {
+            "id": 38467,
+            "uri": "https://sedra.bethmardutho.org/api/word/38467.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15595,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15595.json"
+        },
+        "syriac": "\u0713\u0725\u0728",
+        "glosses": {
+            "English": [
+                "IIIa to fill with loathing.",
+                "Ia to loathe, abominate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2344,
+            "uri": "https://sedra.bethmardutho.org/api/root/2344.json"
+        },
+        "words": [
+            {
+                "id": 41696,
+                "uri": "https://sedra.bethmardutho.org/api/word/41696.json"
+            },
+            {
+                "id": 41237,
+                "uri": "https://sedra.bethmardutho.org/api/word/41237.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

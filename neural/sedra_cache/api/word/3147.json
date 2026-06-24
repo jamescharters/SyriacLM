@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0729\u072a\u0710",
+        "western": "\u0720\u0712\u0742\u0730\u0729\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 452,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/452.json"
+        },
+        "stem": "\u0712\u0729\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u064a\u0639 (\u062e\u0635\u0648\u0635\u0627\u064e \u0644\u0644\u0628\u0642\u0631)"
+            ],
+            "eng": [
+                "herd (of oxen, sheep etc.).",
+                "herd of cattle"
+            ],
+            "fre": [
+                "troupeau (ord. de b\u0153ufs)"
+            ]
+        },
+        "word": {
+            "id": 3147,
+            "uri": "https://sedra.bethmardutho.org/api/word/3147.json"
+        }
+    }
+]

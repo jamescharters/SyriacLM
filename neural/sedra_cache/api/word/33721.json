@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0723\u0720\u0710",
+        "western": "\u0723\u0730\u072a\u0723\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11891,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11891.json"
+        },
+        "stem": "\u0723\u072a\u0723\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639\u0629 \u0646\u0633\u062c"
+            ],
+            "eng": [
+                "piece of material."
+            ],
+            "fre": [
+                "morceau (d&#39;\u00e9ttofe)"
+            ]
+        },
+        "word": {
+            "id": 33721,
+            "uri": "https://sedra.bethmardutho.org/api/word/33721.json"
+        }
+    }
+]

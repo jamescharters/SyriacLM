@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3196,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3196.json"
+        },
+        "syriac": "\u0721\u072b\u071f\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0628\u064a\u062d, \u0634\u0646\u064a\u0639"
+            ],
+            "French": [
+                "honteux, hideux"
+            ],
+            "English": [
+                "shameful",
+                "disgraceful"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1864,
+            "uri": "https://sedra.bethmardutho.org/api/root/1864.json"
+        },
+        "words": [
+            {
+                "id": 21002,
+                "uri": "https://sedra.bethmardutho.org/api/word/21002.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

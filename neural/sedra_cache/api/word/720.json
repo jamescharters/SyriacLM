@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0720\u0710\u071d\u072b\u071d",
+        "western": "\u0720\u073a\u0710\u071d\u072b\u0730\u071d",
+        "lexeme": {
+            "id": 101,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/101.json"
+        },
+        "stem": "\u0710\u071d\u072b\u071d",
+        "category": "proper noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Jesse"
+            ]
+        },
+        "word": {
+            "id": 720,
+            "uri": "https://sedra.bethmardutho.org/api/word/720.json"
+        }
+    }
+]

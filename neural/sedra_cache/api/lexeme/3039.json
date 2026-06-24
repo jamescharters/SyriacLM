@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 3039,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3039.json"
+        },
+        "syriac": "\u072a\u0723\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0634"
+            ],
+            "French": [
+                "aspersion"
+            ],
+            "English": [
+                "sprinkling",
+                "aspersion",
+                "ritual sprinkling, lustration."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1771,
+            "uri": "https://sedra.bethmardutho.org/api/root/1771.json"
+        },
+        "words": [
+            {
+                "id": 19825,
+                "uri": "https://sedra.bethmardutho.org/api/word/19825.json"
+            },
+            {
+                "id": 19824,
+                "uri": "https://sedra.bethmardutho.org/api/word/19824.json"
+            },
+            {
+                "id": 19827,
+                "uri": "https://sedra.bethmardutho.org/api/word/19827.json"
+            },
+            {
+                "id": 19826,
+                "uri": "https://sedra.bethmardutho.org/api/word/19826.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

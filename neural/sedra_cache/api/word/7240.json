@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0718\u0721\u072c\u071a\u0721\u072c\u071d\u0722",
+        "western": "\u0718\u0721\u0736\u072c\u0742\u071a\u0730\u0721\u072c\u0742\u073a\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15779,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15779.json"
+        },
+        "stem": "\u071a\u0721\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u063a\u062a\u0627\u0638"
+            ],
+            "eng": [
+                "Ia to burn with rage",
+                "IIIa to make angry, to vex.",
+                "grow angry",
+                "IIa to enrage, provoke to anger",
+                "IIp to rage, to be furious"
+            ],
+            "fre": [
+                "se f\u00e2cher"
+            ]
+        },
+        "word": {
+            "id": 7240,
+            "uri": "https://sedra.bethmardutho.org/api/word/7240.json"
+        }
+    }
+]

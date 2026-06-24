@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072c\u072b\u0726\u071d\u071f\u0710",
+        "western": "\u072c\u0730\u072b\u0726\u073a\u071d\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6914,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6914.json"
+        },
+        "stem": "\u072c\u072b\u0726\u071d\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0642\u0645\u0635"
+            ],
+            "eng": [
+                "transmigration (of souls).",
+                "transfusion"
+            ],
+            "fre": [
+                "m\u00e9tempsycose"
+            ]
+        },
+        "word": {
+            "id": 35661,
+            "uri": "https://sedra.bethmardutho.org/api/word/35661.json"
+        }
+    }
+]

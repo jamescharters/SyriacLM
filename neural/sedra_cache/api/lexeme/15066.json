@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15066,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15066.json"
+        },
+        "syriac": "\u071b\u0720\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0623\u062e\u0631"
+            ],
+            "French": [
+                "tarder"
+            ],
+            "English": [
+                "IIa to be slow, delay."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2459,
+            "uri": "https://sedra.bethmardutho.org/api/root/2459.json"
+        },
+        "words": [
+            {
+                "id": 40614,
+                "uri": "https://sedra.bethmardutho.org/api/word/40614.json"
+            },
+            {
+                "id": 40408,
+                "uri": "https://sedra.bethmardutho.org/api/word/40408.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

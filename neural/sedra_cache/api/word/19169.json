@@ -1,0 +1,51 @@
+[
+    {
+        "syriac": "\u072a\u0713\u072b\u0718",
+        "western": "\u072a\u0713\u0742\u0730\u072b\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2938,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2938.json"
+        },
+        "stem": "\u072a\u0713\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0636\u062c, \u0627\u0631\u062a\u062c",
+                "\u0623\u062d\u0633 \u0628\u0640 , \u0641\u0647\u0645",
+                "\u0647\u0627\u062c"
+            ],
+            "eng": [
+                "IIa to think up, devise",
+                "perceive",
+                "feel",
+                "rage",
+                "know",
+                "Ia to rage",
+                "Ip to be in a commotion",
+                "to feel, perceive",
+                "IIIa to feel, perceive, be aware of",
+                "to make aware."
+            ],
+            "fre": [
+                "\u00eatre en tumulte, s&#39;agiter",
+                "sentir, comprendre",
+                "\u00a0",
+                "\u00eatre excit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 19169,
+            "uri": "https://sedra.bethmardutho.org/api/word/19169.json"
+        }
+    }
+]

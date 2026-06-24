@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 510,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/510.json"
+        },
+        "syriac": "\u0713\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "Gad"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 341,
+            "uri": "https://sedra.bethmardutho.org/api/root/341.json"
+        },
+        "words": [
+            {
+                "id": 3486,
+                "uri": "https://sedra.bethmardutho.org/api/word/3486.json"
+            },
+            {
+                "id": 3487,
+                "uri": "https://sedra.bethmardutho.org/api/word/3487.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

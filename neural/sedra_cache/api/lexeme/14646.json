@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14646,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14646.json"
+        },
+        "syriac": "\u0726\u0720\u0717\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u062f\u062f, \u0634\u062a\u062a",
+                "\u0641\u0631\u0642 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "disperser, dissiper",
+                "s\u00e9parer",
+                "\u00a0"
+            ],
+            "English": [
+                "to disperse",
+                "IVa to scatter, to squander",
+                "to be distracted.",
+                "IVp to be squandered"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2864,
+            "uri": "https://sedra.bethmardutho.org/api/root/2864.json"
+        },
+        "words": [
+            {
+                "id": 41247,
+                "uri": "https://sedra.bethmardutho.org/api/word/41247.json"
+            },
+            {
+                "id": 40640,
+                "uri": "https://sedra.bethmardutho.org/api/word/40640.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

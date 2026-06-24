@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15526,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15526.json"
+        },
+        "syriac": "\u072a\u0713\u0710",
+        "glosses": {
+            "English": [
+                "IIa to moisten, soften",
+                "IIp, IIIa.",
+                "to grow green (of plants)",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072a\u0713\u0736\u0710</span>, Ia to be moist"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2381,
+            "uri": "https://sedra.bethmardutho.org/api/root/2381.json"
+        },
+        "words": [
+            {
+                "id": 41945,
+                "uri": "https://sedra.bethmardutho.org/api/word/41945.json"
+            },
+            {
+                "id": 40938,
+                "uri": "https://sedra.bethmardutho.org/api/word/40938.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

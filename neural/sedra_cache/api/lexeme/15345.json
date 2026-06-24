@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15345,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15345.json"
+        },
+        "syriac": "\u072a\u0719",
+        "glosses": {
+            "English": [
+                "to be informed secretly",
+                "IIp to be instructed in the Mysteries",
+                "to be signified mystically",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0736\u0710\u072a\u0736\u0719</span> to be initiated",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072a\u0736\u0719</span> to initiate, to instruct mystically.",
+                "IIa <span class=\"selectableFont\">\u072a\u0730\u0719\u0736\u0719</span> to signify mystically"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2888,
+            "uri": "https://sedra.bethmardutho.org/api/root/2888.json"
+        },
+        "words": [
+            {
+                "id": 41492,
+                "uri": "https://sedra.bethmardutho.org/api/word/41492.json"
+            },
+            {
+                "id": 40124,
+                "uri": "https://sedra.bethmardutho.org/api/word/40124.json"
+            },
+            {
+                "id": 40091,
+                "uri": "https://sedra.bethmardutho.org/api/word/40091.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

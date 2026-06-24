@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 1177,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1177.json"
+        },
+        "syriac": "\u071a\u072b\u071a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0633\u062a\u0639\u0645\u0627\u0644"
+            ],
+            "French": [
+                "usage"
+            ],
+            "English": [
+                "use",
+                "usage",
+                "using",
+                "need",
+                "what is needed.",
+                "use, usage, utility"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 694,
+            "uri": "https://sedra.bethmardutho.org/api/root/694.json"
+        },
+        "words": [
+            {
+                "id": 7764,
+                "uri": "https://sedra.bethmardutho.org/api/word/7764.json"
+            },
+            {
+                "id": 7763,
+                "uri": "https://sedra.bethmardutho.org/api/word/7763.json"
+            },
+            {
+                "id": 7766,
+                "uri": "https://sedra.bethmardutho.org/api/word/7766.json"
+            },
+            {
+                "id": 7765,
+                "uri": "https://sedra.bethmardutho.org/api/word/7765.json"
+            },
+            {
+                "id": 7767,
+                "uri": "https://sedra.bethmardutho.org/api/word/7767.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

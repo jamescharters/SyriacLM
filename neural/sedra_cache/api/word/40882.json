@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u071a\u0713\u071d",
+        "western": "\u071a\u0730\u0713\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15191,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15191.json"
+        },
+        "stem": "\u071a\u0713\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u0641\u0644 \u0628\u0639\u064a\u062f"
+            ],
+            "eng": [
+                "IIIa to make a feast.",
+                "IIa to keep feast, celebrate",
+                "to hold a funeral feast"
+            ],
+            "fre": [
+                "c\u00e9l\u00e9brer une f\u00eate"
+            ]
+        },
+        "word": {
+            "id": 40882,
+            "uri": "https://sedra.bethmardutho.org/api/word/40882.json"
+        }
+    }
+]

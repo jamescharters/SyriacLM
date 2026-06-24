@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15131,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15131.json"
+        },
+        "syriac": "\u0729\u071d\u0719",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0647\u0644\u0644"
+            ],
+            "French": [
+                "exulter"
+            ],
+            "English": [
+                "IIa to exult."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2484,
+            "uri": "https://sedra.bethmardutho.org/api/root/2484.json"
+        },
+        "words": [
+            {
+                "id": 40037,
+                "uri": "https://sedra.bethmardutho.org/api/word/40037.json"
+            },
+            {
+                "id": 40106,
+                "uri": "https://sedra.bethmardutho.org/api/word/40106.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

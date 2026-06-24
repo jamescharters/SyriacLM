@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 2325,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2325.json"
+        },
+        "syriac": "\u0725\u0720\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0641\u064a\u0639 \u0627\u0644\u0634\u0623\u0646, \u0633\u0627\u0645",
+                "\u0641\u0627\u0626\u0642"
+            ],
+            "French": [
+                "\u00e9lev\u00e9, supr\u00eame, sublime",
+                "excellent"
+            ],
+            "English": [
+                "exalted, heavenly",
+                "Most High",
+                "upper",
+                "exalted",
+                "lofty",
+                "superior, upper",
+                "high."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1380,
+            "uri": "https://sedra.bethmardutho.org/api/root/1380.json"
+        },
+        "words": [
+            {
+                "id": 15505,
+                "uri": "https://sedra.bethmardutho.org/api/word/15505.json"
+            },
+            {
+                "id": 15508,
+                "uri": "https://sedra.bethmardutho.org/api/word/15508.json"
+            },
+            {
+                "id": 15507,
+                "uri": "https://sedra.bethmardutho.org/api/word/15507.json"
+            },
+            {
+                "id": 15506,
+                "uri": "https://sedra.bethmardutho.org/api/word/15506.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

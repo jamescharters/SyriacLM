@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 786,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/786.json"
+        },
+        "syriac": "\u0717\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "mind",
+                "reason",
+                "intelligence",
+                "intellect, mind, reason",
+                "sense, meaning."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 497,
+            "uri": "https://sedra.bethmardutho.org/api/root/497.json"
+        },
+        "words": [
+            {
+                "id": 5124,
+                "uri": "https://sedra.bethmardutho.org/api/word/5124.json"
+            },
+            {
+                "id": 5125,
+                "uri": "https://sedra.bethmardutho.org/api/word/5125.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

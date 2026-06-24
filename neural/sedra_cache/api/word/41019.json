@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0722\u0726",
+        "western": "\u0723\u0722\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15529,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15529.json"
+        },
+        "stem": "\u0723\u0722\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to gird up",
+                "to be prompt in action.",
+                "Ia to introduce, to inject"
+            ]
+        },
+        "word": {
+            "id": 41019,
+            "uri": "https://sedra.bethmardutho.org/api/word/41019.json"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0719\u071d\u0718\u0713",
+        "western": "\u0719\u073a\u071d\u0718\u0730\u0713",
+        "eastern": "\u0719\u071d\u073c\u0718\u0732\u0713",
+        "number": "singular",
+        "lexeme": {
+            "id": 14499,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14499.json"
+        },
+        "stem": "\u0719\u071d\u0718\u0713",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "mercury",
+                "quicksilver, mercury.",
+                "quicksilver"
+            ]
+        },
+        "word": {
+            "id": 33695,
+            "uri": "https://sedra.bethmardutho.org/api/word/33695.json"
+        }
+    }
+]

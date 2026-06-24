@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0712",
+        "western": "\u0723\u072a\u0730\u0712",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15420,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15420.json"
+        },
+        "stem": "\u0723\u072a\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0634\u0627\u062c\u0631",
+                "\u062a\u0645\u0631\u062f",
+                "\u0646\u0627\u0642\u0636"
+            ],
+            "eng": [
+                "Ia to talk idly",
+                "to rebel.",
+                "to boast",
+                "to gainsay, to deny"
+            ],
+            "fre": [
+                "contredire",
+                "se disputer",
+                "se rebeller"
+            ]
+        },
+        "word": {
+            "id": 40101,
+            "uri": "https://sedra.bethmardutho.org/api/word/40101.json"
+        }
+    }
+]

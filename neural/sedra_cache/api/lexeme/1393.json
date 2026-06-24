@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 1393,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1393.json"
+        },
+        "syriac": "\u071d\u0722\u0729",
+        "glosses": {
+            "English": [
+                "Ia to suck",
+                "IIa to give suck",
+                "suck",
+                "suck",
+                "Ip to be suckled",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071d\u0722\u0736\u0729</span> to suckle, give suck."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 829,
+            "uri": "https://sedra.bethmardutho.org/api/root/829.json"
+        },
+        "words": [
+            {
+                "id": 25529,
+                "uri": "https://sedra.bethmardutho.org/api/word/25529.json"
+            },
+            {
+                "id": 25528,
+                "uri": "https://sedra.bethmardutho.org/api/word/25528.json"
+            },
+            {
+                "id": 23705,
+                "uri": "https://sedra.bethmardutho.org/api/word/23705.json"
+            },
+            {
+                "id": 9253,
+                "uri": "https://sedra.bethmardutho.org/api/word/9253.json"
+            },
+            {
+                "id": 25531,
+                "uri": "https://sedra.bethmardutho.org/api/word/25531.json"
+            },
+            {
+                "id": 25530,
+                "uri": "https://sedra.bethmardutho.org/api/word/25530.json"
+            },
+            {
+                "id": 9255,
+                "uri": "https://sedra.bethmardutho.org/api/word/9255.json"
+            },
+            {
+                "id": 9254,
+                "uri": "https://sedra.bethmardutho.org/api/word/9254.json"
+            },
+            {
+                "id": 9251,
+                "uri": "https://sedra.bethmardutho.org/api/word/9251.json"
+            },
+            {
+                "id": 9252,
+                "uri": "https://sedra.bethmardutho.org/api/word/9252.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

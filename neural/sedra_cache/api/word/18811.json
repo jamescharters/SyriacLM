@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0712\u0729\u0718\u072a\u071d\u0710",
+        "western": "\u0712\u0741\u0729\u073d\u0718\u072a\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2884,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2884.json"
+        },
+        "stem": "\u0729\u072a\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062f\u064a\u0646\u0629, \u062d\u0635\u0646",
+                "\u062d\u0642\u0644, \u0631\u064a\u0641",
+                "\u0645\u0644\u0643",
+                "\u0642\u0631\u064a\u0629"
+            ],
+            "eng": [
+                "village",
+                "town.",
+                "village",
+                "hamlet, field",
+                "field"
+            ],
+            "fre": [
+                "ville, place forte",
+                "champ, campagne",
+                "possession",
+                "village"
+            ]
+        },
+        "word": {
+            "id": 18811,
+            "uri": "https://sedra.bethmardutho.org/api/word/18811.json"
+        }
+    }
+]

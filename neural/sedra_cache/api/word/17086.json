@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0726\u072a\u072b\u0710",
+        "western": "\u0726\u0741\u0730\u072a\u0733\u072b\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2620,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2620.json"
+        },
+        "stem": "\u0726\u072a\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u064a\u0627\u0644"
+            ],
+            "eng": [
+                "horseman",
+                "horseman, cavalier."
+            ],
+            "fre": [
+                "cavalier"
+            ]
+        },
+        "word": {
+            "id": 17086,
+            "uri": "https://sedra.bethmardutho.org/api/word/17086.json"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0712\u0728\u0720\u0718\u072c\u0722",
+        "western": "\u0712\u0741\u0730\u0728\u0720\u0730\u0718\u0733\u072c\u0742\u0730\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2694,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2694.json"
+        },
+        "stem": "\u0728\u0720\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0644\u0627\u0629"
+            ],
+            "eng": [
+                "prayer.",
+                "prayer"
+            ],
+            "fre": [
+                "pri\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 17513,
+            "uri": "https://sedra.bethmardutho.org/api/word/17513.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0713\u0720\u0715",
+        "western": "\u0713\u0720\u0730\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15662,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15662.json"
+        },
+        "stem": "\u0713\u0720\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to freeze",
+                "IIIa to be frozen, to freeze, to congeal.",
+                "IIa"
+            ]
+        },
+        "word": {
+            "id": 41040,
+            "uri": "https://sedra.bethmardutho.org/api/word/41040.json"
+        }
+    }
+]

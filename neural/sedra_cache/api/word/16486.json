@@ -1,0 +1,62 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0726\u0720\u0718\u071a",
+        "western": "\u0715\u0741\u0722\u0736\u0726\u0742\u0720\u073d\u0718\u071a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 2528,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2528.json"
+        },
+        "stem": "\u0726\u0720\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0627\u0634\u0631",
+                "\u0639\u0645\u0644",
+                "\u0628\u0627\u0634\u0631, \u0645\u0627\u0631\u0633, \u0639\u0645\u0644",
+                "\u0641\u0644\u062d",
+                "\u0627\u062d\u062a\u0641\u0644 \u0628\u0640",
+                "\u0627\u0634\u062a\u063a\u0644",
+                "\u0639\u0627\u0644\u062c",
+                "\u062e\u062f\u0645, \u0623\u0643\u0631\u0645",
+                "\u062d\u0631\u062b"
+            ],
+            "eng": [
+                "to serve (God)",
+                "IIa to labor",
+                "IIIa to enlist, to enforce labor.",
+                "Ia to labor, work, cultivate",
+                "Ip to be cultivated",
+                "caltivate",
+                "make serve",
+                "labour",
+                "work",
+                "to serve as a soldier",
+                "to be carried out, to be practiced, to be elaborated"
+            ],
+            "fre": [
+                "agir",
+                "labourer",
+                "fr\u00e9quenter",
+                "travailler",
+                "servir, honorer",
+                "traiter",
+                "exercer, pratiquer, faire",
+                "c\u00e9l\u00e9brer",
+                "cultiver"
+            ]
+        },
+        "word": {
+            "id": 16486,
+            "uri": "https://sedra.bethmardutho.org/api/word/16486.json"
+        }
+    }
+]

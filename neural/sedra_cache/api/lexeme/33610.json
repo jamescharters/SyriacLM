@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 33610,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33610.json"
+        },
+        "syriac": "\u0717\u071f\u0723\u0717\u071b\u071d\u071f\u0723\u0710\u0723",
+        "glosses": {
+            "English": [
+                "you melted"
+            ],
+            "Arabic": [
+                "\u0630\u0648\u0651\u0628\u062a"
+            ],
+            "Syriac": [
+                "\u0726\u0730\u072b\u072a\u072c"
+            ],
+            "Latin": [
+                "liquefecisti"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u0313\u03be\u03b5\u0301\u03c4\u03b7\u03be\u03b1\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 59965,
+                "uri": "https://sedra.bethmardutho.org/api/word/59965.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

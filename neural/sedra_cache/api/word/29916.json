@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u0718\u072b\u071a\u0710",
+        "western": "\u0721\u073d\u0718\u072b\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5310,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5310.json"
+        },
+        "stem": "\u0721\u0718\u072b\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062c\u0644\u0629"
+            ],
+            "eng": [
+                "meter",
+                "age, stature, condition, rank",
+                "1 measuring, measure, size, dimension"
+            ],
+            "fre": [
+                "g\u00e9nisse"
+            ]
+        },
+        "word": {
+            "id": 29916,
+            "uri": "https://sedra.bethmardutho.org/api/word/29916.json"
+        }
+    }
+]

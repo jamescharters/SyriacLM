@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0710\u0715\u072a\u0718\u0722\u0710",
+        "western": "\u0710\u0736\u0715\u072a\u073d\u0718\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12533,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12533.json"
+        },
+        "stem": "\u0710\u0715\u072a\u0718\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0637\u062d",
+                "\u062f\u0647\u0644\u064a\u0632",
+                "\u063a\u0631\u0641\u0629"
+            ],
+            "eng": [
+                "bedroom",
+                "room.",
+                "cubicle",
+                "solarium",
+                "vestibule",
+                "inner apartment",
+                "room"
+            ],
+            "fre": [
+                "terrasse",
+                "vestibule",
+                "chamber"
+            ]
+        },
+        "word": {
+            "id": 32741,
+            "uri": "https://sedra.bethmardutho.org/api/word/32741.json"
+        }
+    }
+]

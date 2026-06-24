@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 3149,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3149.json"
+        },
+        "syriac": "\u072b\u0718\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u062e\u0631\u0629"
+            ],
+            "French": [
+                "rocher"
+            ],
+            "English": [
+                "rock",
+                "rock."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1831,
+            "uri": "https://sedra.bethmardutho.org/api/root/1831.json"
+        },
+        "words": [
+            {
+                "id": 20700,
+                "uri": "https://sedra.bethmardutho.org/api/word/20700.json"
+            },
+            {
+                "id": 20699,
+                "uri": "https://sedra.bethmardutho.org/api/word/20699.json"
+            },
+            {
+                "id": 20698,
+                "uri": "https://sedra.bethmardutho.org/api/word/20698.json"
+            },
+            {
+                "id": 20702,
+                "uri": "https://sedra.bethmardutho.org/api/word/20702.json"
+            },
+            {
+                "id": 20701,
+                "uri": "https://sedra.bethmardutho.org/api/word/20701.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

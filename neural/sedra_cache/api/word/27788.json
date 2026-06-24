@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u072a\u071a\u0721\u072c\u0710",
+        "western": "\u0715\u0741\u072a\u0736\u071a\u0721\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3001,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3001.json"
+        },
+        "stem": "\u072a\u071a\u0721\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "(many phrases with <span class=\"selectableFont\">\u072a\u0736\u071a\u0721\u0730\u072c</span> ).",
+                "desire",
+                "kindness",
+                "friendship",
+                "love",
+                "love"
+            ]
+        },
+        "word": {
+            "id": 27788,
+            "uri": "https://sedra.bethmardutho.org/api/word/27788.json"
+        }
+    }
+]

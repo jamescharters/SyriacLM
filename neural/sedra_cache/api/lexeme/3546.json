@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3546,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3546.json"
+        },
+        "syriac": "\u072b\u0712\u071d\u0710",
+        "glosses": {
+            "English": [
+                "captive"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1803,
+            "uri": "https://sedra.bethmardutho.org/api/root/1803.json"
+        },
+        "words": [
+            {
+                "id": 20182,
+                "uri": "https://sedra.bethmardutho.org/api/word/20182.json"
+            },
+            {
+                "id": 20184,
+                "uri": "https://sedra.bethmardutho.org/api/word/20184.json"
+            },
+            {
+                "id": 20183,
+                "uri": "https://sedra.bethmardutho.org/api/word/20183.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

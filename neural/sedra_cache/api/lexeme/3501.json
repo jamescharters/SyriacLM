@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3501,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3501.json"
+        },
+        "syriac": "\u0721\u071f\u0710",
+        "glosses": {
+            "English": [
+                "here and there",
+                "from this time",
+                "hence",
+                "hence, henceforth, from this time."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1054,
+            "uri": "https://sedra.bethmardutho.org/api/root/1054.json"
+        },
+        "words": [
+            {
+                "id": 9652,
+                "uri": "https://sedra.bethmardutho.org/api/word/9652.json"
+            },
+            {
+                "id": 9654,
+                "uri": "https://sedra.bethmardutho.org/api/word/9654.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

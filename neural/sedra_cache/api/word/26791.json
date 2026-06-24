@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0721\u0723\u0712\u072a\u071d\u0722\u0722",
+        "western": "\u0721\u0723\u0730\u0712\u0741\u072a\u073a\u071d\u0722\u0730\u0722",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2056,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2056.json"
+        },
+        "stem": "\u0723\u0712\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to seem",
+                "suppose",
+                "hope",
+                "consider",
+                "IIIa to think, suppose",
+                "to suspect",
+                "to be considered",
+                "IIa to hope, to trust (in)",
+                "Ia to think, to believe, to suppose",
+                "IIp to be announced, proclaimed",
+                "Ip to be supposed, considered",
+                "to profess to be.",
+                "to announce, declare",
+                "think"
+            ]
+        },
+        "word": {
+            "id": 26791,
+            "uri": "https://sedra.bethmardutho.org/api/word/26791.json"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14674,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14674.json"
+        },
+        "syriac": "\u072b\u0725\u0720\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0638\u0645 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "exalter",
+                "\u00a0"
+            ],
+            "English": [
+                "IVa to exult",
+                "IVp to behave arrogantly, haughtily."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2865,
+            "uri": "https://sedra.bethmardutho.org/api/root/2865.json"
+        },
+        "words": [
+            {
+                "id": 47133,
+                "uri": "https://sedra.bethmardutho.org/api/word/47133.json"
+            },
+            {
+                "id": 40705,
+                "uri": "https://sedra.bethmardutho.org/api/word/40705.json"
+            },
+            {
+                "id": 39930,
+                "uri": "https://sedra.bethmardutho.org/api/word/39930.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

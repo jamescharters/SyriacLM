@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0722\u0723\u072c\u0720\u0710",
+        "western": "\u0718\u0730\u0715\u0742\u0722\u0736\u0723\u072c\u0741\u0720\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2137,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2137.json"
+        },
+        "stem": "\u0723\u0720\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia pass. part. <span class=\"selectableFont\">\u0723\u0720\u0736\u0710</span> rejected, despised",
+                "to refuse",
+                "IIIp.",
+                "Ip to be rejected, set aside",
+                "to despise",
+                "IIIa to reject",
+                "reject",
+                "despise"
+            ]
+        },
+        "word": {
+            "id": 14230,
+            "uri": "https://sedra.bethmardutho.org/api/word/14230.json"
+        }
+    }
+]

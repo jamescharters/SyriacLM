@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 2123,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2123.json"
+        },
+        "syriac": "\u0723\u071d\u0726\u0710",
+        "glosses": {
+            "English": [
+                "sword, blade",
+                "Kth. Sayfo, massacres, \u2018genocide\u2019 (esp. of 1915).",
+                "sword",
+                "sword"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1268,
+            "uri": "https://sedra.bethmardutho.org/api/root/1268.json"
+        },
+        "words": [
+            {
+                "id": 43845,
+                "uri": "https://sedra.bethmardutho.org/api/word/43845.json"
+            },
+            {
+                "id": 14114,
+                "uri": "https://sedra.bethmardutho.org/api/word/14114.json"
+            },
+            {
+                "id": 14113,
+                "uri": "https://sedra.bethmardutho.org/api/word/14113.json"
+            },
+            {
+                "id": 14112,
+                "uri": "https://sedra.bethmardutho.org/api/word/14112.json"
+            },
+            {
+                "id": 14117,
+                "uri": "https://sedra.bethmardutho.org/api/word/14117.json"
+            },
+            {
+                "id": 14116,
+                "uri": "https://sedra.bethmardutho.org/api/word/14116.json"
+            },
+            {
+                "id": 14115,
+                "uri": "https://sedra.bethmardutho.org/api/word/14115.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

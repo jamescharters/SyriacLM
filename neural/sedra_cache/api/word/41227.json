@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071d\u072c\u072c",
+        "western": "\u071d\u0730\u072c\u0736\u072c",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15007,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15007.json"
+        },
+        "stem": "\u071d\u072c\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to give existence, establish, constitute."
+            ]
+        },
+        "word": {
+            "id": 41227,
+            "uri": "https://sedra.bethmardutho.org/api/word/41227.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 10380,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10380.json"
+        },
+        "syriac": "\u0715",
+        "glosses": {
+            "Arabic": [
+                "4",
+                "\u0627\u0644\u0630\u064a, \u0627\u0644\u062a\u064a \u0625\u0644\u062e, \u0627\u0644\u0630\u064a \u0644\u0640 , \u0644\u0640 ,\u0645\u0646",
+                "#NAME?",
+                "\u0623\u0646",
+                "\u0644\u0623\u0646\u0647",
+                "\u0644\u0643\u064a, \u0628\u0646\u0648\u0639 \u0623\u0646",
+                "\u0647\u0630\u0627 \u0623\u0646\u0647, \u064a\u0639\u0646\u064a \u0623\u0646",
+                "\u0623\u0645\u0627 \u0639\u0646 \u0627\u0644\u0630\u064a",
+                "\u062a\u0624\u062f\u064a \u0627\u0644\u062e\u0637\u0627\u0628"
+            ],
+            "French": [
+                "",
+                "celui qui, celle qui, etc., qui, celui que etc., que, celui de etc., de",
+                "#NAME?",
+                "que",
+                "parce que",
+                "afin que, en sorte que",
+                "le fait que, \u00e0 savoir que",
+                "quant \u00e0 ce qui",
+                "introduit le discours direct"
+            ],
+            "English": [
+                "fourth letter of the alphabet (Dolath)",
+                "numerical value: 4."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 31333,
+                "uri": "https://sedra.bethmardutho.org/api/word/31333.json"
+            }
+        ]
+    }
+]

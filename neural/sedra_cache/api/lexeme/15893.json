@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 15893,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15893.json"
+        },
+        "syriac": "\u0720\u0725\u0712",
+        "glosses": {
+            "English": [
+                "Ia to be greedy",
+                "greedy",
+                "IIp to seize greedily, to be gluttonous",
+                "to delight in."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2573,
+            "uri": "https://sedra.bethmardutho.org/api/root/2573.json"
+        },
+        "words": [
+            {
+                "id": 11106,
+                "uri": "https://sedra.bethmardutho.org/api/word/11106.json"
+            },
+            {
+                "id": 11107,
+                "uri": "https://sedra.bethmardutho.org/api/word/11107.json"
+            },
+            {
+                "id": 11105,
+                "uri": "https://sedra.bethmardutho.org/api/word/11105.json"
+            },
+            {
+                "id": 41991,
+                "uri": "https://sedra.bethmardutho.org/api/word/41991.json"
+            },
+            {
+                "id": 41724,
+                "uri": "https://sedra.bethmardutho.org/api/word/41724.json"
+            },
+            {
+                "id": 41196,
+                "uri": "https://sedra.bethmardutho.org/api/word/41196.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

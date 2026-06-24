@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 10250,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10250.json"
+        },
+        "syriac": "\u0710\u0718\u0717",
+        "glosses": {
+            "Latin": [
+                "ohe, ah"
+            ],
+            "Arabic": [
+                "\u0622\u0647! \u0648\u0627\u0623\u0633\u0641\u0627\u0647!"
+            ],
+            "French": [
+                "ah! h\u00e9las!"
+            ],
+            "English": [
+                "o!",
+                "alas!"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "ohe"
+            ]
+        },
+        "words": [
+            {
+                "id": 47531,
+                "uri": "https://sedra.bethmardutho.org/api/word/47531.json"
+            },
+            {
+                "id": 38411,
+                "uri": "https://sedra.bethmardutho.org/api/word/38411.json"
+            }
+        ]
+    }
+]

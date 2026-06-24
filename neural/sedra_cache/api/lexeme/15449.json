@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15449,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15449.json"
+        },
+        "syriac": "\u072c\u0722\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u062f\u0631"
+            ],
+            "French": [
+                "s\u2019engourdir"
+            ],
+            "English": [
+                "IIa, IIIa to make numb, to deaden.",
+                "Ia to become stiff, numb"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2970,
+            "uri": "https://sedra.bethmardutho.org/api/root/2970.json"
+        },
+        "words": [
+            {
+                "id": 41671,
+                "uri": "https://sedra.bethmardutho.org/api/word/41671.json"
+            },
+            {
+                "id": 39879,
+                "uri": "https://sedra.bethmardutho.org/api/word/39879.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0710\u071f\u072a",
+        "western": "\u0710\u0730\u071f\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14960,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14960.json"
+        },
+        "stem": "\u0710\u071f\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0623\u063a\u0644",
+                "\u062c\u0646\u0649",
+                "\u062d\u0631\u062b",
+                "\u0639\u0631\u0641"
+            ],
+            "eng": [
+                "IIa to plough",
+                "to produce."
+            ],
+            "fre": [
+                "produire",
+                "r\u00e9colter",
+                "\u00a0",
+                "conna\u00eetre",
+                "labourer"
+            ]
+        },
+        "word": {
+            "id": 41434,
+            "uri": "https://sedra.bethmardutho.org/api/word/41434.json"
+        }
+    }
+]

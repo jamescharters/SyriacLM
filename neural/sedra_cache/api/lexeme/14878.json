@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 14878,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14878.json"
+        },
+        "syriac": "\u0726\u072a\u0713\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062a\u0646 (\u0645\u0636), \u0641\u0631\u062d (\u0645\u0636)",
+                "\u0627\u0644\u062a\u0630",
+                "\u00a0"
+            ],
+            "French": [
+                "charmer, r\u00e9jouir",
+                "se complaire",
+                "\u00a0"
+            ],
+            "English": [
+                "IVp to take pleasure",
+                "IVa to delight",
+                "to divert oneself."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2319,
+            "uri": "https://sedra.bethmardutho.org/api/root/2319.json"
+        },
+        "words": [
+            {
+                "id": 41010,
+                "uri": "https://sedra.bethmardutho.org/api/word/41010.json"
+            },
+            {
+                "id": 39910,
+                "uri": "https://sedra.bethmardutho.org/api/word/39910.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

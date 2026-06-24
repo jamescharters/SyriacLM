@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 14957,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14957.json"
+        },
+        "syriac": "\u0723\u072a\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0635\u0649",
+                "\u00a0"
+            ],
+            "French": [
+                "ch\u00e2trer",
+                "\u00a0"
+            ],
+            "English": [
+                "to castrate",
+                "IIa to twist, entwine",
+                "IIp to be castrated."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2946,
+            "uri": "https://sedra.bethmardutho.org/api/root/2946.json"
+        },
+        "words": [
+            {
+                "id": 40620,
+                "uri": "https://sedra.bethmardutho.org/api/word/40620.json"
+            },
+            {
+                "id": 40407,
+                "uri": "https://sedra.bethmardutho.org/api/word/40407.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

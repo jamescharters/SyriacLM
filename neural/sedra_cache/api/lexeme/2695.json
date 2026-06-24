@@ -1,0 +1,93 @@
+[
+    {
+        "lexeme": {
+            "id": 2695,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2695.json"
+        },
+        "syriac": "\u0728\u0720\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0644\u0628",
+                "\u00a0"
+            ],
+            "French": [
+                "crucifier",
+                "\u00a0"
+            ],
+            "English": [
+                "crucify",
+                "Ia to crucify",
+                "IIIa to make the sign of the cross.",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1594,
+            "uri": "https://sedra.bethmardutho.org/api/root/1594.json"
+        },
+        "words": [
+            {
+                "id": 28000,
+                "uri": "https://sedra.bethmardutho.org/api/word/28000.json"
+            },
+            {
+                "id": 27999,
+                "uri": "https://sedra.bethmardutho.org/api/word/27999.json"
+            },
+            {
+                "id": 17530,
+                "uri": "https://sedra.bethmardutho.org/api/word/17530.json"
+            },
+            {
+                "id": 28002,
+                "uri": "https://sedra.bethmardutho.org/api/word/28002.json"
+            },
+            {
+                "id": 28001,
+                "uri": "https://sedra.bethmardutho.org/api/word/28001.json"
+            },
+            {
+                "id": 23083,
+                "uri": "https://sedra.bethmardutho.org/api/word/23083.json"
+            },
+            {
+                "id": 17535,
+                "uri": "https://sedra.bethmardutho.org/api/word/17535.json"
+            },
+            {
+                "id": 17533,
+                "uri": "https://sedra.bethmardutho.org/api/word/17533.json"
+            },
+            {
+                "id": 17532,
+                "uri": "https://sedra.bethmardutho.org/api/word/17532.json"
+            },
+            {
+                "id": 17528,
+                "uri": "https://sedra.bethmardutho.org/api/word/17528.json"
+            },
+            {
+                "id": 17529,
+                "uri": "https://sedra.bethmardutho.org/api/word/17529.json"
+            },
+            {
+                "id": 28004,
+                "uri": "https://sedra.bethmardutho.org/api/word/28004.json"
+            },
+            {
+                "id": 28003,
+                "uri": "https://sedra.bethmardutho.org/api/word/28003.json"
+            },
+            {
+                "id": 17534,
+                "uri": "https://sedra.bethmardutho.org/api/word/17534.json"
+            },
+            {
+                "id": 17531,
+                "uri": "https://sedra.bethmardutho.org/api/word/17531.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

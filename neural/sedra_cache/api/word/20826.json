@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0710\u072b\u071a\u072c",
+        "western": "\u0710\u0730\u072b\u071a\u0736\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3174,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3174.json"
+        },
+        "stem": "\u072b\u071a\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u062f\u0626",
+                "\u062a\u0648\u0633\u062e"
+            ],
+            "eng": [
+                "Ia to rust",
+                "to be marred",
+                "IIIa to tarnish, to sully.",
+                "rust",
+                "tarnish"
+            ],
+            "fre": [
+                "se souiller",
+                "se rouiller"
+            ]
+        },
+        "word": {
+            "id": 20826,
+            "uri": "https://sedra.bethmardutho.org/api/word/20826.json"
+        }
+    }
+]

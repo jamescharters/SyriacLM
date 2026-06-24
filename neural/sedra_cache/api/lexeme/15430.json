@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15430,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15430.json"
+        },
+        "syriac": "\u072a\u0712\u0720",
+        "glosses": {
+            "English": [
+                "IIp to swell up.",
+                "Ip",
+                "Ia to swell"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3122,
+            "uri": "https://sedra.bethmardutho.org/api/root/3122.json"
+        },
+        "words": [
+            {
+                "id": 42002,
+                "uri": "https://sedra.bethmardutho.org/api/word/42002.json"
+            },
+            {
+                "id": 40575,
+                "uri": "https://sedra.bethmardutho.org/api/word/40575.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

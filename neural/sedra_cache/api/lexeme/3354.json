@@ -1,0 +1,76 @@
+[
+    {
+        "lexeme": {
+            "id": 3354,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3354.json"
+        },
+        "syriac": "\u072c\u0712\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0633\u0631",
+                "\u063a\u0644\u0628",
+                "\u00a0"
+            ],
+            "French": [
+                "briser",
+                "vaincre",
+                "\u00a0"
+            ],
+            "English": [
+                "break",
+                "Ia to break, fracture",
+                "IIa",
+                "IIp.",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1947,
+            "uri": "https://sedra.bethmardutho.org/api/root/1947.json"
+        },
+        "words": [
+            {
+                "id": 22331,
+                "uri": "https://sedra.bethmardutho.org/api/word/22331.json"
+            },
+            {
+                "id": 22330,
+                "uri": "https://sedra.bethmardutho.org/api/word/22330.json"
+            },
+            {
+                "id": 29459,
+                "uri": "https://sedra.bethmardutho.org/api/word/29459.json"
+            },
+            {
+                "id": 29458,
+                "uri": "https://sedra.bethmardutho.org/api/word/29458.json"
+            },
+            {
+                "id": 22337,
+                "uri": "https://sedra.bethmardutho.org/api/word/22337.json"
+            },
+            {
+                "id": 22336,
+                "uri": "https://sedra.bethmardutho.org/api/word/22336.json"
+            },
+            {
+                "id": 22335,
+                "uri": "https://sedra.bethmardutho.org/api/word/22335.json"
+            },
+            {
+                "id": 22334,
+                "uri": "https://sedra.bethmardutho.org/api/word/22334.json"
+            },
+            {
+                "id": 22333,
+                "uri": "https://sedra.bethmardutho.org/api/word/22333.json"
+            },
+            {
+                "id": 22332,
+                "uri": "https://sedra.bethmardutho.org/api/word/22332.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

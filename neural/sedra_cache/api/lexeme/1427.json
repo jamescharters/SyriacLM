@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1427,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1427.json"
+        },
+        "syriac": "\u071d\u072a\u0729\u0710",
+        "glosses": {
+            "English": [
+                "herb",
+                "vegetable",
+                "vegetable, herb."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 849,
+            "uri": "https://sedra.bethmardutho.org/api/root/849.json"
+        },
+        "words": [
+            {
+                "id": 9460,
+                "uri": "https://sedra.bethmardutho.org/api/word/9460.json"
+            },
+            {
+                "id": 9459,
+                "uri": "https://sedra.bethmardutho.org/api/word/9459.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

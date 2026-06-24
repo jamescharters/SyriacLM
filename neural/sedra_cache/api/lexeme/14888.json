@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14888,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14888.json"
+        },
+        "syriac": "\u0726\u072c\u0726\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062a\u062a",
+                "\u00a0"
+            ],
+            "French": [
+                "mettre en morceaux",
+                "\u00a0"
+            ],
+            "English": [
+                "IVa to calumniate, to disparage",
+                "IVp to be crushed, destroyed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2958,
+            "uri": "https://sedra.bethmardutho.org/api/root/2958.json"
+        },
+        "words": [
+            {
+                "id": 41077,
+                "uri": "https://sedra.bethmardutho.org/api/word/41077.json"
+            },
+            {
+                "id": 39867,
+                "uri": "https://sedra.bethmardutho.org/api/word/39867.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

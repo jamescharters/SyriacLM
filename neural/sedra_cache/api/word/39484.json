@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0719\u0713\u072c\u0710",
+        "western": "\u0721\u0719\u0733\u0713\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11146,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11146.json"
+        },
+        "stem": "\u0721\u0719\u0713\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0631\u0627\u0628 \u0645\u0645\u0632\u0648\u062c"
+            ],
+            "eng": [
+                "cup, bowl (of wine)."
+            ],
+            "fre": [
+                "boisson m\u00e9lang\u00e9e"
+            ]
+        },
+        "word": {
+            "id": 39484,
+            "uri": "https://sedra.bethmardutho.org/api/word/39484.json"
+        }
+    }
+]

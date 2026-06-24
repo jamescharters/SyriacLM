@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0719\u072a\u0725\u0718\u0722\u0710",
+        "western": "\u0719\u0730\u072a\u0725\u073d\u0718\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 915,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/915.json"
+        },
+        "stem": "\u0719\u072a\u0725\u0718\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0630\u0631"
+            ],
+            "eng": [
+                "pulse, grain.",
+                "grain",
+                "seed"
+            ],
+            "fre": [
+                "semence"
+            ]
+        },
+        "word": {
+            "id": 5952,
+            "uri": "https://sedra.bethmardutho.org/api/word/5952.json"
+        }
+    }
+]

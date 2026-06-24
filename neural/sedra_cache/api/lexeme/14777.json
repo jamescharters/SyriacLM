@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14777,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14777.json"
+        },
+        "syriac": "\u0726\u0718\u0721\u0721",
+        "glosses": {
+            "English": [
+                "IVa to mouth, to pronounce."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2748,
+            "uri": "https://sedra.bethmardutho.org/api/root/2748.json"
+        },
+        "words": [
+            {
+                "id": 40280,
+                "uri": "https://sedra.bethmardutho.org/api/word/40280.json"
+            },
+            {
+                "id": 40147,
+                "uri": "https://sedra.bethmardutho.org/api/word/40147.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

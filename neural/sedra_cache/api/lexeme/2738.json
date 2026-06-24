@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2738,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2738.json"
+        },
+        "syriac": "\u0729\u0715",
+        "glosses": {
+            "English": [
+                "to tear up",
+                "tear",
+                "cut off",
+                "IIp.",
+                "IIa to cut off",
+                "Ia to tear, cut away"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1618,
+            "uri": "https://sedra.bethmardutho.org/api/root/1618.json"
+        },
+        "words": [
+            {
+                "id": 28081,
+                "uri": "https://sedra.bethmardutho.org/api/word/28081.json"
+            },
+            {
+                "id": 28080,
+                "uri": "https://sedra.bethmardutho.org/api/word/28080.json"
+            },
+            {
+                "id": 17806,
+                "uri": "https://sedra.bethmardutho.org/api/word/17806.json"
+            },
+            {
+                "id": 17805,
+                "uri": "https://sedra.bethmardutho.org/api/word/17805.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

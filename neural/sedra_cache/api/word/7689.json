@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0712\u071a\u0718\u072b\u0712\u0722",
+        "western": "\u0712\u0741\u071a\u073d\u0718\u072b\u0712\u0741\u0733\u0722",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1171,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1171.json"
+        },
+        "stem": "\u071a\u0718\u072b\u0712\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0633\u0627\u0628"
+            ],
+            "eng": [
+                "reckoning, fixed number, calculation, enumeration, accounting.",
+                "calculation",
+                "account",
+                "reckoning"
+            ],
+            "fre": [
+                "compte"
+            ]
+        },
+        "word": {
+            "id": 7689,
+            "uri": "https://sedra.bethmardutho.org/api/word/7689.json"
+        }
+    }
+]

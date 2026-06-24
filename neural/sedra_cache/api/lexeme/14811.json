@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 14811,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14811.json"
+        },
+        "syriac": "\u0723\u0721\u0725\u0720",
+        "glosses": {
+            "English": [
+                "to lead an ascetic life.",
+                "IVp to be emaciated",
+                "IVa to emaciate"
+            ],
+            "Arabic": [
+                "\u062c\u0639\u0644\u0647 \u064a\u062a\u0646\u0633\u0643",
+                "\u00a0"
+            ],
+            "French": [
+                "faire ermite",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2826,
+            "uri": "https://sedra.bethmardutho.org/api/root/2826.json"
+        },
+        "words": [
+            {
+                "id": 40401,
+                "uri": "https://sedra.bethmardutho.org/api/word/40401.json"
+            },
+            {
+                "id": 40052,
+                "uri": "https://sedra.bethmardutho.org/api/word/40052.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

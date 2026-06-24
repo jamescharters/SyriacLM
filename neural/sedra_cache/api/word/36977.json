@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u072b\u0718\u0718\u071f\u0722\u0710",
+        "western": "\u072b\u073d\u0718\u073d\u0718\u071f\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14299.json"
+        },
+        "stem": "\u072b\u0718\u071f\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0637\u0627\u0621",
+                "\u0647\u0628\u0629 \u0628\u0627\u0644\u0648\u0635\u064a\u0629",
+                "\u0647\u0628\u0629",
+                "\u0645\u0646\u0629"
+            ],
+            "eng": [
+                "gift, present, donation",
+                "Kth. dedication (of literary work).",
+                "charism",
+                "office",
+                "legacy"
+            ],
+            "fre": [
+                "faveur",
+                "legs",
+                "donation",
+                "don"
+            ]
+        },
+        "word": {
+            "id": 36977,
+            "uri": "https://sedra.bethmardutho.org/api/word/36977.json"
+        }
+    }
+]

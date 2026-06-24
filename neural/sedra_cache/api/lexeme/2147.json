@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2147,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2147.json"
+        },
+        "syriac": "\u0723\u0721\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Samos"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1283,
+            "uri": "https://sedra.bethmardutho.org/api/root/1283.json"
+        },
+        "words": [
+            {
+                "id": 14309,
+                "uri": "https://sedra.bethmardutho.org/api/word/14309.json"
+            },
+            {
+                "id": 14310,
+                "uri": "https://sedra.bethmardutho.org/api/word/14310.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

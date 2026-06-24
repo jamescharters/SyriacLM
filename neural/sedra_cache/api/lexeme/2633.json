@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2633,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2633.json"
+        },
+        "syriac": "\u0726\u0718\u072b\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0631\u062d",
+                "\u062a\u0631\u062c\u0645\u0629",
+                "\u062d\u0644 (\u0644\u063a\u0632)",
+                "\u0648\u0643\u0627\u0644\u0629"
+            ],
+            "French": [
+                "explication",
+                "traduction",
+                "solution (d&#39;une \u00e9nigme)",
+                "mandat"
+            ],
+            "English": [
+                "interpretation",
+                "explanation, commentary, translation, interpretation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1562,
+            "uri": "https://sedra.bethmardutho.org/api/root/1562.json"
+        },
+        "words": [
+            {
+                "id": 17129,
+                "uri": "https://sedra.bethmardutho.org/api/word/17129.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

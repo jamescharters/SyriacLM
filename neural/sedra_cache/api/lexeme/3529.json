@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 3529,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3529.json"
+        },
+        "syriac": "\u072a\u0729\u071d\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0645\u064a\u0643",
+                "\u0645\u062e\u0641\u0649 \u0625\u062e\u0641\u0627\u0621",
+                "\u0641\u0644\u0643"
+            ],
+            "French": [
+                "\u00e9pais",
+                "bien cach\u00e9",
+                "firmament"
+            ],
+            "English": [
+                "pressed down",
+                "firmament."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1789,
+            "uri": "https://sedra.bethmardutho.org/api/root/1789.json"
+        },
+        "words": [
+            {
+                "id": 19994,
+                "uri": "https://sedra.bethmardutho.org/api/word/19994.json"
+            },
+            {
+                "id": 27761,
+                "uri": "https://sedra.bethmardutho.org/api/word/27761.json"
+            },
+            {
+                "id": 19996,
+                "uri": "https://sedra.bethmardutho.org/api/word/19996.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

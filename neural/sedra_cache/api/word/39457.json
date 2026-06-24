@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0722\u0717\u0721\u0710",
+        "western": "\u0722\u0736\u0717\u0721\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14151,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14151.json"
+        },
+        "stem": "\u0722\u0717\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u062f\u064a\u0631",
+                "\u0632\u0626\u064a\u0631",
+                "\u0632\u0626\u064a\u0631",
+                "\u0623\u0646\u064a\u0646"
+            ],
+            "eng": [
+                "murmuring.",
+                "roaring"
+            ],
+            "fre": [
+                "rugissement",
+                "grondement",
+                "g\u00e9missement",
+                "rugissement"
+            ]
+        },
+        "word": {
+            "id": 39457,
+            "uri": "https://sedra.bethmardutho.org/api/word/39457.json"
+        }
+    }
+]

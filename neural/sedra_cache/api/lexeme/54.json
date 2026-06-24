@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 54,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/54.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0712\u0722\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Urbanus"
+            ],
+            "Greek": [
+                "\u039f\u1f54\u03c1\u03b2\u03b1\u03bd\u03bf\u03c2"
+            ],
+            "Latin": [
+                "Urbanus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 44,
+            "uri": "https://sedra.bethmardutho.org/api/root/44.json"
+        },
+        "words": [
+            {
+                "id": 54904,
+                "uri": "https://sedra.bethmardutho.org/api/word/54904.json"
+            },
+            {
+                "id": 294,
+                "uri": "https://sedra.bethmardutho.org/api/word/294.json"
+            },
+            {
+                "id": 295,
+                "uri": "https://sedra.bethmardutho.org/api/word/295.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

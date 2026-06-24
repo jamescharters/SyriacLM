@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1113,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1113.json"
+        },
+        "syriac": "\u071a\u0723\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0644\u0639\u0629"
+            ],
+            "French": [
+                "citadelle"
+            ],
+            "English": [
+                "stronghold",
+                "fortress, stronghold."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 667,
+            "uri": "https://sedra.bethmardutho.org/api/root/667.json"
+        },
+        "words": [
+            {
+                "id": 7377,
+                "uri": "https://sedra.bethmardutho.org/api/word/7377.json"
+            },
+            {
+                "id": 7332,
+                "uri": "https://sedra.bethmardutho.org/api/word/7332.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

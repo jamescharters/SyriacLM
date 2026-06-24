@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 19010,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19010.json"
+        },
+        "syriac": "\u0710\u0712\u072a\u071d\u0721\u0729\u0718\u0722\u071b\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f11\u03b2\u03b4\u03bf\u03bc\u1f75\u03ba\u03bf\u03bd\u03c4\u03b1"
+            ],
+            "English": [
+                "seventy"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f11\u03b2\u03b4\u03bf\u03bc\u03ae\u03ba\u03bf\u03bd\u03c4\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 45384,
+                "uri": "https://sedra.bethmardutho.org/api/word/45384.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

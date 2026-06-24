@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u0721",
+        "western": "\u071f\u0733\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15541,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15541.json"
+        },
+        "stem": "\u071f\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to scorn",
+                "to throw out.",
+                "Ia to hide, keep back, suppress"
+            ]
+        },
+        "word": {
+            "id": 40749,
+            "uri": "https://sedra.bethmardutho.org/api/word/40749.json"
+        }
+    }
+]

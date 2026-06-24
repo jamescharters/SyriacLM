@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0712\u072b\u0720\u071d\u0710",
+        "western": "\u0715\u0741\u0730\u0712\u0742\u072b\u0736\u0720\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3205,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3205.json"
+        },
+        "stem": "\u072b\u0720\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "<span class=\"selectableFont\">\u0715\u0720\u0733\u0710 \u072b\u0736\u0720\u071d\u0733\u0710</span> ceaselessly.",
+                "<span class=\"selectableFont\">\u0721\u0736\u0722 \u072b\u0736\u0720\u071d\u0331</span> suddenly, unexpectedly",
+                "stillness, quiet, calm",
+                "quietness",
+                "lull",
+                "cessation",
+                "silence",
+                "calm",
+                "suddenly"
+            ]
+        },
+        "word": {
+            "id": 21037,
+            "uri": "https://sedra.bethmardutho.org/api/word/21037.json"
+        }
+    }
+]

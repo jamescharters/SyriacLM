@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2858,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2858.json"
+        },
+        "syriac": "\u0729\u0726\u0718\u0715\u0718\u0729\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Cappadocia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2047,
+            "uri": "https://sedra.bethmardutho.org/api/root/2047.json"
+        },
+        "words": [
+            {
+                "id": 18526,
+                "uri": "https://sedra.bethmardutho.org/api/word/18526.json"
+            },
+            {
+                "id": 18524,
+                "uri": "https://sedra.bethmardutho.org/api/word/18524.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

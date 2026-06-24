@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0723\u0720\u0713\u0723",
+        "western": "\u0723\u0730\u0720\u0713\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14926,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14926.json"
+        },
+        "stem": "\u0723\u0720\u0713\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u062a\u0628"
+            ],
+            "eng": [
+                "IVa to arrange words, to compose, to write."
+            ],
+            "fre": [
+                "\u00e9crire"
+            ]
+        },
+        "word": {
+            "id": 41499,
+            "uri": "https://sedra.bethmardutho.org/api/word/41499.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3002,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3002.json"
+        },
+        "syriac": "\u072a\u071a\u0721\u072c\u0722\u0710",
+        "glosses": {
+            "English": [
+                "merciful",
+                "compassionate."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1753,
+            "uri": "https://sedra.bethmardutho.org/api/root/1753.json"
+        },
+        "words": [
+            {
+                "id": 19586,
+                "uri": "https://sedra.bethmardutho.org/api/word/19586.json"
+            },
+            {
+                "id": 19585,
+                "uri": "https://sedra.bethmardutho.org/api/word/19585.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

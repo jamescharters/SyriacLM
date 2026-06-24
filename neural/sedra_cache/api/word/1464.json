@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0722\u071d\u0722\u072b\u0710",
+        "western": "\u0720\u0730\u0712\u0742\u0722\u0730\u071d\u0722\u0733\u072b\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "common",
+        "lexeme": {
+            "id": 3463,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3463.json"
+        },
+        "stem": "\u0712\u072a\u0722\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "human",
+                "(also <span class=\"selectableFont\">\u0712\u0730\u072a \u0710\u0331</span><span class=\"selectableFont\">\u0722\u0733\u072b\u0733\u0710</span>) human being, person."
+            ],
+            "fre": [
+                "home\u2026"
+            ]
+        },
+        "word": {
+            "id": 1464,
+            "uri": "https://sedra.bethmardutho.org/api/word/1464.json"
+        }
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "lexeme": {
+            "id": 2131,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2131.json"
+        },
+        "syriac": "\u0723\u071f\u0720\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0645\u0627\u0642\u0629",
+                "\u0625\u0633\u0627\u0621\u0629, \u0625\u062b\u0645"
+            ],
+            "French": [
+                "sottise",
+                "faute, p\u00e9ch\u00e9"
+            ],
+            "English": [
+                "foolishness",
+                "transgression",
+                "error",
+                "trespass",
+                "wrong-doing",
+                "sin",
+                "folly, wrongdoing, offence."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1271,
+            "uri": "https://sedra.bethmardutho.org/api/root/1271.json"
+        },
+        "words": [
+            {
+                "id": 26566,
+                "uri": "https://sedra.bethmardutho.org/api/word/26566.json"
+            },
+            {
+                "id": 14195,
+                "uri": "https://sedra.bethmardutho.org/api/word/14195.json"
+            },
+            {
+                "id": 14202,
+                "uri": "https://sedra.bethmardutho.org/api/word/14202.json"
+            },
+            {
+                "id": 14198,
+                "uri": "https://sedra.bethmardutho.org/api/word/14198.json"
+            },
+            {
+                "id": 14197,
+                "uri": "https://sedra.bethmardutho.org/api/word/14197.json"
+            },
+            {
+                "id": 14196,
+                "uri": "https://sedra.bethmardutho.org/api/word/14196.json"
+            },
+            {
+                "id": 14201,
+                "uri": "https://sedra.bethmardutho.org/api/word/14201.json"
+            },
+            {
+                "id": 14200,
+                "uri": "https://sedra.bethmardutho.org/api/word/14200.json"
+            },
+            {
+                "id": 14199,
+                "uri": "https://sedra.bethmardutho.org/api/word/14199.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

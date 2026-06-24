@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0718\u0720\u072a\u072b\u071d\u0725\u0710",
+        "western": "\u0718\u0730\u0720\u072a\u0730\u072b\u073a\u071d\u0725\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3081,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3081.json"
+        },
+        "stem": "\u072a\u072b\u071d\u0725\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062c\u0631\u0645, \u0643\u0627\u0641\u0631"
+            ],
+            "eng": [
+                "wicked, impious, lawless, criminal.",
+                "impious",
+                "wicked",
+                "ungodly"
+            ],
+            "fre": [
+                "sc\u00e9l\u00e9rat, impie"
+            ]
+        },
+        "word": {
+            "id": 20026,
+            "uri": "https://sedra.bethmardutho.org/api/word/20026.json"
+        }
+    }
+]

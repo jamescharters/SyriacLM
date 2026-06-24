@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u0729\u0729\u0718\u072c\u0710",
+        "western": "\u0726\u0730\u0729\u0733\u0729\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11605,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11605.json"
+        },
+        "stem": "\u0726\u0729\u0729\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0630\u0631"
+            ],
+            "eng": [
+                "gossiping."
+            ],
+            "fre": [
+                "bavardage"
+            ]
+        },
+        "word": {
+            "id": 33696,
+            "uri": "https://sedra.bethmardutho.org/api/word/33696.json"
+        }
+    }
+]

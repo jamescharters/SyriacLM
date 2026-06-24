@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2178,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2178.json"
+        },
+        "syriac": "\u0723\u0726\u0710",
+        "glosses": {
+            "English": [
+                "suburb",
+                "porch",
+                "threshold",
+                "vestibule",
+                "margin.",
+                "doorpost, threshold",
+                "approach"
+            ],
+            "Arabic": [
+                "\u0639\u062a\u0628\u0629",
+                "\u062f\u0647\u0644\u064a\u0632",
+                "\u0631\u0628\u0636"
+            ],
+            "French": [
+                "seuil",
+                "portique",
+                "faubourg"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1300,
+            "uri": "https://sedra.bethmardutho.org/api/root/1300.json"
+        },
+        "words": [
+            {
+                "id": 14502,
+                "uri": "https://sedra.bethmardutho.org/api/word/14502.json"
+            },
+            {
+                "id": 14503,
+                "uri": "https://sedra.bethmardutho.org/api/word/14503.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

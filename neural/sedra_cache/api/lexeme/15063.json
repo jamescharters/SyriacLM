@@ -1,0 +1,100 @@
+[
+    {
+        "lexeme": {
+            "id": 15063,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15063.json"
+        },
+        "syriac": "\u0715\u0713\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0630\u0628",
+                "\u0623\u0639\u0644\u0646 \u0643\u0627\u0630\u0628\u0627\u064b"
+            ],
+            "French": [
+                "mentir",
+                "d\u00e9clarer menteur"
+            ],
+            "English": [
+                "lie",
+                "falsely",
+                "to accuse of falsehood",
+                "IIp to be accused, suspected of falsehood",
+                "to defraud",
+                "IIa to deceive, to lie",
+                "to be deceived, mistaken."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3076,
+            "uri": "https://sedra.bethmardutho.org/api/root/3076.json"
+        },
+        "words": [
+            {
+                "id": 4141,
+                "uri": "https://sedra.bethmardutho.org/api/word/4141.json"
+            },
+            {
+                "id": 4145,
+                "uri": "https://sedra.bethmardutho.org/api/word/4145.json"
+            },
+            {
+                "id": 4146,
+                "uri": "https://sedra.bethmardutho.org/api/word/4146.json"
+            },
+            {
+                "id": 4147,
+                "uri": "https://sedra.bethmardutho.org/api/word/4147.json"
+            },
+            {
+                "id": 4148,
+                "uri": "https://sedra.bethmardutho.org/api/word/4148.json"
+            },
+            {
+                "id": 4149,
+                "uri": "https://sedra.bethmardutho.org/api/word/4149.json"
+            },
+            {
+                "id": 4150,
+                "uri": "https://sedra.bethmardutho.org/api/word/4150.json"
+            },
+            {
+                "id": 23921,
+                "uri": "https://sedra.bethmardutho.org/api/word/23921.json"
+            },
+            {
+                "id": 23922,
+                "uri": "https://sedra.bethmardutho.org/api/word/23922.json"
+            },
+            {
+                "id": 23923,
+                "uri": "https://sedra.bethmardutho.org/api/word/23923.json"
+            },
+            {
+                "id": 23924,
+                "uri": "https://sedra.bethmardutho.org/api/word/23924.json"
+            },
+            {
+                "id": 4142,
+                "uri": "https://sedra.bethmardutho.org/api/word/4142.json"
+            },
+            {
+                "id": 4143,
+                "uri": "https://sedra.bethmardutho.org/api/word/4143.json"
+            },
+            {
+                "id": 4144,
+                "uri": "https://sedra.bethmardutho.org/api/word/4144.json"
+            },
+            {
+                "id": 40846,
+                "uri": "https://sedra.bethmardutho.org/api/word/40846.json"
+            },
+            {
+                "id": 40628,
+                "uri": "https://sedra.bethmardutho.org/api/word/40628.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15834,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15834.json"
+        },
+        "syriac": "\u0728\u0712",
+        "glosses": {
+            "English": [
+                "IIp to be present.",
+                "Ia to resort, frequent",
+                "IIa to bring together, assemble",
+                "to bring, supply"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2877,
+            "uri": "https://sedra.bethmardutho.org/api/root/2877.json"
+        },
+        "words": [
+            {
+                "id": 39863,
+                "uri": "https://sedra.bethmardutho.org/api/word/39863.json"
+            },
+            {
+                "id": 41703,
+                "uri": "https://sedra.bethmardutho.org/api/word/41703.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

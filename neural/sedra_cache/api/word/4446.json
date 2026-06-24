@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0715\u071d\u0722\u0718\u0717\u071d",
+        "western": "\u0715\u0741\u073a\u071d\u0722\u0730\u0718\u0717\u0331\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 692,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/692.json"
+        },
+        "stem": "\u0715\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "judgement",
+                "sentence (of judge)",
+                "judgment, sentence, verdict."
+            ]
+        },
+        "word": {
+            "id": 4446,
+            "uri": "https://sedra.bethmardutho.org/api/word/4446.json"
+        }
+    }
+]

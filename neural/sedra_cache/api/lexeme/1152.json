@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1152,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1152.json"
+        },
+        "syriac": "\u071a\u072a\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0644\u0637",
+                "\u062d\u0644\u0649 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "m\u00ealer",
+                "adoucir",
+                "\u00a0"
+            ],
+            "English": [
+                "sharp",
+                "Ia to mix, mingle",
+                "IIa to mix, infuse."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 687,
+            "uri": "https://sedra.bethmardutho.org/api/root/687.json"
+        },
+        "words": [
+            {
+                "id": 7565,
+                "uri": "https://sedra.bethmardutho.org/api/word/7565.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

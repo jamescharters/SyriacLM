@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15499,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15499.json"
+        },
+        "syriac": "\u0729\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0627\u0644, \u0637\u0627\u0641"
+            ],
+            "French": [
+                "tourner autour, errer"
+            ],
+            "English": [
+                "Ia to revolve",
+                "to be sprinkled on",
+                "to wander, go about",
+                "to investigate",
+                "IIIa to turn around, turn upside down, upset.",
+                "to be occupied"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2780,
+            "uri": "https://sedra.bethmardutho.org/api/root/2780.json"
+        },
+        "words": [
+            {
+                "id": 41770,
+                "uri": "https://sedra.bethmardutho.org/api/word/41770.json"
+            },
+            {
+                "id": 40795,
+                "uri": "https://sedra.bethmardutho.org/api/word/40795.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

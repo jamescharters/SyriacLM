@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 29023,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29023.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u0718\u0726\u0718\u072a\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f30\u03c3\u03cc\u03c0\u03c5\u03c1\u03bf\u03bd"
+            ],
+            "Latin": [
+                "Fumaria capreolata"
+            ],
+            "English": [
+                "fumitory"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f30\u03c3\u03cc\u03c0\u03c5\u03c1\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 49511,
+                "uri": "https://sedra.bethmardutho.org/api/word/49511.json"
+            },
+            {
+                "id": 55397,
+                "uri": "https://sedra.bethmardutho.org/api/word/55397.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

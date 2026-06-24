@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1947,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1947.json"
+        },
+        "syriac": "\u0722\u071a\u072b\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Nahshon"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1163,
+            "uri": "https://sedra.bethmardutho.org/api/root/1163.json"
+        },
+        "words": [
+            {
+                "id": 12703,
+                "uri": "https://sedra.bethmardutho.org/api/word/12703.json"
+            },
+            {
+                "id": 12704,
+                "uri": "https://sedra.bethmardutho.org/api/word/12704.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

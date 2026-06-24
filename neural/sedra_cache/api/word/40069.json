@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0712",
+        "western": "\u0710\u0718\u0712",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15230,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15230.json"
+        },
+        "stem": "\u0710\u0718\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0730\u0710\u0718\u0730\u0712</span> to desire greatly."
+            ]
+        },
+        "word": {
+            "id": 40069,
+            "uri": "https://sedra.bethmardutho.org/api/word/40069.json"
+        }
+    }
+]

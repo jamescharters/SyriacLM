@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 1037,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1037.json"
+        },
+        "syriac": "\u071a\u0720\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u062d\u0641",
+                "\u0648\u0644\u062c"
+            ],
+            "French": [
+                "ramper",
+                "s&#39;insinuer"
+            ],
+            "English": [
+                "IIa to insinuate oneself, to move in",
+                "penetrate",
+                "to lie hid",
+                "IIIa to drive in, screw in.",
+                "to burrow",
+                "Ia to creep, crawl, glide"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 627,
+            "uri": "https://sedra.bethmardutho.org/api/root/627.json"
+        },
+        "words": [
+            {
+                "id": 24813,
+                "uri": "https://sedra.bethmardutho.org/api/word/24813.json"
+            },
+            {
+                "id": 24812,
+                "uri": "https://sedra.bethmardutho.org/api/word/24812.json"
+            },
+            {
+                "id": 7058,
+                "uri": "https://sedra.bethmardutho.org/api/word/7058.json"
+            },
+            {
+                "id": 7057,
+                "uri": "https://sedra.bethmardutho.org/api/word/7057.json"
+            },
+            {
+                "id": 24815,
+                "uri": "https://sedra.bethmardutho.org/api/word/24815.json"
+            },
+            {
+                "id": 24814,
+                "uri": "https://sedra.bethmardutho.org/api/word/24814.json"
+            },
+            {
+                "id": 7059,
+                "uri": "https://sedra.bethmardutho.org/api/word/7059.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

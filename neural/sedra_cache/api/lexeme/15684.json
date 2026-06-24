@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15684,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15684.json"
+        },
+        "syriac": "\u0723\u0723",
+        "glosses": {
+            "English": [
+                "to corrode.",
+                "Ia to gnaw",
+                "IIa <span class=\"selectableFont\">\u0723\u0730\u0723\u0736\u0723</span> to gnaw"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2593,
+            "uri": "https://sedra.bethmardutho.org/api/root/2593.json"
+        },
+        "words": [
+            {
+                "id": 41616,
+                "uri": "https://sedra.bethmardutho.org/api/word/41616.json"
+            },
+            {
+                "id": 40876,
+                "uri": "https://sedra.bethmardutho.org/api/word/40876.json"
+            },
+            {
+                "id": 40391,
+                "uri": "https://sedra.bethmardutho.org/api/word/40391.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

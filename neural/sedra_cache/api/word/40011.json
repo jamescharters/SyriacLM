@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u072b",
+        "western": "\u0720\u0733\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15603,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15603.json"
+        },
+        "stem": "\u0720\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to knead",
+                "to weld",
+                "Ip to be kneaded",
+                "to be softened, moistened."
+            ]
+        },
+        "word": {
+            "id": 40011,
+            "uri": "https://sedra.bethmardutho.org/api/word/40011.json"
+        }
+    }
+]

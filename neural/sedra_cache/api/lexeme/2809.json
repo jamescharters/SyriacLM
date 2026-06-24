@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2809,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2809.json"
+        },
+        "syriac": "\u0729\u071d\u0722\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u062f\u0627\u062f",
+                "\u0635\u0627\u0626\u063a"
+            ],
+            "French": [
+                "forgeron",
+                "orf\u00e8vre"
+            ],
+            "English": [
+                "smith",
+                "blacksmith, smith."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1657,
+            "uri": "https://sedra.bethmardutho.org/api/root/1657.json"
+        },
+        "words": [
+            {
+                "id": 18331,
+                "uri": "https://sedra.bethmardutho.org/api/word/18331.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

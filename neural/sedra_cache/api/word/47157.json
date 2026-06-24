@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071a\u072a\u0710",
+        "western": "\u071a\u072a\u0733\u0710",
+        "lexeme": {
+            "id": 20783,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20783.json"
+        },
+        "stem": "\u071a\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0631\u0626"
+            ],
+            "eng": [
+                "to mute"
+            ],
+            "fre": [
+                "vider l&#39;intestin"
+            ]
+        },
+        "word": {
+            "id": 47157,
+            "uri": "https://sedra.bethmardutho.org/api/word/47157.json"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 586,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/586.json"
+        },
+        "syriac": "\u0713\u0721\u0720\u071d\u0710\u071d\u0720",
+        "glosses": {
+            "English": [
+                "Gamaliel"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 381,
+            "uri": "https://sedra.bethmardutho.org/api/root/381.json"
+        },
+        "words": [
+            {
+                "id": 3814,
+                "uri": "https://sedra.bethmardutho.org/api/word/3814.json"
+            },
+            {
+                "id": 3813,
+                "uri": "https://sedra.bethmardutho.org/api/word/3813.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

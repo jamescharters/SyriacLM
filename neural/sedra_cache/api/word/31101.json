@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0721\u071d",
+        "western": "\u0729\u073d\u0718\u0721\u073a\u071d",
+        "number": "singular",
+        "lexeme": {
+            "id": 9995,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9995.json"
+        },
+        "stem": "\u0729\u0718\u0721\u071d",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0645\u063a \u0639\u0631\u0628\u064a"
+            ],
+            "eng": [
+                "gum."
+            ],
+            "fre": [
+                "gomme arabique"
+            ]
+        },
+        "word": {
+            "id": 31101,
+            "uri": "https://sedra.bethmardutho.org/api/word/31101.json"
+        }
+    }
+]

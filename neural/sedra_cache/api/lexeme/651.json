@@ -1,0 +1,70 @@
+[
+    {
+        "lexeme": {
+            "id": 651,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/651.json"
+        },
+        "syriac": "\u0721\u0715\u0712\u072a\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0626\u064a\u0633, \u0645\u062a\u0648\u0644",
+                "\u0645\u062f\u0628\u0631",
+                "\u0631\u0626\u064a\u0633 \u062f\u064a\u0631"
+            ],
+            "French": [
+                "chef , pr\u00e9pos\u00e9",
+                "administrateur",
+                "abb\u00e9"
+            ],
+            "English": [
+                "ruler",
+                "guide",
+                "leader",
+                "abbot, bishop",
+                "Kth. director, administrator.",
+                "leader, guide, governor, ruler"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 415,
+            "uri": "https://sedra.bethmardutho.org/api/root/415.json"
+        },
+        "words": [
+            {
+                "id": 4130,
+                "uri": "https://sedra.bethmardutho.org/api/word/4130.json"
+            },
+            {
+                "id": 4129,
+                "uri": "https://sedra.bethmardutho.org/api/word/4129.json"
+            },
+            {
+                "id": 3283,
+                "uri": "https://sedra.bethmardutho.org/api/word/3283.json"
+            },
+            {
+                "id": 4133,
+                "uri": "https://sedra.bethmardutho.org/api/word/4133.json"
+            },
+            {
+                "id": 4132,
+                "uri": "https://sedra.bethmardutho.org/api/word/4132.json"
+            },
+            {
+                "id": 4131,
+                "uri": "https://sedra.bethmardutho.org/api/word/4131.json"
+            },
+            {
+                "id": 4135,
+                "uri": "https://sedra.bethmardutho.org/api/word/4135.json"
+            },
+            {
+                "id": 4134,
+                "uri": "https://sedra.bethmardutho.org/api/word/4134.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

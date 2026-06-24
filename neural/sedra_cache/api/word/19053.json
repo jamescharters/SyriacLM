@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072a\u0713\u071d\u0713\u0710",
+        "western": "\u072a\u0713\u0742\u073a\u071d\u0713\u0742\u0733\u0710",
+        "state": "emphatic",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2926,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2926.json"
+        },
+        "stem": "\u072a\u0713\u071d\u0713\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0627\u063a\u0628",
+                "\u0645\u0631\u063a\u0648\u0628, \u0634\u0647\u064a, \u062c\u0645\u064a\u0644"
+            ],
+            "eng": [
+                "pleasant.",
+                "desirous",
+                "desirable"
+            ],
+            "fre": [
+                "d\u00e9sir\u00e9, d\u00e9sirable, beau",
+                "d\u00e9sireux"
+            ]
+        },
+        "word": {
+            "id": 19053,
+            "uri": "https://sedra.bethmardutho.org/api/word/19053.json"
+        }
+    }
+]

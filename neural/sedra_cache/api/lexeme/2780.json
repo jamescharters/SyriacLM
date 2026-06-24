@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2780,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2780.json"
+        },
+        "syriac": "\u0729\u0718\u072a\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "Cyrene"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2048,
+            "uri": "https://sedra.bethmardutho.org/api/root/2048.json"
+        },
+        "words": [
+            {
+                "id": 18158,
+                "uri": "https://sedra.bethmardutho.org/api/word/18158.json"
+            },
+            {
+                "id": 18159,
+                "uri": "https://sedra.bethmardutho.org/api/word/18159.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

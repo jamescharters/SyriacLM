@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15880,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15880.json"
+        },
+        "syriac": "\u0728\u0720\u071a",
+        "glosses": {
+            "English": [
+                "IIp.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u0720\u0730\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0728\u0720\u073d\u0718\u071a</span>, Ia, IIa to split, cleave"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2402,
+            "uri": "https://sedra.bethmardutho.org/api/root/2402.json"
+        },
+        "words": [
+            {
+                "id": 42066,
+                "uri": "https://sedra.bethmardutho.org/api/word/42066.json"
+            },
+            {
+                "id": 41858,
+                "uri": "https://sedra.bethmardutho.org/api/word/41858.json"
+            },
+            {
+                "id": 40513,
+                "uri": "https://sedra.bethmardutho.org/api/word/40513.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

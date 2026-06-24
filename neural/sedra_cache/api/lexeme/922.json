@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 922,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/922.json"
+        },
+        "syriac": "\u071a\u0712\u0718\u0712\u0710",
+        "glosses": {
+            "English": [
+                "twig",
+                "stick",
+                "twigs, dry leaves, rubbish (easily burnt)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 583,
+            "uri": "https://sedra.bethmardutho.org/api/root/583.json"
+        },
+        "words": [
+            {
+                "id": 6035,
+                "uri": "https://sedra.bethmardutho.org/api/word/6035.json"
+            },
+            {
+                "id": 6037,
+                "uri": "https://sedra.bethmardutho.org/api/word/6037.json"
+            },
+            {
+                "id": 6036,
+                "uri": "https://sedra.bethmardutho.org/api/word/6036.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

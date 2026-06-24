@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071b\u072b\u072c\u0729\u0710",
+        "western": "\u071b\u0730\u072b\u072c\u0729\u0733\u0710",
+        "eastern": "\u071b\u0732\u072b\u072c\u0729\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13257,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13257.json"
+        },
+        "stem": "\u071b\u072b\u072c\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0646\u0627\u0621 \u0644\u0644\u0634\u0631\u0628"
+            ],
+            "eng": [
+                "basin",
+                "pan",
+                "tray",
+                "drinking vessel."
+            ],
+            "fre": [
+                "vase \u00e0 boire"
+            ]
+        },
+        "word": {
+            "id": 32948,
+            "uri": "https://sedra.bethmardutho.org/api/word/32948.json"
+        }
+    }
+]

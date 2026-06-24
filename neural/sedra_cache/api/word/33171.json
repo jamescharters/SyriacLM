@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0719\u0729\u0718\u072a\u0710",
+        "western": "\u0719\u0729\u073d\u0718\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5644,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5644.json"
+        },
+        "stem": "\u0719\u0729\u0718\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u064a\u0627\u0642, \u0645\u062c\u0645\u0648\u0639",
+                "\u0646\u0633\u064a\u062c"
+            ],
+            "eng": [
+                "woven cloth, garment."
+            ],
+            "fre": [
+                "tissu, toile",
+                "contexte, ensemble"
+            ]
+        },
+        "word": {
+            "id": 33171,
+            "uri": "https://sedra.bethmardutho.org/api/word/33171.json"
+        }
+    }
+]

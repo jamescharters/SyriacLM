@@ -1,0 +1,54 @@
+[
+    {
+        "syriac": "\u071a\u0712\u071d\u072b\u071d\u0722",
+        "western": "\u071a\u0712\u0742\u073a\u071d\u072b\u073a\u071d\u0722",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 945,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/945.json"
+        },
+        "stem": "\u071a\u0712\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0627\u0635\u0631",
+                "\u0623\u062c\u0628\u0631",
+                "\u062d\u0628\u0633",
+                "\u0627\u0639\u062a\u0642\u0644",
+                "\u00a0"
+            ],
+            "eng": [
+                "include",
+                "confine",
+                "to imply",
+                "Ia to confine, shut in, enclose, confine, contain",
+                "Ip to shut oneself up",
+                "to catch",
+                "to be besieged, confined, comprised",
+                "to besiege",
+                "to restrain",
+                "to live as a recluse",
+                "IIIa to shut up, make subject."
+            ],
+            "fre": [
+                "\u00a0",
+                "clo\u00eetrer",
+                "assi\u00e9ger",
+                "contraindre",
+                "emprisonner"
+            ]
+        },
+        "word": {
+            "id": 6172,
+            "uri": "https://sedra.bethmardutho.org/api/word/6172.json"
+        }
+    }
+]

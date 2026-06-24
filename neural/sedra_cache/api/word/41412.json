@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0726\u071b\u072a\u071f",
+        "western": "\u0726\u0730\u071b\u072a\u0736\u071f",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14759,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14759.json"
+        },
+        "stem": "\u0726\u071b\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062c\u0639\u0644\u0647 \u0628\u0637\u0631\u064a\u0631\u0643\u0627\u064b"
+            ],
+            "eng": [
+                "IVp.",
+                "IVa to elect as patriarch"
+            ],
+            "fre": [
+                "\u00a0",
+                "faire patriarche"
+            ]
+        },
+        "word": {
+            "id": 41412,
+            "uri": "https://sedra.bethmardutho.org/api/word/41412.json"
+        }
+    }
+]

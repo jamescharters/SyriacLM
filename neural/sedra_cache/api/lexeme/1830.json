@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 1830,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1830.json"
+        },
+        "syriac": "\u0721\u0728\u072a\u071d\u0722",
+        "glosses": {
+            "English": [
+                "Egypt"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1096,
+            "uri": "https://sedra.bethmardutho.org/api/root/1096.json"
+        },
+        "words": [
+            {
+                "id": 12124,
+                "uri": "https://sedra.bethmardutho.org/api/word/12124.json"
+            },
+            {
+                "id": 12123,
+                "uri": "https://sedra.bethmardutho.org/api/word/12123.json"
+            },
+            {
+                "id": 12122,
+                "uri": "https://sedra.bethmardutho.org/api/word/12122.json"
+            },
+            {
+                "id": 12121,
+                "uri": "https://sedra.bethmardutho.org/api/word/12121.json"
+            },
+            {
+                "id": 12120,
+                "uri": "https://sedra.bethmardutho.org/api/word/12120.json"
+            },
+            {
+                "id": 12119,
+                "uri": "https://sedra.bethmardutho.org/api/word/12119.json"
+            },
+            {
+                "id": 12125,
+                "uri": "https://sedra.bethmardutho.org/api/word/12125.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

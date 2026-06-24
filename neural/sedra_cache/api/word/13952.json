@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u0723\u071d\u0726",
+        "western": "\u0722\u0723\u073a\u071d\u0726\u0742",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2098,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2098.json"
+        },
+        "stem": "\u0723\u0718\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "consume",
+                "disappear"
+            ]
+        },
+        "word": {
+            "id": 13952,
+            "uri": "https://sedra.bethmardutho.org/api/word/13952.json"
+        }
+    }
+]

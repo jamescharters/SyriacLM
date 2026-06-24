@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15365,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15365.json"
+        },
+        "syriac": "\u0720\u071f\u071a",
+        "glosses": {
+            "English": [
+                "IIa to lick, lick up, suck (of bee).",
+                "Ia to lick, lick up"
+            ],
+            "Arabic": [
+                "\u0644\u0642\u0641, \u0644\u062d\u0633"
+            ],
+            "French": [
+                "laper, lecher"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2387,
+            "uri": "https://sedra.bethmardutho.org/api/root/2387.json"
+        },
+        "words": [
+            {
+                "id": 41836,
+                "uri": "https://sedra.bethmardutho.org/api/word/41836.json"
+            },
+            {
+                "id": 40540,
+                "uri": "https://sedra.bethmardutho.org/api/word/40540.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

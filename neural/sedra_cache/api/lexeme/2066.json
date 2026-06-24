@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2066,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2066.json"
+        },
+        "syriac": "\u0723\u0718\u0713\u0710\u0710",
+        "glosses": {
+            "English": [
+                "multitude",
+                "abundance",
+                "multitude, greater part, majority."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1232,
+            "uri": "https://sedra.bethmardutho.org/api/root/1232.json"
+        },
+        "words": [
+            {
+                "id": 13738,
+                "uri": "https://sedra.bethmardutho.org/api/word/13738.json"
+            },
+            {
+                "id": 13737,
+                "uri": "https://sedra.bethmardutho.org/api/word/13737.json"
+            },
+            {
+                "id": 13735,
+                "uri": "https://sedra.bethmardutho.org/api/word/13735.json"
+            },
+            {
+                "id": 13739,
+                "uri": "https://sedra.bethmardutho.org/api/word/13739.json"
+            },
+            {
+                "id": 13736,
+                "uri": "https://sedra.bethmardutho.org/api/word/13736.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

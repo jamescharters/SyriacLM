@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3277,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3277.json"
+        },
+        "syriac": "\u072b\u0722\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0644"
+            ],
+            "French": [
+                "phtisie"
+            ],
+            "English": [
+                "disease",
+                "consumption."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1909,
+            "uri": "https://sedra.bethmardutho.org/api/root/1909.json"
+        },
+        "words": [
+            {
+                "id": 21685,
+                "uri": "https://sedra.bethmardutho.org/api/word/21685.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

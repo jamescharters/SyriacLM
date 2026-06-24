@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0710\u071b\u071d\u0721\u0710",
+        "western": "\u0710\u0730\u071b\u073a\u071d\u0721\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12243,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12243.json"
+        },
+        "stem": "\u0710\u071b\u071d\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0644\u0628",
+                "\u0645\u0644\u064a\u0621",
+                "\u0643\u062b\u064a\u0641",
+                "\u0623\u0637\u0631\u0634",
+                "\u0645\u062d\u0635\u0648\u0631",
+                "\u0645\u063a\u0644\u0642"
+            ],
+            "eng": [
+                "dense, solid",
+                "deaf.",
+                "closed, narrow",
+                "unhonoured, dishonoured"
+            ],
+            "fre": [
+                "ferm\u00e9",
+                "sourd",
+                "solide",
+                "dense",
+                "plein",
+                "resserr\u00e9"
+            ],
+            "grc": [
+                "\u1f04\u03c4\u03b9\u03bc\u03bf\u03c2"
+            ]
+        },
+        "word": {
+            "id": 32009,
+            "uri": "https://sedra.bethmardutho.org/api/word/32009.json"
+        }
+    }
+]

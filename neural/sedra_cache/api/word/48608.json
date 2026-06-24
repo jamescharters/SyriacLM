@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0713\u071d",
+        "western": "\u0710\u0733\u0718\u0713\u073a\u071d",
+        "eastern": "\u0710\u0735\u0718\u0713\u071d\u073c",
+        "lexeme": {
+            "id": 16566,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16566.json"
+        },
+        "stem": "\u0710\u0718\u0713\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to send off",
+                "to drive away"
+            ]
+        },
+        "word": {
+            "id": 48608,
+            "uri": "https://sedra.bethmardutho.org/api/word/48608.json"
+        }
+    }
+]

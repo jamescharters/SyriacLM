@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0721\u0723\u0710",
+        "western": "\u0721\u0723\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1814,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1814.json"
+        },
+        "stem": "\u0721\u0723\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0628\u0646 (\u0645\u0636), \u062e\u062b\u0631 (\u0645\u0636)",
+                "\u062a\u062e\u062b\u0631, \u062a\u062c\u0628\u0646"
+            ],
+            "eng": [
+                "to curdle, become thickened",
+                "Ip to decay, rot, pine",
+                "IIIa to cause to decay, putrefy",
+                "swell",
+                "thicken",
+                "to moisten, dissolve.",
+                "Ia to putrefy, to melt, to waste"
+            ],
+            "fre": [
+                "se cailler, devenir \u00e9pais",
+                "cailler, \u00e9paissir"
+            ]
+        },
+        "word": {
+            "id": 12056,
+            "uri": "https://sedra.bethmardutho.org/api/word/12056.json"
+        }
+    }
+]

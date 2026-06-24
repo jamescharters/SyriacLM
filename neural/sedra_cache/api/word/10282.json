@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071f\u0723\u0723\u0710",
+        "western": "\u071f\u0741\u0723\u0733\u0723\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1561,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1561.json"
+        },
+        "stem": "\u071f\u0723\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "admonition",
+                "sole (of shoe)."
+            ]
+        },
+        "word": {
+            "id": 10282,
+            "uri": "https://sedra.bethmardutho.org/api/word/10282.json"
+        }
+    }
+]

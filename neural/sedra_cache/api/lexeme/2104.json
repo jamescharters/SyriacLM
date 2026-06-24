@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2104,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2104.json"
+        },
+        "syriac": "\u0723\u071a\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0637\u0647\u064a\u0631",
+                "\u0633\u0628\u0627\u062d\u0629"
+            ],
+            "French": [
+                "purification",
+                "natation"
+            ],
+            "English": [
+                "washing",
+                "washing",
+                "swimming."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1257,
+            "uri": "https://sedra.bethmardutho.org/api/root/1257.json"
+        },
+        "words": [
+            {
+                "id": 13977,
+                "uri": "https://sedra.bethmardutho.org/api/word/13977.json"
+            },
+            {
+                "id": 13978,
+                "uri": "https://sedra.bethmardutho.org/api/word/13978.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

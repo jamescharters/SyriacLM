@@ -1,0 +1,61 @@
+[
+    {
+        "syriac": "\u0712\u071a\u072b\u0717",
+        "western": "\u0712\u0741\u071a\u0730\u072b\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1168,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1168.json"
+        },
+        "stem": "\u071a\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0633",
+                "\u0623\u0644\u0645",
+                "\u0627\u0644\u0622\u0644\u0627\u0645",
+                "\u063a\u064a\u0631\u0629",
+                "\u0645\u064a\u0644, \u0647\u0648\u0649",
+                "\u0631\u063a\u0628\u0629",
+                "\u0647\u064a\u062c\u0627\u0646 \u0627\u0644\u0646\u0641\u0633",
+                "\u062d\u0632\u0646"
+            ],
+            "eng": [
+                "passion, affection",
+                "suffering",
+                "experience",
+                "affection",
+                "passion",
+                "lust",
+                "sorrow, sadness",
+                "suffering, pain",
+                "the Passion.",
+                "feeling"
+            ],
+            "fre": [
+                "sentiment",
+                "souffrance",
+                "la Passion",
+                "tristesse",
+                "trouble , mouvement de l&#39;\u00e2me",
+                "d\u00e9sir",
+                "affection , passion",
+                "z\u00e8le"
+            ]
+        },
+        "word": {
+            "id": 7675,
+            "uri": "https://sedra.bethmardutho.org/api/word/7675.json"
+        }
+    }
+]

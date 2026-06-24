@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15532,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15532.json"
+        },
+        "syriac": "\u072c\u0720\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0644\u0639",
+                "\u00a0"
+            ],
+            "French": [
+                "arracher",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to tear out (a plant etc.)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2364,
+            "uri": "https://sedra.bethmardutho.org/api/root/2364.json"
+        },
+        "words": [
+            {
+                "id": 41984,
+                "uri": "https://sedra.bethmardutho.org/api/word/41984.json"
+            },
+            {
+                "id": 41137,
+                "uri": "https://sedra.bethmardutho.org/api/word/41137.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

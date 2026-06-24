@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 3205,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3205.json"
+        },
+        "syriac": "\u072b\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "suddenly",
+                "calm",
+                "silence",
+                "cessation",
+                "lull",
+                "quietness",
+                "stillness, quiet, calm",
+                "<span class=\"selectableFont\">\u0721\u0736\u0722 \u072b\u0736\u0720\u071d\u0331</span> suddenly, unexpectedly",
+                "<span class=\"selectableFont\">\u0715\u0720\u0733\u0710 \u072b\u0736\u0720\u071d\u0733\u0710</span> ceaselessly."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1868,
+            "uri": "https://sedra.bethmardutho.org/api/root/1868.json"
+        },
+        "words": [
+            {
+                "id": 21039,
+                "uri": "https://sedra.bethmardutho.org/api/word/21039.json"
+            },
+            {
+                "id": 21038,
+                "uri": "https://sedra.bethmardutho.org/api/word/21038.json"
+            },
+            {
+                "id": 21037,
+                "uri": "https://sedra.bethmardutho.org/api/word/21037.json"
+            },
+            {
+                "id": 21036,
+                "uri": "https://sedra.bethmardutho.org/api/word/21036.json"
+            },
+            {
+                "id": 21040,
+                "uri": "https://sedra.bethmardutho.org/api/word/21040.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

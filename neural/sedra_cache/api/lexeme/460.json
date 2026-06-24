@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 460,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/460.json"
+        },
+        "syriac": "\u0712\u072a\u0710",
+        "glosses": {
+            "English": [
+                "outside",
+                "exterior",
+                "open country",
+                "<span class=\"selectableFont\">\u0720\u0712\u0730\u072a</span> outside, out, <span class=\"selectableFont\">\u0720\u0712\u0730\u072a \u0721\u0736\u0722</span> apart from."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 313,
+            "uri": "https://sedra.bethmardutho.org/api/root/313.json"
+        },
+        "words": [
+            {
+                "id": 3161,
+                "uri": "https://sedra.bethmardutho.org/api/word/3161.json"
+            },
+            {
+                "id": 24154,
+                "uri": "https://sedra.bethmardutho.org/api/word/24154.json"
+            },
+            {
+                "id": 3159,
+                "uri": "https://sedra.bethmardutho.org/api/word/3159.json"
+            },
+            {
+                "id": 3160,
+                "uri": "https://sedra.bethmardutho.org/api/word/3160.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u071d\u0715\u0718\u0725\u0718\u0717\u071d",
+        "western": "\u071d\u0733\u0715\u0742\u073d\u0718\u0725\u0730\u0718\u0717\u0331\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1301,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1301.json"
+        },
+        "stem": "\u071d\u0715\u0718\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "acquaintance",
+                "intimate.",
+                "learned, experienced, skilful",
+                "familiar person",
+                "acquaintance"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 8529,
+            "uri": "https://sedra.bethmardutho.org/api/word/8529.json"
+        }
+    }
+]

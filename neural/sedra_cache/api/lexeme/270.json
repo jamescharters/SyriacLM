@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 270,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/270.json"
+        },
+        "syriac": "\u0710\u072a\u0712\u0725\u0723\u072a",
+        "glosses": {
+            "English": [
+                "fourteen"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 202,
+            "uri": "https://sedra.bethmardutho.org/api/root/202.json"
+        },
+        "words": [
+            {
+                "id": 1831,
+                "uri": "https://sedra.bethmardutho.org/api/word/1831.json"
+            },
+            {
+                "id": 1832,
+                "uri": "https://sedra.bethmardutho.org/api/word/1832.json"
+            },
+            {
+                "id": 1827,
+                "uri": "https://sedra.bethmardutho.org/api/word/1827.json"
+            },
+            {
+                "id": 1826,
+                "uri": "https://sedra.bethmardutho.org/api/word/1826.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

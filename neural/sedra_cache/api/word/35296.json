@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u071b\u071d\u071a\u0710",
+        "western": "\u072b\u071b\u073a\u071d\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9984,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9984.json"
+        },
+        "stem": "\u072b\u071b\u071d\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u0637\u062d",
+                "\u0637\u0648\u064a\u0644"
+            ],
+            "eng": [
+                "prone, flat",
+                "diffuse.",
+                "trailing (of plants)"
+            ],
+            "fre": [
+                "plan",
+                "long"
+            ]
+        },
+        "word": {
+            "id": 35296,
+            "uri": "https://sedra.bethmardutho.org/api/word/35296.json"
+        }
+    }
+]

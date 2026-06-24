@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0728\u072a\u071d\u0726\u0718\u072c\u0710",
+        "western": "\u0728\u072a\u073a\u071d\u0726\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6771,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6771.json"
+        },
+        "stem": "\u0728\u072a\u071d\u0726\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0637\u0647\u064a\u0631"
+            ],
+            "eng": [
+                "fusion (of metals)."
+            ],
+            "fre": [
+                "purification"
+            ]
+        },
+        "word": {
+            "id": 39583,
+            "uri": "https://sedra.bethmardutho.org/api/word/39583.json"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072b\u0718\u0721\u072a\u0710",
+        "western": "\u072b\u073d\u0718\u0721\u0733\u072a\u0733\u0710",
+        "lexeme": {
+            "id": 5256,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5256.json"
+        },
+        "stem": "\u072b\u0718\u0721\u072a\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u0641\u0627\u0638"
+            ],
+            "eng": [
+                "anise",
+                "reservation, inhibition",
+                "discharge."
+            ],
+            "fre": [
+                "r\u00e9servation"
+            ],
+            "lat": [
+                "anethum foeniculum"
+            ]
+        },
+        "word": {
+            "id": 46865,
+            "uri": "https://sedra.bethmardutho.org/api/word/46865.json"
+        }
+    }
+]

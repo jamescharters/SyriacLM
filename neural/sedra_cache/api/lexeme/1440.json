@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1440,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1440.json"
+        },
+        "syriac": "\u071d\u072c\u0721\u0710",
+        "glosses": {
+            "English": [
+                "desolate",
+                "orphan",
+                "bereft",
+                "bereaved.",
+                "orphan",
+                "fatherless"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 857,
+            "uri": "https://sedra.bethmardutho.org/api/root/857.json"
+        },
+        "words": [
+            {
+                "id": 22797,
+                "uri": "https://sedra.bethmardutho.org/api/word/22797.json"
+            },
+            {
+                "id": 9563,
+                "uri": "https://sedra.bethmardutho.org/api/word/9563.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

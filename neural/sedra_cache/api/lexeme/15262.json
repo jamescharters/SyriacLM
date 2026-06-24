@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 15262,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15262.json"
+        },
+        "syriac": "\u0729\u0715\u071d",
+        "glosses": {
+            "English": [
+                "to retain, acquire",
+                "IIa to possess, hold fast to",
+                "hold fast",
+                "IIp",
+                "IIIa to make permanent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2176,
+            "uri": "https://sedra.bethmardutho.org/api/root/2176.json"
+        },
+        "words": [
+            {
+                "id": 17807,
+                "uri": "https://sedra.bethmardutho.org/api/word/17807.json"
+            },
+            {
+                "id": 17808,
+                "uri": "https://sedra.bethmardutho.org/api/word/17808.json"
+            },
+            {
+                "id": 28082,
+                "uri": "https://sedra.bethmardutho.org/api/word/28082.json"
+            },
+            {
+                "id": 28083,
+                "uri": "https://sedra.bethmardutho.org/api/word/28083.json"
+            },
+            {
+                "id": 40811,
+                "uri": "https://sedra.bethmardutho.org/api/word/40811.json"
+            },
+            {
+                "id": 40658,
+                "uri": "https://sedra.bethmardutho.org/api/word/40658.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

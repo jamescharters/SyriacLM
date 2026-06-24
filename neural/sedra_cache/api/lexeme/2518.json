@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2518,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2518.json"
+        },
+        "syriac": "\u0721\u0726\u0720\u0713\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0646\u0635\u0641"
+            ],
+            "French": [
+                "arbitre"
+            ],
+            "English": [
+                "divider",
+                "divider, separating."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1496,
+            "uri": "https://sedra.bethmardutho.org/api/root/1496.json"
+        },
+        "words": [
+            {
+                "id": 16410,
+                "uri": "https://sedra.bethmardutho.org/api/word/16410.json"
+            },
+            {
+                "id": 16411,
+                "uri": "https://sedra.bethmardutho.org/api/word/16411.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

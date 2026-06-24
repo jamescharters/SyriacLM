@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072b\u0717\u072a\u071d\u0722",
+        "western": "\u072b\u0733\u0717\u072a\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3127,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3127.json"
+        },
+        "stem": "\u072b\u0717\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0647\u0631"
+            ],
+            "eng": [
+                "Ia to keep watch, vigil",
+                "watch",
+                "IIIa to cause to watch",
+                "IIa to keep careful watch",
+                "to be wakeful."
+            ],
+            "fre": [
+                "veiller"
+            ]
+        },
+        "word": {
+            "id": 20503,
+            "uri": "https://sedra.bethmardutho.org/api/word/20503.json"
+        }
+    }
+]

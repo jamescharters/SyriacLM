@@ -1,0 +1,70 @@
+[
+    {
+        "lexeme": {
+            "id": 3186,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3186.json"
+        },
+        "syriac": "\u072b\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0643\u0646 (\u0645\u0636)",
+                "\u0623\u0645\u0646 (\u0645\u0636)",
+                "\u0635\u0627\u0644\u062d",
+                "\u0628\u0634\u0631 \u0628\u0627\u0644\u0633\u0644\u0627\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "apaiser",
+                "donner la paix \u00e0",
+                "r\u00e9concilier",
+                "annoncer la paix",
+                "\u00a0"
+            ],
+            "English": [
+                "peace",
+                "reconcile",
+                "IIp.",
+                "to reconcile",
+                "IIa to pacify",
+                "to calm",
+                "to make peace, peaceful"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1856,
+            "uri": "https://sedra.bethmardutho.org/api/root/1856.json"
+        },
+        "words": [
+            {
+                "id": 20873,
+                "uri": "https://sedra.bethmardutho.org/api/word/20873.json"
+            },
+            {
+                "id": 20871,
+                "uri": "https://sedra.bethmardutho.org/api/word/20871.json"
+            },
+            {
+                "id": 20870,
+                "uri": "https://sedra.bethmardutho.org/api/word/20870.json"
+            },
+            {
+                "id": 272,
+                "uri": "https://sedra.bethmardutho.org/api/word/272.json"
+            },
+            {
+                "id": 20874,
+                "uri": "https://sedra.bethmardutho.org/api/word/20874.json"
+            },
+            {
+                "id": 20869,
+                "uri": "https://sedra.bethmardutho.org/api/word/20869.json"
+            },
+            {
+                "id": 20872,
+                "uri": "https://sedra.bethmardutho.org/api/word/20872.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 120,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/120.json"
+        },
+        "syriac": "\u0710\u0718\u071f\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0633\u0648\u062f"
+            ],
+            "French": [
+                "noir"
+            ],
+            "English": [
+                "black",
+                "black",
+                "dark."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 91,
+            "uri": "https://sedra.bethmardutho.org/api/root/91.json"
+        },
+        "words": [
+            {
+                "id": 875,
+                "uri": "https://sedra.bethmardutho.org/api/word/875.json"
+            },
+            {
+                "id": 876,
+                "uri": "https://sedra.bethmardutho.org/api/word/876.json"
+            },
+            {
+                "id": 874,
+                "uri": "https://sedra.bethmardutho.org/api/word/874.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

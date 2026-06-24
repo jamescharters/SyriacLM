@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u0718\u0728",
+        "western": "\u0715\u0741\u073d\u0718\u0728",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 672,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/672.json"
+        },
+        "stem": "\u0715\u0718\u0728",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa <span class=\"selectableFont\">\u0715\u0730\u071d\u0736\u0728</span> to dance for joy",
+                "Ia to leap for joy, exult",
+                "to exhilarate.",
+                "exult",
+                "rejoice",
+                "leap for joy"
+            ]
+        },
+        "word": {
+            "id": 4231,
+            "uri": "https://sedra.bethmardutho.org/api/word/4231.json"
+        }
+    }
+]

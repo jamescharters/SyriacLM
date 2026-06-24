@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1031,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1031.json"
+        },
+        "syriac": "\u071a\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0644\u062c",
+                "\u0646\u0642\u0636"
+            ],
+            "French": [
+                "couper en deux",
+                "saper"
+            ],
+            "English": [
+                "cut asunder",
+                "sap"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 624,
+            "uri": "https://sedra.bethmardutho.org/api/root/624.json"
+        },
+        "words": [
+            {
+                "id": 7049,
+                "uri": "https://sedra.bethmardutho.org/api/word/7049.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

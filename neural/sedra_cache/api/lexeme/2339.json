@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2339,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2339.json"
+        },
+        "syriac": "\u0721\u0725\u0721\u0715\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0639\u0645\u062f (\u0645\u062a\u0640)"
+            ],
+            "French": [
+                "baptiseur"
+            ],
+            "English": [
+                "baptizer",
+                "baptizer, baptist."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1387,
+            "uri": "https://sedra.bethmardutho.org/api/root/1387.json"
+        },
+        "words": [
+            {
+                "id": 15607,
+                "uri": "https://sedra.bethmardutho.org/api/word/15607.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1868,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1868.json"
+        },
+        "syriac": "\u0721\u072a\u072c\u0710",
+        "glosses": {
+            "English": [
+                "Martha",
+                "lady, mistress, owner."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1116,
+            "uri": "https://sedra.bethmardutho.org/api/root/1116.json"
+        },
+        "words": [
+            {
+                "id": 12287,
+                "uri": "https://sedra.bethmardutho.org/api/word/12287.json"
+            },
+            {
+                "id": 12286,
+                "uri": "https://sedra.bethmardutho.org/api/word/12286.json"
+            },
+            {
+                "id": 12285,
+                "uri": "https://sedra.bethmardutho.org/api/word/12285.json"
+            },
+            {
+                "id": 12288,
+                "uri": "https://sedra.bethmardutho.org/api/word/12288.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

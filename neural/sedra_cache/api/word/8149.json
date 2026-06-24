@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u0721\u0710",
+        "western": "\u071b\u0721\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1249,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1249.json"
+        },
+        "stem": "\u071b\u0721\u0710",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be considered unclean"
+            ]
+        },
+        "word": {
+            "id": 8149,
+            "uri": "https://sedra.bethmardutho.org/api/word/8149.json"
+        }
+    }
+]

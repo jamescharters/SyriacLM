@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0715\u0721\u072c\u072c\u0722\u071d\u071a\u071d\u0722",
+        "western": "\u0715\u0741\u0721\u0736\u072c\u0741\u072c\u0741\u0722\u073a\u071d\u071a\u073a\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ettaph\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1925,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1925.json"
+        },
+        "stem": "\u0722\u0718\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa <span class=\"selectableFont\">\u0722\u0730\u071d\u0730\u071a</span> to assuage, relive, give rest, appease",
+                "cease",
+                "rest",
+                "give rest",
+                "put off",
+                "refresh",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0722\u073a\u071d\u071a</span> to give rest, to refresh, to please",
+                "Ip to be at rest, to be quiet, to be assuaged",
+                "IIIp to calm down",
+                "Ia to rest, to cease",
+                "to be contented, pleased",
+                "to leave aside, lay down",
+                "to be pleased."
+            ]
+        },
+        "word": {
+            "id": 12611,
+            "uri": "https://sedra.bethmardutho.org/api/word/12611.json"
+        }
+    }
+]

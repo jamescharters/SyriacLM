@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0718\u0725\u0728\u0712",
+        "western": "\u0718\u0730\u0725\u0728\u0730\u0712\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2391,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2391.json"
+        },
+        "stem": "\u0725\u0728\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0645\u062f (\u062c\u0631\u062d\u0627\u064b)",
+                "\u0634\u0641\u0649, \u0623\u0635\u0644\u062d",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIa.",
+                "Ip",
+                "bandage",
+                "Ia to bandage, to bind up"
+            ],
+            "fre": [
+                "bander ( une plaie)",
+                "\u00a0",
+                "gu\u00e9rir"
+            ]
+        },
+        "word": {
+            "id": 15881,
+            "uri": "https://sedra.bethmardutho.org/api/word/15881.json"
+        }
+    }
+]

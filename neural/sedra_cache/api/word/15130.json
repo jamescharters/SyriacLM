@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0725\u0718\u071f",
+        "western": "\u0725\u0730\u0718\u0736\u071f\u0742",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15054,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15054.json"
+        },
+        "stem": "\u0725\u0718\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062c\u0628",
+                "\u00a0",
+                "\u0645\u0646\u0639"
+            ],
+            "eng": [
+                "IIa to hinder, to impede",
+                "hinder",
+                "IIp."
+            ],
+            "fre": [
+                "emp\u00eacher",
+                "\u00a0",
+                "voiler"
+            ]
+        },
+        "word": {
+            "id": 15130,
+            "uri": "https://sedra.bethmardutho.org/api/word/15130.json"
+        }
+    }
+]

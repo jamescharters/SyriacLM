@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2194,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2194.json"
+        },
+        "syriac": "\u0723\u072a\u0710",
+        "glosses": {
+            "English": [
+                "Sarah"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1312,
+            "uri": "https://sedra.bethmardutho.org/api/root/1312.json"
+        },
+        "words": [
+            {
+                "id": 14568,
+                "uri": "https://sedra.bethmardutho.org/api/word/14568.json"
+            },
+            {
+                "id": 14567,
+                "uri": "https://sedra.bethmardutho.org/api/word/14567.json"
+            },
+            {
+                "id": 14569,
+                "uri": "https://sedra.bethmardutho.org/api/word/14569.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

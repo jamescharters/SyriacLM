@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0715\u072a\u071f\u072b\u0717\u0718\u0722",
+        "western": "\u0715\u0741\u072a\u0730\u071f\u0742\u072b\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 3029,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3029.json"
+        },
+        "stem": "\u072a\u071f\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0644\u062e\u064a\u0644",
+                "\u0641\u0631\u0633",
+                "\u062d\u062c\u0631\u0629"
+            ],
+            "eng": [
+                "horse",
+                "horse",
+                "horses."
+            ],
+            "fre": [
+                "cheval",
+                "les chevaux",
+                "jument"
+            ]
+        },
+        "word": {
+            "id": 19733,
+            "uri": "https://sedra.bethmardutho.org/api/word/19733.json"
+        }
+    }
+]

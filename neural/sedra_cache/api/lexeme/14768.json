@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14768,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14768.json"
+        },
+        "syriac": "\u0713\u072b\u0713\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u062c\u0633\u0633"
+            ],
+            "French": [
+                "t\u00e2tonner"
+            ],
+            "English": [
+                "IVa to grope."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2787,
+            "uri": "https://sedra.bethmardutho.org/api/root/2787.json"
+        },
+        "words": [
+            {
+                "id": 40728,
+                "uri": "https://sedra.bethmardutho.org/api/word/40728.json"
+            },
+            {
+                "id": 41232,
+                "uri": "https://sedra.bethmardutho.org/api/word/41232.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

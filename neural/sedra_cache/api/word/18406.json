@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0729\u0721\u071b",
+        "western": "\u0729\u0721\u0730\u071b",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2832,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2832.json"
+        },
+        "stem": "\u0729\u0721\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u0637, \u0634\u062f"
+            ],
+            "eng": [
+                "IIp to become wrinkled.",
+                "to bind",
+                "Ip to shrivel up",
+                "shrink",
+                "to contract, shrink",
+                "Ia to take hold of"
+            ],
+            "fre": [
+                "lier, serrer"
+            ]
+        },
+        "word": {
+            "id": 18406,
+            "uri": "https://sedra.bethmardutho.org/api/word/18406.json"
+        }
+    }
+]

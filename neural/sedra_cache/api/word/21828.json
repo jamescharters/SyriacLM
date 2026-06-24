@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u072b\u0729\u0710",
+        "western": "\u072b\u0733\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3298,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3298.json"
+        },
+        "stem": "\u072b\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0638\u0645 \u0627\u0644\u0641\u062e\u0630",
+                "\u0645\u0639\u0631\u0636 \u0627\u0644\u062c\u062b\u062b \u0627\u0644\u0645\u062c\u0647\u0648\u0644\u0629",
+                "\u0633\u0644\u0627\u0644\u0629, \u0630\u0631\u064a\u0629",
+                "\u0633\u0627\u0642"
+            ],
+            "eng": [
+                "shin-bone, leg",
+                "lineage.",
+                "shin bone",
+                "tibia",
+                "line of verse"
+            ],
+            "fre": [
+                "race, souche",
+                "jambe",
+                "morgue",
+                "f\u00e9mur"
+            ]
+        },
+        "word": {
+            "id": 21828,
+            "uri": "https://sedra.bethmardutho.org/api/word/21828.json"
+        }
+    }
+]

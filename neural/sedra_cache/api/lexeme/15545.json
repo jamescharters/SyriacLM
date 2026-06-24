@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15545,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15545.json"
+        },
+        "syriac": "\u0722\u072b\u0721",
+        "glosses": {
+            "English": [
+                "Ip.",
+                "Ia to exhale, to blow, to breathe out"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2936,
+            "uri": "https://sedra.bethmardutho.org/api/root/2936.json"
+        },
+        "words": [
+            {
+                "id": 42122,
+                "uri": "https://sedra.bethmardutho.org/api/word/42122.json"
+            },
+            {
+                "id": 41721,
+                "uri": "https://sedra.bethmardutho.org/api/word/41721.json"
+            },
+            {
+                "id": 40398,
+                "uri": "https://sedra.bethmardutho.org/api/word/40398.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

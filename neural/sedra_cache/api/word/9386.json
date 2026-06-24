@@ -1,0 +1,51 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0729\u072a\u0710",
+        "western": "\u0710\u073a\u071d\u0729\u0733\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1416,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1416.json"
+        },
+        "stem": "\u0710\u071d\u0729\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0627\u0626\u062f\u0629",
+                "\u0634\u0631\u0641, \u0631\u062a\u0628\u0629",
+                "\u0645\u062c\u062f",
+                "\u062a\u062f\u0634\u064a\u0646 (\u0645\u0639\u0628\u062f)",
+                "\u0647\u0628\u0629",
+                "\u0647\u0627\u0645\u0634 (\u0643\u062a\u0627\u0628)",
+                "\u0646\u0641\u0642\u0629"
+            ],
+            "eng": [
+                "glory",
+                "mark of honor, honorarium",
+                "margin (of book).",
+                "honor, glory",
+                "majesty",
+                "honour"
+            ],
+            "fre": [
+                "marge (de livre)",
+                "d\u00e9pense",
+                "gloire",
+                "int\u00e9r\u00eat",
+                "d\u00e9dicace (de sanctuaire)",
+                "don",
+                "honneur, dignit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 9386,
+            "uri": "https://sedra.bethmardutho.org/api/word/9386.json"
+        }
+    }
+]

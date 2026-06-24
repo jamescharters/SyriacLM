@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15071,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15071.json"
+        },
+        "syriac": "\u0725\u072c\u071d",
+        "glosses": {
+            "English": [
+                "IIp to act deceitfully.",
+                "IIa to accuse of deceit"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2730,
+            "uri": "https://sedra.bethmardutho.org/api/root/2730.json"
+        },
+        "words": [
+            {
+                "id": 41194,
+                "uri": "https://sedra.bethmardutho.org/api/word/41194.json"
+            },
+            {
+                "id": 41128,
+                "uri": "https://sedra.bethmardutho.org/api/word/41128.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

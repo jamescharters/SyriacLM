@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0718\u071f\u072a\u071d\u0717\u0718\u072c\u0717",
+        "western": "\u0718\u0730\u071f\u0742\u072a\u073a\u071d\u0717\u073d\u0718\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1583,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1583.json"
+        },
+        "stem": "\u071f\u072a\u071d\u0717\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u0636",
+                "\u0636\u0639\u0641"
+            ],
+            "eng": [
+                "infirmity",
+                "weakness",
+                "infirmity.",
+                "sickness",
+                "sickness",
+                "frailty"
+            ],
+            "fre": [
+                "faiblesse",
+                "maladie"
+            ]
+        },
+        "word": {
+            "id": 10428,
+            "uri": "https://sedra.bethmardutho.org/api/word/10428.json"
+        }
+    }
+]

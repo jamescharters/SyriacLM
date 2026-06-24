@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28762,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28762.json"
+        },
+        "syriac": "\u0710\u071d\u0715\u0717\u0710\u071d\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f30\u03b4\u03b5\u1fd6\u03bd"
+            ],
+            "Latin": [
+                "videre"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f36\u03b4\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 49266,
+                "uri": "https://sedra.bethmardutho.org/api/word/49266.json"
+            },
+            {
+                "id": 55136,
+                "uri": "https://sedra.bethmardutho.org/api/word/55136.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

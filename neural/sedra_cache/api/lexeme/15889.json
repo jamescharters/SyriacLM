@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15889,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15889.json"
+        },
+        "syriac": "\u0725\u0717\u072a",
+        "glosses": {
+            "English": [
+                "Ia, IIp to be lustful."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2442,
+            "uri": "https://sedra.bethmardutho.org/api/root/2442.json"
+        },
+        "words": [
+            {
+                "id": 42134,
+                "uri": "https://sedra.bethmardutho.org/api/word/42134.json"
+            },
+            {
+                "id": 41596,
+                "uri": "https://sedra.bethmardutho.org/api/word/41596.json"
+            },
+            {
+                "id": 40426,
+                "uri": "https://sedra.bethmardutho.org/api/word/40426.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

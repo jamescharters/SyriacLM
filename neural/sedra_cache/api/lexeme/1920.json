@@ -1,0 +1,28 @@
+[
+    {
+        "lexeme": {
+            "id": 1920,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1920.json"
+        },
+        "syriac": "\u0722\u0718\u0713",
+        "glosses": {
+            "English": [
+                "IIa to shipwreck",
+                "shipwrecked",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1146,
+            "uri": "https://sedra.bethmardutho.org/api/root/1146.json"
+        },
+        "words": [
+            {
+                "id": 12588,
+                "uri": "https://sedra.bethmardutho.org/api/word/12588.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

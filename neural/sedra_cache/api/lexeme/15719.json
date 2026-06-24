@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15719,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15719.json"
+        },
+        "syriac": "\u071a\u0721\u0710",
+        "glosses": {
+            "English": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0721\u0736\u0710</span>, Ia to sweep. {new}"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2523,
+            "uri": "https://sedra.bethmardutho.org/api/root/2523.json"
+        },
+        "words": [
+            {
+                "id": 42027,
+                "uri": "https://sedra.bethmardutho.org/api/word/42027.json"
+            },
+            {
+                "id": 40852,
+                "uri": "https://sedra.bethmardutho.org/api/word/40852.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

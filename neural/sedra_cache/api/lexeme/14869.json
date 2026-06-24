@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 14869,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14869.json"
+        },
+        "syriac": "\u0725\u0718\u0729\u0715",
+        "glosses": {
+            "English": [
+                "IVa to coil, to bend",
+                "to be perplexed.",
+                "IVp to twist around, to writhe"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3046,
+            "uri": "https://sedra.bethmardutho.org/api/root/3046.json"
+        },
+        "words": [
+            {
+                "id": 41529,
+                "uri": "https://sedra.bethmardutho.org/api/word/41529.json"
+            },
+            {
+                "id": 40340,
+                "uri": "https://sedra.bethmardutho.org/api/word/40340.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

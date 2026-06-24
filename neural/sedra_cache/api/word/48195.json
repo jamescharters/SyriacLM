@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0710\u072a\u071b\u0718\u0723",
+        "western": "\u0710\u0733\u0710\u0730\u072a\u071b\u0718\u0733\u0723",
+        "eastern": "\u0710\u0735\u0710\u0732\u072a\u071b\u0718\u073f\u0723",
+        "lexeme": {
+            "id": 20243,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20243.json"
+        },
+        "stem": "\u0710\u0710\u072a\u071b\u0718\u0723",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "unseen, invisible"
+            ],
+            "grc": [
+                "\u1f00\u03cc\u03c1\u03b1\u03c4\u03bf\u03c2"
+            ],
+            "lat": [
+                "invisibilis"
+            ]
+        },
+        "word": {
+            "id": 48195,
+            "uri": "https://sedra.bethmardutho.org/api/word/48195.json"
+        }
+    }
+]

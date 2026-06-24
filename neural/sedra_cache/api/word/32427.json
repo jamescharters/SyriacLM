@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0715\u071d\u0712\u071b\u0710",
+        "western": "\u0715\u073a\u071d\u0712\u0730\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10604,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10604.json"
+        },
+        "stem": "\u0715\u071d\u0712\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "compasses",
+                "carpenter\u2019s square."
+            ]
+        },
+        "word": {
+            "id": 32427,
+            "uri": "https://sedra.bethmardutho.org/api/word/32427.json"
+        }
+    }
+]

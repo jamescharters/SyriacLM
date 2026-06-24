@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 559,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/559.json"
+        },
+        "syriac": "\u0713\u071d\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0635"
+            ],
+            "French": [
+                "brigand"
+            ],
+            "English": [
+                "robber",
+                "bandit",
+                "robber."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 368,
+            "uri": "https://sedra.bethmardutho.org/api/root/368.json"
+        },
+        "words": [
+            {
+                "id": 3683,
+                "uri": "https://sedra.bethmardutho.org/api/word/3683.json"
+            },
+            {
+                "id": 3682,
+                "uri": "https://sedra.bethmardutho.org/api/word/3682.json"
+            },
+            {
+                "id": 3681,
+                "uri": "https://sedra.bethmardutho.org/api/word/3681.json"
+            },
+            {
+                "id": 3679,
+                "uri": "https://sedra.bethmardutho.org/api/word/3679.json"
+            },
+            {
+                "id": 3680,
+                "uri": "https://sedra.bethmardutho.org/api/word/3680.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

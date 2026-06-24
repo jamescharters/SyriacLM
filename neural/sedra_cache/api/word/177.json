@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0710\u0713\u0718\u0723\u071b\u0718\u0723",
+        "western": "\u0710\u0730\u0713\u0742\u073d\u0718\u0723\u071b\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 21,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21.json"
+        },
+        "stem": "\u0710\u0713\u0718\u0723\u071b\u0718\u0723",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "lat": [
+                "Augustus"
+            ]
+        },
+        "word": {
+            "id": 177,
+            "uri": "https://sedra.bethmardutho.org/api/word/177.json"
+        }
+    }
+]

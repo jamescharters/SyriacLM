@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0718\u0721\u0729\u0712\u0720\u0710",
+        "western": "\u0718\u0730\u0721\u0729\u0730\u0712\u0741\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2726,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2726.json"
+        },
+        "stem": "\u0721\u0729\u0712\u0720\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u0635\u0644"
+            ],
+            "eng": [
+                "acceptable"
+            ],
+            "fre": [
+                "receveur"
+            ]
+        },
+        "word": {
+            "id": 17662,
+            "uri": "https://sedra.bethmardutho.org/api/word/17662.json"
+        }
+    }
+]

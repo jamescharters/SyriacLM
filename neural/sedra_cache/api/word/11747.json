@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0721\u0718\u0720\u071f\u0722\u0717\u0718\u0722",
+        "western": "\u0721\u073d\u0718\u0720\u071f\u0741\u0733\u0722\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1781,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1781.json"
+        },
+        "stem": "\u0721\u0718\u0720\u071f\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0639\u062f",
+                "\u0645\u0634\u0648\u0631\u0629"
+            ],
+            "eng": [
+                "property (left by bequest).",
+                "promise, declaration",
+                "advice",
+                "promise"
+            ],
+            "fre": [
+                "promesse",
+                "conseil"
+            ]
+        },
+        "word": {
+            "id": 11747,
+            "uri": "https://sedra.bethmardutho.org/api/word/11747.json"
+        }
+    }
+]

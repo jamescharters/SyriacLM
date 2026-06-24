@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u072b\u0729\u0718\u072c\u0710",
+        "western": "\u072b\u0733\u0729\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13669,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13669.json"
+        },
+        "stem": "\u072b\u0729\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0642\u064a",
+                "\u062a\u0631\u0648\u064a\u0629",
+                "\u0634\u0631\u0628",
+                "\u0634\u0631\u0627\u0628",
+                "\u062d\u0627\u0644 \u0645\u0627 \u064a\u0633\u0648\u063a"
+            ],
+            "eng": [
+                "drink, drinking.",
+                "irrigation",
+                "water-channel"
+            ],
+            "fre": [
+                "\u00e9tat potable",
+                "action de boire",
+                "irrigation",
+                "action de donner \u00e0 boire",
+                "boisson"
+            ]
+        },
+        "word": {
+            "id": 39306,
+            "uri": "https://sedra.bethmardutho.org/api/word/39306.json"
+        }
+    }
+]

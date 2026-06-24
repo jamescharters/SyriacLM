@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15353,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15353.json"
+        },
+        "syriac": "\u0726\u071a\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0631\u062e\u0649",
+                "\u0633\u062d\u0642",
+                "\u00a0"
+            ],
+            "French": [
+                "amollir",
+                "broyer",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp to be shattered",
+                "IIa to make pottery",
+                "to pound",
+                "to crack",
+                "to be formed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2860,
+            "uri": "https://sedra.bethmardutho.org/api/root/2860.json"
+        },
+        "words": [
+            {
+                "id": 41381,
+                "uri": "https://sedra.bethmardutho.org/api/word/41381.json"
+            },
+            {
+                "id": 41356,
+                "uri": "https://sedra.bethmardutho.org/api/word/41356.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

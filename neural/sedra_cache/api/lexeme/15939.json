@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15939,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15939.json"
+        },
+        "syriac": "\u072c\u072a\u0719",
+        "glosses": {
+            "English": [
+                "IIa to fill",
+                "to rip open, to burst",
+                "to be ripped open.",
+                "IIp to be crammed",
+                "Ip to be filled",
+                "& <span class=\"selectableFont\">\u072c\u072a\u0730\u0719</span> fut. <span class=\"selectableFont\">\u0722\u0736\u072c\u072a\u073d\u0718\u0719</span> & <span class=\"selectableFont\">\u0722\u0736\u072c\u072a\u0730\u0719</span>, Ia to have one\u2019s fill"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2358,
+            "uri": "https://sedra.bethmardutho.org/api/root/2358.json"
+        },
+        "words": [
+            {
+                "id": 42181,
+                "uri": "https://sedra.bethmardutho.org/api/word/42181.json"
+            },
+            {
+                "id": 41723,
+                "uri": "https://sedra.bethmardutho.org/api/word/41723.json"
+            },
+            {
+                "id": 40111,
+                "uri": "https://sedra.bethmardutho.org/api/word/40111.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

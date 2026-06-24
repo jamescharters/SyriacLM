@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0715\u0721\u071f",
+        "western": "\u0715\u0741\u0721\u0736\u071f\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 726,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/726.json"
+        },
+        "stem": "\u0715\u0721\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0627\u0645, \u063a\u0641\u0627",
+                "\u062d\u0644\u0645",
+                "\u0645\u0627\u062a",
+                "\u0623\u0636\u062c\u0639"
+            ],
+            "eng": [
+                "IIa to send to sleep, to lull",
+                "to calm.",
+                "sleep",
+                "IIIa to make to lie down, send to sleep",
+                "Ia to sleep, go to sleep, lie down"
+            ],
+            "fre": [
+                "mourir",
+                "se coucher , \u00eatre couch\u00e9",
+                "avoir un songe",
+                "dormir, s&#39;endormir"
+            ]
+        },
+        "word": {
+            "id": 4719,
+            "uri": "https://sedra.bethmardutho.org/api/word/4719.json"
+        }
+    }
+]

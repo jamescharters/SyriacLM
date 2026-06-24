@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072c\u0720",
+        "western": "\u0710\u0736\u0718\u072c\u0736\u0720",
+        "lexeme": {
+            "id": 28650,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28650.json"
+        },
+        "stem": "\u0710\u0718\u072c\u0720",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Euthelius"
+            ],
+            "grc": [
+                "\u0395\u1f50\u03b8\u03ad\u03bb\u03b9\u03bf\u03c2"
+            ]
+        },
+        "word": {
+            "id": 55024,
+            "uri": "https://sedra.bethmardutho.org/api/word/55024.json"
+        }
+    }
+]

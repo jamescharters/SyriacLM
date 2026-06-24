@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0720\u071d\u0726",
+        "western": "\u0710\u0730\u0720\u073a\u071d\u0726",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15488,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15488.json"
+        },
+        "stem": "\u0720\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0720\u073a\u071d\u0726</span> to be added, join oneself",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0720\u073a\u071d\u0726</span> to connect, subjoin.",
+                "Ia to join, add"
+            ]
+        },
+        "word": {
+            "id": 40808,
+            "uri": "https://sedra.bethmardutho.org/api/word/40808.json"
+        }
+    }
+]

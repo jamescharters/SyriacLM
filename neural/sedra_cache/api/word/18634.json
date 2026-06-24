@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0729\u072a\u071d\u0710",
+        "western": "\u0729\u0730\u072a\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3527,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3527.json"
+        },
+        "stem": "\u0729\u072a\u071d\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "called",
+                "being by vocation"
+            ]
+        },
+        "word": {
+            "id": 18634,
+            "uri": "https://sedra.bethmardutho.org/api/word/18634.json"
+        }
+    }
+]

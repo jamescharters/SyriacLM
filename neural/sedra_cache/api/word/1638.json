@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0723\u0726\u071d\u072a",
+        "western": "\u0710\u0736\u0723\u0726\u0741\u073a\u071d\u072a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 228,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/228.json"
+        },
+        "stem": "\u0710\u0723\u0726\u071d\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "cohort",
+                "ball, sphere."
+            ]
+        },
+        "word": {
+            "id": 1638,
+            "uri": "https://sedra.bethmardutho.org/api/word/1638.json"
+        }
+    }
+]

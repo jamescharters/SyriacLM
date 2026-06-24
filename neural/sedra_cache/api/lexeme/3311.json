@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3311,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3311.json"
+        },
+        "syriac": "\u0721\u072b\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "lodging",
+                "habitation, dwelling, lodging."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1925,
+            "uri": "https://sedra.bethmardutho.org/api/root/1925.json"
+        },
+        "words": [
+            {
+                "id": 22002,
+                "uri": "https://sedra.bethmardutho.org/api/word/22002.json"
+            },
+            {
+                "id": 22003,
+                "uri": "https://sedra.bethmardutho.org/api/word/22003.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

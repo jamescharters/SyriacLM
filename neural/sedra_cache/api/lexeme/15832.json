@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15832,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15832.json"
+        },
+        "syriac": "\u0721\u071b",
+        "glosses": {
+            "English": [
+                "IIp to totter",
+                "Ip to be shaken",
+                "Ia to totter, stagger",
+                "IIIa to cause to reel, shake."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2985,
+            "uri": "https://sedra.bethmardutho.org/api/root/2985.json"
+        },
+        "words": [
+            {
+                "id": 42001,
+                "uri": "https://sedra.bethmardutho.org/api/word/42001.json"
+            },
+            {
+                "id": 40092,
+                "uri": "https://sedra.bethmardutho.org/api/word/40092.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

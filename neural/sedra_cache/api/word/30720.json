@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0719\u0729\u071d\u0726\u0718\u072c\u0710",
+        "western": "\u0719\u0729\u073a\u071d\u0726\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9410,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9410.json"
+        },
+        "stem": "\u0719\u0729\u071d\u0726\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0641\u0639",
+                "\u0631\u0641\u0639",
+                "\u0635\u0644\u0628"
+            ],
+            "eng": [
+                "surging (of waves).",
+                "crucifixion"
+            ],
+            "fre": [
+                "soul\u00e8vement",
+                "\u00e9l\u00e9vation",
+                "crucifixion"
+            ]
+        },
+        "word": {
+            "id": 30720,
+            "uri": "https://sedra.bethmardutho.org/api/word/30720.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0712\u071f\u0720\u0717\u071d\u0722",
+        "western": "\u0718\u0715\u0742\u0730\u0712\u0742\u071f\u0742\u073d\u0720\u0717\u0736\u071d\u0722",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 10642,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10642.json"
+        },
+        "stem": "\u071f\u0720",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "entirely",
+                "<span class=\"selectableFont\">\u071f\u0720</span> +(absolute noun) every, each (e.g. <span class=\"selectableFont\">\u071f\u073d\u0720\u071d\u073d\u0718\u0721</span> every, each day).",
+                "all",
+                "every",
+                "all, the whole",
+                "see <span class=\"selectableFont\">\u071f\u073d\u0720</span>.",
+                "<span class=\"selectableFont\">\u071f\u0720</span> +(absolute noun) every, each (e.g. <span class=\"selectableFont\">\u071f\u073d\u0720\u071d\u073d\u0718\u0721</span> every, each day).",
+                "all, the whole",
+                "whole"
+            ]
+        },
+        "word": {
+            "id": 25727,
+            "uri": "https://sedra.bethmardutho.org/api/word/25727.json"
+        }
+    }
+]

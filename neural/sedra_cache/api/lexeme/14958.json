@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 14958,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14958.json"
+        },
+        "syriac": "\u0726\u072c\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0644\u0637"
+            ],
+            "French": [
+                "m\u00ealer"
+            ],
+            "English": [
+                "IIa to vary",
+                "IIp.",
+                "to mix"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2778,
+            "uri": "https://sedra.bethmardutho.org/api/root/2778.json"
+        },
+        "words": [
+            {
+                "id": 40544,
+                "uri": "https://sedra.bethmardutho.org/api/word/40544.json"
+            },
+            {
+                "id": 40456,
+                "uri": "https://sedra.bethmardutho.org/api/word/40456.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

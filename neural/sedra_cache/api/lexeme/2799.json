@@ -1,0 +1,83 @@
+[
+    {
+        "lexeme": {
+            "id": 2799,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2799.json"
+        },
+        "syriac": "\u0729\u071b\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0628\u0637",
+                "\u0643\u062b\u0641",
+                "\u062d\u0627\u0643 , \u062d\u0628\u0643",
+                "\u0631\u0643\u0628, \u0639\u0645\u0644, \u0623\u0639\u062f",
+                "\u0627\u0628\u062a\u062f\u0623 (\u0627\u0644\u0642\u062a\u0627\u0644)",
+                "\u062a\u062a\u0648\u062c (\u062a\u0633\u0646\u0645 \u0627\u0644\u0639\u0631\u0634)",
+                "\u062a\u0643\u0627\u062b\u0641, \u062c\u0645\u062f",
+                "\u0627\u0646\u0636\u0645",
+                "\u0648\u0642\u0639, \u0635\u0627\u0631, \u062d\u062f\u062b",
+                "\u00a0"
+            ],
+            "French": [
+                "lier",
+                "condenser",
+                "tisser, entrelacer",
+                "composer, faire, pr\u00e9parer",
+                "engager (le combat)",
+                "ceindre (la couronne)",
+                "s&#39;\u00e9paissir, se figer",
+                "se joindre",
+                "s&#39;\u00e9lever, se produire, avoir lieu",
+                "\u00a0"
+            ],
+            "English": [
+                "Ip",
+                "together",
+                "Ia to tie, knot, interweave",
+                "to form",
+                "to condense, grow thick",
+                "IIp",
+                "IIIa.",
+                "to prepare",
+                "IIa",
+                "to engage (battle)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1651,
+            "uri": "https://sedra.bethmardutho.org/api/root/1651.json"
+        },
+        "words": [
+            {
+                "id": 28216,
+                "uri": "https://sedra.bethmardutho.org/api/word/28216.json"
+            },
+            {
+                "id": 28215,
+                "uri": "https://sedra.bethmardutho.org/api/word/28215.json"
+            },
+            {
+                "id": 18297,
+                "uri": "https://sedra.bethmardutho.org/api/word/18297.json"
+            },
+            {
+                "id": 28218,
+                "uri": "https://sedra.bethmardutho.org/api/word/28218.json"
+            },
+            {
+                "id": 28217,
+                "uri": "https://sedra.bethmardutho.org/api/word/28217.json"
+            },
+            {
+                "id": 18299,
+                "uri": "https://sedra.bethmardutho.org/api/word/18299.json"
+            },
+            {
+                "id": 18298,
+                "uri": "https://sedra.bethmardutho.org/api/word/18298.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

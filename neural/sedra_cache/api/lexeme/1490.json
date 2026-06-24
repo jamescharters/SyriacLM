@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1490,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1490.json"
+        },
+        "syriac": "\u071f\u0718\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "reproof",
+                "admonition, warning."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 882,
+            "uri": "https://sedra.bethmardutho.org/api/root/882.json"
+        },
+        "words": [
+            {
+                "id": 9824,
+                "uri": "https://sedra.bethmardutho.org/api/word/9824.json"
+            },
+            {
+                "id": 9825,
+                "uri": "https://sedra.bethmardutho.org/api/word/9825.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

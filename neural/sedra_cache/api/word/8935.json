@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u071f\u0720\u071d\u0718\u0721",
+        "western": "\u071f\u0741\u073d\u0720\u071d\u073d\u0718\u0721",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1523,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1523.json"
+        },
+        "stem": "\u071f\u0720 \u071d\u0718\u0721",
+        "category": "idiom",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "everyday"
+            ]
+        },
+        "word": {
+            "id": 8935,
+            "uri": "https://sedra.bethmardutho.org/api/word/8935.json"
+        }
+    }
+]

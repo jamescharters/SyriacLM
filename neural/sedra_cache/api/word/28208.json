@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0729\u071b\u0720",
+        "western": "\u0729\u0733\u071b\u0736\u0720",
+        "state": "construct",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2788,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2788.json"
+        },
+        "stem": "\u0729\u071b\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0628\u062d",
+                "\u0642\u062a\u0644",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to kill",
+                "IIa to murder, slay",
+                "kill",
+                "Ip",
+                "IIp."
+            ],
+            "fre": [
+                "immoler",
+                "\u00a0",
+                "tuer"
+            ]
+        },
+        "word": {
+            "id": 28208,
+            "uri": "https://sedra.bethmardutho.org/api/word/28208.json"
+        }
+    }
+]

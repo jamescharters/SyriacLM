@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0710\u0722",
+        "western": "\u0721\u0736\u0710\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1699,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1699.json"
+        },
+        "stem": "\u0721\u0710\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to neglect, grow weary.",
+                "be weary",
+                "Ia act. part. -<span class=\"selectableFont\">\u0721\u0736\u0710\u0722\u0730\u072c \u0720\u200d\u200d</span>, -<span class=\"selectableFont\">\u0721\u0733\u0710\u0722\u0733\u0710 \u0720\u200d\u200d</span> to be wearisome, tedious, tiresome",
+                "be tired",
+                "neglect",
+                "tedious",
+                "IIIa to be careless, slothful"
+            ]
+        },
+        "word": {
+            "id": 11190,
+            "uri": "https://sedra.bethmardutho.org/api/word/11190.json"
+        }
+    }
+]

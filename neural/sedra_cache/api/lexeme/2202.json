@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2202,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2202.json"
+        },
+        "syriac": "\u0723\u072a\u0715\u0718\u0722",
+        "glosses": {
+            "English": [
+                "sardius"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1317,
+            "uri": "https://sedra.bethmardutho.org/api/root/1317.json"
+        },
+        "words": [
+            {
+                "id": 14582,
+                "uri": "https://sedra.bethmardutho.org/api/word/14582.json"
+            },
+            {
+                "id": 14583,
+                "uri": "https://sedra.bethmardutho.org/api/word/14583.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

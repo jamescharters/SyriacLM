@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 14955,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14955.json"
+        },
+        "syriac": "\u071d\u0715\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062d\u0628"
+            ],
+            "French": [
+                "aimer"
+            ],
+            "English": [
+                "IIa to love",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2590,
+            "uri": "https://sedra.bethmardutho.org/api/root/2590.json"
+        },
+        "words": [
+            {
+                "id": 41320,
+                "uri": "https://sedra.bethmardutho.org/api/word/41320.json"
+            },
+            {
+                "id": 41219,
+                "uri": "https://sedra.bethmardutho.org/api/word/41219.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071d\u0721\u0721",
+        "western": "\u071d\u0721\u0721",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15346,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15346.json"
+        },
+        "stem": "\u071d\u0721\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u071d\u0730\u0721\u0730\u0721</span> to turn into a sea."
+            ]
+        },
+        "word": {
+            "id": 40359,
+            "uri": "https://sedra.bethmardutho.org/api/word/40359.json"
+        }
+    }
+]

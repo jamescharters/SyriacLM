@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2468,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2468.json"
+        },
+        "syriac": "\u0726\u0718\u0726\u0720\u071d\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Publius"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1462,
+            "uri": "https://sedra.bethmardutho.org/api/root/1462.json"
+        },
+        "words": [
+            {
+                "id": 16249,
+                "uri": "https://sedra.bethmardutho.org/api/word/16249.json"
+            },
+            {
+                "id": 16248,
+                "uri": "https://sedra.bethmardutho.org/api/word/16248.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

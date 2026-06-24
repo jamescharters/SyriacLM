@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0723\u0718\u0726\u0718\u0723",
+        "western": "\u0710\u073a\u071d\u0723\u0733\u0718\u0726\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 29022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29022.json"
+        },
+        "stem": "\u0710\u071d\u0723\u0718\u0726\u0718\u0723",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hyssop, Origanum hirtum"
+            ],
+            "grc": [
+                "\u1f55\u03c3\u03c3\u03c9\u03c0\u03bf\u03c2"
+            ],
+            "lat": [
+                "hyssopus"
+            ]
+        },
+        "word": {
+            "id": 55396,
+            "uri": "https://sedra.bethmardutho.org/api/word/55396.json"
+        }
+    }
+]

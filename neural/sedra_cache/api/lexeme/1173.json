@@ -1,0 +1,73 @@
+[
+    {
+        "lexeme": {
+            "id": 1173,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1173.json"
+        },
+        "syriac": "\u0721\u071a\u072b\u0712\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0643\u0631",
+                "\u0633\u0628\u0628",
+                "\u0646\u064a\u0629"
+            ],
+            "French": [
+                "pens\u00e9e",
+                "raison",
+                "dessein"
+            ],
+            "English": [
+                "consideration, intention.",
+                "thought",
+                "reasoning",
+                "counsel",
+                "thought, idea"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 693,
+            "uri": "https://sedra.bethmardutho.org/api/root/693.json"
+        },
+        "words": [
+            {
+                "id": 29544,
+                "uri": "https://sedra.bethmardutho.org/api/word/29544.json"
+            },
+            {
+                "id": 7741,
+                "uri": "https://sedra.bethmardutho.org/api/word/7741.json"
+            },
+            {
+                "id": 7740,
+                "uri": "https://sedra.bethmardutho.org/api/word/7740.json"
+            },
+            {
+                "id": 7743,
+                "uri": "https://sedra.bethmardutho.org/api/word/7743.json"
+            },
+            {
+                "id": 7742,
+                "uri": "https://sedra.bethmardutho.org/api/word/7742.json"
+            },
+            {
+                "id": 7739,
+                "uri": "https://sedra.bethmardutho.org/api/word/7739.json"
+            },
+            {
+                "id": 7738,
+                "uri": "https://sedra.bethmardutho.org/api/word/7738.json"
+            },
+            {
+                "id": 7745,
+                "uri": "https://sedra.bethmardutho.org/api/word/7745.json"
+            },
+            {
+                "id": 7744,
+                "uri": "https://sedra.bethmardutho.org/api/word/7744.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

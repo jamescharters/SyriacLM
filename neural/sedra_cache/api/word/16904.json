@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0721\u0726\u072a\u0725\u071d\u0722",
+        "western": "\u0721\u0730\u0726\u0742\u072a\u0725\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "aph\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2602,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2602.json"
+        },
+        "stem": "\u0726\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0639\u062b (\u0627\u0644\u0634\u0639\u0631)",
+                "\u0623\u0646\u0628\u062a",
+                "\u062c\u062f\u0631, \u0646\u0628\u062a",
+                "\u0623\u0639\u0627\u062f \u0625\u0644\u0649",
+                "\u0631\u062f",
+                "\u0643\u0634\u0641 (\u0627\u0644\u0631\u0623\u0633)"
+            ],
+            "eng": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0726\u072a\u0730\u0725</span>, Ia to sprout, to bud",
+                "spring up",
+                "IIIa to germinate."
+            ],
+            "fre": [
+                "d\u00e9nouer (les cheveux)",
+                "rendre",
+                "rendre \u00e0",
+                "sortir, pousser",
+                "d\u00e9couvrir (la t\u00eate)",
+                "produire"
+            ]
+        },
+        "word": {
+            "id": 16904,
+            "uri": "https://sedra.bethmardutho.org/api/word/16904.json"
+        }
+    }
+]

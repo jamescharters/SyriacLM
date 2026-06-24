@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0725\u0720\u0721\u071d\u0718\u072c\u0717",
+        "western": "\u0725\u0733\u0720\u0721\u0733\u071d\u073d\u0718\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2332,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2332.json"
+        },
+        "stem": "\u0725\u0720\u0721\u071d\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0637\u0644\u0627\u0646 (\u0627\u0644\u0639\u0627\u0644\u0645)",
+                "\u0639\u0644\u0645\u0627\u0646\u064a\u0629"
+            ],
+            "eng": [
+                "course of this world.",
+                "secular life",
+                "secularity",
+                "worldliness"
+            ],
+            "fre": [
+                "vanit\u00e9 (du monde)",
+                "\u00e9tat la\u00efc"
+            ]
+        },
+        "word": {
+            "id": 15544,
+            "uri": "https://sedra.bethmardutho.org/api/word/15544.json"
+        }
+    }
+]

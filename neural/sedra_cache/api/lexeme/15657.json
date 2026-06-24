@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15657,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15657.json"
+        },
+        "syriac": "\u072b\u072a\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u062c\u0641\u0641, \u0646\u0634\u0641"
+            ],
+            "French": [
+                "se dess\u00e9cher, s\u00e9cher"
+            ],
+            "English": [
+                "IIa to dry.",
+                "Ip to be dried up",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072b\u072a\u0730\u0712</span>, Ia to become dry, sapless"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2904,
+            "uri": "https://sedra.bethmardutho.org/api/root/2904.json"
+        },
+        "words": [
+            {
+                "id": 42037,
+                "uri": "https://sedra.bethmardutho.org/api/word/42037.json"
+            },
+            {
+                "id": 40704,
+                "uri": "https://sedra.bethmardutho.org/api/word/40704.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

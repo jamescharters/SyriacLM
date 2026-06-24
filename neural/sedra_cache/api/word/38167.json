@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072a\u072b\u071d\u0725\u0718\u072c\u0710",
+        "western": "\u072a\u0730\u072b\u073a\u071d\u0725\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12924,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12924.json"
+        },
+        "stem": "\u072a\u072b\u071d\u0725\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0641\u0631"
+            ],
+            "eng": [
+                "wickedness, impiety, crime."
+            ],
+            "fre": [
+                "impi\u00e9t\u00e9"
+            ]
+        },
+        "word": {
+            "id": 38167,
+            "uri": "https://sedra.bethmardutho.org/api/word/38167.json"
+        }
+    }
+]

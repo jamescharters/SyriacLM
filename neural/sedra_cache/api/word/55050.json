@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071b\u0718\u0721\u0718\u072c\u0710",
+        "western": "\u0710\u0730\u071b\u0733\u0718\u0721\u073d\u0718\u072c\u0733\u0710",
+        "lexeme": {
+            "id": 28676,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28676.json"
+        },
+        "stem": "\u0710\u071b\u0718\u0721\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "personality"
+            ],
+            "grc": [
+                "\u1f00\u03c4\u03bf\u03bc\u03b9\u03ba\u03cc\u03c4\u03b7\u03c2 (medieval Greek)"
+            ],
+            "lat": [
+                "personalitas (personalis + suffix -itas)"
+            ]
+        },
+        "word": {
+            "id": 55050,
+            "uri": "https://sedra.bethmardutho.org/api/word/55050.json"
+        }
+    }
+]

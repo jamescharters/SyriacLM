@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u0712\u0718\u0725\u0710",
+        "western": "\u072b\u0730\u0712\u073d\u0718\u0725\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13072,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13072.json"
+        },
+        "stem": "\u072b\u0712\u0718\u0725\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0633\u0628\u0648\u0639"
+            ],
+            "eng": [
+                "week."
+            ],
+            "fre": [
+                "semaine"
+            ]
+        },
+        "word": {
+            "id": 33270,
+            "uri": "https://sedra.bethmardutho.org/api/word/33270.json"
+        }
+    }
+]

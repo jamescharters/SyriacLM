@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 3198,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3198.json"
+        },
+        "syriac": "\u072b\u071f\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0643\u0631"
+            ],
+            "French": [
+                "s&#39;enivrer"
+            ],
+            "English": [
+                "hideous",
+                "Ia to get drunk",
+                "to blaspheme.",
+                "to insult",
+                "Ip, IIp to be disfigured",
+                "IIa to mar, to disfigure",
+                "to dishonor"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b4\u03c5\u03c3\u03ce\u03bd\u03c5\u03bc\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1864,
+            "uri": "https://sedra.bethmardutho.org/api/root/1864.json"
+        },
+        "words": [
+            {
+                "id": 21004,
+                "uri": "https://sedra.bethmardutho.org/api/word/21004.json"
+            },
+            {
+                "id": 21001,
+                "uri": "https://sedra.bethmardutho.org/api/word/21001.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

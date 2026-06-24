@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0722\u0710",
+        "western": "\u0715\u0741\u0730\u0721\u0722\u0736\u0710",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1802,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1802.json"
+        },
+        "stem": "\u0721\u0722\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062f",
+                "\u062d\u0633\u0628",
+                ""
+            ],
+            "eng": [
+                "Ia to number, count, reckon",
+                "reckon",
+                "number",
+                "Ip."
+            ],
+            "fre": [
+                "compter",
+                "",
+                "consid\u00e9rer comme"
+            ]
+        },
+        "word": {
+            "id": 26344,
+            "uri": "https://sedra.bethmardutho.org/api/word/26344.json"
+        }
+    }
+]

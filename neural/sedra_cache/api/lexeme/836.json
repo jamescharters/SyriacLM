@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 836,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/836.json"
+        },
+        "syriac": "\u0719\u0712\u0720",
+        "glosses": {
+            "English": [
+                "manure"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 536,
+            "uri": "https://sedra.bethmardutho.org/api/root/536.json"
+        },
+        "words": [
+            {
+                "id": 29487,
+                "uri": "https://sedra.bethmardutho.org/api/word/29487.json"
+            },
+            {
+                "id": 29489,
+                "uri": "https://sedra.bethmardutho.org/api/word/29489.json"
+            },
+            {
+                "id": 5380,
+                "uri": "https://sedra.bethmardutho.org/api/word/5380.json"
+            },
+            {
+                "id": 5379,
+                "uri": "https://sedra.bethmardutho.org/api/word/5379.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

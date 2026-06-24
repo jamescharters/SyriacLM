@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 359,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/359.json"
+        },
+        "syriac": "\u0712\u0719\u072c\u0710",
+        "glosses": {
+            "English": [
+                "spoil",
+                "booty",
+                "plunder, spoil."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 256,
+            "uri": "https://sedra.bethmardutho.org/api/root/256.json"
+        },
+        "words": [
+            {
+                "id": 2474,
+                "uri": "https://sedra.bethmardutho.org/api/word/2474.json"
+            },
+            {
+                "id": 1745,
+                "uri": "https://sedra.bethmardutho.org/api/word/1745.json"
+            },
+            {
+                "id": 2473,
+                "uri": "https://sedra.bethmardutho.org/api/word/2473.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

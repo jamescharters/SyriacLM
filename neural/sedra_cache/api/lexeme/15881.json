@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15881,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15881.json"
+        },
+        "syriac": "\u072b\u0722\u0719",
+        "glosses": {
+            "English": [
+                "to be agitated",
+                "Ia to deflect, to swerve from",
+                "Gram. to be irregular",
+                "IIIa to redeem",
+                "to remove.",
+                "IIa to retire"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2822,
+            "uri": "https://sedra.bethmardutho.org/api/root/2822.json"
+        },
+        "words": [
+            {
+                "id": 42157,
+                "uri": "https://sedra.bethmardutho.org/api/word/42157.json"
+            },
+            {
+                "id": 41973,
+                "uri": "https://sedra.bethmardutho.org/api/word/41973.json"
+            },
+            {
+                "id": 39990,
+                "uri": "https://sedra.bethmardutho.org/api/word/39990.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

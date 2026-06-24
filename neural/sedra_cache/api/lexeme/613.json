@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 613,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/613.json"
+        },
+        "syriac": "\u0713\u0723\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0623\u0631",
+                "\u062e\u0627\u0631"
+            ],
+            "French": [
+                "rugir",
+                "mugir"
+            ],
+            "English": [
+                "roar",
+                "Ia to roar, howl, bellow."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 392,
+            "uri": "https://sedra.bethmardutho.org/api/root/392.json"
+        },
+        "words": [
+            {
+                "id": 23850,
+                "uri": "https://sedra.bethmardutho.org/api/word/23850.json"
+            },
+            {
+                "id": 23849,
+                "uri": "https://sedra.bethmardutho.org/api/word/23849.json"
+            },
+            {
+                "id": 23848,
+                "uri": "https://sedra.bethmardutho.org/api/word/23848.json"
+            },
+            {
+                "id": 3929,
+                "uri": "https://sedra.bethmardutho.org/api/word/3929.json"
+            },
+            {
+                "id": 23851,
+                "uri": "https://sedra.bethmardutho.org/api/word/23851.json"
+            },
+            {
+                "id": 3931,
+                "uri": "https://sedra.bethmardutho.org/api/word/3931.json"
+            },
+            {
+                "id": 3930,
+                "uri": "https://sedra.bethmardutho.org/api/word/3930.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

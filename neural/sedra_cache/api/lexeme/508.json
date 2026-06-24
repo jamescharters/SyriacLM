@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 508,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/508.json"
+        },
+        "syriac": "\u0713\u0713\u0718\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "Golgotha"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 339,
+            "uri": "https://sedra.bethmardutho.org/api/root/339.json"
+        },
+        "words": [
+            {
+                "id": 3481,
+                "uri": "https://sedra.bethmardutho.org/api/word/3481.json"
+            },
+            {
+                "id": 3482,
+                "uri": "https://sedra.bethmardutho.org/api/word/3482.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

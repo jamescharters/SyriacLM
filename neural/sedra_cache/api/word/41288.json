@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071b\u072a\u0712\u0720",
+        "western": "\u071b\u0730\u072a\u0712\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14830,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14830.json"
+        },
+        "stem": "\u071b\u072a\u0712\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVb.",
+                "IVa to disturb"
+            ]
+        },
+        "word": {
+            "id": 41288,
+            "uri": "https://sedra.bethmardutho.org/api/word/41288.json"
+        }
+    }
+]

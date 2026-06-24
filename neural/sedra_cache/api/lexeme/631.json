@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 631,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/631.json"
+        },
+        "syriac": "\u0713\u072a\u0721\u0710",
+        "glosses": {
+            "English": [
+                "kernel",
+                "bone",
+                "bone",
+                "<span class=\"selectableFont\">\u0713\u072a\u0736\u0721 \u0726\u073a\u071d\u0720\u0733\u0710</span> ivory."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 406,
+            "uri": "https://sedra.bethmardutho.org/api/root/406.json"
+        },
+        "words": [
+            {
+                "id": 53307,
+                "uri": "https://sedra.bethmardutho.org/api/word/53307.json"
+            },
+            {
+                "id": 3981,
+                "uri": "https://sedra.bethmardutho.org/api/word/3981.json"
+            },
+            {
+                "id": 3980,
+                "uri": "https://sedra.bethmardutho.org/api/word/3980.json"
+            },
+            {
+                "id": 3978,
+                "uri": "https://sedra.bethmardutho.org/api/word/3978.json"
+            },
+            {
+                "id": 3977,
+                "uri": "https://sedra.bethmardutho.org/api/word/3977.json"
+            },
+            {
+                "id": 3975,
+                "uri": "https://sedra.bethmardutho.org/api/word/3975.json"
+            },
+            {
+                "id": 3979,
+                "uri": "https://sedra.bethmardutho.org/api/word/3979.json"
+            },
+            {
+                "id": 3976,
+                "uri": "https://sedra.bethmardutho.org/api/word/3976.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0713\u0719\u071f\u0718\u0722",
+        "western": "\u0710\u0730\u072a\u0713\u0741\u0736\u0719\u071f\u0742\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2929,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2929.json"
+        },
+        "stem": "\u072a\u0713\u0719",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u062f\u0645 (\u0627\u0644\u063a\u064a\u0638)",
+                "\u063a\u0636\u0628"
+            ],
+            "eng": [
+                "Ia to be angry",
+                "provoke",
+                "be angry",
+                "IIIa to anger."
+            ],
+            "fre": [
+                "\u00eatre f\u00e2ch\u00e9, se f\u00e2cher",
+                "s&#39;enflammer (col\u00e8re)"
+            ]
+        },
+        "word": {
+            "id": 19075,
+            "uri": "https://sedra.bethmardutho.org/api/word/19075.json"
+        }
+    }
+]

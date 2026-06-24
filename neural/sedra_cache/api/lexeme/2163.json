@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 2163,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2163.json"
+        },
+        "syriac": "\u0723\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "hateful",
+                "shameful",
+                "detestable",
+                "hateful, odious",
+                "1 displeasing, unpleasant",
+                "ugly."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1292,
+            "uri": "https://sedra.bethmardutho.org/api/root/1292.json"
+        },
+        "words": [
+            {
+                "id": 14407,
+                "uri": "https://sedra.bethmardutho.org/api/word/14407.json"
+            },
+            {
+                "id": 14399,
+                "uri": "https://sedra.bethmardutho.org/api/word/14399.json"
+            },
+            {
+                "id": 14402,
+                "uri": "https://sedra.bethmardutho.org/api/word/14402.json"
+            },
+            {
+                "id": 14400,
+                "uri": "https://sedra.bethmardutho.org/api/word/14400.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 571,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/571.json"
+        },
+        "syriac": "\u0713\u0720\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "confidence",
+                "manifestation",
+                "uncovering, revealing."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 373,
+            "uri": "https://sedra.bethmardutho.org/api/root/373.json"
+        },
+        "words": [
+            {
+                "id": 3755,
+                "uri": "https://sedra.bethmardutho.org/api/word/3755.json"
+            },
+            {
+                "id": 3752,
+                "uri": "https://sedra.bethmardutho.org/api/word/3752.json"
+            },
+            {
+                "id": 3754,
+                "uri": "https://sedra.bethmardutho.org/api/word/3754.json"
+            },
+            {
+                "id": 3753,
+                "uri": "https://sedra.bethmardutho.org/api/word/3753.json"
+            },
+            {
+                "id": 3756,
+                "uri": "https://sedra.bethmardutho.org/api/word/3756.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

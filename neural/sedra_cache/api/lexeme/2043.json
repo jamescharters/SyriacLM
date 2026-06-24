@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 2043,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2043.json"
+        },
+        "syriac": "\u0723\u0710\u0721\u0710",
+        "glosses": {
+            "English": [
+                "silver.",
+                "silver",
+                "money",
+                "silver"
+            ],
+            "Arabic": [
+                "\u0641\u0636\u0629"
+            ],
+            "French": [
+                "argent ( m\u00e9tal)"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f04\u03c3\u03b7\u03bc\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1222,
+            "uri": "https://sedra.bethmardutho.org/api/root/1222.json"
+        },
+        "words": [
+            {
+                "id": 13456,
+                "uri": "https://sedra.bethmardutho.org/api/word/13456.json"
+            },
+            {
+                "id": 13455,
+                "uri": "https://sedra.bethmardutho.org/api/word/13455.json"
+            },
+            {
+                "id": 13453,
+                "uri": "https://sedra.bethmardutho.org/api/word/13453.json"
+            },
+            {
+                "id": 13452,
+                "uri": "https://sedra.bethmardutho.org/api/word/13452.json"
+            },
+            {
+                "id": 13451,
+                "uri": "https://sedra.bethmardutho.org/api/word/13451.json"
+            },
+            {
+                "id": 13454,
+                "uri": "https://sedra.bethmardutho.org/api/word/13454.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

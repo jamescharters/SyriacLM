@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 659,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/659.json"
+        },
+        "syriac": "\u0715\u0717\u0712\u0710",
+        "glosses": {
+            "English": [
+                "gold",
+                "gold"
+            ],
+            "Arabic": [
+                "\u0630\u0647\u0628"
+            ],
+            "French": [
+                "or"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 419,
+            "uri": "https://sedra.bethmardutho.org/api/root/419.json"
+        },
+        "words": [
+            {
+                "id": 4173,
+                "uri": "https://sedra.bethmardutho.org/api/word/4173.json"
+            },
+            {
+                "id": 4177,
+                "uri": "https://sedra.bethmardutho.org/api/word/4177.json"
+            },
+            {
+                "id": 4175,
+                "uri": "https://sedra.bethmardutho.org/api/word/4175.json"
+            },
+            {
+                "id": 4174,
+                "uri": "https://sedra.bethmardutho.org/api/word/4174.json"
+            },
+            {
+                "id": 4172,
+                "uri": "https://sedra.bethmardutho.org/api/word/4172.json"
+            },
+            {
+                "id": 4171,
+                "uri": "https://sedra.bethmardutho.org/api/word/4171.json"
+            },
+            {
+                "id": 23600,
+                "uri": "https://sedra.bethmardutho.org/api/word/23600.json"
+            },
+            {
+                "id": 4176,
+                "uri": "https://sedra.bethmardutho.org/api/word/4176.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

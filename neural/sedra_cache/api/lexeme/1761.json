@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1761,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1761.json"
+        },
+        "syriac": "\u0721\u071f\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0631\u0627\u062c, \u062c\u0632\u064a\u0629",
+                "\u0645\u0632\u0627\u062f"
+            ],
+            "French": [
+                "tribut, imp\u00f4t",
+                "ench\u00e8res"
+            ],
+            "English": [
+                "tax",
+                "tribute",
+                "impost",
+                "toll",
+                "tax, tribute, toll."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1056,
+            "uri": "https://sedra.bethmardutho.org/api/root/1056.json"
+        },
+        "words": [
+            {
+                "id": 11549,
+                "uri": "https://sedra.bethmardutho.org/api/word/11549.json"
+            },
+            {
+                "id": 11550,
+                "uri": "https://sedra.bethmardutho.org/api/word/11550.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

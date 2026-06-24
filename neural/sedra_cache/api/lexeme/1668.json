@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1668,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1668.json"
+        },
+        "syriac": "\u0720\u071d\u071b\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0628\u0631\u0629"
+            ],
+            "French": [
+                "livre"
+            ],
+            "English": [
+                "pound"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bb\u03af\u03c4\u03c1\u03b1"
+            ]
+        },
+        "root": {
+            "id": 988,
+            "uri": "https://sedra.bethmardutho.org/api/root/988.json"
+        },
+        "words": [
+            {
+                "id": 11043,
+                "uri": "https://sedra.bethmardutho.org/api/word/11043.json"
+            },
+            {
+                "id": 11042,
+                "uri": "https://sedra.bethmardutho.org/api/word/11042.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

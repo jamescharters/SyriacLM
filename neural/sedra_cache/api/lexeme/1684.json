@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1684,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1684.json"
+        },
+        "syriac": "\u0720\u0723\u071b\u071d\u0710",
+        "glosses": {
+            "English": [
+                "robber",
+                "brigand",
+                "predatory.",
+                "robber, brigand"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bb\u1fc3\u03c3\u03c4\u03ae\u03c2"
+            ]
+        },
+        "root": {
+            "id": 999,
+            "uri": "https://sedra.bethmardutho.org/api/root/999.json"
+        },
+        "words": [
+            {
+                "id": 11101,
+                "uri": "https://sedra.bethmardutho.org/api/word/11101.json"
+            },
+            {
+                "id": 11104,
+                "uri": "https://sedra.bethmardutho.org/api/word/11104.json"
+            },
+            {
+                "id": 11103,
+                "uri": "https://sedra.bethmardutho.org/api/word/11103.json"
+            },
+            {
+                "id": 11102,
+                "uri": "https://sedra.bethmardutho.org/api/word/11102.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

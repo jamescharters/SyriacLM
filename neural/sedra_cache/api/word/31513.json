@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072a\u0717\u071b\u0710",
+        "western": "\u072a\u0717\u0733\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7476,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7476.json"
+        },
+        "stem": "\u072a\u0717\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u063a\u0644"
+            ],
+            "eng": [
+                "course (of action), work."
+            ],
+            "fre": [
+                "travail"
+            ]
+        },
+        "word": {
+            "id": 31513,
+            "uri": "https://sedra.bethmardutho.org/api/word/31513.json"
+        }
+    }
+]

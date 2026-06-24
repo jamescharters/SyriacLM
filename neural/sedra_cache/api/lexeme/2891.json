@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2891,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2891.json"
+        },
+        "syriac": "\u0729\u072a\u0728\u0710",
+        "glosses": {
+            "English": [
+                "accuse",
+                "with <span class=\"selectableFont\">\u0710\u0736\u071f\u0730\u0720</span> to slander."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1714,
+            "uri": "https://sedra.bethmardutho.org/api/root/1714.json"
+        },
+        "words": [
+            {
+                "id": 18848,
+                "uri": "https://sedra.bethmardutho.org/api/word/18848.json"
+            },
+            {
+                "id": 18847,
+                "uri": "https://sedra.bethmardutho.org/api/word/18847.json"
+            },
+            {
+                "id": 18850,
+                "uri": "https://sedra.bethmardutho.org/api/word/18850.json"
+            },
+            {
+                "id": 18849,
+                "uri": "https://sedra.bethmardutho.org/api/word/18849.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

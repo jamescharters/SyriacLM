@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u0729\u0720\u0725",
+        "western": "\u0722\u0736\u0729\u0720\u0730\u0725",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15932,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15932.json"
+        },
+        "stem": "\u0729\u0720\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0631\u062f"
+            ],
+            "eng": [
+                "Ia to drive away",
+                "IIa to sling, hurl."
+            ],
+            "fre": [
+                "chasser"
+            ]
+        },
+        "word": {
+            "id": 41926,
+            "uri": "https://sedra.bethmardutho.org/api/word/41926.json"
+        }
+    }
+]

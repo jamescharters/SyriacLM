@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0712\u072b\u0713\u0718\u072b\u071d\u0710",
+        "western": "\u0712\u0741\u0730\u072b\u0713\u0742\u073d\u0718\u072b\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3121,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3121.json"
+        },
+        "stem": "\u072b\u0713\u0718\u072b\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "commotion.",
+                "commotion",
+                "tumult",
+                "uproar",
+                "riot"
+            ]
+        },
+        "word": {
+            "id": 20360,
+            "uri": "https://sedra.bethmardutho.org/api/word/20360.json"
+        }
+    }
+]

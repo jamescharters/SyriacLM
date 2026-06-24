@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072c\u0715\u0718\u0717\u071d",
+        "western": "\u072c\u0741\u0715\u0742\u0730\u0718\u0717\u0331\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 3359,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3359.json"
+        },
+        "stem": "\u072c\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u062f\u064a"
+            ],
+            "eng": [
+                "pap.",
+                "breast",
+                "breast"
+            ],
+            "fre": [
+                "mamelle"
+            ]
+        },
+        "word": {
+            "id": 22359,
+            "uri": "https://sedra.bethmardutho.org/api/word/22359.json"
+        }
+    }
+]

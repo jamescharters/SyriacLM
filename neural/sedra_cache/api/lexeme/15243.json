@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15243,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15243.json"
+        },
+        "syriac": "\u071b\u0721\u0720",
+        "glosses": {
+            "English": [
+                "IIa to pollute."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2666,
+            "uri": "https://sedra.bethmardutho.org/api/root/2666.json"
+        },
+        "words": [
+            {
+                "id": 40772,
+                "uri": "https://sedra.bethmardutho.org/api/word/40772.json"
+            },
+            {
+                "id": 40696,
+                "uri": "https://sedra.bethmardutho.org/api/word/40696.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

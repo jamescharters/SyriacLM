@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15309,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15309.json"
+        },
+        "syriac": "\u072c\u0717\u071d",
+        "glosses": {
+            "English": [
+                "to detain",
+                "IIa to delay, to defer",
+                "to desist (from)",
+                "IIp to be late",
+                "to be delayed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2512,
+            "uri": "https://sedra.bethmardutho.org/api/root/2512.json"
+        },
+        "words": [
+            {
+                "id": 40827,
+                "uri": "https://sedra.bethmardutho.org/api/word/40827.json"
+            },
+            {
+                "id": 40673,
+                "uri": "https://sedra.bethmardutho.org/api/word/40673.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

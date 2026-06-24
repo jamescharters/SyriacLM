@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0721\u0725\u072a\u072c\u0710",
+        "western": "\u0721\u0725\u0730\u072a\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1825,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1825.json"
+        },
+        "stem": "\u0721\u0725\u072a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "den",
+                "cave, cavern, den.",
+                "cave"
+            ]
+        },
+        "word": {
+            "id": 12090,
+            "uri": "https://sedra.bethmardutho.org/api/word/12090.json"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u072b\u0725\u0725\u071d\u0710",
+        "western": "\u072b\u0725\u0733\u0725\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5440,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5440.json"
+        },
+        "stem": "\u072b\u0725\u0725\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "smooth",
+                "worn smooth (of stone)."
+            ]
+        },
+        "word": {
+            "id": 33306,
+            "uri": "https://sedra.bethmardutho.org/api/word/33306.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0723\u0718\u071f\u0710",
+        "western": "\u0723\u0730\u0718\u071f\u0741\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6773,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6773.json"
+        },
+        "stem": "\u0723\u0718\u071f\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0635\u0646"
+            ],
+            "eng": [
+                "branches (see <span class=\"selectableFont\">\u0723\u0730\u0718\u071f\u072c\u0733\u0710</span>).",
+                "branch"
+            ],
+            "fre": [
+                "branche"
+            ]
+        },
+        "word": {
+            "id": 13935,
+            "uri": "https://sedra.bethmardutho.org/api/word/13935.json"
+        }
+    }
+]

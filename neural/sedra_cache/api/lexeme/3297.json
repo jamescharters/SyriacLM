@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3297,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3297.json"
+        },
+        "syriac": "\u072b\u0726\u072a\u0710",
+        "glosses": {
+            "English": [
+                "daybreak",
+                "dawn",
+                "twilight, dawn."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1919,
+            "uri": "https://sedra.bethmardutho.org/api/root/1919.json"
+        },
+        "words": [
+            {
+                "id": 21824,
+                "uri": "https://sedra.bethmardutho.org/api/word/21824.json"
+            },
+            {
+                "id": 21825,
+                "uri": "https://sedra.bethmardutho.org/api/word/21825.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

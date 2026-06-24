@@ -1,0 +1,64 @@
+[
+    {
+        "syriac": "\u0718\u0726\u072a\u071d\u0729\u0710",
+        "western": "\u0718\u0726\u0742\u0730\u072a\u073a\u071d\u0729\u0733\u0710",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2612,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2612.json"
+        },
+        "stem": "\u0726\u072a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0631\u0643",
+                "\u0632\u0627\u0644",
+                "\u0627\u0628\u062a\u0639\u062f",
+                "\u0641\u062f\u0649",
+                "\u0623\u0646\u0642\u0630, \u062e\u0644\u0635 (\u0645\u0636)",
+                "\u0623\u0628\u0639\u062f",
+                "\u062a\u062e\u0644\u0649 \u0639\u0646",
+                "\u062a\u062e\u0644\u0635"
+            ],
+            "eng": [
+                "save",
+                "Ip",
+                "depart",
+                "deliver",
+                "IIa to break off, to dislocate, to take away",
+                "rescue",
+                "to be delivered",
+                "pursue",
+                "Ia to separate, to depart, to withdraw",
+                "go away",
+                "to ransom, to redeem, to save",
+                "abstain from",
+                "to be torn away",
+                "IIIa to send off, to set apart, to remove.",
+                "IIp to be rid of"
+            ],
+            "fre": [
+                "\u00e9loign\u00e9",
+                "d\u00e9livrer, sauver",
+                "racheter",
+                "s&#39;\u00e9loigner",
+                "cesser",
+                "abdiquer",
+                "faire d\u00e9fection",
+                "\u00eatre d\u00e9livr\u00e9"
+            ]
+        },
+        "word": {
+            "id": 27735,
+            "uri": "https://sedra.bethmardutho.org/api/word/27735.json"
+        }
+    }
+]

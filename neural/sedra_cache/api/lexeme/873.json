@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 873,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/873.json"
+        },
+        "syriac": "\u0719\u071b\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0648\u0645",
+                "\u0633\u0642\u0637\u0629, \u0646\u0642\u064a\u0635\u0629",
+                "\u0633\u0624\u0627\u0644"
+            ],
+            "French": [
+                "bl\u00e2me",
+                "faute, d\u00e9faut",
+                "question"
+            ],
+            "English": [
+                "investigation",
+                "inquiry"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b6\u03ae\u03c4\u03b7\u03bc\u03b1"
+            ]
+        },
+        "root": {
+            "id": 556,
+            "uri": "https://sedra.bethmardutho.org/api/root/556.json"
+        },
+        "words": [
+            {
+                "id": 5678,
+                "uri": "https://sedra.bethmardutho.org/api/word/5678.json"
+            },
+            {
+                "id": 5657,
+                "uri": "https://sedra.bethmardutho.org/api/word/5657.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

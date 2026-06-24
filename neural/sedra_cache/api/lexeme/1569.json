@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 1569,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1569.json"
+        },
+        "syriac": "\u071f\u0718\u0726\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062d\u0648",
+                "\u0645\u0645\u0633\u062d\u0629",
+                "\u0646\u0627\u0641\u0648\u0631 \u0635\u063a\u064a\u0631",
+                "\u0646\u0641\u0627\u064a\u0629"
+            ],
+            "French": [
+                "effa\u00e7age",
+                "torchon",
+                "pale",
+                "ordures"
+            ],
+            "English": [
+                "rubbish",
+                "off-scouring",
+                "wiping off, effacing",
+                "towel."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 922,
+            "uri": "https://sedra.bethmardutho.org/api/root/922.json"
+        },
+        "words": [
+            {
+                "id": 10329,
+                "uri": "https://sedra.bethmardutho.org/api/word/10329.json"
+            },
+            {
+                "id": 10330,
+                "uri": "https://sedra.bethmardutho.org/api/word/10330.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

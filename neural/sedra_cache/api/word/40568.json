@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0723\u071d\u0715",
+        "western": "\u0723\u0730\u071d\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15020,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15020.json"
+        },
+        "stem": "\u0723\u071d\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to plaster, smear with plaster."
+            ]
+        },
+        "word": {
+            "id": 40568,
+            "uri": "https://sedra.bethmardutho.org/api/word/40568.json"
+        }
+    }
+]

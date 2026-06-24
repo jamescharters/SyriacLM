@@ -1,0 +1,69 @@
+[
+    {
+        "lexeme": {
+            "id": 1220,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1220.json"
+        },
+        "syriac": "\u071b\u0718\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "Ip",
+                "anoint",
+                "soil",
+                "defile",
+                "besmear",
+                "pollute",
+                "IIp.",
+                "to ascribe",
+                "Ia to besmear, anoint",
+                "IIa <span class=\"selectableFont\">\u071b\u0730\u0718\u0736\u072b</span> to defile, pollute, profane"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 719,
+            "uri": "https://sedra.bethmardutho.org/api/root/719.json"
+        },
+        "words": [
+            {
+                "id": 8045,
+                "uri": "https://sedra.bethmardutho.org/api/word/8045.json"
+            },
+            {
+                "id": 8041,
+                "uri": "https://sedra.bethmardutho.org/api/word/8041.json"
+            },
+            {
+                "id": 25111,
+                "uri": "https://sedra.bethmardutho.org/api/word/25111.json"
+            },
+            {
+                "id": 25110,
+                "uri": "https://sedra.bethmardutho.org/api/word/25110.json"
+            },
+            {
+                "id": 8044,
+                "uri": "https://sedra.bethmardutho.org/api/word/8044.json"
+            },
+            {
+                "id": 8043,
+                "uri": "https://sedra.bethmardutho.org/api/word/8043.json"
+            },
+            {
+                "id": 8042,
+                "uri": "https://sedra.bethmardutho.org/api/word/8042.json"
+            },
+            {
+                "id": 8040,
+                "uri": "https://sedra.bethmardutho.org/api/word/8040.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

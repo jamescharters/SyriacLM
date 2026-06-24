@@ -1,0 +1,106 @@
+[
+    {
+        "lexeme": {
+            "id": 945,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/945.json"
+        },
+        "syriac": "\u071a\u0712\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0639\u062a\u0642\u0644",
+                "\u062d\u0628\u0633",
+                "\u062d\u0627\u0635\u0631",
+                "\u0623\u062c\u0628\u0631",
+                "\u00a0"
+            ],
+            "French": [
+                "emprisonner",
+                "clo\u00eetrer",
+                "assi\u00e9ger",
+                "contraindre",
+                "\u00a0"
+            ],
+            "English": [
+                "to imply",
+                "confine",
+                "include",
+                "IIIa to shut up, make subject.",
+                "to live as a recluse",
+                "Ia to confine, shut in, enclose, confine, contain",
+                "Ip to shut oneself up",
+                "to catch",
+                "to be besieged, confined, comprised",
+                "to besiege",
+                "to restrain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 592,
+            "uri": "https://sedra.bethmardutho.org/api/root/592.json"
+        },
+        "words": [
+            {
+                "id": 10015,
+                "uri": "https://sedra.bethmardutho.org/api/word/10015.json"
+            },
+            {
+                "id": 10014,
+                "uri": "https://sedra.bethmardutho.org/api/word/10014.json"
+            },
+            {
+                "id": 6165,
+                "uri": "https://sedra.bethmardutho.org/api/word/6165.json"
+            },
+            {
+                "id": 24590,
+                "uri": "https://sedra.bethmardutho.org/api/word/24590.json"
+            },
+            {
+                "id": 24589,
+                "uri": "https://sedra.bethmardutho.org/api/word/24589.json"
+            },
+            {
+                "id": 6173,
+                "uri": "https://sedra.bethmardutho.org/api/word/6173.json"
+            },
+            {
+                "id": 6172,
+                "uri": "https://sedra.bethmardutho.org/api/word/6172.json"
+            },
+            {
+                "id": 6171,
+                "uri": "https://sedra.bethmardutho.org/api/word/6171.json"
+            },
+            {
+                "id": 6169,
+                "uri": "https://sedra.bethmardutho.org/api/word/6169.json"
+            },
+            {
+                "id": 6168,
+                "uri": "https://sedra.bethmardutho.org/api/word/6168.json"
+            },
+            {
+                "id": 6170,
+                "uri": "https://sedra.bethmardutho.org/api/word/6170.json"
+            },
+            {
+                "id": 6166,
+                "uri": "https://sedra.bethmardutho.org/api/word/6166.json"
+            },
+            {
+                "id": 24588,
+                "uri": "https://sedra.bethmardutho.org/api/word/24588.json"
+            },
+            {
+                "id": 24587,
+                "uri": "https://sedra.bethmardutho.org/api/word/24587.json"
+            },
+            {
+                "id": 6167,
+                "uri": "https://sedra.bethmardutho.org/api/word/6167.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

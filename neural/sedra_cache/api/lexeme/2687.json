@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2687,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2687.json"
+        },
+        "syriac": "\u0728\u0715",
+        "glosses": {
+            "English": [
+                "captured",
+                "catch"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1590,
+            "uri": "https://sedra.bethmardutho.org/api/root/1590.json"
+        },
+        "words": [
+            {
+                "id": 17453,
+                "uri": "https://sedra.bethmardutho.org/api/word/17453.json"
+            },
+            {
+                "id": 17455,
+                "uri": "https://sedra.bethmardutho.org/api/word/17455.json"
+            },
+            {
+                "id": 17454,
+                "uri": "https://sedra.bethmardutho.org/api/word/17454.json"
+            },
+            {
+                "id": 17452,
+                "uri": "https://sedra.bethmardutho.org/api/word/17452.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

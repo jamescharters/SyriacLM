@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2031,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2031.json"
+        },
+        "syriac": "\u0722\u072a\u0715\u071d\u0722",
+        "glosses": {
+            "English": [
+                "spikenard",
+                "nard"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bd\u03ac\u03c1\u03b4\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1212,
+            "uri": "https://sedra.bethmardutho.org/api/root/1212.json"
+        },
+        "words": [
+            {
+                "id": 13406,
+                "uri": "https://sedra.bethmardutho.org/api/word/13406.json"
+            },
+            {
+                "id": 13407,
+                "uri": "https://sedra.bethmardutho.org/api/word/13407.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

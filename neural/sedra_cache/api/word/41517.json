@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071a\u0713\u0723",
+        "western": "\u071a\u0730\u0713\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15065,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15065.json"
+        },
+        "stem": "\u071a\u0713\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to make lame."
+            ]
+        },
+        "word": {
+            "id": 41517,
+            "uri": "https://sedra.bethmardutho.org/api/word/41517.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u0713\u0720\u0718\u0722\u0710",
+        "western": "\u0725\u0733\u0713\u0720\u073d\u0718\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5718,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5718.json"
+        },
+        "stem": "\u0725\u0713\u0720\u0718\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062c\u0644\u0629 \u0635\u063a\u064a\u0631\u0629"
+            ],
+            "eng": [
+                "small cart."
+            ],
+            "fre": [
+                "petit chariot"
+            ]
+        },
+        "word": {
+            "id": 36843,
+            "uri": "https://sedra.bethmardutho.org/api/word/36843.json"
+        }
+    }
+]

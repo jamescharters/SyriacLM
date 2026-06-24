@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0723\u071b\u072a\u0718\u0723",
+        "western": "\u0710\u071d\u0723\u071b\u072a\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 29053,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29053.json"
+        },
+        "stem": "\u0710\u071d\u0723\u071b\u072a\u0718\u0723",
+        "category": "proper noun (place name)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ister, Danube"
+            ],
+            "grc": [
+                "\u1f3c\u03c3\u03c4\u03c1\u03bf\u03c2"
+            ],
+            "lat": [
+                "Istrus"
+            ]
+        },
+        "word": {
+            "id": 55427,
+            "uri": "https://sedra.bethmardutho.org/api/word/55427.json"
+        }
+    }
+]

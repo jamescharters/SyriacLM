@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072b\u072c\u0710\u0723\u071d\u0717",
+        "western": "\u072b\u0736\u072c\u0742\u0736\u0710\u0723\u0736\u071d\u0717",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 311,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/311.json"
+        },
+        "stem": "\u072b\u072c\u0710\u0723\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0633\u0627\u0633"
+            ],
+            "eng": [
+                "Gram. base form.",
+                "foundation",
+                "foundation",
+                "foundation"
+            ],
+            "fre": [
+                "fondement"
+            ]
+        },
+        "word": {
+            "id": 1722,
+            "uri": "https://sedra.bethmardutho.org/api/word/1722.json"
+        }
+    }
+]

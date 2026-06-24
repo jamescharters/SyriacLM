@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072c\u072c\u0726\u071d\u072a",
+        "western": "\u0721\u0736\u072c\u0741\u072c\u0741\u0726\u0742\u073a\u071d\u072a",
+        "tense": "participle",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2470,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2470.json"
+        },
+        "stem": "\u0726\u0718\u072a",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0726\u0730\u0718\u0730\u072a</span> to burn (with fever).",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0726\u073a\u071d\u072a</span> to be hot with anger, to be furious",
+                "be provoked"
+            ]
+        },
+        "word": {
+            "id": 27516,
+            "uri": "https://sedra.bethmardutho.org/api/word/27516.json"
+        }
+    }
+]

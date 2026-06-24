@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0726\u0715",
+        "western": "\u0726\u0733\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15794,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15794.json"
+        },
+        "stem": "\u0726\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to well up (of tears)."
+            ]
+        },
+        "word": {
+            "id": 41186,
+            "uri": "https://sedra.bethmardutho.org/api/word/41186.json"
+        }
+    }
+]

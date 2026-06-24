@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15927,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15927.json"
+        },
+        "syriac": "\u071a\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0646\u0633 (\u0645\u0636)"
+            ],
+            "French": [
+                "profaner"
+            ],
+            "English": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0730\u0720</span> & <span class=\"selectableFont\">\u0722\u0736\u071a\u073d\u0718\u0720</span>, Ia to gird up."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2193,
+            "uri": "https://sedra.bethmardutho.org/api/root/2193.json"
+        },
+        "words": [
+            {
+                "id": 41937,
+                "uri": "https://sedra.bethmardutho.org/api/word/41937.json"
+            },
+            {
+                "id": 41811,
+                "uri": "https://sedra.bethmardutho.org/api/word/41811.json"
+            },
+            {
+                "id": 41239,
+                "uri": "https://sedra.bethmardutho.org/api/word/41239.json"
+            },
+            {
+                "id": 40863,
+                "uri": "https://sedra.bethmardutho.org/api/word/40863.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

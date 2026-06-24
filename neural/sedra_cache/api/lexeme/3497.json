@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3497,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3497.json"
+        },
+        "syriac": "\u071b\u0725\u071d\u0710",
+        "glosses": {
+            "English": [
+                "wandering",
+                "errant"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 742,
+            "uri": "https://sedra.bethmardutho.org/api/root/742.json"
+        },
+        "words": [
+            {
+                "id": 23875,
+                "uri": "https://sedra.bethmardutho.org/api/word/23875.json"
+            },
+            {
+                "id": 8241,
+                "uri": "https://sedra.bethmardutho.org/api/word/8241.json"
+            },
+            {
+                "id": 8238,
+                "uri": "https://sedra.bethmardutho.org/api/word/8238.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

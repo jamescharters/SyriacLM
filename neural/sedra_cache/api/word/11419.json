@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0721\u071a\u0720",
+        "western": "\u0721\u0730\u071a\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1739,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1739.json"
+        },
+        "stem": "\u0721\u071a\u0720",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0636\u0639\u0641"
+            ],
+            "eng": [
+                "grow weak",
+                "to be unable",
+                "IIIa to weaken, to make feeble",
+                "IIp to become weak, feeble",
+                "to fall ill, grow week.",
+                "IIa to weaken"
+            ],
+            "fre": [
+                "affaiblir"
+            ]
+        },
+        "word": {
+            "id": 11419,
+            "uri": "https://sedra.bethmardutho.org/api/word/11419.json"
+        }
+    }
+]

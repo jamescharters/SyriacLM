@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2239,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2239.json"
+        },
+        "syriac": "\u0725\u0713\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u062c\u0644"
+            ],
+            "French": [
+                "veau"
+            ],
+            "English": [
+                "calf",
+                "calf."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1335,
+            "uri": "https://sedra.bethmardutho.org/api/root/1335.json"
+        },
+        "words": [
+            {
+                "id": 14963,
+                "uri": "https://sedra.bethmardutho.org/api/word/14963.json"
+            },
+            {
+                "id": 14962,
+                "uri": "https://sedra.bethmardutho.org/api/word/14962.json"
+            },
+            {
+                "id": 14965,
+                "uri": "https://sedra.bethmardutho.org/api/word/14965.json"
+            },
+            {
+                "id": 14964,
+                "uri": "https://sedra.bethmardutho.org/api/word/14964.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

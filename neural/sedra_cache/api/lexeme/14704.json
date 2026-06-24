@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 14704,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14704.json"
+        },
+        "syriac": "\u0720\u0721\u0720\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u062c\u0644\u062c",
+                "\u0642\u0627\u0644"
+            ],
+            "French": [
+                "balbutier",
+                "dire"
+            ],
+            "English": [
+                "to be enunciated.",
+                "IVp to stammer",
+                "IVa to enunciate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2297,
+            "uri": "https://sedra.bethmardutho.org/api/root/2297.json"
+        },
+        "words": [
+            {
+                "id": 41253,
+                "uri": "https://sedra.bethmardutho.org/api/word/41253.json"
+            },
+            {
+                "id": 40644,
+                "uri": "https://sedra.bethmardutho.org/api/word/40644.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

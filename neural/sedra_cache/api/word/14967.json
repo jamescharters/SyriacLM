@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0725\u0713\u0720\u072c\u0710",
+        "western": "\u0725\u0713\u0742\u0736\u0720\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2240,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2240.json"
+        },
+        "stem": "\u0725\u0713\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062c\u0644\u0629"
+            ],
+            "eng": [
+                "cow.",
+                "heifer"
+            ],
+            "fre": [
+                "g\u00e9nisse"
+            ]
+        },
+        "word": {
+            "id": 14967,
+            "uri": "https://sedra.bethmardutho.org/api/word/14967.json"
+        }
+    }
+]

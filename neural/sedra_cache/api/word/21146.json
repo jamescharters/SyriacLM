@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0718\u0721\u072b\u0720\u0721\u0722",
+        "western": "\u0718\u0730\u0721\u072b\u0730\u0720\u0721\u0733\u0722",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3223,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3223.json"
+        },
+        "stem": "\u0721\u072b\u0720\u0721\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "perfect",
+                "complete",
+                "perfect, complete, entire, full-grown",
+                "perfecter."
+            ]
+        },
+        "word": {
+            "id": 21146,
+            "uri": "https://sedra.bethmardutho.org/api/word/21146.json"
+        }
+    }
+]

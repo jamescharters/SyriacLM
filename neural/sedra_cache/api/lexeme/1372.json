@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 1372,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1372.json"
+        },
+        "syriac": "\u071d\u0720\u0715\u0710",
+        "glosses": {
+            "English": [
+                "birth, nativity",
+                "birth",
+                "offspring",
+                "fruit",
+                "child, offspring, produce.",
+                "giving birth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 820,
+            "uri": "https://sedra.bethmardutho.org/api/root/820.json"
+        },
+        "words": [
+            {
+                "id": 9059,
+                "uri": "https://sedra.bethmardutho.org/api/word/9059.json"
+            },
+            {
+                "id": 9063,
+                "uri": "https://sedra.bethmardutho.org/api/word/9063.json"
+            },
+            {
+                "id": 9060,
+                "uri": "https://sedra.bethmardutho.org/api/word/9060.json"
+            },
+            {
+                "id": 9062,
+                "uri": "https://sedra.bethmardutho.org/api/word/9062.json"
+            },
+            {
+                "id": 9061,
+                "uri": "https://sedra.bethmardutho.org/api/word/9061.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

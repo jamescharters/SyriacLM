@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15547,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15547.json"
+        },
+        "syriac": "\u072b\u0725\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0639\u0644"
+            ],
+            "French": [
+                "tousser"
+            ],
+            "English": [
+                "Ia to cough, to have a cough."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3136,
+            "uri": "https://sedra.bethmardutho.org/api/root/3136.json"
+        },
+        "words": [
+            {
+                "id": 42000,
+                "uri": "https://sedra.bethmardutho.org/api/word/42000.json"
+            },
+            {
+                "id": 39842,
+                "uri": "https://sedra.bethmardutho.org/api/word/39842.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

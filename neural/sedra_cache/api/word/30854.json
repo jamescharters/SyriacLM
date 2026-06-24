@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0719\u0721\u072c\u0710",
+        "western": "\u0719\u0736\u0721\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11211,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11211.json"
+        },
+        "stem": "\u0719\u0721\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0639\u0631"
+            ],
+            "eng": [
+                "hair."
+            ],
+            "fre": [
+                "cheveu"
+            ]
+        },
+        "word": {
+            "id": 30854,
+            "uri": "https://sedra.bethmardutho.org/api/word/30854.json"
+        }
+    }
+]

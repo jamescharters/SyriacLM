@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0715\u0713\u0720\u072c\u0710",
+        "western": "\u0715\u0741\u0730\u0713\u0741\u0733\u0720\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 655,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/655.json"
+        },
+        "stem": "\u0715\u0713\u0720\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0630\u0627\u0628",
+                "",
+                "\u0643\u0627\u0630\u0628"
+            ],
+            "eng": [
+                "deceitful, false, spurious.",
+                "liar",
+                ""
+            ],
+            "fre": [
+                "",
+                "menteur",
+                "faux"
+            ]
+        },
+        "word": {
+            "id": 4155,
+            "uri": "https://sedra.bethmardutho.org/api/word/4155.json"
+        }
+    }
+]

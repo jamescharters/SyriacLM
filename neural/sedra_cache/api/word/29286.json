@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072b\u0712\u0720",
+        "western": "\u072b\u0712\u0720",
+        "lexeme": {
+            "id": 3104,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3104.json"
+        },
+        "stem": "\u072b\u0712\u0720",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "true",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0641\u062a\u062d, \u0634\u0642 (\u0637\u0631\u064a\u0642\u0627\u064b)"
+            ],
+            "eng": [
+                "lead",
+                "to train",
+                "IIp to be directed.",
+                "IIa to show the way",
+                "direct"
+            ],
+            "fre": [
+                "ouvrir, faire (un chemin)",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 29286,
+            "uri": "https://sedra.bethmardutho.org/api/word/29286.json"
+        }
+    }
+]

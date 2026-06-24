@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15138,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15138.json"
+        },
+        "syriac": "\u071b\u0713\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0644\u0649",
+                "\u0639\u0630\u0628 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "frire",
+                "tourmenter",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp.",
+                "to torment",
+                "IIa to roast"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2055,
+            "uri": "https://sedra.bethmardutho.org/api/root/2055.json"
+        },
+        "words": [
+            {
+                "id": 40616,
+                "uri": "https://sedra.bethmardutho.org/api/word/40616.json"
+            },
+            {
+                "id": 40409,
+                "uri": "https://sedra.bethmardutho.org/api/word/40409.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

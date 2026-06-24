@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 1912,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1912.json"
+        },
+        "syriac": "\u0722\u0715\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "vow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1142,
+            "uri": "https://sedra.bethmardutho.org/api/root/1142.json"
+        },
+        "words": [
+            {
+                "id": 26448,
+                "uri": "https://sedra.bethmardutho.org/api/word/26448.json"
+            },
+            {
+                "id": 26447,
+                "uri": "https://sedra.bethmardutho.org/api/word/26447.json"
+            },
+            {
+                "id": 12526,
+                "uri": "https://sedra.bethmardutho.org/api/word/12526.json"
+            },
+            {
+                "id": 26450,
+                "uri": "https://sedra.bethmardutho.org/api/word/26450.json"
+            },
+            {
+                "id": 26449,
+                "uri": "https://sedra.bethmardutho.org/api/word/26449.json"
+            },
+            {
+                "id": 12528,
+                "uri": "https://sedra.bethmardutho.org/api/word/12528.json"
+            },
+            {
+                "id": 12527,
+                "uri": "https://sedra.bethmardutho.org/api/word/12527.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

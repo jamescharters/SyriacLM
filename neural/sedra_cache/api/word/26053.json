@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0721\u0721\u0715\u071f\u0710",
+        "western": "\u0721\u0721\u0730\u0715\u0741\u071f\u0742\u0733\u0710",
+        "tense": "passive participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 15187,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15187.json"
+        },
+        "stem": "\u0721\u0715\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0632\u062c",
+                "",
+                "\u0623\u0639\u062f",
+                "\u062a\u0628\u0644 (\u0645\u0636)"
+            ],
+            "eng": [
+                "season",
+                "to make a preparation",
+                "IIp to be seasoned.",
+                "IIa to season"
+            ],
+            "fre": [
+                "m\u00e9langer",
+                "",
+                "assaisonner",
+                "pr\u00e9parer"
+            ]
+        },
+        "word": {
+            "id": 26053,
+            "uri": "https://sedra.bethmardutho.org/api/word/26053.json"
+        }
+    }
+]

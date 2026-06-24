@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u071d\u072c\u072a\u0710",
+        "western": "\u0729\u073a\u071d\u072c\u0742\u0733\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2816,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2816.json"
+        },
+        "stem": "\u0729\u071d\u072c\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u064a\u062b\u0627\u0631\u0629"
+            ],
+            "eng": [
+                "harp",
+                "stringed instrument",
+                "stringed instrument, cithern, harp, lyre."
+            ],
+            "fre": [
+                "cithare"
+            ]
+        },
+        "word": {
+            "id": 18350,
+            "uri": "https://sedra.bethmardutho.org/api/word/18350.json"
+        }
+    }
+]

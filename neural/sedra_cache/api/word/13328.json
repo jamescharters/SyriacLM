@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0722\u0728\u0720",
+        "western": "\u0718\u0730\u0722\u0728\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2017,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2017.json"
+        },
+        "stem": "\u0722\u0728\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "pour",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0728\u0736\u0720</span> to liberate.",
+                "to foment",
+                "to bathe (a wound)",
+                "Ia to let drop, to pour out",
+                "Ip to be applied (of medicament)"
+            ]
+        },
+        "word": {
+            "id": 13328,
+            "uri": "https://sedra.bethmardutho.org/api/word/13328.json"
+        }
+    }
+]

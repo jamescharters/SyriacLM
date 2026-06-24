@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0721\u072b\u0726\u0725\u072c\u0710",
+        "western": "\u0721\u0730\u072b\u0726\u0730\u0725\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10128,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10128.json"
+        },
+        "stem": "\u0721\u072b\u0726\u0725\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "syringe."
+            ]
+        },
+        "word": {
+            "id": 32950,
+            "uri": "https://sedra.bethmardutho.org/api/word/32950.json"
+        }
+    }
+]

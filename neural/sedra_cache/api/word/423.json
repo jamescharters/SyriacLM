@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0718\u0710\u071a\u071d\u071f",
+        "western": "\u0718\u0730\u0710\u071a\u0730\u071d\u071f\u0741",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 66,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/66.json"
+        },
+        "stem": "\u0710\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062e",
+                "\u00a0"
+            ],
+            "eng": [
+                "brother",
+                "brother",
+                "friar, monk.",
+                "companion"
+            ],
+            "fre": [
+                "fr\u00e8re",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 423,
+            "uri": "https://sedra.bethmardutho.org/api/word/423.json"
+        }
+    }
+]

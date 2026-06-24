@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3401,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3401.json"
+        },
+        "syriac": "\u072c\u0720",
+        "glosses": {
+            "English": [
+                "Ethpa. to be wetted, soaked",
+                "Pa. to taint",
+                "damp, moist, watery (as land; air)",
+                "damped, deadened (as sounds)",
+                "soil"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1974,
+            "uri": "https://sedra.bethmardutho.org/api/root/1974.json"
+        },
+        "words": [
+            {
+                "id": 45738,
+                "uri": "https://sedra.bethmardutho.org/api/word/45738.json"
+            },
+            {
+                "id": 22529,
+                "uri": "https://sedra.bethmardutho.org/api/word/22529.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

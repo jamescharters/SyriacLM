@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0719\u072a",
+        "western": "\u0721\u0719\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15502,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15502.json"
+        },
+        "stem": "\u0721\u0719\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to sit (on a mule)",
+                "Ia to stretch out",
+                "Ip to stretch oneself",
+                "to stretch the limbs."
+            ]
+        },
+        "word": {
+            "id": 41201,
+            "uri": "https://sedra.bethmardutho.org/api/word/41201.json"
+        }
+    }
+]

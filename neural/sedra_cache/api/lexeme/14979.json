@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14979,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14979.json"
+        },
+        "syriac": "\u0715\u072b",
+        "glosses": {
+            "English": [
+                "to disregard.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0715\u0736\u072b</span> to stop the ears"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2260,
+            "uri": "https://sedra.bethmardutho.org/api/root/2260.json"
+        },
+        "words": [
+            {
+                "id": 41500,
+                "uri": "https://sedra.bethmardutho.org/api/word/41500.json"
+            },
+            {
+                "id": 41100,
+                "uri": "https://sedra.bethmardutho.org/api/word/41100.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

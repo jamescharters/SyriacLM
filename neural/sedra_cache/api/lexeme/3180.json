@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 3180,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3180.json"
+        },
+        "syriac": "\u072b\u071d\u0718\u0720",
+        "glosses": {
+            "English": [
+                "sheol",
+                "dead",
+                "Sheol, underworld, place of the dead."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1851,
+            "uri": "https://sedra.bethmardutho.org/api/root/1851.json"
+        },
+        "words": [
+            {
+                "id": 20850,
+                "uri": "https://sedra.bethmardutho.org/api/word/20850.json"
+            },
+            {
+                "id": 20849,
+                "uri": "https://sedra.bethmardutho.org/api/word/20849.json"
+            },
+            {
+                "id": 20848,
+                "uri": "https://sedra.bethmardutho.org/api/word/20848.json"
+            },
+            {
+                "id": 20847,
+                "uri": "https://sedra.bethmardutho.org/api/word/20847.json"
+            },
+            {
+                "id": 20846,
+                "uri": "https://sedra.bethmardutho.org/api/word/20846.json"
+            },
+            {
+                "id": 20851,
+                "uri": "https://sedra.bethmardutho.org/api/word/20851.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

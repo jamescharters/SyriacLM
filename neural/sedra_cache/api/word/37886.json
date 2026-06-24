@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0728\u0720\u0726\u0710",
+        "western": "\u0728\u0720\u0733\u0726\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14095,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14095.json"
+        },
+        "stem": "\u0728\u0720\u0726\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639\u0629",
+                "\u062c\u0631\u062d"
+            ],
+            "eng": [
+                "wound.",
+                "cleft, division"
+            ],
+            "fre": [
+                "morceau",
+                "blessure"
+            ]
+        },
+        "word": {
+            "id": 37886,
+            "uri": "https://sedra.bethmardutho.org/api/word/37886.json"
+        }
+    }
+]

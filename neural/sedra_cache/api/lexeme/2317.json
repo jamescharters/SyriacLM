@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2317,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2317.json"
+        },
+        "syriac": "\u0725\u0720\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "produce",
+                "fruit",
+                "income",
+                "produce, ingathering, yield."
+            ],
+            "Arabic": [
+                "\u062b\u0645\u0631\u0629, \u0645\u0646\u062a\u0648\u062c"
+            ],
+            "French": [
+                "fruit, produit"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1378,
+            "uri": "https://sedra.bethmardutho.org/api/root/1378.json"
+        },
+        "words": [
+            {
+                "id": 15442,
+                "uri": "https://sedra.bethmardutho.org/api/word/15442.json"
+            },
+            {
+                "id": 15445,
+                "uri": "https://sedra.bethmardutho.org/api/word/15445.json"
+            },
+            {
+                "id": 15443,
+                "uri": "https://sedra.bethmardutho.org/api/word/15443.json"
+            },
+            {
+                "id": 15444,
+                "uri": "https://sedra.bethmardutho.org/api/word/15444.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

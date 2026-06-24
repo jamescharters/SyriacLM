@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0721\u0718\u0723\u071d\u0718\u072c\u0710",
+        "western": "\u0722\u0733\u0721\u073d\u0718\u0723\u0733\u071d\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12803,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12803.json"
+        },
+        "stem": "\u0722\u0721\u0718\u0723\u071d\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0631\u0639\u064a\u0629"
+            ],
+            "eng": [
+                "lawfulness, legality",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> injustice, wrong, illegality."
+            ],
+            "fre": [
+                "l\u00e9galit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 29967,
+            "uri": "https://sedra.bethmardutho.org/api/word/29967.json"
+        }
+    }
+]

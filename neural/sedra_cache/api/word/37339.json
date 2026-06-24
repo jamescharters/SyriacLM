@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u071b\u071d\u072c\u0722\u071d\u0710",
+        "western": "\u071a\u071b\u073a\u071d\u072c\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12697,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12697.json"
+        },
+        "stem": "\u071a\u071b\u071d\u072c\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646 \u0627\u0644\u062e\u0637\u064a\u0626\u0629"
+            ],
+            "eng": [
+                "sinful, caused by sin."
+            ],
+            "fre": [
+                "de p\u00e9ch\u00e9"
+            ]
+        },
+        "word": {
+            "id": 37339,
+            "uri": "https://sedra.bethmardutho.org/api/word/37339.json"
+        }
+    }
+]

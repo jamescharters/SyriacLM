@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 1013,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1013.json"
+        },
+        "syriac": "\u071a\u071b\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0637\u064a\u0626\u0629",
+                "\u063a\u0644\u0637"
+            ],
+            "French": [
+                "p\u00e9ch\u00e9",
+                "erreur"
+            ],
+            "English": [
+                "sin",
+                "sin."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 618,
+            "uri": "https://sedra.bethmardutho.org/api/root/618.json"
+        },
+        "words": [
+            {
+                "id": 6795,
+                "uri": "https://sedra.bethmardutho.org/api/word/6795.json"
+            },
+            {
+                "id": 6790,
+                "uri": "https://sedra.bethmardutho.org/api/word/6790.json"
+            },
+            {
+                "id": 6789,
+                "uri": "https://sedra.bethmardutho.org/api/word/6789.json"
+            },
+            {
+                "id": 6788,
+                "uri": "https://sedra.bethmardutho.org/api/word/6788.json"
+            },
+            {
+                "id": 6791,
+                "uri": "https://sedra.bethmardutho.org/api/word/6791.json"
+            },
+            {
+                "id": 6794,
+                "uri": "https://sedra.bethmardutho.org/api/word/6794.json"
+            },
+            {
+                "id": 6793,
+                "uri": "https://sedra.bethmardutho.org/api/word/6793.json"
+            },
+            {
+                "id": 6792,
+                "uri": "https://sedra.bethmardutho.org/api/word/6792.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

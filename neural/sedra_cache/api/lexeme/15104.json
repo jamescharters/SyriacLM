@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15104,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15104.json"
+        },
+        "syriac": "\u0712\u072a\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0631\u0642",
+                "\u062e\u0644\u0635",
+                "\u00a0"
+            ],
+            "French": [
+                "s\u00e9parer",
+                "lib\u00e9rer",
+                "\u00a0"
+            ],
+            "English": [
+                "to exempt",
+                "IIa to remove, leave out",
+                "to separate",
+                "pass. part. <span class=\"selectableFont\">\u0721\u0712\u0730\u072a\u0730\u071d</span> exempt."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2657,
+            "uri": "https://sedra.bethmardutho.org/api/root/2657.json"
+        },
+        "words": [
+            {
+                "id": 41318,
+                "uri": "https://sedra.bethmardutho.org/api/word/41318.json"
+            },
+            {
+                "id": 41226,
+                "uri": "https://sedra.bethmardutho.org/api/word/41226.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

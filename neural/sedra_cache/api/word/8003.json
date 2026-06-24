@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u0713\u072a",
+        "western": "\u071b\u0713\u072a",
+        "eastern": "\u071b\u0713\u0732\u072a",
+        "lexeme": {
+            "id": 1209,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1209.json"
+        },
+        "stem": "\u071b\u0713\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "do violence",
+                "Ip, IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u071b\u0730\u0713\u0730\u072a</span> to deal hardly with",
+                "to harm, molest.",
+                "be vexatious",
+                "molest"
+            ]
+        },
+        "word": {
+            "id": 8003,
+            "uri": "https://sedra.bethmardutho.org/api/word/8003.json"
+        }
+    }
+]

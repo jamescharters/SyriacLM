@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u0718\u0712\u0720\u0710",
+        "western": "\u071a\u073d\u0718\u0712\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5545,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5545.json"
+        },
+        "stem": "\u071a\u0718\u0712\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0638\u0644\u0645",
+                "\u0648\u0628\u0627\u0621",
+                "\u0641\u0636\u062d, \u063a\u0635\u0628"
+            ],
+            "eng": [
+                "corruption, destruction, desolation."
+            ],
+            "fre": [
+                "pestilence",
+                "viol",
+                "injustice"
+            ]
+        },
+        "word": {
+            "id": 34392,
+            "uri": "https://sedra.bethmardutho.org/api/word/34392.json"
+        }
+    }
+]

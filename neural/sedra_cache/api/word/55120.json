@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0713\u0718\u0726\u071b\u071d\u0710",
+        "western": "\u0710\u071d\u0713\u0718\u073d\u0726\u071b\u0733\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 28746,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28746.json"
+        },
+        "stem": "\u0710\u071d\u0713\u0718\u0726\u071b\u071d\u0710",
+        "category": "proper noun (nations; e.g. Huns)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Egyptian"
+            ],
+            "grc": [
+                "\u0391\u1f30\u03b3\u03cd\u03c0\u03c4\u03b9\u03bf\u03c2"
+            ],
+            "lat": [
+                "Aegyptius"
+            ]
+        },
+        "word": {
+            "id": 55120,
+            "uri": "https://sedra.bethmardutho.org/api/word/55120.json"
+        }
+    }
+]

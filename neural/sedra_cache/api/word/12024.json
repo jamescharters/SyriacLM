@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0722\u071d\u0722\u0717\u0718\u0722",
+        "western": "\u0715\u0741\u0721\u0736\u0722\u071d\u0733\u0722\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1804,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1804.json"
+        },
+        "stem": "\u0721\u0722\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "number, reckoning, computation, era.",
+                "number"
+            ]
+        },
+        "word": {
+            "id": 12024,
+            "uri": "https://sedra.bethmardutho.org/api/word/12024.json"
+        }
+    }
+]

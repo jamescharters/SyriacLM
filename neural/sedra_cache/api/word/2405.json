@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u0717\u072c\u072c\u0717",
+        "western": "\u0712\u0741\u0736\u0717\u072c\u0741\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 347,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/347.json"
+        },
+        "stem": "\u0712\u0717\u072c\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "shame",
+                "shame, disgrace."
+            ]
+        },
+        "word": {
+            "id": 2405,
+            "uri": "https://sedra.bethmardutho.org/api/word/2405.json"
+        }
+    }
+]

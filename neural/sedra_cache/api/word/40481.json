@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0712",
+        "western": "\u072b\u0730\u072a\u0736\u0712",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15052,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15052.json"
+        },
+        "stem": "\u072b\u072a\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0646\u0634\u0631, \u0643\u062b\u0631",
+                "\u0623\u0634\u0627\u0639"
+            ],
+            "eng": [
+                "to divulge",
+                "to propagate",
+                "to be divided up.",
+                "to be propagated",
+                "2 IIa to spread",
+                "IIp to be counted by family"
+            ],
+            "fre": [
+                "propager",
+                "divulguer"
+            ]
+        },
+        "word": {
+            "id": 40481,
+            "uri": "https://sedra.bethmardutho.org/api/word/40481.json"
+        }
+    }
+]

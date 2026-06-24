@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 3148,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3148.json"
+        },
+        "syriac": "\u072b\u0718\u0721\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0631\u062d, \u062d\u062f\u0648\u0631 ]\u0631\u0636[",
+                "\u0642\u0631\u062d",
+                "\u0646\u062f\u0628\u0629",
+                "\u0641\u062a\u064a\u062a\u0629, \u062c\u0632\u0621 \u0635\u063a\u064a\u0631",
+                "\u0634\u0639\u0631 (\u0644\u062d\u064a\u0629)"
+            ],
+            "French": [
+                "blessure, meurtrissure",
+                "ulc\u00e8re",
+                "cicatrice",
+                "miette, parcelle",
+                "poil (de barbe)"
+            ],
+            "English": [
+                "wound",
+                "spot",
+                "swelling",
+                "sore",
+                "<span class=\"selectableFont\">\u072b\u073d\u0718\u0721\u0308\u0733\u072c\u0733\u0710</span> whiskers."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1830,
+            "uri": "https://sedra.bethmardutho.org/api/root/1830.json"
+        },
+        "words": [
+            {
+                "id": 3204,
+                "uri": "https://sedra.bethmardutho.org/api/word/3204.json"
+            },
+            {
+                "id": 20697,
+                "uri": "https://sedra.bethmardutho.org/api/word/20697.json"
+            },
+            {
+                "id": 20696,
+                "uri": "https://sedra.bethmardutho.org/api/word/20696.json"
+            },
+            {
+                "id": 20695,
+                "uri": "https://sedra.bethmardutho.org/api/word/20695.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

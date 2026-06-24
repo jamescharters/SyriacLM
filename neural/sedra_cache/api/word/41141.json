@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0725\u072a\u0713\u0720",
+        "western": "\u0725\u0730\u072a\u0713\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14769,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14769.json"
+        },
+        "stem": "\u0725\u072a\u0713\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u00a0"
+            ],
+            "eng": [
+                "to wallow.",
+                "IVp to be rolled",
+                "IVa to roll around, roll away"
+            ],
+            "fre": [
+                "\u00a0",
+                "rouler\u2026"
+            ]
+        },
+        "word": {
+            "id": 41141,
+            "uri": "https://sedra.bethmardutho.org/api/word/41141.json"
+        }
+    }
+]

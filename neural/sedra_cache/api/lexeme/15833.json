@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15833,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15833.json"
+        },
+        "syriac": "\u072c\u072a\u0712",
+        "glosses": {
+            "English": [
+                "Ia to swell (of waves)",
+                "IIp to be fattened",
+                "IIIa to become fat."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2056,
+            "uri": "https://sedra.bethmardutho.org/api/root/2056.json"
+        },
+        "words": [
+            {
+                "id": 41841,
+                "uri": "https://sedra.bethmardutho.org/api/word/41841.json"
+            },
+            {
+                "id": 41289,
+                "uri": "https://sedra.bethmardutho.org/api/word/41289.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

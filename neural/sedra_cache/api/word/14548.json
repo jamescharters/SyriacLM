@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0723\u0726\u072a\u0710",
+        "western": "\u0723\u0733\u0726\u0742\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2188,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2188.json"
+        },
+        "stem": "\u0723\u0726\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "scribe",
+                "teacher.",
+                "scribe, clerk",
+                "lawyer"
+            ]
+        },
+        "word": {
+            "id": 14548,
+            "uri": "https://sedra.bethmardutho.org/api/word/14548.json"
+        }
+    }
+]

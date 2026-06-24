@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0713",
+        "western": "\u0713",
+        "eastern": "\u0713",
+        "number": "singular",
+        "lexeme": {
+            "id": 13965,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13965.json"
+        },
+        "stem": "\u0713",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "3"
+            ],
+            "eng": [
+                "third letter of the alphabet (Gomal)",
+                "numerical value: 3."
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 29792,
+            "uri": "https://sedra.bethmardutho.org/api/word/29792.json"
+        }
+    }
+]

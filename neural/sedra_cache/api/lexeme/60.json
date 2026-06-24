@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 60,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/60.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "stall",
+                "manger",
+                "stall, manger, crib."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 49,
+            "uri": "https://sedra.bethmardutho.org/api/root/49.json"
+        },
+        "words": [
+            {
+                "id": 322,
+                "uri": "https://sedra.bethmardutho.org/api/word/322.json"
+            },
+            {
+                "id": 323,
+                "uri": "https://sedra.bethmardutho.org/api/word/323.json"
+            },
+            {
+                "id": 42286,
+                "uri": "https://sedra.bethmardutho.org/api/word/42286.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

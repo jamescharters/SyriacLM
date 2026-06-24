@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u071d\u0718\u071d\u0717\u0718\u0722",
+        "western": "\u0715\u0741\u0730\u071d\u0718\u0730\u071d\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 685,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/685.json"
+        },
+        "stem": "\u0715\u071d\u0718\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "devil",
+                "demon",
+                "demon",
+                "demon, evil spirit, devil."
+            ]
+        },
+        "word": {
+            "id": 4338,
+            "uri": "https://sedra.bethmardutho.org/api/word/4338.json"
+        }
+    }
+]

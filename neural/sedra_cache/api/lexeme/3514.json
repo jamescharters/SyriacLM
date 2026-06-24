@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 3514,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3514.json"
+        },
+        "syriac": "\u0725\u0712\u071d\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0644\u064a\u0642\u0629",
+                "\u0623\u0645\u0631, \u0634\u064a\u0621"
+            ],
+            "French": [
+                "cr\u00e9ature",
+                "affaire, chose"
+            ],
+            "English": [
+                "creature",
+                "Gram. object."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1328,
+            "uri": "https://sedra.bethmardutho.org/api/root/1328.json"
+        },
+        "words": [
+            {
+                "id": 26299,
+                "uri": "https://sedra.bethmardutho.org/api/word/26299.json"
+            },
+            {
+                "id": 14699,
+                "uri": "https://sedra.bethmardutho.org/api/word/14699.json"
+            },
+            {
+                "id": 14801,
+                "uri": "https://sedra.bethmardutho.org/api/word/14801.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

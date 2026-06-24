@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 671,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/671.json"
+        },
+        "syriac": "\u0715\u0718\u0725\u072c\u0710",
+        "glosses": {
+            "English": [
+                "sweat",
+                "sweat, perspiration."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 427,
+            "uri": "https://sedra.bethmardutho.org/api/root/427.json"
+        },
+        "words": [
+            {
+                "id": 4228,
+                "uri": "https://sedra.bethmardutho.org/api/word/4228.json"
+            },
+            {
+                "id": 4227,
+                "uri": "https://sedra.bethmardutho.org/api/word/4227.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

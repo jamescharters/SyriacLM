@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u072b\u0720\u0710",
+        "western": "\u071a\u072b\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8345,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8345.json"
+        },
+        "stem": "\u071a\u072b\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0648\u063a"
+            ],
+            "eng": [
+                "fashioning, working in gold."
+            ],
+            "fre": [
+                "formation"
+            ]
+        },
+        "word": {
+            "id": 39776,
+            "uri": "https://sedra.bethmardutho.org/api/word/39776.json"
+        }
+    }
+]

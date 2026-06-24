@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 2053,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2053.json"
+        },
+        "syriac": "\u0723\u0712\u0725\u0710",
+        "glosses": {
+            "English": [
+                "satiety",
+                "full",
+                "fullness",
+                "plenty",
+                "satiety",
+                "abundance, plenty."
+            ],
+            "Arabic": [
+                "\u0648\u0641\u0631\u0629"
+            ],
+            "French": [
+                "abondance"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1229,
+            "uri": "https://sedra.bethmardutho.org/api/root/1229.json"
+        },
+        "words": [
+            {
+                "id": 13507,
+                "uri": "https://sedra.bethmardutho.org/api/word/13507.json"
+            },
+            {
+                "id": 13506,
+                "uri": "https://sedra.bethmardutho.org/api/word/13506.json"
+            },
+            {
+                "id": 22821,
+                "uri": "https://sedra.bethmardutho.org/api/word/22821.json"
+            },
+            {
+                "id": 13505,
+                "uri": "https://sedra.bethmardutho.org/api/word/13505.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14745,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14745.json"
+        },
+        "syriac": "\u072c\u0710\u0721\u0722",
+        "glosses": {
+            "English": [
+                "IVa to double."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3056,
+            "uri": "https://sedra.bethmardutho.org/api/root/3056.json"
+        },
+        "words": [
+            {
+                "id": 41533,
+                "uri": "https://sedra.bethmardutho.org/api/word/41533.json"
+            },
+            {
+                "id": 40155,
+                "uri": "https://sedra.bethmardutho.org/api/word/40155.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

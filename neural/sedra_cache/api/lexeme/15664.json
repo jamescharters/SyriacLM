@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15664,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15664.json"
+        },
+        "syriac": "\u0722\u072c\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "to excerpt",
+                "Ia to tear, lacerate",
+                "to pluck out",
+                "IIa to tear in pieces, to mangle",
+                "Ip",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3144,
+            "uri": "https://sedra.bethmardutho.org/api/root/3144.json"
+        },
+        "words": [
+            {
+                "id": 41892,
+                "uri": "https://sedra.bethmardutho.org/api/word/41892.json"
+            },
+            {
+                "id": 41478,
+                "uri": "https://sedra.bethmardutho.org/api/word/41478.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

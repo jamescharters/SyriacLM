@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 15431,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15431.json"
+        },
+        "syriac": "\u071f\u0726\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0648\u0649",
+                "\u0646\u0636\u062c, \u0623\u0646\u0636\u062c",
+                "\u0633\u062d\u0628",
+                "\u00a0"
+            ],
+            "French": [
+                "infl\u00e9chir",
+                "m\u00fbrir",
+                "retirer",
+                "\u00a0"
+            ],
+            "English": [
+                "to bend",
+                "to fold back.",
+                "to thicken",
+                "IIa to form into a knot",
+                "Ia to form into a pod",
+                "to ripen",
+                "Ip to be formed (as fruit)",
+                "to inflect"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3161,
+            "uri": "https://sedra.bethmardutho.org/api/root/3161.json"
+        },
+        "words": [
+            {
+                "id": 41561,
+                "uri": "https://sedra.bethmardutho.org/api/word/41561.json"
+            },
+            {
+                "id": 42185,
+                "uri": "https://sedra.bethmardutho.org/api/word/42185.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

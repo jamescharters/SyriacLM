@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0715\u0718",
+        "western": "\u0710\u0736\u0712\u0742\u0730\u0715\u0742\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5.json"
+        },
+        "stem": "\u0710\u0712\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "perish",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0712\u0736\u0715</span> destroy.",
+                "Ia to perish, be lost",
+                "Ip",
+                "lose",
+                "destroy"
+            ]
+        },
+        "word": {
+            "id": 73,
+            "uri": "https://sedra.bethmardutho.org/api/word/73.json"
+        }
+    }
+]

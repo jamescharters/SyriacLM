@@ -1,0 +1,51 @@
+[
+    {
+        "syriac": "\u072b\u0713\u0721",
+        "western": "\u072b\u0713\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15540,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15540.json"
+        },
+        "stem": "\u072b\u0713\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0623\u062d\u0627\u062f",
+                "\u0627\u062c\u062a\u0647\u062f",
+                "\u0631\u0628\u0642, \u063a\u0634",
+                "\u0623\u0636\u0631 \u0628\u0640",
+                "\u0634\u063a\u0644 (\u0645\u0636)"
+            ],
+            "eng": [
+                "Ia to engage in, to be occupied with",
+                "to be deluded",
+                "IIIa to occupy the attention of.",
+                "Ip to be intent on",
+                "to cajole, to distract, to inveigle",
+                "to wrong, to injure"
+            ],
+            "fre": [
+                "occuper",
+                "s&#39;appliquer",
+                "capter, tromper",
+                "\u00a0",
+                "d\u00e9tourner",
+                "faire du tort \u00e0"
+            ]
+        },
+        "word": {
+            "id": 40394,
+            "uri": "https://sedra.bethmardutho.org/api/word/40394.json"
+        }
+    }
+]

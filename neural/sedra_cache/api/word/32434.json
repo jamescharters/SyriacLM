@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071f\u071a\u071d\u0715\u0710",
+        "western": "\u071f\u071a\u073a\u071d\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13973,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13973.json"
+        },
+        "stem": "\u071f\u071a\u071d\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0642\u0648\u0631",
+                "\u0641\u0627\u0636\u062d"
+            ],
+            "eng": [
+                "reverent, modest.",
+                "revered"
+            ],
+            "fre": [
+                "v\u00e9n\u00e9rable",
+                "honteux"
+            ]
+        },
+        "word": {
+            "id": 32434,
+            "uri": "https://sedra.bethmardutho.org/api/word/32434.json"
+        }
+    }
+]

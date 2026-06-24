@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 274,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/274.json"
+        },
+        "syriac": "\u072a\u0712\u0725\u0710",
+        "glosses": {
+            "English": [
+                "measure (liquid).",
+                "measure"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 202,
+            "uri": "https://sedra.bethmardutho.org/api/root/202.json"
+        },
+        "words": [
+            {
+                "id": 1863,
+                "uri": "https://sedra.bethmardutho.org/api/word/1863.json"
+            },
+            {
+                "id": 1862,
+                "uri": "https://sedra.bethmardutho.org/api/word/1862.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

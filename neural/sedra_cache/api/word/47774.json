@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0717\u0722\u0715\u0719\u0710",
+        "western": "\u0717\u0732\u0722\u0715\u0733\u0719\u0733\u0710",
+        "eastern": "\u0717\u0732\u0722\u0715\u0735\u0719\u0735\u0710",
+        "lexeme": {
+            "id": 21400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21400.json"
+        },
+        "stem": "\u0717\u0722\u0715\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "a certain quantity",
+                "ration",
+                "allowance"
+            ]
+        },
+        "word": {
+            "id": 47774,
+            "uri": "https://sedra.bethmardutho.org/api/word/47774.json"
+        }
+    }
+]

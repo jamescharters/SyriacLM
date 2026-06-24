@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0729\u0726\u0710",
+        "western": "\u0729\u0726\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15400.json"
+        },
+        "stem": "\u0729\u0726\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u062f \u0625\u0644\u0649 \u0627\u0644\u0645\u0631\u0641\u0623",
+                "\u0646\u0632\u0644",
+                "\u062c\u0645\u0639",
+                "\u0643\u0648\u0645",
+                "\u00a0",
+                "\u0646\u0632\u0644 (\u0625\u0644\u0649 \u0627\u0644\u0628\u0631)"
+            ],
+            "eng": [
+                "to reach",
+                "IIa to skim off.",
+                "Ia to collect up, to heap"
+            ],
+            "fre": [
+                "\u00a0",
+                "ramasser",
+                "prendre g\u00eete",
+                "conduire au port",
+                "aborder",
+                "entasser"
+            ]
+        },
+        "word": {
+            "id": 40684,
+            "uri": "https://sedra.bethmardutho.org/api/word/40684.json"
+        }
+    }
+]

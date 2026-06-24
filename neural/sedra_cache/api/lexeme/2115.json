@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 2115,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2115.json"
+        },
+        "syriac": "\u0723\u071d\u0721\u0710",
+        "glosses": {
+            "English": [
+                "hands",
+                "formulation",
+                "proposition, statement",
+                "composing",
+                "position, place",
+                "creed",
+                "laying down",
+                "planting",
+                "<span class=\"selectableFont\">\u0723\u071d\u0733\u0721\u0308\u0736\u0710</span> plural points"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1263,
+            "uri": "https://sedra.bethmardutho.org/api/root/1263.json"
+        },
+        "words": [
+            {
+                "id": 14089,
+                "uri": "https://sedra.bethmardutho.org/api/word/14089.json"
+            },
+            {
+                "id": 14088,
+                "uri": "https://sedra.bethmardutho.org/api/word/14088.json"
+            },
+            {
+                "id": 14087,
+                "uri": "https://sedra.bethmardutho.org/api/word/14087.json"
+            },
+            {
+                "id": 14086,
+                "uri": "https://sedra.bethmardutho.org/api/word/14086.json"
+            },
+            {
+                "id": 14091,
+                "uri": "https://sedra.bethmardutho.org/api/word/14091.json"
+            },
+            {
+                "id": 14090,
+                "uri": "https://sedra.bethmardutho.org/api/word/14090.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

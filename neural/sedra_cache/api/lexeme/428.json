@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 428,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/428.json"
+        },
+        "syriac": "\u0712\u0725\u0715",
+        "glosses": {
+            "English": [
+                "absent",
+                "stay away",
+                "to send far away, remove.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0712\u0725\u0730\u0715</span> to go far away"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 292,
+            "uri": "https://sedra.bethmardutho.org/api/root/292.json"
+        },
+        "words": [
+            {
+                "id": 3020,
+                "uri": "https://sedra.bethmardutho.org/api/word/3020.json"
+            },
+            {
+                "id": 3022,
+                "uri": "https://sedra.bethmardutho.org/api/word/3022.json"
+            },
+            {
+                "id": 3021,
+                "uri": "https://sedra.bethmardutho.org/api/word/3021.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 14808,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14808.json"
+        },
+        "syriac": "\u0715\u0722\u0715\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0632"
+            ],
+            "French": [
+                "secouer"
+            ],
+            "English": [
+                "IVa to shake",
+                "IVp to dangle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3099,
+            "uri": "https://sedra.bethmardutho.org/api/root/3099.json"
+        },
+        "words": [
+            {
+                "id": 40713,
+                "uri": "https://sedra.bethmardutho.org/api/word/40713.json"
+            },
+            {
+                "id": 39927,
+                "uri": "https://sedra.bethmardutho.org/api/word/39927.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

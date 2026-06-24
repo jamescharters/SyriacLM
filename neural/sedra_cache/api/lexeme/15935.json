@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15935,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15935.json"
+        },
+        "syriac": "\u0722\u0715\u0710",
+        "glosses": {
+            "English": [
+                "to project, jut out",
+                "Ia to gush out, to splash",
+                "IIa part. <span class=\"selectableFont\">\u0721\u0722\u0730\u0715\u0736\u0710</span> bounding along."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2272,
+            "uri": "https://sedra.bethmardutho.org/api/root/2272.json"
+        },
+        "words": [
+            {
+                "id": 42131,
+                "uri": "https://sedra.bethmardutho.org/api/word/42131.json"
+            },
+            {
+                "id": 40027,
+                "uri": "https://sedra.bethmardutho.org/api/word/40027.json"
+            },
+            {
+                "id": 42190,
+                "uri": "https://sedra.bethmardutho.org/api/word/42190.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

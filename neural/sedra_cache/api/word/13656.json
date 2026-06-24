@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u0723\u072c\u0712\u072a\u072c",
+        "western": "\u0710\u0736\u0723\u072c\u0741\u0730\u0712\u0741\u072a\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2060,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2060.json"
+        },
+        "stem": "\u0723\u0712\u072a",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be fed",
+                "declare",
+                "bear",
+                "preach",
+                "endure",
+                "be nourished"
+            ]
+        },
+        "word": {
+            "id": 13656,
+            "uri": "https://sedra.bethmardutho.org/api/word/13656.json"
+        }
+    }
+]

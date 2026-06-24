@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u0713\u0712\u071d\u072c\u0710",
+        "western": "\u0720\u0730\u0713\u0742\u0712\u0742\u073a\u071d\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 498,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/498.json"
+        },
+        "stem": "\u0713\u0712\u071d\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "elect",
+                ", <span class=\"selectableFont\">\u0713\u0712\u073a\u071d\u072c\u0733\u0710</span> chosen one.",
+                "approved",
+                "chosen"
+            ]
+        },
+        "word": {
+            "id": 3441,
+            "uri": "https://sedra.bethmardutho.org/api/word/3441.json"
+        }
+    }
+]

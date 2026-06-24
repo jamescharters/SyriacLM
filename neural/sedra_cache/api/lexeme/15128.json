@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15128,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15128.json"
+        },
+        "syriac": "\u0722\u0729\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0638\u0645 (\u0645\u0636)",
+                "\u0646\u0638\u0641",
+                "\u00a0"
+            ],
+            "French": [
+                "c\u00e9l\u00e9brer",
+                "nettoyer",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp.",
+                "IIa to cleanse, clean, purify"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3090,
+            "uri": "https://sedra.bethmardutho.org/api/root/3090.json"
+        },
+        "words": [
+            {
+                "id": 40566,
+                "uri": "https://sedra.bethmardutho.org/api/word/40566.json"
+            },
+            {
+                "id": 40476,
+                "uri": "https://sedra.bethmardutho.org/api/word/40476.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

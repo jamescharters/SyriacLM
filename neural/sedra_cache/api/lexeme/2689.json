@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2689,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2689.json"
+        },
+        "syriac": "\u0728\u071d\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0646\u0627\u0635, \u0635\u064a\u0627\u062f"
+            ],
+            "French": [
+                "chasseur, p\u00eacheur"
+            ],
+            "English": [
+                "fisherman",
+                "hunter, fisher."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1590,
+            "uri": "https://sedra.bethmardutho.org/api/root/1590.json"
+        },
+        "words": [
+            {
+                "id": 17458,
+                "uri": "https://sedra.bethmardutho.org/api/word/17458.json"
+            },
+            {
+                "id": 22842,
+                "uri": "https://sedra.bethmardutho.org/api/word/22842.json"
+            },
+            {
+                "id": 17459,
+                "uri": "https://sedra.bethmardutho.org/api/word/17459.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

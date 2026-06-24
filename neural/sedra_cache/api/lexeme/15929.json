@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15929,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15929.json"
+        },
+        "syriac": "\u0726\u072b\u071a",
+        "glosses": {
+            "English": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0726\u072b\u073d\u0718\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0726\u072b\u0730\u071a</span>, Ia to cease, to fade away."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3174,
+            "uri": "https://sedra.bethmardutho.org/api/root/3174.json"
+        },
+        "words": [
+            {
+                "id": 42150,
+                "uri": "https://sedra.bethmardutho.org/api/word/42150.json"
+            },
+            {
+                "id": 41782,
+                "uri": "https://sedra.bethmardutho.org/api/word/41782.json"
+            },
+            {
+                "id": 40694,
+                "uri": "https://sedra.bethmardutho.org/api/word/40694.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

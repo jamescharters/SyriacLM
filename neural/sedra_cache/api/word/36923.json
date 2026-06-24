@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0720\u0712\u071d\u0729\u072a\u0710",
+        "western": "\u0729\u0736\u0720\u0712\u073a\u071d\u0729\u0733\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7852,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7852.json"
+        },
+        "stem": "\u0729\u0720\u0712\u071d\u0729\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062e\u062f\u0629"
+            ],
+            "eng": [
+                "pillow."
+            ],
+            "fre": [
+                "oreiller"
+            ]
+        },
+        "word": {
+            "id": 36923,
+            "uri": "https://sedra.bethmardutho.org/api/word/36923.json"
+        }
+    }
+]

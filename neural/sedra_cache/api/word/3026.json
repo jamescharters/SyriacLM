@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0712\u0725\u071b\u0718",
+        "western": "\u0720\u0730\u0721\u0712\u0742\u0730\u0725\u0733\u071b\u073d\u0718",
+        "tense": "infinitive",
+        "kaylo": "pa\u02bf\u02bfel",
+        "lexeme": {
+            "id": 431,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/431.json"
+        },
+        "stem": "\u0712\u0725\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0641\u0633",
+                "\u062f\u0639\u0633",
+                "\u0635\u0631\u0639"
+            ],
+            "eng": [
+                "Ia to kick",
+                "IIa to kick violently.",
+                "to trample",
+                "kick"
+            ],
+            "fre": [
+                "pi\u00e9tiner",
+                "regimber",
+                "renverser"
+            ]
+        },
+        "word": {
+            "id": 3026,
+            "uri": "https://sedra.bethmardutho.org/api/word/3026.json"
+        }
+    }
+]

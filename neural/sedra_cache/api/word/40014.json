@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0719\u072a\u0726",
+        "western": "\u0719\u072a\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15706,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15706.json"
+        },
+        "stem": "\u0719\u072a\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to sprinkle."
+            ]
+        },
+        "word": {
+            "id": 40014,
+            "uri": "https://sedra.bethmardutho.org/api/word/40014.json"
+        }
+    }
+]

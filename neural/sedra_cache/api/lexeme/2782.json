@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2782,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2782.json"
+        },
+        "syriac": "\u0729\u0718\u072a\u071d\u0722\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Quirinius"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1641,
+            "uri": "https://sedra.bethmardutho.org/api/root/1641.json"
+        },
+        "words": [
+            {
+                "id": 18165,
+                "uri": "https://sedra.bethmardutho.org/api/word/18165.json"
+            },
+            {
+                "id": 18164,
+                "uri": "https://sedra.bethmardutho.org/api/word/18164.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

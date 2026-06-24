@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072c\u0718\u072c\u0712\u0710",
+        "western": "\u072c\u0741\u0730\u0718\u072c\u0741\u0733\u0712\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1438,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1438.json"
+        },
+        "stem": "\u072c\u0718\u072c\u0712\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u064a\u0628"
+            ],
+            "eng": [
+                "settler",
+                "stranger",
+                "foreigner, settler, lodger.",
+                "sojourner"
+            ],
+            "fre": [
+                "\u00e9tranger"
+            ]
+        },
+        "word": {
+            "id": 9559,
+            "uri": "https://sedra.bethmardutho.org/api/word/9559.json"
+        }
+    }
+]

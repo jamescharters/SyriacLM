@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0723\u071d\u0718\u0721\u0718\u072c\u0710",
+        "western": "\u0723\u0733\u071d\u073d\u0718\u0721\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11980,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11980.json"
+        },
+        "stem": "\u0723\u071d\u0718\u0721\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0623\u0644\u064a\u0641"
+            ],
+            "eng": [
+                "Gram. affirmation.",
+                "setting forth, lay out",
+                "authorship",
+                "composition, style"
+            ],
+            "fre": [
+                "composition"
+            ]
+        },
+        "word": {
+            "id": 39098,
+            "uri": "https://sedra.bethmardutho.org/api/word/39098.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0712\u072a",
+        "western": "\u0712\u0733\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15798,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15798.json"
+        },
+        "stem": "\u0712\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to leave uncultivated.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0712\u073d\u0718\u072a</span>, Ia to lie uncultivated, neglected"
+            ]
+        },
+        "word": {
+            "id": 40050,
+            "uri": "https://sedra.bethmardutho.org/api/word/40050.json"
+        }
+    }
+]

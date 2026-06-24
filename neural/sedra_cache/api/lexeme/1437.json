@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1437,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1437.json"
+        },
+        "syriac": "\u0721\u0718\u072c\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0",
+                ""
+            ],
+            "French": [
+                "\u00a0",
+                "si\u00e8ge\u2026"
+            ],
+            "English": [
+                "seat",
+                "seat",
+                "habitation, settlement, site",
+                "session",
+                "division of the Psalter",
+                "Kth. assembly, <span class=\"selectableFont\">\u0721\u0730\u0718\u072c\u0712\u0733\u0710 \u0725\u073a\u0715\u072c\u0733\u0722\u0733\u071d\u0733\u0710</span> church board.",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0721\u0730\u0718\u0308</span><span class=\"selectableFont\">\u072c\u0712\u0736\u0710</span> a group of specific Historical and Wisdom books of the Old Testament"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 856,
+            "uri": "https://sedra.bethmardutho.org/api/root/856.json"
+        },
+        "words": [
+            {
+                "id": 22796,
+                "uri": "https://sedra.bethmardutho.org/api/word/22796.json"
+            },
+            {
+                "id": 9557,
+                "uri": "https://sedra.bethmardutho.org/api/word/9557.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

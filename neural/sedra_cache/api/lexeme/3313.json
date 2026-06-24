@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 3313,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3313.json"
+        },
+        "syriac": "\u0721\u072b\u072a\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0639\u0633\u0643\u0631",
+                "\u062c\u064a\u0634, \u0641\u0631\u0642\u0629",
+                "\u0645\u0648\u0643\u0628",
+                "\u0645\u0642\u0639\u062f",
+                "\u0645\u0639\u0633\u0643\u0631"
+            ],
+            "French": [
+                "camp",
+                "arm\u00e9e, troupe",
+                "cort\u00e8ge",
+                "si\u00e8ge",
+                "demeure"
+            ],
+            "English": [
+                "encampment",
+                "army",
+                "camp, encampment",
+                "retinue",
+                "habitation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1925,
+            "uri": "https://sedra.bethmardutho.org/api/root/1925.json"
+        },
+        "words": [
+            {
+                "id": 22012,
+                "uri": "https://sedra.bethmardutho.org/api/word/22012.json"
+            },
+            {
+                "id": 22011,
+                "uri": "https://sedra.bethmardutho.org/api/word/22011.json"
+            },
+            {
+                "id": 22014,
+                "uri": "https://sedra.bethmardutho.org/api/word/22014.json"
+            },
+            {
+                "id": 22013,
+                "uri": "https://sedra.bethmardutho.org/api/word/22013.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

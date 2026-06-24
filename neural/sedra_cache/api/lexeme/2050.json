@@ -1,0 +1,78 @@
+[
+    {
+        "lexeme": {
+            "id": 2050,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2050.json"
+        },
+        "syriac": "\u0723\u0712\u0720",
+        "glosses": {
+            "English": [
+                "to bestow wedding gifts on",
+                "bear",
+                "suffer",
+                "bear",
+                "impose",
+                "inflict",
+                "Ia to carry, bear",
+                "IIIa to inflict, to impose on, to lay upon",
+                "IIa to fetch",
+                "to bear",
+                "Ip",
+                "to be made to suffer.",
+                "IIIp to suffer"
+            ],
+            "Arabic": [
+                "\u062d\u0645\u0644",
+                "\u0623\u062e\u0630, \u0630\u0647\u0628 \u0628\u0640",
+                "\u0627\u062d\u062a\u0645\u0644",
+                "\u00a0"
+            ],
+            "French": [
+                "porter",
+                " recevoir, emporter",
+                "supporter",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1227,
+            "uri": "https://sedra.bethmardutho.org/api/root/1227.json"
+        },
+        "words": [
+            {
+                "id": 13483,
+                "uri": "https://sedra.bethmardutho.org/api/word/13483.json"
+            },
+            {
+                "id": 13481,
+                "uri": "https://sedra.bethmardutho.org/api/word/13481.json"
+            },
+            {
+                "id": 26757,
+                "uri": "https://sedra.bethmardutho.org/api/word/26757.json"
+            },
+            {
+                "id": 26756,
+                "uri": "https://sedra.bethmardutho.org/api/word/26756.json"
+            },
+            {
+                "id": 13482,
+                "uri": "https://sedra.bethmardutho.org/api/word/13482.json"
+            },
+            {
+                "id": 13485,
+                "uri": "https://sedra.bethmardutho.org/api/word/13485.json"
+            },
+            {
+                "id": 13484,
+                "uri": "https://sedra.bethmardutho.org/api/word/13484.json"
+            },
+            {
+                "id": 13480,
+                "uri": "https://sedra.bethmardutho.org/api/word/13480.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

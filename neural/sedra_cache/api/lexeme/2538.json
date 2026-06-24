@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 2538,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2538.json"
+        },
+        "syriac": "\u0726\u0718\u0722\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u0631\u062c\u0627\u0639, \u0625\u0639\u0627\u062f\u0629",
+                "\u0631\u062c\u0648\u0639",
+                "\u0627\u0647\u062a\u062f\u0627\u0621",
+                "\u0627\u0633\u062a\u062c\u0627\u0628\u0629",
+                "\u0631\u062f",
+                "\u0623\u0628\u0637\u0627\u0644"
+            ],
+            "French": [
+                "action de ramener, de rendre",
+                "retour",
+                "conversion",
+                "exaucement",
+                "restitution",
+                "r\u00e9vocation"
+            ],
+            "English": [
+                "conversion",
+                "reconciliation",
+                "reversion",
+                "return",
+                "restitution.",
+                "reply, answer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1505,
+            "uri": "https://sedra.bethmardutho.org/api/root/1505.json"
+        },
+        "words": [
+            {
+                "id": 16559,
+                "uri": "https://sedra.bethmardutho.org/api/word/16559.json"
+            },
+            {
+                "id": 16560,
+                "uri": "https://sedra.bethmardutho.org/api/word/16560.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

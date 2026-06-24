@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 891,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/891.json"
+        },
+        "syriac": "\u0719\u0721\u071d\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u063a\u0646\u064a\u0629, \u062a\u0631\u062a\u064a\u0644",
+                "\u0645\u0632\u0645\u0648\u0631",
+                "\u0646\u0634\u064a\u062f"
+            ],
+            "French": [
+                "chant",
+                "psaume",
+                "hymne"
+            ],
+            "English": [
+                "song",
+                "psalmody",
+                "song, chant."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 569,
+            "uri": "https://sedra.bethmardutho.org/api/root/569.json"
+        },
+        "words": [
+            {
+                "id": 5764,
+                "uri": "https://sedra.bethmardutho.org/api/word/5764.json"
+            },
+            {
+                "id": 5766,
+                "uri": "https://sedra.bethmardutho.org/api/word/5766.json"
+            },
+            {
+                "id": 5765,
+                "uri": "https://sedra.bethmardutho.org/api/word/5765.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

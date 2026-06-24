@@ -1,0 +1,114 @@
+[
+    {
+        "lexeme": {
+            "id": 1980,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1980.json"
+        },
+        "syriac": "\u0722\u0721\u0718\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0627\u0639\u062f\u0629",
+                "\u0639\u0627\u062f\u0629",
+                "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0635\u0631\u064a\u0629"
+            ],
+            "French": [
+                "r\u00e8gle",
+                "coutume",
+                "province d&#39;Egypte"
+            ],
+            "English": [
+                "law",
+                "law, custom, usage",
+                "the Law (Pentateuch)."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bd\u03bf\u03bc\u03cc\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1181,
+            "uri": "https://sedra.bethmardutho.org/api/root/1181.json"
+        },
+        "words": [
+            {
+                "id": 12941,
+                "uri": "https://sedra.bethmardutho.org/api/word/12941.json"
+            },
+            {
+                "id": 12940,
+                "uri": "https://sedra.bethmardutho.org/api/word/12940.json"
+            },
+            {
+                "id": 12939,
+                "uri": "https://sedra.bethmardutho.org/api/word/12939.json"
+            },
+            {
+                "id": 12937,
+                "uri": "https://sedra.bethmardutho.org/api/word/12937.json"
+            },
+            {
+                "id": 12935,
+                "uri": "https://sedra.bethmardutho.org/api/word/12935.json"
+            },
+            {
+                "id": 12933,
+                "uri": "https://sedra.bethmardutho.org/api/word/12933.json"
+            },
+            {
+                "id": 12929,
+                "uri": "https://sedra.bethmardutho.org/api/word/12929.json"
+            },
+            {
+                "id": 12947,
+                "uri": "https://sedra.bethmardutho.org/api/word/12947.json"
+            },
+            {
+                "id": 12944,
+                "uri": "https://sedra.bethmardutho.org/api/word/12944.json"
+            },
+            {
+                "id": 12943,
+                "uri": "https://sedra.bethmardutho.org/api/word/12943.json"
+            },
+            {
+                "id": 12942,
+                "uri": "https://sedra.bethmardutho.org/api/word/12942.json"
+            },
+            {
+                "id": 12938,
+                "uri": "https://sedra.bethmardutho.org/api/word/12938.json"
+            },
+            {
+                "id": 12936,
+                "uri": "https://sedra.bethmardutho.org/api/word/12936.json"
+            },
+            {
+                "id": 12934,
+                "uri": "https://sedra.bethmardutho.org/api/word/12934.json"
+            },
+            {
+                "id": 12932,
+                "uri": "https://sedra.bethmardutho.org/api/word/12932.json"
+            },
+            {
+                "id": 12931,
+                "uri": "https://sedra.bethmardutho.org/api/word/12931.json"
+            },
+            {
+                "id": 12930,
+                "uri": "https://sedra.bethmardutho.org/api/word/12930.json"
+            },
+            {
+                "id": 12946,
+                "uri": "https://sedra.bethmardutho.org/api/word/12946.json"
+            },
+            {
+                "id": 12945,
+                "uri": "https://sedra.bethmardutho.org/api/word/12945.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

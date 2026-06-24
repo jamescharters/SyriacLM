@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1221,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1221.json"
+        },
+        "syriac": "\u071b\u071a\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u062d\u0646",
+                "\u0647\u0636\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "moudre",
+                "dig\u00e9rer",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to grind, pound",
+                "grind",
+                "Ip",
+                "IIa to grind up, pound hard."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 720,
+            "uri": "https://sedra.bethmardutho.org/api/root/720.json"
+        },
+        "words": [
+            {
+                "id": 25113,
+                "uri": "https://sedra.bethmardutho.org/api/word/25113.json"
+            },
+            {
+                "id": 25112,
+                "uri": "https://sedra.bethmardutho.org/api/word/25112.json"
+            },
+            {
+                "id": 8047,
+                "uri": "https://sedra.bethmardutho.org/api/word/8047.json"
+            },
+            {
+                "id": 8046,
+                "uri": "https://sedra.bethmardutho.org/api/word/8046.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

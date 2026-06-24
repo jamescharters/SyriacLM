@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0729\u0720\u0723",
+        "western": "\u0729\u0730\u0720\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2828,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2828.json"
+        },
+        "stem": "\u0729\u0720\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0635\u062f\u0642 \u0639\u0644\u0649",
+                "\u0645\u062f\u062d, \u0639\u0638\u0645 (\u0645\u0636)"
+            ],
+            "eng": [
+                "a Pharisee, belonging to an approved heresy",
+                "IIp.",
+                "laud",
+                "IIa to applaud, praise"
+            ],
+            "fre": [
+                "\u00a0",
+                "approuver",
+                "louer, c\u00e9l\u00e9brer"
+            ]
+        },
+        "word": {
+            "id": 18398,
+            "uri": "https://sedra.bethmardutho.org/api/word/18398.json"
+        }
+    }
+]

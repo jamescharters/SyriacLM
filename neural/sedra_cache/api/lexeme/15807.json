@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15807,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15807.json"
+        },
+        "syriac": "\u0712\u0715\u0729",
+        "glosses": {
+            "English": [
+                "IIa.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0712\u0715\u073d\u0718\u0729</span>, Ia to repair"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3087,
+            "uri": "https://sedra.bethmardutho.org/api/root/3087.json"
+        },
+        "words": [
+            {
+                "id": 41874,
+                "uri": "https://sedra.bethmardutho.org/api/word/41874.json"
+            },
+            {
+                "id": 41355,
+                "uri": "https://sedra.bethmardutho.org/api/word/41355.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

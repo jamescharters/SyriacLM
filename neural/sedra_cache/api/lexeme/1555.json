@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 1555,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1555.json"
+        },
+        "syriac": "\u071f\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0623\u0633"
+            ],
+            "French": [
+                "coupe"
+            ],
+            "English": [
+                "cup",
+                "chalice.",
+                "cupful",
+                "cup"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 916,
+            "uri": "https://sedra.bethmardutho.org/api/root/916.json"
+        },
+        "words": [
+            {
+                "id": 10222,
+                "uri": "https://sedra.bethmardutho.org/api/word/10222.json"
+            },
+            {
+                "id": 10221,
+                "uri": "https://sedra.bethmardutho.org/api/word/10221.json"
+            },
+            {
+                "id": 10220,
+                "uri": "https://sedra.bethmardutho.org/api/word/10220.json"
+            },
+            {
+                "id": 10219,
+                "uri": "https://sedra.bethmardutho.org/api/word/10219.json"
+            },
+            {
+                "id": 10226,
+                "uri": "https://sedra.bethmardutho.org/api/word/10226.json"
+            },
+            {
+                "id": 10223,
+                "uri": "https://sedra.bethmardutho.org/api/word/10223.json"
+            },
+            {
+                "id": 10225,
+                "uri": "https://sedra.bethmardutho.org/api/word/10225.json"
+            },
+            {
+                "id": 10224,
+                "uri": "https://sedra.bethmardutho.org/api/word/10224.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

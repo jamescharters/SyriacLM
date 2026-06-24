@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15432,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15432.json"
+        },
+        "syriac": "\u0722\u0728",
+        "glosses": {
+            "English": [
+                "Ia to sprout."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3130,
+            "uri": "https://sedra.bethmardutho.org/api/root/3130.json"
+        },
+        "words": [
+            {
+                "id": 41910,
+                "uri": "https://sedra.bethmardutho.org/api/word/41910.json"
+            },
+            {
+                "id": 40329,
+                "uri": "https://sedra.bethmardutho.org/api/word/40329.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

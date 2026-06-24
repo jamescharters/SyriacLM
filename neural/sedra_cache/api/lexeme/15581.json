@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15581,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15581.json"
+        },
+        "syriac": "\u072b\u0729\u072a",
+        "glosses": {
+            "English": [
+                "Ia, IIa to lie, to deceive",
+                "IIp to tell lies."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2999,
+            "uri": "https://sedra.bethmardutho.org/api/root/2999.json"
+        },
+        "words": [
+            {
+                "id": 41878,
+                "uri": "https://sedra.bethmardutho.org/api/word/41878.json"
+            },
+            {
+                "id": 40139,
+                "uri": "https://sedra.bethmardutho.org/api/word/40139.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

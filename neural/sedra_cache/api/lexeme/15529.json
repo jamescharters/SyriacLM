@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15529,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15529.json"
+        },
+        "syriac": "\u0723\u0722\u0726",
+        "glosses": {
+            "English": [
+                "IIa to gird up",
+                "Ia to introduce, to inject",
+                "to be prompt in action."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2745,
+            "uri": "https://sedra.bethmardutho.org/api/root/2745.json"
+        },
+        "words": [
+            {
+                "id": 41939,
+                "uri": "https://sedra.bethmardutho.org/api/word/41939.json"
+            },
+            {
+                "id": 41019,
+                "uri": "https://sedra.bethmardutho.org/api/word/41019.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u0713\u0720\u0713",
+        "western": "\u0720\u0730\u0713\u0720\u0736\u0713",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14697,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14697.json"
+        },
+        "stem": "\u0720\u0713\u0720\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to stammer, stutter, lisp",
+                "to chatter, prattle."
+            ]
+        },
+        "word": {
+            "id": 41200,
+            "uri": "https://sedra.bethmardutho.org/api/word/41200.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2203,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2203.json"
+        },
+        "syriac": "\u0723\u072a\u0715\u071d\u0723",
+        "glosses": {
+            "English": [
+                "Sardis"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1318,
+            "uri": "https://sedra.bethmardutho.org/api/root/1318.json"
+        },
+        "words": [
+            {
+                "id": 14586,
+                "uri": "https://sedra.bethmardutho.org/api/word/14586.json"
+            },
+            {
+                "id": 14585,
+                "uri": "https://sedra.bethmardutho.org/api/word/14585.json"
+            },
+            {
+                "id": 14584,
+                "uri": "https://sedra.bethmardutho.org/api/word/14584.json"
+            },
+            {
+                "id": 14587,
+                "uri": "https://sedra.bethmardutho.org/api/word/14587.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

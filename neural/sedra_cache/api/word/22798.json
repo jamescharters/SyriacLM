@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072c\u0718\u072c\u072a\u0710",
+        "western": "\u072c\u0741\u0730\u0718\u072c\u0741\u0733\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1449,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1449.json"
+        },
+        "stem": "\u072c\u0718\u072c\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u064a\u0627\u062f\u0629",
+                "\u0641\u0636\u0644\u0627\u062a",
+                "\u063a\u0632\u0627\u0631\u0629"
+            ],
+            "eng": [
+                "remainder",
+                "superfluity, what is left over."
+            ],
+            "fre": [
+                "abondance",
+                "surplus",
+                "restes"
+            ]
+        },
+        "word": {
+            "id": 22798,
+            "uri": "https://sedra.bethmardutho.org/api/word/22798.json"
+        }
+    }
+]

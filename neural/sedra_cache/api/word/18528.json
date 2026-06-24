@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0715\u0721\u072c\u0729\u0726\u071a",
+        "western": "\u0715\u0741\u0721\u0736\u072c\u0742\u0729\u0730\u0726\u0741\u0730\u071a",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2859,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2859.json"
+        },
+        "stem": "\u0729\u0726\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0623\u062e\u0632\u0649, \u062e\u062c\u0644 (\u0645\u0636)",
+                "\u0642\u0641\u062e, \u0642\u0641\u0639, \u0636\u0631\u0628",
+                "\u0622\u0633\u0641"
+            ],
+            "eng": [
+                "Ip",
+                "Ia to slap, buffet",
+                "IIa to beat, trample on, insult, oppress, reprimand",
+                "oppress",
+                "IIp."
+            ],
+            "fre": [
+                "\u00a0",
+                "confondre, faire honte \u00e0",
+                "affliger",
+                "frapper, battre"
+            ]
+        },
+        "word": {
+            "id": 18528,
+            "uri": "https://sedra.bethmardutho.org/api/word/18528.json"
+        }
+    }
+]

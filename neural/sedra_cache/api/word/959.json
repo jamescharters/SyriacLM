@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0710\u0720\u071d\u0725\u0719\u072a",
+        "western": "\u0710\u0736\u0720\u073a\u071d\u0725\u0733\u0719\u0733\u072a",
+        "eastern": "\u0710\u0738\u0720\u071d\u073c\u0725\u0735\u0719\u0735\u072a",
+        "lexeme": {
+            "id": 140,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/140.json"
+        },
+        "stem": "\u0710\u0720\u071d\u0725\u0719\u072a",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Eleazar"
+            ]
+        },
+        "word": {
+            "id": 959,
+            "uri": "https://sedra.bethmardutho.org/api/word/959.json"
+        }
+    }
+]

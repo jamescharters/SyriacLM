@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/231.json"
+        },
+        "syriac": "\u0710\u0723\u0726\u072a\u071d\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0641\u0629"
+            ],
+            "French": [
+                "corbeille"
+            ],
+            "English": [
+                "basket",
+                "plaited basket."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c0\u03c5\u03c1\u03af\u03c2"
+            ]
+        },
+        "root": {
+            "id": 175,
+            "uri": "https://sedra.bethmardutho.org/api/root/175.json"
+        },
+        "words": [
+            {
+                "id": 1649,
+                "uri": "https://sedra.bethmardutho.org/api/word/1649.json"
+            },
+            {
+                "id": 50514,
+                "uri": "https://sedra.bethmardutho.org/api/word/50514.json"
+            },
+            {
+                "id": 1648,
+                "uri": "https://sedra.bethmardutho.org/api/word/1648.json"
+            },
+            {
+                "id": 1647,
+                "uri": "https://sedra.bethmardutho.org/api/word/1647.json"
+            },
+            {
+                "id": 1646,
+                "uri": "https://sedra.bethmardutho.org/api/word/1646.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

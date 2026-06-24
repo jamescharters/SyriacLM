@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u071b\u071d\u0726\u072c\u0710",
+        "western": "\u072b\u0733\u071b\u073a\u071d\u0726\u0742\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3177,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3177.json"
+        },
+        "stem": "\u072b\u071b\u071d\u0726\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u0631\u0648\u0631\u0629 \u0632\u062c\u0627\u062c"
+            ],
+            "eng": [
+                "alabaster vase, container",
+                "alabaster box",
+                "Kth. pitcher."
+            ],
+            "fre": [
+                "vase d&#39;alb\u00e2tre"
+            ]
+        },
+        "word": {
+            "id": 20842,
+            "uri": "https://sedra.bethmardutho.org/api/word/20842.json"
+        }
+    }
+]

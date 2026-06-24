@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1913,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1913.json"
+        },
+        "syriac": "\u0722\u0715\u072a\u0710",
+        "glosses": {
+            "English": [
+                "vow",
+                "vow."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1142,
+            "uri": "https://sedra.bethmardutho.org/api/root/1142.json"
+        },
+        "words": [
+            {
+                "id": 12529,
+                "uri": "https://sedra.bethmardutho.org/api/word/12529.json"
+            },
+            {
+                "id": 12530,
+                "uri": "https://sedra.bethmardutho.org/api/word/12530.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

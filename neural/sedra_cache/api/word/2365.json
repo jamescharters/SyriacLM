@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072b\u0712\u0717\u072a\u0722\u0718\u072c\u0710",
+        "western": "\u072b\u0730\u0712\u0742\u0717\u072a\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 344,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/344.json"
+        },
+        "stem": "\u072b\u0712\u0717\u072a\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062e\u0641\u062e\u0629"
+            ],
+            "eng": [
+                "boastfulness.",
+                "pride"
+            ],
+            "fre": [
+                "jactance"
+            ]
+        },
+        "word": {
+            "id": 2365,
+            "uri": "https://sedra.bethmardutho.org/api/word/2365.json"
+        }
+    }
+]

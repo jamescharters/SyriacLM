@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 2234,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2234.json"
+        },
+        "syriac": "\u0725\u0712\u072a\u0710",
+        "glosses": {
+            "English": [
+                "crossing",
+                "ford, crossing",
+                "edge, limits.",
+                "shore"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1333,
+            "uri": "https://sedra.bethmardutho.org/api/root/1333.json"
+        },
+        "words": [
+            {
+                "id": 14942,
+                "uri": "https://sedra.bethmardutho.org/api/word/14942.json"
+            },
+            {
+                "id": 14941,
+                "uri": "https://sedra.bethmardutho.org/api/word/14941.json"
+            },
+            {
+                "id": 14946,
+                "uri": "https://sedra.bethmardutho.org/api/word/14946.json"
+            },
+            {
+                "id": 14943,
+                "uri": "https://sedra.bethmardutho.org/api/word/14943.json"
+            },
+            {
+                "id": 14945,
+                "uri": "https://sedra.bethmardutho.org/api/word/14945.json"
+            },
+            {
+                "id": 14944,
+                "uri": "https://sedra.bethmardutho.org/api/word/14944.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

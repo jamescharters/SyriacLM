@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0725\u071d\u0715",
+        "western": "\u0725\u0730\u071d\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15259,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15259.json"
+        },
+        "stem": "\u0725\u071d\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0648\u062f",
+                "\u0623\u0646\u0633 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "III <span class=\"selectableFont\">\u0721\u0725\u073a\u071d\u0715</span>, <span class=\"selectableFont\">\u0721\u0725\u0733\u0715</span> accustomed.",
+                "IIa to accustom, to habituate",
+                "IIp"
+            ],
+            "fre": [
+                "habituer",
+                "apprivoiser",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40060,
+            "uri": "https://sedra.bethmardutho.org/api/word/40060.json"
+        }
+    }
+]

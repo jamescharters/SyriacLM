@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0726\u072a\u071d\u0725\u0718\u072c\u0710",
+        "western": "\u0726\u072a\u073a\u071d\u0725\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12430,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12430.json"
+        },
+        "stem": "\u0726\u072a\u071d\u0725\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0634\u0639\u062b \u0627\u0644\u0634\u0639\u0631"
+            ],
+            "eng": [
+                "disheveled  state.",
+                "uncovering (of head)"
+            ],
+            "fre": [
+                "d\u00e9sordre des cheveux"
+            ]
+        },
+        "word": {
+            "id": 36938,
+            "uri": "https://sedra.bethmardutho.org/api/word/36938.json"
+        }
+    }
+]

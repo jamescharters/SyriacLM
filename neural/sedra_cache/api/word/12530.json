@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0722\u0715\u072a\u0710",
+        "western": "\u0722\u0736\u0715\u0742\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1913,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1913.json"
+        },
+        "stem": "\u0722\u0715\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "vow",
+                "vow."
+            ]
+        },
+        "word": {
+            "id": 12530,
+            "uri": "https://sedra.bethmardutho.org/api/word/12530.json"
+        }
+    }
+]

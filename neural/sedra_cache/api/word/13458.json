@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0721\u0723\u0722\u0710",
+        "western": "\u0718\u0730\u0721\u0723\u0733\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2044,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2044.json"
+        },
+        "stem": "\u0721\u0723\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                ""
+            ],
+            "eng": [
+                "sandal",
+                "shoe",
+                "sandal, shoe."
+            ],
+            "fre": [
+                "chaussure\u2026"
+            ]
+        },
+        "word": {
+            "id": 13458,
+            "uri": "https://sedra.bethmardutho.org/api/word/13458.json"
+        }
+    }
+]

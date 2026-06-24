@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0712\u0721\u072a\u0718\u0721\u0710",
+        "western": "\u0712\u0741\u0730\u0721\u072a\u0730\u0718\u0721\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2979,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2979.json"
+        },
+        "stem": "\u0721\u072a\u0718\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0644\u0648"
+            ],
+            "eng": [
+                "height.",
+                "height"
+            ],
+            "fre": [
+                "hauteur"
+            ]
+        },
+        "word": {
+            "id": 19407,
+            "uri": "https://sedra.bethmardutho.org/api/word/19407.json"
+        }
+    }
+]

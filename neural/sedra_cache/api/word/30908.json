@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071b\u071f\u0722\u0710",
+        "western": "\u071b\u0736\u071f\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8981,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8981.json"
+        },
+        "stem": "\u071b\u071f\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u064a\u0644\u0629"
+            ],
+            "eng": [
+                "cunning, guile, artifice.",
+                "craft, device"
+            ],
+            "fre": [
+                "ruse"
+            ]
+        },
+        "word": {
+            "id": 30908,
+            "uri": "https://sedra.bethmardutho.org/api/word/30908.json"
+        }
+    }
+]

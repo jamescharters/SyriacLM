@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 16482,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16482.json"
+        },
+        "syriac": "\u0712\u0712\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Babylonian"
+            ]
+        },
+        "etymologies": {
+            "Akkadian": [
+                "b\u0101b-il\u0101ni"
+            ],
+            "Hebrew": [
+                "\u05d1\u05d1\u05dc"
+            ]
+        },
+        "root": {
+            "id": 243,
+            "uri": "https://sedra.bethmardutho.org/api/root/243.json"
+        },
+        "words": [
+            {
+                "id": 42856,
+                "uri": "https://sedra.bethmardutho.org/api/word/42856.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

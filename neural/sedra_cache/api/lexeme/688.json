@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 688,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/688.json"
+        },
+        "syriac": "\u0715\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "ink",
+                "ink."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 437,
+            "uri": "https://sedra.bethmardutho.org/api/root/437.json"
+        },
+        "words": [
+            {
+                "id": 4349,
+                "uri": "https://sedra.bethmardutho.org/api/word/4349.json"
+            },
+            {
+                "id": 4347,
+                "uri": "https://sedra.bethmardutho.org/api/word/4347.json"
+            },
+            {
+                "id": 4348,
+                "uri": "https://sedra.bethmardutho.org/api/word/4348.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

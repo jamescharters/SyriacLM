@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0722\u0719\u072a\u0718\u0712",
+        "western": "\u0722\u0736\u0719\u072a\u073d\u0718\u0712",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15737,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15737.json"
+        },
+        "stem": "\u0719\u072a\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u062f (\u0628\u0627\u0628\u0627\u064b)",
+                "\u062d\u062b",
+                "\u0636\u063a\u0637, \u062d\u0635\u0631",
+                "\u00a0",
+                "\u0639\u062c\u0644 (\u0645\u0636)"
+            ],
+            "eng": [
+                "Ip to be squeezed together.",
+                "to press forward",
+                "Ia to press, urge, constrain, compress"
+            ],
+            "fre": [
+                "presser, comprimer",
+                "obstruer (une porte)",
+                "h\u00e2ter",
+                "exciter",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 42148,
+            "uri": "https://sedra.bethmardutho.org/api/word/42148.json"
+        }
+    }
+]

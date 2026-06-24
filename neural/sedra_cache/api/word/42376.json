@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0728\u0715",
+        "western": "\u0710\u0730\u0728\u0736\u0715",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2661,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2661.json"
+        },
+        "stem": "\u0728\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to esteem.",
+                "Ia, IIIa <span class=\"selectableFont\">\u0710\u0730\u0728\u0736\u0715</span> to fix the eye, gaze intently",
+                "behold"
+            ]
+        },
+        "word": {
+            "id": 42376,
+            "uri": "https://sedra.bethmardutho.org/api/word/42376.json"
+        }
+    }
+]

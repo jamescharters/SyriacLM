@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0718\u0710\u0720\u0710",
+        "western": "\u0718\u0736\u0710\u0720\u0733\u0710",
+        "lexeme": {
+            "id": 127,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/127.json"
+        },
+        "stem": "\u0710\u0720\u0710",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "but",
+                "if not, unless",
+                "except, but.",
+                "but rather"
+            ]
+        },
+        "word": {
+            "id": 892,
+            "uri": "https://sedra.bethmardutho.org/api/word/892.json"
+        }
+    }
+]

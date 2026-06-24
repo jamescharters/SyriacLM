@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2985,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2985.json"
+        },
+        "syriac": "\u072a\u0721\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0644\u0629",
+                "\u063a\u062f\u064a\u0631"
+            ],
+            "French": [
+                "colline",
+                "\u00e9tang"
+            ],
+            "English": [
+                "hill"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1745,
+            "uri": "https://sedra.bethmardutho.org/api/root/1745.json"
+        },
+        "words": [
+            {
+                "id": 19470,
+                "uri": "https://sedra.bethmardutho.org/api/word/19470.json"
+            },
+            {
+                "id": 19469,
+                "uri": "https://sedra.bethmardutho.org/api/word/19469.json"
+            },
+            {
+                "id": 19472,
+                "uri": "https://sedra.bethmardutho.org/api/word/19472.json"
+            },
+            {
+                "id": 19471,
+                "uri": "https://sedra.bethmardutho.org/api/word/19471.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

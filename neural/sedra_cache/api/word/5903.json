@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0719\u0729\u072a",
+        "western": "\u0719\u0729\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 910,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/910.json"
+        },
+        "stem": "\u0719\u0729\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0623\u0644\u0641 (\u0645\u0636)",
+                "\u062d\u0627\u0643"
+            ],
+            "eng": [
+                "weave",
+                "to compose",
+                "Ip.",
+                "Ia to weave"
+            ],
+            "fre": [
+                "tisser",
+                "\u00a0",
+                "composer"
+            ]
+        },
+        "word": {
+            "id": 5903,
+            "uri": "https://sedra.bethmardutho.org/api/word/5903.json"
+        }
+    }
+]

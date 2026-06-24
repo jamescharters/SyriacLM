@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2295,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2295.json"
+        },
+        "syriac": "\u0725\u0719\u0718\u072a",
+        "glosses": {
+            "English": [
+                "Azor"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1364,
+            "uri": "https://sedra.bethmardutho.org/api/root/1364.json"
+        },
+        "words": [
+            {
+                "id": 15235,
+                "uri": "https://sedra.bethmardutho.org/api/word/15235.json"
+            },
+            {
+                "id": 15234,
+                "uri": "https://sedra.bethmardutho.org/api/word/15234.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

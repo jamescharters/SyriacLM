@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0712\u0720\u0718\u071b\u0710",
+        "western": "\u0712\u0730\u0720\u073d\u0718\u071b\u0733\u0710",
+        "eastern": "\u0712\u0732\u0720\u0718\u073c\u071b\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12685,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12685.json"
+        },
+        "stem": "\u0712\u0720\u0718\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0646\u062f\u064a\u0627\u0646\u0629",
+                "\u0625\u0646\u0627\u0621",
+                "\u0628\u0644\u0648\u0637"
+            ],
+            "eng": [
+                "oak, ilex."
+            ],
+            "fre": [
+                "vase",
+                "gland",
+                "ch\u00eane"
+            ]
+        },
+        "word": {
+            "id": 30374,
+            "uri": "https://sedra.bethmardutho.org/api/word/30374.json"
+        }
+    }
+]

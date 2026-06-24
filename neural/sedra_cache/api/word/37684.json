@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0712\u0728\u0720\u0710",
+        "western": "\u0712\u0736\u0728\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9711,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9711.json"
+        },
+        "stem": "\u0712\u0728\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0635\u0644"
+            ],
+            "eng": [
+                "(Kth. -<span class=\"selectableFont\">\u0712\u0730\u200d</span>) onion."
+            ],
+            "fre": [
+                "oignon"
+            ]
+        },
+        "word": {
+            "id": 37684,
+            "uri": "https://sedra.bethmardutho.org/api/word/37684.json"
+        }
+    }
+]

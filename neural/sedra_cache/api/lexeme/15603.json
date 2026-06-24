@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15603,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15603.json"
+        },
+        "syriac": "\u0720\u072b",
+        "glosses": {
+            "English": [
+                "Ia to knead",
+                "to be softened, moistened.",
+                "Ip to be kneaded",
+                "to weld"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2819,
+            "uri": "https://sedra.bethmardutho.org/api/root/2819.json"
+        },
+        "words": [
+            {
+                "id": 41713,
+                "uri": "https://sedra.bethmardutho.org/api/word/41713.json"
+            },
+            {
+                "id": 40011,
+                "uri": "https://sedra.bethmardutho.org/api/word/40011.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

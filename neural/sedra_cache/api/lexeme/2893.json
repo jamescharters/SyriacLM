@@ -1,0 +1,73 @@
+[
+    {
+        "lexeme": {
+            "id": 2893,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2893.json"
+        },
+        "syriac": "\u0729\u072a\u0729\u0726\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0645\u062c\u0645\u0629",
+                "\u0631\u0623\u0633",
+                "\u0631\u0626\u064a\u0633",
+                "\u0642\u0645\u0629",
+                "\u0630\u0631\u0648\u0629",
+                "\u062a\u0644"
+            ],
+            "French": [
+                "cr\u00e2ne",
+                "t\u00eate",
+                "chef",
+                "sommet",
+                "fa\u00eete",
+                "colline"
+            ],
+            "English": [
+                "head",
+                "skull",
+                "summit.",
+                "skull, head"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1716,
+            "uri": "https://sedra.bethmardutho.org/api/root/1716.json"
+        },
+        "words": [
+            {
+                "id": 18854,
+                "uri": "https://sedra.bethmardutho.org/api/word/18854.json"
+            },
+            {
+                "id": 18857,
+                "uri": "https://sedra.bethmardutho.org/api/word/18857.json"
+            },
+            {
+                "id": 18856,
+                "uri": "https://sedra.bethmardutho.org/api/word/18856.json"
+            },
+            {
+                "id": 18855,
+                "uri": "https://sedra.bethmardutho.org/api/word/18855.json"
+            },
+            {
+                "id": 18861,
+                "uri": "https://sedra.bethmardutho.org/api/word/18861.json"
+            },
+            {
+                "id": 18860,
+                "uri": "https://sedra.bethmardutho.org/api/word/18860.json"
+            },
+            {
+                "id": 18859,
+                "uri": "https://sedra.bethmardutho.org/api/word/18859.json"
+            },
+            {
+                "id": 18858,
+                "uri": "https://sedra.bethmardutho.org/api/word/18858.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

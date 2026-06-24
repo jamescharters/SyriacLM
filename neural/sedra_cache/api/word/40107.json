@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072c\u0729\u0720",
+        "western": "\u072c\u0729\u0720",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15327,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15327.json"
+        },
+        "stem": "\u072c\u0729\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa to cause to stumble.",
+                "2 Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0729\u0736\u0720</span>, IIp to stumble"
+            ]
+        },
+        "word": {
+            "id": 40107,
+            "uri": "https://sedra.bethmardutho.org/api/word/40107.json"
+        }
+    }
+]

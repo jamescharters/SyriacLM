@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2165,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2165.json"
+        },
+        "syriac": "\u0723\u0722\u071d\u0710\u0710",
+        "glosses": {
+            "English": [
+                "hated",
+                "hateful",
+                "detested, hateful."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1292,
+            "uri": "https://sedra.bethmardutho.org/api/root/1292.json"
+        },
+        "words": [
+            {
+                "id": 14398,
+                "uri": "https://sedra.bethmardutho.org/api/word/14398.json"
+            },
+            {
+                "id": 22827,
+                "uri": "https://sedra.bethmardutho.org/api/word/22827.json"
+            },
+            {
+                "id": 14409,
+                "uri": "https://sedra.bethmardutho.org/api/word/14409.json"
+            },
+            {
+                "id": 14408,
+                "uri": "https://sedra.bethmardutho.org/api/word/14408.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

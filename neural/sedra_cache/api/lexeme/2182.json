@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 2182,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2182.json"
+        },
+        "syriac": "\u0723\u0726\u0723\u072a\u0710",
+        "glosses": {
+            "English": [
+                "sword",
+                "blade",
+                "sword"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1303,
+            "uri": "https://sedra.bethmardutho.org/api/root/1303.json"
+        },
+        "words": [
+            {
+                "id": 47956,
+                "uri": "https://sedra.bethmardutho.org/api/word/47956.json"
+            },
+            {
+                "id": 14515,
+                "uri": "https://sedra.bethmardutho.org/api/word/14515.json"
+            },
+            {
+                "id": 14514,
+                "uri": "https://sedra.bethmardutho.org/api/word/14514.json"
+            },
+            {
+                "id": 14517,
+                "uri": "https://sedra.bethmardutho.org/api/word/14517.json"
+            },
+            {
+                "id": 14516,
+                "uri": "https://sedra.bethmardutho.org/api/word/14516.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

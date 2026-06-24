@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15232,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15232.json"
+        },
+        "syriac": "\u072c\u0720\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0645\u0644 \u0644\u0644\u0645\u0631\u0629 \u0627\u0644\u062b\u0627\u0644\u062b\u0629",
+                "\u0639\u0645\u0644 \u062b\u0644\u0627\u062b \u0645\u0631\u0627\u062a, \u062b\u0644\u062b (\u0645\u0636)",
+                "\u0642\u0633\u0645 \u0641\u064a \u062b\u0644\u0627\u062b\u0629",
+                "\u0623\u0635\u0628\u062d \u0645\u062b\u0644\u062b\u0627\u064b",
+                "\u00a0"
+            ],
+            "French": [
+                "faire pour la troisi\u00e8me fois",
+                "faire trois fois, tripler",
+                "diviser en trois",
+                "devenir triple",
+                "\u00a0"
+            ],
+            "English": [
+                "to divide, multiply by three",
+                "IIa to do thrice, a third time",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2854,
+            "uri": "https://sedra.bethmardutho.org/api/root/2854.json"
+        },
+        "words": [
+            {
+                "id": 40800,
+                "uri": "https://sedra.bethmardutho.org/api/word/40800.json"
+            },
+            {
+                "id": 40667,
+                "uri": "https://sedra.bethmardutho.org/api/word/40667.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

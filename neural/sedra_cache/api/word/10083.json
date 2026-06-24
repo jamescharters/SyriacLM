@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u071f\u0721\u0710",
+        "western": "\u0715\u0741\u0730\u071f\u0742\u0721\u0733\u0710",
+        "lexeme": {
+            "id": 1538,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1538.json"
+        },
+        "stem": "\u071f\u0721\u0710",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                ""
+            ],
+            "eng": [
+                "how much?",
+                "<span class=\"selectableFont\">\u071f\u0721\u0733\u0710 \u0719\u0730\u0712\u0722\u073a\u071d\u0308</span><span class=\"selectableFont\">\u0722</span> sometimes, often enough.",
+                "how much, how many",
+                "how many?",
+                "+ -<span class=\"selectableFont\">\u0715</span> as much as, as long as"
+            ],
+            "fre": [
+                ""
+            ]
+        },
+        "word": {
+            "id": 10083,
+            "uri": "https://sedra.bethmardutho.org/api/word/10083.json"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0729\u071d\u0722\u072c\u0710",
+        "western": "\u0729\u073a\u071d\u0722\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2812,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2812.json"
+        },
+        "stem": "\u0729\u071d\u0722\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0633\u0628\u062d\u0629, \u0646\u0634\u064a\u062f"
+            ],
+            "eng": [
+                "musical sound",
+                "song, chant, melody."
+            ],
+            "fre": [
+                "hymne, cantique"
+            ]
+        },
+        "word": {
+            "id": 18334,
+            "uri": "https://sedra.bethmardutho.org/api/word/18334.json"
+        }
+    }
+]

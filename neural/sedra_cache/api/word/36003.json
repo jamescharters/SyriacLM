@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071f\u072a\u071f\u0720\u072c\u0710",
+        "western": "\u071f\u0730\u072a\u071f\u0730\u0720\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5704,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5704.json"
+        },
+        "stem": "\u071f\u072a\u071f\u0720\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0628\u0632\u064a\u0645"
+            ],
+            "eng": [
+                "buckle.",
+                "a ring"
+            ],
+            "fre": [
+                "boucle"
+            ]
+        },
+        "word": {
+            "id": 36003,
+            "uri": "https://sedra.bethmardutho.org/api/word/36003.json"
+        }
+    }
+]

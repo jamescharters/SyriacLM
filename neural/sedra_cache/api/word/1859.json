@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072a\u0712\u071d\u0725\u071d\u0710",
+        "western": "\u072a\u0712\u0742\u073a\u071d\u0725\u0733\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 272,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/272.json"
+        },
+        "stem": "\u072a\u0712\u071d\u0725\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0631\u0627\u0628\u0639",
+                "\u0645\u0646 \u0623\u0631\u0628\u0639\u0629 (\u0623\u064a\u0627\u0645)"
+            ],
+            "eng": [
+                "fourth",
+                "fourth, having four."
+            ],
+            "fre": [
+                "\u00a0",
+                "de quatre (jours)",
+                "quatri\u00e8me"
+            ]
+        },
+        "word": {
+            "id": 1859,
+            "uri": "https://sedra.bethmardutho.org/api/word/1859.json"
+        }
+    }
+]

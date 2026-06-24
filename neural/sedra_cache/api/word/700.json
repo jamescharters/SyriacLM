@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0712\u0710\u071d\u0723\u072a\u071d\u0720",
+        "western": "\u0712\u0741\u073a\u0710\u071d\u0723\u072a\u0733\u071d\u0736\u0720",
+        "lexeme": {
+            "id": 95,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/95.json"
+        },
+        "stem": "\u0710\u071d\u0723\u072a\u0710\u071d\u0720",
+        "category": "proper noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Israel"
+            ]
+        },
+        "word": {
+            "id": 700,
+            "uri": "https://sedra.bethmardutho.org/api/word/700.json"
+        }
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "lexeme": {
+            "id": 1416,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1416.json"
+        },
+        "syriac": "\u0710\u071d\u0729\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0631\u0641, \u0631\u062a\u0628\u0629",
+                "\u0645\u062c\u062f",
+                "\u062a\u062f\u0634\u064a\u0646 (\u0645\u0639\u0628\u062f)",
+                "\u0647\u0628\u0629",
+                "\u0641\u0627\u0626\u062f\u0629",
+                "\u0646\u0641\u0642\u0629",
+                "\u0647\u0627\u0645\u0634 (\u0643\u062a\u0627\u0628)"
+            ],
+            "French": [
+                "honneur, dignit\u00e9",
+                "gloire",
+                "d\u00e9dicace (de sanctuaire)",
+                "don",
+                "int\u00e9r\u00eat",
+                "d\u00e9pense",
+                "marge (de livre)"
+            ],
+            "English": [
+                "honour",
+                "glory",
+                "majesty",
+                "honor, glory",
+                "margin (of book).",
+                "mark of honor, honorarium"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 844,
+            "uri": "https://sedra.bethmardutho.org/api/root/844.json"
+        },
+        "words": [
+            {
+                "id": 9385,
+                "uri": "https://sedra.bethmardutho.org/api/word/9385.json"
+            },
+            {
+                "id": 9384,
+                "uri": "https://sedra.bethmardutho.org/api/word/9384.json"
+            },
+            {
+                "id": 9383,
+                "uri": "https://sedra.bethmardutho.org/api/word/9383.json"
+            },
+            {
+                "id": 9382,
+                "uri": "https://sedra.bethmardutho.org/api/word/9382.json"
+            },
+            {
+                "id": 9381,
+                "uri": "https://sedra.bethmardutho.org/api/word/9381.json"
+            },
+            {
+                "id": 9379,
+                "uri": "https://sedra.bethmardutho.org/api/word/9379.json"
+            },
+            {
+                "id": 9378,
+                "uri": "https://sedra.bethmardutho.org/api/word/9378.json"
+            },
+            {
+                "id": 9386,
+                "uri": "https://sedra.bethmardutho.org/api/word/9386.json"
+            },
+            {
+                "id": 9376,
+                "uri": "https://sedra.bethmardutho.org/api/word/9376.json"
+            },
+            {
+                "id": 9375,
+                "uri": "https://sedra.bethmardutho.org/api/word/9375.json"
+            },
+            {
+                "id": 9380,
+                "uri": "https://sedra.bethmardutho.org/api/word/9380.json"
+            },
+            {
+                "id": 9377,
+                "uri": "https://sedra.bethmardutho.org/api/word/9377.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

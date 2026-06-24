@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u071b\u0726\u072a\u071d\u0717",
+        "western": "\u071b\u0736\u0726\u0742\u072a\u0736\u071d\u0717",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 1269,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1269.json"
+        },
+        "stem": "\u071b\u0726\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u064a\u0639\u0629",
+                "\u0638\u0641\u0631"
+            ],
+            "eng": [
+                "hoof, claw",
+                "onyx.",
+                "finger-, toe-nail",
+                "talon",
+                "nail",
+                "onyx",
+                "claw"
+            ],
+            "fre": [
+                "ongle odorant",
+                "ongle"
+            ]
+        },
+        "word": {
+            "id": 8324,
+            "uri": "https://sedra.bethmardutho.org/api/word/8324.json"
+        }
+    }
+]

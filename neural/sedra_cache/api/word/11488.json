@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u0718\u0717\u071d",
+        "western": "\u0721\u0730\u0718\u0717\u0331\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1748,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1748.json"
+        },
+        "stem": "\u0721\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "water",
+                "water",
+                "juice."
+            ]
+        },
+        "word": {
+            "id": 11488,
+            "uri": "https://sedra.bethmardutho.org/api/word/11488.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14610,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14610.json"
+        },
+        "syriac": "\u0713\u072a\u0715\u072b",
+        "glosses": {
+            "English": [
+                "IVp to be broken, torn.",
+                "IVa to gnaw (bones)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2572,
+            "uri": "https://sedra.bethmardutho.org/api/root/2572.json"
+        },
+        "words": [
+            {
+                "id": 41069,
+                "uri": "https://sedra.bethmardutho.org/api/word/41069.json"
+            },
+            {
+                "id": 39872,
+                "uri": "https://sedra.bethmardutho.org/api/word/39872.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

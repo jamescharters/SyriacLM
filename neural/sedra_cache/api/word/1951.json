@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0725\u0718\u0717\u071d",
+        "western": "\u0710\u0730\u072a\u0725\u073d\u0718\u0717\u0331\u071d",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 301,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/301.json"
+        },
+        "stem": "\u0710\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to happen, befall",
+                "Ia to meet, encounter",
+                "meet",
+                "encounter",
+                "IIIa to intercept."
+            ]
+        },
+        "word": {
+            "id": 1951,
+            "uri": "https://sedra.bethmardutho.org/api/word/1951.json"
+        }
+    }
+]

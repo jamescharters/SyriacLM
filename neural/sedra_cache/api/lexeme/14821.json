@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 14821,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14821.json"
+        },
+        "syriac": "\u0719\u0725\u0719\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u0643 (\u0645\u0636), \u0647\u0632 , \u0632\u0639\u0632\u0639",
+                "\u00a0",
+                "\u00a0"
+            ],
+            "French": [
+                "remuer, secouer, \u00e9branler",
+                "\u00a0",
+                "remuer\u2026"
+            ],
+            "English": [
+                "to jostle.",
+                "IVp to be greatly moved",
+                "IVa to shake, to cause to tremble"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2367,
+            "uri": "https://sedra.bethmardutho.org/api/root/2367.json"
+        },
+        "words": [
+            {
+                "id": 41185,
+                "uri": "https://sedra.bethmardutho.org/api/word/41185.json"
+            },
+            {
+                "id": 40999,
+                "uri": "https://sedra.bethmardutho.org/api/word/40999.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

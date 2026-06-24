@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 7869,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7869.json"
+        },
+        "syriac": "\u071b\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u062d\u0638\u0629",
+                "\u0645\u062f\u0629",
+                "\u062e\u0644\u0644, \u0645\u0633\u0627\u0641\u0629",
+                "\u0643\u0645\u064a\u0629",
+                "\u062d\u062f",
+                "\u0645\u0633\u0627\u062d\u0629"
+            ],
+            "French": [
+                "moment, instant",
+                "dur\u00e9e",
+                "intervalle",
+                "quantit\u00e9",
+                "limite",
+                "\u00e9tendue"
+            ],
+            "English": [
+                "moment, interval, space."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 38180,
+                "uri": "https://sedra.bethmardutho.org/api/word/38180.json"
+            }
+        ]
+    }
+]

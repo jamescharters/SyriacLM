@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 14909,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14909.json"
+        },
+        "syriac": "\u0722\u071f\u072a\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0631\u0628 (\u0645\u0636), \u0641\u0635\u0644, \u0623\u0628\u0639\u062f"
+            ],
+            "French": [
+                "rendre \u00e9tranger, s\u00e9parer, \u00e9loigner"
+            ],
+            "English": [
+                "to disown, to renounce.",
+                "IVp to be removed, deprived, alienated",
+                "IVa to separate, remove, alienate, expel, excommunicate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3057,
+            "uri": "https://sedra.bethmardutho.org/api/root/3057.json"
+        },
+        "words": [
+            {
+                "id": 41104,
+                "uri": "https://sedra.bethmardutho.org/api/word/41104.json"
+            },
+            {
+                "id": 40933,
+                "uri": "https://sedra.bethmardutho.org/api/word/40933.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

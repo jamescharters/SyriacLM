@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u0726\u0718\u072c\u0729\u071d\u0710",
+        "western": "\u0720\u0726\u0742\u073d\u0718\u072c\u0741\u0729\u0733\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2474,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2474.json"
+        },
+        "stem": "\u0726\u0718\u072c\u0729\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0627\u062d\u0628 \u0641\u0646\u062f\u0642"
+            ],
+            "eng": [
+                "innkeeper",
+                "innkeeper.",
+                "host"
+            ],
+            "fre": [
+                "h\u00f4telier"
+            ]
+        },
+        "word": {
+            "id": 16267,
+            "uri": "https://sedra.bethmardutho.org/api/word/16267.json"
+        }
+    }
+]

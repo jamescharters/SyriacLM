@@ -1,0 +1,70 @@
+[
+    {
+        "lexeme": {
+            "id": 887,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/887.json"
+        },
+        "syriac": "\u0719\u0720\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0631\u0641",
+                "\u0641\u0631\u063a (\u0645\u0636)",
+                "\u0635\u0628",
+                "\u00a0"
+            ],
+            "French": [
+                "puiser",
+                "\u00e9puiser",
+                "verser",
+                "\u00a0"
+            ],
+            "English": [
+                "draw out",
+                "Ia to draw (e.g. water)",
+                "to wash away",
+                "Ip.",
+                "to exhaust"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 566,
+            "uri": "https://sedra.bethmardutho.org/api/root/566.json"
+        },
+        "words": [
+            {
+                "id": 24438,
+                "uri": "https://sedra.bethmardutho.org/api/word/24438.json"
+            },
+            {
+                "id": 24437,
+                "uri": "https://sedra.bethmardutho.org/api/word/24437.json"
+            },
+            {
+                "id": 5746,
+                "uri": "https://sedra.bethmardutho.org/api/word/5746.json"
+            },
+            {
+                "id": 24440,
+                "uri": "https://sedra.bethmardutho.org/api/word/24440.json"
+            },
+            {
+                "id": 24439,
+                "uri": "https://sedra.bethmardutho.org/api/word/24439.json"
+            },
+            {
+                "id": 5749,
+                "uri": "https://sedra.bethmardutho.org/api/word/5749.json"
+            },
+            {
+                "id": 5747,
+                "uri": "https://sedra.bethmardutho.org/api/word/5747.json"
+            },
+            {
+                "id": 5748,
+                "uri": "https://sedra.bethmardutho.org/api/word/5748.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "syriac": "\u0715\u072a\u072b\u071d\u0721",
+        "western": "\u0715\u0741\u0730\u072a\u072b\u073a\u071d\u0721",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3079,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3079.json"
+        },
+        "stem": "\u072a\u072b\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0633\u0645",
+                "\u0648\u0635\u0649",
+                "\u0635\u0648\u0631",
+                "\u0631\u0633\u0645, \u0639\u0644\u0645 (\u0645\u0636)",
+                "\u00a0",
+                "\u062e\u0637",
+                "\u062d\u0641\u0631"
+            ],
+            "eng": [
+                "to appoint, assign",
+                "foreordain",
+                "engrave",
+                "mark",
+                "IIp",
+                "IIIa to trace out, to prefigure.",
+                "Ia to mark, to delineate, to inscribe, to draw",
+                "Ip",
+                "IIa to trace",
+                "to sign with the cross"
+            ],
+            "fre": [
+                "\u00a0",
+                "tracer, marquer",
+                "graver",
+                "dessiner",
+                "\u00e9crire",
+                "intituler",
+                "prescrire"
+            ]
+        },
+        "word": {
+            "id": 20016,
+            "uri": "https://sedra.bethmardutho.org/api/word/20016.json"
+        }
+    }
+]

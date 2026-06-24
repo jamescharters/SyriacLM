@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u071f\u0718\u071f\u0710",
+        "western": "\u0721\u0730\u071f\u073d\u0718\u071f\u0733\u0710",
+        "eastern": "\u0721\u0732\u071f\u0718\u073c\u071f\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8719,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8719.json"
+        },
+        "stem": "\u0721\u071f\u0718\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0643\u0648\u0643"
+            ],
+            "eng": [
+                "measure (of corn).",
+                "<em>qab\u0331\u0101</em>",
+                "a measure = 1/8"
+            ],
+            "fre": [
+                "makk\u00fck"
+            ],
+            "grc": [
+                "\u03ba\u1f71\u03b2\u03bf\u03c2 (EN chr 102, 17)"
+            ]
+        },
+        "word": {
+            "id": 31222,
+            "uri": "https://sedra.bethmardutho.org/api/word/31222.json"
+        }
+    }
+]

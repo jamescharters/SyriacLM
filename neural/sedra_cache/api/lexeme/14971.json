@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 14971,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14971.json"
+        },
+        "syriac": "\u071f\u0715\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0630\u0628"
+            ],
+            "French": [
+                "mentir"
+            ],
+            "English": [
+                "IIa to speak falsely, lie, deceive",
+                "to be proved false",
+                "IIIa.",
+                "lie",
+                "IIp to be deceived"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2963,
+            "uri": "https://sedra.bethmardutho.org/api/root/2963.json"
+        },
+        "words": [
+            {
+                "id": 9737,
+                "uri": "https://sedra.bethmardutho.org/api/word/9737.json"
+            },
+            {
+                "id": 9736,
+                "uri": "https://sedra.bethmardutho.org/api/word/9736.json"
+            },
+            {
+                "id": 25686,
+                "uri": "https://sedra.bethmardutho.org/api/word/25686.json"
+            },
+            {
+                "id": 25687,
+                "uri": "https://sedra.bethmardutho.org/api/word/25687.json"
+            },
+            {
+                "id": 39893,
+                "uri": "https://sedra.bethmardutho.org/api/word/39893.json"
+            },
+            {
+                "id": 39814,
+                "uri": "https://sedra.bethmardutho.org/api/word/39814.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

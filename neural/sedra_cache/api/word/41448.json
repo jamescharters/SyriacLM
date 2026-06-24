@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0729\u0712",
+        "western": "\u0729\u0730\u0712",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15454,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15454.json"
+        },
+        "stem": "\u0729\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to be horrified",
+                "IIp to shiver.",
+                "Ia to shiver, bristle",
+                "to overarch, form a dome"
+            ]
+        },
+        "word": {
+            "id": 41448,
+            "uri": "https://sedra.bethmardutho.org/api/word/41448.json"
+        }
+    }
+]

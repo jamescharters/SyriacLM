@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0728\u0718\u0712",
+        "western": "\u0722\u0728\u073d\u0718\u0712",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15834,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15834.json"
+        },
+        "stem": "\u0728\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp to be present.",
+                "Ia to resort, frequent",
+                "IIa to bring together, assemble",
+                "to bring, supply"
+            ]
+        },
+        "word": {
+            "id": 41703,
+            "uri": "https://sedra.bethmardutho.org/api/word/41703.json"
+        }
+    }
+]

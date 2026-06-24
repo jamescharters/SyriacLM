@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0712\u0721\u0725\u0712\u0715\u0722\u0718\u072c\u0710",
+        "western": "\u0712\u0741\u0721\u0730\u0725\u0712\u0741\u0715\u0742\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2220,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2220.json"
+        },
+        "stem": "\u0721\u0725\u0712\u0715\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0645\u0631",
+                "\u0635\u0646\u064a\u0639",
+                "\u0645\u0639\u0644\u0648\u0644",
+                "\u0639\u0645\u0644, \u0641\u0639\u0644"
+            ],
+            "eng": [
+                "action",
+                "operation",
+                "working",
+                "working, operation, energy, activity, effect, action, instigation, influence.",
+                "efficacy"
+            ],
+            "fre": [
+                "affaire",
+                "\u0153uvre",
+                "action, op\u00e9ration",
+                "effet"
+            ]
+        },
+        "word": {
+            "id": 14651,
+            "uri": "https://sedra.bethmardutho.org/api/word/14651.json"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072b\u0712\u0712\u072c\u0710",
+        "western": "\u072b\u0712\u0742\u0733\u0712\u0742\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3101,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3101.json"
+        },
+        "stem": "\u072b\u0712\u0712\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "neighbor",
+                "neighbor",
+                "neighboring."
+            ]
+        },
+        "word": {
+            "id": 20202,
+            "uri": "https://sedra.bethmardutho.org/api/word/20202.json"
+        }
+    }
+]

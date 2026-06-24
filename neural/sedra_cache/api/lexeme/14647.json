@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14647,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14647.json"
+        },
+        "syriac": "\u0729\u072a\u0729\u071b",
+        "glosses": {
+            "English": [
+                "IVa to smear the face with ashes."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2294,
+            "uri": "https://sedra.bethmardutho.org/api/root/2294.json"
+        },
+        "words": [
+            {
+                "id": 40319,
+                "uri": "https://sedra.bethmardutho.org/api/word/40319.json"
+            },
+            {
+                "id": 40222,
+                "uri": "https://sedra.bethmardutho.org/api/word/40222.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

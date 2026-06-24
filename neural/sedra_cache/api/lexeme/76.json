@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 76,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/76.json"
+        },
+        "syriac": "\u0710\u071d\u0718\u0712",
+        "glosses": {
+            "English": [
+                "Job"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 60,
+            "uri": "https://sedra.bethmardutho.org/api/root/60.json"
+        },
+        "words": [
+            {
+                "id": 606,
+                "uri": "https://sedra.bethmardutho.org/api/word/606.json"
+            },
+            {
+                "id": 607,
+                "uri": "https://sedra.bethmardutho.org/api/word/607.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0713\u0719\u072c\u0710",
+        "western": "\u0713\u0736\u0719\u072c\u0733\u0710",
+        "eastern": "\u0713\u0738\u0719\u072c\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5716,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5716.json"
+        },
+        "stem": "\u0713\u0719\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0632\u0629"
+            ],
+            "eng": [
+                "fleece, wool."
+            ],
+            "fre": [
+                "toison"
+            ]
+        },
+        "word": {
+            "id": 39013,
+            "uri": "https://sedra.bethmardutho.org/api/word/39013.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0726\u0720\u071b",
+        "western": "\u0722\u0736\u0726\u0720\u0730\u071b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15884,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15884.json"
+        },
+        "stem": "\u0726\u0720\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to set free, to let loose.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0726\u0720\u0730\u071b</span> & <span class=\"selectableFont\">\u0722\u0736\u0726\u0720\u073d\u0718\u071b</span>, Ia to escape",
+                "IIp to make an escape",
+                "IIa to save, rescue"
+            ]
+        },
+        "word": {
+            "id": 42023,
+            "uri": "https://sedra.bethmardutho.org/api/word/42023.json"
+        }
+    }
+]

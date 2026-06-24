@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0723\u0723\u0713\u0718\u0722\u0710",
+        "western": "\u0723\u0733\u0723\u0713\u0730\u0718\u0722\u0733\u0710",
+        "eastern": "\u0723\u0735\u0723\u0713\u0732\u0718\u0722\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6729,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6729.json"
+        },
+        "stem": "\u0723\u0723\u0713\u0718\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0631\u062c\u0648\u0627\u0646\u064a"
+            ],
+            "eng": [
+                "scarlet",
+                "purple.",
+                "purple red",
+                "vermilion"
+            ],
+            "fre": [
+                "pourpr\u00e9"
+            ]
+        },
+        "word": {
+            "id": 32244,
+            "uri": "https://sedra.bethmardutho.org/api/word/32244.json"
+        }
+    }
+]

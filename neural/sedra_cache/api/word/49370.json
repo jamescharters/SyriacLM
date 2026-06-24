@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0718\u071f\u071d",
+        "western": "\u0710\u073a\u071d\u073d\u0718\u071f\u073a\u071d",
+        "lexeme": {
+            "id": 28807,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28807.json"
+        },
+        "stem": "\u0710\u071d\u0718\u071f\u071d",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "prayer or vow,  wish or aspiration"
+            ],
+            "grc": [
+                "\u1f21 \u03b5\u1f50\u03c7\u03ae"
+            ],
+            "lat": [
+                "oratio, precatio"
+            ]
+        },
+        "word": {
+            "id": 49370,
+            "uri": "https://sedra.bethmardutho.org/api/word/49370.json"
+        }
+    }
+]

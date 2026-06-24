@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071a\u072a\u071f\u0718\u072c\u0710",
+        "western": "\u0721\u071a\u0730\u072a\u071f\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8878,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8878.json"
+        },
+        "stem": "\u0721\u071a\u072a\u071f\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0634\u0639"
+            ],
+            "eng": [
+                "shriveled state."
+            ],
+            "fre": [
+                "avidit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 39542,
+            "uri": "https://sedra.bethmardutho.org/api/word/39542.json"
+        }
+    }
+]

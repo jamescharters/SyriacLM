@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 14698,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14698.json"
+        },
+        "syriac": "\u0723\u072a\u0725\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0628\u062a",
+                "\u0623\u0646\u0628\u062a",
+                "\u0635\u0631\u0641"
+            ],
+            "French": [
+                "germer",
+                "faire germer",
+                "conjuguer"
+            ],
+            "English": [
+                "to subdivide",
+                "IVp to put forth branches",
+                "Gram. to be conjugated",
+                "Gram. to conjugate",
+                "IVa to branch out",
+                "to be derived."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3055,
+            "uri": "https://sedra.bethmardutho.org/api/root/3055.json"
+        },
+        "words": [
+            {
+                "id": 41562,
+                "uri": "https://sedra.bethmardutho.org/api/word/41562.json"
+            },
+            {
+                "id": 40181,
+                "uri": "https://sedra.bethmardutho.org/api/word/40181.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

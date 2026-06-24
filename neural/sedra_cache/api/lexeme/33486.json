@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 33486,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33486.json"
+        },
+        "syriac": "\u0719\u071d\u0712",
+        "glosses": {
+            "Latin": [
+                "nom. principis Madianitae",
+                "nom. principis Madianitae"
+            ]
+        },
+        "etymologies": {
+            "Hebrew": [
+                "\u05d6\u05d0\u05d1",
+                "\u05d6\u05d0\u05d1"
+            ]
+        },
+        "words": [
+            {
+                "id": 59840,
+                "uri": "https://sedra.bethmardutho.org/api/word/59840.json"
+            },
+            {
+                "id": 59841,
+                "uri": "https://sedra.bethmardutho.org/api/word/59841.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

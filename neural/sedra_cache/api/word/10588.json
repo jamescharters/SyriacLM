@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0715\u071f\u072c\u0712\u0718",
+        "western": "\u0715\u0741\u0730\u071f\u0742\u072c\u0742\u0730\u0712\u0742\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1600,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1600.json"
+        },
+        "stem": "\u071f\u072c\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u062a\u0628",
+                "\u062e\u0637"
+            ],
+            "eng": [
+                "write",
+                "to be written, put in writing",
+                "to be described",
+                "to ascribe to.",
+                "IIIa to write (a book)",
+                "to commit to writing, to record",
+                "to dictate",
+                "to inscribe",
+                "to have something written",
+                "Ia to write, copy out",
+                "to be enrolled"
+            ],
+            "fre": [
+                "tracer",
+                "\u00e9crire"
+            ]
+        },
+        "word": {
+            "id": 10588,
+            "uri": "https://sedra.bethmardutho.org/api/word/10588.json"
+        }
+    }
+]

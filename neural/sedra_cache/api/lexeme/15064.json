@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15064,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15064.json"
+        },
+        "syriac": "\u0712\u072c\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0636\u062d",
+                "\u00a0"
+            ],
+            "French": [
+                "violer",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to deflower, violate a virgin."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2516,
+            "uri": "https://sedra.bethmardutho.org/api/root/2516.json"
+        },
+        "words": [
+            {
+                "id": 41311,
+                "uri": "https://sedra.bethmardutho.org/api/word/41311.json"
+            },
+            {
+                "id": 41214,
+                "uri": "https://sedra.bethmardutho.org/api/word/41214.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

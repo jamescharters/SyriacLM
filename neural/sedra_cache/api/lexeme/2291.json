@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 2291,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2291.json"
+        },
+        "syriac": "\u0725\u0719",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0642\u0648\u0649, \u062a\u0634\u062f\u062f"
+            ],
+            "French": [
+                "devenir fort, s&#39;intensifier"
+            ],
+            "English": [
+                "vehemently troubled",
+                "groan",
+                "to be strongly affected.",
+                "IIp to be strong, mighty",
+                "Ia to be, grow powerful, vehement",
+                "IIa to resist with fortitude"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1362,
+            "uri": "https://sedra.bethmardutho.org/api/root/1362.json"
+        },
+        "words": [
+            {
+                "id": 15224,
+                "uri": "https://sedra.bethmardutho.org/api/word/15224.json"
+            },
+            {
+                "id": 27306,
+                "uri": "https://sedra.bethmardutho.org/api/word/27306.json"
+            },
+            {
+                "id": 27305,
+                "uri": "https://sedra.bethmardutho.org/api/word/27305.json"
+            },
+            {
+                "id": 15226,
+                "uri": "https://sedra.bethmardutho.org/api/word/15226.json"
+            },
+            {
+                "id": 15225,
+                "uri": "https://sedra.bethmardutho.org/api/word/15225.json"
+            },
+            {
+                "id": 15223,
+                "uri": "https://sedra.bethmardutho.org/api/word/15223.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

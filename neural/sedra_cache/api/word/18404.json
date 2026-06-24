@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0729\u0721\u071a\u0710",
+        "western": "\u0715\u0741\u0729\u0730\u0721\u071a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2831,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2831.json"
+        },
+        "stem": "\u0729\u0721\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0645\u064a\u062f"
+            ],
+            "eng": [
+                "flour, meal.",
+                "meal",
+                "flour"
+            ],
+            "fre": [
+                "farine"
+            ]
+        },
+        "word": {
+            "id": 18404,
+            "uri": "https://sedra.bethmardutho.org/api/word/18404.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0718\u0729\u0725\u0715\u0718",
+        "western": "\u0718\u0730\u0729\u0725\u0736\u0715\u0742\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2857,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2857.json"
+        },
+        "stem": "\u0729\u0725\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to bend (knees).",
+                "IIp to kneel down",
+                "Ia to bend (knees etc.)",
+                "kneel"
+            ]
+        },
+        "word": {
+            "id": 18521,
+            "uri": "https://sedra.bethmardutho.org/api/word/18521.json"
+        }
+    }
+]

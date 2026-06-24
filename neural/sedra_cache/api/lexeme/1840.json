@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1840,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1840.json"
+        },
+        "syriac": "\u0721\u072a\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u0627\u0631\u0629"
+            ],
+            "French": [
+                "amertume"
+            ],
+            "English": [
+                "bitterness",
+                "bitterness, gall."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1099,
+            "uri": "https://sedra.bethmardutho.org/api/root/1099.json"
+        },
+        "words": [
+            {
+                "id": 12158,
+                "uri": "https://sedra.bethmardutho.org/api/word/12158.json"
+            },
+            {
+                "id": 12160,
+                "uri": "https://sedra.bethmardutho.org/api/word/12160.json"
+            },
+            {
+                "id": 12159,
+                "uri": "https://sedra.bethmardutho.org/api/word/12159.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

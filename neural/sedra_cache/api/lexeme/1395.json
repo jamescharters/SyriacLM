@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 1395,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1395.json"
+        },
+        "syriac": "\u071d\u0725\u0710",
+        "glosses": {
+            "English": [
+                "to make to grow.",
+                "spring up",
+                "sprout",
+                "germinate",
+                "produce",
+                "to sprout, put forth.",
+                "Ia to sprout, bud, spring up",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0725\u073a\u071d</span> to make to grow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 831,
+            "uri": "https://sedra.bethmardutho.org/api/root/831.json"
+        },
+        "words": [
+            {
+                "id": 9279,
+                "uri": "https://sedra.bethmardutho.org/api/word/9279.json"
+            },
+            {
+                "id": 9283,
+                "uri": "https://sedra.bethmardutho.org/api/word/9283.json"
+            },
+            {
+                "id": 9281,
+                "uri": "https://sedra.bethmardutho.org/api/word/9281.json"
+            },
+            {
+                "id": 9280,
+                "uri": "https://sedra.bethmardutho.org/api/word/9280.json"
+            },
+            {
+                "id": 9284,
+                "uri": "https://sedra.bethmardutho.org/api/word/9284.json"
+            },
+            {
+                "id": 9282,
+                "uri": "https://sedra.bethmardutho.org/api/word/9282.json"
+            },
+            {
+                "id": 42370,
+                "uri": "https://sedra.bethmardutho.org/api/word/42370.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

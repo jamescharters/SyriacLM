@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0713\u072a\u0718\u0723",
+        "western": "\u0722\u0736\u0713\u072a\u073d\u0718\u0723",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15890,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15890.json"
+        },
+        "stem": "\u0713\u072a\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0644\u0643"
+            ],
+            "eng": [
+                "IIp",
+                "IIa to break in pieces, do away with, devour",
+                "Ip to be vanquished",
+                "Ia to perish, to be broken in pieces",
+                "IIIa to destroy, annihilate."
+            ],
+            "fre": [
+                "p\u00e9rir"
+            ]
+        },
+        "word": {
+            "id": 41929,
+            "uri": "https://sedra.bethmardutho.org/api/word/41929.json"
+        }
+    }
+]

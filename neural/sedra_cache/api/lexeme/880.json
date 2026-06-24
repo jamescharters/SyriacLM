@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 880,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/880.json"
+        },
+        "syriac": "\u0719\u071f\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0631\u064a\u0621",
+                "\u0638\u0627\u0641\u0631"
+            ],
+            "French": [
+                "innocent",
+                "vainqueur"
+            ],
+            "English": [
+                "victorious",
+                "innocent",
+                "pure",
+                "innocent.",
+                "victorious"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 560,
+            "uri": "https://sedra.bethmardutho.org/api/root/560.json"
+        },
+        "words": [
+            {
+                "id": 24126,
+                "uri": "https://sedra.bethmardutho.org/api/word/24126.json"
+            },
+            {
+                "id": 5731,
+                "uri": "https://sedra.bethmardutho.org/api/word/5731.json"
+            },
+            {
+                "id": 5730,
+                "uri": "https://sedra.bethmardutho.org/api/word/5730.json"
+            },
+            {
+                "id": 5732,
+                "uri": "https://sedra.bethmardutho.org/api/word/5732.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

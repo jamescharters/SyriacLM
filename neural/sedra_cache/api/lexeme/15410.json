@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15410,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15410.json"
+        },
+        "syriac": "\u0712\u071a\u0722",
+        "glosses": {
+            "English": [
+                "IIp.",
+                "Ia to test (metals), to try",
+                "IIa to examine"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3227,
+            "uri": "https://sedra.bethmardutho.org/api/root/3227.json"
+        },
+        "words": [
+            {
+                "id": 41965,
+                "uri": "https://sedra.bethmardutho.org/api/word/41965.json"
+            },
+            {
+                "id": 41292,
+                "uri": "https://sedra.bethmardutho.org/api/word/41292.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

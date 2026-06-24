@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0726\u072a\u0713",
+        "western": "\u0710\u0730\u0726\u072a\u0736\u0713",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15134,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15134.json"
+        },
+        "stem": "\u0726\u072a\u0713",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to make bright.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u072a\u0736\u0713</span> to shine, to glitter"
+            ]
+        },
+        "word": {
+            "id": 40448,
+            "uri": "https://sedra.bethmardutho.org/api/word/40448.json"
+        }
+    }
+]

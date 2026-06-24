@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071f\u072a\u071f\u0715",
+        "western": "\u071f\u0730\u072a\u071f\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14835,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14835.json"
+        },
+        "stem": "\u071f\u072a\u071f\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0633\u0645"
+            ],
+            "eng": [
+                "IVa to brand."
+            ],
+            "fre": [
+                "marquer au fer"
+            ]
+        },
+        "word": {
+            "id": 41310,
+            "uri": "https://sedra.bethmardutho.org/api/word/41310.json"
+        }
+    }
+]

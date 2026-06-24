@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 13897,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13897.json"
+        },
+        "syriac": "\u0729\u0718\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0631\u062f",
+                "\u0639\u062a\u0644\u0629",
+                "\u0645\u062d\u0645\u0644",
+                "\u0641\u0635"
+            ],
+            "French": [
+                "singe",
+                "barre \u00e0 porter",
+                "civi\u00e8re",
+                "chaton de bague"
+            ],
+            "English": [
+                "an ape",
+                "bezel (of ring)",
+                "ape, monkey.",
+                "pole (for carrying)"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 44786,
+                "uri": "https://sedra.bethmardutho.org/api/word/44786.json"
+            },
+            {
+                "id": 36548,
+                "uri": "https://sedra.bethmardutho.org/api/word/36548.json"
+            }
+        ]
+    }
+]

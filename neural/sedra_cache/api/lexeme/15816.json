@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15816,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15816.json"
+        },
+        "syriac": "\u0720\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0644\u0642",
+                "\u00a0"
+            ],
+            "French": [
+                "affiler",
+                "\u00a0"
+            ],
+            "English": [
+                "Ip, IIp.",
+                "to sharpen",
+                "Ia to scrape off"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2282,
+            "uri": "https://sedra.bethmardutho.org/api/root/2282.json"
+        },
+        "words": [
+            {
+                "id": 41714,
+                "uri": "https://sedra.bethmardutho.org/api/word/41714.json"
+            },
+            {
+                "id": 41535,
+                "uri": "https://sedra.bethmardutho.org/api/word/41535.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

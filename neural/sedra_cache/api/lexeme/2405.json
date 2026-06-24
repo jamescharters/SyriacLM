@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 2405,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2405.json"
+        },
+        "syriac": "\u0725\u072a\u0712",
+        "glosses": {
+            "English": [
+                "sift",
+                "IIa to mingle, mix.",
+                "surity for",
+                "pledge",
+                "Ip to stand surety",
+                "to sponsor (at baptism)",
+                "to mingle",
+                "to be sifted, mingled",
+                "to sift",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0725\u072a\u073d\u0718\u0712</span>, Ia to be a surety, to pledge oneself"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1424,
+            "uri": "https://sedra.bethmardutho.org/api/root/1424.json"
+        },
+        "words": [
+            {
+                "id": 15947,
+                "uri": "https://sedra.bethmardutho.org/api/word/15947.json"
+            },
+            {
+                "id": 15950,
+                "uri": "https://sedra.bethmardutho.org/api/word/15950.json"
+            },
+            {
+                "id": 15951,
+                "uri": "https://sedra.bethmardutho.org/api/word/15951.json"
+            },
+            {
+                "id": 15952,
+                "uri": "https://sedra.bethmardutho.org/api/word/15952.json"
+            },
+            {
+                "id": 26184,
+                "uri": "https://sedra.bethmardutho.org/api/word/26184.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

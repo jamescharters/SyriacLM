@@ -1,0 +1,56 @@
+[
+    {
+        "syriac": "\u0713\u0722\u0712",
+        "western": "\u0713\u0741\u0733\u0722\u0736\u0712\u0742",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 598,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/598.json"
+        },
+        "stem": "\u0713\u0722\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0633\u0631\u0642",
+                "\u0627\u062e\u062a\u0644\u0633",
+                "\u062e\u0628\u0623",
+                "\u0639\u0645\u0644 \u062e\u0641\u064a\u0629",
+                "\u062e\u062f\u0639",
+                "\u0623\u063a\u0648\u0649",
+                "\u062d\u0630\u0641 (\u062d\u0631\u0641\u0627\u064b)"
+            ],
+            "eng": [
+                "Ia to steal",
+                "steal",
+                "Ip to be stolen, kidnapped, seduced",
+                "IIp Gram. to be omitted in pronunciation.",
+                "to conceal",
+                "to do something furtively, to go stealthily",
+                "IIa to steal, to do secretly"
+            ],
+            "fre": [
+                "s\u00e9duire",
+                "tromper",
+                "\u00e9lider",
+                "faire en cachette",
+                "voler",
+                "cacher",
+                "\u00a0",
+                "soustraire"
+            ]
+        },
+        "word": {
+            "id": 23841,
+            "uri": "https://sedra.bethmardutho.org/api/word/23841.json"
+        }
+    }
+]

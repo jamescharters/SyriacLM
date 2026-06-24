@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0729\u0712\u0725",
+        "western": "\u0729\u0712\u0742\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2732,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2732.json"
+        },
+        "stem": "\u0729\u0712\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0642\u0627\u0645",
+                "\u062f\u062e\u0644",
+                "\u062b\u0628\u062a (\u0645\u0636)"
+            ],
+            "eng": [
+                "fasten",
+                "Ip",
+                "IIa to drive in",
+                "IIp.",
+                "Ia to fix, fasten",
+                "fix"
+            ],
+            "fre": [
+                "fixer",
+                "p\u00e9n\u00e9trer",
+                "\u00e9tablir"
+            ]
+        },
+        "word": {
+            "id": 17768,
+            "uri": "https://sedra.bethmardutho.org/api/word/17768.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28785,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28785.json"
+        },
+        "syriac": "\u0710\u071d\u0717\u0721\u0718\u0722\u071d",
+        "glosses": {
+            "Greek": [
+                "\u1f00\u03bd\u03b5\u03bc\u03ce\u03bd\u03b7"
+            ],
+            "Latin": [
+                "Anemone coronaria"
+            ],
+            "English": [
+                "poppy anemone"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03bd\u03b5\u03bc\u03ce\u03bd\u03b7"
+            ]
+        },
+        "words": [
+            {
+                "id": 49295,
+                "uri": "https://sedra.bethmardutho.org/api/word/49295.json"
+            },
+            {
+                "id": 55159,
+                "uri": "https://sedra.bethmardutho.org/api/word/55159.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

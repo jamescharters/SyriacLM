@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072c\u072c\u0718\u0712\u0720\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072c\u072c\u0730\u0718\u0712\u0720\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9024,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9024.json"
+        },
+        "stem": "\u0721\u072c\u072c\u0718\u0712\u0720\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0628\u064a"
+            ],
+            "eng": [
+                "being taken away, brought.",
+                "captivity"
+            ],
+            "fre": [
+                "d\u00e9portation"
+            ]
+        },
+        "word": {
+            "id": 30031,
+            "uri": "https://sedra.bethmardutho.org/api/word/30031.json"
+        }
+    }
+]

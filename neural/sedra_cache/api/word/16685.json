@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0718\u0726\u0728\u0710",
+        "western": "\u0718\u0726\u0742\u0730\u0728\u0733\u0710",
+        "tense": "imperative",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2560,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2560.json"
+        },
+        "stem": "\u0726\u0728\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "deliver"
+            ]
+        },
+        "word": {
+            "id": 16685,
+            "uri": "https://sedra.bethmardutho.org/api/word/16685.json"
+        }
+    }
+]

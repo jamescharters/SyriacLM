@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0719\u0712\u0715",
+        "western": "\u0719\u0712\u0730\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15940,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15940.json"
+        },
+        "stem": "\u0719\u0712\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0647\u0631"
+            ],
+            "eng": [
+                "Ia to make a gift."
+            ],
+            "fre": [
+                "doter"
+            ]
+        },
+        "word": {
+            "id": 41114,
+            "uri": "https://sedra.bethmardutho.org/api/word/41114.json"
+        }
+    }
+]

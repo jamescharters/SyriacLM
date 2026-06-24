@@ -1,0 +1,69 @@
+[
+    {
+        "lexeme": {
+            "id": 2796,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2796.json"
+        },
+        "syriac": "\u0729\u071b\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0641, \u062c\u0646\u0649, \u0644\u0645",
+                "\u0631\u0628\u062d, \u0646\u0627\u0644",
+                "\u062a\u0639\u0631\u062a \u0645\u0646 \u0623\u062b\u0645\u0627\u0631\u0647\u0627 (\u0634\u062c\u0631\u0629)",
+                "\u0623\u0635\u0627\u0628\u0647 \u0627\u0644\u0645\u0648\u062a"
+            ],
+            "French": [
+                "cueillir, r\u00e9colter, ramasser",
+                "gagner, obtenir",
+                "\u00eatre d\u00e9pouill\u00e9 de ses fruits (arbre)",
+                "\u00eatre saisi (par la mort)"
+            ],
+            "English": [
+                "to be depressed.",
+                "pluck",
+                "gather",
+                "IIa to pick, gather up",
+                "Ia to pluck, gather",
+                "Ip",
+                "IIp to be gathered in",
+                "to annoy, vex"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1650,
+            "uri": "https://sedra.bethmardutho.org/api/root/1650.json"
+        },
+        "words": [
+            {
+                "id": 18286,
+                "uri": "https://sedra.bethmardutho.org/api/word/18286.json"
+            },
+            {
+                "id": 18285,
+                "uri": "https://sedra.bethmardutho.org/api/word/18285.json"
+            },
+            {
+                "id": 18289,
+                "uri": "https://sedra.bethmardutho.org/api/word/18289.json"
+            },
+            {
+                "id": 18288,
+                "uri": "https://sedra.bethmardutho.org/api/word/18288.json"
+            },
+            {
+                "id": 28214,
+                "uri": "https://sedra.bethmardutho.org/api/word/28214.json"
+            },
+            {
+                "id": 28213,
+                "uri": "https://sedra.bethmardutho.org/api/word/28213.json"
+            },
+            {
+                "id": 18287,
+                "uri": "https://sedra.bethmardutho.org/api/word/18287.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

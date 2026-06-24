@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u0721\u072c\u0717",
+        "western": "\u071a\u0736\u0721\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1081,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1081.json"
+        },
+        "stem": "\u071a\u0721\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fury",
+                "heat.",
+                "anger",
+                "rage, fury",
+                "wrath"
+            ]
+        },
+        "word": {
+            "id": 7248,
+            "uri": "https://sedra.bethmardutho.org/api/word/7248.json"
+        }
+    }
+]

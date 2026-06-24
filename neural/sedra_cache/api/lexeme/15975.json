@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15975,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15975.json"
+        },
+        "syriac": "\u0710\u0719\u0713\u0718\u0721\u0710",
+        "glosses": {
+            "English": [
+                "canal-lock",
+                "bolt, bar, cross-rod",
+                "arcus zygomaticus, which connects the cranial with the facial bones"
+            ],
+            "Greek": [
+                "\u03b6\u03cd\u03b3\u03c9\u03bc\u03b1"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b6\u03cd\u03b3\u03c9\u03bc\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 55035,
+                "uri": "https://sedra.bethmardutho.org/api/word/55035.json"
+            },
+            {
+                "id": 49071,
+                "uri": "https://sedra.bethmardutho.org/api/word/49071.json"
+            },
+            {
+                "id": 42620,
+                "uri": "https://sedra.bethmardutho.org/api/word/42620.json"
+            }
+        ]
+    }
+]

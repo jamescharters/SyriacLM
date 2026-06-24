@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15125,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15125.json"
+        },
+        "syriac": "\u0725\u0720\u0721",
+        "glosses": {
+            "English": [
+                "1 IIa to be youthful, vigorous",
+                "IIp to come to maturity",
+                "to invigorate, to rejuvenate",
+                "to be renewed.",
+                "to grow young"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2542,
+            "uri": "https://sedra.bethmardutho.org/api/root/2542.json"
+        },
+        "words": [
+            {
+                "id": 41395,
+                "uri": "https://sedra.bethmardutho.org/api/word/41395.json"
+            },
+            {
+                "id": 41345,
+                "uri": "https://sedra.bethmardutho.org/api/word/41345.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

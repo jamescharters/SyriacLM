@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15367,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15367.json"
+        },
+        "syriac": "\u0725\u0712\u0710",
+        "glosses": {
+            "English": [
+                "IIp",
+                "IIa to harden, to condense, to thicken",
+                "Ip to swell",
+                "IIIa.",
+                "& <span class=\"selectableFont\">\u0725\u0712\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0725\u0712\u0736\u0710</span>, Ia to thicken, to swell"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2458,
+            "uri": "https://sedra.bethmardutho.org/api/root/2458.json"
+        },
+        "words": [
+            {
+                "id": 41774,
+                "uri": "https://sedra.bethmardutho.org/api/word/41774.json"
+            },
+            {
+                "id": 40326,
+                "uri": "https://sedra.bethmardutho.org/api/word/40326.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

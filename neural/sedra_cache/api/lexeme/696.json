@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 696,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/696.json"
+        },
+        "syriac": "\u0715\u071d\u0722\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0631\u0647\u0645"
+            ],
+            "French": [
+                "denier"
+            ],
+            "English": [
+                "denarius",
+                "denarius, dinar."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b4\u03b7\u03bd\u03ac\u03c1\u03b9\u03bf\u03bd"
+            ]
+        },
+        "root": {
+            "id": 442,
+            "uri": "https://sedra.bethmardutho.org/api/root/442.json"
+        },
+        "words": [
+            {
+                "id": 4499,
+                "uri": "https://sedra.bethmardutho.org/api/word/4499.json"
+            },
+            {
+                "id": 4498,
+                "uri": "https://sedra.bethmardutho.org/api/word/4498.json"
+            },
+            {
+                "id": 4503,
+                "uri": "https://sedra.bethmardutho.org/api/word/4503.json"
+            },
+            {
+                "id": 4502,
+                "uri": "https://sedra.bethmardutho.org/api/word/4502.json"
+            },
+            {
+                "id": 4501,
+                "uri": "https://sedra.bethmardutho.org/api/word/4501.json"
+            },
+            {
+                "id": 4500,
+                "uri": "https://sedra.bethmardutho.org/api/word/4500.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

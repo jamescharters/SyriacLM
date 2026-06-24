@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1433,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1433.json"
+        },
+        "syriac": "\u071d\u072b\u0718\u0725",
+        "glosses": {
+            "English": [
+                "Jesus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 853,
+            "uri": "https://sedra.bethmardutho.org/api/root/853.json"
+        },
+        "words": [
+            {
+                "id": 9501,
+                "uri": "https://sedra.bethmardutho.org/api/word/9501.json"
+            },
+            {
+                "id": 9502,
+                "uri": "https://sedra.bethmardutho.org/api/word/9502.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

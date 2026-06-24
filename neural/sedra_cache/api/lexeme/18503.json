@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 18503,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18503.json"
+        },
+        "syriac": "\u0712\u071b\u0718\u0723",
+        "glosses": {
+            "Latin": [
+                "rubus fruticosus"
+            ],
+            "English": [
+                "the bramble"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 52323,
+                "uri": "https://sedra.bethmardutho.org/api/word/52323.json"
+            },
+            {
+                "id": 44877,
+                "uri": "https://sedra.bethmardutho.org/api/word/44877.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

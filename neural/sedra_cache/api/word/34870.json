@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u071b\u071d\u071b\u0718\u072c\u0710",
+        "western": "\u071a\u0730\u071b\u073a\u071d\u071b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13433,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13433.json"
+        },
+        "stem": "\u071a\u071b\u071d\u071b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062f\u0629"
+            ],
+            "eng": [
+                "excavation, hole, furrow."
+            ],
+            "fre": [
+                "acuit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 34870,
+            "uri": "https://sedra.bethmardutho.org/api/word/34870.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0729\u072a\u072b",
+        "western": "\u0729\u072a\u0730\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2896,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2896.json"
+        },
+        "stem": "\u0729\u072a\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0631\u062f, \u062a\u062c\u0644\u062f",
+                "\u0642\u0631\u0634"
+            ],
+            "eng": [
+                "become chilled"
+            ],
+            "fre": [
+                "devenir froid, geler",
+                "recueillir"
+            ]
+        },
+        "word": {
+            "id": 18867,
+            "uri": "https://sedra.bethmardutho.org/api/word/18867.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u0712\u072a",
+        "western": "\u072b\u0712\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15162,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15162.json"
+        },
+        "stem": "\u072b\u0712\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to feign childishness.",
+                "IIa to be childish",
+                "IIp to behave as a child"
+            ]
+        },
+        "word": {
+            "id": 40730,
+            "uri": "https://sedra.bethmardutho.org/api/word/40730.json"
+        }
+    }
+]

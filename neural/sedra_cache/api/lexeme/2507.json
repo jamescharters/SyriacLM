@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 2507,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2507.json"
+        },
+        "syriac": "\u0726\u071d\u0723\u0710",
+        "glosses": {
+            "English": [
+                "supplication, request",
+                "compliance",
+                "persuasion",
+                "assurance",
+                "persuasiveness",
+                "argument, explanation.",
+                "conviction, assurance"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c0\u03b5\u1fd6\u03c3\u03b1\u03b9"
+            ]
+        },
+        "root": {
+            "id": 1489,
+            "uri": "https://sedra.bethmardutho.org/api/root/1489.json"
+        },
+        "words": [
+            {
+                "id": 16379,
+                "uri": "https://sedra.bethmardutho.org/api/word/16379.json"
+            },
+            {
+                "id": 16378,
+                "uri": "https://sedra.bethmardutho.org/api/word/16378.json"
+            },
+            {
+                "id": 16377,
+                "uri": "https://sedra.bethmardutho.org/api/word/16377.json"
+            },
+            {
+                "id": 16381,
+                "uri": "https://sedra.bethmardutho.org/api/word/16381.json"
+            },
+            {
+                "id": 16380,
+                "uri": "https://sedra.bethmardutho.org/api/word/16380.json"
+            },
+            {
+                "id": 16382,
+                "uri": "https://sedra.bethmardutho.org/api/word/16382.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

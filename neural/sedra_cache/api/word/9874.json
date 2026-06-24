@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u071f\u0718\u072b",
+        "western": "\u071f\u0741\u073d\u0718\u072b",
+        "lexeme": {
+            "id": 1500,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1500.json"
+        },
+        "stem": "\u071f\u0718\u072b",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ethiopia",
+                "Cush"
+            ]
+        },
+        "word": {
+            "id": 9874,
+            "uri": "https://sedra.bethmardutho.org/api/word/9874.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3558,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3558.json"
+        },
+        "syriac": "\u0710\u0721\u0722",
+        "glosses": {
+            "English": [
+                "constant",
+                "firm",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0736\u0710\u0721\u0736\u0722</span> to persevere, continue in."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 122,
+            "uri": "https://sedra.bethmardutho.org/api/root/122.json"
+        },
+        "words": [
+            {
+                "id": 39805,
+                "uri": "https://sedra.bethmardutho.org/api/word/39805.json"
+            },
+            {
+                "id": 1174,
+                "uri": "https://sedra.bethmardutho.org/api/word/1174.json"
+            },
+            {
+                "id": 1117,
+                "uri": "https://sedra.bethmardutho.org/api/word/1117.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

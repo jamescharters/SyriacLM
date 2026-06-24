@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0718\u0717\u0712\u0712\u0717",
+        "western": "\u0718\u0717\u0730\u0712\u0741\u0733\u0712\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 770,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/770.json"
+        },
+        "stem": "\u0717\u0712\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0647\u0631\u0629"
+            ],
+            "eng": [
+                "flower.",
+                "blossom",
+                "bloom",
+                "flower",
+                "saucer of a lamp"
+            ],
+            "fre": [
+                "fleur"
+            ]
+        },
+        "word": {
+            "id": 4915,
+            "uri": "https://sedra.bethmardutho.org/api/word/4915.json"
+        }
+    }
+]

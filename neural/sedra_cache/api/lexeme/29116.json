@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 29116,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29116.json"
+        },
+        "syriac": "\u0710\u071d\u0726\u0723\u0729\u0721\u071d\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f55\u03c8\u03c9\u03bc\u03b1"
+            ],
+            "English": [
+                "elevation, height"
+            ],
+            "Latin": [
+                "altitudo"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f55\u03c8\u03c9\u03bc\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 49545,
+                "uri": "https://sedra.bethmardutho.org/api/word/49545.json"
+            },
+            {
+                "id": 55490,
+                "uri": "https://sedra.bethmardutho.org/api/word/55490.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

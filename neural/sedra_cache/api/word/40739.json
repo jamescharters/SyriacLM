@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0726\u0720\u071b",
+        "western": "\u0726\u0720\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15882,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15882.json"
+        },
+        "stem": "\u0726\u0720\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to spew forth, to bring forth.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0726\u0720\u0730\u071b</span> & <span class=\"selectableFont\">\u0722\u0736\u0726\u0720\u073d\u0718\u071b</span>, Ia to throw up"
+            ]
+        },
+        "word": {
+            "id": 40739,
+            "uri": "https://sedra.bethmardutho.org/api/word/40739.json"
+        }
+    }
+]

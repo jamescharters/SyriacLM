@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 104,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/104.json"
+        },
+        "syriac": "\u0710\u071f\u0710\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Achaia"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f08\u03c7\u03b1\u0390\u03b1"
+            ]
+        },
+        "root": {
+            "id": 84,
+            "uri": "https://sedra.bethmardutho.org/api/root/84.json"
+        },
+        "words": [
+            {
+                "id": 765,
+                "uri": "https://sedra.bethmardutho.org/api/word/765.json"
+            },
+            {
+                "id": 764,
+                "uri": "https://sedra.bethmardutho.org/api/word/764.json"
+            },
+            {
+                "id": 763,
+                "uri": "https://sedra.bethmardutho.org/api/word/763.json"
+            },
+            {
+                "id": 762,
+                "uri": "https://sedra.bethmardutho.org/api/word/762.json"
+            },
+            {
+                "id": 761,
+                "uri": "https://sedra.bethmardutho.org/api/word/761.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

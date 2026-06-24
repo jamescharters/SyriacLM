@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u0712\u072a\u0710",
+        "western": "\u0710\u0736\u0712\u072a\u0733\u0710",
+        "eastern": "\u0710\u0738\u0712\u072a\u0735\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13902,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13902.json"
+        },
+        "stem": "\u0710\u0712\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0646\u0627\u062d",
+                "\u0631\u064a\u0634\u0629",
+                "\u0639\u0636\u0648"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u0710\u0736\u0712\u072a\u0308\u0736\u0710</span> wings.",
+                "feather"
+            ],
+            "fre": [
+                "aile",
+                "membre",
+                "plume"
+            ]
+        },
+        "word": {
+            "id": 31339,
+            "uri": "https://sedra.bethmardutho.org/api/word/31339.json"
+        }
+    }
+]

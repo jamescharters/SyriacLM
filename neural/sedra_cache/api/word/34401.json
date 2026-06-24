@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u071f\u0718\u072a\u0722\u0710",
+        "western": "\u071f\u0730\u0718\u072a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6286,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6286.json"
+        },
+        "stem": "\u071f\u0718\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0627\u0631\u0629",
+                "\u0631\u064a\u062d \u062d\u0627\u0631\u0629",
+                "\u062c\u0641\u0627\u0641"
+            ],
+            "eng": [
+                "drought.",
+                "sultry heat"
+            ],
+            "fre": [
+                "vent chaud",
+                "s\u00e9cheresse",
+                "chaleur"
+            ]
+        },
+        "word": {
+            "id": 34401,
+            "uri": "https://sedra.bethmardutho.org/api/word/34401.json"
+        }
+    }
+]

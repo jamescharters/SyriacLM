@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0726",
+        "western": "\u0710\u0736\u071f\u0742\u0730\u0726\u0742",
+        "eastern": "\u0710\u0738\u071f\u0742\u0732\u0726\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 124,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/124.json"
+        },
+        "stem": "\u0710\u071f\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0627\u0645"
+            ],
+            "eng": [
+                "to urge, to persist",
+                "Ia to have care for",
+                "take care",
+                "careful",
+                "IIa to constrain, compel."
+            ],
+            "fre": [
+                "persister"
+            ]
+        },
+        "word": {
+            "id": 886,
+            "uri": "https://sedra.bethmardutho.org/api/word/886.json"
+        }
+    }
+]

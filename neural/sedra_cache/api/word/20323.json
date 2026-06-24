@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u072b\u0718\u0712\u0729\u0722",
+        "western": "\u072b\u073d\u0718\u0712\u0742\u0729\u0733\u0722",
+        "state": "construct",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3110,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3110.json"
+        },
+        "stem": "\u072b\u0718\u0712\u0729\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0641\u0648, \u0633\u0645\u0627\u062d",
+                "\u062a\u062d\u0631\u064a\u0631",
+                "\u0625\u0628\u0639\u0627\u062f, \u0637\u0644\u0627\u0642",
+                "\u062a\u0631\u0643"
+            ],
+            "eng": [
+                "forgiveness",
+                "Kth. Sorry!",
+                "release",
+                "repudiation",
+                "forgiveness",
+                "remission",
+                "repudiation",
+                "-<span class=\"selectableFont\">\u0728\u0720\u073d\u0718\u072c\u0733\u0710 \u0715</span> Lit. a service at the beginning of Lent",
+                "release"
+            ],
+            "fre": [
+                "renvoi, r\u00e9pudiation",
+                "abandon",
+                "lib\u00e9ration",
+                "remise, pardon"
+            ]
+        },
+        "word": {
+            "id": 20323,
+            "uri": "https://sedra.bethmardutho.org/api/word/20323.json"
+        }
+    }
+]

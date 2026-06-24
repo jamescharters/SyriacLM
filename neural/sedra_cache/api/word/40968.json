@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0712\u072a\u071a",
+        "western": "\u0712\u0730\u072a\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14951,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14951.json"
+        },
+        "stem": "\u0712\u072a\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0641\u0649"
+            ],
+            "eng": [
+                "IIa to make clear, transparent."
+            ],
+            "fre": [
+                "rendre limpide"
+            ]
+        },
+        "word": {
+            "id": 40968,
+            "uri": "https://sedra.bethmardutho.org/api/word/40968.json"
+        }
+    }
+]

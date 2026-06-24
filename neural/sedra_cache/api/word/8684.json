@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0712\u071d\u0715\u0725\u072c\u0717",
+        "western": "\u0712\u0741\u073a\u071d\u0715\u0742\u0730\u0725\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1305,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1305.json"
+        },
+        "stem": "\u071d\u0715\u0725\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0644\u0645, \u0645\u0639\u0631\u0641\u0629"
+            ],
+            "eng": [
+                "knowledge",
+                "indication",
+                "knowledge",
+                "intelligence",
+                "prognosis.",
+                "<span class=\"selectableFont\">\u0721\u0729\u0730\u0715\u0721\u073d\u0718\u072c \u071d\u073a\u0715\u0730\u0725\u072c\u0733\u0710</span> foreknowledge",
+                "understanding, apprehension"
+            ],
+            "fre": [
+                "science, connaissance"
+            ]
+        },
+        "word": {
+            "id": 8684,
+            "uri": "https://sedra.bethmardutho.org/api/word/8684.json"
+        }
+    }
+]

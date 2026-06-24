@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0710\u071b\u0722",
+        "western": "\u0710\u0730\u071b\u0736\u0722",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 1253,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1253.json"
+        },
+        "stem": "\u071b\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u063a\u064a\u0638, \u063a\u0636\u0628"
+            ],
+            "eng": [
+                "be jealous",
+                "be eager",
+                "IIIa to provoke to jealousy",
+                "to provoke to jealousy.",
+                "IIa to inflame with zeal",
+                "to provoke to jealousy",
+                "Ip to be envied",
+                "to be zealous, moved by zeal",
+                "IIp to be provoked to wrath, zeal",
+                "Ia to envy, to be jealous",
+                "to inflame with zeal.",
+                "provoke jealousy"
+            ],
+            "fre": [
+                "s&#39;exciter, se f\u00e2cher"
+            ]
+        },
+        "word": {
+            "id": 8168,
+            "uri": "https://sedra.bethmardutho.org/api/word/8168.json"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0715\u0720\u0718\u0729\u0712\u0720",
+        "western": "\u0715\u0741\u0720\u073d\u0718\u0729\u0712\u0742\u0730\u0720",
+        "lexeme": {
+            "id": 2724,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2724.json"
+        },
+        "stem": "\u0720\u0718\u0729\u0712\u0720",
+        "category": "preposition",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0628\u0644\u0627\u064b, \u0636\u062f, \u0639\u0644\u0649, \u0623\u0645\u0627\u0645, \u0628\u0642\u0631\u0628, \u0646\u062d\u0648",
+                "\u00a0",
+                "\u00a0"
+            ],
+            "eng": [
+                "near",
+                "toward",
+                "opposite to",
+                "opposite, against",
+                "in front of, facing, towards",
+                "according to, in comparison.",
+                "resist",
+                "against"
+            ],
+            "fre": [
+                "en face de\u2026",
+                "\u00a0",
+                "en face, contre, devant, aupr\u00e8s de, vers"
+            ]
+        },
+        "word": {
+            "id": 17650,
+            "uri": "https://sedra.bethmardutho.org/api/word/17650.json"
+        }
+    }
+]

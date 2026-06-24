@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072a\u0713\u0721",
+        "western": "\u072a\u0733\u0713\u0742\u0736\u0721",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2936,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2936.json"
+        },
+        "stem": "\u072a\u0713\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u062c\u0645",
+                "\u00a0"
+            ],
+            "eng": [
+                "stone",
+                "Ia to stone",
+                "Ip, IIp."
+            ],
+            "fre": [
+                "\u00a0",
+                "lapider"
+            ]
+        },
+        "word": {
+            "id": 28443,
+            "uri": "https://sedra.bethmardutho.org/api/word/28443.json"
+        }
+    }
+]

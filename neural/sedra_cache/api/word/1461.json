@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u0710\u0722\u072b",
+        "western": "\u0720\u0710\u0331\u0722\u0733\u072b",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "common",
+        "lexeme": {
+            "id": 5645,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5645.json"
+        },
+        "stem": "\u0710\u0722\u072b\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "relations",
+                "person, human being",
+                "man",
+                "mankind",
+                "<span class=\"selectableFont\">\u071f\u073d\u0720 \u0710\u0331</span><span class=\"selectableFont\">\u0722\u0733\u072b</span> everyone.",
+                "people. <span class=\"selectableFont\">\u0710\u0331\u0722\u0733\u072b</span> someone, a certain",
+                "<span class=\"selectableFont\">\u0712\u0730\u072a \u0710\u0331</span><span class=\"selectableFont\">\u0722\u0733\u072b\u0308\u0733\u0710</span>, pl. <span class=\"selectableFont\">\u0712\u0308\u0722\u0730\u071d \u0710\u0331</span><span class=\"selectableFont\">\u0722\u0733\u072b\u0308\u0733\u0710</span> a person, human being"
+            ]
+        },
+        "word": {
+            "id": 1461,
+            "uri": "https://sedra.bethmardutho.org/api/word/1461.json"
+        }
+    }
+]

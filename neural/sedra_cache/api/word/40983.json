@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071f\u0720\u0715",
+        "western": "\u071f\u0720\u0715",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15141,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15141.json"
+        },
+        "stem": "\u071f\u0720\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to practice divination.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u0720\u0736\u0715</span> to consult the stars"
+            ]
+        },
+        "word": {
+            "id": 40983,
+            "uri": "https://sedra.bethmardutho.org/api/word/40983.json"
+        }
+    }
+]

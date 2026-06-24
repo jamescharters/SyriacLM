@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u0715\u0718\u072a\u0710",
+        "western": "\u0721\u0730\u0715\u073d\u0718\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5827,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5827.json"
+        },
+        "stem": "\u0721\u0715\u0718\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0641\u0647",
+                "\u0645\u062e\u0644\u0648\u0637 (\u0645\u0639\u062f\u0646)"
+            ],
+            "eng": [
+                "rotten, spoiled."
+            ],
+            "fre": [
+                "insipide",
+                "impur ( m\u00e9tal)"
+            ]
+        },
+        "word": {
+            "id": 36890,
+            "uri": "https://sedra.bethmardutho.org/api/word/36890.json"
+        }
+    }
+]

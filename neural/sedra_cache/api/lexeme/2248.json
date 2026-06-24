@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2248,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2248.json"
+        },
+        "syriac": "\u0725\u0715\u0720\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0645",
+                "\u063a\u0644\u0637\u0629"
+            ],
+            "French": [
+                "bl\u00e2me",
+                "faute"
+            ],
+            "English": [
+                "blame",
+                "fault",
+                "blame",
+                "mistake."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1340,
+            "uri": "https://sedra.bethmardutho.org/api/root/1340.json"
+        },
+        "words": [
+            {
+                "id": 14988,
+                "uri": "https://sedra.bethmardutho.org/api/word/14988.json"
+            },
+            {
+                "id": 14987,
+                "uri": "https://sedra.bethmardutho.org/api/word/14987.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

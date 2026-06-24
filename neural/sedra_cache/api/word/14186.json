@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0715\u0723\u071f\u0720\u0722",
+        "western": "\u0715\u0741\u0723\u0730\u071f\u0742\u0720\u0733\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2130,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2130.json"
+        },
+        "stem": "\u0723\u071f\u0720\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "foolish, stupid.",
+                "foolish"
+            ]
+        },
+        "word": {
+            "id": 14186,
+            "uri": "https://sedra.bethmardutho.org/api/word/14186.json"
+        }
+    }
+]

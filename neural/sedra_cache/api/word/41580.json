@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u072a\u0725",
+        "western": "\u071a\u072a\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15459,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15459.json"
+        },
+        "stem": "\u071a\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be yellow",
+                "IIa to make sophisticated",
+                "Ia to be cunning",
+                "IIp to act craftily."
+            ]
+        },
+        "word": {
+            "id": 41580,
+            "uri": "https://sedra.bethmardutho.org/api/word/41580.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0721\u072a",
+        "western": "\u072b\u0730\u072a\u0721\u0730\u072a",
+        "lexeme": {
+            "id": 19182,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19182.json"
+        },
+        "stem": "\u072b\u072a\u0721\u072a",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0648\u0639 \u0645\u0646 \u0627\u0644\u0642\u0637\u0646"
+            ],
+            "eng": [
+                "the silk-cotton tree"
+            ],
+            "fre": [
+                "sorte de coton"
+            ]
+        },
+        "word": {
+            "id": 45556,
+            "uri": "https://sedra.bethmardutho.org/api/word/45556.json"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0722\u0723\u0723",
+        "western": "\u0722\u0723\u0723",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15343,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15343.json"
+        },
+        "stem": "\u0722\u0723\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0722\u0723\u0736\u0723</span> to become weak (from illness)"
+            ]
+        },
+        "word": {
+            "id": 41489,
+            "uri": "https://sedra.bethmardutho.org/api/word/41489.json"
+        }
+    }
+]

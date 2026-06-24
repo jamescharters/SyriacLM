@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28614,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28614.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0722\u071d\u072c\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f44\u03c1\u03bd\u03b9\u03b8\u03b5\u03c2"
+            ],
+            "Latin": [
+                "aves"
+            ],
+            "English": [
+                "aras"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f44\u03c1\u03bd\u03b9\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49017,
+                "uri": "https://sedra.bethmardutho.org/api/word/49017.json"
+            },
+            {
+                "id": 54988,
+                "uri": "https://sedra.bethmardutho.org/api/word/54988.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

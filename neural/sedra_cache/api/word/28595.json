@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0715\u072a\u071b\u0722\u071d\u0722",
+        "western": "\u0715\u0741\u072a\u0733\u071b\u0722\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3013,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3013.json"
+        },
+        "stem": "\u072a\u071b\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0630\u0645\u0631"
+            ],
+            "eng": [
+                "Ia to murmur",
+                "Ip to be murmured against",
+                "IIa to complain",
+                "IIIa.",
+                "murmur"
+            ],
+            "fre": [
+                "murmurer"
+            ]
+        },
+        "word": {
+            "id": 28595,
+            "uri": "https://sedra.bethmardutho.org/api/word/28595.json"
+        }
+    }
+]

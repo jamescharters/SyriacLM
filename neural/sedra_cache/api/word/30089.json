@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u071d\u0715\u0718\u0725\u072c\u0722\u0710",
+        "western": "\u071d\u0730\u0715\u073d\u0718\u0725\u072c\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13732,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13732.json"
+        },
+        "stem": "\u071d\u0715\u0718\u0725\u072c\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0627\u0637\u0646",
+                "\u0630\u0647\u0646\u064a",
+                "\u0630\u0648 \u0639\u0642\u0644"
+            ],
+            "eng": [
+                "Kth. knowledgeable.",
+                "endowed with intelligence, rational",
+                "intelligent, intellectual, wise, discerning"
+            ],
+            "fre": [
+                "sage",
+                "raisonnable",
+                "mental"
+            ]
+        },
+        "word": {
+            "id": 30089,
+            "uri": "https://sedra.bethmardutho.org/api/word/30089.json"
+        }
+    }
+]

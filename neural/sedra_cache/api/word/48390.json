@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0713\u0721\u0710",
+        "western": "\u0710\u0736\u0713\u0308\u0721\u0736\u0710",
+        "eastern": "\u0710\u0738\u0713\u0308\u0721\u0738\u0710",
+        "lexeme": {
+            "id": 11717,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11717.json"
+        },
+        "stem": "\u0710\u0713\u0721\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u062a\u0646\u0642\u0639"
+            ],
+            "eng": [
+                "marsh."
+            ],
+            "fre": [
+                "marais"
+            ]
+        },
+        "word": {
+            "id": 48390,
+            "uri": "https://sedra.bethmardutho.org/api/word/48390.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 8381,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8381.json"
+        },
+        "syriac": "\u0729\u0718\u0722\u0713\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0646\u0627\u0635",
+                "\u062d\u0627\u0631\u0633 \u0641\u064a \u0627\u0644\u0644\u064a\u0644",
+                "\u0642\u0628\u0627\u0631"
+            ],
+            "French": [
+                "chasseur",
+                "veilleur de nuit",
+                "croque- mort"
+            ],
+            "English": [
+                "night watchman.",
+                "hunter"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03c5\u03bd\u03b1\u03b3\u03cc\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 33360,
+                "uri": "https://sedra.bethmardutho.org/api/word/33360.json"
+            }
+        ]
+    }
+]

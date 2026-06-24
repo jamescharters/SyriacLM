@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 1983,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1983.json"
+        },
+        "syriac": "\u0721\u0723\u0712\u0710",
+        "glosses": {
+            "English": [
+                "hypocrisy",
+                "taking",
+                "acceptance",
+                "taking, receiving",
+                "<span class=\"selectableFont\">\u0721\u0730\u0723\u0712\u0733\u0710 \u0718\u0721\u0730\u072c\u0720\u0733\u0710</span> commerce, trade",
+                "<span class=\"selectableFont\">\u0721\u0730\u0723\u0730\u0712 \u0712\u0730\u0710\u0726\u0308</span><span class=\"selectableFont\">\u0736\u0710</span> dissimulation, hypocrisy.",
+                "receiving"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1184,
+            "uri": "https://sedra.bethmardutho.org/api/root/1184.json"
+        },
+        "words": [
+            {
+                "id": 12954,
+                "uri": "https://sedra.bethmardutho.org/api/word/12954.json"
+            },
+            {
+                "id": 58013,
+                "uri": "https://sedra.bethmardutho.org/api/word/58013.json"
+            },
+            {
+                "id": 12952,
+                "uri": "https://sedra.bethmardutho.org/api/word/12952.json"
+            },
+            {
+                "id": 12951,
+                "uri": "https://sedra.bethmardutho.org/api/word/12951.json"
+            },
+            {
+                "id": 12953,
+                "uri": "https://sedra.bethmardutho.org/api/word/12953.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

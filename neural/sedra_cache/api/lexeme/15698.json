@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15698,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15698.json"
+        },
+        "syriac": "\u0712\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0644\u0641",
+                "\u00a0"
+            ],
+            "French": [
+                "d\u00e9p\u00e9rir",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to pine away",
+                "IIp to grow thin."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2575,
+            "uri": "https://sedra.bethmardutho.org/api/root/2575.json"
+        },
+        "words": [
+            {
+                "id": 41996,
+                "uri": "https://sedra.bethmardutho.org/api/word/41996.json"
+            },
+            {
+                "id": 40334,
+                "uri": "https://sedra.bethmardutho.org/api/word/40334.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

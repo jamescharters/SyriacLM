@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3092,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3092.json"
+        },
+        "syriac": "\u072b\u0710\u0718\u0720",
+        "glosses": {
+            "English": [
+                "Saul"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1798,
+            "uri": "https://sedra.bethmardutho.org/api/root/1798.json"
+        },
+        "words": [
+            {
+                "id": 20070,
+                "uri": "https://sedra.bethmardutho.org/api/word/20070.json"
+            },
+            {
+                "id": 20069,
+                "uri": "https://sedra.bethmardutho.org/api/word/20069.json"
+            },
+            {
+                "id": 20071,
+                "uri": "https://sedra.bethmardutho.org/api/word/20071.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071b\u0718\u0721\u0710",
+        "western": "\u0710\u0730\u071b\u073d\u0718\u0721\u0308\u0736\u0710",
+        "eastern": "\u0710\u0732\u071b\u0718\u073f\u0721\u0308\u0738\u0710",
+        "lexeme": {
+            "id": 13825,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13825.json"
+        },
+        "stem": "\u0710\u071b\u0718\u0721\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u062e\u0635"
+            ],
+            "eng": [
+                "atom, individual."
+            ],
+            "fre": [
+                "individu"
+            ]
+        },
+        "word": {
+            "id": 49193,
+            "uri": "https://sedra.bethmardutho.org/api/word/49193.json"
+        }
+    }
+]

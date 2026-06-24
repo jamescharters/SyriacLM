@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u0718\u0713\u0722\u0710",
+        "western": "\u071b\u073d\u0718\u0713\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5468,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5468.json"
+        },
+        "stem": "\u071b\u0718\u0713\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0630\u0627\u0628"
+            ],
+            "eng": [
+                "iron chair (used for torture)."
+            ],
+            "fre": [
+                "supplice"
+            ]
+        },
+        "word": {
+            "id": 36798,
+            "uri": "https://sedra.bethmardutho.org/api/word/36798.json"
+        }
+    }
+]

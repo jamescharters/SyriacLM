@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 2630,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2630.json"
+        },
+        "syriac": "\u0726\u072b\u071d\u0713\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0639\u0637\u0644 (\u0645\u062c)",
+                "\u064a\u0627\u0628\u0633 \u0627\u0644\u064a\u062f \u0623\u0648 \u0627\u0644\u0631\u062c\u0644",
+                "\u0623\u0639\u0633\u0631",
+                "\u0623\u0639\u0631\u062c"
+            ],
+            "French": [
+                "d\u00e9form\u00e9",
+                "\u00e0 la main ou au pied dess\u00e9ch\u00e9",
+                "gaucher",
+                "boiteux"
+            ],
+            "English": [
+                "maimed",
+                "multilate",
+                "maimed, crippled."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1560,
+            "uri": "https://sedra.bethmardutho.org/api/root/1560.json"
+        },
+        "words": [
+            {
+                "id": 17122,
+                "uri": "https://sedra.bethmardutho.org/api/word/17122.json"
+            },
+            {
+                "id": 17121,
+                "uri": "https://sedra.bethmardutho.org/api/word/17121.json"
+            },
+            {
+                "id": 17124,
+                "uri": "https://sedra.bethmardutho.org/api/word/17124.json"
+            },
+            {
+                "id": 17123,
+                "uri": "https://sedra.bethmardutho.org/api/word/17123.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

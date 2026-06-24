@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2954,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2954.json"
+        },
+        "syriac": "\u072a\u0717\u0712\u0718\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0647\u0646, \u0639\u0631\u0628\u0648\u0646",
+                "\u062e\u0637\u0628\u0629"
+            ],
+            "French": [
+                "gage, arrhes",
+                "fian\u00e7ailles"
+            ],
+            "English": [
+                "security",
+                "earnest",
+                "pledge",
+                "pledge, deposit."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c1\u03c1\u03b1\u03b2\u03ce\u03bd"
+            ]
+        },
+        "root": {
+            "id": 1734,
+            "uri": "https://sedra.bethmardutho.org/api/root/1734.json"
+        },
+        "words": [
+            {
+                "id": 19272,
+                "uri": "https://sedra.bethmardutho.org/api/word/19272.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

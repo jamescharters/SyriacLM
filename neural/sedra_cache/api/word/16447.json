@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0726\u0720\u071d\u0713\u071d",
+        "western": "\u0726\u0741\u0720\u073a\u071d\u0713\u0742\u0730\u071d",
+        "state": "construct",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3517,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3517.json"
+        },
+        "stem": "\u0726\u0720\u071d\u0713\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062a\u0631\u062f\u062f"
+            ],
+            "eng": [
+                "hesitant.",
+                "divided",
+                "divided"
+            ],
+            "fre": [
+                "h\u00e9sitant"
+            ]
+        },
+        "word": {
+            "id": 16447,
+            "uri": "https://sedra.bethmardutho.org/api/word/16447.json"
+        }
+    }
+]

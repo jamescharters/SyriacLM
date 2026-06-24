@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0715\u071f\u071d\u0722",
+        "western": "\u0715\u0741\u0730\u071f\u0742\u071d\u0733\u0722",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 15553,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15553.json"
+        },
+        "stem": "\u0715\u071f\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0642\u064a"
+            ],
+            "eng": [
+                "be pure",
+                "to pronounce clean",
+                "IIp.",
+                "Ia to be pure, clean",
+                "IIa to cleanse, purify",
+                "cleanse"
+            ],
+            "fre": [
+                "\u00eatre ou devenir pur"
+            ]
+        },
+        "word": {
+            "id": 24085,
+            "uri": "https://sedra.bethmardutho.org/api/word/24085.json"
+        }
+    }
+]

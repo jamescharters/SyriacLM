@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0715\u0715\u0712\u0729",
+        "western": "\u0715\u0741\u0730\u0715\u0742\u0712\u0742\u0736\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15683,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15683.json"
+        },
+        "stem": "\u0715\u0712\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u063a\u0637"
+            ],
+            "eng": [
+                "& <span class=\"selectableFont\">\u0715\u0712\u0736\u0729</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u0712\u0730\u0729</span>, imp. <span class=\"selectableFont\">\u0715\u0712\u073d\u0718\u0729</span>, Ia to adhere, keep close to",
+                "IIp",
+                "Ip to be joined to",
+                "IIa to join, fasten together",
+                "to bind (a book)",
+                "adhere to",
+                "remain with",
+                "IIIa to make to adhere, to join together.",
+                "to glue"
+            ],
+            "fre": [
+                "presser"
+            ]
+        },
+        "word": {
+            "id": 4045,
+            "uri": "https://sedra.bethmardutho.org/api/word/4045.json"
+        }
+    }
+]

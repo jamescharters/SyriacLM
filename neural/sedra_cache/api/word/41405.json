@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0725\u0719\u071d",
+        "western": "\u0725\u0730\u0719\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15266,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15266.json"
+        },
+        "stem": "\u0725\u0719\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0633\u0631",
+                "\u062b\u0628\u062a (\u0645\u0636)"
+            ],
+            "eng": [
+                "to resist",
+                "IIa to be strong, valiant",
+                "IIp to be patient, to endure."
+            ],
+            "fre": [
+                "oser",
+                "affermir"
+            ]
+        },
+        "word": {
+            "id": 41405,
+            "uri": "https://sedra.bethmardutho.org/api/word/41405.json"
+        }
+    }
+]

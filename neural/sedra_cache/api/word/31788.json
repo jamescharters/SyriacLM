@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0710\u0713\u0718\u0722\u071d\u0723\u071b\u0710",
+        "western": "\u0710\u0713\u073d\u0718\u0722\u073a\u071d\u0723\u071b\u0733\u0710",
+        "eastern": "\u0710\u0713\u0718\u073c\u0722\u071d\u073c\u0723\u071b\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10711,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10711.json"
+        },
+        "stem": "\u0710\u0713\u0718\u0722\u071d\u0723\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "someone engaged in a contest, combatant."
+            ]
+        },
+        "word": {
+            "id": 31788,
+            "uri": "https://sedra.bethmardutho.org/api/word/31788.json"
+        }
+    }
+]

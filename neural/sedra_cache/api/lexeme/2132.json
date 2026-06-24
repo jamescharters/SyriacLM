@@ -1,0 +1,71 @@
+[
+    {
+        "lexeme": {
+            "id": 2132,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2132.json"
+        },
+        "syriac": "\u0723\u071f\u072a",
+        "glosses": {
+            "English": [
+                "Ip",
+                "stop",
+                "shut",
+                "IIp.",
+                "Ia to shut, to stop, to stop up, to block, to close",
+                "IIa to shut up, to block (ears etc.)"
+            ],
+            "Arabic": [
+                "\u063a\u0644\u0642",
+                "\u0633\u062f",
+                "\u0641\u062d\u0635",
+                "\u00a0"
+            ],
+            "French": [
+                "fermer",
+                "obstruer",
+                "inspecter",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1272,
+            "uri": "https://sedra.bethmardutho.org/api/root/1272.json"
+        },
+        "words": [
+            {
+                "id": 14208,
+                "uri": "https://sedra.bethmardutho.org/api/word/14208.json"
+            },
+            {
+                "id": 14204,
+                "uri": "https://sedra.bethmardutho.org/api/word/14204.json"
+            },
+            {
+                "id": 14203,
+                "uri": "https://sedra.bethmardutho.org/api/word/14203.json"
+            },
+            {
+                "id": 14210,
+                "uri": "https://sedra.bethmardutho.org/api/word/14210.json"
+            },
+            {
+                "id": 14209,
+                "uri": "https://sedra.bethmardutho.org/api/word/14209.json"
+            },
+            {
+                "id": 14207,
+                "uri": "https://sedra.bethmardutho.org/api/word/14207.json"
+            },
+            {
+                "id": 14206,
+                "uri": "https://sedra.bethmardutho.org/api/word/14206.json"
+            },
+            {
+                "id": 14205,
+                "uri": "https://sedra.bethmardutho.org/api/word/14205.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

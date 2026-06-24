@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u0719\u0718\u0729",
+        "western": "\u0722\u0719\u073d\u0718\u0729",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15481,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15481.json"
+        },
+        "stem": "\u0719\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u063a\u0628"
+            ],
+            "eng": [
+                "to steep.",
+                "Ia to dart swiftly"
+            ],
+            "fre": [
+                "d\u00e9sirer"
+            ]
+        },
+        "word": {
+            "id": 41847,
+            "uri": "https://sedra.bethmardutho.org/api/word/41847.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 20243,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20243.json"
+        },
+        "syriac": "\u0710\u0710\u072a\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "unseen, invisible"
+            ],
+            "Latin": [
+                "invisibilis"
+            ],
+            "Greek": [
+                "\u1f00\u03cc\u03c1\u03b1\u03c4\u03bf\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03cc\u03c1\u03b1\u03c4\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48195,
+                "uri": "https://sedra.bethmardutho.org/api/word/48195.json"
+            },
+            {
+                "id": 46617,
+                "uri": "https://sedra.bethmardutho.org/api/word/46617.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

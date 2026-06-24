@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0710\u0725\u0715\u071d",
+        "western": "\u0710\u0730\u0725\u0715\u0741\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2245,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2245.json"
+        },
+        "stem": "\u0725\u0715\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0644\u063a"
+            ],
+            "eng": [
+                "take hold of",
+                "befall",
+                "come upon",
+                "sieze",
+                "happen",
+                "take",
+                "IIIa to snatch, to lay hold of",
+                "to fall upon",
+                "IIIp.",
+                "IIa to set free",
+                "Ia to pass near, to affect",
+                "Ip to be freed from"
+            ],
+            "fre": [
+                "atteindre"
+            ]
+        },
+        "word": {
+            "id": 14980,
+            "uri": "https://sedra.bethmardutho.org/api/word/14980.json"
+        }
+    }
+]

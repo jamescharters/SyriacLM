@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0718\u0728\u0726\u072c\u0710",
+        "western": "\u0718\u0728\u0736\u0726\u0742\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1411,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1411.json"
+        },
+        "stem": "\u0728\u0726\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u00a0",
+                "\u062d\u0635\u064a\u0631\u0629"
+            ],
+            "eng": [
+                "anxiety",
+                "care"
+            ],
+            "fre": [
+                "ornament\u2026",
+                "soin\u2026",
+                "natte"
+            ]
+        },
+        "word": {
+            "id": 23688,
+            "uri": "https://sedra.bethmardutho.org/api/word/23688.json"
+        }
+    }
+]

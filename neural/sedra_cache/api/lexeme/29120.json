@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 29120,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29120.json"
+        },
+        "syriac": "\u0710\u071d\u0726\u0726\u0718\u0726\u0710\u0722\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f31\u03c0\u03c0\u03bf\u03c6\u03b1\u03ad\u03c2"
+            ],
+            "English": [
+                "sea buckthorns"
+            ],
+            "Latin": [
+                "hippophaes herba"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "hippophaes"
+            ]
+        },
+        "words": [
+            {
+                "id": 49574,
+                "uri": "https://sedra.bethmardutho.org/api/word/49574.json"
+            },
+            {
+                "id": 55494,
+                "uri": "https://sedra.bethmardutho.org/api/word/55494.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

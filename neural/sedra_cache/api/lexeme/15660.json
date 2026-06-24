@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 15660,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15660.json"
+        },
+        "syriac": "\u0721\u072c\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0635",
+                "\u0628\u0644\u0639",
+                "\u0627\u0633\u062a\u0646\u0634\u0642",
+                ""
+            ],
+            "French": [
+                "sucer",
+                "absorber",
+                "aspirer",
+                ""
+            ],
+            "English": [
+                "Ip",
+                "Ia to suck, suck up, absorb",
+                "IIa to suck dry, exhaust",
+                "IIIa to let suck."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3167,
+            "uri": "https://sedra.bethmardutho.org/api/root/3167.json"
+        },
+        "words": [
+            {
+                "id": 42011,
+                "uri": "https://sedra.bethmardutho.org/api/word/42011.json"
+            },
+            {
+                "id": 40459,
+                "uri": "https://sedra.bethmardutho.org/api/word/40459.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

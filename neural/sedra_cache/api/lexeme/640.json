@@ -1,0 +1,65 @@
+[
+    {
+        "lexeme": {
+            "id": 640,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/640.json"
+        },
+        "syriac": "\u0715\u0712\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0628\u064a\u062d\u0629",
+                "\u0636\u062d\u064a\u0629"
+            ],
+            "French": [
+                "sacrifice",
+                "victime"
+            ],
+            "English": [
+                "sacrifice",
+                "victim",
+                "sacrifice."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 413,
+            "uri": "https://sedra.bethmardutho.org/api/root/413.json"
+        },
+        "words": [
+            {
+                "id": 4027,
+                "uri": "https://sedra.bethmardutho.org/api/word/4027.json"
+            },
+            {
+                "id": 4026,
+                "uri": "https://sedra.bethmardutho.org/api/word/4026.json"
+            },
+            {
+                "id": 4025,
+                "uri": "https://sedra.bethmardutho.org/api/word/4025.json"
+            },
+            {
+                "id": 4020,
+                "uri": "https://sedra.bethmardutho.org/api/word/4020.json"
+            },
+            {
+                "id": 4023,
+                "uri": "https://sedra.bethmardutho.org/api/word/4023.json"
+            },
+            {
+                "id": 4022,
+                "uri": "https://sedra.bethmardutho.org/api/word/4022.json"
+            },
+            {
+                "id": 4021,
+                "uri": "https://sedra.bethmardutho.org/api/word/4021.json"
+            },
+            {
+                "id": 4024,
+                "uri": "https://sedra.bethmardutho.org/api/word/4024.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

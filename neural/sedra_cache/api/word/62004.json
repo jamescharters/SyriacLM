@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0715\u0726\u0722\u0710",
+        "western": "\u0715\u0730\u0726\u0722\u0733\u0710",
+        "lexeme": {
+            "id": 35649,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/35649.json"
+        },
+        "stem": "\u0715\u0726\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "syr": [
+                "coffin"
+            ]
+        },
+        "word": {
+            "id": 62004,
+            "uri": "https://sedra.bethmardutho.org/api/word/62004.json"
+        }
+    }
+]

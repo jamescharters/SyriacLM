@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 2648,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2648.json"
+        },
+        "syriac": "\u0726\u072c\u071f\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0646\u0645"
+            ],
+            "French": [
+                "idole"
+            ],
+            "English": [
+                "idol.",
+                "idol",
+                "image",
+                "idol"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1569,
+            "uri": "https://sedra.bethmardutho.org/api/root/1569.json"
+        },
+        "words": [
+            {
+                "id": 17233,
+                "uri": "https://sedra.bethmardutho.org/api/word/17233.json"
+            },
+            {
+                "id": 17232,
+                "uri": "https://sedra.bethmardutho.org/api/word/17232.json"
+            },
+            {
+                "id": 17231,
+                "uri": "https://sedra.bethmardutho.org/api/word/17231.json"
+            },
+            {
+                "id": 17230,
+                "uri": "https://sedra.bethmardutho.org/api/word/17230.json"
+            },
+            {
+                "id": 17229,
+                "uri": "https://sedra.bethmardutho.org/api/word/17229.json"
+            },
+            {
+                "id": 17234,
+                "uri": "https://sedra.bethmardutho.org/api/word/17234.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

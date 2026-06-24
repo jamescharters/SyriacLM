@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14917,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14917.json"
+        },
+        "syriac": "\u072a\u0728\u072a\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u062d\u0642"
+            ],
+            "French": [
+                "broyer"
+            ],
+            "English": [
+                "IVa to pound."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2618,
+            "uri": "https://sedra.bethmardutho.org/api/root/2618.json"
+        },
+        "words": [
+            {
+                "id": 41321,
+                "uri": "https://sedra.bethmardutho.org/api/word/41321.json"
+            },
+            {
+                "id": 40789,
+                "uri": "https://sedra.bethmardutho.org/api/word/40789.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 15857,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15857.json"
+        },
+        "syriac": "\u0726\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062a\u0633\u0639",
+                "\u0627\u0646\u062a\u0634\u0631"
+            ],
+            "French": [
+                "se dilater",
+                "se propager"
+            ],
+            "English": [
+                "to become dilated",
+                "IIp to be enlarged",
+                "broad",
+                "Ia to be enlarged",
+                "to dilate, to do something at length.",
+                "IIa to enlarge, to widen",
+                "IIIa to enlarge"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2277,
+            "uri": "https://sedra.bethmardutho.org/api/root/2277.json"
+        },
+        "words": [
+            {
+                "id": 17149,
+                "uri": "https://sedra.bethmardutho.org/api/word/17149.json"
+            },
+            {
+                "id": 17150,
+                "uri": "https://sedra.bethmardutho.org/api/word/17150.json"
+            },
+            {
+                "id": 27832,
+                "uri": "https://sedra.bethmardutho.org/api/word/27832.json"
+            },
+            {
+                "id": 27833,
+                "uri": "https://sedra.bethmardutho.org/api/word/27833.json"
+            },
+            {
+                "id": 41657,
+                "uri": "https://sedra.bethmardutho.org/api/word/41657.json"
+            },
+            {
+                "id": 41530,
+                "uri": "https://sedra.bethmardutho.org/api/word/41530.json"
+            },
+            {
+                "id": 40215,
+                "uri": "https://sedra.bethmardutho.org/api/word/40215.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15186,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15186.json"
+        },
+        "syriac": "\u0725\u0722\u0722",
+        "glosses": {
+            "English": [
+                "IIa to cloud over."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2621,
+            "uri": "https://sedra.bethmardutho.org/api/root/2621.json"
+        },
+        "words": [
+            {
+                "id": 41572,
+                "uri": "https://sedra.bethmardutho.org/api/word/41572.json"
+            },
+            {
+                "id": 39907,
+                "uri": "https://sedra.bethmardutho.org/api/word/39907.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

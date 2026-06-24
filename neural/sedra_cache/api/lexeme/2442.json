@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2442,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2442.json"
+        },
+        "syriac": "\u0726\u0710\u071b\u072a\u0710",
+        "glosses": {
+            "English": [
+                "Patara"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1442,
+            "uri": "https://sedra.bethmardutho.org/api/root/1442.json"
+        },
+        "words": [
+            {
+                "id": 16122,
+                "uri": "https://sedra.bethmardutho.org/api/word/16122.json"
+            },
+            {
+                "id": 16123,
+                "uri": "https://sedra.bethmardutho.org/api/word/16123.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

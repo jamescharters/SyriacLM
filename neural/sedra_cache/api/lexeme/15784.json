@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15784,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15784.json"
+        },
+        "syriac": "\u0713\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "to fill.",
+                "Ia to cut off, lop",
+                "Ip to be cut down, off",
+                "to be full",
+                "IIa <span class=\"selectableFont\">\u0713\u0730\u0721\u0736\u0721</span> to cut down"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2275,
+            "uri": "https://sedra.bethmardutho.org/api/root/2275.json"
+        },
+        "words": [
+            {
+                "id": 41987,
+                "uri": "https://sedra.bethmardutho.org/api/word/41987.json"
+            },
+            {
+                "id": 41313,
+                "uri": "https://sedra.bethmardutho.org/api/word/41313.json"
+            },
+            {
+                "id": 40418,
+                "uri": "https://sedra.bethmardutho.org/api/word/40418.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 2600,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2600.json"
+        },
+        "syriac": "\u0726\u072a\u0723\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0634\u0641, \u0634\u0647\u0631 (\u0645\u0636), \u0639\u0631\u0636",
+                "\u0641\u0636\u062d",
+                "\u00a0"
+            ],
+            "French": [
+                "mettre \u00e0 nu, d\u00e9couvrir, exposer",
+                "d\u00e9shonorer",
+                "\u00a0"
+            ],
+            "English": [
+                "to strip naked",
+                "expose",
+                "IVa to expose, lay bare",
+                "IVp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1543,
+            "uri": "https://sedra.bethmardutho.org/api/root/1543.json"
+        },
+        "words": [
+            {
+                "id": 44595,
+                "uri": "https://sedra.bethmardutho.org/api/word/44595.json"
+            },
+            {
+                "id": 26094,
+                "uri": "https://sedra.bethmardutho.org/api/word/26094.json"
+            },
+            {
+                "id": 27707,
+                "uri": "https://sedra.bethmardutho.org/api/word/27707.json"
+            },
+            {
+                "id": 27706,
+                "uri": "https://sedra.bethmardutho.org/api/word/27706.json"
+            },
+            {
+                "id": 26095,
+                "uri": "https://sedra.bethmardutho.org/api/word/26095.json"
+            },
+            {
+                "id": 16894,
+                "uri": "https://sedra.bethmardutho.org/api/word/16894.json"
+            },
+            {
+                "id": 16893,
+                "uri": "https://sedra.bethmardutho.org/api/word/16893.json"
+            },
+            {
+                "id": 16892,
+                "uri": "https://sedra.bethmardutho.org/api/word/16892.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

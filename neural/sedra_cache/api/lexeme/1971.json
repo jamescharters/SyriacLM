@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 1971,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1971.json"
+        },
+        "syriac": "\u0722\u071f\u0723\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0628\u062d",
+                "\u0630\u0628\u064a\u062d\u0629"
+            ],
+            "French": [
+                "immolation",
+                "victime"
+            ],
+            "English": [
+                "slaughter",
+                "sacrifice",
+                "victim",
+                "immolation",
+                "immolation, sacrifice.",
+                "victim"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1177,
+            "uri": "https://sedra.bethmardutho.org/api/root/1177.json"
+        },
+        "words": [
+            {
+                "id": 12895,
+                "uri": "https://sedra.bethmardutho.org/api/word/12895.json"
+            },
+            {
+                "id": 12894,
+                "uri": "https://sedra.bethmardutho.org/api/word/12894.json"
+            },
+            {
+                "id": 12896,
+                "uri": "https://sedra.bethmardutho.org/api/word/12896.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

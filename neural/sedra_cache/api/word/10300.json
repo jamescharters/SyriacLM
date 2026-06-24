@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071f\u0726\u071d",
+        "western": "\u071f\u0741\u0726\u0742\u0730\u071d",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1564,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1564.json"
+        },
+        "stem": "\u071f\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "incline",
+                "IIa to bend over, to bow",
+                "IIp.",
+                "bend",
+                "bow",
+                "Ia to bend"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 10300,
+            "uri": "https://sedra.bethmardutho.org/api/word/10300.json"
+        }
+    }
+]

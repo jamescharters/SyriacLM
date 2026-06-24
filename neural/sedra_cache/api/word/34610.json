@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u0729\u071b\u071d\u0729\u071d\u0722",
+        "western": "\u0720\u0736\u0729\u071b\u073a\u071d\u0729\u073a\u071d\u0722",
+        "number": "singular",
+        "lexeme": {
+            "id": 7240,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7240.json"
+        },
+        "stem": "\u0720\u0729\u071b\u071d\u0729\u071d\u0722",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u0645\u0644 \u0635\u063a\u064a\u0631"
+            ],
+            "eng": [
+                "litter, bier."
+            ],
+            "fre": [
+                "petite liti\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 34610,
+            "uri": "https://sedra.bethmardutho.org/api/word/34610.json"
+        }
+    }
+]

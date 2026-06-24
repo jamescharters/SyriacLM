@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 394,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/394.json"
+        },
+        "syriac": "\u0712\u0718\u071f\u072a\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "birthright",
+                "primogeniture",
+                "primogeniture."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 273,
+            "uri": "https://sedra.bethmardutho.org/api/root/273.json"
+        },
+        "words": [
+            {
+                "id": 2757,
+                "uri": "https://sedra.bethmardutho.org/api/word/2757.json"
+            },
+            {
+                "id": 2756,
+                "uri": "https://sedra.bethmardutho.org/api/word/2756.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

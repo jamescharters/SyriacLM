@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1189,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1189.json"
+        },
+        "syriac": "\u071a\u072c\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0648\u062c",
+                "\u062e\u062a\u0646",
+                "\u0635\u0647\u0631"
+            ],
+            "French": [
+                "\u00e9poux",
+                "gendre",
+                "beau-fr\u00e8re"
+            ],
+            "English": [
+                "bridegroom",
+                "son-in-law",
+                "connection by marriage.",
+                "bridegroom"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 700,
+            "uri": "https://sedra.bethmardutho.org/api/root/700.json"
+        },
+        "words": [
+            {
+                "id": 7841,
+                "uri": "https://sedra.bethmardutho.org/api/word/7841.json"
+            },
+            {
+                "id": 7839,
+                "uri": "https://sedra.bethmardutho.org/api/word/7839.json"
+            },
+            {
+                "id": 7840,
+                "uri": "https://sedra.bethmardutho.org/api/word/7840.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

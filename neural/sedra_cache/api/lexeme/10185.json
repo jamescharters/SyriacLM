@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 10185,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10185.json"
+        },
+        "syriac": "\u071b\u0725\u0721\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0630\u0648\u0642",
+                "\u0637\u0639\u0645",
+                "\u0645\u0623\u0643\u0644",
+                "\u062a\u0637\u0639\u064a\u0645"
+            ],
+            "French": [
+                "go\u00fbt",
+                "saveur",
+                "aliment",
+                "greffe"
+            ],
+            "English": [
+                "sense of taste",
+                "taste, flavor",
+                "grafting in.",
+                "quality, property",
+                "specimen",
+                "snack",
+                "perception, sense"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 32559,
+                "uri": "https://sedra.bethmardutho.org/api/word/32559.json"
+            }
+        ]
+    }
+]

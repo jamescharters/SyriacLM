@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0712\u071d\u0721\u0710",
+        "western": "\u0712\u0741\u071d\u0730\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1385,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1385.json"
+        },
+        "stem": "\u071d\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u071d\u0730\u0721\u0331\u0721\u0308\u0736\u0710pl.\"",
+                "\u0628\u062d\u064a\u0631\u0629",
+                "\u063a\u062f\u064a\u0631, \u063a\u064a\u0636\u0629"
+            ],
+            "eng": [
+                "sea",
+                "sea, ocean."
+            ],
+            "fre": [
+                "sea",
+                "\u00e9tang, marais",
+                "lac"
+            ]
+        },
+        "word": {
+            "id": 9218,
+            "uri": "https://sedra.bethmardutho.org/api/word/9218.json"
+        }
+    }
+]

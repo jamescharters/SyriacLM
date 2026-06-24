@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0721\u0710",
+        "western": "\u0710\u0730\u071f\u0742\u0721\u0733\u0710",
+        "lexeme": {
+            "id": 5566,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5566.json"
+        },
+        "stem": "\u0710\u071f\u0721\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "",
+                "\u00a0"
+            ],
+            "eng": [
+                "as long as",
+                "<span class=\"selectableFont\">\u0710\u0730\u071f\u0721\u0733\u0710 \u0719\u0730\u0712\u0308</span><span class=\"selectableFont\">\u0722\u073a\u071d\u0722</span> sometimes."
+            ],
+            "fre": [
+                "",
+                "comme, combien"
+            ]
+        },
+        "word": {
+            "id": 620,
+            "uri": "https://sedra.bethmardutho.org/api/word/620.json"
+        }
+    }
+]

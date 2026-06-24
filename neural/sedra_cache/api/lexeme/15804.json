@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15804,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15804.json"
+        },
+        "syriac": "\u072b\u071f\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0646\u0628\u0633\u0637, \u0647\u062f\u0623",
+                "\u0631\u0633\u0628",
+                "\u0632\u0627\u0644"
+            ],
+            "French": [
+                "\u00eatre \u00e9tendu, calme",
+                "se d\u00e9poser",
+                "cesser"
+            ],
+            "English": [
+                "IIIa to bring to rest.",
+                "IIp to be laid to rest",
+                "Ip to subside",
+                "IIa to let sink, to tranquilize",
+                "Ia to sink down, to settle"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2494,
+            "uri": "https://sedra.bethmardutho.org/api/root/2494.json"
+        },
+        "words": [
+            {
+                "id": 41960,
+                "uri": "https://sedra.bethmardutho.org/api/word/41960.json"
+            },
+            {
+                "id": 41075,
+                "uri": "https://sedra.bethmardutho.org/api/word/41075.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

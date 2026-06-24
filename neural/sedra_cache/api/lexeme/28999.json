@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28999,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28999.json"
+        },
+        "syriac": "\u0710\u071d\u0722\u0718\u0715\u071d",
+        "glosses": {
+            "Greek": [
+                "\u1f30\u03bd\u03ce\u03b4\u03b7"
+            ],
+            "English": [
+                "fibrous"
+            ],
+            "Latin": [
+                "nervosus"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f30\u03bd\u03ce\u03b4\u03b7\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49497,
+                "uri": "https://sedra.bethmardutho.org/api/word/49497.json"
+            },
+            {
+                "id": 55373,
+                "uri": "https://sedra.bethmardutho.org/api/word/55373.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

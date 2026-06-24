@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u0713\u072a",
+        "western": "\u0723\u0713\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15707,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15707.json"
+        },
+        "stem": "\u0723\u0713\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to confine, to shut in",
+                "to restrain",
+                "Ip, IIp to be held back.",
+                "to seclude"
+            ]
+        },
+        "word": {
+            "id": 41441,
+            "uri": "https://sedra.bethmardutho.org/api/word/41441.json"
+        }
+    }
+]

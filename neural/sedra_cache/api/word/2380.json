@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0717\u072c",
+        "western": "\u0710\u0736\u0712\u0742\u0717\u0730\u072c\u0742",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 346,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/346.json"
+        },
+        "stem": "\u0712\u0717\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u062c\u0644"
+            ],
+            "eng": [
+                "shame",
+                "Ia to be ashamed",
+                "be ashamed",
+                "IIIa to put to shame."
+            ],
+            "fre": [
+                "avoir honte"
+            ]
+        },
+        "word": {
+            "id": 2380,
+            "uri": "https://sedra.bethmardutho.org/api/word/2380.json"
+        }
+    }
+]

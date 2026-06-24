@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1439,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1439.json"
+        },
+        "syriac": "\u072c\u0718\u072c\u0712\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0643\u0646\u0649",
+                "\u0633\u0643\u0646 \u0641\u064a \u0627\u0644\u062e\u0627\u0631\u062c, \u0645\u0646\u0641\u0649",
+                "\u0623\u0628\u0631\u0634\u064a\u0629"
+            ],
+            "French": [
+                "habitation",
+                "s\u00e9jour \u00e0 l&#39;\u00e9tranger, exil",
+                "dioc\u00e8se"
+            ],
+            "English": [
+                "sojourning",
+                "living in a foreign country",
+                "pilgrimage."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 856,
+            "uri": "https://sedra.bethmardutho.org/api/root/856.json"
+        },
+        "words": [
+            {
+                "id": 23681,
+                "uri": "https://sedra.bethmardutho.org/api/word/23681.json"
+            },
+            {
+                "id": 9562,
+                "uri": "https://sedra.bethmardutho.org/api/word/9562.json"
+            },
+            {
+                "id": 9561,
+                "uri": "https://sedra.bethmardutho.org/api/word/9561.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

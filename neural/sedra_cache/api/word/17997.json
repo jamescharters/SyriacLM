@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0720\u0729\u0718\u071d\u0721\u0710",
+        "western": "\u0720\u0729\u073d\u0718\u071d\u0733\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2765,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2765.json"
+        },
+        "stem": "\u0729\u0718\u071d\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "constitution",
+                "structure",
+                "sustenance",
+                "establishment",
+                "support",
+                "food",
+                "sustenance",
+                "confirmation."
+            ]
+        },
+        "word": {
+            "id": 17997,
+            "uri": "https://sedra.bethmardutho.org/api/word/17997.json"
+        }
+    }
+]

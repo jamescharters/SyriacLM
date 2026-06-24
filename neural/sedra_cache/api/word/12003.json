@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0718\u0720\u0721\u0722\u0710",
+        "western": "\u0718\u0730\u0720\u0721\u0733\u0722\u0733\u0710",
+        "lexeme": {
+            "id": 1800,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1800.json"
+        },
+        "stem": "\u0720\u0721\u0722\u0710",
+        "category": "pronoun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "why"
+            ]
+        },
+        "word": {
+            "id": 12003,
+            "uri": "https://sedra.bethmardutho.org/api/word/12003.json"
+        }
+    }
+]

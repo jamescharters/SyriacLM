@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 14860,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14860.json"
+        },
+        "syriac": "\u0715\u0729\u0715\u0729",
+        "glosses": {
+            "Arabic": [
+                ""
+            ],
+            "French": [
+                ""
+            ],
+            "English": [
+                "to hammer to pieces",
+                "IIp.",
+                "IVa to pound"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3153,
+            "uri": "https://sedra.bethmardutho.org/api/root/3153.json"
+        },
+        "words": [
+            {
+                "id": 40525,
+                "uri": "https://sedra.bethmardutho.org/api/word/40525.json"
+            },
+            {
+                "id": 40099,
+                "uri": "https://sedra.bethmardutho.org/api/word/40099.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

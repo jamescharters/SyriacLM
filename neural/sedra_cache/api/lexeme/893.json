@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 893,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/893.json"
+        },
+        "syriac": "\u0719\u0721\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u063a\u0646\u064a\u0629, \u062a\u0631\u062a\u064a\u0644",
+                "\u0645\u0648\u0633\u064a\u0642\u0649",
+                "\u0639\u064a\u062f"
+            ],
+            "French": [
+                "chant",
+                "musique",
+                "f\u00eate"
+            ],
+            "English": [
+                "music",
+                "singing",
+                "music, song."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 569,
+            "uri": "https://sedra.bethmardutho.org/api/root/569.json"
+        },
+        "words": [
+            {
+                "id": 5776,
+                "uri": "https://sedra.bethmardutho.org/api/word/5776.json"
+            },
+            {
+                "id": 5775,
+                "uri": "https://sedra.bethmardutho.org/api/word/5775.json"
+            },
+            {
+                "id": 5777,
+                "uri": "https://sedra.bethmardutho.org/api/word/5777.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0719\u0725\u0721",
+        "western": "\u0719\u0725\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15589,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15589.json"
+        },
+        "stem": "\u0719\u0725\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to reprove",
+                "Ia to chide",
+                "IIp to be taunted."
+            ]
+        },
+        "word": {
+            "id": 41068,
+            "uri": "https://sedra.bethmardutho.org/api/word/41068.json"
+        }
+    }
+]

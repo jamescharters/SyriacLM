@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 806,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/806.json"
+        },
+        "syriac": "\u0717\u0726\u0718\u071f\u071d\u0710",
+        "glosses": {
+            "English": [
+                "overthrow",
+                "reversal",
+                "ruin",
+                "overturning",
+                "return."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 512,
+            "uri": "https://sedra.bethmardutho.org/api/root/512.json"
+        },
+        "words": [
+            {
+                "id": 5256,
+                "uri": "https://sedra.bethmardutho.org/api/word/5256.json"
+            },
+            {
+                "id": 5257,
+                "uri": "https://sedra.bethmardutho.org/api/word/5257.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

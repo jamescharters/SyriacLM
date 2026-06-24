@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1547,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1547.json"
+        },
+        "syriac": "\u071f\u0722\u0725\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Canaanite"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 912,
+            "uri": "https://sedra.bethmardutho.org/api/root/912.json"
+        },
+        "words": [
+            {
+                "id": 10103,
+                "uri": "https://sedra.bethmardutho.org/api/word/10103.json"
+            },
+            {
+                "id": 10102,
+                "uri": "https://sedra.bethmardutho.org/api/word/10102.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "syriac": "\u0718\u0722\u0725\u0722\u0710",
+        "western": "\u0718\u0722\u0736\u0725\u0722\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2362,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2362.json"
+        },
+        "stem": "\u0725\u0722\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062c\u0627\u0628",
+                "\u0627\u0633\u062a\u062c\u0627\u0628 \u0644\u0640",
+                "\u0623\u062c\u0627\u0628 \u0644\u0640",
+                "\u0623\u0630\u0639\u0646",
+                "\u00a0"
+            ],
+            "eng": [
+                "answer",
+                "IIp to be chanted",
+                "to cause to be occupied.",
+                "to humble oneself",
+                "to be occupied, engaged",
+                "Ip to be heard",
+                "be occupied",
+                "busy",
+                "to intone",
+                "IIa to sing in alternating verses",
+                "to raise a shout",
+                "to converse",
+                "<span class=\"selectableFont\">\u0725\u0722\u0736\u0710</span> occupied (with)",
+                "IIIa to lead (in singing)",
+                "to raise a song",
+                "Ia to answer, respond"
+            ],
+            "fre": [
+                "r\u00e9pondre \u00e0",
+                "exaucer",
+                "ob\u00e9ir",
+                "\u00a0",
+                "r\u00e9pondre"
+            ]
+        },
+        "word": {
+            "id": 15756,
+            "uri": "https://sedra.bethmardutho.org/api/word/15756.json"
+        }
+    }
+]

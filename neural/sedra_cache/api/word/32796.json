@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u072b\u071b\u072c\u0710",
+        "western": "\u0726\u072b\u0733\u071b\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13345,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13345.json"
+        },
+        "stem": "\u0726\u072b\u071b\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0644\u0627\u0629 \u062a\u062a\u0644\u0649 \u0648\u0627\u0644\u0623\u064a\u062f\u064a \u0645\u0645\u062f\u0648\u062f\u0629"
+            ],
+            "eng": [
+                "prayer said with outstretched hands."
+            ],
+            "fre": [
+                "pri\u00e8re r\u00e9cit\u00e9e bras \u00e9tendus"
+            ]
+        },
+        "word": {
+            "id": 32796,
+            "uri": "https://sedra.bethmardutho.org/api/word/32796.json"
+        }
+    }
+]

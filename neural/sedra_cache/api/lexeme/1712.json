@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1712,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1712.json"
+        },
+        "syriac": "\u0721\u0715\u071d\u0722",
+        "glosses": {
+            "English": [
+                "Midian"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1022,
+            "uri": "https://sedra.bethmardutho.org/api/root/1022.json"
+        },
+        "words": [
+            {
+                "id": 11234,
+                "uri": "https://sedra.bethmardutho.org/api/word/11234.json"
+            },
+            {
+                "id": 11235,
+                "uri": "https://sedra.bethmardutho.org/api/word/11235.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

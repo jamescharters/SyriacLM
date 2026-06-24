@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15509,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15509.json"
+        },
+        "syriac": "\u0720\u0713\u0721",
+        "glosses": {
+            "English": [
+                "Ia to chew."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2100,
+            "uri": "https://sedra.bethmardutho.org/api/root/2100.json"
+        },
+        "words": [
+            {
+                "id": 41988,
+                "uri": "https://sedra.bethmardutho.org/api/word/41988.json"
+            },
+            {
+                "id": 40121,
+                "uri": "https://sedra.bethmardutho.org/api/word/40121.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

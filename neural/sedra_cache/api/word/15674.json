@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0725\u0721\u071b\u0722\u0710",
+        "western": "\u0725\u0730\u0721\u071b\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2347,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2347.json"
+        },
+        "stem": "\u0725\u0721\u071b\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0638\u0644\u0627\u0645"
+            ],
+            "eng": [
+                "mist",
+                "darkness, gloom.",
+                "darkness",
+                "obscurity"
+            ],
+            "fre": [
+                "t\u00e9n\u00e8bres"
+            ]
+        },
+        "word": {
+            "id": 15674,
+            "uri": "https://sedra.bethmardutho.org/api/word/15674.json"
+        }
+    }
+]

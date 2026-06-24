@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1522,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1522.json"
+        },
+        "syriac": "\u071f\u0720 \u071a\u0715",
+        "glosses": {
+            "English": [
+                "each one"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2030,
+            "uri": "https://sedra.bethmardutho.org/api/root/2030.json"
+        },
+        "words": [
+            {
+                "id": 6214,
+                "uri": "https://sedra.bethmardutho.org/api/word/6214.json"
+            },
+            {
+                "id": 6202,
+                "uri": "https://sedra.bethmardutho.org/api/word/6202.json"
+            },
+            {
+                "id": 6209,
+                "uri": "https://sedra.bethmardutho.org/api/word/6209.json"
+            },
+            {
+                "id": 6210,
+                "uri": "https://sedra.bethmardutho.org/api/word/6210.json"
+            }
+        ],
+        "category": "idiom",
+        "kaylo": "p\u02bfal"
+    }
+]

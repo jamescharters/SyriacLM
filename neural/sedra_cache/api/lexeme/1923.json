@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1923,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1923.json"
+        },
+        "syriac": "\u0722\u0718\u0715\u0710",
+        "glosses": {
+            "English": [
+                "earthquake",
+                "shaking",
+                "earthquake.",
+                "trembling"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1147,
+            "uri": "https://sedra.bethmardutho.org/api/root/1147.json"
+        },
+        "words": [
+            {
+                "id": 12593,
+                "uri": "https://sedra.bethmardutho.org/api/word/12593.json"
+            },
+            {
+                "id": 12594,
+                "uri": "https://sedra.bethmardutho.org/api/word/12594.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

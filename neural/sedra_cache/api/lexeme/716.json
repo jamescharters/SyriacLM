@@ -1,0 +1,65 @@
+[
+    {
+        "lexeme": {
+            "id": 716,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/716.json"
+        },
+        "syriac": "\u0715\u0720\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062d\u062a\u0631\u0642",
+                "\u0644\u0645\u0639",
+                "\u0637\u0644\u0639\u062a (\u0627\u0644\u0634\u0645\u0633)"
+            ],
+            "French": [
+                "br\u00fbler (intr.)",
+                "briller",
+                "se lever (soleil)"
+            ],
+            "English": [
+                "IIIa to set light to, kindle, illuminate.",
+                "shine",
+                "burn",
+                "blaze",
+                "IIa to set on fire",
+                "Ia to blaze, flame, shine out"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 453,
+            "uri": "https://sedra.bethmardutho.org/api/root/453.json"
+        },
+        "words": [
+            {
+                "id": 24113,
+                "uri": "https://sedra.bethmardutho.org/api/word/24113.json"
+            },
+            {
+                "id": 24112,
+                "uri": "https://sedra.bethmardutho.org/api/word/24112.json"
+            },
+            {
+                "id": 4632,
+                "uri": "https://sedra.bethmardutho.org/api/word/4632.json"
+            },
+            {
+                "id": 24115,
+                "uri": "https://sedra.bethmardutho.org/api/word/24115.json"
+            },
+            {
+                "id": 24114,
+                "uri": "https://sedra.bethmardutho.org/api/word/24114.json"
+            },
+            {
+                "id": 4634,
+                "uri": "https://sedra.bethmardutho.org/api/word/4634.json"
+            },
+            {
+                "id": 4633,
+                "uri": "https://sedra.bethmardutho.org/api/word/4633.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

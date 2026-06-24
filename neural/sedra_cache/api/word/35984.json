@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u0725\u072b\u0710",
+        "western": "\u0720\u0733\u0725\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5389,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5389.json"
+        },
+        "stem": "\u0720\u0725\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0648 \u0644\u062d\u064a\u0629 \u0637\u0648\u064a\u0644\u0629"
+            ],
+            "eng": [
+                "long-bearded."
+            ],
+            "fre": [
+                "porteur d&#39;une longue barbe"
+            ]
+        },
+        "word": {
+            "id": 35984,
+            "uri": "https://sedra.bethmardutho.org/api/word/35984.json"
+        }
+    }
+]

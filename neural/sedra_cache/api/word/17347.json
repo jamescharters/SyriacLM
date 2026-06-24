@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0728\u0715\u0710",
+        "western": "\u0728\u0715\u0742\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2662,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2662.json"
+        },
+        "stem": "\u0728\u0715\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0627\u0632",
+                "\u0639\u0642\u0631, \u0623\u062c\u062f\u0628",
+                "\u0623\u0642\u0641\u0631",
+                "\u0627\u0644\u062d\u0631\u0641 \u0635\u0627\u062f"
+            ],
+            "eng": [
+                "be desolate",
+                "be deserted"
+            ],
+            "fre": [
+                "\u00eatre ou devenir d\u00e9sert",
+                "\u00eatre d\u00e9pourvu",
+                "devenir st\u00e9rile",
+                "lettre sodh\u00eb"
+            ]
+        },
+        "word": {
+            "id": 17347,
+            "uri": "https://sedra.bethmardutho.org/api/word/17347.json"
+        }
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "syriac": "\u0718\u0729\u072b\u071d\u072b\u071d\u071f\u0718\u0722",
+        "western": "\u0718\u0729\u0730\u072b\u073a\u071d\u072b\u0730\u071d\u071f\u0741\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2898,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2898.json"
+        },
+        "stem": "\u0729\u072b\u071d\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0642\u062f\u0645",
+                "\u0623\u0643\u0628\u0631, \u0628\u0643\u0631",
+                "\u0634\u064a\u062e",
+                "\u0645\u062a\u0631\u0626\u0633",
+                "\u062c\u062f",
+                "\u0643\u0627\u0647\u0646",
+                "\u0642\u062f\u064a\u0645"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u0729\u0730\u072b\u073a\u071d\u072b\u072c\u0733\u0710</span> grandmother.",
+                "ancestor",
+                "elder",
+                "grandfather",
+                "priest",
+                "eldest"
+            ],
+            "fre": [
+                "vieux",
+                "ancien",
+                "pr\u00eatre",
+                "venu avant",
+                "a\u00efeul",
+                "plus \u00e2g\u00e9, a\u00een\u00e9",
+                "qui pr\u00e9side"
+            ]
+        },
+        "word": {
+            "id": 18876,
+            "uri": "https://sedra.bethmardutho.org/api/word/18876.json"
+        }
+    }
+]

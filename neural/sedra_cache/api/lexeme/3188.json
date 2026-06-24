@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 3188,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3188.json"
+        },
+        "syriac": "\u072b\u071d\u0726\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0648\u0642"
+            ],
+            "French": [
+                "trompette"
+            ],
+            "English": [
+                "trumpet",
+                "trumpet."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1857,
+            "uri": "https://sedra.bethmardutho.org/api/root/1857.json"
+        },
+        "words": [
+            {
+                "id": 20882,
+                "uri": "https://sedra.bethmardutho.org/api/word/20882.json"
+            },
+            {
+                "id": 20881,
+                "uri": "https://sedra.bethmardutho.org/api/word/20881.json"
+            },
+            {
+                "id": 20885,
+                "uri": "https://sedra.bethmardutho.org/api/word/20885.json"
+            },
+            {
+                "id": 20884,
+                "uri": "https://sedra.bethmardutho.org/api/word/20884.json"
+            },
+            {
+                "id": 20883,
+                "uri": "https://sedra.bethmardutho.org/api/word/20883.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

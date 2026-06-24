@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 221,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/221.json"
+        },
+        "syriac": "\u0710\u0723\u071d\u0710",
+        "glosses": {
+            "English": [
+                "physician",
+                "doctor, physician, healer."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 166,
+            "uri": "https://sedra.bethmardutho.org/api/root/166.json"
+        },
+        "words": [
+            {
+                "id": 1618,
+                "uri": "https://sedra.bethmardutho.org/api/word/1618.json"
+            },
+            {
+                "id": 1619,
+                "uri": "https://sedra.bethmardutho.org/api/word/1619.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

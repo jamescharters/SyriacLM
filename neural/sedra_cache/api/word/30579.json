@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0723\u072c\u072a\u0722\u0710",
+        "western": "\u0721\u0723\u0730\u072c\u072a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6987,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6987.json"
+        },
+        "stem": "\u0721\u0723\u072c\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u0627\u0645"
+            ],
+            "eng": [
+                "protecting, sheltering.",
+                "protector"
+            ],
+            "fre": [
+                "d\u00e9fenseur"
+            ]
+        },
+        "word": {
+            "id": 30579,
+            "uri": "https://sedra.bethmardutho.org/api/word/30579.json"
+        }
+    }
+]

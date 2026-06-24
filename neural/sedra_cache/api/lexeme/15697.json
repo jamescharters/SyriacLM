@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15697,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15697.json"
+        },
+        "syriac": "\u0728\u072a",
+        "glosses": {
+            "English": [
+                "to be dazzled (see also <span class=\"selectableFont\">\u0728\u0718\u0730\u072a</span>). {new}",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0728\u073d\u0718\u072a</span>, Ia to feel giddy"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2117,
+            "uri": "https://sedra.bethmardutho.org/api/root/2117.json"
+        },
+        "words": [
+            {
+                "id": 41680,
+                "uri": "https://sedra.bethmardutho.org/api/word/41680.json"
+            },
+            {
+                "id": 41191,
+                "uri": "https://sedra.bethmardutho.org/api/word/41191.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

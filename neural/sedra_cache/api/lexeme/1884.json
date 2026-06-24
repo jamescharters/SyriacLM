@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 1884,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1884.json"
+        },
+        "syriac": "\u0721\u072c\u0720\u0710",
+        "glosses": {
+            "English": [
+                "parable",
+                "proverb",
+                "similitude"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1126,
+            "uri": "https://sedra.bethmardutho.org/api/root/1126.json"
+        },
+        "words": [
+            {
+                "id": 12369,
+                "uri": "https://sedra.bethmardutho.org/api/word/12369.json"
+            },
+            {
+                "id": 12368,
+                "uri": "https://sedra.bethmardutho.org/api/word/12368.json"
+            },
+            {
+                "id": 12367,
+                "uri": "https://sedra.bethmardutho.org/api/word/12367.json"
+            },
+            {
+                "id": 12366,
+                "uri": "https://sedra.bethmardutho.org/api/word/12366.json"
+            },
+            {
+                "id": 12365,
+                "uri": "https://sedra.bethmardutho.org/api/word/12365.json"
+            },
+            {
+                "id": 12371,
+                "uri": "https://sedra.bethmardutho.org/api/word/12371.json"
+            },
+            {
+                "id": 12370,
+                "uri": "https://sedra.bethmardutho.org/api/word/12370.json"
+            },
+            {
+                "id": 12372,
+                "uri": "https://sedra.bethmardutho.org/api/word/12372.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

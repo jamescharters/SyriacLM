@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 7772,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7772.json"
+        },
+        "syriac": "\u0726\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "tranch\u00e9e"
+            ],
+            "English": [
+                "trench",
+                "a fosse, trench",
+                "camp (of army)."
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "fossa"
+            ],
+            "Greek": [
+                "\u03c6\u03cc\u03c3\u03c3\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 44501,
+                "uri": "https://sedra.bethmardutho.org/api/word/44501.json"
+            },
+            {
+                "id": 29989,
+                "uri": "https://sedra.bethmardutho.org/api/word/29989.json"
+            }
+        ]
+    }
+]

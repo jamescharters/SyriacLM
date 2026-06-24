@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 2438,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2438.json"
+        },
+        "syriac": "\u0725\u0718\u072c\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0646\u0649"
+            ],
+            "French": [
+                "richesse"
+            ],
+            "English": [
+                "riches, wealth.",
+                "wealth",
+                "riches"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1441,
+            "uri": "https://sedra.bethmardutho.org/api/root/1441.json"
+        },
+        "words": [
+            {
+                "id": 16088,
+                "uri": "https://sedra.bethmardutho.org/api/word/16088.json"
+            },
+            {
+                "id": 16087,
+                "uri": "https://sedra.bethmardutho.org/api/word/16087.json"
+            },
+            {
+                "id": 16086,
+                "uri": "https://sedra.bethmardutho.org/api/word/16086.json"
+            },
+            {
+                "id": 16085,
+                "uri": "https://sedra.bethmardutho.org/api/word/16085.json"
+            },
+            {
+                "id": 16089,
+                "uri": "https://sedra.bethmardutho.org/api/word/16089.json"
+            },
+            {
+                "id": 16091,
+                "uri": "https://sedra.bethmardutho.org/api/word/16091.json"
+            },
+            {
+                "id": 16090,
+                "uri": "https://sedra.bethmardutho.org/api/word/16090.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

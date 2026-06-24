@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u0723\u071f\u071d\u0721\u072c\u0722\u0710",
+        "western": "\u0710\u0736\u0723\u071f\u073a\u071d\u0721\u072c\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7307,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7307.json"
+        },
+        "stem": "\u0710\u0723\u071f\u071d\u0721\u072c\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u0627\u0621",
+                "\u0641\u0627\u0636\u0644",
+                "\u0637\u0627\u0647\u0631"
+            ],
+            "eng": [
+                "dissembler",
+                "modest.",
+                "honest"
+            ],
+            "fre": [
+                "hypocrite",
+                "honn\u00eate",
+                "\u0320 pudique"
+            ]
+        },
+        "word": {
+            "id": 37667,
+            "uri": "https://sedra.bethmardutho.org/api/word/37667.json"
+        }
+    }
+]

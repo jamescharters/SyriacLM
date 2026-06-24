@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 3231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3231.json"
+        },
+        "syriac": "\u072b\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "drop",
+                "clot, drop (of blood)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1880,
+            "uri": "https://sedra.bethmardutho.org/api/root/1880.json"
+        },
+        "words": [
+            {
+                "id": 21290,
+                "uri": "https://sedra.bethmardutho.org/api/word/21290.json"
+            },
+            {
+                "id": 20811,
+                "uri": "https://sedra.bethmardutho.org/api/word/20811.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

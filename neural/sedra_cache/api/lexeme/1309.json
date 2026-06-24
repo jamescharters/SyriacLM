@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1309,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1309.json"
+        },
+        "syriac": "\u071d\u0717\u0718\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0627\u0647\u0628"
+            ],
+            "French": [
+                "donateur"
+            ],
+            "English": [
+                "giver",
+                "giver."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 769,
+            "uri": "https://sedra.bethmardutho.org/api/root/769.json"
+        },
+        "words": [
+            {
+                "id": 8811,
+                "uri": "https://sedra.bethmardutho.org/api/word/8811.json"
+            },
+            {
+                "id": 8812,
+                "uri": "https://sedra.bethmardutho.org/api/word/8812.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

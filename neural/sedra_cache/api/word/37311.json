@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u0723\u0729\u0722\u0710",
+        "western": "\u0721\u0730\u0723\u0729\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8972,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8972.json"
+        },
+        "stem": "\u0721\u0723\u0729\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0639\u0648\u062f"
+            ],
+            "eng": [
+                "causing to rise",
+                "Kth. elevator.",
+                "stairs, steps",
+                "ascent, slope"
+            ],
+            "fre": [
+                "mont\u00e9e"
+            ]
+        },
+        "word": {
+            "id": 37311,
+            "uri": "https://sedra.bethmardutho.org/api/word/37311.json"
+        }
+    }
+]

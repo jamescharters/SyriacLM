@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u0715\u072a",
+        "western": "\u0721\u0730\u0715\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15303,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15303.json"
+        },
+        "stem": "\u0721\u0715\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0641\u0633\u062f"
+            ],
+            "eng": [
+                "IIIa to crumble to dust.",
+                "IIa to go bad (of eggs, fruit)"
+            ],
+            "fre": [
+                "corrompre"
+            ]
+        },
+        "word": {
+            "id": 40485,
+            "uri": "https://sedra.bethmardutho.org/api/word/40485.json"
+        }
+    }
+]

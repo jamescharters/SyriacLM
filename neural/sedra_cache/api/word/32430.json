@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0729\u0710",
+        "western": "\u0710\u0730\u0712\u0729\u0733\u0710",
+        "eastern": "\u0710\u0732\u0712\u0742\u0729\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5842,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5842.json"
+        },
+        "stem": "\u0710\u0712\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0628\u0627\u0631"
+            ],
+            "eng": [
+                "fine dust, sand."
+            ],
+            "fre": [
+                "poussi\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 32430,
+            "uri": "https://sedra.bethmardutho.org/api/word/32430.json"
+        }
+    }
+]

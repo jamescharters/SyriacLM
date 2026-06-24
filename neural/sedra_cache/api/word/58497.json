@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0726\u071d\u0715\u0723",
+        "western": "\u0723\u0730\u072a\u0726\u071d\u0715\u0736\u0723",
+        "lexeme": {
+            "id": 32123,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/32123.json"
+        },
+        "stem": "\u0723\u072a\u0726\u071d\u0715\u0723",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Serapis"
+            ]
+        },
+        "word": {
+            "id": 58497,
+            "uri": "https://sedra.bethmardutho.org/api/word/58497.json"
+        }
+    }
+]

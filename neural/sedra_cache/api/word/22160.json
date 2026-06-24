@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072b\u072a\u071a",
+        "western": "\u072b\u072a\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3321,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3321.json"
+        },
+        "stem": "\u072b\u072a\u071a",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "burn with passion"
+            ]
+        },
+        "word": {
+            "id": 22160,
+            "uri": "https://sedra.bethmardutho.org/api/word/22160.json"
+        }
+    }
+]

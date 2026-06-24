@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072b\u0712",
+        "western": "\u072b\u0733\u0712\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3133,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3133.json"
+        },
+        "stem": "\u072b\u0718\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to wither, to be scorched",
+                "wither",
+                "IIp.",
+                "IIa <span class=\"selectableFont\">\u072b\u0730\u071d\u0736\u0712</span> to blight"
+            ]
+        },
+        "word": {
+            "id": 20564,
+            "uri": "https://sedra.bethmardutho.org/api/word/20564.json"
+        }
+    }
+]

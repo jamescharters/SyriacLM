@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u071d\u0729\u071d\u072a\u0718\u072c\u0710",
+        "western": "\u071d\u0730\u0729\u073a\u071d\u072a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11854,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11854.json"
+        },
+        "stem": "\u071d\u0729\u071d\u072a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0632\u0627\u0646\u0629",
+                "\u062b\u0642\u0644"
+            ],
+            "eng": [
+                "seriousness, dignity, reverence, honor",
+                "heaviness, weight",
+                "sluggishness",
+                "furniture."
+            ],
+            "fre": [
+                "gravit\u00e9",
+                "lourdeur"
+            ]
+        },
+        "word": {
+            "id": 38733,
+            "uri": "https://sedra.bethmardutho.org/api/word/38733.json"
+        }
+    }
+]

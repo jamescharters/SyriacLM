@@ -1,0 +1,72 @@
+[
+    {
+        "lexeme": {
+            "id": 2737,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2737.json"
+        },
+        "syriac": "\u0729\u0712\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0628\u0631"
+            ],
+            "French": [
+                "tombe"
+            ],
+            "English": [
+                "tomb",
+                "sepulchre",
+                "grave",
+                "grave, tomb."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1617,
+            "uri": "https://sedra.bethmardutho.org/api/root/1617.json"
+        },
+        "words": [
+            {
+                "id": 17801,
+                "uri": "https://sedra.bethmardutho.org/api/word/17801.json"
+            },
+            {
+                "id": 17800,
+                "uri": "https://sedra.bethmardutho.org/api/word/17800.json"
+            },
+            {
+                "id": 17799,
+                "uri": "https://sedra.bethmardutho.org/api/word/17799.json"
+            },
+            {
+                "id": 17798,
+                "uri": "https://sedra.bethmardutho.org/api/word/17798.json"
+            },
+            {
+                "id": 17797,
+                "uri": "https://sedra.bethmardutho.org/api/word/17797.json"
+            },
+            {
+                "id": 17796,
+                "uri": "https://sedra.bethmardutho.org/api/word/17796.json"
+            },
+            {
+                "id": 17795,
+                "uri": "https://sedra.bethmardutho.org/api/word/17795.json"
+            },
+            {
+                "id": 17803,
+                "uri": "https://sedra.bethmardutho.org/api/word/17803.json"
+            },
+            {
+                "id": 17802,
+                "uri": "https://sedra.bethmardutho.org/api/word/17802.json"
+            },
+            {
+                "id": 17804,
+                "uri": "https://sedra.bethmardutho.org/api/word/17804.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

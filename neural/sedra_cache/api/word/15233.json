@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0725\u0719\u0710",
+        "western": "\u0725\u0736\u0719\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2294,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2294.json"
+        },
+        "stem": "\u0725\u0719\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "goat.",
+                "goat"
+            ],
+            "fre": [
+                "ch\u00e8vre\u2026"
+            ]
+        },
+        "word": {
+            "id": 15233,
+            "uri": "https://sedra.bethmardutho.org/api/word/15233.json"
+        }
+    }
+]

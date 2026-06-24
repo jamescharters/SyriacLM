@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15227,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15227.json"
+        },
+        "syriac": "\u0722\u071d\u072a",
+        "glosses": {
+            "English": [
+                "IIa to set alight",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0722\u0730\u0718\u0730\u072a</span>, <span class=\"selectableFont\">\u0710\u0736\u072c\u0722\u0730\u071d\u0730\u072a</span>."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2711,
+            "uri": "https://sedra.bethmardutho.org/api/root/2711.json"
+        },
+        "words": [
+            {
+                "id": 41487,
+                "uri": "https://sedra.bethmardutho.org/api/word/41487.json"
+            },
+            {
+                "id": 41462,
+                "uri": "https://sedra.bethmardutho.org/api/word/41462.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2068,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2068.json"
+        },
+        "syriac": "\u0723\u0713\u0718\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0627\u062c\u062f"
+            ],
+            "French": [
+                "adorateur"
+            ],
+            "English": [
+                "worshipper",
+                "worshipper."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1233,
+            "uri": "https://sedra.bethmardutho.org/api/root/1233.json"
+        },
+        "words": [
+            {
+                "id": 22822,
+                "uri": "https://sedra.bethmardutho.org/api/word/22822.json"
+            },
+            {
+                "id": 13769,
+                "uri": "https://sedra.bethmardutho.org/api/word/13769.json"
+            },
+            {
+                "id": 13770,
+                "uri": "https://sedra.bethmardutho.org/api/word/13770.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

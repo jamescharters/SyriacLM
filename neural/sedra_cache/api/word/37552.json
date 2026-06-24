@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0726\u071b\u071a\u072b\u0710",
+        "western": "\u0726\u071b\u0730\u071a\u072b\u0733\u0710",
+        "eastern": "\u0726\u071b\u0732\u071a\u072b\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7884,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7884.json"
+        },
+        "stem": "\u0726\u071b\u071a\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u0632\u0628\u0627\u0646"
+            ],
+            "eng": [
+                "a governor",
+                "chief-satrap",
+                "governor."
+            ],
+            "fre": [
+                "satrape"
+            ]
+        },
+        "word": {
+            "id": 37552,
+            "uri": "https://sedra.bethmardutho.org/api/word/37552.json"
+        }
+    }
+]

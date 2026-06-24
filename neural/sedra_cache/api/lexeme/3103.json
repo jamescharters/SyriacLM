@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 3103,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3103.json"
+        },
+        "syriac": "\u072b\u0712\u071d\u0720\u0710",
+        "glosses": {
+            "English": [
+                "path",
+                "path, road."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1806,
+            "uri": "https://sedra.bethmardutho.org/api/root/1806.json"
+        },
+        "words": [
+            {
+                "id": 20209,
+                "uri": "https://sedra.bethmardutho.org/api/word/20209.json"
+            },
+            {
+                "id": 20212,
+                "uri": "https://sedra.bethmardutho.org/api/word/20212.json"
+            },
+            {
+                "id": 20211,
+                "uri": "https://sedra.bethmardutho.org/api/word/20211.json"
+            },
+            {
+                "id": 20210,
+                "uri": "https://sedra.bethmardutho.org/api/word/20210.json"
+            },
+            {
+                "id": 20213,
+                "uri": "https://sedra.bethmardutho.org/api/word/20213.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

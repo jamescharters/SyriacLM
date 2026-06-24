@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071b\u0712\u0712",
+        "western": "\u071b\u0712\u0712",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14989,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14989.json"
+        },
+        "stem": "\u071b\u0712\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa to bring news, report",
+                "to make known, relate",
+                "IIa to publish abroad",
+                "IIp to be published abroad",
+                "to inform.",
+                "to be renowned, to acquire fame",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u071b\u0712\u0736\u0712</span> to be published, spread abroad"
+            ]
+        },
+        "word": {
+            "id": 40240,
+            "uri": "https://sedra.bethmardutho.org/api/word/40240.json"
+        }
+    }
+]

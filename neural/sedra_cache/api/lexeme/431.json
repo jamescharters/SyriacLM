@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 431,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/431.json"
+        },
+        "syriac": "\u0712\u0725\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0639\u0633",
+                "\u0631\u0641\u0633",
+                "\u0635\u0631\u0639"
+            ],
+            "French": [
+                "pi\u00e9tiner",
+                "regimber",
+                "renverser"
+            ],
+            "English": [
+                "kick",
+                "to trample",
+                "IIa to kick violently.",
+                "Ia to kick"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 295,
+            "uri": "https://sedra.bethmardutho.org/api/root/295.json"
+        },
+        "words": [
+            {
+                "id": 3026,
+                "uri": "https://sedra.bethmardutho.org/api/word/3026.json"
+            },
+            {
+                "id": 3028,
+                "uri": "https://sedra.bethmardutho.org/api/word/3028.json"
+            },
+            {
+                "id": 3027,
+                "uri": "https://sedra.bethmardutho.org/api/word/3027.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3544,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3544.json"
+        },
+        "syriac": "\u0721\u072b\u0725\u0712\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0628\u062f",
+                "\u062e\u0627\u062f\u0645"
+            ],
+            "French": [
+                "serf",
+                "serviteur"
+            ],
+            "English": [
+                "subjected"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1328,
+            "uri": "https://sedra.bethmardutho.org/api/root/1328.json"
+        },
+        "words": [
+            {
+                "id": 23549,
+                "uri": "https://sedra.bethmardutho.org/api/word/23549.json"
+            },
+            {
+                "id": 14742,
+                "uri": "https://sedra.bethmardutho.org/api/word/14742.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "shaph\u02bfel"
+    }
+]

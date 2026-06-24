@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2718,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2718.json"
+        },
+        "syriac": "\u0728\u072a\u0726\u072c",
+        "glosses": {
+            "English": [
+                "Sarepta"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1610,
+            "uri": "https://sedra.bethmardutho.org/api/root/1610.json"
+        },
+        "words": [
+            {
+                "id": 17634,
+                "uri": "https://sedra.bethmardutho.org/api/word/17634.json"
+            },
+            {
+                "id": 17635,
+                "uri": "https://sedra.bethmardutho.org/api/word/17635.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

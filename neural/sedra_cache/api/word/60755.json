@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0721\u072b\u071a",
+        "western": "\u0721\u0730\u072b\u0730\u071a",
+        "lexeme": {
+            "id": 34400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/34400.json"
+        },
+        "stem": "\u0721\u072b\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to measure"
+            ]
+        },
+        "word": {
+            "id": 60755,
+            "uri": "https://sedra.bethmardutho.org/api/word/60755.json"
+        }
+    }
+]

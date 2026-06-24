@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2379,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2379.json"
+        },
+        "syriac": "\u0725\u0723\u072a\u072c \u0721\u0715\u071d\u0722\u072c\u0710",
+        "glosses": {
+            "English": [
+                "Decapolis"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1410,
+            "uri": "https://sedra.bethmardutho.org/api/root/1410.json"
+        },
+        "words": [
+            {
+                "id": 15858,
+                "uri": "https://sedra.bethmardutho.org/api/word/15858.json"
+            },
+            {
+                "id": 15857,
+                "uri": "https://sedra.bethmardutho.org/api/word/15857.json"
+            },
+            {
+                "id": 15856,
+                "uri": "https://sedra.bethmardutho.org/api/word/15856.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

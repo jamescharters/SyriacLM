@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1777,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1777.json"
+        },
+        "syriac": "\u0721\u0720\u071a\u0710",
+        "glosses": {
+            "English": [
+                "salt",
+                "salt."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1062,
+            "uri": "https://sedra.bethmardutho.org/api/root/1062.json"
+        },
+        "words": [
+            {
+                "id": 11734,
+                "uri": "https://sedra.bethmardutho.org/api/word/11734.json"
+            },
+            {
+                "id": 11733,
+                "uri": "https://sedra.bethmardutho.org/api/word/11733.json"
+            },
+            {
+                "id": 11732,
+                "uri": "https://sedra.bethmardutho.org/api/word/11732.json"
+            },
+            {
+                "id": 11735,
+                "uri": "https://sedra.bethmardutho.org/api/word/11735.json"
+            },
+            {
+                "id": 11736,
+                "uri": "https://sedra.bethmardutho.org/api/word/11736.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

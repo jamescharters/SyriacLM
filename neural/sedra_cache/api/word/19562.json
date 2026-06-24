@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a\u071a\u0721\u0718\u0717\u071d",
+        "western": "\u072a\u0733\u071a\u0721\u0730\u0718\u0717\u0331\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2998,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2998.json"
+        },
+        "stem": "\u072a\u071a\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "friend",
+                "friend."
+            ]
+        },
+        "word": {
+            "id": 19562,
+            "uri": "https://sedra.bethmardutho.org/api/word/19562.json"
+        }
+    }
+]

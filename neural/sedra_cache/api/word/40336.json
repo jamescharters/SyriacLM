@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0728\u0715\u072a",
+        "western": "\u0728\u0715\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15736,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15736.json"
+        },
+        "stem": "\u0728\u0715\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ip to be seized with fright",
+                "<span class=\"selectableFont\">\u0728\u0733\u0715\u0730\u072a \u0720\u0736\u072b\u0733\u0722\u0733\u0710</span> to be tongue-tied",
+                "Ia to be drunken",
+                "IIIa to make drunk.",
+                "IIp to be giddy, dizzy"
+            ]
+        },
+        "word": {
+            "id": 40336,
+            "uri": "https://sedra.bethmardutho.org/api/word/40336.json"
+        }
+    }
+]

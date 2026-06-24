@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u071b\u071d\u072a",
+        "western": "\u071b\u0730\u071d\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14781,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14781.json"
+        },
+        "stem": "\u071b\u071d\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062b (\u0627\u0644\u0639\u0642\u0644)",
+                "\u0637\u064a\u0631"
+            ],
+            "eng": [
+                "to cause to fly.",
+                "IIa to make to fly."
+            ],
+            "fre": [
+                "faire voler",
+                "exciter ( l&#39;esprit)"
+            ]
+        },
+        "word": {
+            "id": 40494,
+            "uri": "https://sedra.bethmardutho.org/api/word/40494.json"
+        }
+    }
+]

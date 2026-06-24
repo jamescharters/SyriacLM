@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15294,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15294.json"
+        },
+        "syriac": "\u072b\u0721\u072b",
+        "glosses": {
+            "English": [
+                "2 IIa to expose to the sun",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2090,
+            "uri": "https://sedra.bethmardutho.org/api/root/2090.json"
+        },
+        "words": [
+            {
+                "id": 41035,
+                "uri": "https://sedra.bethmardutho.org/api/word/41035.json"
+            },
+            {
+                "id": 40942,
+                "uri": "https://sedra.bethmardutho.org/api/word/40942.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

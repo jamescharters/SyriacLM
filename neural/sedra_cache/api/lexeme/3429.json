@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 3429,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3429.json"
+        },
+        "syriac": "\u072c\u0729\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0644\u0628, \u0648\u0637\u064a\u062f, \u062c\u064a\u062f",
+                "\u062f\u0627\u0626\u0645",
+                "\u062d\u0627\u0636\u0631",
+                "\u0623\u0645\u064a\u0646, \u0645\u0633\u062a\u0642\u064a\u0645",
+                "\u0645\u0623\u0645\u0646"
+            ],
+            "French": [
+                "ferme, solide, bon",
+                "qui dure",
+                "pr\u00eat",
+                "honn\u00eate, droit",
+                "lieu s\u00fbr"
+            ],
+            "English": [
+                "honest",
+                "good",
+                "correct",
+                "firm",
+                "stable, firm, steadfast, reliable."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1990,
+            "uri": "https://sedra.bethmardutho.org/api/root/1990.json"
+        },
+        "words": [
+            {
+                "id": 22639,
+                "uri": "https://sedra.bethmardutho.org/api/word/22639.json"
+            },
+            {
+                "id": 22643,
+                "uri": "https://sedra.bethmardutho.org/api/word/22643.json"
+            },
+            {
+                "id": 22642,
+                "uri": "https://sedra.bethmardutho.org/api/word/22642.json"
+            },
+            {
+                "id": 22640,
+                "uri": "https://sedra.bethmardutho.org/api/word/22640.json"
+            },
+            {
+                "id": 22641,
+                "uri": "https://sedra.bethmardutho.org/api/word/22641.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

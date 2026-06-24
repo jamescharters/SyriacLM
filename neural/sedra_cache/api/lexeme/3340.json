@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3340,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3340.json"
+        },
+        "syriac": "\u072b\u072c\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0643\u0648\u062a"
+            ],
+            "French": [
+                "silence"
+            ],
+            "English": [
+                "silence.",
+                "silence"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1936,
+            "uri": "https://sedra.bethmardutho.org/api/root/1936.json"
+        },
+        "words": [
+            {
+                "id": 22259,
+                "uri": "https://sedra.bethmardutho.org/api/word/22259.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

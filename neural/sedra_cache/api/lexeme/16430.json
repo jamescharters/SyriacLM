@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 16430,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16430.json"
+        },
+        "syriac": "\u0710\u0712\u0722\u0718\u0723",
+        "glosses": {
+            "English": [
+                "ebenum",
+                "Ebony"
+            ],
+            "Greek": [
+                "\u1f14\u03b2\u03b5\u03bd\u03bf\u03c2"
+            ],
+            "Arabic": [
+                "\u0623\u0628\u0646\u0648\u0633"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f14\u03b2\u03b5\u03bd\u03bf\u03c2 deom Egypt. hbny",
+                "\u1f14\u03b2\u03b5\u03bd\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 46640,
+                "uri": "https://sedra.bethmardutho.org/api/word/46640.json"
+            },
+            {
+                "id": 42804,
+                "uri": "https://sedra.bethmardutho.org/api/word/42804.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0712\u071b\u0710",
+        "western": "\u0712\u0730\u071b\u0733\u0710",
+        "eastern": "\u0712\u0732\u071b\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10181,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10181.json"
+        },
+        "stem": "\u0712\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0637\u0629"
+            ],
+            "eng": [
+                "duck",
+                "duck."
+            ],
+            "fre": [
+                "canard"
+            ]
+        },
+        "word": {
+            "id": 39762,
+            "uri": "https://sedra.bethmardutho.org/api/word/39762.json"
+        }
+    }
+]

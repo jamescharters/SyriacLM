@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 15559,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15559.json"
+        },
+        "syriac": "\u0720\u071b\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0646",
+                "\u0635\u0642\u0644",
+                "\u062d\u062b",
+                "\u00a0"
+            ],
+            "French": [
+                "aiguiser",
+                "polir",
+                "exciter",
+                "\u00a0"
+            ],
+            "English": [
+                "to urge, encourage",
+                "to rub, polish, smear",
+                "to provoke, incite",
+                "Ia to hammer, sharpen",
+                "Ip + -<span class=\"selectableFont\">\u0720\u200d</span> to be keen on."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c0\u03b1\u03c1\u03bf\u03be\u03cd\u03bd\u03c9"
+            ]
+        },
+        "root": {
+            "id": 2884,
+            "uri": "https://sedra.bethmardutho.org/api/root/2884.json"
+        },
+        "words": [
+            {
+                "id": 41808,
+                "uri": "https://sedra.bethmardutho.org/api/word/41808.json"
+            },
+            {
+                "id": 41144,
+                "uri": "https://sedra.bethmardutho.org/api/word/41144.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

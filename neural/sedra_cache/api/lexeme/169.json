@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 169,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/169.json"
+        },
+        "syriac": "\u0710\u0721\u0726\u071d\u0726\u0718\u0720\u071d\u0723",
+        "glosses": {
+            "English": [
+                "Amphipolis"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "Amphipolis"
+            ]
+        },
+        "root": {
+            "id": 123,
+            "uri": "https://sedra.bethmardutho.org/api/root/123.json"
+        },
+        "words": [
+            {
+                "id": 1231,
+                "uri": "https://sedra.bethmardutho.org/api/word/1231.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

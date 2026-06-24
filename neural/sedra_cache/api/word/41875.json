@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0720\u0718\u0713",
+        "western": "\u0722\u0736\u0713\u0720\u073d\u0718\u0713",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15725,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15725.json"
+        },
+        "stem": "\u0713\u0720\u0713",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0641\u0639",
+                "\u00a0",
+                "\u0644\u0641",
+                "\u0643\u0634\u0641"
+            ],
+            "eng": [
+                "to disperse (of mist)",
+                "IIa to unveil, lay bare",
+                "Ia to draw aside (veil, curtains)",
+                "IIp to be drawn (of curtains)."
+            ],
+            "fre": [
+                "rouler",
+                "\u00f4ter",
+                "d\u00e9voiler",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 41875,
+            "uri": "https://sedra.bethmardutho.org/api/word/41875.json"
+        }
+    }
+]

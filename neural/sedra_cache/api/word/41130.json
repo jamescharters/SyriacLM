@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0726\u072b\u071f",
+        "western": "\u0726\u0730\u072b\u0736\u071f",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15086,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15086.json"
+        },
+        "stem": "\u0726\u072b\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp to hesitate, to be in doubt.",
+                "IIa to cause to doubt"
+            ]
+        },
+        "word": {
+            "id": 41130,
+            "uri": "https://sedra.bethmardutho.org/api/word/41130.json"
+        }
+    }
+]

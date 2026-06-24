@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 615,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/615.json"
+        },
+        "syriac": "\u0713\u0725\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0631\u0627\u062e"
+            ],
+            "French": [
+                "clameur"
+            ],
+            "English": [
+                "cry",
+                "crying out",
+                "outcry",
+                "bellow, shout, cry."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 393,
+            "uri": "https://sedra.bethmardutho.org/api/root/393.json"
+        },
+        "words": [
+            {
+                "id": 3937,
+                "uri": "https://sedra.bethmardutho.org/api/word/3937.json"
+            },
+            {
+                "id": 3936,
+                "uri": "https://sedra.bethmardutho.org/api/word/3936.json"
+            },
+            {
+                "id": 3935,
+                "uri": "https://sedra.bethmardutho.org/api/word/3935.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0718\u0720\u0728\u0722\u0710",
+        "western": "\u0715\u0741\u073d\u0710\u0718\u0720\u0728\u0733\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 154,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/154.json"
+        },
+        "stem": "\u0710\u0718\u0720\u0728\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0631\u0648\u0631\u0629",
+                "\u062d\u0635\u0627\u0631"
+            ],
+            "eng": [
+                "oppression",
+                "tribulation",
+                "distress, straits, affliction.",
+                "affliction"
+            ],
+            "fre": [
+                "n\u00e9cessit\u00e9",
+                "si\u00e8ge"
+            ]
+        },
+        "word": {
+            "id": 22905,
+            "uri": "https://sedra.bethmardutho.org/api/word/22905.json"
+        }
+    }
+]

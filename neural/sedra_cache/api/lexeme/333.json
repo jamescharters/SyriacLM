@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 333,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/333.json"
+        },
+        "syriac": "\u0712\u0712\u0720",
+        "glosses": {
+            "English": [
+                "Babylon"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 243,
+            "uri": "https://sedra.bethmardutho.org/api/root/243.json"
+        },
+        "words": [
+            {
+                "id": 2303,
+                "uri": "https://sedra.bethmardutho.org/api/word/2303.json"
+            },
+            {
+                "id": 2302,
+                "uri": "https://sedra.bethmardutho.org/api/word/2302.json"
+            },
+            {
+                "id": 2301,
+                "uri": "https://sedra.bethmardutho.org/api/word/2301.json"
+            },
+            {
+                "id": 2300,
+                "uri": "https://sedra.bethmardutho.org/api/word/2300.json"
+            },
+            {
+                "id": 2299,
+                "uri": "https://sedra.bethmardutho.org/api/word/2299.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

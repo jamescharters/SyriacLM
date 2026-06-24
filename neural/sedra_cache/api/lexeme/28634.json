@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 28634,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28634.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0716\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f60\u03c1\u03ac\u03c1\u03b9\u03bf\u03bd"
+            ],
+            "Latin": [
+                "orarium"
+            ],
+            "English": [
+                "handkerchief,kerchief, scarf"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f40\u03c1\u03ac\u03c1\u03b9\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 55008,
+                "uri": "https://sedra.bethmardutho.org/api/word/55008.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

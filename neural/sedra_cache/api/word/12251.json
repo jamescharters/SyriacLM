@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0721\u072a\u071b",
+        "western": "\u0721\u072a\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1855,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1855.json"
+        },
+        "stem": "\u0721\u072a\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0631\u062f (\u0645\u0636)",
+                "\u0642\u0644\u0639",
+                ""
+            ],
+            "eng": [
+                "Ia to pluck, pull out (hair etc.)",
+                "IIa to pluck out, tear off",
+                "IIp.",
+                "Ip",
+                "pluck"
+            ],
+            "fre": [
+                "",
+                "d\u00e9pouiller",
+                "arracher"
+            ]
+        },
+        "word": {
+            "id": 12251,
+            "uri": "https://sedra.bethmardutho.org/api/word/12251.json"
+        }
+    }
+]

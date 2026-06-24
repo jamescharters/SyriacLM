@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0712\u0718\u072a\u0715\u0725\u071d\u0710",
+        "western": "\u0712\u0718\u073d\u072a\u0715\u0725\u0733\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 18498,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18498.json"
+        },
+        "stem": "\u0712\u0718\u072a\u0715\u0725\u071d\u0710",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "syr": [
+                "Baradaeus, a nickname for James, Bishop of Edessa"
+            ]
+        },
+        "word": {
+            "id": 44872,
+            "uri": "https://sedra.bethmardutho.org/api/word/44872.json"
+        }
+    }
+]

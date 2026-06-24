@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 2055,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2055.json"
+        },
+        "syriac": "\u0721\u0723\u0712\u072a\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "preaching",
+                "preaching",
+                "expectation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1231,
+            "uri": "https://sedra.bethmardutho.org/api/root/1231.json"
+        },
+        "words": [
+            {
+                "id": 29691,
+                "uri": "https://sedra.bethmardutho.org/api/word/29691.json"
+            },
+            {
+                "id": 29690,
+                "uri": "https://sedra.bethmardutho.org/api/word/29690.json"
+            },
+            {
+                "id": 13508,
+                "uri": "https://sedra.bethmardutho.org/api/word/13508.json"
+            },
+            {
+                "id": 13511,
+                "uri": "https://sedra.bethmardutho.org/api/word/13511.json"
+            },
+            {
+                "id": 13510,
+                "uri": "https://sedra.bethmardutho.org/api/word/13510.json"
+            },
+            {
+                "id": 13509,
+                "uri": "https://sedra.bethmardutho.org/api/word/13509.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

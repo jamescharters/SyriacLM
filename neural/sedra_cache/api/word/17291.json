@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0712\u0728\u0712\u071d\u0722\u071d",
+        "western": "\u0712\u0741\u0728\u0736\u0712\u0742\u071d\u0733\u0722\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2654,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2654.json"
+        },
+        "stem": "\u0728\u0712\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "will",
+                "desire",
+                "will."
+            ]
+        },
+        "word": {
+            "id": 17291,
+            "uri": "https://sedra.bethmardutho.org/api/word/17291.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0722\u072a\u0715\u0726\u0718\u0722",
+        "western": "\u0722\u0736\u072a\u0715\u0741\u0726\u0742\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2949,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2949.json"
+        },
+        "stem": "\u072a\u0715\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0628\u0639",
+                "\u062f\u0641\u0639",
+                "\u0637\u0631\u062f"
+            ],
+            "eng": [
+                "Ia to pursue, chase, persecute",
+                "follow",
+                "IIp to be put to flight.",
+                "persecute",
+                "Ip"
+            ],
+            "fre": [
+                "pousser",
+                "suivre",
+                "chasser"
+            ]
+        },
+        "word": {
+            "id": 19244,
+            "uri": "https://sedra.bethmardutho.org/api/word/19244.json"
+        }
+    }
+]

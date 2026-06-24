@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14752,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14752.json"
+        },
+        "syriac": "\u0729\u0718\u071b\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0648\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "entasser",
+                "\u00a0"
+            ],
+            "English": [
+                "to go around.",
+                "IVa to heap up"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2543,
+            "uri": "https://sedra.bethmardutho.org/api/root/2543.json"
+        },
+        "words": [
+            {
+                "id": 46205,
+                "uri": "https://sedra.bethmardutho.org/api/word/46205.json"
+            },
+            {
+                "id": 40962,
+                "uri": "https://sedra.bethmardutho.org/api/word/40962.json"
+            },
+            {
+                "id": 39820,
+                "uri": "https://sedra.bethmardutho.org/api/word/39820.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

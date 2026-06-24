@@ -1,0 +1,54 @@
+[
+    {
+        "syriac": "\u0718\u0720\u071f\u071d\u0722",
+        "western": "\u0718\u0730\u0720\u071f\u0742\u0736\u071d\u0722",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 1613,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1613.json"
+        },
+        "stem": "\u0720",
+        "category": "preposition",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0643\u0627\u0646, \u0644\u0640",
+                "\u062d\u0633\u0628",
+                "\u0632\u0645\u0646\u064a\u0629",
+                "\u0625\u0644\u0649, \u062d\u062a\u0649",
+                "\u0628\u0640, \u0639\u0646\u062f, \u062d\u062a\u0649, \u0628\u0639\u062f",
+                "30",
+                "\u0644\u064a , etc.",
+                "\u0628\u0648\u062c\u0647, \u0636\u062f",
+                "\u0628\u0633\u0628\u0628, \u0644\u0623\u062c\u0644"
+            ],
+            "eng": [
+                "numerical value: 30.",
+                "to",
+                "for",
+                "twelfth letter of the alphabet (Lomadh)"
+            ],
+            "fre": [
+                "30",
+                "\u00e0 moi",
+                " \u00e0, au, jusqu&#39;\u00e0, apr\u00e8s",
+                "temps",
+                "selon",
+                "\u00e0 la place de, pour",
+                "\u00e0 cause de, pour",
+                "en face de, contre",
+                "\u00e0, vers, jusqu&#39;\u00e0"
+            ]
+        },
+        "word": {
+            "id": 10719,
+            "uri": "https://sedra.bethmardutho.org/api/word/10719.json"
+        }
+    }
+]

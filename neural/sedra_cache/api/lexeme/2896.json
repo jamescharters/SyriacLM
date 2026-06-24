@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2896,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2896.json"
+        },
+        "syriac": "\u0729\u072a\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0631\u062f, \u062a\u062c\u0644\u062f",
+                "\u0642\u0631\u0634"
+            ],
+            "French": [
+                "devenir froid, geler",
+                "recueillir"
+            ],
+            "English": [
+                "chilled"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1717,
+            "uri": "https://sedra.bethmardutho.org/api/root/1717.json"
+        },
+        "words": [
+            {
+                "id": 18864,
+                "uri": "https://sedra.bethmardutho.org/api/word/18864.json"
+            },
+            {
+                "id": 18867,
+                "uri": "https://sedra.bethmardutho.org/api/word/18867.json"
+            },
+            {
+                "id": 18866,
+                "uri": "https://sedra.bethmardutho.org/api/word/18866.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

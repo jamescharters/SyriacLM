@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 865,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/865.json"
+        },
+        "syriac": "\u0719\u0718\u071a",
+        "glosses": {
+            "English": [
+                "exalted",
+                "IIp.",
+                "IIa to escort, accompany",
+                "hold in solemnity",
+                "Ia to stir, move"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 550,
+            "uri": "https://sedra.bethmardutho.org/api/root/550.json"
+        },
+        "words": [
+            {
+                "id": 5616,
+                "uri": "https://sedra.bethmardutho.org/api/word/5616.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0720\u072c\u0718\u072c\u0710",
+        "western": "\u0721\u072c\u0730\u0720\u072c\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7803,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7803.json"
+        },
+        "stem": "\u0721\u072c\u0720\u072c\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "three-fold state.",
+                "triangle"
+            ]
+        },
+        "word": {
+            "id": 39526,
+            "uri": "https://sedra.bethmardutho.org/api/word/39526.json"
+        }
+    }
+]

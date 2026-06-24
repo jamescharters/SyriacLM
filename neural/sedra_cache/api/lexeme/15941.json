@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15941,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15941.json"
+        },
+        "syriac": "\u0726\u072c\u072a",
+        "glosses": {
+            "English": [
+                "Ia to fade away."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2219,
+            "uri": "https://sedra.bethmardutho.org/api/root/2219.json"
+        },
+        "words": [
+            {
+                "id": 42121,
+                "uri": "https://sedra.bethmardutho.org/api/word/42121.json"
+            },
+            {
+                "id": 42020,
+                "uri": "https://sedra.bethmardutho.org/api/word/42020.json"
+            },
+            {
+                "id": 41161,
+                "uri": "https://sedra.bethmardutho.org/api/word/41161.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

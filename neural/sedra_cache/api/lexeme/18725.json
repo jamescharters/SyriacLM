@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 18725,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18725.json"
+        },
+        "syriac": "\u0713\u0713\u0722\u0710",
+        "glosses": {
+            "Latin": [
+                "melissophyllum"
+            ],
+            "English": [
+                "pitch/heavy burdy/weight"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 52844,
+                "uri": "https://sedra.bethmardutho.org/api/word/52844.json"
+            },
+            {
+                "id": 52843,
+                "uri": "https://sedra.bethmardutho.org/api/word/52843.json"
+            },
+            {
+                "id": 45099,
+                "uri": "https://sedra.bethmardutho.org/api/word/45099.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0720\u071d\u072c\u0710",
+        "western": "\u071f\u073d\u0718\u0308\u0720\u071d\u0733\u072c\u0733\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1483,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1483.json"
+        },
+        "stem": "\u071f\u0718\u0720\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "rein",
+                "kidneys, reins",
+                "Lit. pl. innermost parts.",
+                "kidney"
+            ]
+        },
+        "word": {
+            "id": 42223,
+            "uri": "https://sedra.bethmardutho.org/api/word/42223.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072c\u0720\u072c",
+        "western": "\u072c\u0741\u0720\u0733\u072c\u0742",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3398,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3398.json"
+        },
+        "stem": "\u072c\u0720\u072c",
+        "category": "numeral",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0644\u0627\u062b\u0629"
+            ],
+            "eng": [
+                "three.",
+                "three"
+            ],
+            "fre": [
+                "trois"
+            ]
+        },
+        "word": {
+            "id": 22522,
+            "uri": "https://sedra.bethmardutho.org/api/word/22522.json"
+        }
+    }
+]

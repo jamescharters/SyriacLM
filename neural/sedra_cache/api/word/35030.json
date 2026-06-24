@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0720\u0720\u071d\u0710",
+        "western": "\u071a\u0720\u0733\u0720\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8773,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8773.json"
+        },
+        "stem": "\u071a\u0720\u0720\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u062b\u064a\u0631 \u0627\u0644\u0645\u0636\u0627\u064a\u0642"
+            ],
+            "eng": [
+                "having many passes."
+            ],
+            "fre": [
+                "aux nombreuses gorges"
+            ]
+        },
+        "word": {
+            "id": 35030,
+            "uri": "https://sedra.bethmardutho.org/api/word/35030.json"
+        }
+    }
+]

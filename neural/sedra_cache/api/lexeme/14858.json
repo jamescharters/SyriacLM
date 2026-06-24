@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 14858,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14858.json"
+        },
+        "syriac": "\u072b\u072a\u072b\u0725",
+        "glosses": {
+            "English": [
+                "Shaphel conj.of verb \u072a\u072b\u0725",
+                "IVa to conceal wickedness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3029,
+            "uri": "https://sedra.bethmardutho.org/api/root/3029.json"
+        },
+        "words": [
+            {
+                "id": 47097,
+                "uri": "https://sedra.bethmardutho.org/api/word/47097.json"
+            },
+            {
+                "id": 41257,
+                "uri": "https://sedra.bethmardutho.org/api/word/41257.json"
+            },
+            {
+                "id": 40670,
+                "uri": "https://sedra.bethmardutho.org/api/word/40670.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

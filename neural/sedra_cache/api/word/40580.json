@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0712\u0713\u0712\u0713",
+        "western": "\u0712\u0730\u0713\u0712\u0736\u0713",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14740,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14740.json"
+        },
+        "stem": "\u0712\u0713\u0712\u0713",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0631\u062b\u0631"
+            ],
+            "eng": [
+                "IVa to gurgle."
+            ],
+            "fre": [
+                "jaser"
+            ]
+        },
+        "word": {
+            "id": 40580,
+            "uri": "https://sedra.bethmardutho.org/api/word/40580.json"
+        }
+    }
+]

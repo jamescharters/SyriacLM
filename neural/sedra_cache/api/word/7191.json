@@ -1,0 +1,58 @@
+[
+    {
+        "syriac": "\u0710\u071a\u0721\u0718\u0720",
+        "western": "\u0710\u0736\u071a\u0721\u073d\u0718\u0720",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 1067,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1067.json"
+        },
+        "stem": "\u071a\u0721\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0637\u0649, \u0623\u062e\u0628\u0623, \u0644\u0641\u0641",
+                "\u0627\u062c\u062a\u0630\u0628, \u0623\u0645\u0633\u0643",
+                "\u0642\u0628\u0644",
+                "\u062c\u0645\u0639, \u0627\u062f\u062e\u0631",
+                "\u0627\u062c\u062a\u0645\u0639",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIa to wrap up, cover over, enshroud",
+                "Ip to be gathered in",
+                "to be withheld",
+                "to die",
+                "to withold, restrain",
+                "to withhold",
+                "to be held back, restrained.",
+                "to gather together",
+                "to be summed up",
+                "gather in",
+                "Ia to gather in, lay up, amass, collect, compile",
+                "IIp to be gathered in, heaped up",
+                "to hem in"
+            ],
+            "fre": [
+                "retirer, retenir",
+                "se r\u00e9unir, \u00eatre r\u00e9uni",
+                "\u00a0",
+                "recevoir",
+                "ramasser, entasser",
+                "cacher,recouvrir, envelopper"
+            ]
+        },
+        "word": {
+            "id": 7191,
+            "uri": "https://sedra.bethmardutho.org/api/word/7191.json"
+        }
+    }
+]

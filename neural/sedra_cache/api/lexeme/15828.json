@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15828,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15828.json"
+        },
+        "syriac": "\u0722\u071a\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to sift",
+                "Ip",
+                "IIa.",
+                "to be sifted"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2195,
+            "uri": "https://sedra.bethmardutho.org/api/root/2195.json"
+        },
+        "words": [
+            {
+                "id": 57955,
+                "uri": "https://sedra.bethmardutho.org/api/word/57955.json"
+            },
+            {
+                "id": 41821,
+                "uri": "https://sedra.bethmardutho.org/api/word/41821.json"
+            },
+            {
+                "id": 40492,
+                "uri": "https://sedra.bethmardutho.org/api/word/40492.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

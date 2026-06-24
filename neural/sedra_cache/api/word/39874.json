@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0715\u0718\u0715",
+        "western": "\u0715\u0730\u0718\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14982,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14982.json"
+        },
+        "stem": "\u0715\u0718\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "",
+                "\u0628\u0644\u0628\u0644"
+            ],
+            "eng": [
+                "trouble",
+                "disturb",
+                "IIp.",
+                "IIa to disturb, trouble, perturb"
+            ],
+            "fre": [
+                "",
+                "troubler"
+            ]
+        },
+        "word": {
+            "id": 39874,
+            "uri": "https://sedra.bethmardutho.org/api/word/39874.json"
+        }
+    }
+]

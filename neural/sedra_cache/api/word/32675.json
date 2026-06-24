@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071d\u0725\u0720\u0710",
+        "western": "\u071d\u0730\u0725\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13834,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13834.json"
+        },
+        "stem": "\u071d\u0725\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u064a\u0633 \u0648\u062d\u0634\u064a"
+            ],
+            "eng": [
+                "ibex."
+            ],
+            "fre": [
+                "(?) bouquetin"
+            ]
+        },
+        "word": {
+            "id": 32675,
+            "uri": "https://sedra.bethmardutho.org/api/word/32675.json"
+        }
+    }
+]

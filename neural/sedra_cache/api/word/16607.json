@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0726\u0718\u0722\u0729\u0710",
+        "western": "\u0726\u0741\u073d\u0718\u0722\u0733\u0729\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2543,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2543.json"
+        },
+        "stem": "\u0726\u0718\u0722\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0644\u0630\u0627\u062a, \u062a\u0631\u0641"
+            ],
+            "eng": [
+                "delicacy",
+                "delicacy",
+                "luxury",
+                "pleasure."
+            ],
+            "fre": [
+                "d\u00e9lices, luxe"
+            ]
+        },
+        "word": {
+            "id": 16607,
+            "uri": "https://sedra.bethmardutho.org/api/word/16607.json"
+        }
+    }
+]

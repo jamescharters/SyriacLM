@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0729\u0720\u0729",
+        "western": "\u0729\u0720\u0730\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15872,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15872.json"
+        },
+        "stem": "\u0729\u0720\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062d\u0648\u0644 (\u0639\u064a\u0646\u064a\u0647)"
+            ],
+            "eng": [
+                "Ia to look askance",
+                "to squint."
+            ],
+            "fre": [
+                "faire loucher ( les yeux)"
+            ]
+        },
+        "word": {
+            "id": 41207,
+            "uri": "https://sedra.bethmardutho.org/api/word/41207.json"
+        }
+    }
+]

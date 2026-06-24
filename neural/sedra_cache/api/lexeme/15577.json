@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15577,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15577.json"
+        },
+        "syriac": "\u0729\u072a\u0710",
+        "glosses": {
+            "English": [
+                "Ip to oppose, resist.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u072a\u0736\u0710</span>, Ia to come upon, to occur"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2900,
+            "uri": "https://sedra.bethmardutho.org/api/root/2900.json"
+        },
+        "words": [
+            {
+                "id": 41590,
+                "uri": "https://sedra.bethmardutho.org/api/word/41590.json"
+            },
+            {
+                "id": 40123,
+                "uri": "https://sedra.bethmardutho.org/api/word/40123.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

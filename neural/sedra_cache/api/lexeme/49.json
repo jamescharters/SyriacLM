@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 49,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/49.json"
+        },
+        "syriac": "\u0710\u0718\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0622\u0647 !"
+            ],
+            "French": [
+                "oh"
+            ],
+            "English": [
+                "therefore.",
+                "Oh!",
+                "Ah!",
+                "oh!"
+            ],
+            "Latin": [
+                "O, ah, eheu"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "O"
+            ]
+        },
+        "root": {
+            "id": 39,
+            "uri": "https://sedra.bethmardutho.org/api/root/39.json"
+        },
+        "words": [
+            {
+                "id": 53384,
+                "uri": "https://sedra.bethmardutho.org/api/word/53384.json"
+            },
+            {
+                "id": 280,
+                "uri": "https://sedra.bethmardutho.org/api/word/280.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

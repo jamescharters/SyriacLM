@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 3286,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3286.json"
+        },
+        "syriac": "\u072b\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0644\u0633 (\u0645\u0636)",
+                "\u0635\u0641\u0627",
+                "\u0631\u0636\u064a"
+            ],
+            "French": [
+                "rendre lisse",
+                "devenir pur",
+                "consentir"
+            ],
+            "English": [
+                "to level",
+                "to be made serene.",
+                "clear",
+                "to clarify, to strain",
+                "to make smooth",
+                "IIp to be made smooth, level, purified, clarified",
+                "IIa to shave off",
+                "Ia to plane (wood)",
+                "to become clear"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1914,
+            "uri": "https://sedra.bethmardutho.org/api/root/1914.json"
+        },
+        "words": [
+            {
+                "id": 21762,
+                "uri": "https://sedra.bethmardutho.org/api/word/21762.json"
+            },
+            {
+                "id": 21761,
+                "uri": "https://sedra.bethmardutho.org/api/word/21761.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

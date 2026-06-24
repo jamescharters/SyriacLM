@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 2812,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2812.json"
+        },
+        "syriac": "\u0729\u071d\u0722\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0633\u0628\u062d\u0629, \u0646\u0634\u064a\u062f"
+            ],
+            "French": [
+                "hymne, cantique"
+            ],
+            "English": [
+                "song, chant, melody.",
+                "musical sound"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1660,
+            "uri": "https://sedra.bethmardutho.org/api/root/1660.json"
+        },
+        "words": [
+            {
+                "id": 18334,
+                "uri": "https://sedra.bethmardutho.org/api/word/18334.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

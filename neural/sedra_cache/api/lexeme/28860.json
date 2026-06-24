@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28860,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28860.json"
+        },
+        "syriac": "\u0710\u071d\u0718\u0729\u072a\u071b\u0720\u071d\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f10\u03b3\u03ba\u03c1\u03ac\u03c4\u03b5\u03b9\u03b1"
+            ],
+            "Latin": [
+                "abstinentia"
+            ],
+            "English": [
+                "self-control, abstinence, self-restraint (the quality by means of which one abstains from unlawful desires, acts, etc., freedom from covetousness (se ab re abstinet)"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f10\u03b3\u03ba\u03c1\u03ac\u03c4\u03b5\u03b9\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 49363,
+                "uri": "https://sedra.bethmardutho.org/api/word/49363.json"
+            },
+            {
+                "id": 55234,
+                "uri": "https://sedra.bethmardutho.org/api/word/55234.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

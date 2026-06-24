@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u071a\u072a\u0715\u0725",
+        "western": "\u071a\u0730\u072a\u0715\u0725",
+        "lexeme": {
+            "id": 19424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19424.json"
+        },
+        "stem": "\u071a\u072a\u0715\u0725",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u063a\u062f\u063a"
+            ],
+            "syr": [
+                "\u071a\u0730\u072c\u071a\u0736\u072c"
+            ]
+        },
+        "word": {
+            "id": 45798,
+            "uri": "https://sedra.bethmardutho.org/api/word/45798.json"
+        }
+    }
+]

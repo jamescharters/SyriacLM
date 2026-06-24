@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0717\u0715\u0723",
+        "western": "\u0717\u0715\u0730\u0723",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15644,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15644.json"
+        },
+        "stem": "\u0717\u0715\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to attend to",
+                "IIa.",
+                "to meditate"
+            ]
+        },
+        "word": {
+            "id": 40343,
+            "uri": "https://sedra.bethmardutho.org/api/word/40343.json"
+        }
+    }
+]

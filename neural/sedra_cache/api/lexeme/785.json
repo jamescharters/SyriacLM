@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 785,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/785.json"
+        },
+        "syriac": "\u0717\u0718\u0722",
+        "glosses": {
+            "English": [
+                "wise",
+                "prudent",
+                "sober"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 497,
+            "uri": "https://sedra.bethmardutho.org/api/root/497.json"
+        },
+        "words": [
+            {
+                "id": 24246,
+                "uri": "https://sedra.bethmardutho.org/api/word/24246.json"
+            },
+            {
+                "id": 24245,
+                "uri": "https://sedra.bethmardutho.org/api/word/24245.json"
+            },
+            {
+                "id": 5121,
+                "uri": "https://sedra.bethmardutho.org/api/word/5121.json"
+            },
+            {
+                "id": 24248,
+                "uri": "https://sedra.bethmardutho.org/api/word/24248.json"
+            },
+            {
+                "id": 24247,
+                "uri": "https://sedra.bethmardutho.org/api/word/24247.json"
+            },
+            {
+                "id": 5123,
+                "uri": "https://sedra.bethmardutho.org/api/word/5123.json"
+            },
+            {
+                "id": 5122,
+                "uri": "https://sedra.bethmardutho.org/api/word/5122.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

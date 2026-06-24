@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071d\u072a\u071d\u0725\u072c\u0710",
+        "western": "\u071d\u0733\u072a\u073a\u071d\u0725\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11649,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11649.json"
+        },
+        "stem": "\u071d\u072a\u071d\u0725\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u064a\u0645\u0629",
+                "\u062d\u062c\u0627\u0628, \u0633\u062a\u0627\u0631"
+            ],
+            "eng": [
+                "curtain, hanging, covering",
+                "tent",
+                "family."
+            ],
+            "fre": [
+                "tente",
+                "voile, rideau"
+            ]
+        },
+        "word": {
+            "id": 38482,
+            "uri": "https://sedra.bethmardutho.org/api/word/38482.json"
+        }
+    }
+]

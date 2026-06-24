@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0726\u072c\u071a",
+        "western": "\u0726\u072c\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2645,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2645.json"
+        },
+        "stem": "\u0726\u072c\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062a\u062d",
+                "\u0623\u0639\u0627\u062f \u0627\u0644\u0646\u0638\u0631 \u0625\u0644\u0649",
+                "\u00a0",
+                "\u0627\u0646\u0641\u062a\u062d",
+                "\u0641\u062a\u062d",
+                "\u0623\u0631\u0649"
+            ],
+            "eng": [
+                "a window etc.)",
+                "Ia to open",
+                "IIp to be opened",
+                "open",
+                "Ip",
+                "to be captured.",
+                "IIa to open (eyes of the blind"
+            ],
+            "fre": [
+                "prendre d&#39;assaut",
+                "\u00a0",
+                "faire voir",
+                "rendre la vue \u00e0",
+                "ouvrir",
+                "s&#39;ouvrir"
+            ]
+        },
+        "word": {
+            "id": 17205,
+            "uri": "https://sedra.bethmardutho.org/api/word/17205.json"
+        }
+    }
+]

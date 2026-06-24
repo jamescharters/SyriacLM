@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15316,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15316.json"
+        },
+        "syriac": "\u0723\u071f\u071f",
+        "glosses": {
+            "English": [
+                "Pael to nail, fix nails in",
+                "IIp.",
+                "IIa to nail, to fix nails in"
+            ],
+            "Arabic": [
+                "\u0633\u0645\u0631",
+                "\u063a\u0631\u0632 )\u0645\u0633\u0627\u0645\u064a\u0631(",
+                "\u00a0"
+            ],
+            "French": [
+                "clouer",
+                "enfoncer ( des clous)",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2446,
+            "uri": "https://sedra.bethmardutho.org/api/root/2446.json"
+        },
+        "words": [
+            {
+                "id": 43854,
+                "uri": "https://sedra.bethmardutho.org/api/word/43854.json"
+            },
+            {
+                "id": 41021,
+                "uri": "https://sedra.bethmardutho.org/api/word/41021.json"
+            },
+            {
+                "id": 40931,
+                "uri": "https://sedra.bethmardutho.org/api/word/40931.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

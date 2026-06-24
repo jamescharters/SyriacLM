@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15940,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15940.json"
+        },
+        "syriac": "\u0719\u0712\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0647\u0631"
+            ],
+            "French": [
+                "doter"
+            ],
+            "English": [
+                "Ia to make a gift."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2990,
+            "uri": "https://sedra.bethmardutho.org/api/root/2990.json"
+        },
+        "words": [
+            {
+                "id": 41998,
+                "uri": "https://sedra.bethmardutho.org/api/word/41998.json"
+            },
+            {
+                "id": 41911,
+                "uri": "https://sedra.bethmardutho.org/api/word/41911.json"
+            },
+            {
+                "id": 41114,
+                "uri": "https://sedra.bethmardutho.org/api/word/41114.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

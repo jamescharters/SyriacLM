@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0710\u0715\u0713\u072b",
+        "western": "\u0710\u0730\u0715\u0713\u0736\u072b",
+        "lexeme": {
+            "id": 38005,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/38005.json"
+        },
+        "stem": "\u0710\u0715\u0713\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to pierce through"
+            ]
+        },
+        "word": {
+            "id": 64360,
+            "uri": "https://sedra.bethmardutho.org/api/word/64360.json"
+        }
+    }
+]

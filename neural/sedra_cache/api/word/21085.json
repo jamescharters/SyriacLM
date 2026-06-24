@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u072b\u0720\u071d\u071a\u0718\u072c\u0710",
+        "western": "\u072b\u0720\u073a\u071d\u071a\u073d\u0718\u072c\u0742\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3213,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3213.json"
+        },
+        "stem": "\u072b\u0720\u071d\u071a\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0633\u0627\u0644\u0629",
+                "\u0631\u0633\u0644",
+                "\u0639\u0631\u064a"
+            ],
+            "eng": [
+                "office of apostle",
+                "Apostleship",
+                "embassy",
+                "nakedness."
+            ],
+            "fre": [
+                "nudit\u00e9",
+                "ap\u00f4tres",
+                "apostolat"
+            ]
+        },
+        "word": {
+            "id": 21085,
+            "uri": "https://sedra.bethmardutho.org/api/word/21085.json"
+        }
+    }
+]

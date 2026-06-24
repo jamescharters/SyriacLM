@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0715\u071a\u071a",
+        "western": "\u0715\u0730\u071a\u0736\u071a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15109,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15109.json"
+        },
+        "stem": "\u0715\u071a\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to pulverize",
+                "IIp."
+            ]
+        },
+        "word": {
+            "id": 40233,
+            "uri": "https://sedra.bethmardutho.org/api/word/40233.json"
+        }
+    }
+]

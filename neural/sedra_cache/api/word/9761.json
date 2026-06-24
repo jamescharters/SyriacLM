@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0710",
+        "western": "\u071f\u0741\u0718\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1478,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1478.json"
+        },
+        "stem": "\u071f\u0718\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp.",
+                "IIa <span class=\"selectableFont\">\u071f\u0730\u0718\u073a\u071d</span> to cauterize, brand",
+                "Ia to burn",
+                "cauterize",
+                "burn",
+                "sear"
+            ]
+        },
+        "word": {
+            "id": 9761,
+            "uri": "https://sedra.bethmardutho.org/api/word/9761.json"
+        }
+    }
+]

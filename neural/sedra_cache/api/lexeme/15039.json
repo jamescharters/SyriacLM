@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15039,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15039.json"
+        },
+        "syriac": "\u0715\u0721\u072a",
+        "glosses": {
+            "English": [
+                "IIIa to astonish.",
+                "IIp to wonder, marvel",
+                "IIa to make marvelous"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2757,
+            "uri": "https://sedra.bethmardutho.org/api/root/2757.json"
+        },
+        "words": [
+            {
+                "id": 41275,
+                "uri": "https://sedra.bethmardutho.org/api/word/41275.json"
+            },
+            {
+                "id": 41268,
+                "uri": "https://sedra.bethmardutho.org/api/word/41268.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

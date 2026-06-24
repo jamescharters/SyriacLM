@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0728\u0725",
+        "western": "\u0718\u0730\u0715\u0742\u0728\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2704,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2704.json"
+        },
+        "stem": "\u0728\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be foul",
+                "be filthy"
+            ]
+        },
+        "word": {
+            "id": 17567,
+            "uri": "https://sedra.bethmardutho.org/api/word/17567.json"
+        }
+    }
+]

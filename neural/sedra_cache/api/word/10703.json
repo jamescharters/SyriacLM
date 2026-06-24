@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0715\u072c\u071f\u072c\u0718\u072b\u071f\u0718\u0722",
+        "western": "\u0715\u0741\u072c\u0742\u0730\u071f\u0742\u072c\u0741\u073d\u0718\u072b\u071f\u0742\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1612,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1612.json"
+        },
+        "stem": "\u072c\u071f\u072c\u0718\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0647\u062f",
+                "\u0642\u062a\u0627\u0644"
+            ],
+            "eng": [
+                "struggle",
+                "contest",
+                "strife",
+                "conflict, fight, strife."
+            ],
+            "fre": [
+                "effort",
+                "combat"
+            ]
+        },
+        "word": {
+            "id": 10703,
+            "uri": "https://sedra.bethmardutho.org/api/word/10703.json"
+        }
+    }
+]

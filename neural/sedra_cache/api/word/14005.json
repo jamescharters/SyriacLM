@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0723\u0718\u071b\u0721\u0710",
+        "western": "\u0723\u073d\u0718\u071b\u0721\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9055,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9055.json"
+        },
+        "stem": "\u0723\u0718\u071b\u0721\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u064a\u062f"
+            ],
+            "eng": [
+                "fetter, shackle.",
+                "shackle",
+                "fetter"
+            ],
+            "fre": [
+                "lien"
+            ]
+        },
+        "word": {
+            "id": 14005,
+            "uri": "https://sedra.bethmardutho.org/api/word/14005.json"
+        }
+    }
+]

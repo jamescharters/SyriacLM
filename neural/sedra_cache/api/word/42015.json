@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u071b\u0718\u0720",
+        "western": "\u0722\u0736\u071b\u073d\u0718\u0720",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15465,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15465.json"
+        },
+        "stem": "\u0722\u071b\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to turn the scale",
+                "IIa to lay a burden on",
+                "to draw water",
+                "to be pondered.",
+                "IIp to be weighed",
+                "to weigh heavy",
+                "to weigh down"
+            ]
+        },
+        "word": {
+            "id": 42015,
+            "uri": "https://sedra.bethmardutho.org/api/word/42015.json"
+        }
+    }
+]

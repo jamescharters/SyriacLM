@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071b\u072a\u0726\u0718\u072c\u0710",
+        "western": "\u0721\u071b\u0730\u072a\u0726\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14205,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14205.json"
+        },
+        "stem": "\u0721\u071b\u072a\u0726\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0632\u0646"
+            ],
+            "eng": [
+                "tribulation."
+            ],
+            "fre": [
+                "tristesse"
+            ]
+        },
+        "word": {
+            "id": 30605,
+            "uri": "https://sedra.bethmardutho.org/api/word/30605.json"
+        }
+    }
+]

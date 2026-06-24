@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0710\u071a\u071d\u0715-\u071f\u0720",
+        "western": "\u0710\u0730\u071a\u073a\u071d\u0715\u0742-\u071f\u0741\u073d\u0720",
+        "lexeme": {
+            "id": 72,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/72.json"
+        },
+        "stem": "\u0710\u071a\u071d\u0715 \u071f\u0720",
+        "category": "idiom",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Lord of all"
+            ]
+        },
+        "word": {
+            "id": 555,
+            "uri": "https://sedra.bethmardutho.org/api/word/555.json"
+        }
+    }
+]

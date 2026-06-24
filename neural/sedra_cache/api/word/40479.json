@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u071f\u0721\u0725",
+        "western": "\u071f\u0721\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15295,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15295.json"
+        },
+        "stem": "\u071f\u0721\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0643\u0627\u064a\u062f"
+            ],
+            "eng": [
+                "IIa to lie in wait",
+                "IIa."
+            ],
+            "fre": [
+                "dresser des emb\u00fbches"
+            ]
+        },
+        "word": {
+            "id": 40479,
+            "uri": "https://sedra.bethmardutho.org/api/word/40479.json"
+        }
+    }
+]

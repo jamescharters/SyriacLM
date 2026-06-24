@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u0712\u071d\u072c\u0710",
+        "western": "\u0729\u0733\u0712\u073a\u071d\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10089,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10089.json"
+        },
+        "stem": "\u0729\u0712\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u062f\u064a\u0631",
+                "\u0635\u0647\u0631\u064a\u062c"
+            ],
+            "eng": [
+                "reservoir",
+                "cistern.",
+                "pool"
+            ],
+            "fre": [
+                "citerne",
+                "\u00e9tang"
+            ]
+        },
+        "word": {
+            "id": 32732,
+            "uri": "https://sedra.bethmardutho.org/api/word/32732.json"
+        }
+    }
+]

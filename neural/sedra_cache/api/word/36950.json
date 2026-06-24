@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0728\u0728\u0710",
+        "western": "\u071a\u0728\u0733\u0728\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7671,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7671.json"
+        },
+        "stem": "\u071a\u0728\u0728\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0635\u0649"
+            ],
+            "eng": [
+                "pebble, shingle."
+            ],
+            "fre": [
+                "gravier"
+            ]
+        },
+        "word": {
+            "id": 36950,
+            "uri": "https://sedra.bethmardutho.org/api/word/36950.json"
+        }
+    }
+]

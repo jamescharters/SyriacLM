@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0713\u0725\u0720",
+        "western": "\u0721\u0730\u0713\u0742\u0725\u0730\u0720",
+        "tense": "passive participle",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 539,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/539.json"
+        },
+        "stem": "\u0713\u0725\u0720",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0713\u0725\u0736\u0720</span> to be entrusted, committed (to care of)",
+                "to commend",
+                "IIIp to be deposited.",
+                "IIIa to entrust, commit",
+                "commend",
+                "commit",
+                "be entrusted"
+            ]
+        },
+        "word": {
+            "id": 23718,
+            "uri": "https://sedra.bethmardutho.org/api/word/23718.json"
+        }
+    }
+]

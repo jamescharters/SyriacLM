@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 27037,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27037.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0718\u0723 \u0710\u0718\u072a\u0713\u0710\u0722\u071d\u071b\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f36\u03bd\u03bf\u03c2 \u1f40\u03c1\u03b9\u03b3\u03b1\u03bd\u03af\u03c4\u03b7\u03c2"
+            ],
+            "English": [
+                "wine flavored with oregano"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f40\u03c1\u03b9\u03b3\u03b1\u03bd\u03af\u03c4\u03b7\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48833,
+                "uri": "https://sedra.bethmardutho.org/api/word/48833.json"
+            },
+            {
+                "id": 53411,
+                "uri": "https://sedra.bethmardutho.org/api/word/53411.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

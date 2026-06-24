@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0718\u071f\u0718\u072a\u0717\u0722",
+        "western": "\u0718\u071f\u0742\u073d\u0718\u072a\u0717\u0733\u0722",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1580,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1580.json"
+        },
+        "stem": "\u071f\u0718\u072a\u0717\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "infirmity",
+                "ailment",
+                "sickness",
+                "sickness, illness.",
+                "disease"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 10392,
+            "uri": "https://sedra.bethmardutho.org/api/word/10392.json"
+        }
+    }
+]

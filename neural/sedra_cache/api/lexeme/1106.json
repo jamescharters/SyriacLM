@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1106,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1106.json"
+        },
+        "syriac": "\u071a\u0723\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "holiness",
+                "purity",
+                "holiness, piety, venerableness",
+                "Kth. bishopric, diocesan center."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 663,
+            "uri": "https://sedra.bethmardutho.org/api/root/663.json"
+        },
+        "words": [
+            {
+                "id": 7342,
+                "uri": "https://sedra.bethmardutho.org/api/word/7342.json"
+            },
+            {
+                "id": 7343,
+                "uri": "https://sedra.bethmardutho.org/api/word/7343.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

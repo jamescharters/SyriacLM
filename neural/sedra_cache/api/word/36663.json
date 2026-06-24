@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0715\u0723\u072c\u0729\u0710",
+        "western": "\u0715\u0730\u0723\u072c\u0729\u0733\u0710",
+        "eastern": "\u0715\u0732\u0723\u072c\u0729\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11534,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11534.json"
+        },
+        "stem": "\u0715\u0723\u072c\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "handle",
+                "hilt.",
+                "hilt"
+            ]
+        },
+        "word": {
+            "id": 36663,
+            "uri": "https://sedra.bethmardutho.org/api/word/36663.json"
+        }
+    }
+]

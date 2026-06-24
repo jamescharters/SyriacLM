@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15885,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15885.json"
+        },
+        "syriac": "\u0728\u072a\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062d\u062a\u0631\u0642",
+                "\u0635\u0631\u062e",
+                "\u0635\u0641\u0631"
+            ],
+            "French": [
+                "br\u00fbler (intr.)",
+                "crier",
+                "siffler"
+            ],
+            "English": [
+                "to catch fire",
+                "to set on fire.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u072a\u0730\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0728\u072a\u073d\u0718\u071a</span>, Ia to crackle, hiss"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2427,
+            "uri": "https://sedra.bethmardutho.org/api/root/2427.json"
+        },
+        "words": [
+            {
+                "id": 41851,
+                "uri": "https://sedra.bethmardutho.org/api/word/41851.json"
+            },
+            {
+                "id": 41684,
+                "uri": "https://sedra.bethmardutho.org/api/word/41684.json"
+            },
+            {
+                "id": 41333,
+                "uri": "https://sedra.bethmardutho.org/api/word/41333.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

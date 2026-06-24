@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0720\u0717\u071b",
+        "western": "\u0720\u0717\u071b",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15045,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15045.json"
+        },
+        "stem": "\u0720\u0717\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa to kindle.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0720\u0717\u0736\u071b</span> to be set on fire, to burn"
+            ]
+        },
+        "word": {
+            "id": 41512,
+            "uri": "https://sedra.bethmardutho.org/api/word/41512.json"
+        }
+    }
+]

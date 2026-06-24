@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2502,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2502.json"
+        },
+        "syriac": "\u0726\u071d\u0720\u0720\u0713\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Philologus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1487,
+            "uri": "https://sedra.bethmardutho.org/api/root/1487.json"
+        },
+        "words": [
+            {
+                "id": 16338,
+                "uri": "https://sedra.bethmardutho.org/api/word/16338.json"
+            },
+            {
+                "id": 16339,
+                "uri": "https://sedra.bethmardutho.org/api/word/16339.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

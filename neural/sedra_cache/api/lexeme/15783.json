@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15783,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15783.json"
+        },
+        "syriac": "\u0729\u0728\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u063a\u062a\u0627\u0638, \u0627\u0633\u062a\u0627\u0621"
+            ],
+            "French": [
+                "\u00eatre irrit\u00e9, indign\u00e9"
+            ],
+            "English": [
+                "to take amiss",
+                "IIIa to grudge.",
+                "to be sick",
+                "IIp to be vexed",
+                "& <span class=\"selectableFont\">\u0729\u0728\u0736\u0726</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u0728\u0730\u0726</span>, Ia to be irritated, indignant"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3086,
+            "uri": "https://sedra.bethmardutho.org/api/root/3086.json"
+        },
+        "words": [
+            {
+                "id": 41846,
+                "uri": "https://sedra.bethmardutho.org/api/word/41846.json"
+            },
+            {
+                "id": 39992,
+                "uri": "https://sedra.bethmardutho.org/api/word/39992.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

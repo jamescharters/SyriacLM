@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 179,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/179.json"
+        },
+        "syriac": "\u0710\u0722\u0710\u0723\u071d\u0726\u072a\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Onesiphorus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 132,
+            "uri": "https://sedra.bethmardutho.org/api/root/132.json"
+        },
+        "words": [
+            {
+                "id": 1371,
+                "uri": "https://sedra.bethmardutho.org/api/word/1371.json"
+            },
+            {
+                "id": 1372,
+                "uri": "https://sedra.bethmardutho.org/api/word/1372.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0718\u072c\u0710",
+        "western": "\u0710\u0733\u0712\u073d\u0718\u072c\u0733\u0710",
+        "eastern": "\u0710\u0735\u0712\u0742\u0718\u073f\u072c\u0735\u0742\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12918,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12918.json"
+        },
+        "stem": "\u0710\u0712\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u0637\u0631\u0629 \u0628\u0646\u0627\u0621",
+                "\u0645\u062d\u0643"
+            ],
+            "eng": [
+                "scraping tool.",
+                "bricklayer\u2019s rule"
+            ],
+            "fre": [
+                "r\u00e8gle de ma\u00e7on",
+                "racloir"
+            ]
+        },
+        "word": {
+            "id": 32028,
+            "uri": "https://sedra.bethmardutho.org/api/word/32028.json"
+        }
+    }
+]

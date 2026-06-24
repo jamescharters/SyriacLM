@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 684,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/684.json"
+        },
+        "syriac": "\u0715\u071a\u072b\u0710",
+        "glosses": {
+            "English": [
+                "guard",
+                "executioner",
+                "guard",
+                "attendant",
+                "servant",
+                "officer",
+                "attendant, guard",
+                "Kth. pl. <span class=\"selectableFont\">\u0715\u0730\u071a\u0308\u072b\u0736\u0710</span> army."
+            ],
+            "Arabic": [
+                "\u062d\u0627\u0631\u0633"
+            ],
+            "French": [
+                "garde"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 434,
+            "uri": "https://sedra.bethmardutho.org/api/root/434.json"
+        },
+        "words": [
+            {
+                "id": 29334,
+                "uri": "https://sedra.bethmardutho.org/api/word/29334.json"
+            },
+            {
+                "id": 4333,
+                "uri": "https://sedra.bethmardutho.org/api/word/4333.json"
+            },
+            {
+                "id": 4332,
+                "uri": "https://sedra.bethmardutho.org/api/word/4332.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

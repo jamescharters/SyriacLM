@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1092,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1092.json"
+        },
+        "syriac": "\u071a\u0722\u0722",
+        "glosses": {
+            "English": [
+                "Annas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 655,
+            "uri": "https://sedra.bethmardutho.org/api/root/655.json"
+        },
+        "words": [
+            {
+                "id": 7284,
+                "uri": "https://sedra.bethmardutho.org/api/word/7284.json"
+            },
+            {
+                "id": 7285,
+                "uri": "https://sedra.bethmardutho.org/api/word/7285.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

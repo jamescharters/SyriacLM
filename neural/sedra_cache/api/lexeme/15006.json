@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15006,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15006.json"
+        },
+        "syriac": "\u0717\u0718\u0722",
+        "glosses": {
+            "English": [
+                "to master oneself.",
+                "IIa to compose oneself",
+                "IIp to come to one\u2019s senses",
+                "<span class=\"selectableFont\">\u0721\u0717\u0730\u0718\u0730\u0722</span> endowed with reason, rational"
+            ],
+            "Arabic": [
+                "\u0623\u062d\u0643\u0645",
+                ""
+            ],
+            "French": [
+                "rendre sage",
+                ""
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2579,
+            "uri": "https://sedra.bethmardutho.org/api/root/2579.json"
+        },
+        "words": [
+            {
+                "id": 39997,
+                "uri": "https://sedra.bethmardutho.org/api/word/39997.json"
+            },
+            {
+                "id": 39935,
+                "uri": "https://sedra.bethmardutho.org/api/word/39935.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 735,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/735.json"
+        },
+        "syriac": "\u0715\u0722\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0631\u0648\u0642",
+                "\u0634\u0631\u0642",
+                "\u062a\u062c\u0644\u064a",
+                "\u0641\u0623\u0644"
+            ],
+            "French": [
+                "lever",
+                "orient",
+                "\u00e9piphanie",
+                "horoscope"
+            ],
+            "English": [
+                "dawn",
+                "dayspring",
+                "Epiphany",
+                "brightness",
+                "sunrise",
+                "<span class=\"selectableFont\">\u0725\u073a\u0710\u0715\u0733\u0710 \u0715\u0715\u0736\u0722\u071a\u0733\u0710</span> Epiphany, Theophany."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 463,
+            "uri": "https://sedra.bethmardutho.org/api/root/463.json"
+        },
+        "words": [
+            {
+                "id": 4788,
+                "uri": "https://sedra.bethmardutho.org/api/word/4788.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

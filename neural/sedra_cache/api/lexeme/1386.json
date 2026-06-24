@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1386,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1386.json"
+        },
+        "syriac": "\u071d\u0721\u072c\u0710",
+        "glosses": {
+            "English": [
+                "lake",
+                "lake, pond."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 824,
+            "uri": "https://sedra.bethmardutho.org/api/root/824.json"
+        },
+        "words": [
+            {
+                "id": 9230,
+                "uri": "https://sedra.bethmardutho.org/api/word/9230.json"
+            },
+            {
+                "id": 9229,
+                "uri": "https://sedra.bethmardutho.org/api/word/9229.json"
+            },
+            {
+                "id": 9231,
+                "uri": "https://sedra.bethmardutho.org/api/word/9231.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

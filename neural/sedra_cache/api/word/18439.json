@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0715\u0729\u0722\u071d\u0722\u0717",
+        "western": "\u0715\u0741\u0729\u0736\u0722\u071d\u0733\u0722\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2838,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2838.json"
+        },
+        "stem": "\u0729\u0722\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "possession",
+                "goods",
+                "property",
+                "substance",
+                "cattle.",
+                "possessions, property"
+            ]
+        },
+        "word": {
+            "id": 18439,
+            "uri": "https://sedra.bethmardutho.org/api/word/18439.json"
+        }
+    }
+]

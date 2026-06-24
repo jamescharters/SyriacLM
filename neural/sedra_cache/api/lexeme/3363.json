@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 3363,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3363.json"
+        },
+        "syriac": "\u072c\u0717\u0718\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0648\u062c\u0629",
+                "\u0628\u062d\u0631",
+                "\u0644\u062c\u0629",
+                "\u0639\u0645\u0642, \u0642\u0639\u0631"
+            ],
+            "French": [
+                "flot",
+                "mer",
+                "ab\u00eeme",
+                "profondeur, fond"
+            ],
+            "English": [
+                "abyss",
+                "abyss, depth, bottom (of sea etc.)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1953,
+            "uri": "https://sedra.bethmardutho.org/api/root/1953.json"
+        },
+        "words": [
+            {
+                "id": 22369,
+                "uri": "https://sedra.bethmardutho.org/api/word/22369.json"
+            },
+            {
+                "id": 22368,
+                "uri": "https://sedra.bethmardutho.org/api/word/22368.json"
+            },
+            {
+                "id": 22367,
+                "uri": "https://sedra.bethmardutho.org/api/word/22367.json"
+            },
+            {
+                "id": 22370,
+                "uri": "https://sedra.bethmardutho.org/api/word/22370.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

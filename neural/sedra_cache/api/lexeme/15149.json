@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 15149,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15149.json"
+        },
+        "syriac": "\u072b\u071d\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u062f\u0623 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "calmer",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp to be quieted",
+                "to be put out (of fire)",
+                "to quieten, calm down",
+                "to placate.",
+                "IIIa to abate",
+                "IIa to repress, to curb"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3022,
+            "uri": "https://sedra.bethmardutho.org/api/root/3022.json"
+        },
+        "words": [
+            {
+                "id": 47011,
+                "uri": "https://sedra.bethmardutho.org/api/word/47011.json"
+            },
+            {
+                "id": 39868,
+                "uri": "https://sedra.bethmardutho.org/api/word/39868.json"
+            },
+            {
+                "id": 39833,
+                "uri": "https://sedra.bethmardutho.org/api/word/39833.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

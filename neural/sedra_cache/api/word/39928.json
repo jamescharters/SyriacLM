@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u071d\u071b",
+        "western": "\u0729\u0730\u071d\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15228,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15228.json"
+        },
+        "stem": "\u0729\u071d\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0635\u064a\u0641"
+            ],
+            "eng": [
+                "IIa to pass the summer."
+            ],
+            "fre": [
+                "passer l&#39;\u00e9t\u00e9"
+            ]
+        },
+        "word": {
+            "id": 39928,
+            "uri": "https://sedra.bethmardutho.org/api/word/39928.json"
+        }
+    }
+]

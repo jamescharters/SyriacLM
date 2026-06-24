@@ -1,0 +1,79 @@
+[
+    {
+        "lexeme": {
+            "id": 3089,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3089.json"
+        },
+        "syriac": "\u072a\u072c\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0627\u0631",
+                "\u063a\u0644\u0649",
+                "\u0627\u0636\u0637\u0631\u0645"
+            ],
+            "French": [
+                "bouillonner",
+                "bouillir",
+                "br\u00fbler"
+            ],
+            "English": [
+                "fervent in spirit",
+                "to make fervent",
+                "boil",
+                "IIIa to heat, to boil",
+                "Ia to bubble up",
+                "to be fervent",
+                "IIIp to be brought to the boil.",
+                "to grow hot"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1796,
+            "uri": "https://sedra.bethmardutho.org/api/root/1796.json"
+        },
+        "words": [
+            {
+                "id": 28766,
+                "uri": "https://sedra.bethmardutho.org/api/word/28766.json"
+            },
+            {
+                "id": 28765,
+                "uri": "https://sedra.bethmardutho.org/api/word/28765.json"
+            },
+            {
+                "id": 20054,
+                "uri": "https://sedra.bethmardutho.org/api/word/20054.json"
+            },
+            {
+                "id": 28770,
+                "uri": "https://sedra.bethmardutho.org/api/word/28770.json"
+            },
+            {
+                "id": 28769,
+                "uri": "https://sedra.bethmardutho.org/api/word/28769.json"
+            },
+            {
+                "id": 28768,
+                "uri": "https://sedra.bethmardutho.org/api/word/28768.json"
+            },
+            {
+                "id": 28767,
+                "uri": "https://sedra.bethmardutho.org/api/word/28767.json"
+            },
+            {
+                "id": 20057,
+                "uri": "https://sedra.bethmardutho.org/api/word/20057.json"
+            },
+            {
+                "id": 20056,
+                "uri": "https://sedra.bethmardutho.org/api/word/20056.json"
+            },
+            {
+                "id": 20055,
+                "uri": "https://sedra.bethmardutho.org/api/word/20055.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

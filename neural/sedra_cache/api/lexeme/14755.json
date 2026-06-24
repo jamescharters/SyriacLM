@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14755,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14755.json"
+        },
+        "syriac": "\u072a\u071d\u072b\u0722",
+        "glosses": {
+            "English": [
+                "IVa to raise to office, power",
+                "IVp to be put in authority over."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2619,
+            "uri": "https://sedra.bethmardutho.org/api/root/2619.json"
+        },
+        "words": [
+            {
+                "id": 41235,
+                "uri": "https://sedra.bethmardutho.org/api/word/41235.json"
+            },
+            {
+                "id": 40718,
+                "uri": "https://sedra.bethmardutho.org/api/word/40718.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

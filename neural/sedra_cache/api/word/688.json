@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0723\u071a\u0729",
+        "western": "\u0710\u073a\u071d\u0723\u071a\u0733\u0729",
+        "eastern": "\u0710\u071d\u073c\u0723\u071a\u0735\u0729",
+        "lexeme": {
+            "id": 93,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/93.json"
+        },
+        "stem": "\u0710\u071d\u0723\u071a\u0729",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Isaac"
+            ]
+        },
+        "word": {
+            "id": 688,
+            "uri": "https://sedra.bethmardutho.org/api/word/688.json"
+        }
+    }
+]

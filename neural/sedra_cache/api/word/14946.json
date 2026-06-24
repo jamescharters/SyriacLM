@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0725\u0712\u072a\u0710",
+        "western": "\u0725\u0736\u0712\u0742\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2234,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2234.json"
+        },
+        "stem": "\u0725\u0712\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "shore",
+                "edge, limits.",
+                "ford, crossing",
+                "crossing"
+            ]
+        },
+        "word": {
+            "id": 14946,
+            "uri": "https://sedra.bethmardutho.org/api/word/14946.json"
+        }
+    }
+]

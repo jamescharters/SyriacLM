@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0723",
+        "western": "\u0723\u0730\u072a\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14957,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14957.json"
+        },
+        "stem": "\u0723\u072a\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062e\u0635\u0649"
+            ],
+            "eng": [
+                "to castrate",
+                "IIp to be castrated.",
+                "IIa to twist, entwine"
+            ],
+            "fre": [
+                "\u00a0",
+                "ch\u00e2trer"
+            ]
+        },
+        "word": {
+            "id": 40407,
+            "uri": "https://sedra.bethmardutho.org/api/word/40407.json"
+        }
+    }
+]

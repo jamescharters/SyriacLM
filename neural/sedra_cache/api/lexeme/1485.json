@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1485,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1485.json"
+        },
+        "syriac": "\u071f\u0718\u0721\u072a\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0647\u0646\u0648\u062a"
+            ],
+            "French": [
+                "sacerdoce"
+            ],
+            "English": [
+                "priesthood.",
+                "priesthood"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 881,
+            "uri": "https://sedra.bethmardutho.org/api/root/881.json"
+        },
+        "words": [
+            {
+                "id": 9789,
+                "uri": "https://sedra.bethmardutho.org/api/word/9789.json"
+            },
+            {
+                "id": 9788,
+                "uri": "https://sedra.bethmardutho.org/api/word/9788.json"
+            },
+            {
+                "id": 9790,
+                "uri": "https://sedra.bethmardutho.org/api/word/9790.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

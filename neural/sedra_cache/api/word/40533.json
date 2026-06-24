@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0721\u072a",
+        "western": "\u0710\u0730\u072c\u0721\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15272,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15272.json"
+        },
+        "stem": "\u072c\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072c\u0721\u0730\u072a</span> to blink."
+            ]
+        },
+        "word": {
+            "id": 40533,
+            "uri": "https://sedra.bethmardutho.org/api/word/40533.json"
+        }
+    }
+]

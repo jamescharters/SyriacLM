@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 3332,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3332.json"
+        },
+        "syriac": "\u072b\u072c\u071d\u0722",
+        "glosses": {
+            "English": [
+                "sixty",
+                "sixty."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1934,
+            "uri": "https://sedra.bethmardutho.org/api/root/1934.json"
+        },
+        "words": [
+            {
+                "id": 22198,
+                "uri": "https://sedra.bethmardutho.org/api/word/22198.json"
+            },
+            {
+                "id": 22196,
+                "uri": "https://sedra.bethmardutho.org/api/word/22196.json"
+            },
+            {
+                "id": 22195,
+                "uri": "https://sedra.bethmardutho.org/api/word/22195.json"
+            },
+            {
+                "id": 22194,
+                "uri": "https://sedra.bethmardutho.org/api/word/22194.json"
+            },
+            {
+                "id": 22197,
+                "uri": "https://sedra.bethmardutho.org/api/word/22197.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

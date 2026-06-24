@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0721\u0726\u0720\u0717\u0715\u0718\u072c\u0710",
+        "western": "\u0721\u0726\u0730\u0720\u0717\u0715\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5356,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5356.json"
+        },
+        "stem": "\u0721\u0726\u0720\u0717\u0715\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "confusion.",
+                "dispersion, scattering"
+            ]
+        },
+        "word": {
+            "id": 38810,
+            "uri": "https://sedra.bethmardutho.org/api/word/38810.json"
+        }
+    }
+]

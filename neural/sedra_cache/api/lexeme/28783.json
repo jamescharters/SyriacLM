@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 28783,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28783.json"
+        },
+        "syriac": "\u0710\u071d\u0715\u072a\u071f\u071d\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f00\u03bd\u03b4\u03c1\u03ac\u03c7\u03bd\u03b7"
+            ],
+            "Latin": [
+                "Arbutus andrachne, Portulacca oleracea"
+            ],
+            "English": [
+                "Greek strawberry tree, purslane"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 49285,
+                "uri": "https://sedra.bethmardutho.org/api/word/49285.json"
+            },
+            {
+                "id": 55157,
+                "uri": "https://sedra.bethmardutho.org/api/word/55157.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

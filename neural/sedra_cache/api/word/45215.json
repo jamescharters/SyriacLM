@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0713\u0726",
+        "western": "\u0713\u0730\u0726",
+        "lexeme": {
+            "id": 18841,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18841.json"
+        },
+        "stem": "\u0713\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0645\u0644",
+                "\u00a0",
+                " \u0643\u0627\u0646 \u0639\u0644\u0649 \u0634\u0643\u0644 \u062c\u0646\u0627\u062d\u064a\u0646, \u0642\u0631\u0646 (\u0645\u062c)"
+            ],
+            "eng": [
+                "to hunt"
+            ],
+            "fre": [
+                "embrasser",
+                "prendre (filet)\u2026",
+                "former des ailes , \u00eatre jumel\u00e9"
+            ]
+        },
+        "word": {
+            "id": 45215,
+            "uri": "https://sedra.bethmardutho.org/api/word/45215.json"
+        }
+    }
+]

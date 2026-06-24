@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729",
+        "western": "\u0729",
+        "number": "singular",
+        "lexeme": {
+            "id": 9164,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9164.json"
+        },
+        "stem": "\u0729",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "100"
+            ],
+            "eng": [
+                "nineteenth letter of the alphabet (Qoph)",
+                "numerical value 100."
+            ],
+            "fre": [
+                "100"
+            ]
+        },
+        "word": {
+            "id": 35982,
+            "uri": "https://sedra.bethmardutho.org/api/word/35982.json"
+        }
+    }
+]

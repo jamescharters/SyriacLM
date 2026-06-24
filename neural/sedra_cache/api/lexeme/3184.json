@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3184,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3184.json"
+        },
+        "syriac": "\u072b\u071d\u0720\u0718\u071a\u0710",
+        "glosses": {
+            "English": [
+                "Siloam"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1854,
+            "uri": "https://sedra.bethmardutho.org/api/root/1854.json"
+        },
+        "words": [
+            {
+                "id": 20866,
+                "uri": "https://sedra.bethmardutho.org/api/word/20866.json"
+            },
+            {
+                "id": 20865,
+                "uri": "https://sedra.bethmardutho.org/api/word/20865.json"
+            },
+            {
+                "id": 20867,
+                "uri": "https://sedra.bethmardutho.org/api/word/20867.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

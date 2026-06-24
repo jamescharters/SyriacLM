@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 398,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/398.json"
+        },
+        "syriac": "\u0712\u0720\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0627\u0644, \u0639\u062a\u064a\u0642",
+                "\u062b\u0648\u0628 \u0628\u0627\u0644"
+            ],
+            "French": [
+                "us\u00e9, vieux",
+                "habit us\u00e9"
+            ],
+            "English": [
+                "old",
+                "worn out",
+                "scarcity, lack of.",
+                "rags",
+                "worn out, old (of clothes)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 274,
+            "uri": "https://sedra.bethmardutho.org/api/root/274.json"
+        },
+        "words": [
+            {
+                "id": 2766,
+                "uri": "https://sedra.bethmardutho.org/api/word/2766.json"
+            },
+            {
+                "id": 2765,
+                "uri": "https://sedra.bethmardutho.org/api/word/2765.json"
+            },
+            {
+                "id": 2764,
+                "uri": "https://sedra.bethmardutho.org/api/word/2764.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

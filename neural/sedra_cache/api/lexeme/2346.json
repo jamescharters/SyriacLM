@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 2346,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2346.json"
+        },
+        "syriac": "\u0725\u0721\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0638\u0644\u0645"
+            ],
+            "French": [
+                "\u00eatre obscurci"
+            ],
+            "English": [
+                "dark",
+                "Ia to cloud over, to become dark",
+                "IIIp.",
+                "IIa to obscure",
+                "IIIa to darken, to make obscure",
+                "IIp to become darkened"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1391,
+            "uri": "https://sedra.bethmardutho.org/api/root/1391.json"
+        },
+        "words": [
+            {
+                "id": 15671,
+                "uri": "https://sedra.bethmardutho.org/api/word/15671.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

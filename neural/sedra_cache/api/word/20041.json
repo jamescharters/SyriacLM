@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072a\u072c\u071d\u072c\u0710",
+        "western": "\u072a\u0730\u072c\u0741\u073a\u071d\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3085,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3085.json"
+        },
+        "stem": "\u072a\u072c\u071d\u072c\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "trembling",
+                "trembling."
+            ]
+        },
+        "word": {
+            "id": 20041,
+            "uri": "https://sedra.bethmardutho.org/api/word/20041.json"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "syriac": "\u072c\u0718\u0729\u0722\u0710",
+        "western": "\u072c\u073d\u0718\u0729\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12357,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12357.json"
+        },
+        "stem": "\u072c\u0718\u0729\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u0623\u062d\u0633\u0646",
+                "\u062a\u0623\u0633\u064a\u0633",
+                "\u0632\u0631\u0627\u0639\u0629",
+                "\u062a\u0643\u0648\u064a\u0646",
+                "\u062a\u0631\u0645\u064a\u0645, \u0625\u0635\u0644\u0627\u062d",
+                "\u062a\u062d\u0636\u064a\u0631",
+                "\u0648\u0644\u064a\u0645\u0629",
+                "\u0641\u0627\u062a\u062d\u0629, \u0645\u0642\u062f\u0645\u0629",
+                "\u0622\u0644\u0629",
+                "\u0639\u062a\u0627\u062f, \u0623\u0647\u0628\u0629",
+                "\u0639\u0645\u0644, \u0634\u063a\u0644",
+                "\u0637\u0639\u0627\u0645 \u0631\u0642\u064a\u0642"
+            ],
+            "eng": [
+                "restoration.",
+                "preparation (for meal etc.)",
+                "construction, establishment, institution"
+            ],
+            "fre": [
+                "\u00e9tablissement",
+                "culture",
+                "le meilleur (d&#39;une chose)",
+                "\u0153uvre, travail",
+                "repas",
+                "chose pr\u00e9par\u00e9e",
+                "cr\u00e9ation",
+                "pr\u00e9ambule, introduction",
+                "restauration, r\u00e9paration",
+                "pr\u00e9paration",
+                "nourriture d\u00e9licate",
+                "instrument"
+            ]
+        },
+        "word": {
+            "id": 31160,
+            "uri": "https://sedra.bethmardutho.org/api/word/31160.json"
+        }
+    }
+]

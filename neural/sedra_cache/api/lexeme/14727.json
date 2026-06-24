@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 14727,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14727.json"
+        },
+        "syriac": "\u071f\u0718\u071f\u0712",
+        "glosses": {
+            "English": [
+                "to asterize",
+                "IVa to stud with stars",
+                "IVp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2200,
+            "uri": "https://sedra.bethmardutho.org/api/root/2200.json"
+        },
+        "words": [
+            {
+                "id": 41229,
+                "uri": "https://sedra.bethmardutho.org/api/word/41229.json"
+            },
+            {
+                "id": 40725,
+                "uri": "https://sedra.bethmardutho.org/api/word/40725.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

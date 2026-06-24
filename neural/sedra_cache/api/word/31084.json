@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u071d\u071b\u071d\u0710",
+        "western": "\u0729\u0730\u071d\u071b\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6507,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6507.json"
+        },
+        "stem": "\u0729\u071d\u071b\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u064a\u0641\u064a"
+            ],
+            "eng": [
+                "summer-like, belonging to summer."
+            ],
+            "fre": [
+                "d&#39;\u00e9t\u00e9"
+            ]
+        },
+        "word": {
+            "id": 31084,
+            "uri": "https://sedra.bethmardutho.org/api/word/31084.json"
+        }
+    }
+]

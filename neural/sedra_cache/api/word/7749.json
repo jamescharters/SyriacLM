@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0710\u072c\u071a\u072b\u071a",
+        "western": "\u0710\u0736\u072c\u0742\u071a\u0730\u072b\u0730\u071a",
+        "tense": "imperfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 15067,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15067.json"
+        },
+        "stem": "\u071a\u072b\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0632\u0645, \u0646\u0641\u0639, \u0648\u0627\u0641\u0642"
+            ],
+            "eng": [
+                "to deal with",
+                "be useful",
+                "use",
+                "adapt",
+                "apply",
+                "IIp to be used to, be familiar with",
+                "Ia act. part. <span class=\"selectableFont\">\u071a\u0733\u072b\u0730\u071a</span>, <span class=\"selectableFont\">\u071a\u0733\u072b\u071a\u0733\u0710</span> it is fitting, suitable, appropriate, needed",
+                "to act, behave (with).",
+                "to use, make use of",
+                "to employ"
+            ],
+            "fre": [
+                "\u00eatre n\u00e9cessaire , utile , apte"
+            ]
+        },
+        "word": {
+            "id": 7749,
+            "uri": "https://sedra.bethmardutho.org/api/word/7749.json"
+        }
+    }
+]

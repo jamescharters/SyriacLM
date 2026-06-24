@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0713\u0720\u0718\u0726\u0718\u072c\u0710",
+        "western": "\u0713\u0733\u0720\u073d\u0718\u0726\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10153,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10153.json"
+        },
+        "stem": "\u0713\u0720\u0718\u0726\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u062d\u062a",
+                "\u0646\u0642\u0634"
+            ],
+            "eng": [
+                "sculpting, carving."
+            ],
+            "fre": [
+                "sculpture",
+                "gravure"
+            ]
+        },
+        "word": {
+            "id": 36129,
+            "uri": "https://sedra.bethmardutho.org/api/word/36129.json"
+        }
+    }
+]

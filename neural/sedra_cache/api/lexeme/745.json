@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 745,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/745.json"
+        },
+        "syriac": "\u0715\u0729\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u062e\u0644"
+            ],
+            "French": [
+                "dattier"
+            ],
+            "English": [
+                "palm tree.",
+                "tree"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 470,
+            "uri": "https://sedra.bethmardutho.org/api/root/470.json"
+        },
+        "words": [
+            {
+                "id": 29634,
+                "uri": "https://sedra.bethmardutho.org/api/word/29634.json"
+            },
+            {
+                "id": 4813,
+                "uri": "https://sedra.bethmardutho.org/api/word/4813.json"
+            },
+            {
+                "id": 4814,
+                "uri": "https://sedra.bethmardutho.org/api/word/4814.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

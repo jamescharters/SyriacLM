@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0718\u0721\u071b\u0720",
+        "western": "\u0718\u0721\u0736\u071b\u073d\u0720",
+        "lexeme": {
+            "id": 1742,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1742.json"
+        },
+        "stem": "\u0721\u071b\u0720",
+        "category": "preposition",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0646, \u0644\u0623\u062c\u0644"
+            ],
+            "eng": [
+                "because of, on account of, on behalf of, concerning",
+                "because",
+                "-<span class=\"selectableFont\">\u0721\u0736\u071b\u073d\u0720 \u0715</span> because, so that."
+            ],
+            "fre": [
+                "au sujet de, \u00e0 cause de"
+            ]
+        },
+        "word": {
+            "id": 11464,
+            "uri": "https://sedra.bethmardutho.org/api/word/11464.json"
+        }
+    }
+]

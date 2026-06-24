@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0712\u0723\u0712\u0723",
+        "western": "\u0712\u0730\u0723\u0712\u0736\u0723",
+        "eastern": "\u0712\u0732\u0723\u0712\u0738\u0723",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14673,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14673.json"
+        },
+        "stem": "\u0712\u0723\u0712\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "IVa to lacerate, tear into pieces",
+                "IVp."
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 41336,
+            "uri": "https://sedra.bethmardutho.org/api/word/41336.json"
+        }
+    }
+]

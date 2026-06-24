@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0726\u071b\u071a",
+        "western": "\u0726\u071b\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15501,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15501.json"
+        },
+        "stem": "\u0726\u071b\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to spread."
+            ]
+        },
+        "word": {
+            "id": 41281,
+            "uri": "https://sedra.bethmardutho.org/api/word/41281.json"
+        }
+    }
+]

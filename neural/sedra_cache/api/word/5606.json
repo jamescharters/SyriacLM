@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0719\u0718\u0715\u0718\u0722",
+        "western": "\u0719\u0730\u0718\u0715\u0742\u073d\u0718\u0722",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 15091,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15091.json"
+        },
+        "stem": "\u0719\u0718\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "supply provision",
+                "IIp to be furnished with provisions.",
+                "IIa to equip, provision, prepare for a journey"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 5606,
+            "uri": "https://sedra.bethmardutho.org/api/word/5606.json"
+        }
+    }
+]

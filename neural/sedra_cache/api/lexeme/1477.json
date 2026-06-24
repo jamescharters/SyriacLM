@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1477,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1477.json"
+        },
+        "syriac": "\u071f\u0717\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "belonging to the priest's office/devoted to sacred purposes/sacred/holy/consecrated",
+                "priestly",
+                "sacerdotal",
+                "priestly",
+                "sacred, holy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 874,
+            "uri": "https://sedra.bethmardutho.org/api/root/874.json"
+        },
+        "words": [
+            {
+                "id": 45456,
+                "uri": "https://sedra.bethmardutho.org/api/word/45456.json"
+            },
+            {
+                "id": 9759,
+                "uri": "https://sedra.bethmardutho.org/api/word/9759.json"
+            },
+            {
+                "id": 9758,
+                "uri": "https://sedra.bethmardutho.org/api/word/9758.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

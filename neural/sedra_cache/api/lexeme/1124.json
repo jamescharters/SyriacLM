@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 1124,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1124.json"
+        },
+        "syriac": "\u071a\u0726\u071d\u071b\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062c\u062a\u0647\u0627\u062f, \u062d\u0645\u064a\u0629"
+            ],
+            "French": [
+                "application, z\u00e8le"
+            ],
+            "English": [
+                "diligence",
+                "zest",
+                "earnestness",
+                "perseverance",
+                "diligence, zealous care."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 670,
+            "uri": "https://sedra.bethmardutho.org/api/root/670.json"
+        },
+        "words": [
+            {
+                "id": 7439,
+                "uri": "https://sedra.bethmardutho.org/api/word/7439.json"
+            },
+            {
+                "id": 7441,
+                "uri": "https://sedra.bethmardutho.org/api/word/7441.json"
+            },
+            {
+                "id": 7440,
+                "uri": "https://sedra.bethmardutho.org/api/word/7440.json"
+            },
+            {
+                "id": 7442,
+                "uri": "https://sedra.bethmardutho.org/api/word/7442.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

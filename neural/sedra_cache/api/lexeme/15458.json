@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15458,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15458.json"
+        },
+        "syriac": "\u0728\u071a\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0633\u062a\u062d\u064a\u0627"
+            ],
+            "French": [
+                "rougir"
+            ],
+            "English": [
+                "to be red, to blush.",
+                "Ia to wander off"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2899,
+            "uri": "https://sedra.bethmardutho.org/api/root/2899.json"
+        },
+        "words": [
+            {
+                "id": 42141,
+                "uri": "https://sedra.bethmardutho.org/api/word/42141.json"
+            },
+            {
+                "id": 40071,
+                "uri": "https://sedra.bethmardutho.org/api/word/40071.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

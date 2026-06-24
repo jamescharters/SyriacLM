@@ -1,0 +1,90 @@
+[
+    {
+        "lexeme": {
+            "id": 314,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/314.json"
+        },
+        "syriac": "\u0710\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0644\u0627\u0645\u0629",
+                "\u0631\u0627\u064a\u0629",
+                "\u0645\u062b\u0644",
+                "\u0623\u062b\u0631",
+                "\u0639\u062c\u064a\u0628\u0629"
+            ],
+            "French": [
+                "signe",
+                "enseigne",
+                "exemple",
+                "monument",
+                "miracle"
+            ],
+            "English": [
+                "miraculous",
+                "sign",
+                "sign, token, miracle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 233,
+            "uri": "https://sedra.bethmardutho.org/api/root/233.json"
+        },
+        "words": [
+            {
+                "id": 2038,
+                "uri": "https://sedra.bethmardutho.org/api/word/2038.json"
+            },
+            {
+                "id": 2037,
+                "uri": "https://sedra.bethmardutho.org/api/word/2037.json"
+            },
+            {
+                "id": 2036,
+                "uri": "https://sedra.bethmardutho.org/api/word/2036.json"
+            },
+            {
+                "id": 2035,
+                "uri": "https://sedra.bethmardutho.org/api/word/2035.json"
+            },
+            {
+                "id": 2034,
+                "uri": "https://sedra.bethmardutho.org/api/word/2034.json"
+            },
+            {
+                "id": 2033,
+                "uri": "https://sedra.bethmardutho.org/api/word/2033.json"
+            },
+            {
+                "id": 2032,
+                "uri": "https://sedra.bethmardutho.org/api/word/2032.json"
+            },
+            {
+                "id": 2031,
+                "uri": "https://sedra.bethmardutho.org/api/word/2031.json"
+            },
+            {
+                "id": 2030,
+                "uri": "https://sedra.bethmardutho.org/api/word/2030.json"
+            },
+            {
+                "id": 2029,
+                "uri": "https://sedra.bethmardutho.org/api/word/2029.json"
+            },
+            {
+                "id": 2027,
+                "uri": "https://sedra.bethmardutho.org/api/word/2027.json"
+            },
+            {
+                "id": 42278,
+                "uri": "https://sedra.bethmardutho.org/api/word/42278.json"
+            },
+            {
+                "id": 2028,
+                "uri": "https://sedra.bethmardutho.org/api/word/2028.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

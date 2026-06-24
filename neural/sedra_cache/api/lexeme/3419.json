@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 3419,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3419.json"
+        },
+        "syriac": "\u072c\u0722\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0646\u0627"
+            ],
+            "French": [
+                "ici"
+            ],
+            "English": [
+                "here.",
+                "here"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1983,
+            "uri": "https://sedra.bethmardutho.org/api/root/1983.json"
+        },
+        "words": [
+            {
+                "id": 22579,
+                "uri": "https://sedra.bethmardutho.org/api/word/22579.json"
+            },
+            {
+                "id": 22580,
+                "uri": "https://sedra.bethmardutho.org/api/word/22580.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

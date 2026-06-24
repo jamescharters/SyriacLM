@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0713\u0726",
+        "western": "\u0713\u0733\u0726",
+        "eastern": "\u0713\u0735\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15398,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15398.json"
+        },
+        "stem": "\u0713\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to take in a net",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0713\u0730\u071d\u0730\u0726</span> to be shut.",
+                "IIa <span class=\"selectableFont\">\u0713\u0730\u0718\u0736\u0726</span> to hunt",
+                "<span class=\"selectableFont\">\u0713\u0730\u071d\u0736\u0726</span> to fasten, to couple",
+                "Ia to attract, to suck up, to extract"
+            ]
+        },
+        "word": {
+            "id": 39921,
+            "uri": "https://sedra.bethmardutho.org/api/word/39921.json"
+        }
+    }
+]

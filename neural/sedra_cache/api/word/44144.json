@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0725\u0723\u071f\u072a",
+        "western": "\u0725\u0730\u0723\u071f\u0730\u072a",
+        "lexeme": {
+            "id": 17770,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/17770.json"
+        },
+        "stem": "\u0725\u0723\u071f\u072a",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0633\u0643\u0631"
+            ],
+            "eng": [
+                "army, troop"
+            ],
+            "fre": [
+                "arm\u00e9e"
+            ]
+        },
+        "word": {
+            "id": 44144,
+            "uri": "https://sedra.bethmardutho.org/api/word/44144.json"
+        }
+    }
+]

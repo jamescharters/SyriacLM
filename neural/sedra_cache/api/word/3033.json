@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0712\u0725\u071d\u0720\u072c\u0710",
+        "western": "\u0712\u0741\u0725\u073a\u071d\u0720\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 434,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/434.json"
+        },
+        "stem": "\u0712\u0725\u071d\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0645\u0631\u0623\u0629 \u0645\u0632\u0648\u062c\u0629"
+            ],
+            "eng": [
+                "married woman",
+                "wife."
+            ],
+            "fre": [
+                "femme mari\u00e9e"
+            ]
+        },
+        "word": {
+            "id": 3033,
+            "uri": "https://sedra.bethmardutho.org/api/word/3033.json"
+        }
+    }
+]

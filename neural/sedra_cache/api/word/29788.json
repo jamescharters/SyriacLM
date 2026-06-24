@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b",
+        "western": "\u072b",
+        "number": "singular",
+        "lexeme": {
+            "id": 10213,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10213.json"
+        },
+        "stem": "\u072b",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "300"
+            ],
+            "eng": [
+                "numerical value: 300.",
+                "twenty-first letter of the alphabet (Shin)"
+            ],
+            "fre": [
+                "300"
+            ]
+        },
+        "word": {
+            "id": 29788,
+            "uri": "https://sedra.bethmardutho.org/api/word/29788.json"
+        }
+    }
+]

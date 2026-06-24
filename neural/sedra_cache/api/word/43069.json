@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072a\u071a\u072b\u0718\u0722\u0710",
+        "western": "\u072a\u0730\u071a\u072b\u073d\u0718\u0722\u0733\u0710",
+        "lexeme": {
+            "id": 16695,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16695.json"
+        },
+        "stem": "\u072a\u071a\u072b\u0718\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0648\u064a\u0628\u0629"
+            ],
+            "eng": [
+                "small vermin"
+            ],
+            "fre": [
+                "animalcule"
+            ]
+        },
+        "word": {
+            "id": 43069,
+            "uri": "https://sedra.bethmardutho.org/api/word/43069.json"
+        }
+    }
+]

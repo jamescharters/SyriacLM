@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0721\u0720",
+        "western": "\u0710\u0730\u072a\u0721\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14907,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14907.json"
+        },
+        "stem": "\u0710\u072a\u0721\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0623\u0635\u0628\u062d \u0642\u0641\u0631\u0627\u064b, \u0641\u0627\u0631\u063a\u0627\u064b",
+                "\u0623\u064a\u0645",
+                "\u062a\u0631\u0645\u0644"
+            ],
+            "eng": [
+                "IVa to widow",
+                "IVp to be left, made a widow."
+            ],
+            "fre": [
+                "\u00a0",
+                "rendre veuf",
+                "devenir d\u00e9sert, vide",
+                "devenir veuf"
+            ]
+        },
+        "word": {
+            "id": 40729,
+            "uri": "https://sedra.bethmardutho.org/api/word/40729.json"
+        }
+    }
+]

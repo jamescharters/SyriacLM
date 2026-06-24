@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15638,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15638.json"
+        },
+        "syriac": "\u072b\u072c\u0710",
+        "glosses": {
+            "English": [
+                "IIIa to cause to drink",
+                "Ia to drink, imbibe",
+                "to plait, to weave",
+                "to be watered",
+                "IIIp to be woven.",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2672,
+            "uri": "https://sedra.bethmardutho.org/api/root/2672.json"
+        },
+        "words": [
+            {
+                "id": 41681,
+                "uri": "https://sedra.bethmardutho.org/api/word/41681.json"
+            },
+            {
+                "id": 41299,
+                "uri": "https://sedra.bethmardutho.org/api/word/41299.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

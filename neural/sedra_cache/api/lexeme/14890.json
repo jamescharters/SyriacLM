@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 14890,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14890.json"
+        },
+        "syriac": "\u0726\u072a\u0726\u072a",
+        "glosses": {
+            "English": [
+                "IVa to flutter, to quiver",
+                "to expire.",
+                "IVp to writhe"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2676,
+            "uri": "https://sedra.bethmardutho.org/api/root/2676.json"
+        },
+        "words": [
+            {
+                "id": 40748,
+                "uri": "https://sedra.bethmardutho.org/api/word/40748.json"
+            },
+            {
+                "id": 39995,
+                "uri": "https://sedra.bethmardutho.org/api/word/39995.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

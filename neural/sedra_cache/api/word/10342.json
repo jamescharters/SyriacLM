@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u071f\u0726\u072a\u071d\u0722",
+        "western": "\u071f\u0741\u0733\u0726\u0742\u072a\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1571,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1571.json"
+        },
+        "stem": "\u071f\u0726\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062a\u0631\u0643",
+                "\u0646\u0643\u0631",
+                "\u0645\u0633\u062d, \u0646\u0638\u0641 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to scour",
+                "refuse",
+                "Ia to wipe",
+                "IIIa to cause to renounce.",
+                "IIp",
+                "to disperse",
+                "to deny, renounce",
+                "deny",
+                "IIa to wipe dry, wipe away"
+            ],
+            "fre": [
+                "essuyer, nettoyer",
+                "\u00a0",
+                "renoncer \u00e0",
+                "nier"
+            ]
+        },
+        "word": {
+            "id": 10342,
+            "uri": "https://sedra.bethmardutho.org/api/word/10342.json"
+        }
+    }
+]

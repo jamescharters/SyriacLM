@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0718\u0720\u071d",
+        "western": "\u0710\u073a\u071d\u073d\u0718\u0720\u073a\u071d",
+        "lexeme": {
+            "id": 28811,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28811.json"
+        },
+        "stem": "\u0710\u071d\u0718\u0720\u071d",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "open court before the house, courtyard, court, hall,"
+            ],
+            "grc": [
+                "\u03b1\u1f50\u03bb\u03ae"
+            ],
+            "lat": [
+                "tentorium"
+            ]
+        },
+        "word": {
+            "id": 49310,
+            "uri": "https://sedra.bethmardutho.org/api/word/49310.json"
+        }
+    }
+]

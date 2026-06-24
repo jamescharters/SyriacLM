@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 1762,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1762.json"
+        },
+        "syriac": "\u0721\u071f\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "engaged",
+                "married"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1057,
+            "uri": "https://sedra.bethmardutho.org/api/root/1057.json"
+        },
+        "words": [
+            {
+                "id": 3225,
+                "uri": "https://sedra.bethmardutho.org/api/word/3225.json"
+            },
+            {
+                "id": 11554,
+                "uri": "https://sedra.bethmardutho.org/api/word/11554.json"
+            },
+            {
+                "id": 11553,
+                "uri": "https://sedra.bethmardutho.org/api/word/11553.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

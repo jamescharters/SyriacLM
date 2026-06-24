@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u0725\u0720",
+        "western": "\u072b\u0725\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15547,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15547.json"
+        },
+        "stem": "\u072b\u0725\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0639\u0644"
+            ],
+            "eng": [
+                "Ia to cough, to have a cough."
+            ],
+            "fre": [
+                "tousser"
+            ]
+        },
+        "word": {
+            "id": 39842,
+            "uri": "https://sedra.bethmardutho.org/api/word/39842.json"
+        }
+    }
+]

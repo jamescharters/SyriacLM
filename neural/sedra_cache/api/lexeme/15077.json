@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15077,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15077.json"
+        },
+        "syriac": "\u071a\u0720\u072b",
+        "glosses": {
+            "English": [
+                "IIa to weaken",
+                "IIp to be enfeebled, discouraged."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3093,
+            "uri": "https://sedra.bethmardutho.org/api/root/3093.json"
+        },
+        "words": [
+            {
+                "id": 40196,
+                "uri": "https://sedra.bethmardutho.org/api/word/40196.json"
+            },
+            {
+                "id": 40164,
+                "uri": "https://sedra.bethmardutho.org/api/word/40164.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

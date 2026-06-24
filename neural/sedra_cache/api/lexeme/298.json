@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 298,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/298.json"
+        },
+        "syriac": "\u0710\u072a\u0723\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Erastus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 220,
+            "uri": "https://sedra.bethmardutho.org/api/root/220.json"
+        },
+        "words": [
+            {
+                "id": 1940,
+                "uri": "https://sedra.bethmardutho.org/api/word/1940.json"
+            },
+            {
+                "id": 1939,
+                "uri": "https://sedra.bethmardutho.org/api/word/1939.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

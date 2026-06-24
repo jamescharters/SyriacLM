@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u072a\u0712\u0725",
+        "western": "\u072a\u0712\u0742\u0730\u0725",
+        "lexeme": {
+            "id": 273,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/273.json"
+        },
+        "stem": "\u072a\u0712\u0725",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "2 IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u072a\u0730\u0712\u0730\u0725</span> to be squared, made square.",
+                "square",
+                "play tambourine"
+            ]
+        },
+        "word": {
+            "id": 1861,
+            "uri": "https://sedra.bethmardutho.org/api/word/1861.json"
+        }
+    }
+]

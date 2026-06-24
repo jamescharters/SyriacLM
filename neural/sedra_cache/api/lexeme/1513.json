@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 1513,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1513.json"
+        },
+        "syriac": "\u071f\u071d\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "measure",
+                "measure."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 894,
+            "uri": "https://sedra.bethmardutho.org/api/root/894.json"
+        },
+        "words": [
+            {
+                "id": 9907,
+                "uri": "https://sedra.bethmardutho.org/api/word/9907.json"
+            },
+            {
+                "id": 9906,
+                "uri": "https://sedra.bethmardutho.org/api/word/9906.json"
+            },
+            {
+                "id": 9908,
+                "uri": "https://sedra.bethmardutho.org/api/word/9908.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

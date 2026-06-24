@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0717\u0726\u071d\u071f\u072c\u0710",
+        "western": "\u0717\u0726\u073a\u071d\u071f\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12788,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12788.json"
+        },
+        "stem": "\u0717\u0726\u071d\u071f\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0644\u0627\u0643",
+                "\u0635\u0631\u0639"
+            ],
+            "eng": [
+                "overthrow, ruin."
+            ],
+            "fre": [
+                "fin",
+                "renversement"
+            ]
+        },
+        "word": {
+            "id": 33575,
+            "uri": "https://sedra.bethmardutho.org/api/word/33575.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2841,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2841.json"
+        },
+        "syriac": "\u0729\u0722\u0718\u071b\u072c\u0722\u0710",
+        "glosses": {
+            "English": [
+                "fearful",
+                "timid."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1682,
+            "uri": "https://sedra.bethmardutho.org/api/root/1682.json"
+        },
+        "words": [
+            {
+                "id": 18459,
+                "uri": "https://sedra.bethmardutho.org/api/word/18459.json"
+            },
+            {
+                "id": 18461,
+                "uri": "https://sedra.bethmardutho.org/api/word/18461.json"
+            },
+            {
+                "id": 18460,
+                "uri": "https://sedra.bethmardutho.org/api/word/18460.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

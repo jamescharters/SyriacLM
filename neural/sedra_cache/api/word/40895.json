@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u072b\u0713",
+        "western": "\u072b\u0733\u0713",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15820,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15820.json"
+        },
+        "stem": "\u072b\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0633\u0644"
+            ],
+            "eng": [
+                "IIIp.",
+                "IIa <span class=\"selectableFont\">\u072b\u0730\u071d\u0736\u0713</span> to wash",
+                "Ia to rub down",
+                "IIIa to wash, to wash away, to scour, to purify",
+                "to wash",
+                "wash",
+                "to wash."
+            ],
+            "fre": [
+                "laver"
+            ]
+        },
+        "word": {
+            "id": 40895,
+            "uri": "https://sedra.bethmardutho.org/api/word/40895.json"
+        }
+    }
+]

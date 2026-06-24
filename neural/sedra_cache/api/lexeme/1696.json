@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1696,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1696.json"
+        },
+        "syriac": "\u0721\u0710",
+        "glosses": {
+            "English": [
+                "what",
+                "what",
+                "when",
+                "-<span class=\"selectableFont\">\u071f\u0720 \u0721\u0733\u0710 \u0715</span> whatsoever, whensoever.",
+                "how! -<span class=\"selectableFont\">\u0721\u0733\u0710 \u0715</span> that which"
+            ],
+            "Arabic": [
+                "\u0645\u0627 \u061f \u0623\u064a \u061f \u0643\u064a\u0641\u061f \u0643\u0645 \u061f \u0643\u0645 ! \u0645\u0627!"
+            ],
+            "French": [
+                "quoi? quel\u2026? comment? combien? comme\u2026! que\u2026!"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1007,
+            "uri": "https://sedra.bethmardutho.org/api/root/1007.json"
+        },
+        "words": [
+            {
+                "id": 11173,
+                "uri": "https://sedra.bethmardutho.org/api/word/11173.json"
+            },
+            {
+                "id": 11172,
+                "uri": "https://sedra.bethmardutho.org/api/word/11172.json"
+            },
+            {
+                "id": 11174,
+                "uri": "https://sedra.bethmardutho.org/api/word/11174.json"
+            }
+        ],
+        "category": "pronoun"
+    }
+]

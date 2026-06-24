@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 895,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/895.json"
+        },
+        "syriac": "\u0721\u0719\u0721\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0632\u0645\u0648\u0631"
+            ],
+            "French": [
+                "psaume"
+            ],
+            "English": [
+                "psalm.",
+                "psalm"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 569,
+            "uri": "https://sedra.bethmardutho.org/api/root/569.json"
+        },
+        "words": [
+            {
+                "id": 5782,
+                "uri": "https://sedra.bethmardutho.org/api/word/5782.json"
+            },
+            {
+                "id": 5781,
+                "uri": "https://sedra.bethmardutho.org/api/word/5781.json"
+            },
+            {
+                "id": 5780,
+                "uri": "https://sedra.bethmardutho.org/api/word/5780.json"
+            },
+            {
+                "id": 5779,
+                "uri": "https://sedra.bethmardutho.org/api/word/5779.json"
+            },
+            {
+                "id": 5784,
+                "uri": "https://sedra.bethmardutho.org/api/word/5784.json"
+            },
+            {
+                "id": 5783,
+                "uri": "https://sedra.bethmardutho.org/api/word/5783.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071a\u0726\u071b\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u071a\u0730\u0726\u071b\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10910,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10910.json"
+        },
+        "stem": "\u0721\u071a\u0726\u071b\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u062b\u0627\u0631\u0629, \u062a\u062d\u0631\u064a\u0636"
+            ],
+            "eng": [
+                "encouragement, exhortation."
+            ],
+            "fre": [
+                "excitation, exhortation"
+            ]
+        },
+        "word": {
+            "id": 33766,
+            "uri": "https://sedra.bethmardutho.org/api/word/33766.json"
+        }
+    }
+]

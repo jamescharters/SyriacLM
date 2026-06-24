@@ -1,0 +1,76 @@
+[
+    {
+        "lexeme": {
+            "id": 1582,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1582.json"
+        },
+        "syriac": "\u071f\u072a\u071d\u0717\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u064a\u0636",
+                "\u0636\u0639\u064a\u0641",
+                "\u0647\u0631\u0637\u0648\u0642\u064a"
+            ],
+            "French": [
+                "malade",
+                "d\u00e9bile",
+                "h\u00e9r\u00e9tique"
+            ],
+            "English": [
+                "sick",
+                "weak",
+                "infirm",
+                "sick, ill, infirm."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 928,
+            "uri": "https://sedra.bethmardutho.org/api/root/928.json"
+        },
+        "words": [
+            {
+                "id": 10423,
+                "uri": "https://sedra.bethmardutho.org/api/word/10423.json"
+            },
+            {
+                "id": 10422,
+                "uri": "https://sedra.bethmardutho.org/api/word/10422.json"
+            },
+            {
+                "id": 10415,
+                "uri": "https://sedra.bethmardutho.org/api/word/10415.json"
+            },
+            {
+                "id": 10413,
+                "uri": "https://sedra.bethmardutho.org/api/word/10413.json"
+            },
+            {
+                "id": 10410,
+                "uri": "https://sedra.bethmardutho.org/api/word/10410.json"
+            },
+            {
+                "id": 10407,
+                "uri": "https://sedra.bethmardutho.org/api/word/10407.json"
+            },
+            {
+                "id": 10418,
+                "uri": "https://sedra.bethmardutho.org/api/word/10418.json"
+            },
+            {
+                "id": 10417,
+                "uri": "https://sedra.bethmardutho.org/api/word/10417.json"
+            },
+            {
+                "id": 10420,
+                "uri": "https://sedra.bethmardutho.org/api/word/10420.json"
+            },
+            {
+                "id": 10419,
+                "uri": "https://sedra.bethmardutho.org/api/word/10419.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

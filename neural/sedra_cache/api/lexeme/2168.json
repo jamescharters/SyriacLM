@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2168,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2168.json"
+        },
+        "syriac": "\u0723\u0718\u0722\u0729\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0627\u062c\u0629"
+            ],
+            "French": [
+                "besoin"
+            ],
+            "English": [
+                "need",
+                "necessity",
+                "need, necessity."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1295,
+            "uri": "https://sedra.bethmardutho.org/api/root/1295.json"
+        },
+        "words": [
+            {
+                "id": 26485,
+                "uri": "https://sedra.bethmardutho.org/api/word/26485.json"
+            },
+            {
+                "id": 14414,
+                "uri": "https://sedra.bethmardutho.org/api/word/14414.json"
+            },
+            {
+                "id": 14413,
+                "uri": "https://sedra.bethmardutho.org/api/word/14413.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

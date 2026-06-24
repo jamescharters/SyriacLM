@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u071b\u072a\u0729",
+        "western": "\u071b\u072a\u0730\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15817,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15817.json"
+        },
+        "stem": "\u071b\u072a\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062f\u0644",
+                "\u062a\u062f\u0628\u0631, \u0627\u062e\u062a\u0628\u0631"
+            ],
+            "eng": [
+                "Ia to select."
+            ],
+            "fre": [
+                "\u00eatre honn\u00eate",
+                "\u00eatre expert"
+            ]
+        },
+        "word": {
+            "id": 40657,
+            "uri": "https://sedra.bethmardutho.org/api/word/40657.json"
+        }
+    }
+]

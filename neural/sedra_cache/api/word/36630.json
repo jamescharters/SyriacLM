@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0710\u0723\u071b\u0718\u071f\u0710",
+        "western": "\u0710\u0736\u0723\u071b\u073d\u0718\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14400.json"
+        },
+        "stem": "\u0710\u0723\u071b\u0718\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "letter.",
+                "element, first principle"
+            ]
+        },
+        "word": {
+            "id": 36630,
+            "uri": "https://sedra.bethmardutho.org/api/word/36630.json"
+        }
+    }
+]

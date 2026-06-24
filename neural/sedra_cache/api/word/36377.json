@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u0721\u0718\u0728\u0718\u072c\u0710",
+        "western": "\u071a\u0730\u0721\u073d\u0718\u0728\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13215,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13215.json"
+        },
+        "stem": "\u071a\u0721\u0718\u0728\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0645\u0648\u0636\u0629"
+            ],
+            "eng": [
+                "Kth. heartburn.",
+                "sourness, acidity, sharpness"
+            ],
+            "fre": [
+                "acidit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 36377,
+            "uri": "https://sedra.bethmardutho.org/api/word/36377.json"
+        }
+    }
+]

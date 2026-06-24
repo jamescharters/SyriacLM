@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15775,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15775.json"
+        },
+        "syriac": "\u072b\u0713\u072a",
+        "glosses": {
+            "English": [
+                "to inflame",
+                "Ip",
+                "IIa to fire.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072b\u0713\u073d\u0718\u072a</span>, Ia to kindle, to heat"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2217,
+            "uri": "https://sedra.bethmardutho.org/api/root/2217.json"
+        },
+        "words": [
+            {
+                "id": 42049,
+                "uri": "https://sedra.bethmardutho.org/api/word/42049.json"
+            },
+            {
+                "id": 39831,
+                "uri": "https://sedra.bethmardutho.org/api/word/39831.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

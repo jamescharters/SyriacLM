@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u0712\u0725",
+        "western": "\u0722\u0712\u0742\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1897,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1897.json"
+        },
+        "stem": "\u0722\u0712\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to pour forth",
+                "to bring forth.",
+                "to utter",
+                "Ia to spring up, shoot up, burst forth",
+                "speak forth",
+                "spring up"
+            ]
+        },
+        "word": {
+            "id": 12437,
+            "uri": "https://sedra.bethmardutho.org/api/word/12437.json"
+        }
+    }
+]

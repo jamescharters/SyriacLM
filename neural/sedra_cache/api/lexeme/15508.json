@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15508,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15508.json"
+        },
+        "syriac": "\u071f\u0718\u0719",
+        "glosses": {
+            "English": [
+                "to be timid.",
+                "Ia to shrink back"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2288,
+            "uri": "https://sedra.bethmardutho.org/api/root/2288.json"
+        },
+        "words": [
+            {
+                "id": 41807,
+                "uri": "https://sedra.bethmardutho.org/api/word/41807.json"
+            },
+            {
+                "id": 40977,
+                "uri": "https://sedra.bethmardutho.org/api/word/40977.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

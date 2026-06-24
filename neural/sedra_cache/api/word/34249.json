@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0726\u071d\u071a\u0718\u072c\u0710",
+        "western": "\u0722\u0726\u073a\u071d\u071a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8265,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8265.json"
+        },
+        "stem": "\u0722\u0726\u071d\u071a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0646\u0641\u062e"
+            ],
+            "eng": [
+                "swelling",
+                "being puffed up."
+            ],
+            "fre": [
+                "enflure"
+            ]
+        },
+        "word": {
+            "id": 34249,
+            "uri": "https://sedra.bethmardutho.org/api/word/34249.json"
+        }
+    }
+]

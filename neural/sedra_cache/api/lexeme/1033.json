@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1033,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1033.json"
+        },
+        "syriac": "\u071a\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0642\u0627\u0628",
+                "\u063a\u0628\u0627\u0631"
+            ],
+            "French": [
+                "voile",
+                "poussi\u00e8re"
+            ],
+            "English": [
+                "dust",
+                "dust",
+                "<span class=\"selectableFont\">\u071a\u0308\u0736\u0720\u0736\u0710 \u0715\u0725\u0730\u071d\u0308</span><span class=\"selectableFont\">\u0722\u0736\u0710</span> cataract."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 624,
+            "uri": "https://sedra.bethmardutho.org/api/root/624.json"
+        },
+        "words": [
+            {
+                "id": 7051,
+                "uri": "https://sedra.bethmardutho.org/api/word/7051.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

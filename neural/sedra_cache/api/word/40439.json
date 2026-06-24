@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0713\u0712\u0722",
+        "western": "\u0713\u0712\u0730\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15592,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15592.json"
+        },
+        "stem": "\u0713\u0712\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to curdle",
+                "Ip",
+                "to harden",
+                "IIa to curdle (something)."
+            ]
+        },
+        "word": {
+            "id": 40439,
+            "uri": "https://sedra.bethmardutho.org/api/word/40439.json"
+        }
+    }
+]

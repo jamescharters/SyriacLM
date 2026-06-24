@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0723\u0721\u0715\u072a",
+        "western": "\u0723\u0730\u0721\u0715\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14651,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14651.json"
+        },
+        "stem": "\u0723\u0721\u0715\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to blossom."
+            ]
+        },
+        "word": {
+            "id": 41054,
+            "uri": "https://sedra.bethmardutho.org/api/word/41054.json"
+        }
+    }
+]

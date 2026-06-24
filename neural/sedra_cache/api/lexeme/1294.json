@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 1294,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1294.json"
+        },
+        "syriac": "\u0721\u0718\u0712\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0645\u0644"
+            ],
+            "French": [
+                "charge"
+            ],
+            "English": [
+                "burden",
+                "load",
+                "burden, load, cargo."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 765,
+            "uri": "https://sedra.bethmardutho.org/api/root/765.json"
+        },
+        "words": [
+            {
+                "id": 8445,
+                "uri": "https://sedra.bethmardutho.org/api/word/8445.json"
+            },
+            {
+                "id": 25005,
+                "uri": "https://sedra.bethmardutho.org/api/word/25005.json"
+            },
+            {
+                "id": 24799,
+                "uri": "https://sedra.bethmardutho.org/api/word/24799.json"
+            },
+            {
+                "id": 8447,
+                "uri": "https://sedra.bethmardutho.org/api/word/8447.json"
+            },
+            {
+                "id": 8446,
+                "uri": "https://sedra.bethmardutho.org/api/word/8446.json"
+            },
+            {
+                "id": 8444,
+                "uri": "https://sedra.bethmardutho.org/api/word/8444.json"
+            },
+            {
+                "id": 8443,
+                "uri": "https://sedra.bethmardutho.org/api/word/8443.json"
+            },
+            {
+                "id": 8442,
+                "uri": "https://sedra.bethmardutho.org/api/word/8442.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0729\u072b",
+        "western": "\u0722\u0736\u0729\u0730\u072b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15928,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15928.json"
+        },
+        "stem": "\u0729\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "grow old",
+                "IIa to give precedence",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u073d\u0718\u072b</span> & <span class=\"selectableFont\">\u0722\u0736\u0729\u0730\u072b</span>, Ia to grow old",
+                "IIp to be old."
+            ]
+        },
+        "word": {
+            "id": 42003,
+            "uri": "https://sedra.bethmardutho.org/api/word/42003.json"
+        }
+    }
+]

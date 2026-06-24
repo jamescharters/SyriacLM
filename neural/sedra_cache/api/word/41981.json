@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0722\u0726\u072c\u0718\u0729",
+        "western": "\u0722\u0736\u0726\u072c\u073d\u0718\u0729",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15630,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15630.json"
+        },
+        "stem": "\u0726\u072c\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0638\u0647\u0631",
+                "\u0627\u0646\u0641\u062c\u0631, \u0627\u0646\u0641\u0642\u0639",
+                "\u0641\u062c\u0631, \u0641\u062a\u0642"
+            ],
+            "eng": [
+                "Ip to burst (of boils etc.).",
+                "Ia to burst open",
+                "to penetrate"
+            ],
+            "fre": [
+                "\u00e9clater, crever",
+                "manifester",
+                "faire \u00e9clater, crever"
+            ]
+        },
+        "word": {
+            "id": 41981,
+            "uri": "https://sedra.bethmardutho.org/api/word/41981.json"
+        }
+    }
+]

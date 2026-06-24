@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0725\u071b",
+        "western": "\u072b\u0730\u072a\u0725\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14760,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14760.json"
+        },
+        "stem": "\u072b\u072a\u0725\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to quiver."
+            ]
+        },
+        "word": {
+            "id": 41305,
+            "uri": "https://sedra.bethmardutho.org/api/word/41305.json"
+        }
+    }
+]

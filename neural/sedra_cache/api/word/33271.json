@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u0712\u071d\u072b\u0710",
+        "western": "\u071a\u0712\u073a\u071d\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8143,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8143.json"
+        },
+        "stem": "\u071a\u0712\u071d\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0627\u0647\u0628, \u062d\u0628\u064a\u0633"
+            ],
+            "eng": [
+                "recluse.",
+                "prisoner"
+            ],
+            "fre": [
+                "moine, ermite"
+            ]
+        },
+        "word": {
+            "id": 33271,
+            "uri": "https://sedra.bethmardutho.org/api/word/33271.json"
+        }
+    }
+]

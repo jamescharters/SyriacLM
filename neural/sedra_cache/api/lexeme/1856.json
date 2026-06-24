@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 1856,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1856.json"
+        },
+        "syriac": "\u0721\u072a\u071b\u0718\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0639\u0637\u0641"
+            ],
+            "French": [
+                "manteau"
+            ],
+            "English": [
+                "cloak.",
+                "cloak"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1105,
+            "uri": "https://sedra.bethmardutho.org/api/root/1105.json"
+        },
+        "words": [
+            {
+                "id": 29656,
+                "uri": "https://sedra.bethmardutho.org/api/word/29656.json"
+            },
+            {
+                "id": 12253,
+                "uri": "https://sedra.bethmardutho.org/api/word/12253.json"
+            },
+            {
+                "id": 12256,
+                "uri": "https://sedra.bethmardutho.org/api/word/12256.json"
+            },
+            {
+                "id": 12255,
+                "uri": "https://sedra.bethmardutho.org/api/word/12255.json"
+            },
+            {
+                "id": 12254,
+                "uri": "https://sedra.bethmardutho.org/api/word/12254.json"
+            },
+            {
+                "id": 12252,
+                "uri": "https://sedra.bethmardutho.org/api/word/12252.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethpa\u02bf\u02bfal"
+    }
+]

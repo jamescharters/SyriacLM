@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 968,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/968.json"
+        },
+        "syriac": "\u071a\u0718\u0715\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u062c\u062f\u064a\u062f",
+                "\u0625\u0628\u062f\u0627\u0639",
+                "\u062a\u062f\u0634\u064a\u0646"
+            ],
+            "French": [
+                "renouvellement",
+                "innovation",
+                "d\u00e9dicace"
+            ],
+            "English": [
+                "renewal",
+                "Encaenia",
+                "Dedication",
+                "renewal, restoration.",
+                "initiating, founding, institution, dedication"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 599,
+            "uri": "https://sedra.bethmardutho.org/api/root/599.json"
+        },
+        "words": [
+            {
+                "id": 6336,
+                "uri": "https://sedra.bethmardutho.org/api/word/6336.json"
+            },
+            {
+                "id": 6335,
+                "uri": "https://sedra.bethmardutho.org/api/word/6335.json"
+            },
+            {
+                "id": 6334,
+                "uri": "https://sedra.bethmardutho.org/api/word/6334.json"
+            },
+            {
+                "id": 6333,
+                "uri": "https://sedra.bethmardutho.org/api/word/6333.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

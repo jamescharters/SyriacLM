@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0718\u0721\u0718\u0729\u0715",
+        "western": "\u0718\u0721\u0730\u0718\u0729\u0736\u0715\u0742",
+        "tense": "active participle",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1412,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1412.json"
+        },
+        "stem": "\u071d\u0729\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to catch fire, to be burnt up",
+                "burn",
+                "set (on fire)",
+                "IIp to be set on fire, to be burnt up",
+                "to be inflamed, to burn",
+                "to inflame",
+                "IIIp to be burnt up.",
+                "Ip to be on fire, to burn",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0729\u0736\u0715</span> to set on fire, to burn up, to consume"
+            ]
+        },
+        "word": {
+            "id": 25570,
+            "uri": "https://sedra.bethmardutho.org/api/word/25570.json"
+        }
+    }
+]

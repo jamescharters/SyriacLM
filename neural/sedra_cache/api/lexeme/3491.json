@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3491,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3491.json"
+        },
+        "syriac": "\u071f\u072c\u071d\u0712\u0710",
+        "glosses": {
+            "English": [
+                "written"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 938,
+            "uri": "https://sedra.bethmardutho.org/api/root/938.json"
+        },
+        "words": [
+            {
+                "id": 3182,
+                "uri": "https://sedra.bethmardutho.org/api/word/3182.json"
+            },
+            {
+                "id": 10605,
+                "uri": "https://sedra.bethmardutho.org/api/word/10605.json"
+            },
+            {
+                "id": 10618,
+                "uri": "https://sedra.bethmardutho.org/api/word/10618.json"
+            },
+            {
+                "id": 10615,
+                "uri": "https://sedra.bethmardutho.org/api/word/10615.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

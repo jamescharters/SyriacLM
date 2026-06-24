@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u072a\u072b\u072c\u0710",
+        "western": "\u071a\u0730\u072a\u072b\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1156,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1156.json"
+        },
+        "stem": "\u071a\u072a\u072b\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "mute",
+                "1 deaf, dumb, deaf-mute",
+                "uncultivated (of land).",
+                "deaf",
+                "dumb"
+            ]
+        },
+        "word": {
+            "id": 7582,
+            "uri": "https://sedra.bethmardutho.org/api/word/7582.json"
+        }
+    }
+]

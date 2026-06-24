@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1061,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1061.json"
+        },
+        "syriac": "\u071a\u0721\u071d\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0627\u0631, \u0645\u0636\u0637\u0631\u0645",
+                "\u0643\u0644\u0623"
+            ],
+            "French": [
+                "chaud, ardent",
+                "herbe tendre"
+            ],
+            "English": [
+                "hot",
+                "fervent",
+                "hot",
+                "hay."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 637,
+            "uri": "https://sedra.bethmardutho.org/api/root/637.json"
+        },
+        "words": [
+            {
+                "id": 7169,
+                "uri": "https://sedra.bethmardutho.org/api/word/7169.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

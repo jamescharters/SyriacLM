@@ -1,0 +1,108 @@
+[
+    {
+        "lexeme": {
+            "id": 2602,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2602.json"
+        },
+        "syriac": "\u0726\u072a\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0634\u0641 (\u0627\u0644\u0631\u0623\u0633)",
+                "\u0634\u0639\u062b (\u0627\u0644\u0634\u0639\u0631)",
+                "\u0623\u0646\u0628\u062a",
+                "\u062c\u062f\u0631, \u0646\u0628\u062a",
+                "\u0631\u062f",
+                "\u0623\u0639\u0627\u062f \u0625\u0644\u0649"
+            ],
+            "French": [
+                "d\u00e9couvrir (la t\u00eate)",
+                "d\u00e9nouer (les cheveux)",
+                "produire",
+                "sortir, pousser",
+                "rendre",
+                "rendre \u00e0"
+            ],
+            "English": [
+                "spring up",
+                "IIIa to germinate.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0726\u072a\u0730\u0725</span>, Ia to sprout, to bud"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1545,
+            "uri": "https://sedra.bethmardutho.org/api/root/1545.json"
+        },
+        "words": [
+            {
+                "id": 27711,
+                "uri": "https://sedra.bethmardutho.org/api/word/27711.json"
+            },
+            {
+                "id": 27710,
+                "uri": "https://sedra.bethmardutho.org/api/word/27710.json"
+            },
+            {
+                "id": 27709,
+                "uri": "https://sedra.bethmardutho.org/api/word/27709.json"
+            },
+            {
+                "id": 27708,
+                "uri": "https://sedra.bethmardutho.org/api/word/27708.json"
+            },
+            {
+                "id": 16901,
+                "uri": "https://sedra.bethmardutho.org/api/word/16901.json"
+            },
+            {
+                "id": 16900,
+                "uri": "https://sedra.bethmardutho.org/api/word/16900.json"
+            },
+            {
+                "id": 16899,
+                "uri": "https://sedra.bethmardutho.org/api/word/16899.json"
+            },
+            {
+                "id": 16898,
+                "uri": "https://sedra.bethmardutho.org/api/word/16898.json"
+            },
+            {
+                "id": 27715,
+                "uri": "https://sedra.bethmardutho.org/api/word/27715.json"
+            },
+            {
+                "id": 27714,
+                "uri": "https://sedra.bethmardutho.org/api/word/27714.json"
+            },
+            {
+                "id": 27713,
+                "uri": "https://sedra.bethmardutho.org/api/word/27713.json"
+            },
+            {
+                "id": 27712,
+                "uri": "https://sedra.bethmardutho.org/api/word/27712.json"
+            },
+            {
+                "id": 16906,
+                "uri": "https://sedra.bethmardutho.org/api/word/16906.json"
+            },
+            {
+                "id": 16905,
+                "uri": "https://sedra.bethmardutho.org/api/word/16905.json"
+            },
+            {
+                "id": 16904,
+                "uri": "https://sedra.bethmardutho.org/api/word/16904.json"
+            },
+            {
+                "id": 16903,
+                "uri": "https://sedra.bethmardutho.org/api/word/16903.json"
+            },
+            {
+                "id": 16902,
+                "uri": "https://sedra.bethmardutho.org/api/word/16902.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

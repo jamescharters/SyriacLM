@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0728\u0720\u0720",
+        "western": "\u0728\u0720\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 19736,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19736.json"
+        },
+        "stem": "\u0728\u0720\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0642\u0649 (\u0645\u0636)",
+                "\u0635\u0641\u0649 (\u0645\u0636)"
+            ],
+            "eng": [
+                "strain"
+            ],
+            "fre": [
+                "filtrer",
+                "purifier"
+            ]
+        },
+        "word": {
+            "id": 17468,
+            "uri": "https://sedra.bethmardutho.org/api/word/17468.json"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1188,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1188.json"
+        },
+        "syriac": "\u071a\u072c\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0627\u062a\u0645"
+            ],
+            "French": [
+                "sceau"
+            ],
+            "English": [
+                "seal",
+                "ratification",
+                "seal."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 699,
+            "uri": "https://sedra.bethmardutho.org/api/root/699.json"
+        },
+        "words": [
+            {
+                "id": 7837,
+                "uri": "https://sedra.bethmardutho.org/api/word/7837.json"
+            },
+            {
+                "id": 7838,
+                "uri": "https://sedra.bethmardutho.org/api/word/7838.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

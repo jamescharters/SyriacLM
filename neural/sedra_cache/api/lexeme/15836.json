@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15836,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15836.json"
+        },
+        "syriac": "\u0728\u072a\u0721",
+        "glosses": {
+            "English": [
+                "to crop, cut off the ears",
+                "Ia, IIa to pluck, crop, prune",
+                "IIIa to be firmly resolved, resort to",
+                "to dare."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3081,
+            "uri": "https://sedra.bethmardutho.org/api/root/3081.json"
+        },
+        "words": [
+            {
+                "id": 44672,
+                "uri": "https://sedra.bethmardutho.org/api/word/44672.json"
+            },
+            {
+                "id": 41669,
+                "uri": "https://sedra.bethmardutho.org/api/word/41669.json"
+            },
+            {
+                "id": 40709,
+                "uri": "https://sedra.bethmardutho.org/api/word/40709.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

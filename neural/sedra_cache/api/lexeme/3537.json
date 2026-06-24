@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3537,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3537.json"
+        },
+        "syriac": "\u0721\u0713\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "sickle",
+                "sickle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1018,
+            "uri": "https://sedra.bethmardutho.org/api/root/1018.json"
+        },
+        "words": [
+            {
+                "id": 11223,
+                "uri": "https://sedra.bethmardutho.org/api/word/11223.json"
+            },
+            {
+                "id": 11225,
+                "uri": "https://sedra.bethmardutho.org/api/word/11225.json"
+            },
+            {
+                "id": 11224,
+                "uri": "https://sedra.bethmardutho.org/api/word/11224.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

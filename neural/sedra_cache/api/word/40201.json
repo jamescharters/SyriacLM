@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0726\u071b",
+        "western": "\u0729\u0726\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15827,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15827.json"
+        },
+        "stem": "\u0729\u0726\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to jump."
+            ]
+        },
+        "word": {
+            "id": 40201,
+            "uri": "https://sedra.bethmardutho.org/api/word/40201.json"
+        }
+    }
+]

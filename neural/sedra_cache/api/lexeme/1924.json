@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1924,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1924.json"
+        },
+        "syriac": "\u0722\u0718\u071a",
+        "glosses": {
+            "English": [
+                "Noah"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1148,
+            "uri": "https://sedra.bethmardutho.org/api/root/1148.json"
+        },
+        "words": [
+            {
+                "id": 12596,
+                "uri": "https://sedra.bethmardutho.org/api/word/12596.json"
+            },
+            {
+                "id": 12595,
+                "uri": "https://sedra.bethmardutho.org/api/word/12595.json"
+            },
+            {
+                "id": 12597,
+                "uri": "https://sedra.bethmardutho.org/api/word/12597.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

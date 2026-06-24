@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0719\u0726",
+        "western": "\u0710\u0730\u0718\u0719\u0736\u0726",
+        "eastern": "\u0710\u0718\u0719\u0726",
+        "lexeme": {
+            "id": 16569,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16569.json"
+        },
+        "stem": "\u0710\u0718\u0719\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0631\u0636"
+            ],
+            "eng": [
+                "to lend"
+            ],
+            "fre": [
+                "pr\u00eater"
+            ]
+        },
+        "word": {
+            "id": 42943,
+            "uri": "https://sedra.bethmardutho.org/api/word/42943.json"
+        }
+    }
+]

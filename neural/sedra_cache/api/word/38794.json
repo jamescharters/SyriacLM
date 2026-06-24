@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0722\u0713\u0720\u071d\u0710",
+        "western": "\u0710\u0718\u0730\u0722\u0713\u0736\u0720\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6145,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6145.json"
+        },
+        "stem": "\u0710\u0718\u0722\u0713\u0720\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Gospel deacon.",
+                "pertaining to the Gospels",
+                "evangelical"
+            ],
+            "lat": [
+                "evangelicus"
+            ]
+        },
+        "word": {
+            "id": 38794,
+            "uri": "https://sedra.bethmardutho.org/api/word/38794.json"
+        }
+    }
+]

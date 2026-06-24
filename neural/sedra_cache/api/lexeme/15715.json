@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15715,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15715.json"
+        },
+        "syriac": "\u0722\u0725\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0623\u0631"
+            ],
+            "French": [
+                "rugir"
+            ],
+            "English": [
+                "Ia to make a sound",
+                "to roar, growl",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0722\u0725\u0736\u0721</span> to rebuke, to chide."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2337,
+            "uri": "https://sedra.bethmardutho.org/api/root/2337.json"
+        },
+        "words": [
+            {
+                "id": 41805,
+                "uri": "https://sedra.bethmardutho.org/api/word/41805.json"
+            },
+            {
+                "id": 41404,
+                "uri": "https://sedra.bethmardutho.org/api/word/41404.json"
+            },
+            {
+                "id": 41236,
+                "uri": "https://sedra.bethmardutho.org/api/word/41236.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072a\u0713\u0712",
+        "western": "\u072a\u0730\u0713\u0736\u0712",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15299.json"
+        },
+        "stem": "\u072a\u0713\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u062c\u0641\u0641"
+            ],
+            "eng": [
+                "IIa to dry up."
+            ],
+            "fre": [
+                "dess\u00e9cher"
+            ]
+        },
+        "word": {
+            "id": 39828,
+            "uri": "https://sedra.bethmardutho.org/api/word/39828.json"
+        }
+    }
+]

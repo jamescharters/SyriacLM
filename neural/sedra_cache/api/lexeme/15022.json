@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15022.json"
+        },
+        "syriac": "\u0717\u071b\u071b",
+        "glosses": {
+            "English": [
+                "IIa to prick",
+                "to provoke."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3084,
+            "uri": "https://sedra.bethmardutho.org/api/root/3084.json"
+        },
+        "words": [
+            {
+                "id": 40826,
+                "uri": "https://sedra.bethmardutho.org/api/word/40826.json"
+            },
+            {
+                "id": 40674,
+                "uri": "https://sedra.bethmardutho.org/api/word/40674.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

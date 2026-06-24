@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071f\u0722",
+        "western": "\u071f\u0733\u0722",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15055,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15055.json"
+        },
+        "stem": "\u071f\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp.",
+                "2 IIa <span class=\"selectableFont\">\u071f\u0730\u0718\u0736\u0722</span> to set right, admonish, correct, rebuke"
+            ]
+        },
+        "word": {
+            "id": 39818,
+            "uri": "https://sedra.bethmardutho.org/api/word/39818.json"
+        }
+    }
+]

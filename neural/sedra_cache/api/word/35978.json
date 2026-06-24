@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071d\u0715\u0722\u0710",
+        "western": "\u071d\u0730\u0715\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11024,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11024.json"
+        },
+        "stem": "\u071d\u0715\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0628\u0639"
+            ],
+            "eng": [
+                "hyena."
+            ],
+            "fre": [
+                "hy\u00e8ne"
+            ]
+        },
+        "word": {
+            "id": 35978,
+            "uri": "https://sedra.bethmardutho.org/api/word/35978.json"
+        }
+    }
+]

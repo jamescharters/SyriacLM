@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0712\u0725\u071d\u0722",
+        "western": "\u0710\u0730\u072a\u0712\u0741\u0725\u073a\u071d\u0722",
+        "lexeme": {
+            "id": 268,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/268.json"
+        },
+        "stem": "\u0710\u072a\u0712\u0725\u071d\u0722",
+        "category": "numeral",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "forty",
+                "forty days of Lent.",
+                "forty"
+            ]
+        },
+        "word": {
+            "id": 1853,
+            "uri": "https://sedra.bethmardutho.org/api/word/1853.json"
+        }
+    }
+]

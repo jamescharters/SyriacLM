@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2487,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2487.json"
+        },
+        "syriac": "\u0726\u071b\u072a\u0712\u0710",
+        "glosses": {
+            "English": [
+                "Patrobas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1474,
+            "uri": "https://sedra.bethmardutho.org/api/root/1474.json"
+        },
+        "words": [
+            {
+                "id": 16302,
+                "uri": "https://sedra.bethmardutho.org/api/word/16302.json"
+            },
+            {
+                "id": 16301,
+                "uri": "https://sedra.bethmardutho.org/api/word/16301.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

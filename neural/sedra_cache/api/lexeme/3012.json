@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3012,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3012.json"
+        },
+        "syriac": "\u072a\u071b\u071d\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0637\u0628"
+            ],
+            "French": [
+                "humide"
+            ],
+            "English": [
+                "moist",
+                "humid",
+                "fresh, green.",
+                "moist, wet"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1757,
+            "uri": "https://sedra.bethmardutho.org/api/root/1757.json"
+        },
+        "words": [
+            {
+                "id": 19617,
+                "uri": "https://sedra.bethmardutho.org/api/word/19617.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

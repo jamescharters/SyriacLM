@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 889,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/889.json"
+        },
+        "syriac": "\u0719\u0721\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "invitation",
+                "guest",
+                "appointed",
+                "invited",
+                "guest."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 568,
+            "uri": "https://sedra.bethmardutho.org/api/root/568.json"
+        },
+        "words": [
+            {
+                "id": 24446,
+                "uri": "https://sedra.bethmardutho.org/api/word/24446.json"
+            },
+            {
+                "id": 24445,
+                "uri": "https://sedra.bethmardutho.org/api/word/24445.json"
+            },
+            {
+                "id": 5753,
+                "uri": "https://sedra.bethmardutho.org/api/word/5753.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15538,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15538.json"
+        },
+        "syriac": "\u071d\u071a\u071b",
+        "glosses": {
+            "English": [
+                "IIIa to abort.",
+                "Ia to have a miscarriage"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2262,
+            "uri": "https://sedra.bethmardutho.org/api/root/2262.json"
+        },
+        "words": [
+            {
+                "id": 41906,
+                "uri": "https://sedra.bethmardutho.org/api/word/41906.json"
+            },
+            {
+                "id": 40372,
+                "uri": "https://sedra.bethmardutho.org/api/word/40372.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

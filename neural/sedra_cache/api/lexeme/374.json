@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 374,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/374.json"
+        },
+        "syriac": "\u0712\u071b\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0628\u0644",
+                "\u062d\u0645\u0644",
+                "\u062c\u0646\u064a\u0646",
+                "\u062d\u0628\u0644\u0649"
+            ],
+            "French": [
+                "conception",
+                "gestation",
+                "f\u0153tus",
+                "enceinte"
+            ],
+            "English": [
+                "conception",
+                "conception, pregnancy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 261,
+            "uri": "https://sedra.bethmardutho.org/api/root/261.json"
+        },
+        "words": [
+            {
+                "id": 2573,
+                "uri": "https://sedra.bethmardutho.org/api/word/2573.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

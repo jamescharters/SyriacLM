@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0710\u0721\u0717",
+        "western": "\u0718\u0715\u0742\u0736\u0710\u0721\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 159,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/159.json"
+        },
+        "stem": "\u0710\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0626\u064a\u0633\u0629 \u062f\u064a\u0631",
+                "\u0623\u0635\u0644"
+            ],
+            "eng": [
+                "mother, parent.",
+                "mother"
+            ],
+            "fre": [
+                "origine",
+                "abbesse, sup\u00e9rieure"
+            ]
+        },
+        "word": {
+            "id": 1093,
+            "uri": "https://sedra.bethmardutho.org/api/word/1093.json"
+        }
+    }
+]

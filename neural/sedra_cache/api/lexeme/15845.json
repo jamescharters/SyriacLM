@@ -1,0 +1,75 @@
+[
+    {
+        "lexeme": {
+            "id": 15845,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15845.json"
+        },
+        "syriac": "\u071d\u0719\u0726",
+        "glosses": {
+            "English": [
+                "borrow",
+                "lend",
+                "to lend, to lend at interest.",
+                "Ip",
+                "Ia to borrow",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0719\u0736\u0726</span> to lend, lend on interest."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2800,
+            "uri": "https://sedra.bethmardutho.org/api/root/2800.json"
+        },
+        "words": [
+            {
+                "id": 9000,
+                "uri": "https://sedra.bethmardutho.org/api/word/9000.json"
+            },
+            {
+                "id": 9003,
+                "uri": "https://sedra.bethmardutho.org/api/word/9003.json"
+            },
+            {
+                "id": 25433,
+                "uri": "https://sedra.bethmardutho.org/api/word/25433.json"
+            },
+            {
+                "id": 25434,
+                "uri": "https://sedra.bethmardutho.org/api/word/25434.json"
+            },
+            {
+                "id": 8999,
+                "uri": "https://sedra.bethmardutho.org/api/word/8999.json"
+            },
+            {
+                "id": 9001,
+                "uri": "https://sedra.bethmardutho.org/api/word/9001.json"
+            },
+            {
+                "id": 9002,
+                "uri": "https://sedra.bethmardutho.org/api/word/9002.json"
+            },
+            {
+                "id": 8998,
+                "uri": "https://sedra.bethmardutho.org/api/word/8998.json"
+            },
+            {
+                "id": 42053,
+                "uri": "https://sedra.bethmardutho.org/api/word/42053.json"
+            },
+            {
+                "id": 41243,
+                "uri": "https://sedra.bethmardutho.org/api/word/41243.json"
+            },
+            {
+                "id": 39920,
+                "uri": "https://sedra.bethmardutho.org/api/word/39920.json"
+            },
+            {
+                "id": 39840,
+                "uri": "https://sedra.bethmardutho.org/api/word/39840.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

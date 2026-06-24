@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u0712\u071b\u0718\u0725\u071d\u071d",
+        "western": "\u0715\u0741\u0730\u0712\u0742\u071b\u073d\u0718\u0725\u071d\u0730\u071d",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1259,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1259.json"
+        },
+        "stem": "\u071b\u0718\u0725\u071d\u071d",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "deception",
+                "error, mistake",
+                "forgetting, forgetfulness",
+                "oblivion.",
+                "error"
+            ]
+        },
+        "word": {
+            "id": 8205,
+            "uri": "https://sedra.bethmardutho.org/api/word/8205.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15680,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15680.json"
+        },
+        "syriac": "\u0728\u0715\u0710",
+        "glosses": {
+            "English": [
+                "IIa, IIIa to lay waste.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u0715\u0736\u0710</span>, Ia to be desolate, deserted"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2082,
+            "uri": "https://sedra.bethmardutho.org/api/root/2082.json"
+        },
+        "words": [
+            {
+                "id": 42043,
+                "uri": "https://sedra.bethmardutho.org/api/word/42043.json"
+            },
+            {
+                "id": 41022,
+                "uri": "https://sedra.bethmardutho.org/api/word/41022.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

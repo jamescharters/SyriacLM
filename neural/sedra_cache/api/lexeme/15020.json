@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15020,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15020.json"
+        },
+        "syriac": "\u0723\u071d\u0715",
+        "glosses": {
+            "English": [
+                "IIa to plaster, smear with plaster."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2268,
+            "uri": "https://sedra.bethmardutho.org/api/root/2268.json"
+        },
+        "words": [
+            {
+                "id": 40568,
+                "uri": "https://sedra.bethmardutho.org/api/word/40568.json"
+            },
+            {
+                "id": 40472,
+                "uri": "https://sedra.bethmardutho.org/api/word/40472.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

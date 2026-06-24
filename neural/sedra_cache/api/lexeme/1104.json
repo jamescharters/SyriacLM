@@ -1,0 +1,79 @@
+[
+    {
+        "lexeme": {
+            "id": 1104,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1104.json"
+        },
+        "syriac": "\u071a\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0644, \u0633\u0627\u0645\u062d",
+                "\u0637\u0647\u0631 (\u0645\u0636), \u0642\u062f\u0633 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "absoudre, remettre",
+                "sanctifier, consacrer",
+                "\u00a0"
+            ],
+            "English": [
+                "absolve",
+                "free",
+                "exempt",
+                "to absolve, pardon",
+                "to make atonement",
+                "IIa to make propitiation",
+                "IIp to be absolved, receive absolution",
+                "to be declared free from guilt."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 663,
+            "uri": "https://sedra.bethmardutho.org/api/root/663.json"
+        },
+        "words": [
+            {
+                "id": 7337,
+                "uri": "https://sedra.bethmardutho.org/api/word/7337.json"
+            },
+            {
+                "id": 7334,
+                "uri": "https://sedra.bethmardutho.org/api/word/7334.json"
+            },
+            {
+                "id": 29311,
+                "uri": "https://sedra.bethmardutho.org/api/word/29311.json"
+            },
+            {
+                "id": 24920,
+                "uri": "https://sedra.bethmardutho.org/api/word/24920.json"
+            },
+            {
+                "id": 24919,
+                "uri": "https://sedra.bethmardutho.org/api/word/24919.json"
+            },
+            {
+                "id": 24918,
+                "uri": "https://sedra.bethmardutho.org/api/word/24918.json"
+            },
+            {
+                "id": 24917,
+                "uri": "https://sedra.bethmardutho.org/api/word/24917.json"
+            },
+            {
+                "id": 7338,
+                "uri": "https://sedra.bethmardutho.org/api/word/7338.json"
+            },
+            {
+                "id": 7336,
+                "uri": "https://sedra.bethmardutho.org/api/word/7336.json"
+            },
+            {
+                "id": 7335,
+                "uri": "https://sedra.bethmardutho.org/api/word/7335.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

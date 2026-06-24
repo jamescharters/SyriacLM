@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0720\u0723\u0718\u0726\u071d\u0717",
+        "western": "\u0720\u0723\u0730\u0718\u0726\u0741\u0736\u071d\u0717",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 2099,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2099.json"
+        },
+        "stem": "\u0723\u0718\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "end",
+                "limit",
+                "edge, end, extremity."
+            ]
+        },
+        "word": {
+            "id": 13954,
+            "uri": "https://sedra.bethmardutho.org/api/word/13954.json"
+        }
+    }
+]

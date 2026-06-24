@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 1556,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1556.json"
+        },
+        "syriac": "\u071f\u0723\u071d\u0710",
+        "glosses": {
+            "English": [
+                "secretly",
+                "concealment, hiding."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 917,
+            "uri": "https://sedra.bethmardutho.org/api/root/917.json"
+        },
+        "words": [
+            {
+                "id": 10228,
+                "uri": "https://sedra.bethmardutho.org/api/word/10228.json"
+            },
+            {
+                "id": 10227,
+                "uri": "https://sedra.bethmardutho.org/api/word/10227.json"
+            },
+            {
+                "id": 10229,
+                "uri": "https://sedra.bethmardutho.org/api/word/10229.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

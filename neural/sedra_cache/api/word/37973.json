@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072a\u0726\u071d",
+        "western": "\u072a\u0730\u0726\u073a\u071d",
+        "number": "singular",
+        "lexeme": {
+            "id": 12425,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12425.json"
+        },
+        "stem": "\u072a\u0726\u071d",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0645\u062d",
+                "\u062e\u0644\u0649 (\u0645\u0636)",
+                "\u0623\u0631\u062e\u0649"
+            ],
+            "eng": [
+                "Pael conj. of \u072a\u0726\u0733\u0710",
+                "see <span class=\"selectableFont\">\u072a\u0726\u0733\u0710</span> 2."
+            ],
+            "fre": [
+                "rel\u00e2cher",
+                "permettre",
+                "l\u00e2cher"
+            ]
+        },
+        "word": {
+            "id": 37973,
+            "uri": "https://sedra.bethmardutho.org/api/word/37973.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 243,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/243.json"
+        },
+        "syriac": "\u0710\u0726",
+        "glosses": {
+            "English": [
+                "also",
+                "even",
+                "also, even."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 181,
+            "uri": "https://sedra.bethmardutho.org/api/root/181.json"
+        },
+        "words": [
+            {
+                "id": 1742,
+                "uri": "https://sedra.bethmardutho.org/api/word/1742.json"
+            },
+            {
+                "id": 1736,
+                "uri": "https://sedra.bethmardutho.org/api/word/1736.json"
+            },
+            {
+                "id": 1732,
+                "uri": "https://sedra.bethmardutho.org/api/word/1732.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072a\u0715\u0718\u0726",
+        "western": "\u072a\u0733\u0715\u0742\u073d\u0718\u0726\u0742",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2946,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2946.json"
+        },
+        "stem": "\u072a\u0715\u0718\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0636\u0637\u0647\u062f"
+            ],
+            "eng": [
+                "persecutor.",
+                "persecutor"
+            ],
+            "fre": [
+                "pers\u00e9cuteur"
+            ]
+        },
+        "word": {
+            "id": 19225,
+            "uri": "https://sedra.bethmardutho.org/api/word/19225.json"
+        }
+    }
+]

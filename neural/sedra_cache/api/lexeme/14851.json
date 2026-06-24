@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 14851,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14851.json"
+        },
+        "syriac": "\u0726\u072a\u072c\u071f",
+        "glosses": {
+            "English": [
+                "to be anxious.",
+                "IVa to make anxious",
+                "IVp to be split"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2391,
+            "uri": "https://sedra.bethmardutho.org/api/root/2391.json"
+        },
+        "words": [
+            {
+                "id": 41335,
+                "uri": "https://sedra.bethmardutho.org/api/word/41335.json"
+            },
+            {
+                "id": 40480,
+                "uri": "https://sedra.bethmardutho.org/api/word/40480.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28965,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28965.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u0717\u072a\u0710\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f41\u03bb\u03bf\u03ae\u03bc\u03b5\u03c1\u03bf\u03c2"
+            ],
+            "English": [
+                "lasting the whole day"
+            ],
+            "Latin": [
+                "dies totus"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f41\u03bb\u03bf\u03ae\u03bc\u03b5\u03c1\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49467,
+                "uri": "https://sedra.bethmardutho.org/api/word/49467.json"
+            },
+            {
+                "id": 55339,
+                "uri": "https://sedra.bethmardutho.org/api/word/55339.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

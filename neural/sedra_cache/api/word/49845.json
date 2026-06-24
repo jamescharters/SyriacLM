@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0720\u0718\u0728\u0710",
+        "western": "\u0710\u0733\u0720\u0733\u0718\u0728\u0733\u0710",
+        "eastern": "\u0710\u0735\u0720\u0718\u073f\u0728\u0735\u0710",
+        "lexeme": {
+            "id": 155,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/155.json"
+        },
+        "stem": "\u0710\u0720\u0718\u0728\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0638\u0627\u0644\u0645"
+            ],
+            "eng": [
+                "oppressor.",
+                "oppressor"
+            ],
+            "fre": [
+                "oppresseur"
+            ]
+        },
+        "word": {
+            "id": 49845,
+            "uri": "https://sedra.bethmardutho.org/api/word/49845.json"
+        }
+    }
+]

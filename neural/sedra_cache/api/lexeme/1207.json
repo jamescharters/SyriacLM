@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1207,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1207.json"
+        },
+        "syriac": "\u071b\u0712\u072a\u071d\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Tiberias",
+                "Tiberius"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 707,
+            "uri": "https://sedra.bethmardutho.org/api/root/707.json"
+        },
+        "words": [
+            {
+                "id": 8001,
+                "uri": "https://sedra.bethmardutho.org/api/word/8001.json"
+            },
+            {
+                "id": 8000,
+                "uri": "https://sedra.bethmardutho.org/api/word/8000.json"
+            },
+            {
+                "id": 7998,
+                "uri": "https://sedra.bethmardutho.org/api/word/7998.json"
+            },
+            {
+                "id": 7997,
+                "uri": "https://sedra.bethmardutho.org/api/word/7997.json"
+            },
+            {
+                "id": 7999,
+                "uri": "https://sedra.bethmardutho.org/api/word/7999.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

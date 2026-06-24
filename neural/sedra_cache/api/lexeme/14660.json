@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 14660,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14660.json"
+        },
+        "syriac": "\u072b\u0718\u071a\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0631\u0632"
+            ],
+            "French": [
+                "s\u00e9parer"
+            ],
+            "English": [
+                "IVa to leave alone",
+                "to deprive (of)",
+                "to exempt (from)",
+                "IVp to be left alone, to be solitary.",
+                "to separate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2764,
+            "uri": "https://sedra.bethmardutho.org/api/root/2764.json"
+        },
+        "words": [
+            {
+                "id": 46839,
+                "uri": "https://sedra.bethmardutho.org/api/word/46839.json"
+            },
+            {
+                "id": 41539,
+                "uri": "https://sedra.bethmardutho.org/api/word/41539.json"
+            },
+            {
+                "id": 40158,
+                "uri": "https://sedra.bethmardutho.org/api/word/40158.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

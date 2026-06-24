@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 1659,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1659.json"
+        },
+        "syriac": "\u0720\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062d\u0627",
+                "\u062e\u0631\u0628 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "effacer",
+                "d\u00e9truire",
+                "\u00a0"
+            ],
+            "English": [
+                "blot out",
+                "wipe away",
+                "obliterate",
+                "IIIa to blot out.",
+                "Ia to rub off, erase, blot out",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 982,
+            "uri": "https://sedra.bethmardutho.org/api/root/982.json"
+        },
+        "words": [
+            {
+                "id": 11004,
+                "uri": "https://sedra.bethmardutho.org/api/word/11004.json"
+            },
+            {
+                "id": 11006,
+                "uri": "https://sedra.bethmardutho.org/api/word/11006.json"
+            },
+            {
+                "id": 11005,
+                "uri": "https://sedra.bethmardutho.org/api/word/11005.json"
+            },
+            {
+                "id": 11003,
+                "uri": "https://sedra.bethmardutho.org/api/word/11003.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

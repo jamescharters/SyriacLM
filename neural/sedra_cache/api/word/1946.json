@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u0710\u0718\u072a\u0725\u0722",
+        "western": "\u0720\u073d\u0710\u0718\u072a\u0725\u0730\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 300,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/300.json"
+        },
+        "stem": "\u0710\u0718\u072a\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "meeting",
+                "meeting, encounter."
+            ]
+        },
+        "word": {
+            "id": 1946,
+            "uri": "https://sedra.bethmardutho.org/api/word/1946.json"
+        }
+    }
+]

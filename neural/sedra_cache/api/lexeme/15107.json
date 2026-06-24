@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15107,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15107.json"
+        },
+        "syriac": "\u0728\u0720\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0642"
+            ],
+            "French": [
+                "fendre"
+            ],
+            "English": [
+                "3 IIa to assess (tax)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2264,
+            "uri": "https://sedra.bethmardutho.org/api/root/2264.json"
+        },
+        "words": [
+            {
+                "id": 40767,
+                "uri": "https://sedra.bethmardutho.org/api/word/40767.json"
+            },
+            {
+                "id": 40699,
+                "uri": "https://sedra.bethmardutho.org/api/word/40699.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

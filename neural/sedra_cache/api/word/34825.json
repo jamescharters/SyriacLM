@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0719\u071d\u0729\u0710",
+        "western": "\u0719\u073a\u071d\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11085,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11085.json"
+        },
+        "stem": "\u0719\u071d\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0647\u0627\u0628",
+                "\u0639\u0627\u0635\u0641\u0629"
+            ],
+            "eng": [
+                "violent wind and rain",
+                "shooting star."
+            ],
+            "fre": [
+                "temp\u00eate",
+                "m\u00e9t\u00e9ore"
+            ]
+        },
+        "word": {
+            "id": 34825,
+            "uri": "https://sedra.bethmardutho.org/api/word/34825.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2976,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2976.json"
+        },
+        "syriac": "\u072a\u0718\u071a\u0722\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0648\u062d\u0627\u0646\u064a"
+            ],
+            "French": [
+                "spirituel"
+            ],
+            "English": [
+                "spiritual",
+                "spiritual."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1744,
+            "uri": "https://sedra.bethmardutho.org/api/root/1744.json"
+        },
+        "words": [
+            {
+                "id": 19402,
+                "uri": "https://sedra.bethmardutho.org/api/word/19402.json"
+            },
+            {
+                "id": 19401,
+                "uri": "https://sedra.bethmardutho.org/api/word/19401.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

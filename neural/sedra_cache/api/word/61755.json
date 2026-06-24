@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0710\u0726\u072b\u072a",
+        "western": "\u0710\u0730\u0726\u072b\u0730\u072a",
+        "lexeme": {
+            "id": 35400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/35400.json"
+        },
+        "stem": "\u0710\u0726\u072b\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to explain; to declare"
+            ]
+        },
+        "word": {
+            "id": 61755,
+            "uri": "https://sedra.bethmardutho.org/api/word/61755.json"
+        }
+    }
+]

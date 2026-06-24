@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 677,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/677.json"
+        },
+        "syriac": "\u0715\u071a\u0718\u0720\u072c\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0632\u0639"
+            ],
+            "French": [
+                "craintif"
+            ],
+            "English": [
+                "fearful",
+                "timorous",
+                "timid",
+                "fearful, timid."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 432,
+            "uri": "https://sedra.bethmardutho.org/api/root/432.json"
+        },
+        "words": [
+            {
+                "id": 4262,
+                "uri": "https://sedra.bethmardutho.org/api/word/4262.json"
+            },
+            {
+                "id": 4261,
+                "uri": "https://sedra.bethmardutho.org/api/word/4261.json"
+            },
+            {
+                "id": 4260,
+                "uri": "https://sedra.bethmardutho.org/api/word/4260.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

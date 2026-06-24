@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 1763,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1763.json"
+        },
+        "syriac": "\u0721\u071f\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0634\u062a\u0631\u0649",
+                "\u062e\u0637\u0628, \u062a\u0632\u0648\u062c (\u0631\u062c\u0644)",
+                "\u0632\u0648\u062c",
+                "",
+                "\u062e\u0627\u0637\u0628, \u0645\u062a\u0632\u0648\u062c"
+            ],
+            "French": [
+                "acheter",
+                "se fiancer avec, \u00e9pouser (homme)",
+                "fiancer, faire \u00e9pouser",
+                "",
+                "fianc\u00e9, mari\u00e9"
+            ],
+            "English": [
+                "engaged",
+                "espouse",
+                "IIIa to give in marriage.",
+                "Ip, IIp",
+                "Ia to betroth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1057,
+            "uri": "https://sedra.bethmardutho.org/api/root/1057.json"
+        },
+        "words": [
+            {
+                "id": 11551,
+                "uri": "https://sedra.bethmardutho.org/api/word/11551.json"
+            },
+            {
+                "id": 11556,
+                "uri": "https://sedra.bethmardutho.org/api/word/11556.json"
+            },
+            {
+                "id": 11552,
+                "uri": "https://sedra.bethmardutho.org/api/word/11552.json"
+            },
+            {
+                "id": 11555,
+                "uri": "https://sedra.bethmardutho.org/api/word/11555.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u071b\u0718\u0722\u0710",
+        "western": "\u0710\u0730\u071b\u073d\u0718\u0722\u0736\u0710",
+        "lexeme": {
+            "id": 28683,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28683.json"
+        },
+        "stem": "\u0710\u071b\u0718\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "having the same pitch",
+                "equable",
+                "having the same tension, with equal force, of fevers"
+            ],
+            "grc": [
+                "\u1f41\u03bc\u03cc\u03c4\u03bf\u03bd\u03bf\u03c2"
+            ]
+        },
+        "word": {
+            "id": 55057,
+            "uri": "https://sedra.bethmardutho.org/api/word/55057.json"
+        }
+    }
+]

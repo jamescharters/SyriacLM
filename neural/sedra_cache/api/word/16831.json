@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0726\u072a\u0715\u072c\u0710",
+        "western": "\u0715\u0741\u0730\u0726\u0742\u072a\u0736\u0715\u0741\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10045,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10045.json"
+        },
+        "stem": "\u0726\u072a\u0715\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0628\u0629 \u0628\u0630\u0631\u0629",
+                "\u0630\u0631\u0629"
+            ],
+            "eng": [
+                "grain",
+                "grain, seed."
+            ],
+            "fre": [
+                "grain, graine",
+                "atome"
+            ]
+        },
+        "word": {
+            "id": 16831,
+            "uri": "https://sedra.bethmardutho.org/api/word/16831.json"
+        }
+    }
+]

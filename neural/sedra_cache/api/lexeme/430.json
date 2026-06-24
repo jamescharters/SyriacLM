@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 430,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/430.json"
+        },
+        "syriac": "\u0712\u0725\u0719",
+        "glosses": {
+            "English": [
+                "Boaz"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 294,
+            "uri": "https://sedra.bethmardutho.org/api/root/294.json"
+        },
+        "words": [
+            {
+                "id": 3024,
+                "uri": "https://sedra.bethmardutho.org/api/word/3024.json"
+            },
+            {
+                "id": 3025,
+                "uri": "https://sedra.bethmardutho.org/api/word/3025.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

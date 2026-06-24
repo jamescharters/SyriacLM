@@ -1,0 +1,66 @@
+[
+    {
+        "lexeme": {
+            "id": 1444,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1444.json"
+        },
+        "syriac": "\u071d\u072c\u071d\u072a\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0641\u0648\u0642, \u0641\u0627\u0626\u062f\u0629",
+                "\u0632\u064a\u0627\u062f\u0629, \u0641\u0636\u0627\u0644\u0629",
+                "\u0627\u0632\u062f\u064a\u0627\u062f",
+                "\u063a\u0632\u0627\u0631\u0629"
+            ],
+            "French": [
+                "sup\u00e9riorit\u00e9, avantage",
+                "surplus, superflu",
+                "augmentation",
+                "abondance"
+            ],
+            "English": [
+                "excellence",
+                "abundance",
+                "excellence",
+                "superiority",
+                "abundance",
+                "advantage",
+                "products.",
+                "superfluity"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 858,
+            "uri": "https://sedra.bethmardutho.org/api/root/858.json"
+        },
+        "words": [
+            {
+                "id": 9587,
+                "uri": "https://sedra.bethmardutho.org/api/word/9587.json"
+            },
+            {
+                "id": 23679,
+                "uri": "https://sedra.bethmardutho.org/api/word/23679.json"
+            },
+            {
+                "id": 9589,
+                "uri": "https://sedra.bethmardutho.org/api/word/9589.json"
+            },
+            {
+                "id": 9588,
+                "uri": "https://sedra.bethmardutho.org/api/word/9588.json"
+            },
+            {
+                "id": 9591,
+                "uri": "https://sedra.bethmardutho.org/api/word/9591.json"
+            },
+            {
+                "id": 9590,
+                "uri": "https://sedra.bethmardutho.org/api/word/9590.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

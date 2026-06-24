@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0715\u0720\u0717\u0718",
+        "western": "\u0715\u0741\u0730\u0720\u0717\u0730\u0718",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 782,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/782.json"
+        },
+        "stem": "\u0717\u0718",
+        "category": "pronoun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0644\u0643 = \u0623\u062f\u0627\u0629 \u062a\u0639\u0631\u064a\u0641 \u0627\u0644 "
+            ],
+            "eng": [
+                "that",
+                "that (m.)",
+                "those",
+                "he who",
+                "-<span class=\"selectableFont\">\u0710\u0730\u071d\u071f \u0717\u0730\u0718 \u0715</span> as though."
+            ],
+            "fre": [
+                "celui-l\u00e0, etc., [ = art . d\u00e9f.,] le"
+            ]
+        },
+        "word": {
+            "id": 5010,
+            "uri": "https://sedra.bethmardutho.org/api/word/5010.json"
+        }
+    }
+]

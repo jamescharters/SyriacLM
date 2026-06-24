@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u0723\u071d\u0712\u0718\u072c\u0710",
+        "western": "\u0721\u0723\u0730\u071d\u0712\u0742\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2082,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2082.json"
+        },
+        "stem": "\u0721\u0723\u071d\u0712\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0630\u0631",
+                "\u0634\u064a\u0621 \u0645\u0643\u0631\u0648\u0647"
+            ],
+            "eng": [
+                "pollution.",
+                "pollution",
+                "abomination"
+            ],
+            "fre": [
+                "souillure",
+                "objet d&#39;horreur"
+            ]
+        },
+        "word": {
+            "id": 13886,
+            "uri": "https://sedra.bethmardutho.org/api/word/13886.json"
+        }
+    }
+]

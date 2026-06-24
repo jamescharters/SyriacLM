@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1673,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1673.json"
+        },
+        "syriac": "\u0720\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062c\u0646\u0648\u0646"
+            ],
+            "French": [
+                "insens\u00e9"
+            ],
+            "English": [
+                "fool",
+                "infatuated",
+                "fool, foolish, stupid."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 992,
+            "uri": "https://sedra.bethmardutho.org/api/root/992.json"
+        },
+        "words": [
+            {
+                "id": 11049,
+                "uri": "https://sedra.bethmardutho.org/api/word/11049.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

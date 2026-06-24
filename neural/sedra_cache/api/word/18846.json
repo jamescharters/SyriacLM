@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0728",
+        "western": "\u0729\u072a\u0730\u0728",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2890,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2890.json"
+        },
+        "stem": "\u0729\u072a\u0728",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0631\u0641 \u0628\u0639\u064a\u0646\u0647",
+                "\u0642\u0631\u0635"
+            ],
+            "eng": [
+                "IIIa to accuse.",
+                "sting",
+                "Ia to prick, sting"
+            ],
+            "fre": [
+                "cligner de l&#39;\u0153il",
+                "piquer"
+            ]
+        },
+        "word": {
+            "id": 18846,
+            "uri": "https://sedra.bethmardutho.org/api/word/18846.json"
+        }
+    }
+]

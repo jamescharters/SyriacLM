@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 3264,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3264.json"
+        },
+        "syriac": "\u072b\u0721\u072a\u071d\u0722",
+        "glosses": {
+            "English": [
+                "Samaria"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1902,
+            "uri": "https://sedra.bethmardutho.org/api/root/1902.json"
+        },
+        "words": [
+            {
+                "id": 21537,
+                "uri": "https://sedra.bethmardutho.org/api/word/21537.json"
+            },
+            {
+                "id": 21538,
+                "uri": "https://sedra.bethmardutho.org/api/word/21538.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

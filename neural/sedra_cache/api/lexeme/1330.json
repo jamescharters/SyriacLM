@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1330,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1330.json"
+        },
+        "syriac": "\u071d\u0718\u071a\u0722\u0722",
+        "glosses": {
+            "English": [
+                "John"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 784,
+            "uri": "https://sedra.bethmardutho.org/api/root/784.json"
+        },
+        "words": [
+            {
+                "id": 8883,
+                "uri": "https://sedra.bethmardutho.org/api/word/8883.json"
+            },
+            {
+                "id": 8881,
+                "uri": "https://sedra.bethmardutho.org/api/word/8881.json"
+            },
+            {
+                "id": 8882,
+                "uri": "https://sedra.bethmardutho.org/api/word/8882.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

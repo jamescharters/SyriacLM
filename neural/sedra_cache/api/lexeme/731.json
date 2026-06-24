@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 731,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/731.json"
+        },
+        "syriac": "\u072c\u0715\u0721\u0718\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0622\u064a\u0629, \u0623\u0639\u062c\u0648\u0628\u0629"
+            ],
+            "French": [
+                "merveille , miracle"
+            ],
+            "English": [
+                "wonder",
+                "marvel",
+                "prodigy",
+                "wonder, marvel, portent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 460,
+            "uri": "https://sedra.bethmardutho.org/api/root/460.json"
+        },
+        "words": [
+            {
+                "id": 4769,
+                "uri": "https://sedra.bethmardutho.org/api/word/4769.json"
+            },
+            {
+                "id": 4768,
+                "uri": "https://sedra.bethmardutho.org/api/word/4768.json"
+            },
+            {
+                "id": 4767,
+                "uri": "https://sedra.bethmardutho.org/api/word/4767.json"
+            },
+            {
+                "id": 4771,
+                "uri": "https://sedra.bethmardutho.org/api/word/4771.json"
+            },
+            {
+                "id": 4770,
+                "uri": "https://sedra.bethmardutho.org/api/word/4770.json"
+            },
+            {
+                "id": 4772,
+                "uri": "https://sedra.bethmardutho.org/api/word/4772.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethpa\u02bf\u02bfal"
+    }
+]

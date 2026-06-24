@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2931,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2931.json"
+        },
+        "syriac": "\u072a\u0713\u071d\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Rhegium"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1727,
+            "uri": "https://sedra.bethmardutho.org/api/root/1727.json"
+        },
+        "words": [
+            {
+                "id": 19105,
+                "uri": "https://sedra.bethmardutho.org/api/word/19105.json"
+            },
+            {
+                "id": 19106,
+                "uri": "https://sedra.bethmardutho.org/api/word/19106.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

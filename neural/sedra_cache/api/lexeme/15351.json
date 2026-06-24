@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15351,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15351.json"
+        },
+        "syriac": "\u0717\u0713\u0713",
+        "glosses": {
+            "English": [
+                "IIp.",
+                "IIa to imagine",
+                "to fancy",
+                "to delude",
+                "to devise"
+            ],
+            "Arabic": [
+                "\u062c\u0639\u0644\u0647 \u064a\u062a\u062e\u064a\u0644"
+            ],
+            "French": [
+                "faire imaginer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2314,
+            "uri": "https://sedra.bethmardutho.org/api/root/2314.json"
+        },
+        "words": [
+            {
+                "id": 40836,
+                "uri": "https://sedra.bethmardutho.org/api/word/40836.json"
+            },
+            {
+                "id": 40633,
+                "uri": "https://sedra.bethmardutho.org/api/word/40633.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

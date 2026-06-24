@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u071a\u0720\u0715",
+        "western": "\u071a\u0720\u0730\u0715\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1037,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1037.json"
+        },
+        "stem": "\u071a\u0720\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0644\u062c",
+                "\u0632\u062d\u0641"
+            ],
+            "eng": [
+                "to lie hid",
+                "IIIa to drive in, screw in.",
+                "IIa to insinuate oneself, to move in",
+                "penetrate",
+                "to burrow",
+                "Ia to creep, crawl, glide"
+            ],
+            "fre": [
+                "s&#39;insinuer",
+                "ramper"
+            ]
+        },
+        "word": {
+            "id": 7058,
+            "uri": "https://sedra.bethmardutho.org/api/word/7058.json"
+        }
+    }
+]

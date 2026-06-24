@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0726\u0720\u0723\u0726",
+        "western": "\u0726\u0730\u0720\u0723\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14687,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14687.json"
+        },
+        "stem": "\u0726\u0720\u0723\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to practice philosophy",
+                "IVp to profess philosophy."
+            ]
+        },
+        "word": {
+            "id": 40429,
+            "uri": "https://sedra.bethmardutho.org/api/word/40429.json"
+        }
+    }
+]

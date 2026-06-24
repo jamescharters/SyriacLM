@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u072a\u071d\u0715\u0710",
+        "western": "\u0718\u0730\u072a\u073a\u071d\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13113,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13113.json"
+        },
+        "stem": "\u0718\u072a\u071d\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0635\u0628",
+                "\u062c\u0630\u0631",
+                "\u0634\u0631\u064a\u0627\u0646"
+            ],
+            "eng": [
+                "vein, artery."
+            ],
+            "fre": [
+                "racine",
+                "nerf",
+                "art\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 37923,
+            "uri": "https://sedra.bethmardutho.org/api/word/37923.json"
+        }
+    }
+]

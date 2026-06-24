@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1697,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1697.json"
+        },
+        "syriac": "\u0721\u0710\u0710",
+        "glosses": {
+            "English": [
+                "one hundred",
+                "century.",
+                "a hundred"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1008,
+            "uri": "https://sedra.bethmardutho.org/api/root/1008.json"
+        },
+        "words": [
+            {
+                "id": 11178,
+                "uri": "https://sedra.bethmardutho.org/api/word/11178.json"
+            },
+            {
+                "id": 11177,
+                "uri": "https://sedra.bethmardutho.org/api/word/11177.json"
+            },
+            {
+                "id": 11176,
+                "uri": "https://sedra.bethmardutho.org/api/word/11176.json"
+            },
+            {
+                "id": 11175,
+                "uri": "https://sedra.bethmardutho.org/api/word/11175.json"
+            },
+            {
+                "id": 11179,
+                "uri": "https://sedra.bethmardutho.org/api/word/11179.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0719\u0710",
+        "western": "\u0710\u0331\u072a\u0733\u0719\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13325,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13325.json"
+        },
+        "stem": "\u072a\u0710\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sacrament",
+                "<span class=\"selectableFont\">\u072a\u0308\u0733\u0710\u0719\u0736\u0710</span> (Eucharistic) Mysteries.",
+                "mystery",
+                "secret",
+                "mystical signification",
+                "consecration of a priest",
+                "type",
+                "symbol",
+                "symbol, mystery, mystical meaning, secret",
+                "sign"
+            ]
+        },
+        "word": {
+            "id": 35323,
+            "uri": "https://sedra.bethmardutho.org/api/word/35323.json"
+        }
+    }
+]

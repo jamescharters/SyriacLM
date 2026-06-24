@@ -1,0 +1,70 @@
+[
+    {
+        "lexeme": {
+            "id": 2251,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2251.json"
+        },
+        "syriac": "\u0721\u0725\u0715\u072a\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0633\u0627\u0639\u062f",
+                "\u0646\u0627\u0641\u0639"
+            ],
+            "French": [
+                "aide",
+                "utile"
+            ],
+            "English": [
+                "help",
+                "helper",
+                "helpful, advantageous.",
+                "helper, assistant"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1343,
+            "uri": "https://sedra.bethmardutho.org/api/root/1343.json"
+        },
+        "words": [
+            {
+                "id": 15003,
+                "uri": "https://sedra.bethmardutho.org/api/word/15003.json"
+            },
+            {
+                "id": 15002,
+                "uri": "https://sedra.bethmardutho.org/api/word/15002.json"
+            },
+            {
+                "id": 15000,
+                "uri": "https://sedra.bethmardutho.org/api/word/15000.json"
+            },
+            {
+                "id": 15006,
+                "uri": "https://sedra.bethmardutho.org/api/word/15006.json"
+            },
+            {
+                "id": 15005,
+                "uri": "https://sedra.bethmardutho.org/api/word/15005.json"
+            },
+            {
+                "id": 15004,
+                "uri": "https://sedra.bethmardutho.org/api/word/15004.json"
+            },
+            {
+                "id": 15001,
+                "uri": "https://sedra.bethmardutho.org/api/word/15001.json"
+            },
+            {
+                "id": 15008,
+                "uri": "https://sedra.bethmardutho.org/api/word/15008.json"
+            },
+            {
+                "id": 15007,
+                "uri": "https://sedra.bethmardutho.org/api/word/15007.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "lexeme": {
+            "id": 2271,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2271.json"
+        },
+        "syriac": "\u0725\u0718\u0720",
+        "glosses": {
+            "English": [
+                "wrong",
+                "harm",
+                "to pervert.",
+                "IIIa to commit wrong, injustice",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0725\u0730\u0718\u0730\u0720</span> to suffer wrong, injury"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1354,
+            "uri": "https://sedra.bethmardutho.org/api/root/1354.json"
+        },
+        "words": [
+            {
+                "id": 27290,
+                "uri": "https://sedra.bethmardutho.org/api/word/27290.json"
+            },
+            {
+                "id": 27289,
+                "uri": "https://sedra.bethmardutho.org/api/word/27289.json"
+            },
+            {
+                "id": 15138,
+                "uri": "https://sedra.bethmardutho.org/api/word/15138.json"
+            },
+            {
+                "id": 27292,
+                "uri": "https://sedra.bethmardutho.org/api/word/27292.json"
+            },
+            {
+                "id": 27291,
+                "uri": "https://sedra.bethmardutho.org/api/word/27291.json"
+            },
+            {
+                "id": 26281,
+                "uri": "https://sedra.bethmardutho.org/api/word/26281.json"
+            },
+            {
+                "id": 15141,
+                "uri": "https://sedra.bethmardutho.org/api/word/15141.json"
+            },
+            {
+                "id": 15140,
+                "uri": "https://sedra.bethmardutho.org/api/word/15140.json"
+            },
+            {
+                "id": 15139,
+                "uri": "https://sedra.bethmardutho.org/api/word/15139.json"
+            },
+            {
+                "id": 15137,
+                "uri": "https://sedra.bethmardutho.org/api/word/15137.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

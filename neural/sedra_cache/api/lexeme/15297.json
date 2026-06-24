@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15297,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15297.json"
+        },
+        "syriac": "\u071a\u071d\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u062d\u062f (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "unir",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp.",
+                "IIa to unite, join"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2961,
+            "uri": "https://sedra.bethmardutho.org/api/root/2961.json"
+        },
+        "words": [
+            {
+                "id": 41374,
+                "uri": "https://sedra.bethmardutho.org/api/word/41374.json"
+            },
+            {
+                "id": 41349,
+                "uri": "https://sedra.bethmardutho.org/api/word/41349.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

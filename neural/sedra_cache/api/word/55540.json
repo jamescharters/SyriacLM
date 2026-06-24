@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0716\u0710\u0729\u0720\u071d\u0715\u0710",
+        "western": "\u0710\u073a\u071d\u0716\u0710\u0730\u0729\u0720\u071d\u0715\u0736\u0710",
+        "lexeme": {
+            "id": 29166,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29166.json"
+        },
+        "stem": "\u0710\u071d\u0716\u0710\u0729\u0720\u071d\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "descendants of Hercules"
+            ],
+            "grc": [
+                "\u1f29\u03c1\u03b1\u03ba\u03bb\u03b5\u1fd6\u03b4\u03b1\u03b9"
+            ],
+            "lat": [
+                "Heraclidae"
+            ]
+        },
+        "word": {
+            "id": 55540,
+            "uri": "https://sedra.bethmardutho.org/api/word/55540.json"
+        }
+    }
+]

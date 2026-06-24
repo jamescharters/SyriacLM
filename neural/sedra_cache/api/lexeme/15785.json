@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15785,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15785.json"
+        },
+        "syriac": "\u0720\u071b\u0726",
+        "glosses": {
+            "English": [
+                "Ia to remove bark of a tree."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2087,
+            "uri": "https://sedra.bethmardutho.org/api/root/2087.json"
+        },
+        "words": [
+            {
+                "id": 41754,
+                "uri": "https://sedra.bethmardutho.org/api/word/41754.json"
+            },
+            {
+                "id": 40279,
+                "uri": "https://sedra.bethmardutho.org/api/word/40279.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2992,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2992.json"
+        },
+        "syriac": "\u072a\u071a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "nether",
+                "millstone",
+                "mill",
+                "millstone."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bb\u03af\u03b8\u03bf\u03c2",
+                "\u03bc\u03c5\u03bb\u03b9\u03ba\u1f79\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1751,
+            "uri": "https://sedra.bethmardutho.org/api/root/1751.json"
+        },
+        "words": [
+            {
+                "id": 19485,
+                "uri": "https://sedra.bethmardutho.org/api/word/19485.json"
+            },
+            {
+                "id": 19486,
+                "uri": "https://sedra.bethmardutho.org/api/word/19486.json"
+            },
+            {
+                "id": 42221,
+                "uri": "https://sedra.bethmardutho.org/api/word/42221.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

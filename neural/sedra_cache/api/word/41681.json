@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u072b\u072c\u0710",
+        "western": "\u0722\u0736\u072b\u072c\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15638,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15638.json"
+        },
+        "stem": "\u072b\u072c\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ip",
+                "IIIp to be woven.",
+                "to be watered",
+                "to plait, to weave",
+                "Ia to drink, imbibe",
+                "IIIa to cause to drink"
+            ]
+        },
+        "word": {
+            "id": 41681,
+            "uri": "https://sedra.bethmardutho.org/api/word/41681.json"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2420,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2420.json"
+        },
+        "syriac": "\u0725\u072a\u0728",
+        "glosses": {
+            "English": [
+                "occur",
+                "happen",
+                "to turn up unexpectedly",
+                "IIp to be exposed (to something).",
+                "Ia to occur, befall, happen unexpectedly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1433,
+            "uri": "https://sedra.bethmardutho.org/api/root/1433.json"
+        },
+        "words": [
+            {
+                "id": 16000,
+                "uri": "https://sedra.bethmardutho.org/api/word/16000.json"
+            },
+            {
+                "id": 27487,
+                "uri": "https://sedra.bethmardutho.org/api/word/27487.json"
+            },
+            {
+                "id": 27486,
+                "uri": "https://sedra.bethmardutho.org/api/word/27486.json"
+            },
+            {
+                "id": 15999,
+                "uri": "https://sedra.bethmardutho.org/api/word/15999.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

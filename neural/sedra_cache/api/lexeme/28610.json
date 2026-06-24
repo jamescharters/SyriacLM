@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28610,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28610.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0722\u071b\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f48\u03c1\u03cc\u03bd\u03c4\u03b7\u03c2"
+            ],
+            "Latin": [
+                "Orontes"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "Orontes"
+            ]
+        },
+        "words": [
+            {
+                "id": 49042,
+                "uri": "https://sedra.bethmardutho.org/api/word/49042.json"
+            },
+            {
+                "id": 54984,
+                "uri": "https://sedra.bethmardutho.org/api/word/54984.json"
+            }
+        ],
+        "category": "proper noun (place name)"
+    }
+]

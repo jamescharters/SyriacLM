@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072c\u072b\u072c\u0718\u0729",
+        "western": "\u072c\u0741\u0736\u072b\u072c\u0741\u073d\u0718\u0729",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3339,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3339.json"
+        },
+        "stem": "\u072b\u072c\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0643\u062a"
+            ],
+            "eng": [
+                "be still",
+                "keep silent",
+                "IIa to silence, to suppress",
+                "IIp.",
+                "Ia to cease, to be still, to keep silent",
+                "silence"
+            ],
+            "fre": [
+                "se taire"
+            ]
+        },
+        "word": {
+            "id": 22257,
+            "uri": "https://sedra.bethmardutho.org/api/word/22257.json"
+        }
+    }
+]

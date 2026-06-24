@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u0721\u072a\u0710",
+        "western": "\u0729\u0730\u0721\u072a\u0733\u0710",
+        "eastern": "\u0729\u0732\u0721\u072a\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6391,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6391.json"
+        },
+        "stem": "\u0729\u0721\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646\u0637\u0642\u0629"
+            ],
+            "eng": [
+                "Zodiac",
+                "girdle, strap.",
+                "strap",
+                "s. \u0715\u0721\u0732\u0720\u0718\u0735\u072b\u0710\u0739 <strong>d-mlws\u030c\u02be</strong> <em>d-malw\u0101s\u030c\u0113\u00a0</em>"
+            ],
+            "fre": [
+                "ceinture"
+            ]
+        },
+        "word": {
+            "id": 39521,
+            "uri": "https://sedra.bethmardutho.org/api/word/39521.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0726\u072a\u071f\u0723",
+        "western": "\u0726\u0730\u072a\u071f\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14611,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14611.json"
+        },
+        "stem": "\u0726\u072a\u071f\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0641\u0642"
+            ],
+            "eng": [
+                "IVa to separate",
+                "IVp.",
+                "to palpitate"
+            ],
+            "fre": [
+                "palpiter"
+            ]
+        },
+        "word": {
+            "id": 40773,
+            "uri": "https://sedra.bethmardutho.org/api/word/40773.json"
+        }
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 1396,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1396.json"
+        },
+        "syriac": "\u071d\u0725\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0637\u0645\u0639",
+                "\u00a0"
+            ],
+            "French": [
+                "rendre avide",
+                "\u00a0"
+            ],
+            "English": [
+                "advantage",
+                "IIp to covet, to desire greedily.",
+                "IIa to make greedy, to excite greed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 832,
+            "uri": "https://sedra.bethmardutho.org/api/root/832.json"
+        },
+        "words": [
+            {
+                "id": 9286,
+                "uri": "https://sedra.bethmardutho.org/api/word/9286.json"
+            },
+            {
+                "id": 29303,
+                "uri": "https://sedra.bethmardutho.org/api/word/29303.json"
+            },
+            {
+                "id": 9287,
+                "uri": "https://sedra.bethmardutho.org/api/word/9287.json"
+            },
+            {
+                "id": 9285,
+                "uri": "https://sedra.bethmardutho.org/api/word/9285.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

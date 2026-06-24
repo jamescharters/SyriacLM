@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0715\u0721\u072c\u0715\u0721\u071d\u0722",
+        "western": "\u0715\u0741\u0721\u0736\u072c\u0741\u0715\u0741\u0730\u0721\u0736\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 721,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/721.json"
+        },
+        "stem": "\u0715\u0721\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to be like, resemble",
+                "to be compared",
+                "resemble",
+                "to imitate",
+                "IIp to become like",
+                "(it is) likely, probable.",
+                "IIa to liken, compare",
+                "to be likely.",
+                "Ip to be like, imitate",
+                "to imagine",
+                "compare",
+                "liken to"
+            ]
+        },
+        "word": {
+            "id": 4666,
+            "uri": "https://sedra.bethmardutho.org/api/word/4666.json"
+        }
+    }
+]

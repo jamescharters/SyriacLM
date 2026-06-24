@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0715\u0720\u071a",
+        "western": "\u0715\u0741\u0730\u0720\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 712,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/712.json"
+        },
+        "stem": "\u0715\u0720\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u064a\u062c",
+                "\u0639\u0643\u0631 (\u0645\u0636)",
+                ""
+            ],
+            "eng": [
+                "to expunge",
+                "IIa to agitate, disturb, disorder.",
+                "confuse",
+                "agitate",
+                "trouble",
+                "Ia to trouble, disturb",
+                "Ip, IIp to be agitated, disturbed"
+            ],
+            "fre": [
+                "",
+                "agiter",
+                "troubler"
+            ]
+        },
+        "word": {
+            "id": 4623,
+            "uri": "https://sedra.bethmardutho.org/api/word/4623.json"
+        }
+    }
+]

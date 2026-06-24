@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072b\u071f\u0720\u0720",
+        "western": "\u072b\u0730\u071f\u0720\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14639,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14639.json"
+        },
+        "stem": "\u072b\u071f\u0720\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0645\u0644 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVp.",
+                "to restore",
+                "IVa to complete (a building etc.)"
+            ],
+            "fre": [
+                "achever",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40218,
+            "uri": "https://sedra.bethmardutho.org/api/word/40218.json"
+        }
+    }
+]

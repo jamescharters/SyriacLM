@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0726\u0718\u0726\u0710",
+        "western": "\u0729\u0730\u0726\u073d\u0718\u0726\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8748,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8748.json"
+        },
+        "stem": "\u0729\u0726\u0718\u0726\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u062f\u0649"
+            ],
+            "eng": [
+                "owl."
+            ],
+            "fre": [
+                "chouette"
+            ]
+        },
+        "word": {
+            "id": 29848,
+            "uri": "https://sedra.bethmardutho.org/api/word/29848.json"
+        }
+    }
+]

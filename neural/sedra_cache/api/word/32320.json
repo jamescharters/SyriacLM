@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0719\u0718\u0725\u0726\u0710",
+        "western": "\u0719\u073d\u0718\u0725\u0733\u0726\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7539,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7539.json"
+        },
+        "stem": "\u0719\u0718\u0725\u0726\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u064a\u0638",
+                "\u062c\u0641\u0627"
+            ],
+            "eng": [
+                "altercation.",
+                "railing, menace"
+            ],
+            "fre": [
+                "indignation",
+                "oppression"
+            ]
+        },
+        "word": {
+            "id": 32320,
+            "uri": "https://sedra.bethmardutho.org/api/word/32320.json"
+        }
+    }
+]

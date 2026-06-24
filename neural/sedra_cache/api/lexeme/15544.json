@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15544,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15544.json"
+        },
+        "syriac": "\u0723\u072a\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639",
+                "\u0645\u062f"
+            ],
+            "French": [
+                "couper",
+                "\u00e9tendre"
+            ],
+            "English": [
+                "Ia to cut",
+                "to extend",
+                "Ip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3112,
+            "uri": "https://sedra.bethmardutho.org/api/root/3112.json"
+        },
+        "words": [
+            {
+                "id": 41930,
+                "uri": "https://sedra.bethmardutho.org/api/word/41930.json"
+            },
+            {
+                "id": 40437,
+                "uri": "https://sedra.bethmardutho.org/api/word/40437.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1322,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1322.json"
+        },
+        "syriac": "\u071d\u0717\u0718\u0715\u0710",
+        "glosses": {
+            "English": [
+                "Judas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 777,
+            "uri": "https://sedra.bethmardutho.org/api/root/777.json"
+        },
+        "words": [
+            {
+                "id": 8868,
+                "uri": "https://sedra.bethmardutho.org/api/word/8868.json"
+            },
+            {
+                "id": 8867,
+                "uri": "https://sedra.bethmardutho.org/api/word/8867.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0728\u0726\u072a\u0722\u071d\u0710",
+        "western": "\u0728\u0730\u0726\u072a\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13006,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13006.json"
+        },
+        "stem": "\u0728\u0726\u072a\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0628\u0627\u062d\u064a"
+            ],
+            "eng": [
+                "morning, matutinal."
+            ],
+            "fre": [
+                "du matin"
+            ]
+        },
+        "word": {
+            "id": 32092,
+            "uri": "https://sedra.bethmardutho.org/api/word/32092.json"
+        }
+    }
+]

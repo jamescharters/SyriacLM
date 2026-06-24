@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071f\u0722\u0718\u072b\u072a\u0710",
+        "western": "\u071f\u0722\u073d\u0718\u072b\u0736\u072a\u0733\u0710",
+        "lexeme": {
+            "id": 19271,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19271.json"
+        },
+        "stem": "\u071f\u0722\u0718\u072b\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u062c\u0631\u0629"
+            ],
+            "eng": [
+                "the navel"
+            ],
+            "fre": [
+                "nombril"
+            ]
+        },
+        "word": {
+            "id": 45645,
+            "uri": "https://sedra.bethmardutho.org/api/word/45645.json"
+        }
+    }
+]

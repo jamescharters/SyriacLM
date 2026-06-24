@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 3337,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3337.json"
+        },
+        "syriac": "\u0721\u072b\u072c\u071d\u0710",
+        "glosses": {
+            "English": [
+                "drink",
+                "drink",
+                "feast."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1935,
+            "uri": "https://sedra.bethmardutho.org/api/root/1935.json"
+        },
+        "words": [
+            {
+                "id": 22207,
+                "uri": "https://sedra.bethmardutho.org/api/word/22207.json"
+            },
+            {
+                "id": 22206,
+                "uri": "https://sedra.bethmardutho.org/api/word/22206.json"
+            },
+            {
+                "id": 22208,
+                "uri": "https://sedra.bethmardutho.org/api/word/22208.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

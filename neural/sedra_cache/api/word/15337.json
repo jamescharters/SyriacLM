@@ -1,0 +1,62 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0725\u071d\u072a\u071d\u0718\u0717\u071d",
+        "western": "\u0715\u0741\u0730\u0710\u0725\u073a\u071d\u072a\u073a\u071d\u0718\u0717\u0331\u071d",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 15596,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15596.json"
+        },
+        "stem": "\u0725\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062a\u062d ( \u0642\u0628\u0631\u0627\u064b)",
+                "\u062d\u062b, \u0627\u064e\u062d\u062f\u062b",
+                "\u0645\u0644\u0627\u0643",
+                "\u0645\u062a\u064a\u0642\u0638",
+                "\u0645\u0646\u062a\u0628\u0647",
+                "\u0623\u0646\u0628\u0647, \u0623\u062e\u0628\u0631",
+                "\u0623\u064a\u0642\u0638"
+            ],
+            "eng": [
+                "be awake",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0725\u073a\u071d\u072a</span> to arouse, waken",
+                "IIa <span class=\"selectableFont\">\u0725\u0730\u071d\u0730\u072a</span> to wake",
+                "Ia to be awake",
+                "to arouse.",
+                "arouse",
+                "to be wakeful, vigilant",
+                "wake up",
+                "watch",
+                "to incite.",
+                "Ip to be wakened"
+            ],
+            "fre": [
+                "ange",
+                "\u00e9veiller",
+                "exciter, susciter",
+                "rendre attentive, informer",
+                "ouvrir (une tombe)",
+                "\u00e9veill\u00e9",
+                "vigilant"
+            ]
+        },
+        "word": {
+            "id": 15337,
+            "uri": "https://sedra.bethmardutho.org/api/word/15337.json"
+        }
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 357,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/357.json"
+        },
+        "syriac": "\u0712\u0718\u072a\u0723\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0628\u0627\u063a"
+            ],
+            "French": [
+                "corroyeur"
+            ],
+            "English": [
+                "tanner",
+                "tanner."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b2\u03c5\u03c1\u03c3\u03b5\u03cd\u03c2"
+            ]
+        },
+        "root": {
+            "id": 255,
+            "uri": "https://sedra.bethmardutho.org/api/root/255.json"
+        },
+        "words": [
+            {
+                "id": 52292,
+                "uri": "https://sedra.bethmardutho.org/api/word/52292.json"
+            },
+            {
+                "id": 2470,
+                "uri": "https://sedra.bethmardutho.org/api/word/2470.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

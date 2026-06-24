@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 365,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/365.json"
+        },
+        "syriac": "\u0712\u0718\u071a\u072a\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0645\u062a\u062d\u0627\u0646",
+                "\u0623\u0632\u0645\u0629 (\u0627\u0644\u0645\u0631\u0636)"
+            ],
+            "French": [
+                "\u00e9preuve",
+                "crise (de la maladie)"
+            ],
+            "English": [
+                "proof",
+                "scrutiny",
+                "trial, testing, Kth. examination, test."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 259,
+            "uri": "https://sedra.bethmardutho.org/api/root/259.json"
+        },
+        "words": [
+            {
+                "id": 52211,
+                "uri": "https://sedra.bethmardutho.org/api/word/52211.json"
+            },
+            {
+                "id": 2496,
+                "uri": "https://sedra.bethmardutho.org/api/word/2496.json"
+            },
+            {
+                "id": 2498,
+                "uri": "https://sedra.bethmardutho.org/api/word/2498.json"
+            },
+            {
+                "id": 3231,
+                "uri": "https://sedra.bethmardutho.org/api/word/3231.json"
+            },
+            {
+                "id": 2497,
+                "uri": "https://sedra.bethmardutho.org/api/word/2497.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

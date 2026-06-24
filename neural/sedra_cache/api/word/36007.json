@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0729\u072a\u071d\u071a\u0710",
+        "western": "\u0729\u072a\u073a\u071d\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6547,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6547.json"
+        },
+        "stem": "\u0729\u072a\u071d\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0627\u0636\u062d, \u062c\u0644\u064a",
+                "\u0634\u0647\u064a\u0631",
+                "\u0645\u0644\u0641\u0648\u0638"
+            ],
+            "eng": [
+                "specified",
+                "clear, manifest",
+                "prominent",
+                "Gram. pronounced."
+            ],
+            "fre": [
+                "clair, manifeste",
+                "c\u00e9l\u00e8bre",
+                "prononc\u00e9"
+            ]
+        },
+        "word": {
+            "id": 36007,
+            "uri": "https://sedra.bethmardutho.org/api/word/36007.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0723\u072a\u071f",
+        "western": "\u0722\u0736\u0723\u072a\u0730\u071f",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15854,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15854.json"
+        },
+        "stem": "\u0723\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to adhere, to stick, to cohere",
+                "Ip to be fastened",
+                "IIp to be addicted to.",
+                "IIa to cling, to stick fast"
+            ]
+        },
+        "word": {
+            "id": 41695,
+            "uri": "https://sedra.bethmardutho.org/api/word/41695.json"
+        }
+    }
+]

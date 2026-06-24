@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0713\u0721\u0721\u0710",
+        "western": "\u0713\u0721\u0733\u0721\u0733\u0710",
+        "eastern": "\u0713\u0721\u0735\u0721\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10597,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10597.json"
+        },
+        "stem": "\u0713\u0721\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fullness.",
+                "pruning, felling"
+            ]
+        },
+        "word": {
+            "id": 37240,
+            "uri": "https://sedra.bethmardutho.org/api/word/37240.json"
+        }
+    }
+]

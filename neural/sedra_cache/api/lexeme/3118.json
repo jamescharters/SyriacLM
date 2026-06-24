@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 3118,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3118.json"
+        },
+        "syriac": "\u072b\u0718\u0713\u0722\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u063a\u064a\u0631"
+            ],
+            "French": [
+                "transformation"
+            ],
+            "English": [
+                "change",
+                "alteration",
+                "variation",
+                "dissimilation.",
+                "variation, change, alteration"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1815,
+            "uri": "https://sedra.bethmardutho.org/api/root/1815.json"
+        },
+        "words": [
+            {
+                "id": 20354,
+                "uri": "https://sedra.bethmardutho.org/api/word/20354.json"
+            },
+            {
+                "id": 20355,
+                "uri": "https://sedra.bethmardutho.org/api/word/20355.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p"
+    }
+]

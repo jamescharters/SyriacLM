@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0713\u0723\u0710",
+        "western": "\u0713\u0723\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15616,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15616.json"
+        },
+        "stem": "\u0713\u0723\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0627\u0647 \u0628\u0640",
+                "\u00a0",
+                "\u062a\u0642\u064a\u0623 , \u0645\u062c",
+                "\u062a\u0641\u062c\u0631"
+            ],
+            "eng": [
+                "IIa to spit out, disgorge",
+                "Ip to be vomited up",
+                "to shed forth, belch out",
+                "Ia to vomit, throw up",
+                "to make to disgorge."
+            ],
+            "fre": [
+                "\u00a0",
+                "vomir , rejeter",
+                "jaillir",
+                "prof\u00e9rer"
+            ]
+        },
+        "word": {
+            "id": 40821,
+            "uri": "https://sedra.bethmardutho.org/api/word/40821.json"
+        }
+    }
+]

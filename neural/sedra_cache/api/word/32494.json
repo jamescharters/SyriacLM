@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0718\u0720\u0715\u0722\u0710",
+        "western": "\u0721\u0730\u0718\u0720\u0715\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8247,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8247.json"
+        },
+        "stem": "\u0721\u0718\u0720\u0715\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u0628\u0644\u0629",
+                "\u0623\u0645"
+            ],
+            "eng": [
+                "generative",
+                "parent",
+                "productive, prolific, efficient."
+            ],
+            "fre": [
+                "sage-femme",
+                "m\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 32494,
+            "uri": "https://sedra.bethmardutho.org/api/word/32494.json"
+        }
+    }
+]

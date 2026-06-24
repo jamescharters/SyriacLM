@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0723\u071d\u0721",
+        "western": "\u0723\u073a\u071d\u0721",
+        "lexeme": {
+            "id": 17466,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/17466.json"
+        },
+        "stem": "\u0723\u071d\u0721",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0648\u062c\u0648\u062f",
+                "\u062b\u0627\u0628\u062a, \u0645\u0633\u062a\u0642\u0631",
+                "\u062d\u0627\u0636\u0631",
+                "\u062d\u0627\u0636\u0631",
+                "\u0648\u0627\u0636\u0639, \u0627\u0644\u062e"
+            ],
+            "eng": [
+                "imper. of verb \u0723\u0718\u0721"
+            ],
+            "fre": [
+                "ayant mis, etc.",
+                "pr\u00e9sent",
+                "pr\u00eat",
+                "constant, stable",
+                "se trouvant, \u00e9tant"
+            ]
+        },
+        "word": {
+            "id": 43840,
+            "uri": "https://sedra.bethmardutho.org/api/word/43840.json"
+        }
+    }
+]

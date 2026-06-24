@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15523,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15523.json"
+        },
+        "syriac": "\u0715\u0721\u0725",
+        "glosses": {
+            "English": [
+                "IIa to weep vehemently.",
+                "Ia to weep"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3089,
+            "uri": "https://sedra.bethmardutho.org/api/root/3089.json"
+        },
+        "words": [
+            {
+                "id": 42014,
+                "uri": "https://sedra.bethmardutho.org/api/word/42014.json"
+            },
+            {
+                "id": 40664,
+                "uri": "https://sedra.bethmardutho.org/api/word/40664.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

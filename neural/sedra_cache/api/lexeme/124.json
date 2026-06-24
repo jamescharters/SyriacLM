@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 124,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/124.json"
+        },
+        "syriac": "\u0710\u071f\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0627\u0645"
+            ],
+            "French": [
+                "persister"
+            ],
+            "English": [
+                "Ia to have care for",
+                "care",
+                "careful",
+                "IIa to constrain, compel.",
+                "to urge, to persist"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 93,
+            "uri": "https://sedra.bethmardutho.org/api/root/93.json"
+        },
+        "words": [
+            {
+                "id": 49775,
+                "uri": "https://sedra.bethmardutho.org/api/word/49775.json"
+            },
+            {
+                "id": 886,
+                "uri": "https://sedra.bethmardutho.org/api/word/886.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

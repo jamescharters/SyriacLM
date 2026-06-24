@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u072a\u071b\u0712",
+        "western": "\u072a\u071b\u0736\u0712\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3011,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3011.json"
+        },
+        "stem": "\u072a\u071b\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0637\u0628, \u062a\u0631\u0637\u0628"
+            ],
+            "eng": [
+                "IIp",
+                "IIIa = IIa.",
+                "Ip to become wet",
+                "moisten",
+                "be wet",
+                "IIa to moisten, to wet",
+                "Ia to be moist"
+            ],
+            "fre": [
+                "\u00eatre ou devenir humide"
+            ]
+        },
+        "word": {
+            "id": 19615,
+            "uri": "https://sedra.bethmardutho.org/api/word/19615.json"
+        }
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0715\u0725\u071d\u071f\u0718\u0722",
+        "western": "\u0715\u0741\u0721\u0730\u0715\u0741\u0725\u0730\u071d\u071f\u0741\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1306,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1306.json"
+        },
+        "stem": "\u0721\u0715\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                ""
+            ],
+            "eng": [
+                "knowledge",
+                "understanding",
+                "mind, understanding.",
+                "mind"
+            ],
+            "fre": [
+                "intelligence.."
+            ]
+        },
+        "word": {
+            "id": 8699,
+            "uri": "https://sedra.bethmardutho.org/api/word/8699.json"
+        }
+    }
+]

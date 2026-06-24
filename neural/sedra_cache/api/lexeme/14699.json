@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 14699,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14699.json"
+        },
+        "syriac": "\u0729\u0722",
+        "glosses": {
+            "English": [
+                "nest",
+                "to inculcate.",
+                "Ia to nest",
+                "IIIa to make a nest"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3187,
+            "uri": "https://sedra.bethmardutho.org/api/root/3187.json"
+        },
+        "words": [
+            {
+                "id": 18411,
+                "uri": "https://sedra.bethmardutho.org/api/word/18411.json"
+            },
+            {
+                "id": 18412,
+                "uri": "https://sedra.bethmardutho.org/api/word/18412.json"
+            },
+            {
+                "id": 18410,
+                "uri": "https://sedra.bethmardutho.org/api/word/18410.json"
+            },
+            {
+                "id": 41324,
+                "uri": "https://sedra.bethmardutho.org/api/word/41324.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0713\u0710\u0726\u071d",
+        "western": "\u0710\u0730\u0713\u0730\u0710\u0726\u073a\u071d",
+        "lexeme": {
+            "id": 18904,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18904.json"
+        },
+        "stem": "\u0710\u0713\u0710\u0726\u071d",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "love"
+            ],
+            "grc": [
+                "\u1f00\u03b3\u03ac\u03c0\u03b7"
+            ],
+            "lat": [
+                "amor"
+            ]
+        },
+        "word": {
+            "id": 46657,
+            "uri": "https://sedra.bethmardutho.org/api/word/46657.json"
+        }
+    }
+]

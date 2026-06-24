@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0725\u0720\u0721\u071d\u0722",
+        "western": "\u0725\u0733\u0720\u0721\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2331,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2331.json"
+        },
+        "stem": "\u0725\u0720\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0647\u0631, \u0623\u0628\u062f\u064a\u0629"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u0720\u0725\u0733\u0720\u0730\u0721</span> forever.",
+                "age",
+                "world",
+                "world",
+                "eternity",
+                "eternity",
+                "age"
+            ],
+            "fre": [
+                "si\u00e8cle, \u00e2ge, \u00e9ternit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 15541,
+            "uri": "https://sedra.bethmardutho.org/api/word/15541.json"
+        }
+    }
+]

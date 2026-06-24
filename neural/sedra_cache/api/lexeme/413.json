@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 413,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/413.json"
+        },
+        "syriac": "\u0712\u0723\u0715\u071d\u0710",
+        "glosses": {
+            "English": [
+                "cushion",
+                "pillow",
+                "pillow, cushion."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 286,
+            "uri": "https://sedra.bethmardutho.org/api/root/286.json"
+        },
+        "words": [
+            {
+                "id": 2859,
+                "uri": "https://sedra.bethmardutho.org/api/word/2859.json"
+            },
+            {
+                "id": 42214,
+                "uri": "https://sedra.bethmardutho.org/api/word/42214.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

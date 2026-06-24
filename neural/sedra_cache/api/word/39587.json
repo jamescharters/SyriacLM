@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0718\u0720\u0721\u071b\u0710",
+        "western": "\u071a\u073d\u0718\u0720\u0721\u0733\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5855,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5855.json"
+        },
+        "stem": "\u071a\u0718\u0720\u0721\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0630\u0648\u0646 \u0643\u0628\u064a\u0631"
+            ],
+            "eng": [
+                "chamaeleon."
+            ],
+            "fre": [
+                "grand l\u00e9zard"
+            ]
+        },
+        "word": {
+            "id": 39587,
+            "uri": "https://sedra.bethmardutho.org/api/word/39587.json"
+        }
+    }
+]

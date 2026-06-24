@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072c\u071a\u0712\u0720\u0722\u0710",
+        "western": "\u0721\u0736\u072c\u071a\u0730\u0712\u0720\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13004,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13004.json"
+        },
+        "stem": "\u0721\u072c\u071a\u0712\u0720\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u0628\u0644 \u0627\u0644\u0641\u0633\u0627\u062f"
+            ],
+            "eng": [
+                "corruptible, subject to corruption, destructible",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> incorruptible."
+            ],
+            "fre": [
+                "corruptible"
+            ]
+        },
+        "word": {
+            "id": 36933,
+            "uri": "https://sedra.bethmardutho.org/api/word/36933.json"
+        }
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0721\u0720\u0729\u071b",
+        "western": "\u0721\u0720\u0730\u0729\u0736\u071b",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1690,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1690.json"
+        },
+        "stem": "\u0720\u0729\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0642\u0637\u0641, \u062c\u0645\u0639",
+                "\u062a\u0642\u0628\u0636"
+            ],
+            "eng": [
+                "Ia to gather, pick, collect, glean",
+                "Ip",
+                "to select",
+                "to pick up",
+                "IIa to gather in sheaves, bunches",
+                "collect",
+                "pick up",
+                "gather",
+                "IIp to be gathered together."
+            ],
+            "fre": [
+                "\u00a0",
+                "cueillir, recueillir",
+                "se contracter"
+            ]
+        },
+        "word": {
+            "id": 26045,
+            "uri": "https://sedra.bethmardutho.org/api/word/26045.json"
+        }
+    }
+]

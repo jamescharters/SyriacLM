@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 833,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/833.json"
+        },
+        "syriac": "\u0719\u0712\u0715\u071d",
+        "glosses": {
+            "English": [
+                "Zebedee"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 533,
+            "uri": "https://sedra.bethmardutho.org/api/root/533.json"
+        },
+        "words": [
+            {
+                "id": 5371,
+                "uri": "https://sedra.bethmardutho.org/api/word/5371.json"
+            },
+            {
+                "id": 5370,
+                "uri": "https://sedra.bethmardutho.org/api/word/5370.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

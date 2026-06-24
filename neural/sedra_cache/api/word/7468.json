@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071a\u0728\u0715\u071d\u0722",
+        "western": "\u071a\u0733\u0728\u0715\u0741\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1128,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1128.json"
+        },
+        "stem": "\u071a\u0728\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062d\u0635\u062f"
+            ],
+            "eng": [
+                "Ip.",
+                "reap",
+                "Ia to reap, mow down"
+            ],
+            "fre": [
+                "\u00a0",
+                "moissonner"
+            ]
+        },
+        "word": {
+            "id": 7468,
+            "uri": "https://sedra.bethmardutho.org/api/word/7468.json"
+        }
+    }
+]

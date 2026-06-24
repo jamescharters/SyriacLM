@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15072,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15072.json"
+        },
+        "syriac": "\u0715\u072a\u0725",
+        "glosses": {
+            "English": [
+                "to steer, guide.",
+                "IIa to take by the arm"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2987,
+            "uri": "https://sedra.bethmardutho.org/api/root/2987.json"
+        },
+        "words": [
+            {
+                "id": 39986,
+                "uri": "https://sedra.bethmardutho.org/api/word/39986.json"
+            },
+            {
+                "id": 39946,
+                "uri": "https://sedra.bethmardutho.org/api/word/39946.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

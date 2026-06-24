@@ -1,0 +1,91 @@
+[
+    {
+        "lexeme": {
+            "id": 1154,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1154.json"
+        },
+        "syriac": "\u071a\u072a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0637",
+                "\u062d\u062f\u062f, \u0623\u0642\u0627\u0645",
+                "\u0644\u0641\u0638"
+            ],
+            "French": [
+                "tirer ( un trait)",
+                "fixer, \u00e9tablir",
+                "prononcer"
+            ],
+            "English": [
+                "IIp to be cut through.",
+                "gnash",
+                "to sharpen",
+                "Ia to fix, settle",
+                "Ip to be appointed, decreed, determined",
+                "to conclude",
+                "to appoint, to destine",
+                "IIa to gnash the teeth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 688,
+            "uri": "https://sedra.bethmardutho.org/api/root/688.json"
+        },
+        "words": [
+            {
+                "id": 24986,
+                "uri": "https://sedra.bethmardutho.org/api/word/24986.json"
+            },
+            {
+                "id": 24985,
+                "uri": "https://sedra.bethmardutho.org/api/word/24985.json"
+            },
+            {
+                "id": 24984,
+                "uri": "https://sedra.bethmardutho.org/api/word/24984.json"
+            },
+            {
+                "id": 24983,
+                "uri": "https://sedra.bethmardutho.org/api/word/24983.json"
+            },
+            {
+                "id": 7570,
+                "uri": "https://sedra.bethmardutho.org/api/word/7570.json"
+            },
+            {
+                "id": 7569,
+                "uri": "https://sedra.bethmardutho.org/api/word/7569.json"
+            },
+            {
+                "id": 24990,
+                "uri": "https://sedra.bethmardutho.org/api/word/24990.json"
+            },
+            {
+                "id": 24989,
+                "uri": "https://sedra.bethmardutho.org/api/word/24989.json"
+            },
+            {
+                "id": 24988,
+                "uri": "https://sedra.bethmardutho.org/api/word/24988.json"
+            },
+            {
+                "id": 24987,
+                "uri": "https://sedra.bethmardutho.org/api/word/24987.json"
+            },
+            {
+                "id": 7573,
+                "uri": "https://sedra.bethmardutho.org/api/word/7573.json"
+            },
+            {
+                "id": 7572,
+                "uri": "https://sedra.bethmardutho.org/api/word/7572.json"
+            },
+            {
+                "id": 7571,
+                "uri": "https://sedra.bethmardutho.org/api/word/7571.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

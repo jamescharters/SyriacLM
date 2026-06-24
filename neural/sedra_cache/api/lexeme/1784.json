@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1784,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1784.json"
+        },
+        "syriac": "\u0721\u0720\u071f\u0710",
+        "glosses": {
+            "English": [
+                "counsel",
+                "advice, counsel."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1065,
+            "uri": "https://sedra.bethmardutho.org/api/root/1065.json"
+        },
+        "words": [
+            {
+                "id": 11804,
+                "uri": "https://sedra.bethmardutho.org/api/word/11804.json"
+            },
+            {
+                "id": 11805,
+                "uri": "https://sedra.bethmardutho.org/api/word/11805.json"
+            },
+            {
+                "id": 11807,
+                "uri": "https://sedra.bethmardutho.org/api/word/11807.json"
+            },
+            {
+                "id": 11806,
+                "uri": "https://sedra.bethmardutho.org/api/word/11806.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

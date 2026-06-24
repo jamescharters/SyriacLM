@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0710",
+        "western": "\u0710",
+        "eastern": "\u0710",
+        "number": "singular",
+        "lexeme": {
+            "id": 7626,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7626.json"
+        },
+        "stem": "\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "1",
+                "1000",
+                "100000"
+            ],
+            "eng": [
+                "numerical value: 1.",
+                "first letter of the alphabet (Olaph, glottal stop)"
+            ],
+            "fre": [
+                "1",
+                "1000",
+                "100"
+            ]
+        },
+        "word": {
+            "id": 29807,
+            "uri": "https://sedra.bethmardutho.org/api/word/29807.json"
+        }
+    }
+]

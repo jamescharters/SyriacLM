@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 15686,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15686.json"
+        },
+        "syriac": "\u0715\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0638\u0647\u0631, \u062e\u0631\u062c"
+            ],
+            "French": [
+                "appara\u00eetre, sortir"
+            ],
+            "English": [
+                "to observe",
+                "Ia to gaze (from afar)",
+                "IIIa to look out",
+                "to indicate",
+                "to come to light, appear",
+                "<span class=\"selectableFont\">\u0721\u0715\u0733\u0729 \u0720\u073a\u071d</span> I know.",
+                "<span class=\"selectableFont\">\u0721\u0715\u0733\u0729</span> competent",
+                "IIa <span class=\"selectableFont\">\u0715\u0730\u071d\u0736\u0729</span> to regard"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2918,
+            "uri": "https://sedra.bethmardutho.org/api/root/2918.json"
+        },
+        "words": [
+            {
+                "id": 39983,
+                "uri": "https://sedra.bethmardutho.org/api/word/39983.json"
+            },
+            {
+                "id": 41700,
+                "uri": "https://sedra.bethmardutho.org/api/word/41700.json"
+            },
+            {
+                "id": 40972,
+                "uri": "https://sedra.bethmardutho.org/api/word/40972.json"
+            },
+            {
+                "id": 40648,
+                "uri": "https://sedra.bethmardutho.org/api/word/40648.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

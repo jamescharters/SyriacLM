@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 816,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/816.json"
+        },
+        "syriac": "\u0717\u072a\u0718\u0715\u0723",
+        "glosses": {
+            "English": [
+                "Herod Antipas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 518,
+            "uri": "https://sedra.bethmardutho.org/api/root/518.json"
+        },
+        "words": [
+            {
+                "id": 5332,
+                "uri": "https://sedra.bethmardutho.org/api/word/5332.json"
+            },
+            {
+                "id": 5331,
+                "uri": "https://sedra.bethmardutho.org/api/word/5331.json"
+            },
+            {
+                "id": 5329,
+                "uri": "https://sedra.bethmardutho.org/api/word/5329.json"
+            },
+            {
+                "id": 5330,
+                "uri": "https://sedra.bethmardutho.org/api/word/5330.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 289,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/289.json"
+        },
+        "syriac": "\u0710\u072a\u071f\u0720\u0710\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Archelaus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 213,
+            "uri": "https://sedra.bethmardutho.org/api/root/213.json"
+        },
+        "words": [
+            {
+                "id": 1912,
+                "uri": "https://sedra.bethmardutho.org/api/word/1912.json"
+            },
+            {
+                "id": 1911,
+                "uri": "https://sedra.bethmardutho.org/api/word/1911.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

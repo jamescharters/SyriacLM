@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 14816,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14816.json"
+        },
+        "syriac": "\u0723\u0729\u0712\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0627\u0631\u0636",
+                "\u062d\u0636\u0631",
+                "\u0636\u0627\u062f",
+                "\u0623\u0631\u0633\u0644 \u0644\u0645\u0644\u0627\u0642\u0627\u0629",
+                "\u00a0"
+            ],
+            "French": [
+                "s&#39;opposer",
+                "\u00eatre pr\u00e9sent",
+                "opposer",
+                "envoyer au davant",
+                "s&#39;opposer\u2026"
+            ],
+            "English": [
+                "IVa to oppose",
+                "to chance to be present.",
+                "IVp to happen, to occur by chance"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2276,
+            "uri": "https://sedra.bethmardutho.org/api/root/2276.json"
+        },
+        "words": [
+            {
+                "id": 41255,
+                "uri": "https://sedra.bethmardutho.org/api/word/41255.json"
+            },
+            {
+                "id": 40647,
+                "uri": "https://sedra.bethmardutho.org/api/word/40647.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15875,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15875.json"
+        },
+        "syriac": "\u0712\u072a\u0728",
+        "glosses": {
+            "English": [
+                "IIa to make evident, clear.",
+                "Ia to penetrate, pierce open",
+                "Ip to be perforated"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2521,
+            "uri": "https://sedra.bethmardutho.org/api/root/2521.json"
+        },
+        "words": [
+            {
+                "id": 41958,
+                "uri": "https://sedra.bethmardutho.org/api/word/41958.json"
+            },
+            {
+                "id": 41903,
+                "uri": "https://sedra.bethmardutho.org/api/word/41903.json"
+            },
+            {
+                "id": 40370,
+                "uri": "https://sedra.bethmardutho.org/api/word/40370.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "syriac": "\u072b\u0720\u071d\u071a\u071d\u0722",
+        "western": "\u072b\u0720\u073a\u071d\u071a\u073a\u071d\u0722",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3211,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3211.json"
+        },
+        "stem": "\u072b\u0720\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u062a\u0641\u0647\u0645",
+                "\u00a0",
+                "\u0623\u0631\u0633\u0644",
+                "\u0634\u0644\u062d (\u062b\u0648\u0628\u0647), \u062a\u0639\u0631\u0649 \u0645\u0646",
+                "\u0623\u0631\u0633\u0644 \u064a\u0642\u0648\u0644",
+                "\u0631\u0645\u0649"
+            ],
+            "eng": [
+                "Ip",
+                "to take off (clothes)",
+                "to shed, to lay aside",
+                "strip (oneself)",
+                "strip",
+                "IIp",
+                "IIIp to be sent.",
+                "IIa to strip, to lay bare",
+                "Ia to send (message)",
+                "send",
+                "IIIa to strip, take off",
+                "to despoil",
+                "plunder"
+            ],
+            "fre": [
+                "\u00a0",
+                "interpeller",
+                "envoyer dire",
+                "lancer",
+                "envoyer",
+                "se d\u00e9v\u00eatir de, se d\u00e9pouiller de"
+            ]
+        },
+        "word": {
+            "id": 29093,
+            "uri": "https://sedra.bethmardutho.org/api/word/29093.json"
+        }
+    }
+]

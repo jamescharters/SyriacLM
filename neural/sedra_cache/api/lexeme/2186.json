@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2186,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2186.json"
+        },
+        "syriac": "\u0723\u0726\u072a",
+        "glosses": {
+            "English": [
+                "shave"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1305,
+            "uri": "https://sedra.bethmardutho.org/api/root/1305.json"
+        },
+        "words": [
+            {
+                "id": 14535,
+                "uri": "https://sedra.bethmardutho.org/api/word/14535.json"
+            },
+            {
+                "id": 22828,
+                "uri": "https://sedra.bethmardutho.org/api/word/22828.json"
+            },
+            {
+                "id": 14538,
+                "uri": "https://sedra.bethmardutho.org/api/word/14538.json"
+            },
+            {
+                "id": 14537,
+                "uri": "https://sedra.bethmardutho.org/api/word/14537.json"
+            },
+            {
+                "id": 14536,
+                "uri": "https://sedra.bethmardutho.org/api/word/14536.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

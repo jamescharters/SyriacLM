@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0715\u0721\u071b\u0725\u071d\u0722\u0718\u072c\u0710",
+        "western": "\u0715\u0741\u0721\u0730\u071b\u0725\u071d\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1263,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1263.json"
+        },
+        "stem": "\u0721\u071b\u0725\u071d\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "error",
+                "deception, error, fallacy.",
+                "deception"
+            ]
+        },
+        "word": {
+            "id": 8278,
+            "uri": "https://sedra.bethmardutho.org/api/word/8278.json"
+        }
+    }
+]

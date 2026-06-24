@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15870,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15870.json"
+        },
+        "syriac": "\u0729\u072a\u071a",
+        "glosses": {
+            "English": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u072a\u0730\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0729\u072a\u073d\u0718\u071a</span>, Ia to become bald."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2796,
+            "uri": "https://sedra.bethmardutho.org/api/root/2796.json"
+        },
+        "words": [
+            {
+                "id": 42093,
+                "uri": "https://sedra.bethmardutho.org/api/word/42093.json"
+            },
+            {
+                "id": 41626,
+                "uri": "https://sedra.bethmardutho.org/api/word/41626.json"
+            },
+            {
+                "id": 40906,
+                "uri": "https://sedra.bethmardutho.org/api/word/40906.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

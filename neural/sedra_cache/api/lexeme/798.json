@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 798,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/798.json"
+        },
+        "syriac": "\u0717\u0720\u071f\u072c\u0710",
+        "glosses": {
+            "English": [
+                "walk",
+                "way",
+                "footsteps"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 507,
+            "uri": "https://sedra.bethmardutho.org/api/root/507.json"
+        },
+        "words": [
+            {
+                "id": 5196,
+                "uri": "https://sedra.bethmardutho.org/api/word/5196.json"
+            },
+            {
+                "id": 5195,
+                "uri": "https://sedra.bethmardutho.org/api/word/5195.json"
+            },
+            {
+                "id": 5194,
+                "uri": "https://sedra.bethmardutho.org/api/word/5194.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

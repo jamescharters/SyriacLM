@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1157,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1157.json"
+        },
+        "syriac": "\u071a\u072a\u072b\u0710",
+        "glosses": {
+            "English": [
+                "magician, sorcerer, enchanter.",
+                "sorcerer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 690,
+            "uri": "https://sedra.bethmardutho.org/api/root/690.json"
+        },
+        "words": [
+            {
+                "id": 7585,
+                "uri": "https://sedra.bethmardutho.org/api/word/7585.json"
+            },
+            {
+                "id": 7587,
+                "uri": "https://sedra.bethmardutho.org/api/word/7587.json"
+            },
+            {
+                "id": 7586,
+                "uri": "https://sedra.bethmardutho.org/api/word/7586.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

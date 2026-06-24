@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 1803,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1803.json"
+        },
+        "syriac": "\u0721\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "mina",
+                "measure of weight, value."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1076,
+            "uri": "https://sedra.bethmardutho.org/api/root/1076.json"
+        },
+        "words": [
+            {
+                "id": 12020,
+                "uri": "https://sedra.bethmardutho.org/api/word/12020.json"
+            },
+            {
+                "id": 12018,
+                "uri": "https://sedra.bethmardutho.org/api/word/12018.json"
+            },
+            {
+                "id": 12019,
+                "uri": "https://sedra.bethmardutho.org/api/word/12019.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

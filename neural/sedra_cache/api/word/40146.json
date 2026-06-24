@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u072b\u0721\u072b",
+        "western": "\u0721\u0730\u072b\u0721\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14817,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14817.json"
+        },
+        "stem": "\u0721\u072b\u0721\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                ""
+            ],
+            "eng": [
+                "IVa to feel, touch."
+            ],
+            "fre": [
+                ""
+            ]
+        },
+        "word": {
+            "id": 40146,
+            "uri": "https://sedra.bethmardutho.org/api/word/40146.json"
+        }
+    }
+]

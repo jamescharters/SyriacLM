@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 14735,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14735.json"
+        },
+        "syriac": "\u072c\u0722\u0718\u071d",
+        "glosses": {
+            "English": [
+                "IVp to be agreed upon",
+                "to be stipulated.",
+                "IVa to make a contract",
+                "to settle terms"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2124,
+            "uri": "https://sedra.bethmardutho.org/api/root/2124.json"
+        },
+        "words": [
+            {
+                "id": 41450,
+                "uri": "https://sedra.bethmardutho.org/api/word/41450.json"
+            },
+            {
+                "id": 40243,
+                "uri": "https://sedra.bethmardutho.org/api/word/40243.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

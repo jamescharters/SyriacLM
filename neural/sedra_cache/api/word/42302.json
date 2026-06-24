@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0713\u0722\u0723\u0722\u0710",
+        "western": "\u0713\u0736\u0722\u0308\u0723\u0733\u0722\u0736\u0710",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 607,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/607.json"
+        },
+        "stem": "\u0713\u0722\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "offspring",
+                "<span class=\"selectableFont\">\u0713\u0722\u0736\u0723 \u0713\u0722\u0736\u0723</span> various.",
+                "family, race",
+                "species, kind",
+                "Gram. gender",
+                "kind"
+            ]
+        },
+        "word": {
+            "id": 42302,
+            "uri": "https://sedra.bethmardutho.org/api/word/42302.json"
+        }
+    }
+]

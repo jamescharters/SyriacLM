@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1225,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1225.json"
+        },
+        "syriac": "\u071b\u071d\u0721\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Timon"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 724,
+            "uri": "https://sedra.bethmardutho.org/api/root/724.json"
+        },
+        "words": [
+            {
+                "id": 8058,
+                "uri": "https://sedra.bethmardutho.org/api/word/8058.json"
+            },
+            {
+                "id": 8057,
+                "uri": "https://sedra.bethmardutho.org/api/word/8057.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

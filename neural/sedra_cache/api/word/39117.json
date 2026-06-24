@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0725\u0718\u0720\u0712\u0722\u0710",
+        "western": "\u0725\u073d\u0718\u0720\u0712\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10137,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10137.json"
+        },
+        "stem": "\u0725\u0718\u0720\u0712\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u062b\u0631\u0629",
+                "\u0638\u0644\u0645"
+            ],
+            "eng": [
+                "fraud, defrauding",
+                "abundance.",
+                "injury"
+            ],
+            "fre": [
+                "injustice",
+                "abondance"
+            ]
+        },
+        "word": {
+            "id": 39117,
+            "uri": "https://sedra.bethmardutho.org/api/word/39117.json"
+        }
+    }
+]

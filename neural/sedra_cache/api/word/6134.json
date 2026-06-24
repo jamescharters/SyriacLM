@@ -1,0 +1,55 @@
+[
+    {
+        "syriac": "\u0718\u071a\u0712\u0728\u071d\u0722",
+        "western": "\u0718\u071a\u0733\u0712\u0742\u0728\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 940,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/940.json"
+        },
+        "stem": "\u071a\u0712\u0728",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0635\u0631",
+                "\u062f\u0641\u0639, \u062d\u062b",
+                "\u0623\u062c\u0628\u0631",
+                "\u0627\u0632\u062f\u062d\u0645",
+                "\u0627\u0633\u062a\u0639\u062c\u0644, \u062a\u0633\u0627\u0631\u0639",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to push, crowd together, throng",
+                "to contract",
+                "crowd together",
+                "throng",
+                "to hasten, be eager",
+                "to be pressed together, compressed",
+                "IIa to press close together.",
+                "to hold back from",
+                "Ip to thrust, press",
+                "to try hard, take pains"
+            ],
+            "fre": [
+                "presser",
+                "pousser",
+                "\u00a0",
+                "forcer",
+                "se h\u00e2ter, s&#39;empresser",
+                "se presser"
+            ]
+        },
+        "word": {
+            "id": 6134,
+            "uri": "https://sedra.bethmardutho.org/api/word/6134.json"
+        }
+    }
+]

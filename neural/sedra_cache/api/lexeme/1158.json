@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 1158,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1158.json"
+        },
+        "syriac": "\u071a\u072a\u072b\u0710",
+        "glosses": {
+            "English": [
+                "sorcery",
+                "enchantment",
+                "2 incantation, enchantment",
+                "magic, witchcraft."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 690,
+            "uri": "https://sedra.bethmardutho.org/api/root/690.json"
+        },
+        "words": [
+            {
+                "id": 23987,
+                "uri": "https://sedra.bethmardutho.org/api/word/23987.json"
+            },
+            {
+                "id": 23986,
+                "uri": "https://sedra.bethmardutho.org/api/word/23986.json"
+            },
+            {
+                "id": 23983,
+                "uri": "https://sedra.bethmardutho.org/api/word/23983.json"
+            },
+            {
+                "id": 23982,
+                "uri": "https://sedra.bethmardutho.org/api/word/23982.json"
+            },
+            {
+                "id": 7592,
+                "uri": "https://sedra.bethmardutho.org/api/word/7592.json"
+            },
+            {
+                "id": 7590,
+                "uri": "https://sedra.bethmardutho.org/api/word/7590.json"
+            },
+            {
+                "id": 7589,
+                "uri": "https://sedra.bethmardutho.org/api/word/7589.json"
+            },
+            {
+                "id": 7588,
+                "uri": "https://sedra.bethmardutho.org/api/word/7588.json"
+            },
+            {
+                "id": 7591,
+                "uri": "https://sedra.bethmardutho.org/api/word/7591.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

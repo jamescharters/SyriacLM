@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15173,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15173.json"
+        },
+        "syriac": "\u0713\u0723",
+        "glosses": {
+            "English": [
+                "to make to recline.",
+                "to sit down (at table), lie down on one\u2019s side.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0713\u0736\u0723</span> to make to recline, sit down"
+            ],
+            "Arabic": [
+                "\u0623\u0636\u062c\u0639",
+                "\u0648\u0636\u0639",
+                "\u0623\u0636\u062c\u0639"
+            ],
+            "French": [
+                "faire se coucher",
+                "d\u00e9poser",
+                "\u00eatre couch\u00e9, se coucher"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2366,
+            "uri": "https://sedra.bethmardutho.org/api/root/2366.json"
+        },
+        "words": [
+            {
+                "id": 40087,
+                "uri": "https://sedra.bethmardutho.org/api/word/40087.json"
+            },
+            {
+                "id": 41456,
+                "uri": "https://sedra.bethmardutho.org/api/word/41456.json"
+            },
+            {
+                "id": 40284,
+                "uri": "https://sedra.bethmardutho.org/api/word/40284.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

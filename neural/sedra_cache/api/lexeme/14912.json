@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 14912,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14912.json"
+        },
+        "syriac": "\u0726\u0720\u0723\u072a",
+        "glosses": {
+            "English": [
+                "IVa to falsify, to forge."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "falsarius"
+            ]
+        },
+        "root": {
+            "id": 3149,
+            "uri": "https://sedra.bethmardutho.org/api/root/3149.json"
+        },
+        "words": [
+            {
+                "id": 41198,
+                "uri": "https://sedra.bethmardutho.org/api/word/41198.json"
+            },
+            {
+                "id": 41002,
+                "uri": "https://sedra.bethmardutho.org/api/word/41002.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

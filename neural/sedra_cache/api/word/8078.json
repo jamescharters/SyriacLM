@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u071b\u071f\u0723\u0710",
+        "western": "\u071b\u0736\u071f\u0741\u0723\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1233,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1233.json"
+        },
+        "stem": "\u071b\u071f\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u0639\u062f\u0629",
+                "\u0634\u0631\u0630\u0645\u0629, \u062d\u0627\u0634\u064a\u0629, \u062d\u0631\u0627\u0633",
+                "\u062f\u0631\u062c\u0629, \u0631\u062a\u0628\u0629",
+                "\u062b\u0648\u0628, \u0639\u062f\u0629",
+                "\u0623\u0645\u0631",
+                "\u0637\u0642\u0633"
+            ],
+            "eng": [
+                "(and <span class=\"selectableFont\">\u071b\u0730\u071f\u0723\u0733\u0710</span>) rank, order, series",
+                "arrangement",
+                "rite",
+                "equipment, apparatus",
+                "order",
+                "rule, regulation",
+                "Kth. <span class=\"selectableFont\">\u071b\u0730\u071f\u0723\u0733\u0710</span> system."
+            ],
+            "fre": [
+                "rite",
+                "troupe, suite, gardes",
+                "r\u00e8gle",
+                "degr\u00e9, dignit\u00e9",
+                "ordre",
+                "v\u00eatement, \u00e9quipement"
+            ]
+        },
+        "word": {
+            "id": 8078,
+            "uri": "https://sedra.bethmardutho.org/api/word/8078.json"
+        }
+    }
+]

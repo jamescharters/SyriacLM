@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0723",
+        "western": "\u0721\u072a\u0730\u0723",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15531,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15531.json"
+        },
+        "stem": "\u0721\u072a\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0631\u0628",
+                "",
+                "\u062d\u0635\u0631"
+            ],
+            "eng": [
+                "IIa to bruise, batter",
+                "Ia to crush, bruise, steep",
+                "IIp.",
+                "to repress (thoughts etc.)"
+            ],
+            "fre": [
+                "frapper",
+                "",
+                "presser"
+            ]
+        },
+        "word": {
+            "id": 41421,
+            "uri": "https://sedra.bethmardutho.org/api/word/41421.json"
+        }
+    }
+]

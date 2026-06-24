@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0722\u0725\u071b\u0718\u072b",
+        "western": "\u0722\u0736\u0725\u071b\u073d\u0718\u072b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15659,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15659.json"
+        },
+        "stem": "\u0725\u071b\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to sneeze."
+            ]
+        },
+        "word": {
+            "id": 42082,
+            "uri": "https://sedra.bethmardutho.org/api/word/42082.json"
+        }
+    }
+]

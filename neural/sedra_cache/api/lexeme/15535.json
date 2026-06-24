@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15535,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15535.json"
+        },
+        "syriac": "\u0722\u0718\u0719",
+        "glosses": {
+            "English": [
+                "IIIa to spurn.",
+                "Ia to be restive, to kick"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2820,
+            "uri": "https://sedra.bethmardutho.org/api/root/2820.json"
+        },
+        "words": [
+            {
+                "id": 41712,
+                "uri": "https://sedra.bethmardutho.org/api/word/41712.json"
+            },
+            {
+                "id": 40208,
+                "uri": "https://sedra.bethmardutho.org/api/word/40208.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

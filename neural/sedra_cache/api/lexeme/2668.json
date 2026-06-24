@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2668,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2668.json"
+        },
+        "syriac": "\u0728\u0718\u071a\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0639\u0646\u0629"
+            ],
+            "French": [
+                "mal\u00e9diction"
+            ],
+            "English": [
+                "injury.",
+                "reviling",
+                "insult",
+                "abuse",
+                "abuse, railing"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1581,
+            "uri": "https://sedra.bethmardutho.org/api/root/1581.json"
+        },
+        "words": [
+            {
+                "id": 17376,
+                "uri": "https://sedra.bethmardutho.org/api/word/17376.json"
+            },
+            {
+                "id": 17378,
+                "uri": "https://sedra.bethmardutho.org/api/word/17378.json"
+            },
+            {
+                "id": 17377,
+                "uri": "https://sedra.bethmardutho.org/api/word/17377.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

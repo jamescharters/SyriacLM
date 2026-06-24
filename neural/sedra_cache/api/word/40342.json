@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0728\u0720\u0715",
+        "western": "\u0728\u0720\u0730\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14645,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14645.json"
+        },
+        "stem": "\u0728\u0720\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0642\u0627\u0645 \u062d\u0646\u0627\u064a\u0627, \u062f\u0647\u0627\u0644\u064a\u0632"
+            ],
+            "eng": [
+                "Ia to make a vault, gallery.",
+                "to prop up"
+            ],
+            "fre": [
+                "faire des vo\u00fbtes, des galeries"
+            ]
+        },
+        "word": {
+            "id": 40342,
+            "uri": "https://sedra.bethmardutho.org/api/word/40342.json"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0720\u0710\u0721\u072c\u071d",
+        "western": "\u0720\u0736\u0710\u0721\u0730\u072c\u0742\u071d",
+        "lexeme": {
+            "id": 175,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/175.json"
+        },
+        "stem": "\u0710\u0721\u072c\u071d",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "when?",
+                "<span class=\"selectableFont\">\u0712\u071f\u073d\u0720 \u0710\u0736\u0721\u0730\u072c\u071d</span> at all times, every time",
+                "when? -<span class=\"selectableFont\">\u071f\u073d\u0720 \u0710\u0736\u0721\u0730\u072c\u071d \u0715</span>. whenever",
+                "<span class=\"selectableFont\">\u0710\u073a\u071d\u072c \u0710\u0736\u0721\u0730\u072c\u071d</span> sometimes."
+            ]
+        },
+        "word": {
+            "id": 1346,
+            "uri": "https://sedra.bethmardutho.org/api/word/1346.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u072c\u071d\u0729\u072c\u0710",
+        "western": "\u0725\u0730\u072c\u073a\u071d\u0729\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5174,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5174.json"
+        },
+        "stem": "\u0725\u072c\u071d\u0729\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0647\u062f \u0642\u062f\u064a\u0645"
+            ],
+            "eng": [
+                "the Old Testament."
+            ],
+            "fre": [
+                "Ancien Testament"
+            ]
+        },
+        "word": {
+            "id": 31270,
+            "uri": "https://sedra.bethmardutho.org/api/word/31270.json"
+        }
+    }
+]

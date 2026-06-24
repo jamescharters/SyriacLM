@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0718\u0710\u071b\u0720\u072c",
+        "western": "\u0718\u0730\u0710\u071b\u0720\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1238,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1238.json"
+        },
+        "stem": "\u071b\u0720",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "overshadow"
+            ]
+        },
+        "word": {
+            "id": 8105,
+            "uri": "https://sedra.bethmardutho.org/api/word/8105.json"
+        }
+    }
+]

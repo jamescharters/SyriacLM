@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 2802,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2802.json"
+        },
+        "syriac": "\u0729\u071b\u0713\u072a\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "accusation"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03b1\u03c4\u03ae\u03b3\u03bf\u03c1\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1652,
+            "uri": "https://sedra.bethmardutho.org/api/root/1652.json"
+        },
+        "words": [
+            {
+                "id": 18309,
+                "uri": "https://sedra.bethmardutho.org/api/word/18309.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p"
+    }
+]

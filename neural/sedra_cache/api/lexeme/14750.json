@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14750,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14750.json"
+        },
+        "syriac": "\u0728\u0718\u0728\u071d",
+        "glosses": {
+            "English": [
+                "IVa to chirp",
+                "to clink (of coins)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2485,
+            "uri": "https://sedra.bethmardutho.org/api/root/2485.json"
+        },
+        "words": [
+            {
+                "id": 41575,
+                "uri": "https://sedra.bethmardutho.org/api/word/41575.json"
+            },
+            {
+                "id": 40129,
+                "uri": "https://sedra.bethmardutho.org/api/word/40129.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

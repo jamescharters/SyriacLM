@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072b\u071f\u0722\u0710",
+        "western": "\u0721\u0730\u072b\u071f\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3199,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3199.json"
+        },
+        "stem": "\u0721\u072b\u071f\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "tent, tabernacle",
+                "habitation.",
+                "tent",
+                "habitation",
+                "tabernacle"
+            ]
+        },
+        "word": {
+            "id": 21011,
+            "uri": "https://sedra.bethmardutho.org/api/word/21011.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072b\u0712\u0725\u072c\u071d\u0717\u0718\u0722",
+        "western": "\u072b\u0730\u0712\u0742\u0725\u0733\u072c\u0742\u0730\u071d\u0717\u073d\u0718\u0722",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 3107,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3107.json"
+        },
+        "stem": "\u072b\u0712\u0725",
+        "category": "numeral",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "seven",
+                "seven."
+            ]
+        },
+        "word": {
+            "id": 20235,
+            "uri": "https://sedra.bethmardutho.org/api/word/20235.json"
+        }
+    }
+]

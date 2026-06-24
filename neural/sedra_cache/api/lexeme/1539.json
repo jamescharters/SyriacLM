@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1539,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1539.json"
+        },
+        "syriac": "\u071f\u0721\u0718\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0645\u0648\u0646"
+            ],
+            "French": [
+                "cumin"
+            ],
+            "English": [
+                "cummin",
+                "cummin."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 908,
+            "uri": "https://sedra.bethmardutho.org/api/root/908.json"
+        },
+        "words": [
+            {
+                "id": 10086,
+                "uri": "https://sedra.bethmardutho.org/api/word/10086.json"
+            },
+            {
+                "id": 10087,
+                "uri": "https://sedra.bethmardutho.org/api/word/10087.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1228,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1228.json"
+        },
+        "syriac": "\u071b\u071d\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u062d\u0644"
+            ],
+            "French": [
+                "boue"
+            ],
+            "English": [
+                "clay",
+                "mud, mire",
+                "clay."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 727,
+            "uri": "https://sedra.bethmardutho.org/api/root/727.json"
+        },
+        "words": [
+            {
+                "id": 8066,
+                "uri": "https://sedra.bethmardutho.org/api/word/8066.json"
+            },
+            {
+                "id": 8067,
+                "uri": "https://sedra.bethmardutho.org/api/word/8067.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

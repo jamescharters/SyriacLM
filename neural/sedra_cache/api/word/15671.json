@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0725\u0721\u071b",
+        "western": "\u0725\u0721\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2346,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2346.json"
+        },
+        "stem": "\u0725\u0721\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0638\u0644\u0645"
+            ],
+            "eng": [
+                "IIIa to darken, to make obscure",
+                "become dark",
+                "Ia to cloud over, to become dark",
+                "IIIp.",
+                "IIa to obscure",
+                "IIp to become darkened"
+            ],
+            "fre": [
+                "\u00eatre obscurci"
+            ]
+        },
+        "word": {
+            "id": 15671,
+            "uri": "https://sedra.bethmardutho.org/api/word/15671.json"
+        }
+    }
+]

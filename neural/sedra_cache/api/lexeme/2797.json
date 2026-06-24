@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 2797,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2797.json"
+        },
+        "syriac": "\u0729\u071b\u071d\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u062c\u0628\u0627\u0631, \u063a\u0636\u0628, \u0648\u062c\u0648\u0628",
+                "\u0633\u0644\u0637\u0629",
+                "\u0645\u0631\u0627\u0628, \u0645\u062c\u0645\u062f"
+            ],
+            "French": [
+                "contrainte, violence, n\u00e9cessit\u00e9",
+                "pouvoir",
+                "coagul\u00e9, congel\u00e9"
+            ],
+            "English": [
+                "violence",
+                "necessity",
+                "force",
+                "fastened",
+                "condensed.",
+                "compulsion, force"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1651,
+            "uri": "https://sedra.bethmardutho.org/api/root/1651.json"
+        },
+        "words": [
+            {
+                "id": 18292,
+                "uri": "https://sedra.bethmardutho.org/api/word/18292.json"
+            },
+            {
+                "id": 18291,
+                "uri": "https://sedra.bethmardutho.org/api/word/18291.json"
+            },
+            {
+                "id": 18290,
+                "uri": "https://sedra.bethmardutho.org/api/word/18290.json"
+            },
+            {
+                "id": 18293,
+                "uri": "https://sedra.bethmardutho.org/api/word/18293.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

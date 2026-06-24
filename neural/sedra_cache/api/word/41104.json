@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0722\u071f\u072a\u071d",
+        "western": "\u0722\u0730\u071f\u072a\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14909,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14909.json"
+        },
+        "stem": "\u0722\u071f\u072a\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u0628 (\u0645\u0636), \u0641\u0635\u0644, \u0623\u0628\u0639\u062f"
+            ],
+            "eng": [
+                "to disown, to renounce.",
+                "IVa to separate, remove, alienate, expel, excommunicate",
+                "IVp to be removed, deprived, alienated"
+            ],
+            "fre": [
+                "rendre \u00e9tranger, s\u00e9parer, \u00e9loigner"
+            ]
+        },
+        "word": {
+            "id": 41104,
+            "uri": "https://sedra.bethmardutho.org/api/word/41104.json"
+        }
+    }
+]

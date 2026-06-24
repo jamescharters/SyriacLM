@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14786,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14786.json"
+        },
+        "syriac": "\u0720\u0717\u0720\u0717",
+        "glosses": {
+            "English": [
+                "IVa to confound, stupefy",
+                "IVp to be amazed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2741,
+            "uri": "https://sedra.bethmardutho.org/api/root/2741.json"
+        },
+        "words": [
+            {
+                "id": 40939,
+                "uri": "https://sedra.bethmardutho.org/api/word/40939.json"
+            },
+            {
+                "id": 39808,
+                "uri": "https://sedra.bethmardutho.org/api/word/39808.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

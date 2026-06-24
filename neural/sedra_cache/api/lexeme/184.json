@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 184,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/184.json"
+        },
+        "syriac": "\u072c\u0722\u071a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "g\u00e9missement\u2026"
+            ],
+            "English": [
+                "groaning"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 136,
+            "uri": "https://sedra.bethmardutho.org/api/root/136.json"
+        },
+        "words": [
+            {
+                "id": 1390,
+                "uri": "https://sedra.bethmardutho.org/api/word/1390.json"
+            },
+            {
+                "id": 1359,
+                "uri": "https://sedra.bethmardutho.org/api/word/1359.json"
+            },
+            {
+                "id": 1393,
+                "uri": "https://sedra.bethmardutho.org/api/word/1393.json"
+            },
+            {
+                "id": 1392,
+                "uri": "https://sedra.bethmardutho.org/api/word/1392.json"
+            },
+            {
+                "id": 1391,
+                "uri": "https://sedra.bethmardutho.org/api/word/1391.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethpa\u02bf\u02bfal"
+    }
+]

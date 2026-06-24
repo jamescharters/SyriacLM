@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0722\u071a\u0726",
+        "western": "\u0722\u071a\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15417,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15417.json"
+        },
+        "stem": "\u0722\u071a\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u0641\u0649",
+                "\u0627\u0646\u062d\u0644\u062a \u0623\u0638\u0627\u0641\u0631\u0647",
+                "\u0636\u0639\u0641"
+            ],
+            "eng": [
+                "to be weakened.",
+                "IIIa to go barefoot",
+                "IIa to humiliate",
+                "to take off shoes",
+                "Ia to be barefoot"
+            ],
+            "fre": [
+                "\u00eatre affaibli",
+                "perdre les ongles",
+                "\u00eatre d\u00e9chauss\u00e9"
+            ]
+        },
+        "word": {
+            "id": 41263,
+            "uri": "https://sedra.bethmardutho.org/api/word/41263.json"
+        }
+    }
+]

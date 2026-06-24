@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u071d\u0723\u0722\u071d\u0710",
+        "western": "\u0722\u073a\u071d\u0723\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5546,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5546.json"
+        },
+        "stem": "\u0722\u071d\u0723\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u064a\u0639\u064a"
+            ],
+            "eng": [
+                "spring like, belonging to Nisan (April)."
+            ],
+            "fre": [
+                "printanier"
+            ]
+        },
+        "word": {
+            "id": 34871,
+            "uri": "https://sedra.bethmardutho.org/api/word/34871.json"
+        }
+    }
+]

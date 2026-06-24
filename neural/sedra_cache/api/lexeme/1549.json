@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1549,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1549.json"
+        },
+        "syriac": "\u071f\u0722\u0718\u072b\u071d\u0710",
+        "glosses": {
+            "English": [
+                "congregation",
+                "assembly",
+                "synagogue",
+                "assembly, convocation, Kth. meeting, convention."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 914,
+            "uri": "https://sedra.bethmardutho.org/api/root/914.json"
+        },
+        "words": [
+            {
+                "id": 10109,
+                "uri": "https://sedra.bethmardutho.org/api/word/10109.json"
+            },
+            {
+                "id": 10106,
+                "uri": "https://sedra.bethmardutho.org/api/word/10106.json"
+            },
+            {
+                "id": 10107,
+                "uri": "https://sedra.bethmardutho.org/api/word/10107.json"
+            },
+            {
+                "id": 10108,
+                "uri": "https://sedra.bethmardutho.org/api/word/10108.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 1698,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1698.json"
+        },
+        "syriac": "\u0721\u0710\u072c\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0626\u062a\u0627\u0646"
+            ],
+            "French": [
+                "deux cents"
+            ],
+            "English": [
+                "two hundred"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1008,
+            "uri": "https://sedra.bethmardutho.org/api/root/1008.json"
+        },
+        "words": [
+            {
+                "id": 11184,
+                "uri": "https://sedra.bethmardutho.org/api/word/11184.json"
+            },
+            {
+                "id": 11182,
+                "uri": "https://sedra.bethmardutho.org/api/word/11182.json"
+            },
+            {
+                "id": 11181,
+                "uri": "https://sedra.bethmardutho.org/api/word/11181.json"
+            },
+            {
+                "id": 11185,
+                "uri": "https://sedra.bethmardutho.org/api/word/11185.json"
+            },
+            {
+                "id": 11183,
+                "uri": "https://sedra.bethmardutho.org/api/word/11183.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

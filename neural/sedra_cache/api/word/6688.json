@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u071a\u0719\u0718\u0717",
+        "western": "\u0715\u0741\u071a\u0736\u0719\u0718\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 997,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/997.json"
+        },
+        "stem": "\u071a\u0719\u0718\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "aspect",
+                "apparition",
+                "appearance, form.",
+                "appearance"
+            ]
+        },
+        "word": {
+            "id": 6688,
+            "uri": "https://sedra.bethmardutho.org/api/word/6688.json"
+        }
+    }
+]

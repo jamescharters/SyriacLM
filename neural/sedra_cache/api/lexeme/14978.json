@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14978,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14978.json"
+        },
+        "syriac": "\u071f\u0712\u0715",
+        "glosses": {
+            "English": [
+                "to move to wrath/(Ethpa.) to be angry, indignant/to have excited the wrath of others/be detested",
+                "IIa to move to anger",
+                "IIp to be indignant, angry."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3083,
+            "uri": "https://sedra.bethmardutho.org/api/root/3083.json"
+        },
+        "words": [
+            {
+                "id": 45445,
+                "uri": "https://sedra.bethmardutho.org/api/word/45445.json"
+            },
+            {
+                "id": 41047,
+                "uri": "https://sedra.bethmardutho.org/api/word/41047.json"
+            },
+            {
+                "id": 40900,
+                "uri": "https://sedra.bethmardutho.org/api/word/40900.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

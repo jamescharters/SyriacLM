@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u0726\u071d\u0723\u0722\u0710",
+        "western": "\u0721\u0726\u073a\u071d\u0723\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9488,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9488.json"
+        },
+        "stem": "\u0721\u0726\u071d\u0723\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062a\u0648\u0633\u0644",
+                "\u0634\u0641\u064a\u0639"
+            ],
+            "eng": [
+                "intercessor, advocate.",
+                "persuasive, plausible"
+            ],
+            "fre": [
+                "suppliant",
+                "intercesseur"
+            ]
+        },
+        "word": {
+            "id": 39020,
+            "uri": "https://sedra.bethmardutho.org/api/word/39020.json"
+        }
+    }
+]

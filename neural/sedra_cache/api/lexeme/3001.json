@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 3001,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3001.json"
+        },
+        "syriac": "\u072a\u071a\u0721\u072c\u0710",
+        "glosses": {
+            "English": [
+                "love",
+                "love",
+                "friendship",
+                "kindness",
+                "desire",
+                "(many phrases with <span class=\"selectableFont\">\u072a\u0736\u071a\u0721\u0730\u072c</span> )."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c6\u03b9\u03bb\u03bf\u03b4\u03c9\u03c1\u03af\u03b1",
+                "\u03c6\u03b9\u03bb\u03bf\u03bd\u03b5\u03b9\u03ba\u1f77\u03b1",
+                "\u03c6\u03b9\u03bb\u03bf\u03c0\u03bf\u03bd\u03af\u03b1"
+            ]
+        },
+        "root": {
+            "id": 1753,
+            "uri": "https://sedra.bethmardutho.org/api/root/1753.json"
+        },
+        "words": [
+            {
+                "id": 19582,
+                "uri": "https://sedra.bethmardutho.org/api/word/19582.json"
+            },
+            {
+                "id": 19583,
+                "uri": "https://sedra.bethmardutho.org/api/word/19583.json"
+            },
+            {
+                "id": 27789,
+                "uri": "https://sedra.bethmardutho.org/api/word/27789.json"
+            },
+            {
+                "id": 27788,
+                "uri": "https://sedra.bethmardutho.org/api/word/27788.json"
+            },
+            {
+                "id": 19584,
+                "uri": "https://sedra.bethmardutho.org/api/word/19584.json"
+            },
+            {
+                "id": 19581,
+                "uri": "https://sedra.bethmardutho.org/api/word/19581.json"
+            },
+            {
+                "id": 19580,
+                "uri": "https://sedra.bethmardutho.org/api/word/19580.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

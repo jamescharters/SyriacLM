@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u0725\u0723\u0729",
+        "western": "\u0722\u0736\u0725\u0723\u0730\u0729",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15730,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15730.json"
+        },
+        "stem": "\u0725\u0723\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0639\u0628"
+            ],
+            "eng": [
+                "be hard",
+                "to be difficult.",
+                "to be indignant",
+                "Ia to be difficult, obstinate",
+                "IIp to resist",
+                "be difficult"
+            ],
+            "fre": [
+                "\u00eatre difficile"
+            ]
+        },
+        "word": {
+            "id": 41994,
+            "uri": "https://sedra.bethmardutho.org/api/word/41994.json"
+        }
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1077,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1077.json"
+        },
+        "syriac": "\u071a\u0721\u072b\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0645\u0633\u0648\u0646"
+            ],
+            "French": [
+                "cinquante"
+            ],
+            "English": [
+                "fifty",
+                "fifty."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 648,
+            "uri": "https://sedra.bethmardutho.org/api/root/648.json"
+        },
+        "words": [
+            {
+                "id": 7236,
+                "uri": "https://sedra.bethmardutho.org/api/word/7236.json"
+            },
+            {
+                "id": 7235,
+                "uri": "https://sedra.bethmardutho.org/api/word/7235.json"
+            },
+            {
+                "id": 7238,
+                "uri": "https://sedra.bethmardutho.org/api/word/7238.json"
+            },
+            {
+                "id": 7237,
+                "uri": "https://sedra.bethmardutho.org/api/word/7237.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

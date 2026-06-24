@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u0713\u0720",
+        "western": "\u072b\u0713\u0730\u0720",
+        "number": "singular",
+        "lexeme": {
+            "id": 4982,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/4982.json"
+        },
+        "stem": "\u072b\u0713\u0720",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0628\u0646 \u0622\u0648\u0649"
+            ],
+            "eng": [
+                "jackal",
+                "jackal."
+            ],
+            "fre": [
+                "chacal"
+            ]
+        },
+        "word": {
+            "id": 29784,
+            "uri": "https://sedra.bethmardutho.org/api/word/29784.json"
+        }
+    }
+]

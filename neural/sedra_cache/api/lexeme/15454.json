@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15454,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15454.json"
+        },
+        "syriac": "\u0729\u0712",
+        "glosses": {
+            "English": [
+                "IIa to be horrified",
+                "to overarch, form a dome",
+                "Ia to shiver, bristle",
+                "IIp to shiver."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2346,
+            "uri": "https://sedra.bethmardutho.org/api/root/2346.json"
+        },
+        "words": [
+            {
+                "id": 41607,
+                "uri": "https://sedra.bethmardutho.org/api/word/41607.json"
+            },
+            {
+                "id": 41448,
+                "uri": "https://sedra.bethmardutho.org/api/word/41448.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

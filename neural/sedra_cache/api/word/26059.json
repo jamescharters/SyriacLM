@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0710\u072b",
+        "western": "\u0715\u0741\u0721\u0733\u0710\u0736\u072b",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1725,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1725.json"
+        },
+        "stem": "\u0721\u0718\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa <span class=\"selectableFont\">\u0721\u0730\u0718\u0736\u072b</span> to pry, search closely",
+                "Ip",
+                "to search out, explore",
+                "examine",
+                "search",
+                "touch",
+                "Ia to feel, grope, touch",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0721\u073a\u071d\u072b</span> to cause to touch."
+            ]
+        },
+        "word": {
+            "id": 26059,
+            "uri": "https://sedra.bethmardutho.org/api/word/26059.json"
+        }
+    }
+]

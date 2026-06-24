@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15933,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15933.json"
+        },
+        "syriac": "\u0722\u0712\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0639\u0644\u0647 \u064a\u0639\u0648\u064a"
+            ],
+            "French": [
+                "faire aboyer"
+            ],
+            "English": [
+                "to cause to bark.",
+                "IIIa.",
+                "Ia to bark"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2104,
+            "uri": "https://sedra.bethmardutho.org/api/root/2104.json"
+        },
+        "words": [
+            {
+                "id": 42126,
+                "uri": "https://sedra.bethmardutho.org/api/word/42126.json"
+            },
+            {
+                "id": 42101,
+                "uri": "https://sedra.bethmardutho.org/api/word/42101.json"
+            },
+            {
+                "id": 41193,
+                "uri": "https://sedra.bethmardutho.org/api/word/41193.json"
+            },
+            {
+                "id": 40745,
+                "uri": "https://sedra.bethmardutho.org/api/word/40745.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0712\u072c\u0718\u0729\u0720\u072c\u0717\u0718\u0722",
+        "western": "\u0712\u0741\u072c\u0742\u073d\u0718\u0729\u0720\u0730\u072c\u0742\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 5497,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5497.json"
+        },
+        "stem": "\u072c\u0718\u0729\u0720\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "offense",
+                "scandal.",
+                "stumbling block",
+                "stumbling block"
+            ]
+        },
+        "word": {
+            "id": 22600,
+            "uri": "https://sedra.bethmardutho.org/api/word/22600.json"
+        }
+    }
+]

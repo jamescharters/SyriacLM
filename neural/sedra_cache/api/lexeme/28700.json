@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28700,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28700.json"
+        },
+        "syriac": "\u0710\u071b\u0720\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f0c\u03c4\u03bb\u03b1\u03c2"
+            ],
+            "English": [
+                "Atlas"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f0c\u03c4\u03bb\u03b1\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49206,
+                "uri": "https://sedra.bethmardutho.org/api/word/49206.json"
+            },
+            {
+                "id": 55074,
+                "uri": "https://sedra.bethmardutho.org/api/word/55074.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

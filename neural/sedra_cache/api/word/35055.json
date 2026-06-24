@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u0720\u0728\u072c\u0710",
+        "western": "\u0710\u0733\u0720\u0736\u0728\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6939,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6939.json"
+        },
+        "stem": "\u0710\u0720\u0728\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0631\u0648\u0631\u0629"
+            ],
+            "eng": [
+                "necessities."
+            ],
+            "fre": [
+                "n\u00e9cessit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 35055,
+            "uri": "https://sedra.bethmardutho.org/api/word/35055.json"
+        }
+    }
+]

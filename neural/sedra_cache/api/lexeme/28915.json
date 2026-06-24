@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 28915,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28915.json"
+        },
+        "syriac": "\u0710\u071d\u0720\u0710\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f35\u03bb\u03b1\u03bf\u03c2, \u1f35\u03bb\u03b5\u03c9\u03c2",
+                "\u03b5\u1f30\u03bb\u03b5\u03cc\u03c2"
+            ],
+            "English": [
+                "propitious, gracious, kindly, gentle,",
+                "intestinal obstruction"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f35\u03bb\u03b1\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55289,
+                "uri": "https://sedra.bethmardutho.org/api/word/55289.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "lexeme": {
+            "id": 2697,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2697.json"
+        },
+        "syriac": "\u0728\u0720\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0642",
+                "\u0646\u062c\u062d",
+                "\u0639\u0642\u062f \u0627\u0644\u0635\u0644\u062d"
+            ],
+            "French": [
+                "fendre",
+                "r\u00e9ussir",
+                "faire la paix"
+            ],
+            "English": [
+                "prosper"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1595,
+            "uri": "https://sedra.bethmardutho.org/api/root/1595.json"
+        },
+        "words": [
+            {
+                "id": 28006,
+                "uri": "https://sedra.bethmardutho.org/api/word/28006.json"
+            },
+            {
+                "id": 28005,
+                "uri": "https://sedra.bethmardutho.org/api/word/28005.json"
+            },
+            {
+                "id": 17541,
+                "uri": "https://sedra.bethmardutho.org/api/word/17541.json"
+            },
+            {
+                "id": 17540,
+                "uri": "https://sedra.bethmardutho.org/api/word/17540.json"
+            },
+            {
+                "id": 28008,
+                "uri": "https://sedra.bethmardutho.org/api/word/28008.json"
+            },
+            {
+                "id": 28007,
+                "uri": "https://sedra.bethmardutho.org/api/word/28007.json"
+            },
+            {
+                "id": 17544,
+                "uri": "https://sedra.bethmardutho.org/api/word/17544.json"
+            },
+            {
+                "id": 17543,
+                "uri": "https://sedra.bethmardutho.org/api/word/17543.json"
+            },
+            {
+                "id": 17542,
+                "uri": "https://sedra.bethmardutho.org/api/word/17542.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

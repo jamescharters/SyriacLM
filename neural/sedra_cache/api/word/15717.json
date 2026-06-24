@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0725\u0718\u0721\u072a\u0710",
+        "western": "\u0725\u073d\u0718\u0721\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2358,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2358.json"
+        },
+        "stem": "\u0725\u0718\u0721\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "monastery.",
+                "life",
+                "habitation",
+                "manner of life",
+                "sojourn",
+                "residence",
+                "manner of life",
+                "habitation"
+            ]
+        },
+        "word": {
+            "id": 15717,
+            "uri": "https://sedra.bethmardutho.org/api/word/15717.json"
+        }
+    }
+]

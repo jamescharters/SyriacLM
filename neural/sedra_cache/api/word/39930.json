@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072b\u0725\u0720\u071d",
+        "western": "\u072b\u0730\u0725\u0720\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14674,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14674.json"
+        },
+        "stem": "\u072b\u0725\u0720\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0638\u0645 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVa to exult",
+                "IVp to behave arrogantly, haughtily."
+            ],
+            "fre": [
+                "\u00a0",
+                "exalter"
+            ]
+        },
+        "word": {
+            "id": 39930,
+            "uri": "https://sedra.bethmardutho.org/api/word/39930.json"
+        }
+    }
+]

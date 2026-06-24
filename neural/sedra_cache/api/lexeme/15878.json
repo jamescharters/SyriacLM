@@ -1,0 +1,91 @@
+[
+    {
+        "lexeme": {
+            "id": 15878,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15878.json"
+        },
+        "syriac": "\u0722\u071f\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062d\u062a\u0634\u0645",
+                "\u0639\u0641\u064a\u0641",
+                "\u062d\u0643\u064a\u0645"
+            ],
+            "French": [
+                "r\u00e9serv\u00e9",
+                "chaste",
+                "sage"
+            ],
+            "English": [
+                "to be ashamed",
+                "to refrain for shame.",
+                "IIp to become chaste, sober",
+                "modest",
+                "modest",
+                "to be modest, sober",
+                "IIa to make chaste",
+                "& <span class=\"selectableFont\">\u0722\u071f\u0736\u0726</span> fut. <span class=\"selectableFont\">\u0722\u0736\u071f\u0730\u0726</span> & <span class=\"selectableFont\">\u0722\u0736\u071f\u073d\u0718\u0726</span>, Ia to feel awe, to respect"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2779,
+            "uri": "https://sedra.bethmardutho.org/api/root/2779.json"
+        },
+        "words": [
+            {
+                "id": 12900,
+                "uri": "https://sedra.bethmardutho.org/api/word/12900.json"
+            },
+            {
+                "id": 12903,
+                "uri": "https://sedra.bethmardutho.org/api/word/12903.json"
+            },
+            {
+                "id": 12898,
+                "uri": "https://sedra.bethmardutho.org/api/word/12898.json"
+            },
+            {
+                "id": 26581,
+                "uri": "https://sedra.bethmardutho.org/api/word/26581.json"
+            },
+            {
+                "id": 26582,
+                "uri": "https://sedra.bethmardutho.org/api/word/26582.json"
+            },
+            {
+                "id": 12901,
+                "uri": "https://sedra.bethmardutho.org/api/word/12901.json"
+            },
+            {
+                "id": 12902,
+                "uri": "https://sedra.bethmardutho.org/api/word/12902.json"
+            },
+            {
+                "id": 12897,
+                "uri": "https://sedra.bethmardutho.org/api/word/12897.json"
+            },
+            {
+                "id": 26579,
+                "uri": "https://sedra.bethmardutho.org/api/word/26579.json"
+            },
+            {
+                "id": 26580,
+                "uri": "https://sedra.bethmardutho.org/api/word/26580.json"
+            },
+            {
+                "id": 42133,
+                "uri": "https://sedra.bethmardutho.org/api/word/42133.json"
+            },
+            {
+                "id": 41974,
+                "uri": "https://sedra.bethmardutho.org/api/word/41974.json"
+            },
+            {
+                "id": 41039,
+                "uri": "https://sedra.bethmardutho.org/api/word/41039.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

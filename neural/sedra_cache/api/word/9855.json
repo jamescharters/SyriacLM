@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071f\u0718\u072a",
+        "western": "\u071f\u0741\u0733\u0718\u072a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "common",
+        "lexeme": {
+            "id": 1497,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1497.json"
+        },
+        "stem": "\u071f\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "region",
+                "country, district, land.",
+                "district"
+            ]
+        },
+        "word": {
+            "id": 9855,
+            "uri": "https://sedra.bethmardutho.org/api/word/9855.json"
+        }
+    }
+]

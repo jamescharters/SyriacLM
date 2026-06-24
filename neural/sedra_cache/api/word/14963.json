@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0725\u0713\u0720\u0710",
+        "western": "\u0718\u0730\u0715\u0742\u0725\u0736\u0713\u0742\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2239,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2239.json"
+        },
+        "stem": "\u0725\u0713\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062c\u0644"
+            ],
+            "eng": [
+                "calf",
+                "calf."
+            ],
+            "fre": [
+                "veau"
+            ]
+        },
+        "word": {
+            "id": 14963,
+            "uri": "https://sedra.bethmardutho.org/api/word/14963.json"
+        }
+    }
+]

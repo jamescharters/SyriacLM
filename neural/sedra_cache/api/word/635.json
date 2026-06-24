@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u071d\u071f\u0722",
+        "western": "\u0710\u0730\u071d\u071f\u0741\u0730\u0722",
+        "state": "absolute",
+        "lexeme": {
+            "id": 84,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/84.json"
+        },
+        "stem": "\u0710\u071d\u071f\u0722\u0710",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0645\u0627\u0630\u0627\u061f"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u0715\u0730\u0710\u071d\u071f \u0710\u0730\u071d\u071f\u0730\u0722\u0733\u0710</span> for example.",
+                "+ -<span class=\"selectableFont\">\u0715</span> so that",
+                "how",
+                "how?, as",
+                "as"
+            ],
+            "fre": [
+                "pourquoi?"
+            ]
+        },
+        "word": {
+            "id": 635,
+            "uri": "https://sedra.bethmardutho.org/api/word/635.json"
+        }
+    }
+]

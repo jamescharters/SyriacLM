@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u071a\u072c",
+        "western": "\u0722\u0733\u071a\u0736\u072c\u0742",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1949,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1949.json"
+        },
+        "stem": "\u0722\u071a\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "descend",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071a\u0736\u072c</span> to bring down, to take down, to cause to come down.",
+                "IIp to lower oneself, to stoop down",
+                "Ip",
+                "Ia to go down, descend",
+                "to lower, to abase",
+                "IIa to bring down"
+            ]
+        },
+        "word": {
+            "id": 26509,
+            "uri": "https://sedra.bethmardutho.org/api/word/26509.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0722\u0710",
+        "western": "\u0710\u0736\u0712\u0308\u0733\u0722\u0736\u0710",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9640,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9640.json"
+        },
+        "stem": "\u0710\u0712\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0645\u0631\u0629"
+            ],
+            "eng": [
+                "fruit, produce.",
+                "fruit"
+            ],
+            "fre": [
+                "fruit"
+            ]
+        },
+        "word": {
+            "id": 29769,
+            "uri": "https://sedra.bethmardutho.org/api/word/29769.json"
+        }
+    }
+]

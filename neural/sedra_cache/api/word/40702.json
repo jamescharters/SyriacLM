@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0722\u0718\u0722",
+        "western": "\u0729\u0730\u0722\u0718\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14683,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14683.json"
+        },
+        "stem": "\u0729\u0722\u0718\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be prescribed in a canon, canonically pronounced, or ordered",
+                "IVp to be constituted, prescribed.",
+                "IVa to prescribe"
+            ]
+        },
+        "word": {
+            "id": 40702,
+            "uri": "https://sedra.bethmardutho.org/api/word/40702.json"
+        }
+    }
+]

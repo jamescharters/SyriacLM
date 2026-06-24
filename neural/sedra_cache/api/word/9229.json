@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0712\u071d\u0721\u072c\u0710",
+        "western": "\u0712\u0741\u071d\u0730\u0721\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1386,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1386.json"
+        },
+        "stem": "\u071d\u0721\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "lake",
+                "lake, pond."
+            ]
+        },
+        "word": {
+            "id": 9229,
+            "uri": "https://sedra.bethmardutho.org/api/word/9229.json"
+        }
+    }
+]

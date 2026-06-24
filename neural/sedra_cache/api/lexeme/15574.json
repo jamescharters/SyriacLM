@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15574,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15574.json"
+        },
+        "syriac": "\u071a\u072a\u0712",
+        "glosses": {
+            "English": [
+                "to lie waste.",
+                "to be desolate, ruined",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u072a\u0730\u0712</span>, Ia to waste away, dwindle"
+            ],
+            "Arabic": [
+                "\u062e\u0631\u0628, \u0623\u0642\u0641\u0631, \u0645\u062d\u0644",
+                "\u0627\u0647\u062a\u0631\u0649"
+            ],
+            "French": [
+                "\u00eatre d\u00e9vast\u00e9, d\u00e9sert, infertile",
+                "pourrir"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2486,
+            "uri": "https://sedra.bethmardutho.org/api/root/2486.json"
+        },
+        "words": [
+            {
+                "id": 41817,
+                "uri": "https://sedra.bethmardutho.org/api/word/41817.json"
+            },
+            {
+                "id": 39883,
+                "uri": "https://sedra.bethmardutho.org/api/word/39883.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15548,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15548.json"
+        },
+        "syriac": "\u071f\u072a",
+        "glosses": {
+            "English": [
+                "Ia to be narrow",
+                "to be unpleasant."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2198,
+            "uri": "https://sedra.bethmardutho.org/api/root/2198.json"
+        },
+        "words": [
+            {
+                "id": 41913,
+                "uri": "https://sedra.bethmardutho.org/api/word/41913.json"
+            },
+            {
+                "id": 41150,
+                "uri": "https://sedra.bethmardutho.org/api/word/41150.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

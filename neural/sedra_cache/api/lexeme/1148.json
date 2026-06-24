@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1148,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1148.json"
+        },
+        "syriac": "\u071a\u072a\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062d\u062a\u0627\u0644"
+            ],
+            "French": [
+                "rus\u00e9"
+            ],
+            "English": [
+                "crafty",
+                "astute",
+                "astute, crafty",
+                "yellow."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 686,
+            "uri": "https://sedra.bethmardutho.org/api/root/686.json"
+        },
+        "words": [
+            {
+                "id": 7554,
+                "uri": "https://sedra.bethmardutho.org/api/word/7554.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

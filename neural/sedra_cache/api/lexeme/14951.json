@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14951,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14951.json"
+        },
+        "syriac": "\u0712\u072a\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0641\u0649"
+            ],
+            "French": [
+                "rendre limpide"
+            ],
+            "English": [
+                "IIa to make clear, transparent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2400,
+            "uri": "https://sedra.bethmardutho.org/api/root/2400.json"
+        },
+        "words": [
+            {
+                "id": 40989,
+                "uri": "https://sedra.bethmardutho.org/api/word/40989.json"
+            },
+            {
+                "id": 40968,
+                "uri": "https://sedra.bethmardutho.org/api/word/40968.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

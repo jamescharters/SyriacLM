@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1336,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1336.json"
+        },
+        "syriac": "\u071d\u0718\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Julia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 790,
+            "uri": "https://sedra.bethmardutho.org/api/root/790.json"
+        },
+        "words": [
+            {
+                "id": 8898,
+                "uri": "https://sedra.bethmardutho.org/api/word/8898.json"
+            },
+            {
+                "id": 8899,
+                "uri": "https://sedra.bethmardutho.org/api/word/8899.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

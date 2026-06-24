@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0717\u0726\u0718\u071f\u072c\u0722\u0718\u072c\u0710",
+        "western": "\u0717\u0730\u0726\u073d\u0718\u071f\u072c\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10173,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10173.json"
+        },
+        "stem": "\u0717\u0726\u0718\u071f\u072c\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0628\u062b"
+            ],
+            "eng": [
+                "perversity."
+            ],
+            "fre": [
+                "malice"
+            ]
+        },
+        "word": {
+            "id": 33733,
+            "uri": "https://sedra.bethmardutho.org/api/word/33733.json"
+        }
+    }
+]

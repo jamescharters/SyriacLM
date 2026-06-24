@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u0729\u0726",
+        "western": "\u0718\u0730\u0729\u0726",
+        "lexeme": {
+            "id": 18986,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18986.json"
+        },
+        "stem": "\u0718\u0729\u0726",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0642\u0641"
+            ],
+            "eng": [
+                "endowment of a monastery",
+                "a pious beguest"
+            ],
+            "fre": [
+                "legs pieux"
+            ]
+        },
+        "word": {
+            "id": 45360,
+            "uri": "https://sedra.bethmardutho.org/api/word/45360.json"
+        }
+    }
+]

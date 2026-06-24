@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0728\u0715\u071d\u0715\u0710",
+        "western": "\u0728\u0730\u0715\u073a\u071d\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5488,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5488.json"
+        },
+        "stem": "\u0728\u0715\u071d\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u062f\u0642 \u0625\u0644\u0649"
+            ],
+            "eng": [
+                "intent (of eye, mind)."
+            ],
+            "fre": [
+                "fixant des yeux"
+            ]
+        },
+        "word": {
+            "id": 31574,
+            "uri": "https://sedra.bethmardutho.org/api/word/31574.json"
+        }
+    }
+]

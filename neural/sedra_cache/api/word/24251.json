@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0721\u0717\u0720\u0720\u071d\u0722",
+        "western": "\u0721\u0717\u0730\u0720\u0720\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15017,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15017.json"
+        },
+        "stem": "\u0717\u0720\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062f\u062d",
+                "\u0627\u062d\u062a\u0642\u0631",
+                ""
+            ],
+            "eng": [
+                "IIIa to deride, to mock",
+                "IIa to sing praises",
+                "to deride.",
+                "IIp to chant, to intone",
+                "IIIp.",
+                "praise",
+                "to be laughed at"
+            ],
+            "fre": [
+                "",
+                "louer",
+                "m\u00e9priser"
+            ]
+        },
+        "word": {
+            "id": 24251,
+            "uri": "https://sedra.bethmardutho.org/api/word/24251.json"
+        }
+    }
+]

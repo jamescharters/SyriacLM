@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u072b\u0712\u0718",
+        "western": "\u0718\u072b\u0730\u0712\u0742\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3097,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3097.json"
+        },
+        "stem": "\u072b\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "let down",
+                "Ia to let down",
+                "IIp.",
+                "to descend",
+                "descend",
+                "IIa"
+            ]
+        },
+        "word": {
+            "id": 23008,
+            "uri": "https://sedra.bethmardutho.org/api/word/23008.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0729\u0722\u072c",
+        "western": "\u0710\u0730\u0729\u0722\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14699,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14699.json"
+        },
+        "stem": "\u0729\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "make a nest",
+                "IIIa to make a nest",
+                "Ia to nest",
+                "to inculcate."
+            ]
+        },
+        "word": {
+            "id": 18410,
+            "uri": "https://sedra.bethmardutho.org/api/word/18410.json"
+        }
+    }
+]

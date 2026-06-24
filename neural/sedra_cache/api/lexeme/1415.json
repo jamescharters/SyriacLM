@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1415,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1415.json"
+        },
+        "syriac": "\u071d\u0718\u071f\u0722\u072c\u0718\u0723",
+        "glosses": {
+            "English": [
+                "jacinth"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f51\u03ac\u03ba\u03b9\u03bd\u03b8\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 843,
+            "uri": "https://sedra.bethmardutho.org/api/root/843.json"
+        },
+        "words": [
+            {
+                "id": 9374,
+                "uri": "https://sedra.bethmardutho.org/api/word/9374.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

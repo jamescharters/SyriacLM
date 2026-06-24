@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 1075,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1075.json"
+        },
+        "syriac": "\u071a\u0721\u072a\u0710",
+        "glosses": {
+            "English": [
+                "juice.",
+                "wine",
+                "wine"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 647,
+            "uri": "https://sedra.bethmardutho.org/api/root/647.json"
+        },
+        "words": [
+            {
+                "id": 7222,
+                "uri": "https://sedra.bethmardutho.org/api/word/7222.json"
+            },
+            {
+                "id": 7220,
+                "uri": "https://sedra.bethmardutho.org/api/word/7220.json"
+            },
+            {
+                "id": 7219,
+                "uri": "https://sedra.bethmardutho.org/api/word/7219.json"
+            },
+            {
+                "id": 7218,
+                "uri": "https://sedra.bethmardutho.org/api/word/7218.json"
+            },
+            {
+                "id": 7217,
+                "uri": "https://sedra.bethmardutho.org/api/word/7217.json"
+            },
+            {
+                "id": 7221,
+                "uri": "https://sedra.bethmardutho.org/api/word/7221.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

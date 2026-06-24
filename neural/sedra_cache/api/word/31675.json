@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0715\u072a\u0718\u071f\u072c\u0710",
+        "western": "\u0715\u072a\u073d\u0718\u071f\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7473,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7473.json"
+        },
+        "stem": "\u0715\u072a\u0718\u071f\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0631\u064a\u0629",
+                "\u062e\u0627\u062f\u0645\u0629",
+                "\u0641\u0631\u062e",
+                "\u0639\u0643\u064a\u0633"
+            ],
+            "eng": [
+                "concubine."
+            ],
+            "fre": [
+                "concubine",
+                "servante",
+                "rejeton",
+                "marcotte"
+            ]
+        },
+        "word": {
+            "id": 31675,
+            "uri": "https://sedra.bethmardutho.org/api/word/31675.json"
+        }
+    }
+]

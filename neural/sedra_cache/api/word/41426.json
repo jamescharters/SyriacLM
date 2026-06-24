@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0710\u0723\u071d\u0726",
+        "western": "\u0710\u0730\u0723\u073a\u071d\u0726",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15847,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15847.json"
+        },
+        "stem": "\u0723\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0631\u0628 (\u0645\u0636)"
+            ],
+            "eng": [
+                "Ip",
+                "to consume",
+                "to perish",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0723\u073a\u071d\u0726</span> to cause to disappear",
+                "to cause to disappear, finish off.",
+                "to destroy.",
+                "to be consumed",
+                "Ia to come to an end",
+                "to disappear"
+            ],
+            "fre": [
+                "d\u00e9truire"
+            ]
+        },
+        "word": {
+            "id": 41426,
+            "uri": "https://sedra.bethmardutho.org/api/word/41426.json"
+        }
+    }
+]

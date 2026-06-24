@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3512,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3512.json"
+        },
+        "syriac": "\u0721\u0723\u071d\u0712\u0710",
+        "glosses": {
+            "English": [
+                "defiled"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1243,
+            "uri": "https://sedra.bethmardutho.org/api/root/1243.json"
+        },
+        "words": [
+            {
+                "id": 29598,
+                "uri": "https://sedra.bethmardutho.org/api/word/29598.json"
+            },
+            {
+                "id": 13891,
+                "uri": "https://sedra.bethmardutho.org/api/word/13891.json"
+            },
+            {
+                "id": 13903,
+                "uri": "https://sedra.bethmardutho.org/api/word/13903.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

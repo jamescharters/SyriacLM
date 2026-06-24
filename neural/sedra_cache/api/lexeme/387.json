@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 387,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/387.json"
+        },
+        "syriac": "\u0712\u0718\u072c",
+        "glosses": {
+            "English": [
+                "lodge",
+                "remain",
+                "IIIa to leave through the night",
+                "Ia to spend the night",
+                "to withhold."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 271,
+            "uri": "https://sedra.bethmardutho.org/api/root/271.json"
+        },
+        "words": [
+            {
+                "id": 2663,
+                "uri": "https://sedra.bethmardutho.org/api/word/2663.json"
+            },
+            {
+                "id": 23469,
+                "uri": "https://sedra.bethmardutho.org/api/word/23469.json"
+            },
+            {
+                "id": 23468,
+                "uri": "https://sedra.bethmardutho.org/api/word/23468.json"
+            },
+            {
+                "id": 2665,
+                "uri": "https://sedra.bethmardutho.org/api/word/2665.json"
+            },
+            {
+                "id": 2662,
+                "uri": "https://sedra.bethmardutho.org/api/word/2662.json"
+            },
+            {
+                "id": 2664,
+                "uri": "https://sedra.bethmardutho.org/api/word/2664.json"
+            },
+            {
+                "id": 42344,
+                "uri": "https://sedra.bethmardutho.org/api/word/42344.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

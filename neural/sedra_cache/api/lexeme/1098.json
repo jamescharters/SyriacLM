@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1098,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1098.json"
+        },
+        "syriac": "\u0721\u071a\u0722\u0718\u0729\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062e\u062a\u0646\u0627\u0642",
+                "\u0634\u0646\u0642",
+                "\u062a\u0623\u0644\u064a\u0645",
+                "\u062d\u0628\u0627\u0644\u0629, \u062d\u0628\u0644"
+            ],
+            "French": [
+                "\u00e9tranglement",
+                "pendaison",
+                "tourment",
+                "lacs, corde"
+            ],
+            "English": [
+                "noose",
+                "halter",
+                "strangling",
+                "noose, halter."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 660,
+            "uri": "https://sedra.bethmardutho.org/api/root/660.json"
+        },
+        "words": [
+            {
+                "id": 7310,
+                "uri": "https://sedra.bethmardutho.org/api/word/7310.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

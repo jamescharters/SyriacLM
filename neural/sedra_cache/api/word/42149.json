@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u072b\u0720\u0718\u0729",
+        "western": "\u0722\u0736\u072b\u0720\u073d\u0718\u0729",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15669,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15669.json"
+        },
+        "stem": "\u072b\u0720\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0644\u0642",
+                "\u00a0"
+            ],
+            "eng": [
+                "to soak",
+                "IIIa to scald.",
+                "Ia to cook, boil",
+                "Ip"
+            ],
+            "fre": [
+                "\u00a0",
+                "cuire"
+            ]
+        },
+        "word": {
+            "id": 42149,
+            "uri": "https://sedra.bethmardutho.org/api/word/42149.json"
+        }
+    }
+]

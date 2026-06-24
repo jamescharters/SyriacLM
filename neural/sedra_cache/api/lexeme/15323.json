@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15323,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15323.json"
+        },
+        "syriac": "\u0720\u072b\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0641\u0638"
+            ],
+            "French": [
+                "prononcer"
+            ],
+            "English": [
+                "IIa to pronounce",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2202,
+            "uri": "https://sedra.bethmardutho.org/api/root/2202.json"
+        },
+        "words": [
+            {
+                "id": 41567,
+                "uri": "https://sedra.bethmardutho.org/api/word/41567.json"
+            },
+            {
+                "id": 40363,
+                "uri": "https://sedra.bethmardutho.org/api/word/40363.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

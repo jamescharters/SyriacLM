@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0725\u0723\u0725\u0723",
+        "western": "\u0725\u0730\u0723\u0725\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14666,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14666.json"
+        },
+        "stem": "\u0725\u0723\u0725\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to distract",
+                "IVp to be split."
+            ]
+        },
+        "word": {
+            "id": 41181,
+            "uri": "https://sedra.bethmardutho.org/api/word/41181.json"
+        }
+    }
+]

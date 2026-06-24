@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u071d\u0721\u072c\u0710",
+        "western": "\u0729\u071d\u0733\u0721\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2772,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2772.json"
+        },
+        "stem": "\u0729\u071d\u0721\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "resurrection",
+                "resurrection",
+                "fixed allowance."
+            ]
+        },
+        "word": {
+            "id": 18142,
+            "uri": "https://sedra.bethmardutho.org/api/word/18142.json"
+        }
+    }
+]

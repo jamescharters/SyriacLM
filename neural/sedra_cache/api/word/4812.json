@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0729\u0715\u0729\u0710",
+        "western": "\u0718\u0715\u0742\u0730\u0729\u0715\u0741\u0729\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 744,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/744.json"
+        },
+        "stem": "\u0715\u0729\u0715\u0729\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "small",
+                "<span class=\"selectableFont\">\u0715\u0730\u0729\u0715\u0308\u0729\u0736\u0710</span> common people.",
+                "minute",
+                "trifling",
+                "insignificant"
+            ]
+        },
+        "word": {
+            "id": 4812,
+            "uri": "https://sedra.bethmardutho.org/api/word/4812.json"
+        }
+    }
+]

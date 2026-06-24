@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3047,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3047.json"
+        },
+        "syriac": "\u072a\u0725\u071d\u0710",
+        "glosses": {
+            "English": [
+                "pasture",
+                "pasture, fodder."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1774,
+            "uri": "https://sedra.bethmardutho.org/api/root/1774.json"
+        },
+        "words": [
+            {
+                "id": 19858,
+                "uri": "https://sedra.bethmardutho.org/api/word/19858.json"
+            },
+            {
+                "id": 19859,
+                "uri": "https://sedra.bethmardutho.org/api/word/19859.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

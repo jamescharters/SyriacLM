@@ -1,0 +1,88 @@
+[
+    {
+        "lexeme": {
+            "id": 805,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/805.json"
+        },
+        "syriac": "\u0717\u0718\u0726\u071f\u0710",
+        "glosses": {
+            "English": [
+                "deliberation, controversy",
+                "a going or turning back",
+                "controversy",
+                "conduct",
+                "behavior",
+                "ways",
+                "manner of life",
+                "deliberation",
+                "Gram. inflection, conjugation",
+                "turning back",
+                "manner of life",
+                "<span class=\"selectableFont\">\u0717\u073d\u0718\u0726\u0733\u071f \u0721\u0308</span><span class=\"selectableFont\">\u0736\u0720\u0736\u0710</span>reply."
+            ],
+            "Arabic": [
+                "\u062d\u0631\u0643\u0629, \u062a\u063a\u064a\u0631",
+                "\u062f\u0648\u0631\u0627\u0646",
+                "\u0639\u0627\u062f\u0629, \u0645\u0639\u064a\u0634\u0629, \u0633\u0644\u0648\u0643"
+            ],
+            "French": [
+                "mouvement, changement",
+                "r\u00e9volution ( des astres)",
+                "habitude, genre de vie, conduite"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 512,
+            "uri": "https://sedra.bethmardutho.org/api/root/512.json"
+        },
+        "words": [
+            {
+                "id": 42861,
+                "uri": "https://sedra.bethmardutho.org/api/word/42861.json"
+            },
+            {
+                "id": 5254,
+                "uri": "https://sedra.bethmardutho.org/api/word/5254.json"
+            },
+            {
+                "id": 5246,
+                "uri": "https://sedra.bethmardutho.org/api/word/5246.json"
+            },
+            {
+                "id": 5255,
+                "uri": "https://sedra.bethmardutho.org/api/word/5255.json"
+            },
+            {
+                "id": 5252,
+                "uri": "https://sedra.bethmardutho.org/api/word/5252.json"
+            },
+            {
+                "id": 5249,
+                "uri": "https://sedra.bethmardutho.org/api/word/5249.json"
+            },
+            {
+                "id": 5248,
+                "uri": "https://sedra.bethmardutho.org/api/word/5248.json"
+            },
+            {
+                "id": 5247,
+                "uri": "https://sedra.bethmardutho.org/api/word/5247.json"
+            },
+            {
+                "id": 5253,
+                "uri": "https://sedra.bethmardutho.org/api/word/5253.json"
+            },
+            {
+                "id": 5251,
+                "uri": "https://sedra.bethmardutho.org/api/word/5251.json"
+            },
+            {
+                "id": 5250,
+                "uri": "https://sedra.bethmardutho.org/api/word/5250.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

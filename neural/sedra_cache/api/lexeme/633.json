@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 633,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/633.json"
+        },
+        "syriac": "\u0713\u072a\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u062d\u0628"
+            ],
+            "French": [
+                "tirer"
+            ],
+            "English": [
+                "to protract, prolong",
+                "drag",
+                "draw",
+                "Ia to drag",
+                "IIa to drive out."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 408,
+            "uri": "https://sedra.bethmardutho.org/api/root/408.json"
+        },
+        "words": [
+            {
+                "id": 23861,
+                "uri": "https://sedra.bethmardutho.org/api/word/23861.json"
+            },
+            {
+                "id": 23860,
+                "uri": "https://sedra.bethmardutho.org/api/word/23860.json"
+            },
+            {
+                "id": 3990,
+                "uri": "https://sedra.bethmardutho.org/api/word/3990.json"
+            },
+            {
+                "id": 3989,
+                "uri": "https://sedra.bethmardutho.org/api/word/3989.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

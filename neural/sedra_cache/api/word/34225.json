@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u0712\u071d\u0712\u0710",
+        "western": "\u0720\u0712\u073a\u071d\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6293,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6293.json"
+        },
+        "stem": "\u0720\u0712\u071d\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0627\u0633\u0644"
+            ],
+            "eng": [
+                "courageous, intrepid",
+                "Kth. dear, beloved."
+            ],
+            "fre": [
+                "vaillant"
+            ]
+        },
+        "word": {
+            "id": 34225,
+            "uri": "https://sedra.bethmardutho.org/api/word/34225.json"
+        }
+    }
+]

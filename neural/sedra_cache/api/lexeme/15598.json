@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15598,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15598.json"
+        },
+        "syriac": "\u072c\u0719",
+        "glosses": {
+            "English": [
+                "to be indignant",
+                "IIp to be excited",
+                "to swell up",
+                "Ia to bubble up, to boil",
+                "to be swollen with pride",
+                "to be enraged."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2160,
+            "uri": "https://sedra.bethmardutho.org/api/root/2160.json"
+        },
+        "words": [
+            {
+                "id": 41852,
+                "uri": "https://sedra.bethmardutho.org/api/word/41852.json"
+            },
+            {
+                "id": 40397,
+                "uri": "https://sedra.bethmardutho.org/api/word/40397.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

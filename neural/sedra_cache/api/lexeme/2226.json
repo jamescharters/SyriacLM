@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2226,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2226.json"
+        },
+        "syriac": "\u072b\u0718\u0725\u0712\u0715\u0710",
+        "glosses": {
+            "English": [
+                "subjection",
+                "submission",
+                "domination, tyranny.",
+                "subjection, servitude"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1328,
+            "uri": "https://sedra.bethmardutho.org/api/root/1328.json"
+        },
+        "words": [
+            {
+                "id": 14886,
+                "uri": "https://sedra.bethmardutho.org/api/word/14886.json"
+            },
+            {
+                "id": 14885,
+                "uri": "https://sedra.bethmardutho.org/api/word/14885.json"
+            },
+            {
+                "id": 14883,
+                "uri": "https://sedra.bethmardutho.org/api/word/14883.json"
+            },
+            {
+                "id": 26291,
+                "uri": "https://sedra.bethmardutho.org/api/word/26291.json"
+            },
+            {
+                "id": 14884,
+                "uri": "https://sedra.bethmardutho.org/api/word/14884.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "shaph\u02bfel"
+    }
+]

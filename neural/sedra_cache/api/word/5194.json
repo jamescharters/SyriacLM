@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0717\u0720\u071f\u072c\u0717",
+        "western": "\u0717\u0730\u0720\u071f\u0742\u0733\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 798,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/798.json"
+        },
+        "stem": "\u0717\u0720\u071f\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "walk",
+                "footsteps",
+                "way"
+            ]
+        },
+        "word": {
+            "id": 5194,
+            "uri": "https://sedra.bethmardutho.org/api/word/5194.json"
+        }
+    }
+]

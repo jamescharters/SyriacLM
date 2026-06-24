@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071a\u072a\u0712\u071f",
+        "western": "\u071a\u0730\u072a\u0712\u0736\u071f",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14619,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14619.json"
+        },
+        "stem": "\u071a\u072a\u0712\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u0631",
+                "\u00a0",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVa to make bitter",
+                "IVp."
+            ],
+            "fre": [
+                "\u00a0",
+                "rendre amer",
+                "rendre amer"
+            ]
+        },
+        "word": {
+            "id": 41379,
+            "uri": "https://sedra.bethmardutho.org/api/word/41379.json"
+        }
+    }
+]

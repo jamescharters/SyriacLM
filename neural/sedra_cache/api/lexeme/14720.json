@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14720,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14720.json"
+        },
+        "syriac": "\u0713\u0718\u0722\u0722",
+        "glosses": {
+            "English": [
+                "IVa to color, dye, tinge",
+                "IVp."
+            ],
+            "Arabic": [
+                "\u0635\u0628\u063a",
+                "\u00a0"
+            ],
+            "French": [
+                "teindre",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2982,
+            "uri": "https://sedra.bethmardutho.org/api/root/2982.json"
+        },
+        "words": [
+            {
+                "id": 40543,
+                "uri": "https://sedra.bethmardutho.org/api/word/40543.json"
+            },
+            {
+                "id": 40114,
+                "uri": "https://sedra.bethmardutho.org/api/word/40114.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

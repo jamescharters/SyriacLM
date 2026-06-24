@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3.json"
+        },
+        "syriac": "\u0710\u0712\u0717\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0628\u0648\u0629"
+            ],
+            "French": [
+                "paternit\u00e9"
+            ],
+            "English": [
+                "fatherhood.",
+                "family",
+                "fatherhood",
+                "parentage"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2,
+            "uri": "https://sedra.bethmardutho.org/api/root/2.json"
+        },
+        "words": [
+            {
+                "id": 66,
+                "uri": "https://sedra.bethmardutho.org/api/word/66.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

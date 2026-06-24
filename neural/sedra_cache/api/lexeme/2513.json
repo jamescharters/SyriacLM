@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2513,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2513.json"
+        },
+        "syriac": "\u0726\u071f\u071d\u0717\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0641\u0647",
+                "\u0623\u063a\u0628\u0631"
+            ],
+            "French": [
+                "insipide",
+                "terne"
+            ],
+            "English": [
+                "sycamore",
+                "insipid",
+                "foolish",
+                "foolish."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1493,
+            "uri": "https://sedra.bethmardutho.org/api/root/1493.json"
+        },
+        "words": [
+            {
+                "id": 16397,
+                "uri": "https://sedra.bethmardutho.org/api/word/16397.json"
+            },
+            {
+                "id": 16396,
+                "uri": "https://sedra.bethmardutho.org/api/word/16396.json"
+            },
+            {
+                "id": 16395,
+                "uri": "https://sedra.bethmardutho.org/api/word/16395.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

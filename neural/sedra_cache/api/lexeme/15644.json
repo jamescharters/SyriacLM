@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15644,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15644.json"
+        },
+        "syriac": "\u0717\u0715\u0723",
+        "glosses": {
+            "English": [
+                "to meditate",
+                "IIa.",
+                "Ia to attend to"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3098,
+            "uri": "https://sedra.bethmardutho.org/api/root/3098.json"
+        },
+        "words": [
+            {
+                "id": 41781,
+                "uri": "https://sedra.bethmardutho.org/api/word/41781.json"
+            },
+            {
+                "id": 40343,
+                "uri": "https://sedra.bethmardutho.org/api/word/40343.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

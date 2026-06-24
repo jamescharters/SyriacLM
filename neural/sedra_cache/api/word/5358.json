@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u0718\u0720\u0710",
+        "western": "\u0715\u0741\u0718\u0733\u0720\u0736\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 829,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/829.json"
+        },
+        "stem": "\u0718\u0720\u0710",
+        "category": "adjective of place",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "it is right",
+                "+ <span class=\"selectableFont\">\u0720\u200d</span> it is fitting, right",
+                "IIp to suit.",
+                "it proper"
+            ]
+        },
+        "word": {
+            "id": 5358,
+            "uri": "https://sedra.bethmardutho.org/api/word/5358.json"
+        }
+    }
+]

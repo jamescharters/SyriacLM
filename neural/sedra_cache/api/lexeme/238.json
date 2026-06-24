@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 238,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/238.json"
+        },
+        "syriac": "\u0710\u0723\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0644\u0633"
+            ],
+            "French": [
+                "as"
+            ],
+            "English": [
+                "coin",
+                "small coin."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c3\u03c3\u03ac\u03c1\u03b9\u03bf\u03bd"
+            ]
+        },
+        "root": {
+            "id": 177,
+            "uri": "https://sedra.bethmardutho.org/api/root/177.json"
+        },
+        "words": [
+            {
+                "id": 1713,
+                "uri": "https://sedra.bethmardutho.org/api/word/1713.json"
+            },
+            {
+                "id": 1712,
+                "uri": "https://sedra.bethmardutho.org/api/word/1712.json"
+            },
+            {
+                "id": 1714,
+                "uri": "https://sedra.bethmardutho.org/api/word/1714.json"
+            },
+            {
+                "id": 1711,
+                "uri": "https://sedra.bethmardutho.org/api/word/1711.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

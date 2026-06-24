@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0728\u0718\u0728\u071d",
+        "western": "\u0728\u0730\u0718\u0728\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14750,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14750.json"
+        },
+        "stem": "\u0728\u0718\u0728\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to chirp",
+                "to clink (of coins)."
+            ]
+        },
+        "word": {
+            "id": 40129,
+            "uri": "https://sedra.bethmardutho.org/api/word/40129.json"
+        }
+    }
+]

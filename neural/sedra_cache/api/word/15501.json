@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u072b\u072c\u0725\u0720\u071d\u0718",
+        "western": "\u0710\u0736\u072b\u072c\u0741\u0730\u0725\u0720\u073a\u071d\u0718",
+        "tense": "perfect",
+        "kaylo": "eshtaph\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14991,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14991.json"
+        },
+        "stem": "\u0725\u0720\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0725\u0720\u073a\u071d</span> to do wrong.",
+                "be arrogant up",
+                "be raised up"
+            ]
+        },
+        "word": {
+            "id": 15501,
+            "uri": "https://sedra.bethmardutho.org/api/word/15501.json"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 408,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/408.json"
+        },
+        "syriac": "\u0712\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "builder",
+                "builder, founder, architect."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 282,
+            "uri": "https://sedra.bethmardutho.org/api/root/282.json"
+        },
+        "words": [
+            {
+                "id": 2833,
+                "uri": "https://sedra.bethmardutho.org/api/word/2833.json"
+            },
+            {
+                "id": 2831,
+                "uri": "https://sedra.bethmardutho.org/api/word/2831.json"
+            },
+            {
+                "id": 29530,
+                "uri": "https://sedra.bethmardutho.org/api/word/29530.json"
+            },
+            {
+                "id": 2832,
+                "uri": "https://sedra.bethmardutho.org/api/word/2832.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072b\u0712\u072a\u0718\u072c\u0710",
+        "western": "\u072b\u0730\u0712\u072a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9595,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9595.json"
+        },
+        "stem": "\u072b\u0712\u072a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062f\u0645 \u062e\u0628\u0631\u0629",
+                "\u0648\u0644\u0648\u062f\u064a\u0629"
+            ],
+            "eng": [
+                "inexperience.",
+                "infancy"
+            ],
+            "fre": [
+                "inexp\u00e9rience",
+                "enfance"
+            ]
+        },
+        "word": {
+            "id": 33641,
+            "uri": "https://sedra.bethmardutho.org/api/word/33641.json"
+        }
+    }
+]

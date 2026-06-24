@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0720\u0723\u071b\u072a",
+        "western": "\u0720\u0730\u0723\u071b\u0730\u072a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2113,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2113.json"
+        },
+        "stem": "\u0723\u071b\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "besides",
+                "side.",
+                "side"
+            ]
+        },
+        "word": {
+            "id": 14013,
+            "uri": "https://sedra.bethmardutho.org/api/word/14013.json"
+        }
+    }
+]

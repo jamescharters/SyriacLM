@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 38631,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/38631.json"
+        },
+        "syriac": "\u0710\u071a\u0712\u0722",
+        "glosses": {
+            "English": [
+                "Ahban"
+            ]
+        },
+        "etymologies": {
+            "Hebrew": [
+                "\u05d0\u05b7\u05d7\u05b0\u05d1\u05bc\u05b8\u05df"
+            ]
+        },
+        "words": [
+            {
+                "id": 64946,
+                "uri": "https://sedra.bethmardutho.org/api/word/64946.json"
+            },
+            {
+                "id": 64986,
+                "uri": "https://sedra.bethmardutho.org/api/word/64986.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

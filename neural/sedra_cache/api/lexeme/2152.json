@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2152,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2152.json"
+        },
+        "syriac": "\u0723\u0721\u071d\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0645\u064a\u062f"
+            ],
+            "French": [
+                "fleur de farine"
+            ],
+            "English": [
+                "flour",
+                "fine wheat, flour."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03b5\u03bc\u03af\u03b4\u03b1\u03bb\u03b9\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1287,
+            "uri": "https://sedra.bethmardutho.org/api/root/1287.json"
+        },
+        "words": [
+            {
+                "id": 14326,
+                "uri": "https://sedra.bethmardutho.org/api/word/14326.json"
+            },
+            {
+                "id": 14327,
+                "uri": "https://sedra.bethmardutho.org/api/word/14327.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

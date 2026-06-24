@@ -1,0 +1,55 @@
+[
+    {
+        "syriac": "\u0718\u071a\u0721\u072c\u0717",
+        "western": "\u0718\u0730\u071a\u0721\u0733\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1063,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1063.json"
+        },
+        "stem": "\u071a\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062d\u0631\u0642 (\u0628\u0631\u062f)",
+                "\u00a0",
+                "\u062d\u0645\u0627\u0629",
+                "]\u062d\u0645[",
+                "\u062a\u062c\u0641\u0641",
+                "\u0643\u0646\u0633 (\u0645\u0636)",
+                "\u062a\u0643\u0631\u0647 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "3 (pl. <span class=\"selectableFont\">\u071a\u0308\u0721\u0733\u0717\u0736\u0710</span>) father-in-law.",
+                "mother-in-law.",
+                "mother-in-law",
+                "father-in-law"
+            ],
+            "fre": [
+                "\u00a0",
+                "\u00eatre d\u00e9go\u00fbt\u00e9",
+                "beau-p\u00e8re",
+                "br\u00fbler (froid)",
+                "balayer",
+                "\u00a0",
+                "se dess\u00e9cher",
+                "belle-m\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 7178,
+            "uri": "https://sedra.bethmardutho.org/api/word/7178.json"
+        }
+    }
+]

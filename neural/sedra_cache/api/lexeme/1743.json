@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1743,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1743.json"
+        },
+        "syriac": "\u0721\u071b\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0645\u0637\u0631"
+            ],
+            "French": [
+                "pleuvoir"
+            ],
+            "English": [
+                "rain",
+                "rain",
+                "shower",
+                "Ia to rain",
+                "IIIa to cause to rain, pour down (of rain)",
+                "II to wet with rain",
+                "Ip to be rained on, watered with rain",
+                "IIIp to come down like rain."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1043,
+            "uri": "https://sedra.bethmardutho.org/api/root/1043.json"
+        },
+        "words": [
+            {
+                "id": 11476,
+                "uri": "https://sedra.bethmardutho.org/api/word/11476.json"
+            },
+            {
+                "id": 11475,
+                "uri": "https://sedra.bethmardutho.org/api/word/11475.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15126,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15126.json"
+        },
+        "syriac": "\u071a\u072c\u072c",
+        "glosses": {
+            "English": [
+                "IIp to be ratified, confirmed.",
+                "IIa to ratify, settle definitively"
+            ],
+            "Arabic": [
+                "\u062b\u0628\u062a (\u0645\u0636)"
+            ],
+            "French": [
+                "confirmer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2585,
+            "uri": "https://sedra.bethmardutho.org/api/root/2585.json"
+        },
+        "words": [
+            {
+                "id": 41208,
+                "uri": "https://sedra.bethmardutho.org/api/word/41208.json"
+            },
+            {
+                "id": 41110,
+                "uri": "https://sedra.bethmardutho.org/api/word/41110.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

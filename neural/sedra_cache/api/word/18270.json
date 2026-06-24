@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u071b\u0720\u0710",
+        "western": "\u0729\u0736\u071b\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2789,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2789.json"
+        },
+        "stem": "\u0729\u071b\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u062a\u0644, \u062a\u0642\u062a\u064a\u0644"
+            ],
+            "eng": [
+                "slaughter, murder.",
+                "slaughter",
+                "murder"
+            ],
+            "fre": [
+                "meurtre, massacre"
+            ]
+        },
+        "word": {
+            "id": 18270,
+            "uri": "https://sedra.bethmardutho.org/api/word/18270.json"
+        }
+    }
+]

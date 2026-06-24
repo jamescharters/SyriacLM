@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0721\u0722\u071d\u0722",
+        "western": "\u0721\u0722\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1803,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1803.json"
+        },
+        "stem": "\u0721\u0722\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "measure of weight, value.",
+                "mina (monetary unit)"
+            ]
+        },
+        "word": {
+            "id": 12020,
+            "uri": "https://sedra.bethmardutho.org/api/word/12020.json"
+        }
+    }
+]

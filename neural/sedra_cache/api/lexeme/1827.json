@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1827,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1827.json"
+        },
+        "syriac": "\u0721\u0728\u0725\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062a\u0648\u0633\u0637",
+                "\u0634\u0641\u064a\u0639",
+                "\u062d\u0643\u0645",
+                "\u0645\u062a\u0648\u0633\u0637"
+            ],
+            "French": [
+                "moyen",
+                "m\u00e9diateur",
+                "arbitre",
+                "dod\u00e9casyllabe"
+            ],
+            "English": [
+                "mediator",
+                "mediator",
+                "middle, intermediary",
+                "Lit. <span class=\"selectableFont\">\u0721\u0736\u0728\u0725\u0733\u071d\u0733\u0710 \u0715\u0730\u0710\u0720\u0733\u0717\u073d\u0718\u072c\u0733\u0710</span> Christ."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1095,
+            "uri": "https://sedra.bethmardutho.org/api/root/1095.json"
+        },
+        "words": [
+            {
+                "id": 12101,
+                "uri": "https://sedra.bethmardutho.org/api/word/12101.json"
+            },
+            {
+                "id": 12102,
+                "uri": "https://sedra.bethmardutho.org/api/word/12102.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

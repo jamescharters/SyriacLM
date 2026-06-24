@@ -1,0 +1,57 @@
+[
+    {
+        "syriac": "\u0722\u072b\u072a\u072a\u071f\u0718\u0722",
+        "western": "\u0722\u072b\u0730\u072a\u0730\u072a\u071f\u0742\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 3306,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3306.json"
+        },
+        "stem": "\u072b\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to hold firmly etc.",
+                "<span class=\"selectableFont\">\u072b\u0736\u072a\u0730\u072c</span> it was established",
+                "to entrust",
+                "to strengthen, confirm, ratify",
+                "to confirm",
+                "to affirm",
+                "IIp to get well, regain strength",
+                "to be set firmly, to be established",
+                "IIa to set firmly",
+                "to assure, affirm",
+                "to give credence",
+                "to believe firmly",
+                "IIIp to make oneself believed.",
+                "to become solid, firm",
+                "to speak the truth",
+                "to be assured",
+                "to be ratified",
+                "to prove true",
+                "Ia to be strong",
+                "IIIa to set firmly, to make strong, to restore to health",
+                "believe",
+                "strengthen",
+                "establish",
+                "be strong"
+            ]
+        },
+        "word": {
+            "id": 21946,
+            "uri": "https://sedra.bethmardutho.org/api/word/21946.json"
+        }
+    }
+]

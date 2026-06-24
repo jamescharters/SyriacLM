@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 2721,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2721.json"
+        },
+        "syriac": "\u0729\u0710\u072a\u0723\u0710",
+        "glosses": {
+            "English": [
+                "time",
+                "opportunity",
+                "war",
+                "season",
+                "calamity",
+                "occasion.",
+                "battle"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03b1\u03b9\u03c1\u03cc\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1613,
+            "uri": "https://sedra.bethmardutho.org/api/root/1613.json"
+        },
+        "words": [
+            {
+                "id": 17641,
+                "uri": "https://sedra.bethmardutho.org/api/word/17641.json"
+            },
+            {
+                "id": 17646,
+                "uri": "https://sedra.bethmardutho.org/api/word/17646.json"
+            },
+            {
+                "id": 17642,
+                "uri": "https://sedra.bethmardutho.org/api/word/17642.json"
+            },
+            {
+                "id": 17644,
+                "uri": "https://sedra.bethmardutho.org/api/word/17644.json"
+            },
+            {
+                "id": 17643,
+                "uri": "https://sedra.bethmardutho.org/api/word/17643.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

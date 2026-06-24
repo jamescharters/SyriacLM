@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0722\u0715\u0717\u0722",
+        "western": "\u0722\u0736\u0715\u0717\u0730\u0722",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15627,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15627.json"
+        },
+        "stem": "\u0715\u0717\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0645\u0646"
+            ],
+            "eng": [
+                "IIp to anoint oneself, to be anointed",
+                "to anoint",
+                "IIIa to make fat",
+                "to enrich.",
+                "IIa to make fat, fertile",
+                "& <span class=\"selectableFont\">\u0715\u0717\u0730\u0722</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u0717\u0730\u0722</span>, Ia to grow fat",
+                "Ip to be fattened"
+            ],
+            "fre": [
+                "devenir gras"
+            ]
+        },
+        "word": {
+            "id": 42059,
+            "uri": "https://sedra.bethmardutho.org/api/word/42059.json"
+        }
+    }
+]

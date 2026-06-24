@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2512,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2512.json"
+        },
+        "syriac": "\u0726\u071f\u0717",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0641\u0647, \u063a\u0628\u0631",
+                "\u062c\u0647\u0644",
+                "\u062a\u0644\u064a\u0646, \u0647\u062f\u0623",
+                "\u062e\u0641"
+            ],
+            "French": [
+                "\u00eatre fade, terne, s&#39;affadir",
+                "devenir insens\u00e9",
+                "s&#39;adoucir, se calmer",
+                "s&#39;affaiblir"
+            ],
+            "English": [
+                "Ia to lose flavor",
+                "flavour",
+                "dull",
+                "to languish, to grow weak",
+                "IIp.",
+                "IIa to moderate, to abate",
+                "to cool, to abate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1493,
+            "uri": "https://sedra.bethmardutho.org/api/root/1493.json"
+        },
+        "words": [
+            {
+                "id": 16394,
+                "uri": "https://sedra.bethmardutho.org/api/word/16394.json"
+            },
+            {
+                "id": 16393,
+                "uri": "https://sedra.bethmardutho.org/api/word/16393.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

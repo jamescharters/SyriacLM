@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2948,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2948.json"
+        },
+        "syriac": "\u072a\u0715\u071d\u0726\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "persecution",
+                "persecuted state."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1732,
+            "uri": "https://sedra.bethmardutho.org/api/root/1732.json"
+        },
+        "words": [
+            {
+                "id": 19229,
+                "uri": "https://sedra.bethmardutho.org/api/word/19229.json"
+            },
+            {
+                "id": 19231,
+                "uri": "https://sedra.bethmardutho.org/api/word/19231.json"
+            },
+            {
+                "id": 19230,
+                "uri": "https://sedra.bethmardutho.org/api/word/19230.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

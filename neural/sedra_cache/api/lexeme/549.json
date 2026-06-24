@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 549,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/549.json"
+        },
+        "syriac": "\u0713\u0719\u0710",
+        "glosses": {
+            "English": [
+                "treasury",
+                "treasure, treasury",
+                "treasure",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0713\u0730\u0719\u0733\u0710</span> Lit. West Syriac liturgical book of melodies."
+            ],
+            "Arabic": [
+                "\u0630\u062e\u064a\u0631\u0629, \u062e\u0632\u0627\u0646\u0629 \u0645\u0627\u0644"
+            ],
+            "French": [
+                "tr\u00e9sor"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 363,
+            "uri": "https://sedra.bethmardutho.org/api/root/363.json"
+        },
+        "words": [
+            {
+                "id": 3630,
+                "uri": "https://sedra.bethmardutho.org/api/word/3630.json"
+            },
+            {
+                "id": 3631,
+                "uri": "https://sedra.bethmardutho.org/api/word/3631.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3287,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3287.json"
+        },
+        "syriac": "\u072b\u0726\u071d\u0710",
+        "glosses": {
+            "English": [
+                "straight",
+                "honest",
+                "pure",
+                "clear, level",
+                "sincere, pure.",
+                "limpid, serene"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1914,
+            "uri": "https://sedra.bethmardutho.org/api/root/1914.json"
+        },
+        "words": [
+            {
+                "id": 21763,
+                "uri": "https://sedra.bethmardutho.org/api/word/21763.json"
+            },
+            {
+                "id": 21764,
+                "uri": "https://sedra.bethmardutho.org/api/word/21764.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

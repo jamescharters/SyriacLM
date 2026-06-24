@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 630,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/630.json"
+        },
+        "syriac": "\u0713\u072a\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0631\u0631",
+                "\u00a0"
+            ],
+            "French": [
+                "d\u00e9cider",
+                "\u00a0"
+            ],
+            "English": [
+                "cut off",
+                "decide",
+                "Ia to cut off short",
+                "IIa to break bones.",
+                "to decide, determine",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 405,
+            "uri": "https://sedra.bethmardutho.org/api/root/405.json"
+        },
+        "words": [
+            {
+                "id": 3974,
+                "uri": "https://sedra.bethmardutho.org/api/word/3974.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

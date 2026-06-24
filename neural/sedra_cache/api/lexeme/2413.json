@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2413,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2413.json"
+        },
+        "syriac": "\u0725\u072a\u071b\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u00a0",
+                "\u0639\u0631\u0649 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0",
+                "mettre \u00e0 nu",
+                "\u00a0"
+            ],
+            "English": [
+                "naked",
+                "stripped",
+                "nude",
+                "IVp.",
+                "naked (indeclinable).",
+                "denude",
+                "IVa to strip",
+                "to lay bare"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1429,
+            "uri": "https://sedra.bethmardutho.org/api/root/1429.json"
+        },
+        "words": [
+            {
+                "id": 15973,
+                "uri": "https://sedra.bethmardutho.org/api/word/15973.json"
+            }
+        ],
+        "category": "adverb"
+    }
+]

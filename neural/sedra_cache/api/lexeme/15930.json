@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15930,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15930.json"
+        },
+        "syriac": "\u0719\u071a\u0726",
+        "glosses": {
+            "English": [
+                "Ia to jolt, jerk",
+                "Ip to be thrust",
+                "IIa to stimulate, to nudge."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2137,
+            "uri": "https://sedra.bethmardutho.org/api/root/2137.json"
+        },
+        "words": [
+            {
+                "id": 41882,
+                "uri": "https://sedra.bethmardutho.org/api/word/41882.json"
+            },
+            {
+                "id": 41609,
+                "uri": "https://sedra.bethmardutho.org/api/word/41609.json"
+            },
+            {
+                "id": 40781,
+                "uri": "https://sedra.bethmardutho.org/api/word/40781.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

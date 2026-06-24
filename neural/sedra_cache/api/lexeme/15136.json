@@ -1,0 +1,81 @@
+[
+    {
+        "lexeme": {
+            "id": 15136,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15136.json"
+        },
+        "syriac": "\u0725\u0729\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0641\u0633\u062f",
+                "\u062d\u0631\u0641 (\u0645\u0636)",
+                "\u0623\u0633\u0627\u0621 \u0627\u0644\u0641\u0639\u0644",
+                "\u0623\u0639\u0644\u0646\u0647 \u0641\u0627\u0633\u062f\u0627\u064b"
+            ],
+            "French": [
+                "pervertir",
+                "fausser",
+                "mal agir",
+                "d\u00e9clarer pervers"
+            ],
+            "English": [
+                "turn aside",
+                "pervert",
+                "IIa to pervert, to turn aside",
+                "IIp to be perverse."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2266,
+            "uri": "https://sedra.bethmardutho.org/api/root/2266.json"
+        },
+        "words": [
+            {
+                "id": 15914,
+                "uri": "https://sedra.bethmardutho.org/api/word/15914.json"
+            },
+            {
+                "id": 15916,
+                "uri": "https://sedra.bethmardutho.org/api/word/15916.json"
+            },
+            {
+                "id": 15917,
+                "uri": "https://sedra.bethmardutho.org/api/word/15917.json"
+            },
+            {
+                "id": 15918,
+                "uri": "https://sedra.bethmardutho.org/api/word/15918.json"
+            },
+            {
+                "id": 15919,
+                "uri": "https://sedra.bethmardutho.org/api/word/15919.json"
+            },
+            {
+                "id": 27484,
+                "uri": "https://sedra.bethmardutho.org/api/word/27484.json"
+            },
+            {
+                "id": 27485,
+                "uri": "https://sedra.bethmardutho.org/api/word/27485.json"
+            },
+            {
+                "id": 15915,
+                "uri": "https://sedra.bethmardutho.org/api/word/15915.json"
+            },
+            {
+                "id": 26185,
+                "uri": "https://sedra.bethmardutho.org/api/word/26185.json"
+            },
+            {
+                "id": 41582,
+                "uri": "https://sedra.bethmardutho.org/api/word/41582.json"
+            },
+            {
+                "id": 40300,
+                "uri": "https://sedra.bethmardutho.org/api/word/40300.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

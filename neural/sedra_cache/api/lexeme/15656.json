@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15656,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15656.json"
+        },
+        "syriac": "\u071f\u072b",
+        "glosses": {
+            "English": [
+                "Ia to stay quiet",
+                "IIa <span class=\"selectableFont\">\u071f\u0730\u071d\u0736\u072b</span> to quieten down."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2105,
+            "uri": "https://sedra.bethmardutho.org/api/root/2105.json"
+        },
+        "words": [
+            {
+                "id": 41931,
+                "uri": "https://sedra.bethmardutho.org/api/word/41931.json"
+            },
+            {
+                "id": 39870,
+                "uri": "https://sedra.bethmardutho.org/api/word/39870.json"
+            },
+            {
+                "id": 39850,
+                "uri": "https://sedra.bethmardutho.org/api/word/39850.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

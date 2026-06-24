@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 9801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9801.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0718\u071f\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0635\u064a"
+            ],
+            "French": [
+                "eunuque"
+            ],
+            "English": [
+                "eunuch."
+            ],
+            "Greek": [
+                "\u03b5\u1f50\u03bd\u03bf\u1fe6\u03c7\u03bf\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f50\u03bd\u03bf\u1fe6\u03c7\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 53399,
+                "uri": "https://sedra.bethmardutho.org/api/word/53399.json"
+            },
+            {
+                "id": 48809,
+                "uri": "https://sedra.bethmardutho.org/api/word/48809.json"
+            },
+            {
+                "id": 36611,
+                "uri": "https://sedra.bethmardutho.org/api/word/36611.json"
+            }
+        ]
+    }
+]

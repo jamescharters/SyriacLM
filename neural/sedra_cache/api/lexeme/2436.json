@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2436,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2436.json"
+        },
+        "syriac": "\u0725\u072c\u071d\u0729\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "antiquity",
+                "antiquity",
+                "oldness",
+                "old age",
+                "old habits."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1440,
+            "uri": "https://sedra.bethmardutho.org/api/root/1440.json"
+        },
+        "words": [
+            {
+                "id": 16079,
+                "uri": "https://sedra.bethmardutho.org/api/word/16079.json"
+            },
+            {
+                "id": 16078,
+                "uri": "https://sedra.bethmardutho.org/api/word/16078.json"
+            },
+            {
+                "id": 16080,
+                "uri": "https://sedra.bethmardutho.org/api/word/16080.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

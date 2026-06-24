@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 20964,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20964.json"
+        },
+        "syriac": "\u0710\u0712\u072a\u071d\u0721\u0729\u0718\u0722\u071d\u071b\u0710",
+        "glosses": {
+            "Latin": [
+                "septuaginta"
+            ],
+            "Greek": [
+                "\u1f11\u03b2\u03b4\u03bf\u03bc\u03ae\u03ba\u03bf\u03bd\u03c4\u03b1"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f11\u03b2\u03b4\u03bf\u03bc\u03ae\u03ba\u03bf\u03bd\u03c4\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 47338,
+                "uri": "https://sedra.bethmardutho.org/api/word/47338.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

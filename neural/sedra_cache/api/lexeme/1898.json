@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1898,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1898.json"
+        },
+        "syriac": "\u0721\u0722\u0713\u0715\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0644\u0627\u062f"
+            ],
+            "French": [
+                "tortionnaire"
+            ],
+            "English": [
+                "scourger",
+                "torturer",
+                "tormentor, scourger."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1136,
+            "uri": "https://sedra.bethmardutho.org/api/root/1136.json"
+        },
+        "words": [
+            {
+                "id": 12440,
+                "uri": "https://sedra.bethmardutho.org/api/word/12440.json"
+            },
+            {
+                "id": 12442,
+                "uri": "https://sedra.bethmardutho.org/api/word/12442.json"
+            },
+            {
+                "id": 12441,
+                "uri": "https://sedra.bethmardutho.org/api/word/12441.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

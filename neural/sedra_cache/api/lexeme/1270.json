@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 1270,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1270.json"
+        },
+        "syriac": "\u071b\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0635\u0635",
+                "\u0637\u0644\u0649",
+                "\u00a0"
+            ],
+            "French": [
+                "cr\u00e9pir",
+                "enduire",
+                "\u00a0"
+            ],
+            "English": [
+                "trouble",
+                "beat upon",
+                "urge",
+                "impel",
+                "agitate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 748,
+            "uri": "https://sedra.bethmardutho.org/api/root/748.json"
+        },
+        "words": [
+            {
+                "id": 8328,
+                "uri": "https://sedra.bethmardutho.org/api/word/8328.json"
+            },
+            {
+                "id": 25223,
+                "uri": "https://sedra.bethmardutho.org/api/word/25223.json"
+            },
+            {
+                "id": 25222,
+                "uri": "https://sedra.bethmardutho.org/api/word/25222.json"
+            },
+            {
+                "id": 8331,
+                "uri": "https://sedra.bethmardutho.org/api/word/8331.json"
+            },
+            {
+                "id": 8330,
+                "uri": "https://sedra.bethmardutho.org/api/word/8330.json"
+            },
+            {
+                "id": 8329,
+                "uri": "https://sedra.bethmardutho.org/api/word/8329.json"
+            },
+            {
+                "id": 8327,
+                "uri": "https://sedra.bethmardutho.org/api/word/8327.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

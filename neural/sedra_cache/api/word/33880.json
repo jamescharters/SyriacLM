@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u071a\u072c\u0710",
+        "western": "\u071f\u0730\u071a\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10850,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10850.json"
+        },
+        "stem": "\u071f\u071a\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0641\u0633"
+            ],
+            "eng": [
+                "light breeze."
+            ],
+            "fre": [
+                "souffle"
+            ]
+        },
+        "word": {
+            "id": 33880,
+            "uri": "https://sedra.bethmardutho.org/api/word/33880.json"
+        }
+    }
+]

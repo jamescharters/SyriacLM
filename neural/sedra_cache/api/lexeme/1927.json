@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 1927,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1927.json"
+        },
+        "syriac": "\u0722\u071d\u071a\u0710",
+        "glosses": {
+            "English": [
+                "restful",
+                "quiet",
+                "rest",
+                "relief",
+                "calm",
+                "pleasure, satisfaction, enjoyment",
+                "rest, calm, quiet",
+                "refreshment."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1149,
+            "uri": "https://sedra.bethmardutho.org/api/root/1149.json"
+        },
+        "words": [
+            {
+                "id": 12635,
+                "uri": "https://sedra.bethmardutho.org/api/word/12635.json"
+            },
+            {
+                "id": 29666,
+                "uri": "https://sedra.bethmardutho.org/api/word/29666.json"
+            },
+            {
+                "id": 12639,
+                "uri": "https://sedra.bethmardutho.org/api/word/12639.json"
+            },
+            {
+                "id": 12638,
+                "uri": "https://sedra.bethmardutho.org/api/word/12638.json"
+            },
+            {
+                "id": 12637,
+                "uri": "https://sedra.bethmardutho.org/api/word/12637.json"
+            },
+            {
+                "id": 12636,
+                "uri": "https://sedra.bethmardutho.org/api/word/12636.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

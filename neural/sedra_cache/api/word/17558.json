@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0728\u0721\u071a",
+        "western": "\u0728\u0721\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2700,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2700.json"
+        },
+        "stem": "\u0728\u0721\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0634\u0631\u0642",
+                "\u0646\u0628\u062a"
+            ],
+            "eng": [
+                "shine",
+                "IIp to be resplendent",
+                "IIIa to illuminate, shine forth.",
+                "Ia, Ip to shine forth"
+            ],
+            "fre": [
+                "germer",
+                "briller"
+            ]
+        },
+        "word": {
+            "id": 17558,
+            "uri": "https://sedra.bethmardutho.org/api/word/17558.json"
+        }
+    }
+]

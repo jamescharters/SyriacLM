@@ -1,0 +1,81 @@
+[
+    {
+        "lexeme": {
+            "id": 1210,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1210.json"
+        },
+        "syriac": "\u071b\u0718\u0717\u0721\u0710",
+        "glosses": {
+            "English": [
+                "race",
+                "stock",
+                "family",
+                "descent",
+                "origin",
+                "kin",
+                "family",
+                "birth",
+                "nationality",
+                "family, stock, lineage, race."
+            ],
+            "Arabic": [
+                "\u0622\u0644, \u0623\u0645\u0629"
+            ],
+            "French": [
+                "famille, nation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 710,
+            "uri": "https://sedra.bethmardutho.org/api/root/710.json"
+        },
+        "words": [
+            {
+                "id": 8006,
+                "uri": "https://sedra.bethmardutho.org/api/word/8006.json"
+            },
+            {
+                "id": 23955,
+                "uri": "https://sedra.bethmardutho.org/api/word/23955.json"
+            },
+            {
+                "id": 23944,
+                "uri": "https://sedra.bethmardutho.org/api/word/23944.json"
+            },
+            {
+                "id": 8011,
+                "uri": "https://sedra.bethmardutho.org/api/word/8011.json"
+            },
+            {
+                "id": 8005,
+                "uri": "https://sedra.bethmardutho.org/api/word/8005.json"
+            },
+            {
+                "id": 8004,
+                "uri": "https://sedra.bethmardutho.org/api/word/8004.json"
+            },
+            {
+                "id": 8012,
+                "uri": "https://sedra.bethmardutho.org/api/word/8012.json"
+            },
+            {
+                "id": 8010,
+                "uri": "https://sedra.bethmardutho.org/api/word/8010.json"
+            },
+            {
+                "id": 8009,
+                "uri": "https://sedra.bethmardutho.org/api/word/8009.json"
+            },
+            {
+                "id": 8008,
+                "uri": "https://sedra.bethmardutho.org/api/word/8008.json"
+            },
+            {
+                "id": 8007,
+                "uri": "https://sedra.bethmardutho.org/api/word/8007.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

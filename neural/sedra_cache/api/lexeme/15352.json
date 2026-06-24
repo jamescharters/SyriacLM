@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15352,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15352.json"
+        },
+        "syriac": "\u0710\u0720\u0717",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u0644\u0647",
+                "\u00a0"
+            ],
+            "French": [
+                "diviniser",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp.",
+                "IIa to deify, to divinize"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2412,
+            "uri": "https://sedra.bethmardutho.org/api/root/2412.json"
+        },
+        "words": [
+            {
+                "id": 40357,
+                "uri": "https://sedra.bethmardutho.org/api/word/40357.json"
+            },
+            {
+                "id": 40250,
+                "uri": "https://sedra.bethmardutho.org/api/word/40250.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

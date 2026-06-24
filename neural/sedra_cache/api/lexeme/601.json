@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 601,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/601.json"
+        },
+        "syriac": "\u0713\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "c\u00f4t\u00e9\u2026"
+            ],
+            "English": [
+                "party",
+                "side",
+                "sect",
+                "part",
+                "side, edge",
+                "party",
+                "<span class=\"selectableFont\">\u0725\u0730\u0720 \u0713\u0736\u0722\u0331</span><span class=\"selectableFont\">\u0712</span> beside."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 386,
+            "uri": "https://sedra.bethmardutho.org/api/root/386.json"
+        },
+        "words": [
+            {
+                "id": 3900,
+                "uri": "https://sedra.bethmardutho.org/api/word/3900.json"
+            },
+            {
+                "id": 3903,
+                "uri": "https://sedra.bethmardutho.org/api/word/3903.json"
+            },
+            {
+                "id": 23357,
+                "uri": "https://sedra.bethmardutho.org/api/word/23357.json"
+            },
+            {
+                "id": 3899,
+                "uri": "https://sedra.bethmardutho.org/api/word/3899.json"
+            },
+            {
+                "id": 3898,
+                "uri": "https://sedra.bethmardutho.org/api/word/3898.json"
+            },
+            {
+                "id": 3902,
+                "uri": "https://sedra.bethmardutho.org/api/word/3902.json"
+            },
+            {
+                "id": 3901,
+                "uri": "https://sedra.bethmardutho.org/api/word/3901.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

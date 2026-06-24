@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15441,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15441.json"
+        },
+        "syriac": "\u0726\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0633\u0631"
+            ],
+            "French": [
+                "briser"
+            ],
+            "English": [
+                "Ia to sprinkle",
+                "to spatter."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2233,
+            "uri": "https://sedra.bethmardutho.org/api/root/2233.json"
+        },
+        "words": [
+            {
+                "id": 41848,
+                "uri": "https://sedra.bethmardutho.org/api/word/41848.json"
+            },
+            {
+                "id": 41319,
+                "uri": "https://sedra.bethmardutho.org/api/word/41319.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0713\u0715\u071d\u0720\u072c\u0710",
+        "western": "\u0713\u0715\u073a\u071d\u0720\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11369,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11369.json"
+        },
+        "stem": "\u0713\u0715\u071d\u0720\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0641\u064a\u0631\u0629, \u062e\u0635\u0644\u0629",
+                "\u062d\u0635\u064a\u0631",
+                "\u0628\u0631\u064a\u0645"
+            ],
+            "eng": [
+                "mat.",
+                "braid of hair",
+                "plaited work"
+            ],
+            "fre": [
+                "cordon",
+                "tresse, boucle",
+                "natte"
+            ]
+        },
+        "word": {
+            "id": 33617,
+            "uri": "https://sedra.bethmardutho.org/api/word/33617.json"
+        }
+    }
+]

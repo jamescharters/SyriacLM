@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0720\u0725\u0720\u071d\u072c\u0710",
+        "western": "\u0720\u0725\u0736\u0720\u073a\u071d\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2326,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2326.json"
+        },
+        "stem": "\u0725\u0720\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0644\u064a\u0629",
+                "\u0634\u0631\u0641\u0627\u062a, \u0642\u0645\u0629, \u062d\u0634\u0648 \u0628\u064a\u0646 \u0634\u0631\u0641\u062a\u064a\u0646"
+            ],
+            "eng": [
+                "upper room",
+                "upper room."
+            ],
+            "fre": [
+                "chambre haute",
+                "cr\u00e9nelure, fa\u00eete, merlon"
+            ]
+        },
+        "word": {
+            "id": 15510,
+            "uri": "https://sedra.bethmardutho.org/api/word/15510.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0713\u0715\u071d\u0710",
+        "western": "\u0713\u0715\u0733\u071d\u0733\u0710",
+        "eastern": "\u0713\u0715\u0735\u071d\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6855,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6855.json"
+        },
+        "stem": "\u0713\u0715\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0632\u0629 \u0623\u0631\u0636\u064a\u0629"
+            ],
+            "eng": [
+                "earthquake."
+            ],
+            "fre": [
+                "tremblement de terre"
+            ]
+        },
+        "word": {
+            "id": 32749,
+            "uri": "https://sedra.bethmardutho.org/api/word/32749.json"
+        }
+    }
+]

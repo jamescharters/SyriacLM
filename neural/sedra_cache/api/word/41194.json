@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0725\u072c\u071d",
+        "western": "\u0725\u0730\u072c\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15071,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15071.json"
+        },
+        "stem": "\u0725\u072c\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp to act deceitfully.",
+                "IIa to accuse of deceit"
+            ]
+        },
+        "word": {
+            "id": 41194,
+            "uri": "https://sedra.bethmardutho.org/api/word/41194.json"
+        }
+    }
+]

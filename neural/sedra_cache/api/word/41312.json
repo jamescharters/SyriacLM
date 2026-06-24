@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0718\u0725\u0715",
+        "western": "\u0718\u0730\u0725\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14988,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14988.json"
+        },
+        "stem": "\u0718\u0725\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u064a\u0646 (\u0645\u0643\u0627\u0646\u0627\u064b, \u0648\u0642\u062a\u0627\u064b)",
+                "\u062f\u0639\u0627, \u0627\u0633\u062a\u062d\u0636\u0631",
+                "\u062c\u0645\u0639"
+            ],
+            "eng": [
+                "IIp to meet at an appointed time",
+                "to send for",
+                "IIa to appoint a time, place for meeting",
+                "appoint",
+                "fix",
+                "indicate",
+                "to assemble",
+                "to be present."
+            ],
+            "fre": [
+                "d\u00e9signer ( un lieu, un temps)",
+                "rassembler",
+                "inviter, mander"
+            ]
+        },
+        "word": {
+            "id": 41312,
+            "uri": "https://sedra.bethmardutho.org/api/word/41312.json"
+        }
+    }
+]

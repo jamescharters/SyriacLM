@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1344,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1344.json"
+        },
+        "syriac": "\u071d\u0718\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Junias"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 795,
+            "uri": "https://sedra.bethmardutho.org/api/root/795.json"
+        },
+        "words": [
+            {
+                "id": 8953,
+                "uri": "https://sedra.bethmardutho.org/api/word/8953.json"
+            },
+            {
+                "id": 8954,
+                "uri": "https://sedra.bethmardutho.org/api/word/8954.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

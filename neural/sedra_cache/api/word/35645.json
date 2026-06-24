@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072c\u072a\u0713\u072b\u0722\u0710",
+        "western": "\u0721\u0736\u072c\u072a\u0730\u0713\u072b\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8833,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8833.json"
+        },
+        "stem": "\u0721\u072c\u072a\u0713\u072b\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0627\u0626\u062c"
+            ],
+            "eng": [
+                "raging (of sea).",
+                "perceptible, subject to the senses"
+            ],
+            "fre": [
+                "agit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 35645,
+            "uri": "https://sedra.bethmardutho.org/api/word/35645.json"
+        }
+    }
+]

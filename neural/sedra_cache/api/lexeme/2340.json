@@ -1,0 +1,74 @@
+[
+    {
+        "lexeme": {
+            "id": 2340,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2340.json"
+        },
+        "syriac": "\u0721\u0725\u0721\u0718\u0715\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0631\u0643\u0629",
+                "\u0627\u0633\u062a\u062d\u0645\u0627\u0645",
+                "\u0639\u0645\u0627\u062f"
+            ],
+            "French": [
+                "piscine",
+                "lavage",
+                "bapt\u00eame"
+            ],
+            "English": [
+                "baptism",
+                "washing",
+                "washing.",
+                "font",
+                "baptism",
+                "pool"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1387,
+            "uri": "https://sedra.bethmardutho.org/api/root/1387.json"
+        },
+        "words": [
+            {
+                "id": 15614,
+                "uri": "https://sedra.bethmardutho.org/api/word/15614.json"
+            },
+            {
+                "id": 15613,
+                "uri": "https://sedra.bethmardutho.org/api/word/15613.json"
+            },
+            {
+                "id": 15612,
+                "uri": "https://sedra.bethmardutho.org/api/word/15612.json"
+            },
+            {
+                "id": 15611,
+                "uri": "https://sedra.bethmardutho.org/api/word/15611.json"
+            },
+            {
+                "id": 15610,
+                "uri": "https://sedra.bethmardutho.org/api/word/15610.json"
+            },
+            {
+                "id": 15608,
+                "uri": "https://sedra.bethmardutho.org/api/word/15608.json"
+            },
+            {
+                "id": 15615,
+                "uri": "https://sedra.bethmardutho.org/api/word/15615.json"
+            },
+            {
+                "id": 15609,
+                "uri": "https://sedra.bethmardutho.org/api/word/15609.json"
+            },
+            {
+                "id": 15616,
+                "uri": "https://sedra.bethmardutho.org/api/word/15616.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

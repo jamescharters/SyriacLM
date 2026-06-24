@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1364,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1364.json"
+        },
+        "syriac": "\u071d\u0718\u072c\u0721",
+        "glosses": {
+            "English": [
+                "Jotham"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 815,
+            "uri": "https://sedra.bethmardutho.org/api/root/815.json"
+        },
+        "words": [
+            {
+                "id": 8995,
+                "uri": "https://sedra.bethmardutho.org/api/word/8995.json"
+            },
+            {
+                "id": 8994,
+                "uri": "https://sedra.bethmardutho.org/api/word/8994.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

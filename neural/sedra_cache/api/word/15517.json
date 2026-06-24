@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u0725\u0720\u071d\u0721\u0710",
+        "western": "\u0718\u0730\u0725\u0720\u0730\u071d\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2329,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2329.json"
+        },
+        "stem": "\u0725\u0720\u071d\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "young man",
+                "youth",
+                "youthful, young.",
+                "youth",
+                "young man"
+            ]
+        },
+        "word": {
+            "id": 15517,
+            "uri": "https://sedra.bethmardutho.org/api/word/15517.json"
+        }
+    }
+]

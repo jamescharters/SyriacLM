@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14760,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14760.json"
+        },
+        "syriac": "\u072b\u072a\u0725\u071b",
+        "glosses": {
+            "English": [
+                "IVa to quiver."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2686,
+            "uri": "https://sedra.bethmardutho.org/api/root/2686.json"
+        },
+        "words": [
+            {
+                "id": 41305,
+                "uri": "https://sedra.bethmardutho.org/api/word/41305.json"
+            },
+            {
+                "id": 40755,
+                "uri": "https://sedra.bethmardutho.org/api/word/40755.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

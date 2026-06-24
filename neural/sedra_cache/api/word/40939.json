@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u0717\u0720\u0717",
+        "western": "\u0720\u0730\u0717\u0720\u0736\u0717",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14786,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14786.json"
+        },
+        "stem": "\u0720\u0717\u0720\u0717",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to confound, stupefy",
+                "IVp to be amazed."
+            ]
+        },
+        "word": {
+            "id": 40939,
+            "uri": "https://sedra.bethmardutho.org/api/word/40939.json"
+        }
+    }
+]

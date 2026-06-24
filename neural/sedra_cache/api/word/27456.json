@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0715\u0725\u0728\u071d\u0722",
+        "western": "\u0715\u0741\u0725\u0733\u0728\u0736\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2388,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2388.json"
+        },
+        "stem": "\u0725\u0728\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0645\u0633\u0643, \u063a\u0628\u0646",
+                "\u0642\u0644\u0639 (\u0627\u0644\u0623\u0639\u064a\u0646)",
+                "\u0636\u063a\u0637 \u0639\u0644\u0649 , \u0623\u062c\u0628\u0631"
+            ],
+            "eng": [
+                "to resist, to refuse",
+                "IIIa to oppress.",
+                "be obstinate",
+                "IIp to suffer violence",
+                "to tear out (eyes) Ip",
+                "Ia to compel, constrain, force",
+                "IIa to resist, to refuse, to be stubborn",
+                "to contradict"
+            ],
+            "fre": [
+                "presser, contraindre",
+                "arracher (les yeux)",
+                "retenir, frauder"
+            ]
+        },
+        "word": {
+            "id": 27456,
+            "uri": "https://sedra.bethmardutho.org/api/word/27456.json"
+        }
+    }
+]

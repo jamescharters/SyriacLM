@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071f\u0720\u072b",
+        "western": "\u071f\u0741\u0730\u0720\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1536,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1536.json"
+        },
+        "stem": "\u071f\u0720\u072b",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to plaster.",
+                "to reduce to lime",
+                "IIa to whitewash",
+                "IIp",
+                "whitewash"
+            ]
+        },
+        "word": {
+            "id": 10081,
+            "uri": "https://sedra.bethmardutho.org/api/word/10081.json"
+        }
+    }
+]

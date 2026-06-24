@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0720\u071a\u071d\u0712\u071d\u0722",
+        "western": "\u0720\u071a\u0730\u071d\u0733\u0712\u0742\u0730\u071d\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 976,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/976.json"
+        },
+        "stem": "\u071a\u071d\u0712\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062f\u064a\u0648\u0646",
+                "\u0645\u062e\u0637\u0626, \u0645\u0633\u062a\u062d\u0642",
+                "\u0633\u0627\u0641\u0644, \u0645\u063a\u0644\u0648\u0628"
+            ],
+            "eng": [
+                "debtor",
+                "vanquished, defeated.",
+                "guilty",
+                "debtor"
+            ],
+            "fre": [
+                "d\u00e9biteur",
+                "inf\u00e9rieur, vaincu",
+                "coupable, digne"
+            ]
+        },
+        "word": {
+            "id": 6445,
+            "uri": "https://sedra.bethmardutho.org/api/word/6445.json"
+        }
+    }
+]

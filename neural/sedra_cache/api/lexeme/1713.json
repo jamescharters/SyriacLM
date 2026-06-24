@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1713,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1713.json"
+        },
+        "syriac": "\u0721\u0715\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0630\u0644\u0643"
+            ],
+            "French": [
+                "c&#39;est pourquoi"
+            ],
+            "English": [
+                "then",
+                "therefore",
+                "then",
+                "therefore",
+                "then, so then, therefore."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1023,
+            "uri": "https://sedra.bethmardutho.org/api/root/1023.json"
+        },
+        "words": [
+            {
+                "id": 4378,
+                "uri": "https://sedra.bethmardutho.org/api/word/4378.json"
+            },
+            {
+                "id": 11236,
+                "uri": "https://sedra.bethmardutho.org/api/word/11236.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

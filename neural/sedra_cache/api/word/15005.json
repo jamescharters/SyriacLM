@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u0725\u0715\u072a\u0722\u0710",
+        "western": "\u0721\u0725\u0730\u0715\u0741\u072a\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2251,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2251.json"
+        },
+        "stem": "\u0721\u0725\u0715\u072a\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0627\u0641\u0639",
+                "\u0645\u0633\u0627\u0639\u062f"
+            ],
+            "eng": [
+                "helpful, advantageous.",
+                "helper, assistant",
+                "help",
+                "helper"
+            ],
+            "fre": [
+                "utile",
+                "aide"
+            ]
+        },
+        "word": {
+            "id": 15005,
+            "uri": "https://sedra.bethmardutho.org/api/word/15005.json"
+        }
+    }
+]

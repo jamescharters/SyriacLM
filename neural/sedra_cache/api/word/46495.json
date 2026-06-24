@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0723\u0710",
+        "western": "\u0729\u073a\u072a\u0723\u0733\u0710",
+        "lexeme": {
+            "id": 20121,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20121.json"
+        },
+        "stem": "\u0729\u072a\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0642\u062a",
+                "\u0641\u0631\u0635\u0629",
+                "\u0628\u0644\u064a\u0629",
+                "\u0628\u0624\u0633",
+                "\u062d\u0631\u0628",
+                "\u0645\u0634\u0627\u062c\u0631\u0629"
+            ],
+            "fre": [
+                "malheur",
+                "guerre",
+                "mis\u00e8re",
+                "altercation",
+                "occasion",
+                "temps"
+            ]
+        },
+        "word": {
+            "id": 46495,
+            "uri": "https://sedra.bethmardutho.org/api/word/46495.json"
+        }
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0712\u071d\u0710\u071d\u0722",
+        "western": "\u0721\u0736\u072c\u0742\u0712\u0741\u0730\u071d\u0710\u071d\u073a\u0722",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15148,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15148.json"
+        },
+        "stem": "\u0712\u071d\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0632\u0649",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIp.",
+                "IIa to console, comfort",
+                "encourage",
+                "comfort"
+            ],
+            "fre": [
+                "\u00a0",
+                "consoler"
+            ]
+        },
+        "word": {
+            "id": 23465,
+            "uri": "https://sedra.bethmardutho.org/api/word/23465.json"
+        }
+    }
+]

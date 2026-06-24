@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0715\u0723\u0718\u0722\u0729\u0722\u0722",
+        "western": "\u0715\u0741\u0723\u073d\u0718\u0722\u0729\u0733\u0722\u0730\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2168,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2168.json"
+        },
+        "stem": "\u0723\u0718\u0722\u0729\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0627\u062c\u0629"
+            ],
+            "eng": [
+                "necessity",
+                "need",
+                "need, necessity."
+            ],
+            "fre": [
+                "besoin"
+            ]
+        },
+        "word": {
+            "id": 14413,
+            "uri": "https://sedra.bethmardutho.org/api/word/14413.json"
+        }
+    }
+]

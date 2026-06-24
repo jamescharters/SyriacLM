@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0726\u0718\u0720\u071d\u0722\u0723\u071b\u0710",
+        "western": "\u0726\u0730\u0718\u0720\u071d\u0733\u0722\u073a\u0723\u071b\u0733\u0710",
+        "lexeme": {
+            "id": 35142,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/35142.json"
+        },
+        "stem": "\u0726\u0718\u0720\u071d\u0722\u0723\u071b\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "follower of Paul of Samosata"
+            ],
+            "lat": [
+                "Paulianista"
+            ]
+        },
+        "word": {
+            "id": 61497,
+            "uri": "https://sedra.bethmardutho.org/api/word/61497.json"
+        }
+    }
+]

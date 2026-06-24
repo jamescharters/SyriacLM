@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 475,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/475.json"
+        },
+        "syriac": "\u0712\u072a\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0631\u062f"
+            ],
+            "French": [
+                "gr\u00eale"
+            ],
+            "English": [
+                "hail.",
+                "hail"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 317,
+            "uri": "https://sedra.bethmardutho.org/api/root/317.json"
+        },
+        "words": [
+            {
+                "id": 3338,
+                "uri": "https://sedra.bethmardutho.org/api/word/3338.json"
+            },
+            {
+                "id": 3337,
+                "uri": "https://sedra.bethmardutho.org/api/word/3337.json"
+            },
+            {
+                "id": 3336,
+                "uri": "https://sedra.bethmardutho.org/api/word/3336.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

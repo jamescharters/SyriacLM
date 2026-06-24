@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0725\u072a",
+        "western": "\u0729\u0725\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15703,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15703.json"
+        },
+        "stem": "\u0729\u0725\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to break off."
+            ]
+        },
+        "word": {
+            "id": 40134,
+            "uri": "https://sedra.bethmardutho.org/api/word/40134.json"
+        }
+    }
+]

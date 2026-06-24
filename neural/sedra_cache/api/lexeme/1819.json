@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1819,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1819.json"
+        },
+        "syriac": "\u0721\u0723\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0627\u0634"
+            ],
+            "French": [
+                "d\u00e9lateur"
+            ],
+            "English": [
+                "delator",
+                "accuser",
+                "calumniator, delator, informer, despiser."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1088,
+            "uri": "https://sedra.bethmardutho.org/api/root/1088.json"
+        },
+        "words": [
+            {
+                "id": 12075,
+                "uri": "https://sedra.bethmardutho.org/api/word/12075.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

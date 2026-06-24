@@ -1,0 +1,55 @@
+[
+    {
+        "syriac": "\u071b\u071f\u0723",
+        "western": "\u071b\u0730\u071f\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15133,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15133.json"
+        },
+        "stem": "\u071b\u071f\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0641\u0646",
+                "\u0623\u0642\u0627\u0645",
+                "\u0646\u0638\u0645 (\u0645\u0636), \u0631\u062a\u0628 (\u0645\u0636), \u0646\u0633\u0642",
+                "\u0635\u0644\u062d (\u0645\u0636)",
+                "\u00a0",
+                "\u0627\u062d\u062a\u0641\u0644 (\u0628\u0627\u0644\u0642\u062f\u0627\u0633), \u0633\u0627\u0645 (\u0643\u0627\u0647\u0646\u0627\u064b), \u062a\u0646\u0627\u0648\u0644",
+                "\u0648\u0636\u0639, \u062e\u0635"
+            ],
+            "eng": [
+                "arrange",
+                "to institute, set over, appoint",
+                "IIp to be set in order, arranged",
+                "to be drawn up, composed.",
+                "to control, keep in order",
+                "to be instituted, ordained, appointed",
+                "IIa to set in order, arrange, assign",
+                "order"
+            ],
+            "fre": [
+                "mettre en ordre, disposer, composer",
+                "\u00e9tablir",
+                "corriger",
+                "ensevelir",
+                "\u00a0",
+                "placer, attribuer",
+                "c\u00e9l\u00e9brer ( la messe), ordonner ( un pr\u00eatre ), communier"
+            ]
+        },
+        "word": {
+            "id": 40736,
+            "uri": "https://sedra.bethmardutho.org/api/word/40736.json"
+        }
+    }
+]

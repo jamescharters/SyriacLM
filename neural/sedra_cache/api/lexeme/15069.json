@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15069,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15069.json"
+        },
+        "syriac": "\u071a\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0631\u0646",
+                "\u062c\u0639\u0644 \u062e\u0627\u0635\u062a\u0647",
+                "\u00a0"
+            ],
+            "French": [
+                "apparenter",
+                "faire sien",
+                "apparenter\u2026et derive.,"
+            ],
+            "English": [
+                "to do the duty of a kinsman",
+                "IIp to be connected, to be related, allied in marriage.",
+                "IIa to ally, connect"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2305,
+            "uri": "https://sedra.bethmardutho.org/api/root/2305.json"
+        },
+        "words": [
+            {
+                "id": 41033,
+                "uri": "https://sedra.bethmardutho.org/api/word/41033.json"
+            },
+            {
+                "id": 40941,
+                "uri": "https://sedra.bethmardutho.org/api/word/40941.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

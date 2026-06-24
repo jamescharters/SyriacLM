@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071a\u0712\u0720\u071d\u0717",
+        "western": "\u071a\u0736\u0712\u0742\u0720\u0736\u071d\u0717",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 934,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/934.json"
+        },
+        "stem": "\u071a\u0712\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "throes",
+                "travail",
+                "sorrow",
+                "pangs"
+            ]
+        },
+        "word": {
+            "id": 6123,
+            "uri": "https://sedra.bethmardutho.org/api/word/6123.json"
+        }
+    }
+]

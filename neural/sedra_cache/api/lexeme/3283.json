@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3283,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3283.json"
+        },
+        "syriac": "\u072b\u0725\u071d\u0710",
+        "glosses": {
+            "English": [
+                "nonsense",
+                "jesting",
+                "play",
+                "mockery.",
+                "game, play"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1912,
+            "uri": "https://sedra.bethmardutho.org/api/root/1912.json"
+        },
+        "words": [
+            {
+                "id": 21741,
+                "uri": "https://sedra.bethmardutho.org/api/word/21741.json"
+            },
+            {
+                "id": 21742,
+                "uri": "https://sedra.bethmardutho.org/api/word/21742.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0729\u072c\u072a\u0723",
+        "western": "\u0729\u0730\u072c\u072a\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14927,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14927.json"
+        },
+        "stem": "\u0729\u072c\u072a\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0639\u0632\u0644"
+            ],
+            "eng": [
+                "IVa to depose, remove from office",
+                "IVp."
+            ],
+            "fre": [
+                "\u00a0",
+                "d\u00e9poser"
+            ]
+        },
+        "word": {
+            "id": 40242,
+            "uri": "https://sedra.bethmardutho.org/api/word/40242.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 3115,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3115.json"
+        },
+        "syriac": "\u072b\u0712\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0628\u062a"
+            ],
+            "French": [
+                "aneth"
+            ],
+            "English": [
+                "anise",
+                "dill",
+                "dill."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1813,
+            "uri": "https://sedra.bethmardutho.org/api/root/1813.json"
+        },
+        "words": [
+            {
+                "id": 20349,
+                "uri": "https://sedra.bethmardutho.org/api/word/20349.json"
+            },
+            {
+                "id": 20350,
+                "uri": "https://sedra.bethmardutho.org/api/word/20350.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

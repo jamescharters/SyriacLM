@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 3375,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3375.json"
+        },
+        "syriac": "\u072c\u0718\u0717",
+        "glosses": {
+            "English": [
+                "troubled",
+                "amazed",
+                "IIIa = IIa.",
+                "IIp",
+                "IIa to alarm, dismay",
+                "Ia to be startled, alarmed, amazed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1959,
+            "uri": "https://sedra.bethmardutho.org/api/root/1959.json"
+        },
+        "words": [
+            {
+                "id": 22424,
+                "uri": "https://sedra.bethmardutho.org/api/word/22424.json"
+            },
+            {
+                "id": 22422,
+                "uri": "https://sedra.bethmardutho.org/api/word/22422.json"
+            },
+            {
+                "id": 22425,
+                "uri": "https://sedra.bethmardutho.org/api/word/22425.json"
+            },
+            {
+                "id": 22423,
+                "uri": "https://sedra.bethmardutho.org/api/word/22423.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

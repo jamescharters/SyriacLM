@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u071b\u0726\u072c\u0710",
+        "western": "\u0725\u071b\u0733\u0726\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7489,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7489.json"
+        },
+        "stem": "\u0725\u071b\u0726\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0637\u0641"
+            ],
+            "eng": [
+                "mantle, cloak."
+            ],
+            "fre": [
+                "manteau"
+            ]
+        },
+        "word": {
+            "id": 30827,
+            "uri": "https://sedra.bethmardutho.org/api/word/30827.json"
+        }
+    }
+]

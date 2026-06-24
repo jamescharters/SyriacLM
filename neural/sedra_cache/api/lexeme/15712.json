@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15712,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15712.json"
+        },
+        "syriac": "\u0721\u072a\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u062f\u0645",
+                "\u0639\u062b\u0631 \u0639\u0644\u0649",
+                "\u062a\u0631\u062c\u0631\u062c"
+            ],
+            "French": [
+                "heurter",
+                "tomber sur",
+                "chanceler"
+            ],
+            "English": [
+                "to knock against",
+                "IIIa to totter",
+                "Ia to totter",
+                "to make to totter."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2641,
+            "uri": "https://sedra.bethmardutho.org/api/root/2641.json"
+        },
+        "words": [
+            {
+                "id": 41935,
+                "uri": "https://sedra.bethmardutho.org/api/word/41935.json"
+            },
+            {
+                "id": 40940,
+                "uri": "https://sedra.bethmardutho.org/api/word/40940.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

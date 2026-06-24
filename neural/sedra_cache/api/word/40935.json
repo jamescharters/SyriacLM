@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u0717\u0710",
+        "western": "\u0721\u0717\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15691,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15691.json"
+        },
+        "stem": "\u0721\u0717\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0644\u0649",
+                ""
+            ],
+            "eng": [
+                "Ia to cook, boil up",
+                "Ip to become liquid."
+            ],
+            "fre": [
+                "bouillir\u2026",
+                "bouillir"
+            ]
+        },
+        "word": {
+            "id": 40935,
+            "uri": "https://sedra.bethmardutho.org/api/word/40935.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0725\u0718\u072a",
+        "western": "\u0722\u0736\u0713\u0742\u0725\u073d\u0718\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 616,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/616.json"
+        },
+        "stem": "\u0713\u0725\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "chide",
+                "Ip.",
+                "Ia to rebuke, reprove",
+                "rebuke"
+            ]
+        },
+        "word": {
+            "id": 3941,
+            "uri": "https://sedra.bethmardutho.org/api/word/3941.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3444,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3444.json"
+        },
+        "syriac": "\u072c\u072a\u0722\u0713\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u064a\u0643"
+            ],
+            "French": [
+                "coq"
+            ],
+            "English": [
+                "cock",
+                "cock, hen."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1998,
+            "uri": "https://sedra.bethmardutho.org/api/root/1998.json"
+        },
+        "words": [
+            {
+                "id": 22697,
+                "uri": "https://sedra.bethmardutho.org/api/word/22697.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0723\u0718\u0718\u071a\u0710",
+        "western": "\u0723\u073d\u0718\u0718\u0733\u071a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2088,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2088.json"
+        },
+        "stem": "\u0723\u0718\u0718\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0648\u0642",
+                "\u0645\u0628\u0627\u062f\u0631\u0629",
+                "\u062a\u062d\u0631\u064a\u0636",
+                "\u0641\u0631\u062d"
+            ],
+            "eng": [
+                "longing, strong desire.",
+                "promptitude",
+                "readiness",
+                "eagerness"
+            ],
+            "fre": [
+                "exhortation",
+                "d\u00e9sir",
+                "empressement",
+                "joie"
+            ]
+        },
+        "word": {
+            "id": 13918,
+            "uri": "https://sedra.bethmardutho.org/api/word/13918.json"
+        }
+    }
+]

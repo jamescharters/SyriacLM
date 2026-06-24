@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 14980,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14980.json"
+        },
+        "syriac": "\u0712\u0720\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u063a\u0644\u0642"
+            ],
+            "French": [
+                "fermer"
+            ],
+            "English": [
+                "IIa, IIIa to putrify, rot.",
+                "2 Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0712\u0720\u0736\u071b</span> to be worm-eaten"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2306,
+            "uri": "https://sedra.bethmardutho.org/api/root/2306.json"
+        },
+        "words": [
+            {
+                "id": 40828,
+                "uri": "https://sedra.bethmardutho.org/api/word/40828.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

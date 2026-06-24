@@ -1,0 +1,74 @@
+[
+    {
+        "lexeme": {
+            "id": 2657,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2657.json"
+        },
+        "syriac": "\u0728\u0712\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0648\u0646"
+            ],
+            "French": [
+                "couleur"
+            ],
+            "English": [
+                "finger",
+                "finger",
+                "<span class=\"selectableFont\">\u0712\u0730\u072a \u0728\u0736\u0712\u0725\u0733\u0710</span> thimble."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1574,
+            "uri": "https://sedra.bethmardutho.org/api/root/1574.json"
+        },
+        "words": [
+            {
+                "id": 17323,
+                "uri": "https://sedra.bethmardutho.org/api/word/17323.json"
+            },
+            {
+                "id": 17316,
+                "uri": "https://sedra.bethmardutho.org/api/word/17316.json"
+            },
+            {
+                "id": 17324,
+                "uri": "https://sedra.bethmardutho.org/api/word/17324.json"
+            },
+            {
+                "id": 17319,
+                "uri": "https://sedra.bethmardutho.org/api/word/17319.json"
+            },
+            {
+                "id": 17317,
+                "uri": "https://sedra.bethmardutho.org/api/word/17317.json"
+            },
+            {
+                "id": 42260,
+                "uri": "https://sedra.bethmardutho.org/api/word/42260.json"
+            },
+            {
+                "id": 42211,
+                "uri": "https://sedra.bethmardutho.org/api/word/42211.json"
+            },
+            {
+                "id": 17322,
+                "uri": "https://sedra.bethmardutho.org/api/word/17322.json"
+            },
+            {
+                "id": 17321,
+                "uri": "https://sedra.bethmardutho.org/api/word/17321.json"
+            },
+            {
+                "id": 17320,
+                "uri": "https://sedra.bethmardutho.org/api/word/17320.json"
+            },
+            {
+                "id": 17318,
+                "uri": "https://sedra.bethmardutho.org/api/word/17318.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

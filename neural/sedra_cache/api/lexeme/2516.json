@@ -1,0 +1,77 @@
+[
+    {
+        "lexeme": {
+            "id": 2516,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2516.json"
+        },
+        "syriac": "\u0726\u071f\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0628\u0637, \u0623\u0648\u062b\u0642",
+                "\u0636\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "lier, encha\u00eener",
+                "joindre ensemble",
+                "\u00a0"
+            ],
+            "English": [
+                "bind",
+                "entangle",
+                "fetter",
+                "involved",
+                "Ip",
+                "IIp.",
+                "to ensnare",
+                "IIa to bind tightly",
+                "Ia to bind",
+                "to join, clasp (the hands)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1494,
+            "uri": "https://sedra.bethmardutho.org/api/root/1494.json"
+        },
+        "words": [
+            {
+                "id": 27559,
+                "uri": "https://sedra.bethmardutho.org/api/word/27559.json"
+            },
+            {
+                "id": 27558,
+                "uri": "https://sedra.bethmardutho.org/api/word/27558.json"
+            },
+            {
+                "id": 16402,
+                "uri": "https://sedra.bethmardutho.org/api/word/16402.json"
+            },
+            {
+                "id": 27561,
+                "uri": "https://sedra.bethmardutho.org/api/word/27561.json"
+            },
+            {
+                "id": 27560,
+                "uri": "https://sedra.bethmardutho.org/api/word/27560.json"
+            },
+            {
+                "id": 26151,
+                "uri": "https://sedra.bethmardutho.org/api/word/26151.json"
+            },
+            {
+                "id": 16404,
+                "uri": "https://sedra.bethmardutho.org/api/word/16404.json"
+            },
+            {
+                "id": 16403,
+                "uri": "https://sedra.bethmardutho.org/api/word/16403.json"
+            },
+            {
+                "id": 16401,
+                "uri": "https://sedra.bethmardutho.org/api/word/16401.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 14923,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14923.json"
+        },
+        "syriac": "\u0729\u071b\u0720\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u063a\u0644",
+                "\u00a0"
+            ],
+            "French": [
+                "occcuper",
+                "\u00a0"
+            ],
+            "English": [
+                "to imagine, suppose",
+                "IVp to be taken up with.",
+                "IVa to occupy, engross"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2315,
+            "uri": "https://sedra.bethmardutho.org/api/root/2315.json"
+        },
+        "words": [
+            {
+                "id": 41429,
+                "uri": "https://sedra.bethmardutho.org/api/word/41429.json"
+            },
+            {
+                "id": 40275,
+                "uri": "https://sedra.bethmardutho.org/api/word/40275.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

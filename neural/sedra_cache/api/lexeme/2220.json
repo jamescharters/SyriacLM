@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2220,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2220.json"
+        },
+        "syriac": "\u0721\u0725\u0712\u0715\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "working, operation, energy, activity, effect, action, instigation, influence.",
+                "operation",
+                "working",
+                "action",
+                "efficacy"
+            ],
+            "Arabic": [
+                "\u0645\u0639\u0644\u0648\u0644",
+                "\u0639\u0645\u0644, \u0641\u0639\u0644",
+                "\u0635\u0646\u064a\u0639",
+                "\u0623\u0645\u0631"
+            ],
+            "French": [
+                "effet",
+                "action, op\u00e9ration",
+                "\u0153uvre",
+                "affaire"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1328,
+            "uri": "https://sedra.bethmardutho.org/api/root/1328.json"
+        },
+        "words": [
+            {
+                "id": 14651,
+                "uri": "https://sedra.bethmardutho.org/api/word/14651.json"
+            },
+            {
+                "id": 14652,
+                "uri": "https://sedra.bethmardutho.org/api/word/14652.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

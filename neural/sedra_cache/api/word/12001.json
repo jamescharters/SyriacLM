@@ -1,0 +1,20 @@
+[
+    {
+        "syriac": "\u0721\u0722\u072b\u0720\u071d\u0710",
+        "western": "\u0721\u0736\u0722\u072b\u0736\u0720\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 3510,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3510.json"
+        },
+        "stem": "\u0721\u0722\u072b\u0720\u071d\u0710",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "word": {
+            "id": 12001,
+            "uri": "https://sedra.bethmardutho.org/api/word/12001.json"
+        }
+    }
+]

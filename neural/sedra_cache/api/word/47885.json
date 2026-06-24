@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0715\u072a\u0710",
+        "western": "\u0720\u0730\u0712\u0715\u0733\u072a\u0733\u0710",
+        "eastern": "\u0720\u0732\u0712\u0715\u0735\u072a\u0735\u0710",
+        "lexeme": {
+            "id": 21511,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/21511.json"
+        },
+        "stem": "\u0720\u0712\u0715\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "mouth-piece",
+                "embouchure"
+            ]
+        },
+        "word": {
+            "id": 47885,
+            "uri": "https://sedra.bethmardutho.org/api/word/47885.json"
+        }
+    }
+]

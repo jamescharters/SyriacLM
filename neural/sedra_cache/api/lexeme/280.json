@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 280,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/280.json"
+        },
+        "syriac": "\u0710\u072a\u071b\u0721\u071d\u0723",
+        "glosses": {
+            "English": [
+                "Artemis"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 207,
+            "uri": "https://sedra.bethmardutho.org/api/root/207.json"
+        },
+        "words": [
+            {
+                "id": 1878,
+                "uri": "https://sedra.bethmardutho.org/api/word/1878.json"
+            },
+            {
+                "id": 1877,
+                "uri": "https://sedra.bethmardutho.org/api/word/1877.json"
+            },
+            {
+                "id": 1876,
+                "uri": "https://sedra.bethmardutho.org/api/word/1876.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

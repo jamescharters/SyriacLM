@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u072c\u071f",
+        "western": "\u0720\u072c\u0736\u071f",
+        "number": "singular",
+        "lexeme": {
+            "id": 11511,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11511.json"
+        },
+        "stem": "\u0720\u072c\u071f",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0635\u0641 \u0643\u0631"
+            ],
+            "eng": [
+                "measure (of corn)."
+            ],
+            "fre": [
+                "demi-cor"
+            ]
+        },
+        "word": {
+            "id": 29767,
+            "uri": "https://sedra.bethmardutho.org/api/word/29767.json"
+        }
+    }
+]

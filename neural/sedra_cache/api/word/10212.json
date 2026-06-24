@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071f\u0722\u0718\u072c\u0717\u0718\u0722",
+        "western": "\u071f\u0741\u0722\u0730\u0718\u0733\u072c\u0742\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1554,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1554.json"
+        },
+        "stem": "\u071f\u0722\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "companion",
+                "companion.",
+                "fellow servant"
+            ]
+        },
+        "word": {
+            "id": 10212,
+            "uri": "https://sedra.bethmardutho.org/api/word/10212.json"
+        }
+    }
+]

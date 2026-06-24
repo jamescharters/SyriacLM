@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071f\u0710",
+        "western": "\u0721\u0730\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12461,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12461.json"
+        },
+        "stem": "\u0721\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0639\u064a\u0641, \u0635\u063a\u064a\u0631"
+            ],
+            "eng": [
+                "insignificant, lowly."
+            ],
+            "fre": [
+                "faible, petit"
+            ]
+        },
+        "word": {
+            "id": 39711,
+            "uri": "https://sedra.bethmardutho.org/api/word/39711.json"
+        }
+    }
+]

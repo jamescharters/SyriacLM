@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072c\u071f\u0723\u071d\u072c\u071f",
+        "western": "\u072c\u0741\u0730\u071f\u0742\u0723\u073a\u071d\u072c\u0742\u0733\u071f\u0742",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1559,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1559.json"
+        },
+        "stem": "\u072c\u071f\u0723\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "covering",
+                "garment",
+                "covering, garment."
+            ]
+        },
+        "word": {
+            "id": 10267,
+            "uri": "https://sedra.bethmardutho.org/api/word/10267.json"
+        }
+    }
+]

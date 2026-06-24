@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 612,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/612.json"
+        },
+        "syriac": "\u0713\u0722\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0633\u062a\u0627\u0646"
+            ],
+            "French": [
+                "jardin"
+            ],
+            "English": [
+                "garden",
+                "garden."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 391,
+            "uri": "https://sedra.bethmardutho.org/api/root/391.json"
+        },
+        "words": [
+            {
+                "id": 3928,
+                "uri": "https://sedra.bethmardutho.org/api/word/3928.json"
+            },
+            {
+                "id": 3926,
+                "uri": "https://sedra.bethmardutho.org/api/word/3926.json"
+            },
+            {
+                "id": 42293,
+                "uri": "https://sedra.bethmardutho.org/api/word/42293.json"
+            },
+            {
+                "id": 3927,
+                "uri": "https://sedra.bethmardutho.org/api/word/3927.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

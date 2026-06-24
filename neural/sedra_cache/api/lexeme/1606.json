@@ -1,0 +1,85 @@
+[
+    {
+        "lexeme": {
+            "id": 1606,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1606.json"
+        },
+        "syriac": "\u071f\u072c\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0637\u062e, \u0648\u0633\u062e (\u0645\u0636)",
+                "\u0646\u062c\u0633"
+            ],
+            "French": [
+                "tacher, souiller",
+                "\u00eatre sale"
+            ],
+            "English": [
+                "defile",
+                "IIa to sully, defile",
+                "IIp.",
+                "Ia to make mark, stain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 939,
+            "uri": "https://sedra.bethmardutho.org/api/root/939.json"
+        },
+        "words": [
+            {
+                "id": 25921,
+                "uri": "https://sedra.bethmardutho.org/api/word/25921.json"
+            },
+            {
+                "id": 25920,
+                "uri": "https://sedra.bethmardutho.org/api/word/25920.json"
+            },
+            {
+                "id": 10660,
+                "uri": "https://sedra.bethmardutho.org/api/word/10660.json"
+            },
+            {
+                "id": 25928,
+                "uri": "https://sedra.bethmardutho.org/api/word/25928.json"
+            },
+            {
+                "id": 25927,
+                "uri": "https://sedra.bethmardutho.org/api/word/25927.json"
+            },
+            {
+                "id": 25926,
+                "uri": "https://sedra.bethmardutho.org/api/word/25926.json"
+            },
+            {
+                "id": 25925,
+                "uri": "https://sedra.bethmardutho.org/api/word/25925.json"
+            },
+            {
+                "id": 25923,
+                "uri": "https://sedra.bethmardutho.org/api/word/25923.json"
+            },
+            {
+                "id": 25922,
+                "uri": "https://sedra.bethmardutho.org/api/word/25922.json"
+            },
+            {
+                "id": 10665,
+                "uri": "https://sedra.bethmardutho.org/api/word/10665.json"
+            },
+            {
+                "id": 10663,
+                "uri": "https://sedra.bethmardutho.org/api/word/10663.json"
+            },
+            {
+                "id": 10661,
+                "uri": "https://sedra.bethmardutho.org/api/word/10661.json"
+            },
+            {
+                "id": 10664,
+                "uri": "https://sedra.bethmardutho.org/api/word/10664.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

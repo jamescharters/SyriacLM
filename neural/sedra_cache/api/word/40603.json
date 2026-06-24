@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0712\u0715\u0729",
+        "western": "\u0712\u0715\u0730\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15368,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15368.json"
+        },
+        "stem": "\u0712\u0715\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0712\u0715\u073d\u0718\u0729</span>, Ia to search out, investigate, examine",
+                "IIa to disclose (meaning)",
+                "IIp."
+            ]
+        },
+        "word": {
+            "id": 40603,
+            "uri": "https://sedra.bethmardutho.org/api/word/40603.json"
+        }
+    }
+]

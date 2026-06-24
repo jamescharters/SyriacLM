@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 1837,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1837.json"
+        },
+        "syriac": "\u0721\u072a\u071d\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631",
+                "\u0634\u062f\u064a\u062f",
+                "\u0642\u0627\u0633"
+            ],
+            "French": [
+                "amer",
+                "violent",
+                "cruel"
+            ],
+            "English": [
+                "bitter",
+                "harsh, cruel",
+                "bitter, sour",
+                "sad."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1099,
+            "uri": "https://sedra.bethmardutho.org/api/root/1099.json"
+        },
+        "words": [
+            {
+                "id": 12149,
+                "uri": "https://sedra.bethmardutho.org/api/word/12149.json"
+            },
+            {
+                "id": 12153,
+                "uri": "https://sedra.bethmardutho.org/api/word/12153.json"
+            },
+            {
+                "id": 12152,
+                "uri": "https://sedra.bethmardutho.org/api/word/12152.json"
+            },
+            {
+                "id": 12151,
+                "uri": "https://sedra.bethmardutho.org/api/word/12151.json"
+            },
+            {
+                "id": 12150,
+                "uri": "https://sedra.bethmardutho.org/api/word/12150.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

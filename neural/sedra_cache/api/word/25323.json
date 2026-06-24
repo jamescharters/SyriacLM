@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072a\u0712",
+        "western": "\u072a\u0730\u0712\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2906,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2906.json"
+        },
+        "stem": "\u072a\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0628\u0631"
+            ],
+            "eng": [
+                "Ia to grow great, big.",
+                "be magnified",
+                "made great"
+            ],
+            "fre": [
+                "grandir"
+            ]
+        },
+        "word": {
+            "id": 25323,
+            "uri": "https://sedra.bethmardutho.org/api/word/25323.json"
+        }
+    }
+]

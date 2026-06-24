@@ -1,0 +1,53 @@
+[
+    {
+        "syriac": "\u0710\u072b\u072c\u0721\u072b\u072c",
+        "western": "\u0710\u0736\u072b\u072c\u0741\u0730\u0721\u072b\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14956,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14956.json"
+        },
+        "stem": "\u072b\u0721\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u062f\u0645",
+                "\u062a\u0644\u0627",
+                "\u0641\u0644\u062d",
+                "\u062a\u0645\u0645",
+                "\u0639\u0645\u0644 \u0633\u0628\u0628",
+                "\u0645\u0627\u0631\u0633 (\u0648\u0638\u064a\u0641\u0629)",
+                "\u0631\u0627\u062c, \u0646\u0641\u0630"
+            ],
+            "eng": [
+                "to administer",
+                "1 IIa to serve, attend, minister to",
+                "to perform",
+                "minister",
+                "IIp.",
+                "serve"
+            ],
+            "fre": [
+                "cultiver",
+                "avoir cours, \u00eatre en vigueur",
+                "exercer (une charge)",
+                "r\u00e9citer",
+                "servir",
+                "faire , produire",
+                "accomplir"
+            ]
+        },
+        "word": {
+            "id": 21587,
+            "uri": "https://sedra.bethmardutho.org/api/word/21587.json"
+        }
+    }
+]

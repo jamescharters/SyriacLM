@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 29020,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29020.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2"
+            ],
+            "Latin": [
+                "Jesus"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 49510,
+                "uri": "https://sedra.bethmardutho.org/api/word/49510.json"
+            },
+            {
+                "id": 55394,
+                "uri": "https://sedra.bethmardutho.org/api/word/55394.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

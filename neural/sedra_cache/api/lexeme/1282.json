@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 1282,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1282.json"
+        },
+        "syriac": "\u071b\u072a\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0631\u0642\u0629",
+                "\u0634\u062d\u0645\u0629"
+            ],
+            "French": [
+                "feuille",
+                "lobe"
+            ],
+            "English": [
+                "leaf",
+                "leaf",
+                "lobe."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 759,
+            "uri": "https://sedra.bethmardutho.org/api/root/759.json"
+        },
+        "words": [
+            {
+                "id": 24319,
+                "uri": "https://sedra.bethmardutho.org/api/word/24319.json"
+            },
+            {
+                "id": 23827,
+                "uri": "https://sedra.bethmardutho.org/api/word/23827.json"
+            },
+            {
+                "id": 8359,
+                "uri": "https://sedra.bethmardutho.org/api/word/8359.json"
+            },
+            {
+                "id": 8313,
+                "uri": "https://sedra.bethmardutho.org/api/word/8313.json"
+            },
+            {
+                "id": 8358,
+                "uri": "https://sedra.bethmardutho.org/api/word/8358.json"
+            },
+            {
+                "id": 8360,
+                "uri": "https://sedra.bethmardutho.org/api/word/8360.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

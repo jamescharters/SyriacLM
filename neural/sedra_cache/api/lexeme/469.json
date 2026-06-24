@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 469,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/469.json"
+        },
+        "syriac": "\u0721\u0712\u072a\u071f\u0710",
+        "glosses": {
+            "English": [
+                "blessed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 254,
+            "uri": "https://sedra.bethmardutho.org/api/root/254.json"
+        },
+        "words": [
+            {
+                "id": 2444,
+                "uri": "https://sedra.bethmardutho.org/api/word/2444.json"
+            },
+            {
+                "id": 2461,
+                "uri": "https://sedra.bethmardutho.org/api/word/2461.json"
+            },
+            {
+                "id": 2458,
+                "uri": "https://sedra.bethmardutho.org/api/word/2458.json"
+            }
+        ],
+        "category": "participle adjective"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u071a\u071b\u071d\u072c",
+        "western": "\u071a\u071b\u073a\u071d\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 1010,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1010.json"
+        },
+        "stem": "\u071a\u071b\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062e\u0637\u064a\u0626\u0629",
+                "\u0623\u062e\u0637\u0623"
+            ],
+            "eng": [
+                "toconsider sinful.",
+                "IIa to be arrogant",
+                "Ip to be committed (of sin)",
+                "Ia to sin",
+                "IIIa to cause to sin",
+                "err",
+                "sin"
+            ],
+            "fre": [
+                "\u00a0",
+                "p\u00e9cher",
+                "p\u00e9ch\u00e9"
+            ]
+        },
+        "word": {
+            "id": 6743,
+            "uri": "https://sedra.bethmardutho.org/api/word/6743.json"
+        }
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "lexeme": {
+            "id": 3213,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3213.json"
+        },
+        "syriac": "\u072b\u0720\u071d\u071a\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0631\u064a",
+                "\u0631\u0633\u0627\u0644\u0629",
+                "\u0631\u0633\u0644"
+            ],
+            "French": [
+                "nudit\u00e9",
+                "apostolat",
+                "ap\u00f4tres"
+            ],
+            "English": [
+                "Apostleship",
+                "embassy",
+                "office of apostle",
+                "nakedness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1873,
+            "uri": "https://sedra.bethmardutho.org/api/root/1873.json"
+        },
+        "words": [
+            {
+                "id": 21084,
+                "uri": "https://sedra.bethmardutho.org/api/word/21084.json"
+            },
+            {
+                "id": 21082,
+                "uri": "https://sedra.bethmardutho.org/api/word/21082.json"
+            },
+            {
+                "id": 29452,
+                "uri": "https://sedra.bethmardutho.org/api/word/29452.json"
+            },
+            {
+                "id": 21086,
+                "uri": "https://sedra.bethmardutho.org/api/word/21086.json"
+            },
+            {
+                "id": 21085,
+                "uri": "https://sedra.bethmardutho.org/api/word/21085.json"
+            },
+            {
+                "id": 21083,
+                "uri": "https://sedra.bethmardutho.org/api/word/21083.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

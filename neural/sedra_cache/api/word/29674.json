@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0712\u0722\u071f\u071d\u0720\u0718\u072c\u0710",
+        "western": "\u0712\u0741\u0730\u0722\u071f\u0742\u073a\u071d\u0720\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1965,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1965.json"
+        },
+        "stem": "\u0722\u071f\u071d\u0720\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0634"
+            ],
+            "eng": [
+                "deception",
+                "cunning, deception.",
+                "craftiness",
+                "deceit"
+            ],
+            "fre": [
+                "tromperie"
+            ]
+        },
+        "word": {
+            "id": 29674,
+            "uri": "https://sedra.bethmardutho.org/api/word/29674.json"
+        }
+    }
+]

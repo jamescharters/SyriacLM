@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 1263,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1263.json"
+        },
+        "syriac": "\u0721\u071b\u0725\u071d\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "error",
+                "deception",
+                "deception, error, fallacy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 742,
+            "uri": "https://sedra.bethmardutho.org/api/root/742.json"
+        },
+        "words": [
+            {
+                "id": 8278,
+                "uri": "https://sedra.bethmardutho.org/api/word/8278.json"
+            },
+            {
+                "id": 8279,
+                "uri": "https://sedra.bethmardutho.org/api/word/8279.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

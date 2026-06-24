@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2951,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2951.json"
+        },
+        "syriac": "\u0723\u0718\u072a\u0717\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0631\u0639\u0629, \u0627\u0633\u062a\u0639\u062c\u0627\u0644",
+                "\u062a\u0639\u062c\u064a\u0644"
+            ],
+            "French": [
+                "rapidit\u00e9, h\u00e2te",
+                "acc\u00e9l\u00e9ration"
+            ],
+            "English": [
+                "rashness",
+                "hastiness",
+                "haste",
+                "trepidation",
+                "agitation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1733,
+            "uri": "https://sedra.bethmardutho.org/api/root/1733.json"
+        },
+        "words": [
+            {
+                "id": 19255,
+                "uri": "https://sedra.bethmardutho.org/api/word/19255.json"
+            },
+            {
+                "id": 19256,
+                "uri": "https://sedra.bethmardutho.org/api/word/19256.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "saph\u02bfel"
+    }
+]

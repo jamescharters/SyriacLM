@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 1679,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1679.json"
+        },
+        "syriac": "\u072c\u0718\u0720\u0721\u0715\u0710",
+        "glosses": {
+            "English": [
+                "instruction, training",
+                "doctrine",
+                "discipleship",
+                "discipleship",
+                "conversion."
+            ],
+            "Arabic": [
+                "\u062a\u0639\u0644\u064a\u0645",
+                "\u0645\u0630\u0647\u0628",
+                "\u0627\u0647\u062a\u062f\u0627\u0621",
+                "\u062d\u064a\u0627\u0629 \u0646\u0633\u0643\u064a\u0629",
+                "\u062a\u0644\u0627\u0645\u064a\u0630"
+            ],
+            "French": [
+                "enseignement",
+                "doctrine",
+                "conversion",
+                "vie monastique",
+                "disciples"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 996,
+            "uri": "https://sedra.bethmardutho.org/api/root/996.json"
+        },
+        "words": [
+            {
+                "id": 11064,
+                "uri": "https://sedra.bethmardutho.org/api/word/11064.json"
+            },
+            {
+                "id": 11063,
+                "uri": "https://sedra.bethmardutho.org/api/word/11063.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p"
+    }
+]

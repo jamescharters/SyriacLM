@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072a\u0718\u071f\u0712\u0710",
+        "western": "\u072a\u073d\u0718\u071f\u0733\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9909,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9909.json"
+        },
+        "stem": "\u072a\u0718\u071f\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0631\u0643\u064a\u0628",
+                "\u062a\u0631\u0643\u064a\u0628",
+                "\u0623\u0639\u0636\u0627\u0621 \u0648\u0645\u0641\u0627\u0635\u0644"
+            ],
+            "eng": [
+                "recipe",
+                "construction, composition, fabrication",
+                "structure",
+                "<span class=\"selectableFont\">\u072a\u073d\u0718\u071f\u0733\u0712 \u0721\u0308</span><span class=\"selectableFont\">\u0736\u0720\u0736\u0710</span> Gram. syntax."
+            ],
+            "fre": [
+                "members et jointures",
+                "assemblage",
+                "composition"
+            ]
+        },
+        "word": {
+            "id": 36139,
+            "uri": "https://sedra.bethmardutho.org/api/word/36139.json"
+        }
+    }
+]

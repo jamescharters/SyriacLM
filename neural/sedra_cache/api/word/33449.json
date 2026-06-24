@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0715\u0710",
+        "western": "\u0713\u0733\u072a\u0715\u0733\u0710",
+        "eastern": "\u0713\u0735\u072a\u0715\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11913,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11913.json"
+        },
+        "stem": "\u0713\u072a\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "beaver."
+            ]
+        },
+        "word": {
+            "id": 33449,
+            "uri": "https://sedra.bethmardutho.org/api/word/33449.json"
+        }
+    }
+]

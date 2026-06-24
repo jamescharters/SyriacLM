@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15756,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15756.json"
+        },
+        "syriac": "\u071f\u0723\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0636\u0628 (\u0627\u0644\u0643\u0631\u0645)",
+                "\u00a0"
+            ],
+            "French": [
+                "tailler ( la vigne)",
+                "\u00a0"
+            ],
+            "English": [
+                "Ip.",
+                "Ia to prune"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2313,
+            "uri": "https://sedra.bethmardutho.org/api/root/2313.json"
+        },
+        "words": [
+            {
+                "id": 41837,
+                "uri": "https://sedra.bethmardutho.org/api/word/41837.json"
+            },
+            {
+                "id": 41146,
+                "uri": "https://sedra.bethmardutho.org/api/word/41146.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

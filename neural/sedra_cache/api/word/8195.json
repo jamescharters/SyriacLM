@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u0722\u0726\u0710",
+        "western": "\u071b\u0730\u0722\u0726\u0741\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1257,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1257.json"
+        },
+        "stem": "\u071b\u0722\u0726\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "unclean",
+                "defiled, polluted, filthy, foul.",
+                "filthy",
+                "impure",
+                "defiled"
+            ]
+        },
+        "word": {
+            "id": 8195,
+            "uri": "https://sedra.bethmardutho.org/api/word/8195.json"
+        }
+    }
+]

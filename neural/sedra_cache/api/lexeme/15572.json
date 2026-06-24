@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15572,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15572.json"
+        },
+        "syriac": "\u072b\u072a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0642"
+            ],
+            "French": [
+                "fendre"
+            ],
+            "English": [
+                "to whisper.",
+                "IIIa to hiss, whistle",
+                "Ia to swallow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2128,
+            "uri": "https://sedra.bethmardutho.org/api/root/2128.json"
+        },
+        "words": [
+            {
+                "id": 41630,
+                "uri": "https://sedra.bethmardutho.org/api/word/41630.json"
+            },
+            {
+                "id": 39944,
+                "uri": "https://sedra.bethmardutho.org/api/word/39944.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

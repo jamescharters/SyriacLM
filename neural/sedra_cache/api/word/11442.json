@@ -1,0 +1,51 @@
+[
+    {
+        "syriac": "\u0721\u071b\u071d\u0710",
+        "western": "\u0721\u0733\u071b\u071d\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1741,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1741.json"
+        },
+        "stem": "\u0721\u071b\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0641\u0639",
+                "\u0623\u062a\u0649",
+                "\u0627\u062e\u062a\u0635 \u0628\u0640, \u062a\u0639\u0644\u0642 \u0628\u0640",
+                "\u0628\u0644\u063a",
+                "\u0648\u0635\u0644"
+            ],
+            "eng": [
+                "Ia reach, arrive at",
+                "IIp to attain to",
+                "IIa = Ia",
+                "attain",
+                "reach",
+                "arrive",
+                "IIIa to bring.",
+                "happen, befall"
+            ],
+            "fre": [
+                "toucher, concerner",
+                "parvenir",
+                "venir",
+                "profiter",
+                "arriver"
+            ]
+        },
+        "word": {
+            "id": 11442,
+            "uri": "https://sedra.bethmardutho.org/api/word/11442.json"
+        }
+    }
+]

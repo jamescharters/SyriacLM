@@ -1,0 +1,65 @@
+[
+    {
+        "lexeme": {
+            "id": 2411,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2411.json"
+        },
+        "syriac": "\u0725\u072a\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0639\u062c\u0629"
+            ],
+            "French": [
+                "brebis"
+            ],
+            "English": [
+                "sheep",
+                "sheep."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1427,
+            "uri": "https://sedra.bethmardutho.org/api/root/1427.json"
+        },
+        "words": [
+            {
+                "id": 15966,
+                "uri": "https://sedra.bethmardutho.org/api/word/15966.json"
+            },
+            {
+                "id": 15965,
+                "uri": "https://sedra.bethmardutho.org/api/word/15965.json"
+            },
+            {
+                "id": 15963,
+                "uri": "https://sedra.bethmardutho.org/api/word/15963.json"
+            },
+            {
+                "id": 15962,
+                "uri": "https://sedra.bethmardutho.org/api/word/15962.json"
+            },
+            {
+                "id": 15970,
+                "uri": "https://sedra.bethmardutho.org/api/word/15970.json"
+            },
+            {
+                "id": 15967,
+                "uri": "https://sedra.bethmardutho.org/api/word/15967.json"
+            },
+            {
+                "id": 15964,
+                "uri": "https://sedra.bethmardutho.org/api/word/15964.json"
+            },
+            {
+                "id": 15969,
+                "uri": "https://sedra.bethmardutho.org/api/word/15969.json"
+            },
+            {
+                "id": 15968,
+                "uri": "https://sedra.bethmardutho.org/api/word/15968.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,15 @@
+{
+  "base_url": "https://sedra.bethmardutho.org/api/word",
+  "range": [
+    64000,
+    65999
+  ],
+  "out_dir": "/Users/chartja/Github/syriac/neural/sedra_cache/api",
+  "requested": 2000,
+  "ok": 1026,
+  "missing_this_run": 974,
+  "missing_total": 8829,
+  "error": 0,
+  "interrupted": false,
+  "elapsed_sec": 251.6
+}

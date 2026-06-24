@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15459,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15459.json"
+        },
+        "syriac": "\u071a\u072a\u0725",
+        "glosses": {
+            "English": [
+                "to be yellow",
+                "IIp to act craftily.",
+                "Ia to be cunning",
+                "IIa to make sophisticated"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2763,
+            "uri": "https://sedra.bethmardutho.org/api/root/2763.json"
+        },
+        "words": [
+            {
+                "id": 42158,
+                "uri": "https://sedra.bethmardutho.org/api/word/42158.json"
+            },
+            {
+                "id": 41580,
+                "uri": "https://sedra.bethmardutho.org/api/word/41580.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

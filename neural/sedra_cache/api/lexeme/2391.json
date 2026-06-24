@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 2391,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2391.json"
+        },
+        "syriac": "\u0725\u0728\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u0645\u062f (\u062c\u0631\u062d\u0627\u064b)",
+                "\u0634\u0641\u0649, \u0623\u0635\u0644\u062d",
+                "\u00a0"
+            ],
+            "French": [
+                "bander ( une plaie)",
+                "gu\u00e9rir",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to bandage, to bind up",
+                "bandage",
+                "Ip",
+                "IIa."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1417,
+            "uri": "https://sedra.bethmardutho.org/api/root/1417.json"
+        },
+        "words": [
+            {
+                "id": 15881,
+                "uri": "https://sedra.bethmardutho.org/api/word/15881.json"
+            },
+            {
+                "id": 15882,
+                "uri": "https://sedra.bethmardutho.org/api/word/15882.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

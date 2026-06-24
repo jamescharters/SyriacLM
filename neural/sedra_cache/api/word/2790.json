@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0712\u0720\u0725\u0715\u0718\u0717\u071d",
+        "western": "\u0718\u0712\u0742\u0736\u0720\u0725\u0733\u0715\u0742\u0730\u0718\u0717\u0331\u071d",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 10489,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10489.json"
+        },
+        "stem": "\u0712\u0720\u0725\u0715",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "without.",
+                "without",
+                "apart from"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 2790,
+            "uri": "https://sedra.bethmardutho.org/api/word/2790.json"
+        }
+    }
+]

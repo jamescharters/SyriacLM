@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28606,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28606.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0722\u0713\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f40\u03c1\u03af\u03b3\u03b1\u03bd\u03bf\u03c2 (a form of \u1f40\u03c1\u03af\u03b3\u03b1\u03bd\u03bf\u03bd)"
+            ],
+            "Latin": [
+                "Origanum heracleoticum"
+            ],
+            "English": [
+                "organy"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f40\u03c1\u03af\u03b3\u03b1\u03bd\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 42700,
+                "uri": "https://sedra.bethmardutho.org/api/word/42700.json"
+            },
+            {
+                "id": 54980,
+                "uri": "https://sedra.bethmardutho.org/api/word/54980.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

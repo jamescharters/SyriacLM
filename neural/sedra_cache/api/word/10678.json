@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071f\u072c\u0726\u072c\u0717",
+        "western": "\u071f\u0741\u0730\u072c\u0742\u0726\u0741\u0733\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1609,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1609.json"
+        },
+        "stem": "\u071f\u072c\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "shoulder, shoulder-blade.",
+                "shoulder"
+            ]
+        },
+        "word": {
+            "id": 10678,
+            "uri": "https://sedra.bethmardutho.org/api/word/10678.json"
+        }
+    }
+]

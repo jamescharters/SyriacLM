@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 809,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/809.json"
+        },
+        "syriac": "\u0717\u0718\u0726\u072a\u071f\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0644\u0627\u064a\u0629",
+                "\u0623\u0628\u0631\u0634\u064a\u0629 \u0645\u064a\u062a\u0631\u0648\u0628\u0648\u0644\u064a\u062a\u064a\u0629"
+            ],
+            "French": [
+                "pr\u00e9fecture",
+                "dioc\u00e8se m\u00e9tropolitain"
+            ],
+            "English": [
+                "province",
+                "province",
+                "diocese."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f10\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
+            ]
+        },
+        "root": {
+            "id": 513,
+            "uri": "https://sedra.bethmardutho.org/api/root/513.json"
+        },
+        "words": [
+            {
+                "id": 5304,
+                "uri": "https://sedra.bethmardutho.org/api/word/5304.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

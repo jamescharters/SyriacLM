@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15292,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15292.json"
+        },
+        "syriac": "\u072c\u0725\u0720",
+        "glosses": {
+            "English": [
+                "IIa to wag the tail",
+                "to fawn."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2592,
+            "uri": "https://sedra.bethmardutho.org/api/root/2592.json"
+        },
+        "words": [
+            {
+                "id": 40542,
+                "uri": "https://sedra.bethmardutho.org/api/word/40542.json"
+            },
+            {
+                "id": 40495,
+                "uri": "https://sedra.bethmardutho.org/api/word/40495.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

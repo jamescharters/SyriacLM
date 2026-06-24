@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 1478,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1478.json"
+        },
+        "syriac": "\u071f\u0718\u0710",
+        "glosses": {
+            "English": [
+                "IIp.",
+                "sear",
+                "burn",
+                "cauterize",
+                "Ia to burn",
+                "IIa <span class=\"selectableFont\">\u071f\u0730\u0718\u073a\u071d</span> to cauterize, brand"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 875,
+            "uri": "https://sedra.bethmardutho.org/api/root/875.json"
+        },
+        "words": [
+            {
+                "id": 25695,
+                "uri": "https://sedra.bethmardutho.org/api/word/25695.json"
+            },
+            {
+                "id": 25694,
+                "uri": "https://sedra.bethmardutho.org/api/word/25694.json"
+            },
+            {
+                "id": 9760,
+                "uri": "https://sedra.bethmardutho.org/api/word/9760.json"
+            },
+            {
+                "id": 25697,
+                "uri": "https://sedra.bethmardutho.org/api/word/25697.json"
+            },
+            {
+                "id": 25696,
+                "uri": "https://sedra.bethmardutho.org/api/word/25696.json"
+            },
+            {
+                "id": 9762,
+                "uri": "https://sedra.bethmardutho.org/api/word/9762.json"
+            },
+            {
+                "id": 9761,
+                "uri": "https://sedra.bethmardutho.org/api/word/9761.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

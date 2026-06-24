@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2541,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2541.json"
+        },
+        "syriac": "\u0726\u0722\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Pontus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1507,
+            "uri": "https://sedra.bethmardutho.org/api/root/1507.json"
+        },
+        "words": [
+            {
+                "id": 16600,
+                "uri": "https://sedra.bethmardutho.org/api/word/16600.json"
+            },
+            {
+                "id": 16599,
+                "uri": "https://sedra.bethmardutho.org/api/word/16599.json"
+            },
+            {
+                "id": 16601,
+                "uri": "https://sedra.bethmardutho.org/api/word/16601.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

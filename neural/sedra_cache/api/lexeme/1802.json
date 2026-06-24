@@ -1,0 +1,87 @@
+[
+    {
+        "lexeme": {
+            "id": 1802,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1802.json"
+        },
+        "syriac": "\u0721\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u062f",
+                "\u062d\u0633\u0628",
+                ""
+            ],
+            "French": [
+                "compter",
+                "consid\u00e9rer comme",
+                ""
+            ],
+            "English": [
+                "Ip.",
+                "number",
+                "reckon",
+                "Ia to number, count, reckon"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1076,
+            "uri": "https://sedra.bethmardutho.org/api/root/1076.json"
+        },
+        "words": [
+            {
+                "id": 26345,
+                "uri": "https://sedra.bethmardutho.org/api/word/26345.json"
+            },
+            {
+                "id": 26344,
+                "uri": "https://sedra.bethmardutho.org/api/word/26344.json"
+            },
+            {
+                "id": 26348,
+                "uri": "https://sedra.bethmardutho.org/api/word/26348.json"
+            },
+            {
+                "id": 12013,
+                "uri": "https://sedra.bethmardutho.org/api/word/12013.json"
+            },
+            {
+                "id": 12012,
+                "uri": "https://sedra.bethmardutho.org/api/word/12012.json"
+            },
+            {
+                "id": 26347,
+                "uri": "https://sedra.bethmardutho.org/api/word/26347.json"
+            },
+            {
+                "id": 26346,
+                "uri": "https://sedra.bethmardutho.org/api/word/26346.json"
+            },
+            {
+                "id": 26349,
+                "uri": "https://sedra.bethmardutho.org/api/word/26349.json"
+            },
+            {
+                "id": 12017,
+                "uri": "https://sedra.bethmardutho.org/api/word/12017.json"
+            },
+            {
+                "id": 12016,
+                "uri": "https://sedra.bethmardutho.org/api/word/12016.json"
+            },
+            {
+                "id": 12015,
+                "uri": "https://sedra.bethmardutho.org/api/word/12015.json"
+            },
+            {
+                "id": 12014,
+                "uri": "https://sedra.bethmardutho.org/api/word/12014.json"
+            },
+            {
+                "id": 12011,
+                "uri": "https://sedra.bethmardutho.org/api/word/12011.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

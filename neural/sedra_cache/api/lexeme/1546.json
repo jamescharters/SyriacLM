@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1546,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1546.json"
+        },
+        "syriac": "\u071f\u0722\u0725\u0722",
+        "glosses": {
+            "English": [
+                "Canaan"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 912,
+            "uri": "https://sedra.bethmardutho.org/api/root/912.json"
+        },
+        "words": [
+            {
+                "id": 10100,
+                "uri": "https://sedra.bethmardutho.org/api/word/10100.json"
+            },
+            {
+                "id": 10101,
+                "uri": "https://sedra.bethmardutho.org/api/word/10101.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

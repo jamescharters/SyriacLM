@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071a\u072b\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u071a\u072b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13218,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13218.json"
+        },
+        "stem": "\u0721\u071a\u072b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062f\u0629"
+            ],
+            "eng": [
+                "feeling, passion."
+            ],
+            "fre": [
+                "emportement"
+            ]
+        },
+        "word": {
+            "id": 31201,
+            "uri": "https://sedra.bethmardutho.org/api/word/31201.json"
+        }
+    }
+]

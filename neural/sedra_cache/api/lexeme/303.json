@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 303,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/303.json"
+        },
+        "syriac": "\u0710\u072a\u0725\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "terrestrial",
+                "mundane",
+                "earthly",
+                "local.",
+                "earthly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 223,
+            "uri": "https://sedra.bethmardutho.org/api/root/223.json"
+        },
+        "words": [
+            {
+                "id": 1978,
+                "uri": "https://sedra.bethmardutho.org/api/word/1978.json"
+            },
+            {
+                "id": 22763,
+                "uri": "https://sedra.bethmardutho.org/api/word/22763.json"
+            },
+            {
+                "id": 1977,
+                "uri": "https://sedra.bethmardutho.org/api/word/1977.json"
+            },
+            {
+                "id": 1976,
+                "uri": "https://sedra.bethmardutho.org/api/word/1976.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u071a\u0720\u0718\u0720\u0710",
+        "western": "\u0715\u0730\u071a\u0720\u0718\u073d\u0720\u0733\u0710",
+        "lexeme": {
+            "id": 7558,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7558.json"
+        },
+        "stem": "\u0715\u071a\u0720\u0718\u0720\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0639\u0628",
+                "\u0623\u0639\u062c\u0648\u0628\u0629"
+            ],
+            "eng": [
+                "scarecrow",
+                "object of fright."
+            ],
+            "fre": [
+                "miracle",
+                "\u00e9pouvante"
+            ],
+            "lat": [
+                "horror, terror"
+            ]
+        },
+        "word": {
+            "id": 59801,
+            "uri": "https://sedra.bethmardutho.org/api/word/59801.json"
+        }
+    }
+]

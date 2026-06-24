@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2021,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2021.json"
+        },
+        "syriac": "\u0722\u0729\u071d\u0710",
+        "glosses": {
+            "English": [
+                "sheep",
+                "sheep, ewe."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1204,
+            "uri": "https://sedra.bethmardutho.org/api/root/1204.json"
+        },
+        "words": [
+            {
+                "id": 29683,
+                "uri": "https://sedra.bethmardutho.org/api/word/29683.json"
+            },
+            {
+                "id": 13339,
+                "uri": "https://sedra.bethmardutho.org/api/word/13339.json"
+            },
+            {
+                "id": 42282,
+                "uri": "https://sedra.bethmardutho.org/api/word/42282.json"
+            },
+            {
+                "id": 13338,
+                "uri": "https://sedra.bethmardutho.org/api/word/13338.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

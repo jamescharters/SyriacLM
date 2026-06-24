@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u0728\u0721\u0710",
+        "western": "\u0729\u0736\u0728\u0721\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2867,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2867.json"
+        },
+        "stem": "\u0729\u0728\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u062f\u0631"
+            ],
+            "eng": [
+                "divination, lot.",
+                "soothsaying",
+                "divination"
+            ],
+            "fre": [
+                "sort"
+            ]
+        },
+        "word": {
+            "id": 18563,
+            "uri": "https://sedra.bethmardutho.org/api/word/18563.json"
+        }
+    }
+]

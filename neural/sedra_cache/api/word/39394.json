@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0723\u072c\u0722\u0710",
+        "western": "\u071f\u073d\u0718\u0723\u072c\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13442,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13442.json"
+        },
+        "stem": "\u071f\u0718\u0723\u072c\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u062f\u0628",
+                "\u0623\u062d\u062f\u0628"
+            ],
+            "eng": [
+                "hunchbacked.",
+                "convex",
+                "crooked, bent"
+            ],
+            "fre": [
+                "convexe",
+                "bossu"
+            ]
+        },
+        "word": {
+            "id": 39394,
+            "uri": "https://sedra.bethmardutho.org/api/word/39394.json"
+        }
+    }
+]

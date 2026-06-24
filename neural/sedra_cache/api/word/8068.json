@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u071d\u072a\u0710",
+        "western": "\u071b\u071d\u0733\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1229,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1229.json"
+        },
+        "stem": "\u071b\u071d\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "enclosure, sheepfold",
+                "sheepfold",
+                "mandra."
+            ]
+        },
+        "word": {
+            "id": 8068,
+            "uri": "https://sedra.bethmardutho.org/api/word/8068.json"
+        }
+    }
+]

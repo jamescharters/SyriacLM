@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15571,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15571.json"
+        },
+        "syriac": "\u0712\u0713\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0631\u062b\u0631"
+            ],
+            "French": [
+                "bavarder"
+            ],
+            "English": [
+                "Ia to prate, rail at",
+                "Ip to be declaimed",
+                "IIIa to stir up, incite.",
+                "to chatter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2981,
+            "uri": "https://sedra.bethmardutho.org/api/root/2981.json"
+        },
+        "words": [
+            {
+                "id": 52121,
+                "uri": "https://sedra.bethmardutho.org/api/word/52121.json"
+            },
+            {
+                "id": 41986,
+                "uri": "https://sedra.bethmardutho.org/api/word/41986.json"
+            },
+            {
+                "id": 40593,
+                "uri": "https://sedra.bethmardutho.org/api/word/40593.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

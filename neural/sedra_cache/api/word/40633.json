@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0717\u0713\u0713",
+        "western": "\u0717\u0730\u0713\u0736\u0713",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15351,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15351.json"
+        },
+        "stem": "\u0717\u0713\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u062c\u0639\u0644\u0647 \u064a\u062a\u062e\u064a\u0644"
+            ],
+            "eng": [
+                "to fancy",
+                "IIp.",
+                "to devise",
+                "to delude",
+                "IIa to imagine"
+            ],
+            "fre": [
+                "faire imaginer"
+            ]
+        },
+        "word": {
+            "id": 40633,
+            "uri": "https://sedra.bethmardutho.org/api/word/40633.json"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0715\u072b\u0710\u0720\u0718",
+        "western": "\u0715\u0741\u0730\u072b\u0736\u0710\u0720\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3094,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3094.json"
+        },
+        "stem": "\u072b\u0710\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "salute",
+                "to borrow, to simulate",
+                "to borrow",
+                "IIIa to lend.",
+                "to inquire",
+                "IIa to question, to interrogate",
+                "Ia to ask",
+                "Ip to excuse oneself",
+                "to decline",
+                "lend",
+                "inquire",
+                "ask",
+                "IIp"
+            ]
+        },
+        "word": {
+            "id": 20089,
+            "uri": "https://sedra.bethmardutho.org/api/word/20089.json"
+        }
+    }
+]

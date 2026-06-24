@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u072c\u0726",
+        "western": "\u071a\u0730\u072c\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14987,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14987.json"
+        },
+        "stem": "\u071a\u072c\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0633\u0631"
+            ],
+            "eng": [
+                "IIa to break, break down."
+            ],
+            "fre": [
+                "briser"
+            ]
+        },
+        "word": {
+            "id": 41308,
+            "uri": "https://sedra.bethmardutho.org/api/word/41308.json"
+        }
+    }
+]

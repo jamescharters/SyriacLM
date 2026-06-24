@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 506,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/506.json"
+        },
+        "syriac": "\u0713\u0712\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0635\u0631\u0641 \u0628\u0628\u0633\u0627\u0637\u0629"
+            ],
+            "French": [
+                "agir vaillamment"
+            ],
+            "English": [
+                "man"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 337,
+            "uri": "https://sedra.bethmardutho.org/api/root/337.json"
+        },
+        "words": [
+            {
+                "id": 3479,
+                "uri": "https://sedra.bethmardutho.org/api/word/3479.json"
+            },
+            {
+                "id": 3478,
+                "uri": "https://sedra.bethmardutho.org/api/word/3478.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

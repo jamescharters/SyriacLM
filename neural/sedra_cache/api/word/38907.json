@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0710\u0721\u0719\u072a\u072c\u0710",
+        "western": "\u0710\u0730\u0721\u0719\u0730\u072a\u072c\u0733\u0710",
+        "eastern": "\u0710\u0732\u0721\u0719\u0732\u072a\u072c\u0735\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14294,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14294.json"
+        },
+        "stem": "\u0710\u0721\u0719\u072a\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "pigmy, dwarf."
+            ]
+        },
+        "word": {
+            "id": 38907,
+            "uri": "https://sedra.bethmardutho.org/api/word/38907.json"
+        }
+    }
+]

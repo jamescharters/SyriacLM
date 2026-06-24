@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u071b\u0721\u0718\u072b",
+        "western": "\u0722\u0736\u071b\u0721\u073d\u0718\u072b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15599,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15599.json"
+        },
+        "stem": "\u071b\u0721\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0637\u0633 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIa to immerse.",
+                "Ia to dip, soak, moisten",
+                "Ip"
+            ],
+            "fre": [
+                "immerger",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 41940,
+            "uri": "https://sedra.bethmardutho.org/api/word/41940.json"
+        }
+    }
+]

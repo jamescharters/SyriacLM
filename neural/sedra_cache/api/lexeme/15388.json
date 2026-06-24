@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15388,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15388.json"
+        },
+        "syriac": "\u072b\u0722\u0713",
+        "glosses": {
+            "English": [
+                "to enrapture",
+                "IIp to be love-sick.",
+                "IIa to be in love",
+                "Ia to wound with love"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2553,
+            "uri": "https://sedra.bethmardutho.org/api/root/2553.json"
+        },
+        "words": [
+            {
+                "id": 41758,
+                "uri": "https://sedra.bethmardutho.org/api/word/41758.json"
+            },
+            {
+                "id": 40574,
+                "uri": "https://sedra.bethmardutho.org/api/word/40574.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

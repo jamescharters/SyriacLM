@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 743,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/743.json"
+        },
+        "syriac": "\u0715\u0729",
+        "glosses": {
+            "English": [
+                "Ip",
+                "break in pieces",
+                "IIa to break to pieces, to grind to powder",
+                "Ia to pound, to grind",
+                "to break into pieces",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 469,
+            "uri": "https://sedra.bethmardutho.org/api/root/469.json"
+        },
+        "words": [
+            {
+                "id": 4810,
+                "uri": "https://sedra.bethmardutho.org/api/word/4810.json"
+            },
+            {
+                "id": 42384,
+                "uri": "https://sedra.bethmardutho.org/api/word/42384.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

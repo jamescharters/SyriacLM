@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 3027,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3027.json"
+        },
+        "syriac": "\u072a\u071f\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0627\u0644, \u0627\u0646\u062d\u0646\u0649"
+            ],
+            "French": [
+                "d\u00e9cliner, s&#39;incliner"
+            ],
+            "English": [
+                "to incline.",
+                "end",
+                "bow",
+                "to decline",
+                "Ip to lean down",
+                "to condescend",
+                "Ia to incline, to bend down",
+                "to descend",
+                "to bend",
+                "IIIa to lower"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1763,
+            "uri": "https://sedra.bethmardutho.org/api/root/1763.json"
+        },
+        "words": [
+            {
+                "id": 19728,
+                "uri": "https://sedra.bethmardutho.org/api/word/19728.json"
+            },
+            {
+                "id": 19730,
+                "uri": "https://sedra.bethmardutho.org/api/word/19730.json"
+            },
+            {
+                "id": 19729,
+                "uri": "https://sedra.bethmardutho.org/api/word/19729.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

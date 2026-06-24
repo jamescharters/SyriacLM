@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1159,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1159.json"
+        },
+        "syriac": "\u071a\u072a\u072b\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0642\u064a"
+            ],
+            "French": [
+                "magie"
+            ],
+            "English": [
+                "witchcraft",
+                "magic",
+                "magic, sorcery, witchcraft."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 690,
+            "uri": "https://sedra.bethmardutho.org/api/root/690.json"
+        },
+        "words": [
+            {
+                "id": 7593,
+                "uri": "https://sedra.bethmardutho.org/api/word/7593.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

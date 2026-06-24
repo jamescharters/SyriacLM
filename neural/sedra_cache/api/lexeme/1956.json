@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1956,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1956.json"
+        },
+        "syriac": "\u0722\u071d\u0722\u0718\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Ninevite"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1168,
+            "uri": "https://sedra.bethmardutho.org/api/root/1168.json"
+        },
+        "words": [
+            {
+                "id": 29672,
+                "uri": "https://sedra.bethmardutho.org/api/word/29672.json"
+            },
+            {
+                "id": 12839,
+                "uri": "https://sedra.bethmardutho.org/api/word/12839.json"
+            },
+            {
+                "id": 12840,
+                "uri": "https://sedra.bethmardutho.org/api/word/12840.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

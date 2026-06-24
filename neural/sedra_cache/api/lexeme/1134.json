@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1134,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1134.json"
+        },
+        "syriac": "\u071a\u0728\u072a\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Hezron"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 677,
+            "uri": "https://sedra.bethmardutho.org/api/root/677.json"
+        },
+        "words": [
+            {
+                "id": 7491,
+                "uri": "https://sedra.bethmardutho.org/api/word/7491.json"
+            },
+            {
+                "id": 7490,
+                "uri": "https://sedra.bethmardutho.org/api/word/7490.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

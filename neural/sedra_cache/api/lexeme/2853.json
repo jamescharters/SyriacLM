@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2853,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2853.json"
+        },
+        "syriac": "\u0729\u0723\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Caesarea"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1691,
+            "uri": "https://sedra.bethmardutho.org/api/root/1691.json"
+        },
+        "words": [
+            {
+                "id": 18492,
+                "uri": "https://sedra.bethmardutho.org/api/word/18492.json"
+            },
+            {
+                "id": 18491,
+                "uri": "https://sedra.bethmardutho.org/api/word/18491.json"
+            },
+            {
+                "id": 18493,
+                "uri": "https://sedra.bethmardutho.org/api/word/18493.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

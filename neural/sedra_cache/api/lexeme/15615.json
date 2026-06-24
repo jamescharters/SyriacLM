@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15615,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15615.json"
+        },
+        "syriac": "\u0728\u0721\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0628\u0637, \u0639\u0635\u0628",
+                "\u0633\u062a\u0631"
+            ],
+            "French": [
+                "lier, bander",
+                "voiler"
+            ],
+            "English": [
+                "IIp.",
+                "Ia to bind up, join closely",
+                "IIa, IIIa to fasten, tie on"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3075,
+            "uri": "https://sedra.bethmardutho.org/api/root/3075.json"
+        },
+        "words": [
+            {
+                "id": 42102,
+                "uri": "https://sedra.bethmardutho.org/api/word/42102.json"
+            },
+            {
+                "id": 41506,
+                "uri": "https://sedra.bethmardutho.org/api/word/41506.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

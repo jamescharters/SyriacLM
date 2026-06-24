@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0729\u0722\u071b\u071d\u0721\u0710",
+        "western": "\u0729\u0736\u0722\u071b\u071d\u0721\u0733\u0710",
+        "lexeme": {
+            "id": 8136,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8136.json"
+        },
+        "stem": "\u0729\u0722\u071b\u071d\u0721\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0642\u0637\u0629",
+                "\u0647\u0646\u064a\u0647\u0629, \u0648\u0642\u062a"
+            ],
+            "eng": [
+                "point, instant.",
+                "a moment, minute"
+            ],
+            "fre": [
+                "point",
+                "moment"
+            ]
+        },
+        "word": {
+            "id": 58207,
+            "uri": "https://sedra.bethmardutho.org/api/word/58207.json"
+        }
+    }
+]

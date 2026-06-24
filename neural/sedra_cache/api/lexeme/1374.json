@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1374,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1374.json"
+        },
+        "syriac": "\u071d\u0720\u0718\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0648\u0644\u062f, \u0642\u0631\u064a\u0628"
+            ],
+            "French": [
+                "qui engendre, parent"
+            ],
+            "English": [
+                "parent",
+                "begetter",
+                "parent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 820,
+            "uri": "https://sedra.bethmardutho.org/api/root/820.json"
+        },
+        "words": [
+            {
+                "id": 9071,
+                "uri": "https://sedra.bethmardutho.org/api/word/9071.json"
+            },
+            {
+                "id": 9070,
+                "uri": "https://sedra.bethmardutho.org/api/word/9070.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

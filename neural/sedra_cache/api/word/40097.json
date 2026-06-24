@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u072a\u072b\u071d",
+        "western": "\u072b\u0730\u072a\u072b\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14669,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14669.json"
+        },
+        "stem": "\u072b\u072a\u072b\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to loose hold.",
+                "to eradicate",
+                "to facilitate",
+                "to loosen",
+                "IVp to strike root",
+                "to be relaxed",
+                "IVa to uproot"
+            ]
+        },
+        "word": {
+            "id": 40097,
+            "uri": "https://sedra.bethmardutho.org/api/word/40097.json"
+        }
+    }
+]

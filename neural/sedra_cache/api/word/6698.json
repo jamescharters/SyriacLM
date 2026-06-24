@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u0719\u071d\u0710",
+        "western": "\u071a\u0719\u0733\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 999,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/999.json"
+        },
+        "stem": "\u071a\u0719\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0635\u0631"
+            ],
+            "eng": [
+                "vision, perception.",
+                "sight",
+                "sight"
+            ],
+            "fre": [
+                "vue"
+            ]
+        },
+        "word": {
+            "id": 6698,
+            "uri": "https://sedra.bethmardutho.org/api/word/6698.json"
+        }
+    }
+]

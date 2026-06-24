@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072a\u0715\u071d\u0726\u0718\u072c\u0710",
+        "western": "\u072a\u0715\u0742\u073a\u071d\u0726\u0742\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2948,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2948.json"
+        },
+        "stem": "\u072a\u0715\u071d\u0726\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "persecution",
+                "persecuted state."
+            ]
+        },
+        "word": {
+            "id": 19229,
+            "uri": "https://sedra.bethmardutho.org/api/word/19229.json"
+        }
+    }
+]

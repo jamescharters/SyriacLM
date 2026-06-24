@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0723\u0712\u0710",
+        "western": "\u0723\u0733\u0712\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2048,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2048.json"
+        },
+        "stem": "\u0723\u0712\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "]\u0639\u062c\u0648\u0632[",
+                "\u0642\u062f\u064a\u0645",
+                "\u062c\u062f"
+            ],
+            "eng": [
+                "old man",
+                "elder.",
+                "aged",
+                "old"
+            ],
+            "fre": [
+                "a\u00efeul",
+                "vieux, ancien",
+                "vieillard\u2026"
+            ]
+        },
+        "word": {
+            "id": 13475,
+            "uri": "https://sedra.bethmardutho.org/api/word/13475.json"
+        }
+    }
+]

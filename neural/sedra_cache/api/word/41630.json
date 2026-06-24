@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0722\u072b\u072a\u0729",
+        "western": "\u0722\u0736\u072b\u072a\u0730\u0729",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15572,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15572.json"
+        },
+        "stem": "\u072b\u072a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0642"
+            ],
+            "eng": [
+                "IIIa to hiss, whistle",
+                "to whisper.",
+                "Ia to swallow"
+            ],
+            "fre": [
+                "fendre"
+            ]
+        },
+        "word": {
+            "id": 41630,
+            "uri": "https://sedra.bethmardutho.org/api/word/41630.json"
+        }
+    }
+]

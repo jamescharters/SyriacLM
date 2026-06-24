@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 15730,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15730.json"
+        },
+        "syriac": "\u0725\u0723\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0639\u0628"
+            ],
+            "French": [
+                "\u00eatre difficile"
+            ],
+            "English": [
+                "to be difficult.",
+                "difficult",
+                "hard",
+                "IIp to resist",
+                "Ia to be difficult, obstinate",
+                "to be indignant"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2270,
+            "uri": "https://sedra.bethmardutho.org/api/root/2270.json"
+        },
+        "words": [
+            {
+                "id": 15812,
+                "uri": "https://sedra.bethmardutho.org/api/word/15812.json"
+            },
+            {
+                "id": 15813,
+                "uri": "https://sedra.bethmardutho.org/api/word/15813.json"
+            },
+            {
+                "id": 15810,
+                "uri": "https://sedra.bethmardutho.org/api/word/15810.json"
+            },
+            {
+                "id": 41994,
+                "uri": "https://sedra.bethmardutho.org/api/word/41994.json"
+            },
+            {
+                "id": 41367,
+                "uri": "https://sedra.bethmardutho.org/api/word/41367.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0723\u072a\u071b",
+        "western": "\u0723\u072a\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2206,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2206.json"
+        },
+        "stem": "\u0723\u072a\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u062a\u0628",
+                "\u062e\u0637, \u0631\u0633\u0645",
+                "\u0634\u0643"
+            ],
+            "eng": [
+                "draw",
+                "to make a stroke, line",
+                "IIa to tear off skin",
+                "Ia to scratch",
+                "to write",
+                "to lacerate",
+                "trace",
+                "IIp."
+            ],
+            "fre": [
+                "tracer, dessiner",
+                "\u00e9crire",
+                "piquer"
+            ]
+        },
+        "word": {
+            "id": 14590,
+            "uri": "https://sedra.bethmardutho.org/api/word/14590.json"
+        }
+    }
+]

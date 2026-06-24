@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15284,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15284.json"
+        },
+        "syriac": "\u0728\u071d\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0627\u062f",
+                "\u0646\u0635\u0628 \u0634\u0631\u0643\u0627\u064b",
+                "\u0633\u0639\u0649 \u0648\u0631\u0627\u0621 \u062d\u062c\u062c"
+            ],
+            "French": [
+                "chasser",
+                "tendre un pi\u00e8ge",
+                "chercher un pr\u00e9texte"
+            ],
+            "English": [
+                "IIa to hunt, catch (see <span class=\"selectableFont\">\u0728\u0733\u0715</span>)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3064,
+            "uri": "https://sedra.bethmardutho.org/api/root/3064.json"
+        },
+        "words": [
+            {
+                "id": 46061,
+                "uri": "https://sedra.bethmardutho.org/api/word/46061.json"
+            },
+            {
+                "id": 41183,
+                "uri": "https://sedra.bethmardutho.org/api/word/41183.json"
+            },
+            {
+                "id": 41124,
+                "uri": "https://sedra.bethmardutho.org/api/word/41124.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

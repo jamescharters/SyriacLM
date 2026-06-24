@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0728\u0718\u0721\u0710",
+        "western": "\u0728\u0730\u0718\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2671,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2671.json"
+        },
+        "stem": "\u0728\u0718\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0648\u0645"
+            ],
+            "eng": [
+                "fast",
+                "fast, abstinence",
+                "<span class=\"selectableFont\">\u0728\u0730\u0718\u0721\u0733\u0710 \u072a\u0730\u0712\u0733\u0710</span> Lent."
+            ],
+            "fre": [
+                "je\u00fbne"
+            ]
+        },
+        "word": {
+            "id": 17405,
+            "uri": "https://sedra.bethmardutho.org/api/word/17405.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1807,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1807.json"
+        },
+        "syriac": "\u0721\u0722\u071a\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u062a\u0627\u0628\u0639\u0629"
+            ],
+            "French": [
+                "l&#39;ann\u00e9e suivante"
+            ],
+            "English": [
+                "year",
+                "the next year."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1078,
+            "uri": "https://sedra.bethmardutho.org/api/root/1078.json"
+        },
+        "words": [
+            {
+                "id": 12038,
+                "uri": "https://sedra.bethmardutho.org/api/word/12038.json"
+            },
+            {
+                "id": 12037,
+                "uri": "https://sedra.bethmardutho.org/api/word/12037.json"
+            }
+        ],
+        "category": "adverb"
+    }
+]

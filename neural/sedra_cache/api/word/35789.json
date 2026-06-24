@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072a\u0721\u071d\u0710",
+        "western": "\u072a\u0721\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7143,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7143.json"
+        },
+        "stem": "\u072a\u0721\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0645\u064a"
+            ],
+            "eng": [
+                "a throw",
+                "patch",
+                "subscribing.",
+                "<span class=\"selectableFont\">\u072a\u0721\u0733\u071d \u0710\u073a\u071d\u0715\u0733\u0710</span> signature",
+                "removal"
+            ],
+            "fre": [
+                "jet"
+            ]
+        },
+        "word": {
+            "id": 35789,
+            "uri": "https://sedra.bethmardutho.org/api/word/35789.json"
+        }
+    }
+]

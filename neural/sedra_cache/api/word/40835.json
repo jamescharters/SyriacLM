@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0722\u071f",
+        "western": "\u0710\u0736\u0722\u0730\u071f",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15654,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15654.json"
+        },
+        "stem": "\u0710\u0722\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to cover with tin",
+                "Ip."
+            ]
+        },
+        "word": {
+            "id": 40835,
+            "uri": "https://sedra.bethmardutho.org/api/word/40835.json"
+        }
+    }
+]

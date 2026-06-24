@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0712\u071f\u072a",
+        "western": "\u0712\u0741\u071f\u0742\u0730\u072a",
+        "eastern": "\u0712\u0741\u071f\u0742\u0732\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 396,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/396.json"
+        },
+        "stem": "\u0712\u071f\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0636\u062c",
+                "\u0643\u0627\u0646 \u0627\u0644\u0623\u0648\u0644"
+            ],
+            "eng": [
+                "IIp.",
+                "Ip to be firstborn",
+                "be first",
+                "Ia to be first, to mature",
+                "to be first (to do something)",
+                "IIa to bring first fruits"
+            ],
+            "fre": [
+                "\u00eatre le premier",
+                "\u00eatre m\u00fbr"
+            ]
+        },
+        "word": {
+            "id": 2759,
+            "uri": "https://sedra.bethmardutho.org/api/word/2759.json"
+        }
+    }
+]

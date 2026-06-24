@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 1268,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1268.json"
+        },
+        "syriac": "\u071b\u0726\u071b\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "flicker",
+                "IVa to flicker."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 746,
+            "uri": "https://sedra.bethmardutho.org/api/root/746.json"
+        },
+        "words": [
+            {
+                "id": 8321,
+                "uri": "https://sedra.bethmardutho.org/api/word/8321.json"
+            },
+            {
+                "id": 25219,
+                "uri": "https://sedra.bethmardutho.org/api/word/25219.json"
+            },
+            {
+                "id": 25218,
+                "uri": "https://sedra.bethmardutho.org/api/word/25218.json"
+            },
+            {
+                "id": 8320,
+                "uri": "https://sedra.bethmardutho.org/api/word/8320.json"
+            },
+            {
+                "id": 25221,
+                "uri": "https://sedra.bethmardutho.org/api/word/25221.json"
+            },
+            {
+                "id": 25220,
+                "uri": "https://sedra.bethmardutho.org/api/word/25220.json"
+            },
+            {
+                "id": 8322,
+                "uri": "https://sedra.bethmardutho.org/api/word/8322.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

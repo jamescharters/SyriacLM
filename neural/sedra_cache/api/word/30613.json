@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0726\u0718\u0720\u0718\u0723",
+        "western": "\u0726\u0733\u0718\u0720\u0733\u0718\u0723",
+        "number": "singular",
+        "lexeme": {
+            "id": 9263,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9263.json"
+        },
+        "stem": "\u0726\u0718\u0720\u0718\u0723",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0628"
+            ],
+            "eng": [
+                "pole."
+            ],
+            "fre": [
+                "p\u00f4le"
+            ]
+        },
+        "word": {
+            "id": 30613,
+            "uri": "https://sedra.bethmardutho.org/api/word/30613.json"
+        }
+    }
+]

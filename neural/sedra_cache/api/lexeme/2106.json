@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2106,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2106.json"
+        },
+        "syriac": "\u0723\u0718\u071a\u0726\u0710",
+        "glosses": {
+            "English": [
+                "overthrow, destruction.",
+                "destruction",
+                "demolition",
+                "overthrow",
+                "subversion",
+                "upsetting"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1258,
+            "uri": "https://sedra.bethmardutho.org/api/root/1258.json"
+        },
+        "words": [
+            {
+                "id": 13981,
+                "uri": "https://sedra.bethmardutho.org/api/word/13981.json"
+            },
+            {
+                "id": 13983,
+                "uri": "https://sedra.bethmardutho.org/api/word/13983.json"
+            },
+            {
+                "id": 13982,
+                "uri": "https://sedra.bethmardutho.org/api/word/13982.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

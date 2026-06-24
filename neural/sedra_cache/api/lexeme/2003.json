@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 2003,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2003.json"
+        },
+        "syriac": "\u0722\u0726\u0729\u072c\u0710",
+        "glosses": {
+            "English": [
+                "expense",
+                "cost",
+                "outlay",
+                "payment",
+                "expense, outgoings, cost."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1194,
+            "uri": "https://sedra.bethmardutho.org/api/root/1194.json"
+        },
+        "words": [
+            {
+                "id": 13237,
+                "uri": "https://sedra.bethmardutho.org/api/word/13237.json"
+            },
+            {
+                "id": 13236,
+                "uri": "https://sedra.bethmardutho.org/api/word/13236.json"
+            },
+            {
+                "id": 13239,
+                "uri": "https://sedra.bethmardutho.org/api/word/13239.json"
+            },
+            {
+                "id": 13238,
+                "uri": "https://sedra.bethmardutho.org/api/word/13238.json"
+            },
+            {
+                "id": 42244,
+                "uri": "https://sedra.bethmardutho.org/api/word/42244.json"
+            },
+            {
+                "id": 13240,
+                "uri": "https://sedra.bethmardutho.org/api/word/13240.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

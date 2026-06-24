@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 1086,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1086.json"
+        },
+        "syriac": "\u071a\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0636\u0646",
+                "\u0623\u0639\u0636\u0627\u0621 \u062a\u0646\u0627\u0633\u0644\u064a\u0629"
+            ],
+            "French": [
+                "sein",
+                "organs g\u00e9nitaux"
+            ],
+            "English": [
+                "Anna",
+                "privy parts, penis.",
+                "bending",
+                "lap"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 651,
+            "uri": "https://sedra.bethmardutho.org/api/root/651.json"
+        },
+        "words": [
+            {
+                "id": 7276,
+                "uri": "https://sedra.bethmardutho.org/api/word/7276.json"
+            },
+            {
+                "id": 7277,
+                "uri": "https://sedra.bethmardutho.org/api/word/7277.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

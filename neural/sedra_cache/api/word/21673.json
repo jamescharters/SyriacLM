@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0718\u0722\u072b\u072c\u0722\u0729",
+        "western": "\u0718\u0722\u0736\u072b\u072c\u0741\u0730\u0722\u0730\u0729",
+        "tense": "imperfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15318,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15318.json"
+        },
+        "stem": "\u072b\u0722\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0643\u0644 (\u0645\u0636), \u0639\u0630\u0628 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "torment",
+                "phthisical",
+                "IIa to inflict severe pain, torture",
+                "to be punished.",
+                "IIp to be tormented"
+            ],
+            "fre": [
+                "\u00a0",
+                "supplicier, tourmenter"
+            ]
+        },
+        "word": {
+            "id": 21673,
+            "uri": "https://sedra.bethmardutho.org/api/word/21673.json"
+        }
+    }
+]

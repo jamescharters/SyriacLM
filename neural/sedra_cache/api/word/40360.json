@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072c\u072b\u0725\u072c",
+        "western": "\u072c\u0730\u072b\u0725\u0736\u072c",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14667,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14667.json"
+        },
+        "stem": "\u072c\u072b\u0725\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062e\u062a\u0644\u0642 \u0642\u0635\u0635\u0627\u064b",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVa to make up a story."
+            ],
+            "fre": [
+                "inventer des histories",
+                "inventer (une histoire)\u2026"
+            ]
+        },
+        "word": {
+            "id": 40360,
+            "uri": "https://sedra.bethmardutho.org/api/word/40360.json"
+        }
+    }
+]

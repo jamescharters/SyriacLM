@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 317,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/317.json"
+        },
+        "syriac": "\u0721\u0710\u072c\u071d\u0710",
+        "glosses": {
+            "English": [
+                "arrival",
+                "presence",
+                "advent",
+                "arrival, coming."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 234,
+            "uri": "https://sedra.bethmardutho.org/api/root/234.json"
+        },
+        "words": [
+            {
+                "id": 2158,
+                "uri": "https://sedra.bethmardutho.org/api/word/2158.json"
+            },
+            {
+                "id": 2157,
+                "uri": "https://sedra.bethmardutho.org/api/word/2157.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

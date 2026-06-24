@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071f\u0721\u0710\u0722\u0710",
+        "western": "\u071f\u0742\u0721\u073a\u0710\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1540,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1540.json"
+        },
+        "stem": "\u071f\u0721\u0710\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0643\u0627\u064a\u062f"
+            ],
+            "eng": [
+                "ambush",
+                "ambush."
+            ],
+            "fre": [
+                "emb\u00fbches"
+            ]
+        },
+        "word": {
+            "id": 10090,
+            "uri": "https://sedra.bethmardutho.org/api/word/10090.json"
+        }
+    }
+]

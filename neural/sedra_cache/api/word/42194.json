@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0722\u0715\u0725\u072c",
+        "western": "\u0722\u0736\u0715\u0725\u0730\u072c",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15776,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15776.json"
+        },
+        "stem": "\u0715\u0725\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0639\u0628",
+                "\u0639\u0631\u0642"
+            ],
+            "eng": [
+                "Ia, to perspire, sweat",
+                "IIa."
+            ],
+            "fre": [
+                "se fatiguer",
+                "transpirer"
+            ]
+        },
+        "word": {
+            "id": 42194,
+            "uri": "https://sedra.bethmardutho.org/api/word/42194.json"
+        }
+    }
+]

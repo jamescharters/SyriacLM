@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072a\u071a\u0726",
+        "western": "\u072a\u0730\u071a\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14974,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14974.json"
+        },
+        "stem": "\u072a\u071a\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0636\u0639 \u0627\u0644\u0623\u064a\u062f\u064a, \u0643\u0631\u0633"
+            ],
+            "eng": [
+                "IIa to hover over",
+                "to pit, to cherish",
+                "Lit. to move to and fro (of hand)."
+            ],
+            "fre": [
+                "imposer les mains, consacrer"
+            ]
+        },
+        "word": {
+            "id": 40916,
+            "uri": "https://sedra.bethmardutho.org/api/word/40916.json"
+        }
+    }
+]

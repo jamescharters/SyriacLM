@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2963,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2963.json"
+        },
+        "syriac": "\u072a\u0718\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0643\u0631\u0627\u0646",
+                "\u0645\u0636\u0637\u0631\u0645"
+            ],
+            "French": [
+                "ivre",
+                "ardent"
+            ],
+            "English": [
+                "drunkard",
+                "drunkard",
+                "ardent.",
+                "thirsty"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1738,
+            "uri": "https://sedra.bethmardutho.org/api/root/1738.json"
+        },
+        "words": [
+            {
+                "id": 19328,
+                "uri": "https://sedra.bethmardutho.org/api/word/19328.json"
+            },
+            {
+                "id": 19327,
+                "uri": "https://sedra.bethmardutho.org/api/word/19327.json"
+            },
+            {
+                "id": 19271,
+                "uri": "https://sedra.bethmardutho.org/api/word/19271.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

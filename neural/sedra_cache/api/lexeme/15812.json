@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 15812,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15812.json"
+        },
+        "syriac": "\u0722\u0717\u0719",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "to torment",
+                "to agitate",
+                "Ia to disturb, annoy",
+                "Ip",
+                "IIp.",
+                "IIa to shake, to rattle, rumble"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2530,
+            "uri": "https://sedra.bethmardutho.org/api/root/2530.json"
+        },
+        "words": [
+            {
+                "id": 41920,
+                "uri": "https://sedra.bethmardutho.org/api/word/41920.json"
+            },
+            {
+                "id": 41690,
+                "uri": "https://sedra.bethmardutho.org/api/word/41690.json"
+            },
+            {
+                "id": 40150,
+                "uri": "https://sedra.bethmardutho.org/api/word/40150.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

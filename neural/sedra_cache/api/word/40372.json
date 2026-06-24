@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071d\u071a\u071b",
+        "western": "\u071d\u073a\u071a\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15538,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15538.json"
+        },
+        "stem": "\u071d\u071a\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to abort.",
+                "Ia to have a miscarriage"
+            ]
+        },
+        "word": {
+            "id": 40372,
+            "uri": "https://sedra.bethmardutho.org/api/word/40372.json"
+        }
+    }
+]

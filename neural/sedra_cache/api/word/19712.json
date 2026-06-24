@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0721\u072a\u071f\u0712\u072c\u0710",
+        "western": "\u0715\u0741\u0721\u0730\u072a\u071f\u0741\u0712\u0742\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3024,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3024.json"
+        },
+        "stem": "\u0721\u072a\u071f\u0712\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646\u0642\u0644\u0629, \u0639\u0631\u0628\u0629",
+                "\u0639\u0631\u0634"
+            ],
+            "eng": [
+                "chariot, vehicle, carriage",
+                "ship.",
+                "throne",
+                "chariot"
+            ],
+            "fre": [
+                "tr\u00f4ne",
+                "v\u00e9hicule, char"
+            ]
+        },
+        "word": {
+            "id": 19712,
+            "uri": "https://sedra.bethmardutho.org/api/word/19712.json"
+        }
+    }
+]

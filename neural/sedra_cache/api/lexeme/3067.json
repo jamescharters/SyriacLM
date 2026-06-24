@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 3067,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3067.json"
+        },
+        "syriac": "\u072a\u0728\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0635\u0628 (\u0645\u0636- \u0637\u0631\u064a\u0642\u0627\u064b)",
+                "\u0631\u0635\u0641, \u0648\u062d\u062f \u0628\u0634\u062f\u0629",
+                "\u0623\u0633\u0631\u0639 (\u0627\u0644\u062e\u0637\u0649)",
+                "\u00a0"
+            ],
+            "French": [
+                "empierrer (une route)",
+                "unir \u00e9troitement",
+                "presser (le pas)",
+                "\u00a0"
+            ],
+            "English": [
+                "set closely",
+                "Ia to put close together, to condense, to make solid, to crowd, to create mosaic",
+                "Ip",
+                "IIIa to condense, to contract."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1786,
+            "uri": "https://sedra.bethmardutho.org/api/root/1786.json"
+        },
+        "words": [
+            {
+                "id": 19968,
+                "uri": "https://sedra.bethmardutho.org/api/word/19968.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

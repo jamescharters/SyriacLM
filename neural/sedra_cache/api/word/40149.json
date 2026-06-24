@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0723\u071b\u072a",
+        "western": "\u0723\u0730\u071b\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15194,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15194.json"
+        },
+        "stem": "\u0723\u071b\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0634\u0637\u0649 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to turn aside",
+                "IIIa to ascribe.",
+                "IIa to cut in two",
+                "IIp to have divisions, to dispute"
+            ],
+            "fre": [
+                "d\u00e9pecer"
+            ]
+        },
+        "word": {
+            "id": 40149,
+            "uri": "https://sedra.bethmardutho.org/api/word/40149.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u0718\u071f\u0721\u072c\u0710",
+        "western": "\u0710\u073d\u0718\u071f\u0741\u0733\u0721\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 120,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/120.json"
+        },
+        "stem": "\u0710\u0718\u071f\u0721\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0633\u0648\u062f"
+            ],
+            "eng": [
+                "dark.",
+                "black",
+                "black"
+            ],
+            "fre": [
+                "noir"
+            ]
+        },
+        "word": {
+            "id": 876,
+            "uri": "https://sedra.bethmardutho.org/api/word/876.json"
+        }
+    }
+]

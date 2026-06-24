@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0721\u0718\u072a\u0710",
+        "western": "\u0721\u073d\u0718\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1834,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1834.json"
+        },
+        "stem": "\u0721\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "degree (of circle)",
+                "myrrh.",
+                "myrrh"
+            ]
+        },
+        "word": {
+            "id": 12140,
+            "uri": "https://sedra.bethmardutho.org/api/word/12140.json"
+        }
+    }
+]

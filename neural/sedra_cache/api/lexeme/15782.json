@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15782,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15782.json"
+        },
+        "syriac": "\u0723\u071b",
+        "glosses": {
+            "English": [
+                "IIp.",
+                "Ia to be burnt up, to be parched",
+                "IIa <span class=\"selectableFont\">\u0723\u0730\u071d\u0736\u071b</span> to scorch, to burn up"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2547,
+            "uri": "https://sedra.bethmardutho.org/api/root/2547.json"
+        },
+        "words": [
+            {
+                "id": 41639,
+                "uri": "https://sedra.bethmardutho.org/api/word/41639.json"
+            },
+            {
+                "id": 41220,
+                "uri": "https://sedra.bethmardutho.org/api/word/41220.json"
+            },
+            {
+                "id": 41086,
+                "uri": "https://sedra.bethmardutho.org/api/word/41086.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1504,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1504.json"
+        },
+        "syriac": "\u072c\u071f\u072b\u0726\u072c\u0710",
+        "glosses": {
+            "English": [
+                "supplication",
+                "supplication, entreaty, intercession."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 888,
+            "uri": "https://sedra.bethmardutho.org/api/root/888.json"
+        },
+        "words": [
+            {
+                "id": 9887,
+                "uri": "https://sedra.bethmardutho.org/api/word/9887.json"
+            },
+            {
+                "id": 9888,
+                "uri": "https://sedra.bethmardutho.org/api/word/9888.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethpa\u02bf\u02bfal"
+    }
+]

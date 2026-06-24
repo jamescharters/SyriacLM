@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 20772,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20772.json"
+        },
+        "syriac": "\u0712\u0723\u072c\u0718\u0729\u0710",
+        "glosses": {
+            "English": [
+                "a bottle",
+                "little earthen pot"
+            ]
+        },
+        "etymologies": {
+            "Persian": [
+                null
+            ]
+        },
+        "words": [
+            {
+                "id": 47672,
+                "uri": "https://sedra.bethmardutho.org/api/word/47672.json"
+            },
+            {
+                "id": 47146,
+                "uri": "https://sedra.bethmardutho.org/api/word/47146.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

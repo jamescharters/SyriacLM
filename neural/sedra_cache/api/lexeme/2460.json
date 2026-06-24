@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2460,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2460.json"
+        },
+        "syriac": "\u0726\u0718\u0713",
+        "glosses": {
+            "English": [
+                "Ia to cool, to grow cold",
+                "cold",
+                "IIp",
+                "to relieve",
+                "to cool down, to calm.",
+                "IIa to refresh",
+                "to abate, to diminish",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u073a\u071d\u0713</span> to quench the thirst"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1454,
+            "uri": "https://sedra.bethmardutho.org/api/root/1454.json"
+        },
+        "words": [
+            {
+                "id": 16207,
+                "uri": "https://sedra.bethmardutho.org/api/word/16207.json"
+            },
+            {
+                "id": 16206,
+                "uri": "https://sedra.bethmardutho.org/api/word/16206.json"
+            },
+            {
+                "id": 42362,
+                "uri": "https://sedra.bethmardutho.org/api/word/42362.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 2357,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2357.json"
+        },
+        "syriac": "\u0721\u0725\u0721\u072a\u0710",
+        "glosses": {
+            "English": [
+                "habitation",
+                "abode",
+                "dwelling, abode."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1398,
+            "uri": "https://sedra.bethmardutho.org/api/root/1398.json"
+        },
+        "words": [
+            {
+                "id": 15714,
+                "uri": "https://sedra.bethmardutho.org/api/word/15714.json"
+            },
+            {
+                "id": 15715,
+                "uri": "https://sedra.bethmardutho.org/api/word/15715.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

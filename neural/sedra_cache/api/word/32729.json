@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u071f\u0718\u072a\u0723\u072c\u0710",
+        "western": "\u071f\u073d\u0718\u072a\u0733\u0723\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8630,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8630.json"
+        },
+        "stem": "\u071f\u0718\u072a\u0723\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "quire",
+                "service book for burial of clergy."
+            ]
+        },
+        "word": {
+            "id": 32729,
+            "uri": "https://sedra.bethmardutho.org/api/word/32729.json"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0720\u0718\u0715\u072a\u0710",
+        "western": "\u0720\u073d\u0718\u0715\u0730\u072a\u0733\u0710",
+        "lexeme": {
+            "id": 38655,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/38655.json"
+        },
+        "stem": "\u0720\u0718\u0715\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "syr": [
+                "informer, slanderer"
+            ]
+        },
+        "word": {
+            "id": 65010,
+            "uri": "https://sedra.bethmardutho.org/api/word/65010.json"
+        }
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 2617,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2617.json"
+        },
+        "syriac": "\u0726\u072a\u071d\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062e\u062a\u0644\u0641, \u0645\u062a\u0645\u064a\u0632",
+                "\u0628\u0627\u0631\u0639, \u0634\u0631\u064a\u0641",
+                "\u0641\u0631\u064a\u0633\u064a"
+            ],
+            "French": [
+                "diff\u00e9rent, distinct",
+                "excellent, noble",
+                "pharisien"
+            ],
+            "English": [
+                "Pharisee.",
+                "different, distinct",
+                "Pharisee",
+                "distinguished"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1553,
+            "uri": "https://sedra.bethmardutho.org/api/root/1553.json"
+        },
+        "words": [
+            {
+                "id": 17038,
+                "uri": "https://sedra.bethmardutho.org/api/word/17038.json"
+            },
+            {
+                "id": 17037,
+                "uri": "https://sedra.bethmardutho.org/api/word/17037.json"
+            },
+            {
+                "id": 17036,
+                "uri": "https://sedra.bethmardutho.org/api/word/17036.json"
+            },
+            {
+                "id": 17035,
+                "uri": "https://sedra.bethmardutho.org/api/word/17035.json"
+            },
+            {
+                "id": 17034,
+                "uri": "https://sedra.bethmardutho.org/api/word/17034.json"
+            },
+            {
+                "id": 17040,
+                "uri": "https://sedra.bethmardutho.org/api/word/17040.json"
+            },
+            {
+                "id": 17039,
+                "uri": "https://sedra.bethmardutho.org/api/word/17039.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

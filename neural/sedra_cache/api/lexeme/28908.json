@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28908,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28908.json"
+        },
+        "syriac": "\u0710\u071d\u071f\u0723\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f30\u03be\u03cc\u03c2"
+            ],
+            "English": [
+                "oak-mistletoe, Hozanthus europaeus"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f30\u03be\u03cc\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49408,
+                "uri": "https://sedra.bethmardutho.org/api/word/49408.json"
+            },
+            {
+                "id": 55282,
+                "uri": "https://sedra.bethmardutho.org/api/word/55282.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

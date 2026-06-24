@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 444,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/444.json"
+        },
+        "syriac": "\u0712\u0728\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "inferior",
+                "less",
+                "least",
+                "worse",
+                "defective, scanty, wanting, defective."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 302,
+            "uri": "https://sedra.bethmardutho.org/api/root/302.json"
+        },
+        "words": [
+            {
+                "id": 3101,
+                "uri": "https://sedra.bethmardutho.org/api/word/3101.json"
+            }
+        ],
+        "category": "participle adjective"
+    }
+]

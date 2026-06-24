@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 39,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/39.json"
+        },
+        "syriac": "\u0710\u0718",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0648",
+                "\u0645\u0646"
+            ],
+            "French": [
+                "ou",
+                "que"
+            ],
+            "English": [
+                "or",
+                "else",
+                "rather than",
+                "or."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 32,
+            "uri": "https://sedra.bethmardutho.org/api/root/32.json"
+        },
+        "words": [
+            {
+                "id": 256,
+                "uri": "https://sedra.bethmardutho.org/api/word/256.json"
+            },
+            {
+                "id": 255,
+                "uri": "https://sedra.bethmardutho.org/api/word/255.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

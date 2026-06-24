@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0719\u0718\u0719\u071d",
+        "western": "\u0719\u0730\u0718\u0719\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14724,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14724.json"
+        },
+        "stem": "\u0719\u0718\u0719\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to threaten",
+                "IVa to swell",
+                "IVp to swagger, behave haughtily."
+            ]
+        },
+        "word": {
+            "id": 39993,
+            "uri": "https://sedra.bethmardutho.org/api/word/39993.json"
+        }
+    }
+]

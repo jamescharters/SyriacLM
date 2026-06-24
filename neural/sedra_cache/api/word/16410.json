@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0721\u0726\u0720\u0713\u0722\u0710",
+        "western": "\u0718\u0730\u0721\u0726\u0742\u0730\u0720\u0713\u0742\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2518,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2518.json"
+        },
+        "stem": "\u0721\u0726\u0720\u0713\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646\u0635\u0641"
+            ],
+            "eng": [
+                "divider, separating.",
+                "divider"
+            ],
+            "fre": [
+                "arbitre"
+            ]
+        },
+        "word": {
+            "id": 16410,
+            "uri": "https://sedra.bethmardutho.org/api/word/16410.json"
+        }
+    }
+]

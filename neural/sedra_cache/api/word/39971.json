@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072c\u0710\u072a",
+        "western": "\u072c\u0710\u0730\u072a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14930,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14930.json"
+        },
+        "stem": "\u072c\u0710\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to observe, contemplate",
+                "IIa <span class=\"selectableFont\">\u072c\u0730\u0710\u0730\u072a</span> to suggest",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0730\u0710\u0730\u072a</span> to be prompted by instinct."
+            ]
+        },
+        "word": {
+            "id": 39971,
+            "uri": "https://sedra.bethmardutho.org/api/word/39971.json"
+        }
+    }
+]

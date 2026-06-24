@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u072b\u071a\u071b\u0718\u072c\u0710",
+        "western": "\u0721\u072b\u0730\u071a\u071b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13687,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13687.json"
+        },
+        "stem": "\u0721\u072b\u071a\u071b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0633\u0627\u062f"
+            ],
+            "eng": [
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> innocence, purity.",
+                "corruption"
+            ],
+            "fre": [
+                "corruption"
+            ]
+        },
+        "word": {
+            "id": 36969,
+            "uri": "https://sedra.bethmardutho.org/api/word/36969.json"
+        }
+    }
+]

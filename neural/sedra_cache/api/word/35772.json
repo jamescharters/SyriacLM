@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u0713\u0710",
+        "western": "\u0720\u0736\u0713\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13880,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13880.json"
+        },
+        "stem": "\u0720\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0631\u0633\u062e"
+            ],
+            "eng": [
+                "league (distance)."
+            ],
+            "fre": [
+                "lieue"
+            ]
+        },
+        "word": {
+            "id": 35772,
+            "uri": "https://sedra.bethmardutho.org/api/word/35772.json"
+        }
+    }
+]

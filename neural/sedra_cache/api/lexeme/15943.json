@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 15943,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15943.json"
+        },
+        "syriac": "\u0715\u0712\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0633\u0639, \u0639\u0636",
+                ""
+            ],
+            "French": [
+                "piquer , mordre",
+                ""
+            ],
+            "English": [
+                "Ia to prick, sting",
+                "IIa to puncture.",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2652,
+            "uri": "https://sedra.bethmardutho.org/api/root/2652.json"
+        },
+        "words": [
+            {
+                "id": 42042,
+                "uri": "https://sedra.bethmardutho.org/api/word/42042.json"
+            },
+            {
+                "id": 41843,
+                "uri": "https://sedra.bethmardutho.org/api/word/41843.json"
+            },
+            {
+                "id": 40637,
+                "uri": "https://sedra.bethmardutho.org/api/word/40637.json"
+            },
+            {
+                "id": 42198,
+                "uri": "https://sedra.bethmardutho.org/api/word/42198.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

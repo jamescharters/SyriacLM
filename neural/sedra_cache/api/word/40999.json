@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0719\u0725\u0719\u0725",
+        "western": "\u0719\u0730\u0725\u0719\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14821,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14821.json"
+        },
+        "stem": "\u0719\u0725\u0719\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062d\u0631\u0643 (\u0645\u0636), \u0647\u0632 , \u0632\u0639\u0632\u0639",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVa to shake, to cause to tremble",
+                "to jostle.",
+                "IVp to be greatly moved"
+            ],
+            "fre": [
+                "remuer, secouer, \u00e9branler",
+                "remuer\u2026",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40999,
+            "uri": "https://sedra.bethmardutho.org/api/word/40999.json"
+        }
+    }
+]

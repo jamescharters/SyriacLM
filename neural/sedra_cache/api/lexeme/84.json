@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 84,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/84.json"
+        },
+        "syriac": "\u0710\u071d\u071f\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0645\u0627\u0630\u0627\u061f"
+            ],
+            "French": [
+                "pourquoi?"
+            ],
+            "English": [
+                "as",
+                "how",
+                "how?, as",
+                "<span class=\"selectableFont\">\u0715\u0730\u0710\u071d\u071f \u0710\u0730\u071d\u071f\u0730\u0722\u0733\u0710</span> for example.",
+                "+ -<span class=\"selectableFont\">\u0715</span> so that"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 67,
+            "uri": "https://sedra.bethmardutho.org/api/root/67.json"
+        },
+        "words": [
+            {
+                "id": 639,
+                "uri": "https://sedra.bethmardutho.org/api/word/639.json"
+            },
+            {
+                "id": 638,
+                "uri": "https://sedra.bethmardutho.org/api/word/638.json"
+            },
+            {
+                "id": 637,
+                "uri": "https://sedra.bethmardutho.org/api/word/637.json"
+            },
+            {
+                "id": 636,
+                "uri": "https://sedra.bethmardutho.org/api/word/636.json"
+            },
+            {
+                "id": 635,
+                "uri": "https://sedra.bethmardutho.org/api/word/635.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

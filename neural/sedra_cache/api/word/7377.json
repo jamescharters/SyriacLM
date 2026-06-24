@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071a\u0723\u0722\u0710",
+        "western": "\u071a\u0736\u0723\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1113,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1113.json"
+        },
+        "stem": "\u071a\u0723\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0644\u0639\u0629"
+            ],
+            "eng": [
+                "fortress, stronghold.",
+                "stronghold"
+            ],
+            "fre": [
+                "citadelle"
+            ]
+        },
+        "word": {
+            "id": 7377,
+            "uri": "https://sedra.bethmardutho.org/api/word/7377.json"
+        }
+    }
+]

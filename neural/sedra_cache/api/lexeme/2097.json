@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2097,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2097.json"
+        },
+        "syriac": "\u0723\u0718\u0723\u072c\u0722\u071d\u0723",
+        "glosses": {
+            "English": [
+                "Sosthenes"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1253,
+            "uri": "https://sedra.bethmardutho.org/api/root/1253.json"
+        },
+        "words": [
+            {
+                "id": 13945,
+                "uri": "https://sedra.bethmardutho.org/api/word/13945.json"
+            },
+            {
+                "id": 13944,
+                "uri": "https://sedra.bethmardutho.org/api/word/13944.json"
+            },
+            {
+                "id": 13946,
+                "uri": "https://sedra.bethmardutho.org/api/word/13946.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 1630,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1630.json"
+        },
+        "syriac": "\u0720\u0715\u071d\u0729\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Laodicea"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 956,
+            "uri": "https://sedra.bethmardutho.org/api/root/956.json"
+        },
+        "words": [
+            {
+                "id": 9925,
+                "uri": "https://sedra.bethmardutho.org/api/word/9925.json"
+            },
+            {
+                "id": 10897,
+                "uri": "https://sedra.bethmardutho.org/api/word/10897.json"
+            },
+            {
+                "id": 10894,
+                "uri": "https://sedra.bethmardutho.org/api/word/10894.json"
+            },
+            {
+                "id": 10895,
+                "uri": "https://sedra.bethmardutho.org/api/word/10895.json"
+            },
+            {
+                "id": 10893,
+                "uri": "https://sedra.bethmardutho.org/api/word/10893.json"
+            },
+            {
+                "id": 10892,
+                "uri": "https://sedra.bethmardutho.org/api/word/10892.json"
+            },
+            {
+                "id": 10896,
+                "uri": "https://sedra.bethmardutho.org/api/word/10896.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

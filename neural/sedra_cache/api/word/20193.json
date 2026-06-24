@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u0712\u071d\u072c\u0710",
+        "western": "\u072b\u0712\u0742\u073a\u071d\u072c\u0742\u0733\u0710",
+        "eastern": "\u072b\u0712\u071d\u0739\u072c\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3100,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3100.json"
+        },
+        "stem": "\u072b\u0712\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "dill",
+                "anise",
+                "<em>Anethum graveolens</em>",
+                "<span class=\"selectableFont\">\u072b\u0712\u073a\u071d\u072c\u0733\u0710 \u0715\u0715\u0730\u071d\u072a\u0308</span><span class=\"selectableFont\">\u0733\u071d\u0736\u0710</span> Lit. monastic prayer book.",
+                "captivity",
+                "booty",
+                "captivity",
+                "captives"
+            ]
+        },
+        "word": {
+            "id": 20193,
+            "uri": "https://sedra.bethmardutho.org/api/word/20193.json"
+        }
+    }
+]

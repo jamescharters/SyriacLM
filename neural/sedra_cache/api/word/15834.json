@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0725\u0723\u072a",
+        "western": "\u0725\u0723\u0730\u072a",
+        "state": "absolute",
+        "lexeme": {
+            "id": 11478,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11478.json"
+        },
+        "stem": "\u0725\u0723\u072a",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0634\u0631\u0629"
+            ],
+            "eng": [
+                "ten.",
+                "ten.",
+                "ten"
+            ],
+            "fre": [
+                "dix"
+            ]
+        },
+        "word": {
+            "id": 15834,
+            "uri": "https://sedra.bethmardutho.org/api/word/15834.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0715\u0725\u072a\u071b\u0720\u071d",
+        "western": "\u0715\u0741\u0725\u0730\u072a\u071b\u0736\u0720\u0733\u071d",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2414,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2414.json"
+        },
+        "stem": "\u0725\u072a\u071b\u0720\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0627\u0631"
+            ],
+            "eng": [
+                "naked, bare, exposed",
+                "bare",
+                "naked",
+                "exposed",
+                "simple, straightforward."
+            ],
+            "fre": [
+                "nu"
+            ]
+        },
+        "word": {
+            "id": 15974,
+            "uri": "https://sedra.bethmardutho.org/api/word/15974.json"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0710\u071a\u0719",
+        "western": "\u0710\u0733\u071a\u0733\u0719",
+        "eastern": "\u0710\u0735\u071a\u0735\u0719",
+        "lexeme": {
+            "id": 73,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/73.json"
+        },
+        "stem": "\u0710\u071a\u0719",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ahaz"
+            ]
+        },
+        "word": {
+            "id": 556,
+            "uri": "https://sedra.bethmardutho.org/api/word/556.json"
+        }
+    }
+]

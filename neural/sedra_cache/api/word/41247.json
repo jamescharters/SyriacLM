@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0726\u0720\u0717\u0715",
+        "western": "\u0726\u0730\u0720\u0717\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14646,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14646.json"
+        },
+        "stem": "\u0726\u0720\u0717\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0628\u062f\u062f, \u0634\u062a\u062a",
+                "\u0641\u0631\u0642 (\u0645\u0636)"
+            ],
+            "eng": [
+                "IVp to be squandered",
+                "to be distracted.",
+                "IVa to scatter, to squander",
+                "to disperse"
+            ],
+            "fre": [
+                "\u00a0",
+                "disperser, dissiper",
+                "s\u00e9parer"
+            ]
+        },
+        "word": {
+            "id": 41247,
+            "uri": "https://sedra.bethmardutho.org/api/word/41247.json"
+        }
+    }
+]

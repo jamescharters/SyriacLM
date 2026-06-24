@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u0721\u0720\u0720\u071d\u0718\u0717\u071d",
+        "western": "\u0710\u0736\u0721\u0730\u0720\u0720\u073a\u071d\u0718\u0717\u0331\u071d",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1791,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1791.json"
+        },
+        "stem": "\u0721\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "speak"
+            ]
+        },
+        "word": {
+            "id": 11841,
+            "uri": "https://sedra.bethmardutho.org/api/word/11841.json"
+        }
+    }
+]

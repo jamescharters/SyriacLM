@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0713\u0713\u0717\u0720\u0718\u0723",
+        "western": "\u0710\u0730\u0713\u0713\u0717\u0736\u0720\u0718\u0733\u0723",
+        "lexeme": {
+            "id": 20801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20801.json"
+        },
+        "stem": "\u0710\u0713\u0713\u0717\u0720\u0718\u0723",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "messenger, angel"
+            ],
+            "grc": [
+                "\u1f04\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2"
+            ],
+            "lat": [
+                "angelus"
+            ]
+        },
+        "word": {
+            "id": 47175,
+            "uri": "https://sedra.bethmardutho.org/api/word/47175.json"
+        }
+    }
+]

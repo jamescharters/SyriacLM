@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0729\u071b\u0725\u0710",
+        "western": "\u0721\u0736\u072c\u0742\u0729\u0730\u071b\u0725\u0733\u0710",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2795,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2795.json"
+        },
+        "stem": "\u0729\u071b\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0643\u0645",
+                "\u0642\u0637\u0639",
+                "\u00a0",
+                "\u0643\u0633\u0631",
+                "\u0627\u0646\u0642\u0637\u0639",
+                "\u0633\u062d\u0642"
+            ],
+            "eng": [
+                "to pause, cease",
+                "IIp to be disheartened.",
+                "to amputate",
+                "Ia to tear, cut",
+                "-<span class=\"selectableFont\">\u0729\u0736\u071b\u0725\u0730\u072c \u0720\u200d\u200d</span> to be depressed, weary",
+                "IIa to mutilate",
+                "be discouraged"
+            ],
+            "fre": [
+                "\u00a0",
+                "couper",
+                "rompre",
+                "\u00e9craser",
+                "juger",
+                "cesser"
+            ]
+        },
+        "word": {
+            "id": 18282,
+            "uri": "https://sedra.bethmardutho.org/api/word/18282.json"
+        }
+    }
+]

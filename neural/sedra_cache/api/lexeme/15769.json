@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15769,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15769.json"
+        },
+        "syriac": "\u071f\u0715\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0639\u0628",
+                "\u0646\u062d\u0644"
+            ],
+            "French": [
+                "\u00eatre fatigu\u00e9",
+                "maigrir"
+            ],
+            "English": [
+                "IIa to enfeeble.",
+                "to be tired",
+                "Ia to become weak, sickly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2377,
+            "uri": "https://sedra.bethmardutho.org/api/root/2377.json"
+        },
+        "words": [
+            {
+                "id": 42088,
+                "uri": "https://sedra.bethmardutho.org/api/word/42088.json"
+            },
+            {
+                "id": 41307,
+                "uri": "https://sedra.bethmardutho.org/api/word/41307.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

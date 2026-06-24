@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2113,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2113.json"
+        },
+        "syriac": "\u0723\u071b\u072a\u0710",
+        "glosses": {
+            "English": [
+                "besides",
+                "side",
+                "side."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1262,
+            "uri": "https://sedra.bethmardutho.org/api/root/1262.json"
+        },
+        "words": [
+            {
+                "id": 14013,
+                "uri": "https://sedra.bethmardutho.org/api/word/14013.json"
+            },
+            {
+                "id": 14011,
+                "uri": "https://sedra.bethmardutho.org/api/word/14011.json"
+            },
+            {
+                "id": 26576,
+                "uri": "https://sedra.bethmardutho.org/api/word/26576.json"
+            },
+            {
+                "id": 14015,
+                "uri": "https://sedra.bethmardutho.org/api/word/14015.json"
+            },
+            {
+                "id": 14014,
+                "uri": "https://sedra.bethmardutho.org/api/word/14014.json"
+            },
+            {
+                "id": 14012,
+                "uri": "https://sedra.bethmardutho.org/api/word/14012.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

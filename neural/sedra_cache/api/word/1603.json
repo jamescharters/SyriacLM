@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0710\u0723\u071d\u0718\u072c\u0717\u0718\u0722",
+        "western": "\u0720\u0721\u0730\u0710\u0723\u0733\u071d\u073d\u0718\u072c\u0742\u0717\u073d\u0718\u0722",
+        "tense": "infinitive",
+        "kaylo": "pa\u02bf\u02bfel",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 220,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/220.json"
+        },
+        "stem": "\u0710\u0723\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "heal"
+            ],
+            "lat": [
+                "healer, doctor"
+            ]
+        },
+        "word": {
+            "id": 1603,
+            "uri": "https://sedra.bethmardutho.org/api/word/1603.json"
+        }
+    }
+]

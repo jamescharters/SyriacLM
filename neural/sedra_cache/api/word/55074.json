@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u071b\u0720\u0723",
+        "western": "\u0710\u0730\u071b\u0720\u0730\u0723",
+        "lexeme": {
+            "id": 28700,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28700.json"
+        },
+        "stem": "\u0710\u071b\u0720\u0723",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Atlas"
+            ],
+            "grc": [
+                "\u1f0c\u03c4\u03bb\u03b1\u03c2"
+            ]
+        },
+        "word": {
+            "id": 55074,
+            "uri": "https://sedra.bethmardutho.org/api/word/55074.json"
+        }
+    }
+]

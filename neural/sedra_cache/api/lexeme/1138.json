@@ -1,0 +1,68 @@
+[
+    {
+        "lexeme": {
+            "id": 1138,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1138.json"
+        },
+        "syriac": "\u071a\u0718\u072a\u0712\u0710",
+        "glosses": {
+            "English": [
+                "1 m. & f. desert, wasteland",
+                "wilderness",
+                "plain",
+                "desolation",
+                "devastation.",
+                "desolation, solitude"
+            ],
+            "Arabic": [
+                "\u062a\u062e\u0631\u064a\u0628",
+                "\u0642\u0641\u0631",
+                "\u0645\u0642\u0641\u0631",
+                "\u0644\u0642\u0644\u0627\u0642"
+            ],
+            "French": [
+                "d\u00e9vastation",
+                "d\u00e9sert",
+                "d\u00e9sert",
+                "cigogne"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 680,
+            "uri": "https://sedra.bethmardutho.org/api/root/680.json"
+        },
+        "words": [
+            {
+                "id": 37624,
+                "uri": "https://sedra.bethmardutho.org/api/word/37624.json"
+            },
+            {
+                "id": 7522,
+                "uri": "https://sedra.bethmardutho.org/api/word/7522.json"
+            },
+            {
+                "id": 7519,
+                "uri": "https://sedra.bethmardutho.org/api/word/7519.json"
+            },
+            {
+                "id": 7518,
+                "uri": "https://sedra.bethmardutho.org/api/word/7518.json"
+            },
+            {
+                "id": 7517,
+                "uri": "https://sedra.bethmardutho.org/api/word/7517.json"
+            },
+            {
+                "id": 7520,
+                "uri": "https://sedra.bethmardutho.org/api/word/7520.json"
+            },
+            {
+                "id": 7521,
+                "uri": "https://sedra.bethmardutho.org/api/word/7521.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

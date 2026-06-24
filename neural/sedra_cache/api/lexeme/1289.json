@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1289,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1289.json"
+        },
+        "syriac": "\u071d\u0710\u071d\u0710",
+        "glosses": {
+            "English": [
+                "due",
+                "becoming",
+                "seemly",
+                "congruous",
+                "decorous"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 763,
+            "uri": "https://sedra.bethmardutho.org/api/root/763.json"
+        },
+        "words": [
+            {
+                "id": 8415,
+                "uri": "https://sedra.bethmardutho.org/api/word/8415.json"
+            },
+            {
+                "id": 8412,
+                "uri": "https://sedra.bethmardutho.org/api/word/8412.json"
+            },
+            {
+                "id": 8414,
+                "uri": "https://sedra.bethmardutho.org/api/word/8414.json"
+            },
+            {
+                "id": 8413,
+                "uri": "https://sedra.bethmardutho.org/api/word/8413.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

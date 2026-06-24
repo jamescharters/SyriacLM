@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15825,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15825.json"
+        },
+        "syriac": "\u0719\u0718\u0710",
+        "glosses": {
+            "English": [
+                "Ia to swell",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u0719\u0715\u0730\u0718\u073a\u071d</span> to be swollen, distended."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2125,
+            "uri": "https://sedra.bethmardutho.org/api/root/2125.json"
+        },
+        "words": [
+            {
+                "id": 41857,
+                "uri": "https://sedra.bethmardutho.org/api/word/41857.json"
+            },
+            {
+                "id": 40872,
+                "uri": "https://sedra.bethmardutho.org/api/word/40872.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

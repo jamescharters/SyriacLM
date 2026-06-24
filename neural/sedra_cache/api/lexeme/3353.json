@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 3353,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3353.json"
+        },
+        "syriac": "\u072c\u0712\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "broken",
+                "broken",
+                "at variance (with)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1947,
+            "uri": "https://sedra.bethmardutho.org/api/root/1947.json"
+        },
+        "words": [
+            {
+                "id": 22326,
+                "uri": "https://sedra.bethmardutho.org/api/word/22326.json"
+            },
+            {
+                "id": 22325,
+                "uri": "https://sedra.bethmardutho.org/api/word/22325.json"
+            },
+            {
+                "id": 22329,
+                "uri": "https://sedra.bethmardutho.org/api/word/22329.json"
+            },
+            {
+                "id": 22328,
+                "uri": "https://sedra.bethmardutho.org/api/word/22328.json"
+            },
+            {
+                "id": 22327,
+                "uri": "https://sedra.bethmardutho.org/api/word/22327.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

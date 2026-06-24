@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2141,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2141.json"
+        },
+        "syriac": "\u0723\u0720\u0721\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Salmon"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1278,
+            "uri": "https://sedra.bethmardutho.org/api/root/1278.json"
+        },
+        "words": [
+            {
+                "id": 14252,
+                "uri": "https://sedra.bethmardutho.org/api/word/14252.json"
+            },
+            {
+                "id": 14253,
+                "uri": "https://sedra.bethmardutho.org/api/word/14253.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

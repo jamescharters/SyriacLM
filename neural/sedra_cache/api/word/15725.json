@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0725\u0721\u072a",
+        "western": "\u0715\u0741\u0722\u0736\u0725\u0721\u0730\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2360,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2360.json"
+        },
+        "stem": "\u0725\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0643\u0646, \u0645\u0643\u062b",
+                "\u0635\u0627\u0631, \u0643\u0627\u0646",
+                "\u0633\u0643\u0646 (\u0645\u062c)"
+            ],
+            "eng": [
+                "Ia to dwell, inhabit",
+                "dwell",
+                "Ip to be inhabited",
+                "IIa, IIIa to cause to dwell, to settle",
+                "IIIp.",
+                "to live"
+            ],
+            "fre": [
+                "\u00eatre habit\u00e9",
+                "se trouver, \u00eatre",
+                "habiter, rester"
+            ]
+        },
+        "word": {
+            "id": 15725,
+            "uri": "https://sedra.bethmardutho.org/api/word/15725.json"
+        }
+    }
+]

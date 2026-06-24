@@ -1,0 +1,88 @@
+[
+    {
+        "lexeme": {
+            "id": 1879,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1879.json"
+        },
+        "syriac": "\u0721\u072c\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0633\u0637",
+                "\u0642\u062f\u0645(\u0645\u0636)",
+                "\u0623\u0642\u0627\u0645, \u0631\u0641\u0639",
+                "\u0642\u0627\u062f",
+                "\u0645\u062f",
+                "\u0623\u0637\u0627\u0644",
+                "\u0628\u0636 (\u0627\u0644\u0623\u0648\u062a\u0627\u0631)",
+                "\u062c\u0639\u0644\u0647 \u064a\u063a\u0646\u064a",
+                "\u0627\u0645\u062a\u062f",
+                "\u062f\u0627\u0645",
+                "\u0639\u0627\u0634"
+            ],
+            "French": [
+                "tendre",
+                "pr\u00e9senter",
+                "dresser, \u00e9lever",
+                "diriger",
+                "\u00e9tendre",
+                "rendre long",
+                "pincer ( les cordes)",
+                "faire chanter",
+                "s&#39;\u00e9tendre",
+                "durer",
+                "vivre"
+            ],
+            "English": [
+                "Ip to be spread out, to be stretched out, to reach, to be prolonged.",
+                "extend",
+                "stretch out",
+                "to reach out, direct",
+                "Ia to extend, stretch, lengthen, prolong"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1122,
+            "uri": "https://sedra.bethmardutho.org/api/root/1122.json"
+        },
+        "words": [
+            {
+                "id": 29659,
+                "uri": "https://sedra.bethmardutho.org/api/word/29659.json"
+            },
+            {
+                "id": 26390,
+                "uri": "https://sedra.bethmardutho.org/api/word/26390.json"
+            },
+            {
+                "id": 26389,
+                "uri": "https://sedra.bethmardutho.org/api/word/26389.json"
+            },
+            {
+                "id": 12353,
+                "uri": "https://sedra.bethmardutho.org/api/word/12353.json"
+            },
+            {
+                "id": 12352,
+                "uri": "https://sedra.bethmardutho.org/api/word/12352.json"
+            },
+            {
+                "id": 26388,
+                "uri": "https://sedra.bethmardutho.org/api/word/26388.json"
+            },
+            {
+                "id": 26387,
+                "uri": "https://sedra.bethmardutho.org/api/word/26387.json"
+            },
+            {
+                "id": 12351,
+                "uri": "https://sedra.bethmardutho.org/api/word/12351.json"
+            },
+            {
+                "id": 12350,
+                "uri": "https://sedra.bethmardutho.org/api/word/12350.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

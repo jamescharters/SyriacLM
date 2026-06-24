@@ -1,0 +1,74 @@
+[
+    {
+        "lexeme": {
+            "id": 2915,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2915.json"
+        },
+        "syriac": "\u072a\u0712\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0638\u0645\u0629",
+                "\u062c\u0644\u0627\u0644",
+                "\u0642\u062f\u0631\u0629",
+                "\u0634\u0631\u0641"
+            ],
+            "French": [
+                "grandeur",
+                "majest\u00e9",
+                "puissance",
+                "honneur"
+            ],
+            "English": [
+                "priesthood",
+                "greatness",
+                "greatness, size, majesty, magnificence",
+                "many phrases with <span class=\"selectableFont\">\u072a\u0730\u0712\u073d\u0718\u072c</span> e.g.:"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1722,
+            "uri": "https://sedra.bethmardutho.org/api/root/1722.json"
+        },
+        "words": [
+            {
+                "id": 18968,
+                "uri": "https://sedra.bethmardutho.org/api/word/18968.json"
+            },
+            {
+                "id": 18975,
+                "uri": "https://sedra.bethmardutho.org/api/word/18975.json"
+            },
+            {
+                "id": 18972,
+                "uri": "https://sedra.bethmardutho.org/api/word/18972.json"
+            },
+            {
+                "id": 18971,
+                "uri": "https://sedra.bethmardutho.org/api/word/18971.json"
+            },
+            {
+                "id": 25308,
+                "uri": "https://sedra.bethmardutho.org/api/word/25308.json"
+            },
+            {
+                "id": 18973,
+                "uri": "https://sedra.bethmardutho.org/api/word/18973.json"
+            },
+            {
+                "id": 18970,
+                "uri": "https://sedra.bethmardutho.org/api/word/18970.json"
+            },
+            {
+                "id": 18969,
+                "uri": "https://sedra.bethmardutho.org/api/word/18969.json"
+            },
+            {
+                "id": 18974,
+                "uri": "https://sedra.bethmardutho.org/api/word/18974.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

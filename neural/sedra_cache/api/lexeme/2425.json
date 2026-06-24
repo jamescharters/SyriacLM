@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2425,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2425.json"
+        },
+        "syriac": "\u0725\u0718\u072b\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0648\u0629, \u0634\u062f\u0629, \u0639\u0632, \u0639\u0638\u0645\u0629",
+                "\u0643\u062a\u0644\u0629"
+            ],
+            "French": [
+                "force, vigueur, puissance",
+                "masse"
+            ],
+            "English": [
+                "power",
+                "strength",
+                "mass.",
+                "strength, force"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1436,
+            "uri": "https://sedra.bethmardutho.org/api/root/1436.json"
+        },
+        "words": [
+            {
+                "id": 16032,
+                "uri": "https://sedra.bethmardutho.org/api/word/16032.json"
+            },
+            {
+                "id": 16031,
+                "uri": "https://sedra.bethmardutho.org/api/word/16031.json"
+            },
+            {
+                "id": 16033,
+                "uri": "https://sedra.bethmardutho.org/api/word/16033.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

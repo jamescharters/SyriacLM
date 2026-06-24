@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0720\u0723\u071b\u071d",
+        "western": "\u0720\u0730\u0723\u071b\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14853,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14853.json"
+        },
+        "stem": "\u0720\u0723\u071b\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0631\u0642"
+            ],
+            "eng": [
+                "IVp to be seized, carried off by robber, brigands.",
+                "IVa to make a raid, maraud, rob"
+            ],
+            "fre": [
+                "voler"
+            ]
+        },
+        "word": {
+            "id": 41331,
+            "uri": "https://sedra.bethmardutho.org/api/word/41331.json"
+        }
+    }
+]

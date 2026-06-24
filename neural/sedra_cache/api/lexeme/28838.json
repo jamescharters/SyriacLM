@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28838,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28838.json"
+        },
+        "syriac": "\u0710\u071d\u0718\u0726\u0717\u072a\u0717\u0715\u071d\u0718\u0722\u0710\u0721\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f51\u03c0\u03b5\u03c1\u03b5\u03b4\u03c5\u03bd\u03ac\u03bc\u03bf\u03c5\u03bd (\u1f51\u03c0\u03ad\u03c1+\u1f10\u03b4\u03c5\u03bd\u03ac\u03bc\u03b7\u03bd or \u1f51\u03c0\u03ad\u03c1+\u1f10\u03b4\u03cd\u03bd\u03b1\u03bd\u03c4\u03bf)"
+            ],
+            "Latin": [
+                "potentiores erant"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b4\u03cd\u03bd\u03b1\u03bc\u03b1\u03b9"
+            ]
+        },
+        "words": [
+            {
+                "id": 49334,
+                "uri": "https://sedra.bethmardutho.org/api/word/49334.json"
+            },
+            {
+                "id": 55212,
+                "uri": "https://sedra.bethmardutho.org/api/word/55212.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

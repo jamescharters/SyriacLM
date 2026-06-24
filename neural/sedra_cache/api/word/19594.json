@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072a\u0718\u071a\u0729\u0710",
+        "western": "\u072a\u073d\u0718\u071a\u0729\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3006,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3006.json"
+        },
+        "stem": "\u072a\u0718\u071a\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u0627\u0641\u0629, \u0628\u0639\u062f"
+            ],
+            "eng": [
+                "distance, remoteness.",
+                "from afar",
+                "far place",
+                "far place"
+            ],
+            "fre": [
+                "distance, \u00e9loignement"
+            ]
+        },
+        "word": {
+            "id": 19594,
+            "uri": "https://sedra.bethmardutho.org/api/word/19594.json"
+        }
+    }
+]

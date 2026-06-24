@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0713\u0719",
+        "western": "\u0713\u0741\u0730\u0719",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 546,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/546.json"
+        },
+        "stem": "\u0713\u0719",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be cut off, concluded",
+                "shear",
+                "Ip to be shorn",
+                "Ia to shear (sheep)",
+                "IIIa."
+            ]
+        },
+        "word": {
+            "id": 3626,
+            "uri": "https://sedra.bethmardutho.org/api/word/3626.json"
+        }
+    }
+]

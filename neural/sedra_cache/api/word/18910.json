@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0719\u0710",
+        "western": "\u0710\u0331\u072a\u0733\u0719\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7749,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7749.json"
+        },
+        "stem": "\u0710\u072a\u0719\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "pl. <span class=\"selectableFont\">\u0710\u0331\u072a\u0308\u0733\u0719\u0736\u0710</span> (liturgical) Mysteries. (See further under -<span class=\"selectableFont\">\u072a\u0710\u0719</span>).",
+                "symbol, mystery, secret",
+                "mystery"
+            ]
+        },
+        "word": {
+            "id": 18910,
+            "uri": "https://sedra.bethmardutho.org/api/word/18910.json"
+        }
+    }
+]

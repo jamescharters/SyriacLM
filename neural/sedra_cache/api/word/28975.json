@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072b\u0712\u071a",
+        "western": "\u0721\u072b\u0730\u0712\u0741\u0730\u071a",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3136,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3136.json"
+        },
+        "stem": "\u072b\u0712\u071a",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "praise",
+                "commend",
+                "glorify"
+            ]
+        },
+        "word": {
+            "id": 28975,
+            "uri": "https://sedra.bethmardutho.org/api/word/28975.json"
+        }
+    }
+]

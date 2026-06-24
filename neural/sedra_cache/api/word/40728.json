@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0713\u072b\u0713\u072b",
+        "western": "\u0713\u0730\u072b\u0713\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14768,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14768.json"
+        },
+        "stem": "\u0713\u072b\u0713\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u062c\u0633\u0633"
+            ],
+            "eng": [
+                "IVa to grope."
+            ],
+            "fre": [
+                "t\u00e2tonner"
+            ]
+        },
+        "word": {
+            "id": 40728,
+            "uri": "https://sedra.bethmardutho.org/api/word/40728.json"
+        }
+    }
+]

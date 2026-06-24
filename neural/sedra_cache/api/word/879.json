@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0723\u0722\u071d\u0710",
+        "western": "\u0710\u0730\u071f\u0742\u0723\u0722\u0733\u071d\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 122,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/122.json"
+        },
+        "stem": "\u0710\u071f\u0723\u0722\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062f\u0647\u0634"
+            ],
+            "eng": [
+                "stranger",
+                "foreign",
+                "guest",
+                "strange.",
+                "stranger, foreigner, pilgrim"
+            ],
+            "fre": [
+                "\u00e9tonnant"
+            ]
+        },
+        "word": {
+            "id": 879,
+            "uri": "https://sedra.bethmardutho.org/api/word/879.json"
+        }
+    }
+]

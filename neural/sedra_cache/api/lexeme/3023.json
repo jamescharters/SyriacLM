@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 3023,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3023.json"
+        },
+        "syriac": "\u072a\u071f\u071d\u071f\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u064a\u0646",
+                "\u0646\u0627\u0639\u0645",
+                "\u0636\u0639\u064a\u0641",
+                "\u062d\u0631\u064a\u0631"
+            ],
+            "French": [
+                "mou",
+                "doux",
+                "faible",
+                "soie"
+            ],
+            "English": [
+                "soft",
+                "delicate",
+                "soft."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1761,
+            "uri": "https://sedra.bethmardutho.org/api/root/1761.json"
+        },
+        "words": [
+            {
+                "id": 19710,
+                "uri": "https://sedra.bethmardutho.org/api/word/19710.json"
+            },
+            {
+                "id": 19711,
+                "uri": "https://sedra.bethmardutho.org/api/word/19711.json"
+            },
+            {
+                "id": 19567,
+                "uri": "https://sedra.bethmardutho.org/api/word/19567.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

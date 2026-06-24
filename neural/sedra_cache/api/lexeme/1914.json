@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 1914,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1914.json"
+        },
+        "syriac": "\u0722\u0717\u0721",
+        "glosses": {
+            "English": [
+                "roar",
+                "IIa to bleat, to moan",
+                "to hum.",
+                "& <span class=\"selectableFont\">\u0722\u0717\u0736\u0721</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0722\u0717\u0730\u0721</span>, Ia to roar, bellow, moan"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1143,
+            "uri": "https://sedra.bethmardutho.org/api/root/1143.json"
+        },
+        "words": [
+            {
+                "id": 26452,
+                "uri": "https://sedra.bethmardutho.org/api/word/26452.json"
+            },
+            {
+                "id": 26451,
+                "uri": "https://sedra.bethmardutho.org/api/word/26451.json"
+            },
+            {
+                "id": 22814,
+                "uri": "https://sedra.bethmardutho.org/api/word/22814.json"
+            },
+            {
+                "id": 12531,
+                "uri": "https://sedra.bethmardutho.org/api/word/12531.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

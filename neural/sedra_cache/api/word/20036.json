@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0718\u072a\u072c\u071d\u072c\u0710",
+        "western": "\u0718\u0730\u072a\u072c\u0742\u073a\u071d\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "common",
+        "lexeme": {
+            "id": 3084,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3084.json"
+        },
+        "stem": "\u072a\u072c\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "trembling state.",
+                "tremor",
+                "trembling"
+            ]
+        },
+        "word": {
+            "id": 20036,
+            "uri": "https://sedra.bethmardutho.org/api/word/20036.json"
+        }
+    }
+]

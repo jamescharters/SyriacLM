@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0721\u071f\u071d\u072a\u072c\u0710",
+        "western": "\u0721\u071f\u0742\u073a\u071d\u072a\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1762,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1762.json"
+        },
+        "stem": "\u0721\u071f\u071d\u072a\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "engaged",
+                "married"
+            ]
+        },
+        "word": {
+            "id": 11554,
+            "uri": "https://sedra.bethmardutho.org/api/word/11554.json"
+        }
+    }
+]

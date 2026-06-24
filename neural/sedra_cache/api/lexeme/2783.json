@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2783,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2783.json"
+        },
+        "syriac": "\u0729\u0718\u072a\u071d\u0722\u072c\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Corinth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2049,
+            "uri": "https://sedra.bethmardutho.org/api/root/2049.json"
+        },
+        "words": [
+            {
+                "id": 18168,
+                "uri": "https://sedra.bethmardutho.org/api/word/18168.json"
+            },
+            {
+                "id": 18167,
+                "uri": "https://sedra.bethmardutho.org/api/word/18167.json"
+            },
+            {
+                "id": 18166,
+                "uri": "https://sedra.bethmardutho.org/api/word/18166.json"
+            },
+            {
+                "id": 18169,
+                "uri": "https://sedra.bethmardutho.org/api/word/18169.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

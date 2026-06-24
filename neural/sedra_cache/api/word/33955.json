@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0717\u0713\u0721\u0718\u0722\u0710",
+        "western": "\u0717\u0736\u0713\u0721\u073d\u0718\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12780,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12780.json"
+        },
+        "stem": "\u0717\u0713\u0721\u0718\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u0626\u062f",
+                "\u00a0",
+                "\u062d\u0627\u0643\u0645, \u0642\u0627\u0636"
+            ],
+            "eng": [
+                "leader.",
+                "governor",
+                "prefect",
+                "governor",
+                "prefect"
+            ],
+            "fre": [
+                "chef",
+                "chef",
+                "pr\u00e9fet , pr\u00e9teur"
+            ]
+        },
+        "word": {
+            "id": 33955,
+            "uri": "https://sedra.bethmardutho.org/api/word/33955.json"
+        }
+    }
+]

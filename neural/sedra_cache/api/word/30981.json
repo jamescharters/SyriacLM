@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0725\u0715\u0722\u071d\u0710",
+        "western": "\u0725\u0730\u0715\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6676,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6676.json"
+        },
+        "stem": "\u0725\u0715\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0631\u062f\u0648\u0633\u064a"
+            ],
+            "eng": [
+                "paradisiacal",
+                "belonging to Eden."
+            ],
+            "fre": [
+                "paradisiaque"
+            ]
+        },
+        "word": {
+            "id": 30981,
+            "uri": "https://sedra.bethmardutho.org/api/word/30981.json"
+        }
+    }
+]

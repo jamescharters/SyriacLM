@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 1227,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1227.json"
+        },
+        "syriac": "\u071b\u071d\u0721\u072c\u0710\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Timotheus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 726,
+            "uri": "https://sedra.bethmardutho.org/api/root/726.json"
+        },
+        "words": [
+            {
+                "id": 8065,
+                "uri": "https://sedra.bethmardutho.org/api/word/8065.json"
+            },
+            {
+                "id": 8062,
+                "uri": "https://sedra.bethmardutho.org/api/word/8062.json"
+            },
+            {
+                "id": 8061,
+                "uri": "https://sedra.bethmardutho.org/api/word/8061.json"
+            },
+            {
+                "id": 8060,
+                "uri": "https://sedra.bethmardutho.org/api/word/8060.json"
+            },
+            {
+                "id": 8064,
+                "uri": "https://sedra.bethmardutho.org/api/word/8064.json"
+            },
+            {
+                "id": 8063,
+                "uri": "https://sedra.bethmardutho.org/api/word/8063.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

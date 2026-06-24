@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0715\u072b\u0712\u071b\u0710",
+        "western": "\u0715\u0741\u072b\u0730\u0712\u0742\u071b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3102,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3102.json"
+        },
+        "stem": "\u072b\u0712\u071b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "rod",
+                "<span class=\"selectableFont\">\u072b\u0730\u0712\u0308\u071b\u0736\u0710</span> (book of) Judges.",
+                "tribe",
+                "staff, scepter",
+                "shaft (of light)",
+                "rod, scourge",
+                "staff",
+                "tribe",
+                "sceptre",
+                "magistrates"
+            ]
+        },
+        "word": {
+            "id": 20205,
+            "uri": "https://sedra.bethmardutho.org/api/word/20205.json"
+        }
+    }
+]

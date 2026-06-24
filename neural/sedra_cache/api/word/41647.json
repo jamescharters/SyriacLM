@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u071f\u0721\u0717",
+        "western": "\u0722\u0736\u071f\u0721\u0730\u0717",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15629,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15629.json"
+        },
+        "stem": "\u071f\u0721\u0717",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645\u064a, \u0639\u0645\u064a (\u0645\u0636 \u0648\u0645\u062c)"
+            ],
+            "eng": [
+                "IIp",
+                "Ia to be blind",
+                "to darken.",
+                "IIIa to blind",
+                "IIa to blind"
+            ],
+            "fre": [
+                "\u00eatre aveugle, aveugl\u00e9"
+            ]
+        },
+        "word": {
+            "id": 41647,
+            "uri": "https://sedra.bethmardutho.org/api/word/41647.json"
+        }
+    }
+]

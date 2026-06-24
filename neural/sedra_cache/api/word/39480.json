@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0722\u0718\u0712\u071d\u0710",
+        "western": "\u0729\u0736\u0722\u073d\u0718\u0712\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9400.json"
+        },
+        "stem": "\u0729\u0722\u0718\u0712\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0627\u0647\u0628"
+            ],
+            "eng": [
+                "cenobitic (monk)."
+            ],
+            "fre": [
+                "c\u00e9nobite"
+            ]
+        },
+        "word": {
+            "id": 39480,
+            "uri": "https://sedra.bethmardutho.org/api/word/39480.json"
+        }
+    }
+]

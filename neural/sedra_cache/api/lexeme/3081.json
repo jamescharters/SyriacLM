@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 3081,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3081.json"
+        },
+        "syriac": "\u072a\u072b\u071d\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062c\u0631\u0645, \u0643\u0627\u0641\u0631"
+            ],
+            "French": [
+                "sc\u00e9l\u00e9rat, impie"
+            ],
+            "English": [
+                "impious",
+                "wicked",
+                "ungodly",
+                "wicked, impious, lawless, criminal."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1793,
+            "uri": "https://sedra.bethmardutho.org/api/root/1793.json"
+        },
+        "words": [
+            {
+                "id": 20028,
+                "uri": "https://sedra.bethmardutho.org/api/word/20028.json"
+            },
+            {
+                "id": 20027,
+                "uri": "https://sedra.bethmardutho.org/api/word/20027.json"
+            },
+            {
+                "id": 20026,
+                "uri": "https://sedra.bethmardutho.org/api/word/20026.json"
+            },
+            {
+                "id": 20025,
+                "uri": "https://sedra.bethmardutho.org/api/word/20025.json"
+            },
+            {
+                "id": 20029,
+                "uri": "https://sedra.bethmardutho.org/api/word/20029.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

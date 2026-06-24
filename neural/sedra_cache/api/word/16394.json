@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0726\u071f\u0717",
+        "western": "\u0726\u0741\u071f\u0742\u0730\u0717",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2512,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2512.json"
+        },
+        "stem": "\u0726\u071f\u0717",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0641\u0647, \u063a\u0628\u0631",
+                "\u062e\u0641",
+                "\u062a\u0644\u064a\u0646, \u0647\u062f\u0623",
+                "\u062c\u0647\u0644"
+            ],
+            "eng": [
+                "IIp.",
+                "IIa to moderate, to abate",
+                "to languish, to grow weak",
+                "to cool, to abate",
+                "Ia to lose flavor",
+                "lose flavour",
+                "be dull"
+            ],
+            "fre": [
+                "devenir insens\u00e9",
+                "s&#39;adoucir, se calmer",
+                "\u00eatre fade, terne, s&#39;affadir",
+                "s&#39;affaiblir"
+            ]
+        },
+        "word": {
+            "id": 16394,
+            "uri": "https://sedra.bethmardutho.org/api/word/16394.json"
+        }
+    }
+]

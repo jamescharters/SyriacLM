@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0717\u0722\u071d\u0718\u072c\u0710",
+        "western": "\u0717\u0730\u0722\u073a\u071d\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 803,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/803.json"
+        },
+        "stem": "\u0717\u0722\u071d\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "benefit",
+                "Kth. bon app\u00e9tit, also a wish after a meal.",
+                "pleasure",
+                "gain",
+                "good",
+                "pleasure, pleasantness"
+            ]
+        },
+        "word": {
+            "id": 5244,
+            "uri": "https://sedra.bethmardutho.org/api/word/5244.json"
+        }
+    }
+]

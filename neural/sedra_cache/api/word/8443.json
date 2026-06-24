@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0718\u0721\u0718\u0712\u0720\u0717\u0718\u0722",
+        "western": "\u0718\u0721\u0730\u0718\u0712\u0741\u0730\u0720\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1294,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1294.json"
+        },
+        "stem": "\u0721\u0718\u0712\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0645\u0644"
+            ],
+            "eng": [
+                "load",
+                "burden, load, cargo.",
+                "burden"
+            ],
+            "fre": [
+                "charge"
+            ]
+        },
+        "word": {
+            "id": 8443,
+            "uri": "https://sedra.bethmardutho.org/api/word/8443.json"
+        }
+    }
+]

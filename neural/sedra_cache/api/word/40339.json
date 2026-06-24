@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0721\u072a",
+        "western": "\u0721\u0730\u072a\u0721\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14916,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14916.json"
+        },
+        "stem": "\u0721\u072a\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                ""
+            ],
+            "eng": [
+                "IVa to embitter, sadden, exacerbate",
+                "IVp."
+            ],
+            "fre": [
+                ""
+            ]
+        },
+        "word": {
+            "id": 40339,
+            "uri": "https://sedra.bethmardutho.org/api/word/40339.json"
+        }
+    }
+]

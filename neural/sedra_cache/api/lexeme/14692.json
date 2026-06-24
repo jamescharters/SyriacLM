@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14692,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14692.json"
+        },
+        "syriac": "\u0729\u072a\u0722\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u0631\u0628 \u0628\u0627\u0644\u0645\u0637\u0631\u0642\u0629"
+            ],
+            "French": [
+                "frapper avec le marteau"
+            ],
+            "English": [
+                "IVa to hammer."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3147,
+            "uri": "https://sedra.bethmardutho.org/api/root/3147.json"
+        },
+        "words": [
+            {
+                "id": 40559,
+                "uri": "https://sedra.bethmardutho.org/api/word/40559.json"
+            },
+            {
+                "id": 40108,
+                "uri": "https://sedra.bethmardutho.org/api/word/40108.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

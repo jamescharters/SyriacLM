@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15796,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15796.json"
+        },
+        "syriac": "\u0729\u0722\u0725",
+        "glosses": {
+            "English": [
+                "IIIa to turn blue",
+                "Ia to turn pale",
+                "to clothe in a veil."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2546,
+            "uri": "https://sedra.bethmardutho.org/api/root/2546.json"
+        },
+        "words": [
+            {
+                "id": 42105,
+                "uri": "https://sedra.bethmardutho.org/api/word/42105.json"
+            },
+            {
+                "id": 40304,
+                "uri": "https://sedra.bethmardutho.org/api/word/40304.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

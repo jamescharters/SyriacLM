@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u071b\u0712\u071a",
+        "western": "\u0722\u0736\u071b\u0712\u0730\u071a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15651,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15651.json"
+        },
+        "stem": "\u071b\u0712\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp to be crushed, battered.",
+                "IIa to strike down, batter, crush",
+                "to kill",
+                "Ia to slay"
+            ]
+        },
+        "word": {
+            "id": 41705,
+            "uri": "https://sedra.bethmardutho.org/api/word/41705.json"
+        }
+    }
+]

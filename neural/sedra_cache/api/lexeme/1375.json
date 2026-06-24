@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 1375,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1375.json"
+        },
+        "syriac": "\u071d\u0720\u071d\u0715\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0646\u0633\u0627\u0644, \u062a\u0648\u0644\u064a\u062f",
+                "\u062d\u0627\u0644\u0629 \u0627\u0628\u0646"
+            ],
+            "French": [
+                "g\u00e9n\u00e9ration, enfantement",
+                "condition de fils"
+            ],
+            "English": [
+                "origin",
+                "descent",
+                "ancestry",
+                "genealogy",
+                "being born, begotten",
+                "birth, origin",
+                "rising (of star)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 820,
+            "uri": "https://sedra.bethmardutho.org/api/root/820.json"
+        },
+        "words": [
+            {
+                "id": 23736,
+                "uri": "https://sedra.bethmardutho.org/api/word/23736.json"
+            },
+            {
+                "id": 9073,
+                "uri": "https://sedra.bethmardutho.org/api/word/9073.json"
+            },
+            {
+                "id": 9072,
+                "uri": "https://sedra.bethmardutho.org/api/word/9072.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

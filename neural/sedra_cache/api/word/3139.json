@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0722\u072c\u0712\u0729\u0718\u0722",
+        "western": "\u0722\u0736\u072c\u0742\u0712\u0741\u0729\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 450,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/450.json"
+        },
+        "stem": "\u0712\u0729\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062d\u0642\u0642",
+                "\u0627\u0645\u062a\u062d\u0646",
+                "\u0627\u0633\u062a\u062d\u0633\u0646"
+            ],
+            "eng": [
+                "Ip",
+                "consider",
+                "examine",
+                "prove",
+                "Ia to search out, prove, examine",
+                "IIp to consider, observe."
+            ],
+            "fre": [
+                "approuver",
+                "\u00e9prouver",
+                "\u00a0",
+                "verifier"
+            ]
+        },
+        "word": {
+            "id": 3139,
+            "uri": "https://sedra.bethmardutho.org/api/word/3139.json"
+        }
+    }
+]

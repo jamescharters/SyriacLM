@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 2543,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2543.json"
+        },
+        "syriac": "\u0726\u0718\u0722\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0644\u0630\u0627\u062a, \u062a\u0631\u0641"
+            ],
+            "French": [
+                "d\u00e9lices, luxe"
+            ],
+            "English": [
+                "luxury",
+                "delicacy",
+                "delicacy",
+                "pleasure."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1509,
+            "uri": "https://sedra.bethmardutho.org/api/root/1509.json"
+        },
+        "words": [
+            {
+                "id": 16605,
+                "uri": "https://sedra.bethmardutho.org/api/word/16605.json"
+            },
+            {
+                "id": 16607,
+                "uri": "https://sedra.bethmardutho.org/api/word/16607.json"
+            },
+            {
+                "id": 16606,
+                "uri": "https://sedra.bethmardutho.org/api/word/16606.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

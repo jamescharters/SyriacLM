@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0725\u0717\u0715\u071d\u0722",
+        "western": "\u0725\u0331\u0736\u0717\u0730\u0715\u0742\u0736\u071d\u0722",
+        "tense": "imperative",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 15760,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15760.json"
+        },
+        "stem": "\u0725\u0717\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0630\u0643\u0631"
+            ],
+            "eng": [
+                "IIIa to commemorate.",
+                "cause to remember",
+                "Ia to recall, to mention",
+                "remember",
+                "to make mention of",
+                "Ip to remember",
+                "IIa to call to remembrance, to recall, to remind",
+                "IIp to be remembered"
+            ],
+            "fre": [
+                "se rappeler"
+            ]
+        },
+        "word": {
+            "id": 15082,
+            "uri": "https://sedra.bethmardutho.org/api/word/15082.json"
+        }
+    }
+]

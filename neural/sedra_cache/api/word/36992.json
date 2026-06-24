@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0720\u071d\u0729\u0710",
+        "western": "\u0720\u073a\u071d\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14464,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14464.json"
+        },
+        "stem": "\u0720\u071d\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "oar",
+                "<span class=\"selectableFont\">\u0715\u0733\u0712\u072a\u0308\u0730\u071d \u0720\u073a\u071d\u0308</span><span class=\"selectableFont\">\u0729\u0736\u0710</span> oarsmen, rowers.",
+                "rudder"
+            ]
+        },
+        "word": {
+            "id": 36992,
+            "uri": "https://sedra.bethmardutho.org/api/word/36992.json"
+        }
+    }
+]

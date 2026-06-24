@@ -1,0 +1,68 @@
+[
+    {
+        "lexeme": {
+            "id": 2552,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2552.json"
+        },
+        "syriac": "\u0726\u0723\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639",
+                "\u062c\u0632\u0645, \u062d\u0630\u0641, \u0625\u0644\u063a\u0627\u0621",
+                "\u062e\u0635\u0627\u0621",
+                "\u0632\u0648\u0627\u0644, \u0646\u0647\u0627\u064a\u0629",
+                "\u0627\u0646\u0641\u0635\u0627\u0644",
+                "\u0642\u0631\u0627\u0631, \u0645\u0631\u0633\u0648\u0645, \u062d\u0643\u0645",
+                "\u0639\u0642\u0627\u0628",
+                "\u062a\u062d\u062f\u064a\u062f, \u062a\u0645\u064a\u064a\u0632",
+                "\u062d\u0631\u0645",
+                "\u0634\u064a\u0639\u0629, \u062d\u0632\u0628",
+                "\u0642\u0637\u064a\u0639",
+                "\u062c\u0632\u0621",
+                "\u062d\u0631\u062c, \u0645\u0636\u064a\u0642"
+            ],
+            "French": [
+                "coupure",
+                "retranchement, suppression, abolition",
+                "castration",
+                "cessation, fin",
+                "s\u00e9paration",
+                "d\u00e9cision, d\u00e9cret, sentence",
+                "peine",
+                "d\u00e9finition, distinction",
+                "excommunication",
+                "parti, faction",
+                "troupeau",
+                "partie",
+                "gorges, d\u00e9fil\u00e9"
+            ],
+            "English": [
+                "mutilation",
+                "cutting",
+                "sentence, decree",
+                "definition",
+                "caesura.",
+                "defile",
+                "cutting, amputation, mutilation",
+                "abolition"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1512,
+            "uri": "https://sedra.bethmardutho.org/api/root/1512.json"
+        },
+        "words": [
+            {
+                "id": 16658,
+                "uri": "https://sedra.bethmardutho.org/api/word/16658.json"
+            },
+            {
+                "id": 16657,
+                "uri": "https://sedra.bethmardutho.org/api/word/16657.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

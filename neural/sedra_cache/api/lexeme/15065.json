@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15065,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15065.json"
+        },
+        "syriac": "\u071a\u0713\u0723",
+        "glosses": {
+            "English": [
+                "IIa to make lame."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3179,
+            "uri": "https://sedra.bethmardutho.org/api/root/3179.json"
+        },
+        "words": [
+            {
+                "id": 41517,
+                "uri": "https://sedra.bethmardutho.org/api/word/41517.json"
+            },
+            {
+                "id": 41420,
+                "uri": "https://sedra.bethmardutho.org/api/word/41420.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

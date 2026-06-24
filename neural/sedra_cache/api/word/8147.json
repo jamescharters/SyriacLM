@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071b\u0720\u072b",
+        "western": "\u071b\u0720\u0730\u072b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1248,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1248.json"
+        },
+        "stem": "\u071b\u0720\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0644\u0637\u062e"
+            ],
+            "eng": [
+                "be soiled",
+                "IIp to be defiled, polluted.",
+                "IIa to make dirty",
+                "to infect",
+                "to be despised",
+                "Ia to be spotted, filthy"
+            ],
+            "fre": [
+                "\u00eatre souill\u00e9"
+            ]
+        },
+        "word": {
+            "id": 8147,
+            "uri": "https://sedra.bethmardutho.org/api/word/8147.json"
+        }
+    }
+]

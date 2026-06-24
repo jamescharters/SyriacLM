@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 1373,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1373.json"
+        },
+        "syriac": "\u071d\u0720\u0718\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0644\u062f \u0635\u063a\u064a\u0631"
+            ],
+            "French": [
+                "petit enfant"
+            ],
+            "English": [
+                "infant",
+                "child",
+                "babe",
+                "infant, baby, suckling."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 820,
+            "uri": "https://sedra.bethmardutho.org/api/root/820.json"
+        },
+        "words": [
+            {
+                "id": 9066,
+                "uri": "https://sedra.bethmardutho.org/api/word/9066.json"
+            },
+            {
+                "id": 9069,
+                "uri": "https://sedra.bethmardutho.org/api/word/9069.json"
+            },
+            {
+                "id": 9065,
+                "uri": "https://sedra.bethmardutho.org/api/word/9065.json"
+            },
+            {
+                "id": 9064,
+                "uri": "https://sedra.bethmardutho.org/api/word/9064.json"
+            },
+            {
+                "id": 9067,
+                "uri": "https://sedra.bethmardutho.org/api/word/9067.json"
+            },
+            {
+                "id": 9068,
+                "uri": "https://sedra.bethmardutho.org/api/word/9068.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

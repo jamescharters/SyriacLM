@@ -1,0 +1,83 @@
+[
+    {
+        "lexeme": {
+            "id": 1053,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1053.json"
+        },
+        "syriac": "\u071a\u0720\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0643\u0627\u0646....",
+                "\u0628\u0633\u0628\u0628...",
+                "\u0644\u0634\u0623\u0646"
+            ],
+            "French": [
+                "\u00e0 la place de",
+                "\u00e0 cause de",
+                "en faveur de"
+            ],
+            "English": [
+                "for",
+                "instead",
+                "instead of, because of, in place of, on account of."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 634,
+            "uri": "https://sedra.bethmardutho.org/api/root/634.json"
+        },
+        "words": [
+            {
+                "id": 7142,
+                "uri": "https://sedra.bethmardutho.org/api/word/7142.json"
+            },
+            {
+                "id": 7139,
+                "uri": "https://sedra.bethmardutho.org/api/word/7139.json"
+            },
+            {
+                "id": 7144,
+                "uri": "https://sedra.bethmardutho.org/api/word/7144.json"
+            },
+            {
+                "id": 7143,
+                "uri": "https://sedra.bethmardutho.org/api/word/7143.json"
+            },
+            {
+                "id": 7141,
+                "uri": "https://sedra.bethmardutho.org/api/word/7141.json"
+            },
+            {
+                "id": 7140,
+                "uri": "https://sedra.bethmardutho.org/api/word/7140.json"
+            },
+            {
+                "id": 7150,
+                "uri": "https://sedra.bethmardutho.org/api/word/7150.json"
+            },
+            {
+                "id": 7149,
+                "uri": "https://sedra.bethmardutho.org/api/word/7149.json"
+            },
+            {
+                "id": 7148,
+                "uri": "https://sedra.bethmardutho.org/api/word/7148.json"
+            },
+            {
+                "id": 7147,
+                "uri": "https://sedra.bethmardutho.org/api/word/7147.json"
+            },
+            {
+                "id": 7146,
+                "uri": "https://sedra.bethmardutho.org/api/word/7146.json"
+            },
+            {
+                "id": 7145,
+                "uri": "https://sedra.bethmardutho.org/api/word/7145.json"
+            }
+        ],
+        "category": "preposition",
+        "kaylo": "p\u02bfal"
+    }
+]

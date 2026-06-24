@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 1387,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1387.json"
+        },
+        "syriac": "\u071d\u0721\u0710 \u0715\u0723\u0718\u0726",
+        "glosses": {
+            "English": [
+                "Red Sea",
+                "sea of reeds"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 825,
+            "uri": "https://sedra.bethmardutho.org/api/root/825.json"
+        },
+        "words": [
+            {
+                "id": 9232,
+                "uri": "https://sedra.bethmardutho.org/api/word/9232.json"
+            },
+            {
+                "id": 9233,
+                "uri": "https://sedra.bethmardutho.org/api/word/9233.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

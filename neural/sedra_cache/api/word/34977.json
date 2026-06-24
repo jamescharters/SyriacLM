@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071d\u071b\u071f\u0723\u0710",
+        "western": "\u0721\u073a\u071d\u071b\u0730\u071f\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6233,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6233.json"
+        },
+        "stem": "\u0721\u071d\u071b\u071f\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u064a\u0631"
+            ],
+            "eng": [
+                "silk."
+            ],
+            "fre": [
+                "soie"
+            ]
+        },
+        "word": {
+            "id": 34977,
+            "uri": "https://sedra.bethmardutho.org/api/word/34977.json"
+        }
+    }
+]

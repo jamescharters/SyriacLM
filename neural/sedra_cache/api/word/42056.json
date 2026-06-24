@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0722\u0723\u072a\u0718\u0726",
+        "western": "\u0722\u0736\u0723\u072a\u073d\u0718\u0726",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15406,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15406.json"
+        },
+        "stem": "\u0723\u072a\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0635",
+                "\u0628\u0644\u0639",
+                "\u00a0",
+                "\u063a\u0644\u0642, \u0633\u062f"
+            ],
+            "eng": [
+                "IIIa to make to swallow.",
+                "to obstruct",
+                "Ia to swallow up, to absorb",
+                "Ip to be blocked up",
+                "IIa to gulp down, to swallow",
+                "to block up"
+            ],
+            "fre": [
+                "\u00a0",
+                "fermer, obstruer",
+                "avaler, absorber",
+                "sucer"
+            ]
+        },
+        "word": {
+            "id": 42056,
+            "uri": "https://sedra.bethmardutho.org/api/word/42056.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2136,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2136.json"
+        },
+        "syriac": "\u0721\u0723\u072c\u0720\u071d\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "rejection",
+                "reprobation",
+                "Gram. passive.",
+                "rejection"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1274,
+            "uri": "https://sedra.bethmardutho.org/api/root/1274.json"
+        },
+        "words": [
+            {
+                "id": 14221,
+                "uri": "https://sedra.bethmardutho.org/api/word/14221.json"
+            },
+            {
+                "id": 14220,
+                "uri": "https://sedra.bethmardutho.org/api/word/14220.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethp\u02bfel"
+    }
+]

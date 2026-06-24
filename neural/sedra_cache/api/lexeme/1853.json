@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1853,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1853.json"
+        },
+        "syriac": "\u0721\u072a\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0631\u064a\u0621",
+                "\u0648\u0642\u062d",
+                "\u0635\u0639\u0628"
+            ],
+            "French": [
+                "hardi",
+                "effront\u00e9",
+                "difficile"
+            ],
+            "English": [
+                "bold",
+                "presumptuous",
+                "audacious",
+                "presumptuous.",
+                "bold, headstrong"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1104,
+            "uri": "https://sedra.bethmardutho.org/api/root/1104.json"
+        },
+        "words": [
+            {
+                "id": 22812,
+                "uri": "https://sedra.bethmardutho.org/api/word/22812.json"
+            },
+            {
+                "id": 12249,
+                "uri": "https://sedra.bethmardutho.org/api/word/12249.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0712\u072a\u071f",
+        "western": "\u0712\u072a\u0736\u071f",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15944,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15944.json"
+        },
+        "stem": "\u0712\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0643\u0639, \u062c\u062b\u0627",
+                "\u0627\u0646\u062d\u0646\u062a (\u0631\u0643\u0628\u0629)",
+                "\u0628\u0627\u0631\u0643"
+            ],
+            "eng": [
+                "IIa to bless, pronounce a blessing",
+                "IIIa to cause to kneel.",
+                "IIp",
+                "Ia to kneel"
+            ],
+            "fre": [
+                "fl\u00e9chir le genou, se prosterner",
+                "se fl\u00e9chir (genou)",
+                "b\u00e9nir"
+            ]
+        },
+        "word": {
+            "id": 41399,
+            "uri": "https://sedra.bethmardutho.org/api/word/41399.json"
+        }
+    }
+]

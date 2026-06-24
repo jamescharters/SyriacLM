@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0720\u071d\u0710",
+        "western": "\u0729\u073d\u0718\u0720\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6549,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6549.json"
+        },
+        "stem": "\u0729\u0718\u0720\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u062a\u064a\u0627\u0621, \u063a\u0636\u0628",
+                "\u0627\u062d\u062a\u0642\u0627\u0631"
+            ],
+            "eng": [
+                "irritation, indignation",
+                "contempt, scorn",
+                "displeasure."
+            ],
+            "fre": [
+                "m\u00e9contentement, irritation",
+                "m\u00e9pris"
+            ]
+        },
+        "word": {
+            "id": 31936,
+            "uri": "https://sedra.bethmardutho.org/api/word/31936.json"
+        }
+    }
+]

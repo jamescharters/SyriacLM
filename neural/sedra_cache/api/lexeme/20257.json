@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 20257,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20257.json"
+        },
+        "syriac": "\u0710\u0712\u0718\u0720\u0718\u0722",
+        "glosses": {
+            "Latin": [
+                "obolus"
+            ],
+            "Greek": [
+                "\u1f40\u03b2\u03bf\u03bb\u03cc\u03bd"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f40\u03b2\u03bf\u03bb\u03cc\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 46631,
+                "uri": "https://sedra.bethmardutho.org/api/word/46631.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0713\u0718\u0719\u0720\u071d\u0722",
+        "western": "\u0721\u0736\u072c\u0742\u0713\u0741\u0730\u0718\u0719\u0720\u073a\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethpaw\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 533,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/533.json"
+        },
+        "stem": "\u0713\u0718\u0719\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0634\u0639\u0644",
+                "\u0623\u063a\u0636\u0628",
+                "\u00a0"
+            ],
+            "eng": [
+                "be inflame",
+                "IVa to kindle, set on fire",
+                "to excite",
+                "IVp.",
+                "be set on fire"
+            ],
+            "fre": [
+                "\u00a0",
+                "courroucer",
+                "enflammer"
+            ]
+        },
+        "word": {
+            "id": 3572,
+            "uri": "https://sedra.bethmardutho.org/api/word/3572.json"
+        }
+    }
+]

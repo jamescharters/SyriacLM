@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14802,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14802.json"
+        },
+        "syriac": "\u0729\u072a\u0721\u0715",
+        "glosses": {
+            "English": [
+                "to tile over.",
+                "IVa to lay tiles"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2935,
+            "uri": "https://sedra.bethmardutho.org/api/root/2935.json"
+        },
+        "words": [
+            {
+                "id": 41406,
+                "uri": "https://sedra.bethmardutho.org/api/word/41406.json"
+            },
+            {
+                "id": 40557,
+                "uri": "https://sedra.bethmardutho.org/api/word/40557.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

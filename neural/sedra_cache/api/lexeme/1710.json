@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 1710,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1710.json"
+        },
+        "syriac": "\u0721\u0715",
+        "glosses": {
+            "English": [
+                "escape",
+                "to dare.",
+                "to be able, attain",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0721\u0736\u0715</span> to escape"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1020,
+            "uri": "https://sedra.bethmardutho.org/api/root/1020.json"
+        },
+        "words": [
+            {
+                "id": 11230,
+                "uri": "https://sedra.bethmardutho.org/api/word/11230.json"
+            },
+            {
+                "id": 11229,
+                "uri": "https://sedra.bethmardutho.org/api/word/11229.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

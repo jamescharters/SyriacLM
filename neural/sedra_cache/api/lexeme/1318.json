@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1318,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1318.json"
+        },
+        "syriac": "\u071d\u0717\u0718\u0715\u0710",
+        "glosses": {
+            "English": [
+                "Jude"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 773,
+            "uri": "https://sedra.bethmardutho.org/api/root/773.json"
+        },
+        "words": [
+            {
+                "id": 8861,
+                "uri": "https://sedra.bethmardutho.org/api/word/8861.json"
+            },
+            {
+                "id": 8862,
+                "uri": "https://sedra.bethmardutho.org/api/word/8862.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

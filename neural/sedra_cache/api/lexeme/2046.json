@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2046,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2046.json"
+        },
+        "syriac": "\u0723\u0710\u072a\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "Saron"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1224,
+            "uri": "https://sedra.bethmardutho.org/api/root/1224.json"
+        },
+        "words": [
+            {
+                "id": 13471,
+                "uri": "https://sedra.bethmardutho.org/api/word/13471.json"
+            },
+            {
+                "id": 13470,
+                "uri": "https://sedra.bethmardutho.org/api/word/13470.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

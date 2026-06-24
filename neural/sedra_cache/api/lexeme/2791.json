@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2791,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2791.json"
+        },
+        "syriac": "\u0729\u071b\u071d\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u063a\u064a\u0631",
+                "\u0636\u064a\u0642",
+                "\u0631\u0642\u064a\u0642, \u062f\u0642\u064a\u0642",
+                "\u0628\u0635\u064a\u0631"
+            ],
+            "French": [
+                "petit",
+                "\u00e9troit",
+                "gr\u00eale, fin",
+                "sagace"
+            ],
+            "English": [
+                "slender, thin, small, narrow, subtle.",
+                "narrow",
+                "thin",
+                "small"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1647,
+            "uri": "https://sedra.bethmardutho.org/api/root/1647.json"
+        },
+        "words": [
+            {
+                "id": 18275,
+                "uri": "https://sedra.bethmardutho.org/api/word/18275.json"
+            },
+            {
+                "id": 18274,
+                "uri": "https://sedra.bethmardutho.org/api/word/18274.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

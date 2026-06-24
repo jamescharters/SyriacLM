@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0718\u071f\u0720\u071d\u0720\u0710",
+        "western": "\u0718\u0730\u071f\u0742\u0720\u073a\u071d\u0720\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1526,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1526.json"
+        },
+        "stem": "\u071f\u0720\u071d\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0643\u0644\u064a\u0644, \u062a\u0627\u062c"
+            ],
+            "eng": [
+                "circle (of people).",
+                "crown",
+                "crown, garland",
+                "rim",
+                "wreath"
+            ],
+            "fre": [
+                "couronne, diad\u00e8me"
+            ]
+        },
+        "word": {
+            "id": 10030,
+            "uri": "https://sedra.bethmardutho.org/api/word/10030.json"
+        }
+    }
+]

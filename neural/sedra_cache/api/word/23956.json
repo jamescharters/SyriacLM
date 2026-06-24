@@ -1,0 +1,55 @@
+[
+    {
+        "syriac": "\u0718\u071b\u0712\u0725\u0710",
+        "western": "\u0718\u071b\u0730\u0712\u0742\u0725\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1206,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1206.json"
+        },
+        "stem": "\u071b\u0712\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0628\u0632 \u0627\u0644\u062a\u0642\u062f\u064a\u0633",
+                "\u0645\u0648\u062d\u0644",
+                "\u0648\u0632\u0646 \u0627\u0644\u0634\u0639\u0631",
+                "\u0646\u0635",
+                "\u0646\u0648\u0639 \u0625\u0646\u0634\u0627\u0621",
+                "\u063a\u0634\u0627\u0621 \u0627\u0644\u0628\u0643\u0627\u0631\u0629",
+                "\u0645\u062b\u0627\u0644",
+                "\u0646\u0642\u062f",
+                "\u062e\u062a\u0645"
+            ],
+            "eng": [
+                "stamp, die",
+                "Kth. edition, printing (e.g. <span class=\"selectableFont\">\u071b\u0730\u0712\u0725\u0733\u0710 \u071a\u0721\u073a\u071d\u072b\u0733\u071d\u0733\u0710</span>).",
+                "stamp",
+                "character, style",
+                "seal",
+                "seal, signet"
+            ],
+            "fre": [
+                "monnaie",
+                "m\u00e8tre",
+                "fondri\u00e8re",
+                "texte",
+                "style",
+                "pain \u00e0 consacrer",
+                "hymen",
+                "sceau",
+                "type"
+            ]
+        },
+        "word": {
+            "id": 23956,
+            "uri": "https://sedra.bethmardutho.org/api/word/23956.json"
+        }
+    }
+]

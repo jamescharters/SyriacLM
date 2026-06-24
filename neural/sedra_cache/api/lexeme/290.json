@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 290,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/290.json"
+        },
+        "syriac": "\u0710\u072a\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "Syrie\u2026"
+            ],
+            "English": [
+                "Aram"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 214,
+            "uri": "https://sedra.bethmardutho.org/api/root/214.json"
+        },
+        "words": [
+            {
+                "id": 1913,
+                "uri": "https://sedra.bethmardutho.org/api/word/1913.json"
+            },
+            {
+                "id": 1914,
+                "uri": "https://sedra.bethmardutho.org/api/word/1914.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

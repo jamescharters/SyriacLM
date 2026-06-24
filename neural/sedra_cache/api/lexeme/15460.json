@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15460,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15460.json"
+        },
+        "syriac": "\u071a\u0719\u0726",
+        "glosses": {
+            "English": [
+                "Ip to be rough.",
+                "Ia to cause a commotion"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2675,
+            "uri": "https://sedra.bethmardutho.org/api/root/2675.json"
+        },
+        "words": [
+            {
+                "id": 41853,
+                "uri": "https://sedra.bethmardutho.org/api/word/41853.json"
+            },
+            {
+                "id": 40001,
+                "uri": "https://sedra.bethmardutho.org/api/word/40001.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

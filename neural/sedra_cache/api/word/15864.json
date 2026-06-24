@@ -1,0 +1,60 @@
+[
+    {
+        "syriac": "\u0725\u0726\u0710",
+        "western": "\u0725\u0726\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2384,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2384.json"
+        },
+        "stem": "\u0725\u0726\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u0644",
+                "\u0623\u062e\u0630, \u062c\u0645\u0639",
+                "\u0623\u0632\u0647\u0631",
+                "\u0644\u0645\u0639",
+                "\u00a0"
+            ],
+            "eng": [
+                "to amass, collect",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0725\u0730\u0726\u073a\u071d</span> to be enshrouded, enwrapped",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0725\u0726\u073a\u071d</span> to blossom.",
+                "to increase",
+                "to be occupied with",
+                "to be covered over",
+                "to pick, to pluck",
+                "Ia to flourish, to bloom",
+                "to invest",
+                "to be doubled",
+                "to prepare for burial",
+                "to pick, to select",
+                "Ip to be implicated",
+                "flourish",
+                "bloom",
+                "IIa <span class=\"selectableFont\">\u0725\u0730\u0726\u073a\u071d</span> to envelop, to enfold, to enshroud",
+                "<span class=\"selectableFont\">\u0725\u0726\u0736\u0710</span> engaged in"
+            ],
+            "fre": [
+                "investir",
+                "prendre, recueillir",
+                "\u00a0",
+                "briller",
+                "fleurir"
+            ]
+        },
+        "word": {
+            "id": 15864,
+            "uri": "https://sedra.bethmardutho.org/api/word/15864.json"
+        }
+    }
+]

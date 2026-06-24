@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0718\u0721\u072c\u0712\u0725\u0729",
+        "western": "\u0718\u0721\u0736\u072c\u0742\u0712\u0741\u0730\u0725\u0730\u0729",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 442,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/442.json"
+        },
+        "stem": "\u0712\u0725\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u062d\u0642",
+                "\u0647\u0632\u0632"
+            ],
+            "eng": [
+                "tear",
+                "to confound",
+                "IIp.",
+                "IIa to convulse",
+                "Ia to crush",
+                "rend"
+            ],
+            "fre": [
+                "broyer",
+                "secouer"
+            ]
+        },
+        "word": {
+            "id": 3083,
+            "uri": "https://sedra.bethmardutho.org/api/word/3083.json"
+        }
+    }
+]

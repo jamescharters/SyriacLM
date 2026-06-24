@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 583,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/583.json"
+        },
+        "syriac": "\u0713\u0720\u071d\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Galilean"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 378,
+            "uri": "https://sedra.bethmardutho.org/api/root/378.json"
+        },
+        "words": [
+            {
+                "id": 3805,
+                "uri": "https://sedra.bethmardutho.org/api/word/3805.json"
+            },
+            {
+                "id": 3804,
+                "uri": "https://sedra.bethmardutho.org/api/word/3804.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

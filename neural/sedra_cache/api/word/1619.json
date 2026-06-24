@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u0723\u071d\u0710",
+        "western": "\u0710\u0733\u0723\u071d\u0733\u0710",
+        "eastern": "\u0710\u0735\u0723\u071d\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 221,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/221.json"
+        },
+        "stem": "\u0710\u0723\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "doctor, physician, healer.",
+                "physician"
+            ]
+        },
+        "word": {
+            "id": 1619,
+            "uri": "https://sedra.bethmardutho.org/api/word/1619.json"
+        }
+    }
+]

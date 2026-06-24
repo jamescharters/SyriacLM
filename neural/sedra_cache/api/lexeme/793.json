@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 793,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/793.json"
+        },
+        "syriac": "\u0717\u071f\u0722\u0710",
+        "glosses": {
+            "English": [
+                "thus",
+                "thus, in like manner",
+                "such."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 504,
+            "uri": "https://sedra.bethmardutho.org/api/root/504.json"
+        },
+        "words": [
+            {
+                "id": 5156,
+                "uri": "https://sedra.bethmardutho.org/api/word/5156.json"
+            },
+            {
+                "id": 5153,
+                "uri": "https://sedra.bethmardutho.org/api/word/5153.json"
+            },
+            {
+                "id": 5152,
+                "uri": "https://sedra.bethmardutho.org/api/word/5152.json"
+            },
+            {
+                "id": 5155,
+                "uri": "https://sedra.bethmardutho.org/api/word/5155.json"
+            },
+            {
+                "id": 5154,
+                "uri": "https://sedra.bethmardutho.org/api/word/5154.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 1003,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1003.json"
+        },
+        "syriac": "\u071a\u0719\u071d\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0646\u0632\u064a\u0631"
+            ],
+            "French": [
+                "porc"
+            ],
+            "English": [
+                "swine",
+                "Kth. pig.",
+                "boar, swine"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 614,
+            "uri": "https://sedra.bethmardutho.org/api/root/614.json"
+        },
+        "words": [
+            {
+                "id": 6299,
+                "uri": "https://sedra.bethmardutho.org/api/word/6299.json"
+            },
+            {
+                "id": 6713,
+                "uri": "https://sedra.bethmardutho.org/api/word/6713.json"
+            },
+            {
+                "id": 6711,
+                "uri": "https://sedra.bethmardutho.org/api/word/6711.json"
+            },
+            {
+                "id": 6710,
+                "uri": "https://sedra.bethmardutho.org/api/word/6710.json"
+            },
+            {
+                "id": 6709,
+                "uri": "https://sedra.bethmardutho.org/api/word/6709.json"
+            },
+            {
+                "id": 6714,
+                "uri": "https://sedra.bethmardutho.org/api/word/6714.json"
+            },
+            {
+                "id": 6712,
+                "uri": "https://sedra.bethmardutho.org/api/word/6712.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

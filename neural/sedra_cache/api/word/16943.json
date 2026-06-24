@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0726\u072a\u0725\u0718\u0722",
+        "western": "\u0726\u0741\u0736\u072a\u0725\u073d\u0718\u0722",
+        "lexeme": {
+            "id": 2606,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2606.json"
+        },
+        "stem": "\u0726\u072a\u0725\u0718\u0722",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0]\u0641\u0631\u0639\u0648\u0646["
+            ],
+            "eng": [
+                "Pharaoh"
+            ],
+            "fre": [
+                "Pharaon\u2026"
+            ]
+        },
+        "word": {
+            "id": 16943,
+            "uri": "https://sedra.bethmardutho.org/api/word/16943.json"
+        }
+    }
+]

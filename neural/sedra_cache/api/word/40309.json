@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u072a",
+        "western": "\u071b\u0733\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15461,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15461.json"
+        },
+        "stem": "\u071b\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to turn swiftly.",
+                "Ia to fly",
+                "IIIa to make to fly"
+            ]
+        },
+        "word": {
+            "id": 40309,
+            "uri": "https://sedra.bethmardutho.org/api/word/40309.json"
+        }
+    }
+]

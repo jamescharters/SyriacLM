@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0718\u0721",
+        "western": "\u0721\u072c\u0742\u073d\u0718\u0721",
+        "lexeme": {
+            "id": 1877,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1877.json"
+        },
+        "stem": "\u0721\u072c\u0718\u0721",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "always",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> never.",
+                "everlasting",
+                "ever"
+            ]
+        },
+        "word": {
+            "id": 12347,
+            "uri": "https://sedra.bethmardutho.org/api/word/12347.json"
+        }
+    }
+]

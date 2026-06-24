@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2790,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2790.json"
+        },
+        "syriac": "\u0729\u071b\u0721\u0710",
+        "glosses": {
+            "English": [
+                "ash",
+                "ashes."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1646,
+            "uri": "https://sedra.bethmardutho.org/api/root/1646.json"
+        },
+        "words": [
+            {
+                "id": 18272,
+                "uri": "https://sedra.bethmardutho.org/api/word/18272.json"
+            },
+            {
+                "id": 18271,
+                "uri": "https://sedra.bethmardutho.org/api/word/18271.json"
+            },
+            {
+                "id": 18273,
+                "uri": "https://sedra.bethmardutho.org/api/word/18273.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

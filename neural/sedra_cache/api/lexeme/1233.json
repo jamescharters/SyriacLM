@@ -1,0 +1,65 @@
+[
+    {
+        "lexeme": {
+            "id": 1233,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1233.json"
+        },
+        "syriac": "\u071b\u071f\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0645\u0631",
+                "\u062f\u0631\u062c\u0629, \u0631\u062a\u0628\u0629",
+                "\u0642\u0627\u0639\u062f\u0629",
+                "\u0637\u0642\u0633",
+                "\u062b\u0648\u0628, \u0639\u062f\u0629",
+                "\u0634\u0631\u0630\u0645\u0629, \u062d\u0627\u0634\u064a\u0629, \u062d\u0631\u0627\u0633"
+            ],
+            "French": [
+                "ordre",
+                "degr\u00e9, dignit\u00e9",
+                "r\u00e8gle",
+                "rite",
+                "v\u00eatement, \u00e9quipement",
+                "troupe, suite, gardes"
+            ],
+            "English": [
+                "order",
+                "arrangement",
+                "rite",
+                "equipment, apparatus",
+                "rule, regulation",
+                "Kth. <span class=\"selectableFont\">\u071b\u0730\u071f\u0723\u0733\u0710</span> system.",
+                "(and <span class=\"selectableFont\">\u071b\u0730\u071f\u0723\u0733\u0710</span>) rank, order, series"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c4\u03ac\u03be\u03b9\u03c2"
+            ]
+        },
+        "root": {
+            "id": 731,
+            "uri": "https://sedra.bethmardutho.org/api/root/731.json"
+        },
+        "words": [
+            {
+                "id": 8077,
+                "uri": "https://sedra.bethmardutho.org/api/word/8077.json"
+            },
+            {
+                "id": 8075,
+                "uri": "https://sedra.bethmardutho.org/api/word/8075.json"
+            },
+            {
+                "id": 8078,
+                "uri": "https://sedra.bethmardutho.org/api/word/8078.json"
+            },
+            {
+                "id": 8076,
+                "uri": "https://sedra.bethmardutho.org/api/word/8076.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

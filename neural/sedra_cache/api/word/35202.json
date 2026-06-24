@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0729\u0720\u071d\u0721\u0710",
+        "western": "\u0729\u0720\u073a\u071d\u0721\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5996,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5996.json"
+        },
+        "stem": "\u0729\u0720\u071d\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0631\u0636",
+                "\u0645\u0642\u0627\u0637\u0639\u0629"
+            ],
+            "eng": [
+                "clime, region, zone."
+            ],
+            "fre": [
+                "r\u00e9gion",
+                "terre"
+            ]
+        },
+        "word": {
+            "id": 35202,
+            "uri": "https://sedra.bethmardutho.org/api/word/35202.json"
+        }
+    }
+]

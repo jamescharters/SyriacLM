@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071f\u072c\u0712\u072c\u0710",
+        "western": "\u071f\u0741\u072c\u0742\u0733\u0712\u0742\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1603,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1603.json"
+        },
+        "stem": "\u071f\u072c\u0712\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "handwriting",
+                "handwriting."
+            ]
+        },
+        "word": {
+            "id": 10653,
+            "uri": "https://sedra.bethmardutho.org/api/word/10653.json"
+        }
+    }
+]

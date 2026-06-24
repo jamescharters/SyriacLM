@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2746,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2746.json"
+        },
+        "syriac": "\u0729\u0715\u0721\u0710",
+        "glosses": {
+            "English": [
+                "first",
+                "early",
+                "ancient",
+                "<span class=\"selectableFont\">\u0723\u073d\u0718\u072a\u0308\u071d\u0733\u071d\u0736\u0710 \u0729\u0730\u0715\u0308</span><span class=\"selectableFont\">\u0721\u0736\u0710</span> Old Syriacs (i.e. Orthodox opp. Catholic)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1621,
+            "uri": "https://sedra.bethmardutho.org/api/root/1621.json"
+        },
+        "words": [
+            {
+                "id": 17860,
+                "uri": "https://sedra.bethmardutho.org/api/word/17860.json"
+            },
+            {
+                "id": 17861,
+                "uri": "https://sedra.bethmardutho.org/api/word/17861.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

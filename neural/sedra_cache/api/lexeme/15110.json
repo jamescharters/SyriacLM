@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 15110,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15110.json"
+        },
+        "syriac": "\u072b\u0721\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0633\u0644, \u0623\u0644\u0642\u0649",
+                "\u0644\u0641\u0638",
+                "\u0637\u0644\u0642, \u0637\u0631\u062d",
+                "\u0623\u0631\u062e\u0649 (\u0644\u0633\u0627\u0646\u0647)",
+                "\u0623\u0633\u0627\u0644",
+                "\u062d\u062b",
+                "\u062f\u0642\u0642, \u0641\u062a\u062a"
+            ],
+            "French": [
+                "envoyer, lancer",
+                "prononcer",
+                "renvoyer, rejeter",
+                "faire aller (sa langue)",
+                "faire couler",
+                "exciter",
+                "pulv\u00e9riser"
+            ],
+            "English": [
+                "Gram. to occur.",
+                "IIp to be dismissed, discharged, let go",
+                "to dismiss",
+                "to send forth, dispatch",
+                "IIa to discharge, let go"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3162,
+            "uri": "https://sedra.bethmardutho.org/api/root/3162.json"
+        },
+        "words": [
+            {
+                "id": 40838,
+                "uri": "https://sedra.bethmardutho.org/api/word/40838.json"
+            },
+            {
+                "id": 40636,
+                "uri": "https://sedra.bethmardutho.org/api/word/40636.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

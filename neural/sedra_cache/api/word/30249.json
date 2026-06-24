@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0712\u0710",
+        "western": "\u0729\u073d\u0718\u0308\u0712\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9436,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9436.json"
+        },
+        "stem": "\u0729\u0718\u0712\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0628\u0647",
+                "\u0648\u0633\u0637",
+                "\u062e\u064a\u0645\u0629"
+            ],
+            "eng": [
+                "canopy, umbrella.",
+                "vault, arch, dome"
+            ],
+            "fre": [
+                "centre",
+                "tente",
+                "d\u00f4me"
+            ]
+        },
+        "word": {
+            "id": 30249,
+            "uri": "https://sedra.bethmardutho.org/api/word/30249.json"
+        }
+    }
+]

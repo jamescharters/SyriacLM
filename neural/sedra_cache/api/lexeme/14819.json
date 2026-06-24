@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14819,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14819.json"
+        },
+        "syriac": "\u0720\u071f\u0723\u0729",
+        "glosses": {
+            "English": [
+                "IVa to compile a dictionary."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2956,
+            "uri": "https://sedra.bethmardutho.org/api/root/2956.json"
+        },
+        "words": [
+            {
+                "id": 40515,
+                "uri": "https://sedra.bethmardutho.org/api/word/40515.json"
+            },
+            {
+                "id": 40102,
+                "uri": "https://sedra.bethmardutho.org/api/word/40102.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

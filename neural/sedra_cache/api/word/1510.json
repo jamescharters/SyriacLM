@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u0710\u0723\u0710",
+        "western": "\u0720\u0733\u0710\u0723\u0733\u0710",
+        "lexeme": {
+            "id": 200,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/200.json"
+        },
+        "stem": "\u0710\u0723\u0710",
+        "category": "proper noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0622\u0633"
+            ],
+            "eng": [
+                "myrtle.",
+                "Asa"
+            ],
+            "fre": [
+                "myrte"
+            ]
+        },
+        "word": {
+            "id": 1510,
+            "uri": "https://sedra.bethmardutho.org/api/word/1510.json"
+        }
+    }
+]

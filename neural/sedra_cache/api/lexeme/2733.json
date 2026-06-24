@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 2733,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2733.json"
+        },
+        "syriac": "\u0729\u0712\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0641\u0646"
+            ],
+            "French": [
+                "s\u00e9pulture"
+            ],
+            "English": [
+                "place of burial.",
+                "tomb",
+                "sepulchre"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1617,
+            "uri": "https://sedra.bethmardutho.org/api/root/1617.json"
+        },
+        "words": [
+            {
+                "id": 23084,
+                "uri": "https://sedra.bethmardutho.org/api/word/23084.json"
+            },
+            {
+                "id": 17771,
+                "uri": "https://sedra.bethmardutho.org/api/word/17771.json"
+            },
+            {
+                "id": 17770,
+                "uri": "https://sedra.bethmardutho.org/api/word/17770.json"
+            },
+            {
+                "id": 17769,
+                "uri": "https://sedra.bethmardutho.org/api/word/17769.json"
+            },
+            {
+                "id": 17772,
+                "uri": "https://sedra.bethmardutho.org/api/word/17772.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

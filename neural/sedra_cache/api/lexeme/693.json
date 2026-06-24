@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 693,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/693.json"
+        },
+        "syriac": "\u0715\u071d\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u064a\u0627\u0646"
+            ],
+            "French": [
+                "juge"
+            ],
+            "English": [
+                "judge",
+                "judge."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 440,
+            "uri": "https://sedra.bethmardutho.org/api/root/440.json"
+        },
+        "words": [
+            {
+                "id": 4465,
+                "uri": "https://sedra.bethmardutho.org/api/word/4465.json"
+            },
+            {
+                "id": 4464,
+                "uri": "https://sedra.bethmardutho.org/api/word/4464.json"
+            },
+            {
+                "id": 4463,
+                "uri": "https://sedra.bethmardutho.org/api/word/4463.json"
+            },
+            {
+                "id": 4462,
+                "uri": "https://sedra.bethmardutho.org/api/word/4462.json"
+            },
+            {
+                "id": 4459,
+                "uri": "https://sedra.bethmardutho.org/api/word/4459.json"
+            },
+            {
+                "id": 4458,
+                "uri": "https://sedra.bethmardutho.org/api/word/4458.json"
+            },
+            {
+                "id": 4461,
+                "uri": "https://sedra.bethmardutho.org/api/word/4461.json"
+            },
+            {
+                "id": 4460,
+                "uri": "https://sedra.bethmardutho.org/api/word/4460.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

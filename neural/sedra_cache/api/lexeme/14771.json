@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 14771,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14771.json"
+        },
+        "syriac": "\u0729\u0722\u0729\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u062a\u0644 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "chanter",
+                "chanter\u2026"
+            ],
+            "English": [
+                "IVa to chant, sing."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2169,
+            "uri": "https://sedra.bethmardutho.org/api/root/2169.json"
+        },
+        "words": [
+            {
+                "id": 41449,
+                "uri": "https://sedra.bethmardutho.org/api/word/41449.json"
+            },
+            {
+                "id": 40247,
+                "uri": "https://sedra.bethmardutho.org/api/word/40247.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

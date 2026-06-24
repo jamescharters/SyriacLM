@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2857,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2857.json"
+        },
+        "syriac": "\u0729\u0725\u0715",
+        "glosses": {
+            "English": [
+                "IIIa to bend (knees).",
+                "kneel",
+                "Ia to bend (knees etc.)",
+                "IIp to kneel down"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1694,
+            "uri": "https://sedra.bethmardutho.org/api/root/1694.json"
+        },
+        "words": [
+            {
+                "id": 18520,
+                "uri": "https://sedra.bethmardutho.org/api/word/18520.json"
+            },
+            {
+                "id": 18522,
+                "uri": "https://sedra.bethmardutho.org/api/word/18522.json"
+            },
+            {
+                "id": 18521,
+                "uri": "https://sedra.bethmardutho.org/api/word/18521.json"
+            },
+            {
+                "id": 18523,
+                "uri": "https://sedra.bethmardutho.org/api/word/18523.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

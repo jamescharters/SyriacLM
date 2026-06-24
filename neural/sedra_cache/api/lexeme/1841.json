@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1841,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1841.json"
+        },
+        "syriac": "\u0721\u072a\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u0627\u0631\u0629"
+            ],
+            "French": [
+                "fiel"
+            ],
+            "English": [
+                "gall",
+                "gall, poison, bile",
+                "bitter cucumber."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1099,
+            "uri": "https://sedra.bethmardutho.org/api/root/1099.json"
+        },
+        "words": [
+            {
+                "id": 12161,
+                "uri": "https://sedra.bethmardutho.org/api/word/12161.json"
+            },
+            {
+                "id": 12162,
+                "uri": "https://sedra.bethmardutho.org/api/word/12162.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

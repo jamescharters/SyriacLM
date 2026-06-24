@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u0720\u0721",
+        "western": "\u0710\u0736\u0720\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15412,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15412.json"
+        },
+        "stem": "\u0710\u0720\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to keep anger."
+            ]
+        },
+        "word": {
+            "id": 41306,
+            "uri": "https://sedra.bethmardutho.org/api/word/41306.json"
+        }
+    }
+]

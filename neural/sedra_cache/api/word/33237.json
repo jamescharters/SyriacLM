@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u071b\u0725\u0718\u072c\u0710",
+        "western": "\u0726\u0730\u071b\u0725\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14278,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14278.json"
+        },
+        "stem": "\u0726\u071b\u0725\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0645\u0642"
+            ],
+            "eng": [
+                "stupidity."
+            ],
+            "fre": [
+                "sottise"
+            ]
+        },
+        "word": {
+            "id": 33237,
+            "uri": "https://sedra.bethmardutho.org/api/word/33237.json"
+        }
+    }
+]

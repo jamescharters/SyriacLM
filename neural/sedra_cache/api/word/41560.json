@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0728\u072a\u0715",
+        "western": "\u0728\u072a\u0715",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15312,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15312.json"
+        },
+        "stem": "\u0728\u072a\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u0728\u071b\u072a\u0736\u0715</span> to flutter about."
+            ]
+        },
+        "word": {
+            "id": 41560,
+            "uri": "https://sedra.bethmardutho.org/api/word/41560.json"
+        }
+    }
+]

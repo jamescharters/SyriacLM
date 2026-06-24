@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 479,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/479.json"
+        },
+        "syriac": "\u0712\u072a\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0627\u0631\u0639"
+            ],
+            "French": [
+                "rue"
+            ],
+            "English": [
+                "quarter",
+                "street",
+                "open place.",
+                "street, path"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 321,
+            "uri": "https://sedra.bethmardutho.org/api/root/321.json"
+        },
+        "words": [
+            {
+                "id": 3345,
+                "uri": "https://sedra.bethmardutho.org/api/word/3345.json"
+            },
+            {
+                "id": 3347,
+                "uri": "https://sedra.bethmardutho.org/api/word/3347.json"
+            },
+            {
+                "id": 3346,
+                "uri": "https://sedra.bethmardutho.org/api/word/3346.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

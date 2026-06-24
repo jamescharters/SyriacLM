@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0729\u072a\u0710",
+        "western": "\u0721\u0730\u0729\u072a\u0733\u0710",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2870,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2870.json"
+        },
+        "stem": "\u0721\u0729\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0626\u0631"
+            ],
+            "eng": [
+                "water channel.",
+                "cistern",
+                "crowing"
+            ],
+            "fre": [
+                "puits"
+            ]
+        },
+        "word": {
+            "id": 18570,
+            "uri": "https://sedra.bethmardutho.org/api/word/18570.json"
+        }
+    }
+]

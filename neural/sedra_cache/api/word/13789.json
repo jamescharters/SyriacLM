@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0723\u072c\u0715\u0729\u0718",
+        "western": "\u0715\u0741\u0736\u0710\u0723\u072c\u0741\u0715\u0742\u0736\u0729\u0718",
+        "tense": "perfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15668,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15668.json"
+        },
+        "stem": "\u0723\u0715\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0646\u0634\u0642",
+                "\u0627\u0646\u0641\u0635\u0644",
+                "\u0645\u0632\u0642, \u0634\u0642, \u0641\u0635\u0644"
+            ],
+            "eng": [
+                "divide",
+                "& <span class=\"selectableFont\">\u0723\u0715\u0736\u0729</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u0715\u073d\u0718\u0729</span>, Ia to tear apart",
+                "to cause a schism",
+                "to divide a way, to part asunder",
+                "IIp to be torn, rent.",
+                "tear",
+                "to lacerate",
+                "IIa to rend, to tear (clothes etc.)",
+                "Ip"
+            ],
+            "fre": [
+                "d\u00e9chirer, diviser, s\u00e9parer",
+                "se s\u00e9parer",
+                "se fendre"
+            ]
+        },
+        "word": {
+            "id": 13789,
+            "uri": "https://sedra.bethmardutho.org/api/word/13789.json"
+        }
+    }
+]

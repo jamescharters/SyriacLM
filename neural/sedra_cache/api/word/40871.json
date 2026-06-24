@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u0721\u071d",
+        "western": "\u0725\u0730\u0721\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15242,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15242.json"
+        },
+        "stem": "\u0725\u0721\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to blind",
+                "IIIa to extinguish, to extirpate.",
+                "IIp to be blinded"
+            ]
+        },
+        "word": {
+            "id": 40871,
+            "uri": "https://sedra.bethmardutho.org/api/word/40871.json"
+        }
+    }
+]

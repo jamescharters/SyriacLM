@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072b\u0718\u071a\u071b\u0710",
+        "western": "\u072b\u073d\u0718\u071a\u0733\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12377,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12377.json"
+        },
+        "stem": "\u072b\u0718\u071a\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0634\u0648\u064a\u0647",
+                "\u062a\u062e\u0631\u064a\u0628",
+                "\u0634\u0631",
+                "\u0641\u0636\u062d"
+            ],
+            "eng": [
+                "rape.",
+                "destruction, deformation"
+            ],
+            "fre": [
+                "viol",
+                "destruction",
+                "d\u00e9formation",
+                "mal"
+            ]
+        },
+        "word": {
+            "id": 31736,
+            "uri": "https://sedra.bethmardutho.org/api/word/31736.json"
+        }
+    }
+]

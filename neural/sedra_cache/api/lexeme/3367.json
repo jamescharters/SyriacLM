@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3367,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3367.json"
+        },
+        "syriac": "\u072c\u0718",
+        "glosses": {
+            "English": [
+                "the letter Taw [t]",
+                "Taw",
+                "numerical value: 400."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1955,
+            "uri": "https://sedra.bethmardutho.org/api/root/1955.json"
+        },
+        "words": [
+            {
+                "id": 22381,
+                "uri": "https://sedra.bethmardutho.org/api/word/22381.json"
+            },
+            {
+                "id": 22380,
+                "uri": "https://sedra.bethmardutho.org/api/word/22380.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

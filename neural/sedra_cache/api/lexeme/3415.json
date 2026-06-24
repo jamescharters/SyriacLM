@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3415,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3415.json"
+        },
+        "syriac": "\u072c\u0722\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "second",
+                "second",
+                "double",
+                "second in authority",
+                "repetition",
+                "<span class=\"selectableFont\">\u072c\u0736\u0722\u071d\u0733\u0722 \u0722\u0733\u0721\u073d\u0718\u0723\u0733\u0710</span>  Deuteronomy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1980,
+            "uri": "https://sedra.bethmardutho.org/api/root/1980.json"
+        },
+        "words": [
+            {
+                "id": 22571,
+                "uri": "https://sedra.bethmardutho.org/api/word/22571.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

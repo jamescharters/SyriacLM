@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071a\u0720\u0721\u0710",
+        "western": "\u071a\u0730\u0720\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1051,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1051.json"
+        },
+        "stem": "\u071a\u0720\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "dream",
+                "dream."
+            ]
+        },
+        "word": {
+            "id": 7114,
+            "uri": "https://sedra.bethmardutho.org/api/word/7114.json"
+        }
+    }
+]

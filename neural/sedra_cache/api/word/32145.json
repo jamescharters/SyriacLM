@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u071a\u071d\u0728\u0718\u072c\u0710",
+        "western": "\u071a\u073a\u071d\u0728\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8006,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8006.json"
+        },
+        "stem": "\u071a\u071d\u0728\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0644\u0627\u0628\u0629",
+                "\u0634\u062f\u0629",
+                "\u0646\u0634\u0627\u0637"
+            ],
+            "eng": [
+                "compactness",
+                "firmness",
+                "curdling."
+            ],
+            "fre": [
+                "ardeur",
+                "vigueur",
+                "fermet\u00e9"
+            ]
+        },
+        "word": {
+            "id": 32145,
+            "uri": "https://sedra.bethmardutho.org/api/word/32145.json"
+        }
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "lexeme": {
+            "id": 1261,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1261.json"
+        },
+        "syriac": "\u071b\u0725\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "error",
+                "deception",
+                "mistake",
+                "deception.",
+                "erring, error"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 742,
+            "uri": "https://sedra.bethmardutho.org/api/root/742.json"
+        },
+        "words": [
+            {
+                "id": 23874,
+                "uri": "https://sedra.bethmardutho.org/api/word/23874.json"
+            },
+            {
+                "id": 8270,
+                "uri": "https://sedra.bethmardutho.org/api/word/8270.json"
+            },
+            {
+                "id": 8269,
+                "uri": "https://sedra.bethmardutho.org/api/word/8269.json"
+            },
+            {
+                "id": 8268,
+                "uri": "https://sedra.bethmardutho.org/api/word/8268.json"
+            },
+            {
+                "id": 8267,
+                "uri": "https://sedra.bethmardutho.org/api/word/8267.json"
+            },
+            {
+                "id": 8271,
+                "uri": "https://sedra.bethmardutho.org/api/word/8271.json"
+            },
+            {
+                "id": 8273,
+                "uri": "https://sedra.bethmardutho.org/api/word/8273.json"
+            },
+            {
+                "id": 8272,
+                "uri": "https://sedra.bethmardutho.org/api/word/8272.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

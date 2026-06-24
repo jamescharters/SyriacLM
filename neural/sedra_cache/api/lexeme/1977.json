@@ -1,0 +1,73 @@
+[
+    {
+        "lexeme": {
+            "id": 1977,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1977.json"
+        },
+        "syriac": "\u0722\u0718\u071f\u072a\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0631\u064a\u0628",
+                "\u062e\u0627\u0631\u0642 \u0627\u0644\u0639\u0627\u062f\u0629",
+                "\u062a\u0631\u0643"
+            ],
+            "French": [
+                "\u00e9tranger",
+                "insolite",
+                "abandon"
+            ],
+            "English": [
+                "strange",
+                "foreign",
+                "alien",
+                "foreign, alien, strange",
+                "foreigner, stranger."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1179,
+            "uri": "https://sedra.bethmardutho.org/api/root/1179.json"
+        },
+        "words": [
+            {
+                "id": 12916,
+                "uri": "https://sedra.bethmardutho.org/api/word/12916.json"
+            },
+            {
+                "id": 12915,
+                "uri": "https://sedra.bethmardutho.org/api/word/12915.json"
+            },
+            {
+                "id": 12914,
+                "uri": "https://sedra.bethmardutho.org/api/word/12914.json"
+            },
+            {
+                "id": 12922,
+                "uri": "https://sedra.bethmardutho.org/api/word/12922.json"
+            },
+            {
+                "id": 12921,
+                "uri": "https://sedra.bethmardutho.org/api/word/12921.json"
+            },
+            {
+                "id": 12920,
+                "uri": "https://sedra.bethmardutho.org/api/word/12920.json"
+            },
+            {
+                "id": 12919,
+                "uri": "https://sedra.bethmardutho.org/api/word/12919.json"
+            },
+            {
+                "id": 12918,
+                "uri": "https://sedra.bethmardutho.org/api/word/12918.json"
+            },
+            {
+                "id": 12917,
+                "uri": "https://sedra.bethmardutho.org/api/word/12917.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "ettaph\u02bfal"
+    }
+]

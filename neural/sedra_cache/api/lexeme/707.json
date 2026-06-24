@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 707,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/707.json"
+        },
+        "syriac": "\u0715\u071f\u072a\u0710",
+        "glosses": {
+            "English": [
+                "male",
+                "ram",
+                "male, masculine",
+                "<span class=\"selectableFont\">\u072a\u073a\u071d\u072b \u0715\u0736\u071f\u072a\u0733\u0710</span> battering ram."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 446,
+            "uri": "https://sedra.bethmardutho.org/api/root/446.json"
+        },
+        "words": [
+            {
+                "id": 4602,
+                "uri": "https://sedra.bethmardutho.org/api/word/4602.json"
+            },
+            {
+                "id": 4599,
+                "uri": "https://sedra.bethmardutho.org/api/word/4599.json"
+            },
+            {
+                "id": 4600,
+                "uri": "https://sedra.bethmardutho.org/api/word/4600.json"
+            },
+            {
+                "id": 4601,
+                "uri": "https://sedra.bethmardutho.org/api/word/4601.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

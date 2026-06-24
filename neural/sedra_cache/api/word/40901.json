@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u0728\u0729\u0728",
+        "western": "\u0729\u0730\u0728\u0729\u0736\u0728",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14779,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14779.json"
+        },
+        "stem": "\u0729\u0728\u0729\u0728",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0630\u0645"
+            ],
+            "eng": [
+                "IVa to cut off."
+            ],
+            "fre": [
+                "trancher"
+            ]
+        },
+        "word": {
+            "id": 40901,
+            "uri": "https://sedra.bethmardutho.org/api/word/40901.json"
+        }
+    }
+]

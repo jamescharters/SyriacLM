@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 2231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2231.json"
+        },
+        "syriac": "\u0721\u072c\u0725\u0712\u072a\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0631\u0642",
+                "\u0628\u0644\u0627\u0647\u0629"
+            ],
+            "French": [
+                "transgression",
+                "sottise"
+            ],
+            "English": [
+                "transgression",
+                "transgression, violation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1333,
+            "uri": "https://sedra.bethmardutho.org/api/root/1333.json"
+        },
+        "words": [
+            {
+                "id": 26290,
+                "uri": "https://sedra.bethmardutho.org/api/word/26290.json"
+            },
+            {
+                "id": 14895,
+                "uri": "https://sedra.bethmardutho.org/api/word/14895.json"
+            },
+            {
+                "id": 14894,
+                "uri": "https://sedra.bethmardutho.org/api/word/14894.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethp\u02bfel"
+    }
+]

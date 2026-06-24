@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15892,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15892.json"
+        },
+        "syriac": "\u072b\u071a",
+        "glosses": {
+            "English": [
+                "Ia to melt, waste away",
+                "IIIa to melt (something)",
+                "to cause to waste."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2677,
+            "uri": "https://sedra.bethmardutho.org/api/root/2677.json"
+        },
+        "words": [
+            {
+                "id": 41946,
+                "uri": "https://sedra.bethmardutho.org/api/word/41946.json"
+            },
+            {
+                "id": 41635,
+                "uri": "https://sedra.bethmardutho.org/api/word/41635.json"
+            },
+            {
+                "id": 41437,
+                "uri": "https://sedra.bethmardutho.org/api/word/41437.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

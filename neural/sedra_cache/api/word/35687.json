@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u071a\u0720\u072b\u0718\u072c\u0710",
+        "western": "\u071a\u0730\u0720\u0733\u072b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13319,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13319.json"
+        },
+        "stem": "\u071a\u0720\u072b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0624\u0633",
+                "\u0636\u0639\u0641"
+            ],
+            "eng": [
+                "feebleness, weakness, frailty."
+            ],
+            "fre": [
+                "mis\u00e8re",
+                "faiblesse"
+            ]
+        },
+        "word": {
+            "id": 35687,
+            "uri": "https://sedra.bethmardutho.org/api/word/35687.json"
+        }
+    }
+]

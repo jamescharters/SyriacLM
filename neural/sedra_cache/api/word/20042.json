@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0721\u072a\u072c\u071d\u0722\u0718\u072c\u0710",
+        "western": "\u0718\u0730\u0715\u0742\u0721\u0730\u072a\u072c\u0741\u071d\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3086,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3086.json"
+        },
+        "stem": "\u0721\u072a\u072c\u071d\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "instruction",
+                "admonition",
+                "admonition, warning, exhortation."
+            ]
+        },
+        "word": {
+            "id": 20042,
+            "uri": "https://sedra.bethmardutho.org/api/word/20042.json"
+        }
+    }
+]

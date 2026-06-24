@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2753.json"
+        },
+        "syriac": "\u0729\u0718\u0712\u072a\u0722\u071d\u071b\u0710",
+        "glosses": {
+            "English": [
+                "shipmaster",
+                "captain"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03ae\u03c4\u03b7\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1625,
+            "uri": "https://sedra.bethmardutho.org/api/root/1625.json"
+        },
+        "words": [
+            {
+                "id": 17891,
+                "uri": "https://sedra.bethmardutho.org/api/word/17891.json"
+            },
+            {
+                "id": 17890,
+                "uri": "https://sedra.bethmardutho.org/api/word/17890.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2624,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2624.json"
+        },
+        "syriac": "\u0726\u072a\u072c\u0718\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Parthian",
+                "Parthians",
+                "scil. nobles"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1557,
+            "uri": "https://sedra.bethmardutho.org/api/root/1557.json"
+        },
+        "words": [
+            {
+                "id": 48014,
+                "uri": "https://sedra.bethmardutho.org/api/word/48014.json"
+            },
+            {
+                "id": 22840,
+                "uri": "https://sedra.bethmardutho.org/api/word/22840.json"
+            },
+            {
+                "id": 17092,
+                "uri": "https://sedra.bethmardutho.org/api/word/17092.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

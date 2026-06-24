@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071d\u072c\u071d\u072a",
+        "western": "\u071d\u0730\u072c\u073a\u071d\u072a",
+        "number": "singular",
+        "lexeme": {
+            "id": 12496,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12496.json"
+        },
+        "stem": "\u071d\u072c\u071d\u072a",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0627\u0644\u0623\u062d\u0631\u0649",
+                "\u0623\u0643\u062b\u0631",
+                "\u0639\u0644\u0649 \u0627\u0644\u0623\u0643\u062b\u0631"
+            ],
+            "eng": [
+                "more",
+                "<span class=\"selectableFont\">\u071a\u0723\u073a\u071d\u072a</span>/<span class=\"selectableFont\">\u071d\u0730\u072c\u073a\u071d\u072a \u0712\u0728\u073a\u071d\u072a</span> more or less."
+            ],
+            "fre": [
+                "plut\u00f4t",
+                "surtout",
+                "plus"
+            ]
+        },
+        "word": {
+            "id": 36069,
+            "uri": "https://sedra.bethmardutho.org/api/word/36069.json"
+        }
+    }
+]

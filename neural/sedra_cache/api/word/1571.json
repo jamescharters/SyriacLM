@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0723\u0710",
+        "western": "\u0710\u0730\u0723\u0733\u0710",
+        "tense": "imperative",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 220,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/220.json"
+        },
+        "stem": "\u0710\u0723\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "heal"
+            ],
+            "lat": [
+                "healer, doctor"
+            ]
+        },
+        "word": {
+            "id": 1571,
+            "uri": "https://sedra.bethmardutho.org/api/word/1571.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 3099,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3099.json"
+        },
+        "syriac": "\u072b\u0712\u071d\u0710",
+        "glosses": {
+            "English": [
+                "captivity",
+                "devastation.",
+                "captivity",
+                "captives"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1803,
+            "uri": "https://sedra.bethmardutho.org/api/root/1803.json"
+        },
+        "words": [
+            {
+                "id": 20191,
+                "uri": "https://sedra.bethmardutho.org/api/word/20191.json"
+            },
+            {
+                "id": 20190,
+                "uri": "https://sedra.bethmardutho.org/api/word/20190.json"
+            },
+            {
+                "id": 20192,
+                "uri": "https://sedra.bethmardutho.org/api/word/20192.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

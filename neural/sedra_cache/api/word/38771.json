@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0729\u072b\u071d\u072b\u0722\u0718\u072c\u0710",
+        "western": "\u0729\u0730\u072b\u073a\u071d\u072b\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11392,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11392.json"
+        },
+        "stem": "\u0729\u072b\u071d\u072b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e",
+                "\u0628\u0643\u0648\u0631\u064a\u0629",
+                "\u0645\u0647\u0646\u0629 \u0634\u064a\u062e, \u0643\u0647\u0646\u0648\u062a",
+                "\u0642\u062f\u0645",
+                "\u0643\u0647\u0646\u0648\u062a",
+                "\u0634\u064a\u062e\u0648\u062e\u0629"
+            ],
+            "eng": [
+                "seniority",
+                "priesthood.",
+                "office of an elder",
+                "old age",
+                "old age",
+                "seniority",
+                "priesthood."
+            ],
+            "fre": [
+                "vieillesse",
+                "a\u00eenesse",
+                "anciennet\u00e9",
+                "pr\u00eatrise",
+                "charge d&#39;ancien, pr\u00eatrise",
+                "s\u00e9nat"
+            ]
+        },
+        "word": {
+            "id": 38771,
+            "uri": "https://sedra.bethmardutho.org/api/word/38771.json"
+        }
+    }
+]

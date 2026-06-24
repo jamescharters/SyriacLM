@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15369,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15369.json"
+        },
+        "syriac": "\u0710\u0721\u0715",
+        "glosses": {
+            "English": [
+                "Ia to flee, escape",
+                "to escape.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0721\u0736\u0715</span> to be able, sufficient"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2890,
+            "uri": "https://sedra.bethmardutho.org/api/root/2890.json"
+        },
+        "words": [
+            {
+                "id": 49958,
+                "uri": "https://sedra.bethmardutho.org/api/word/49958.json"
+            },
+            {
+                "id": 41736,
+                "uri": "https://sedra.bethmardutho.org/api/word/41736.json"
+            },
+            {
+                "id": 41628,
+                "uri": "https://sedra.bethmardutho.org/api/word/41628.json"
+            },
+            {
+                "id": 41163,
+                "uri": "https://sedra.bethmardutho.org/api/word/41163.json"
+            },
+            {
+                "id": 40917,
+                "uri": "https://sedra.bethmardutho.org/api/word/40917.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

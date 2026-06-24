@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0722\u0723",
+        "western": "\u0729\u0730\u072a\u0722\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14692,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14692.json"
+        },
+        "stem": "\u0729\u072a\u0722\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0631\u0628 \u0628\u0627\u0644\u0645\u0637\u0631\u0642\u0629"
+            ],
+            "eng": [
+                "IVa to hammer."
+            ],
+            "fre": [
+                "frapper avec le marteau"
+            ]
+        },
+        "word": {
+            "id": 40108,
+            "uri": "https://sedra.bethmardutho.org/api/word/40108.json"
+        }
+    }
+]

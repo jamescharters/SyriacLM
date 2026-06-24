@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 660,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/660.json"
+        },
+        "syriac": "\u0715\u0718\u0710",
+        "glosses": {
+            "English": [
+                "Ip to be laid low",
+                "IIIp.",
+                "miserable",
+                "IIa to lay low, to weaken, debilitate",
+                "IIIa to make wretched",
+                ", <span class=\"selectableFont\">\u0715\u0718\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u0718\u0736\u0710</span>, Ia to be sad, wretched"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 420,
+            "uri": "https://sedra.bethmardutho.org/api/root/420.json"
+        },
+        "words": [
+            {
+                "id": 29496,
+                "uri": "https://sedra.bethmardutho.org/api/word/29496.json"
+            },
+            {
+                "id": 4178,
+                "uri": "https://sedra.bethmardutho.org/api/word/4178.json"
+            },
+            {
+                "id": 4184,
+                "uri": "https://sedra.bethmardutho.org/api/word/4184.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

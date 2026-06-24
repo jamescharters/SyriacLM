@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 471,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/471.json"
+        },
+        "syriac": "\u0712\u072a\u0718\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Creator",
+                "creator."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 315,
+            "uri": "https://sedra.bethmardutho.org/api/root/315.json"
+        },
+        "words": [
+            {
+                "id": 3320,
+                "uri": "https://sedra.bethmardutho.org/api/word/3320.json"
+            },
+            {
+                "id": 3318,
+                "uri": "https://sedra.bethmardutho.org/api/word/3318.json"
+            },
+            {
+                "id": 3319,
+                "uri": "https://sedra.bethmardutho.org/api/word/3319.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

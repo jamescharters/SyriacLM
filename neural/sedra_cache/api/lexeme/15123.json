@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15123,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15123.json"
+        },
+        "syriac": "\u072b\u072a\u072b",
+        "glosses": {
+            "English": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072b\u072a\u0736\u072b</span> to root, to establish."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2947,
+            "uri": "https://sedra.bethmardutho.org/api/root/2947.json"
+        },
+        "words": [
+            {
+                "id": 40768,
+                "uri": "https://sedra.bethmardutho.org/api/word/40768.json"
+            },
+            {
+                "id": 40539,
+                "uri": "https://sedra.bethmardutho.org/api/word/40539.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

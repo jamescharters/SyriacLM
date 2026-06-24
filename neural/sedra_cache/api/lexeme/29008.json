@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 29008,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29008.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u0710\u071b\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03af\u03c3\u03ac\u03c4\u03b9\u03c2"
+            ],
+            "English": [
+                "woad, a plant producing a dark blue dye"
+            ],
+            "Latin": [
+                "Isatis tinctoria"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03af\u03c3\u03ac\u03c4\u03b9\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49531,
+                "uri": "https://sedra.bethmardutho.org/api/word/49531.json"
+            },
+            {
+                "id": 49505,
+                "uri": "https://sedra.bethmardutho.org/api/word/49505.json"
+            },
+            {
+                "id": 55382,
+                "uri": "https://sedra.bethmardutho.org/api/word/55382.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

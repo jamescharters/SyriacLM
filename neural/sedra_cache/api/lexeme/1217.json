@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1217,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1217.json"
+        },
+        "syriac": "\u071b\u0718\u0726\u0723\u0710",
+        "glosses": {
+            "English": [
+                "type",
+                "example",
+                "type, model, figure, example, likeness",
+                "Gram. form.",
+                "regulation, order",
+                "metaphor"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c4\u03cd\u03c0\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 716,
+            "uri": "https://sedra.bethmardutho.org/api/root/716.json"
+        },
+        "words": [
+            {
+                "id": 23870,
+                "uri": "https://sedra.bethmardutho.org/api/word/23870.json"
+            },
+            {
+                "id": 8022,
+                "uri": "https://sedra.bethmardutho.org/api/word/8022.json"
+            },
+            {
+                "id": 8023,
+                "uri": "https://sedra.bethmardutho.org/api/word/8023.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

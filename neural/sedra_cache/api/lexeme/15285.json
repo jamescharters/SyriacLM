@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15285,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15285.json"
+        },
+        "syriac": "\u0719\u0717\u0721",
+        "glosses": {
+            "English": [
+                "IIp to be foul-smelling.",
+                "IIa to make fetid"
+            ],
+            "Arabic": [
+                "\u0646\u062a\u0646 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "rendre f\u00e9tide",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2369,
+            "uri": "https://sedra.bethmardutho.org/api/root/2369.json"
+        },
+        "words": [
+            {
+                "id": 39931,
+                "uri": "https://sedra.bethmardutho.org/api/word/39931.json"
+            },
+            {
+                "id": 40013,
+                "uri": "https://sedra.bethmardutho.org/api/word/40013.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

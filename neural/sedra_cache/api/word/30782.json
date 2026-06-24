@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0726\u072b\u0718\u072a\u0718\u072c\u0710",
+        "western": "\u0726\u0733\u072b\u073d\u0718\u072a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10158,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10158.json"
+        },
+        "stem": "\u0726\u072b\u0718\u072a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0644\u0627\u0647\u0629",
+                "\u062c\u0647\u0627\u0644\u0627\u062a"
+            ],
+            "eng": [
+                "folly.",
+                "liquefaction"
+            ],
+            "fre": [
+                "sottise (la\u2026)",
+                "sottises"
+            ]
+        },
+        "word": {
+            "id": 30782,
+            "uri": "https://sedra.bethmardutho.org/api/word/30782.json"
+        }
+    }
+]

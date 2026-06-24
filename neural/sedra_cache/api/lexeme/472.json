@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 472,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/472.json"
+        },
+        "syriac": "\u0712\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "creator.",
+                "creator"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 315,
+            "uri": "https://sedra.bethmardutho.org/api/root/315.json"
+        },
+        "words": [
+            {
+                "id": 3322,
+                "uri": "https://sedra.bethmardutho.org/api/word/3322.json"
+            },
+            {
+                "id": 29529,
+                "uri": "https://sedra.bethmardutho.org/api/word/29529.json"
+            },
+            {
+                "id": 3321,
+                "uri": "https://sedra.bethmardutho.org/api/word/3321.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 3434,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3434.json"
+        },
+        "syriac": "\u072c\u0729\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0648\u064a, \u0627\u0642\u062a\u062f\u0631, \u0627\u0634\u062a\u062f"
+            ],
+            "French": [
+                "devenir fort, puissant, intense"
+            ],
+            "English": [
+                "IIp to increase in strength",
+                "prevail",
+                "to prevail over.",
+                "Ia to grow strong, to prevail",
+                "IIa to strengthen"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1991,
+            "uri": "https://sedra.bethmardutho.org/api/root/1991.json"
+        },
+        "words": [
+            {
+                "id": 22654,
+                "uri": "https://sedra.bethmardutho.org/api/word/22654.json"
+            },
+            {
+                "id": 29569,
+                "uri": "https://sedra.bethmardutho.org/api/word/29569.json"
+            },
+            {
+                "id": 29568,
+                "uri": "https://sedra.bethmardutho.org/api/word/29568.json"
+            },
+            {
+                "id": 22653,
+                "uri": "https://sedra.bethmardutho.org/api/word/22653.json"
+            },
+            {
+                "id": 22652,
+                "uri": "https://sedra.bethmardutho.org/api/word/22652.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

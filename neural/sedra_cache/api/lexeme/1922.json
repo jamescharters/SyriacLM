@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 1922,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1922.json"
+        },
+        "syriac": "\u0722\u0715",
+        "glosses": {
+            "English": [
+                "shake"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1147,
+            "uri": "https://sedra.bethmardutho.org/api/root/1147.json"
+        },
+        "words": [
+            {
+                "id": 26468,
+                "uri": "https://sedra.bethmardutho.org/api/word/26468.json"
+            },
+            {
+                "id": 26467,
+                "uri": "https://sedra.bethmardutho.org/api/word/26467.json"
+            },
+            {
+                "id": 12590,
+                "uri": "https://sedra.bethmardutho.org/api/word/12590.json"
+            },
+            {
+                "id": 26470,
+                "uri": "https://sedra.bethmardutho.org/api/word/26470.json"
+            },
+            {
+                "id": 26469,
+                "uri": "https://sedra.bethmardutho.org/api/word/26469.json"
+            },
+            {
+                "id": 12592,
+                "uri": "https://sedra.bethmardutho.org/api/word/12592.json"
+            },
+            {
+                "id": 12591,
+                "uri": "https://sedra.bethmardutho.org/api/word/12591.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

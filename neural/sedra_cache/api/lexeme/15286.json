@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 15286,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15286.json"
+        },
+        "syriac": "\u0726\u0729\u0729",
+        "glosses": {
+            "English": [
+                "stammer",
+                "IIa to babble, prate, talk nonsense",
+                "to stammer."
+            ],
+            "Arabic": [
+                "\u0644\u062c\u0644\u062c",
+                "\u062b\u0631\u062b\u0631",
+                "\u00a0"
+            ],
+            "French": [
+                "balbutier",
+                "bavarder",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3051,
+            "uri": "https://sedra.bethmardutho.org/api/root/3051.json"
+        },
+        "words": [
+            {
+                "id": 46016,
+                "uri": "https://sedra.bethmardutho.org/api/word/46016.json"
+            },
+            {
+                "id": 16130,
+                "uri": "https://sedra.bethmardutho.org/api/word/16130.json"
+            },
+            {
+                "id": 16131,
+                "uri": "https://sedra.bethmardutho.org/api/word/16131.json"
+            },
+            {
+                "id": 27510,
+                "uri": "https://sedra.bethmardutho.org/api/word/27510.json"
+            },
+            {
+                "id": 27511,
+                "uri": "https://sedra.bethmardutho.org/api/word/27511.json"
+            },
+            {
+                "id": 41555,
+                "uri": "https://sedra.bethmardutho.org/api/word/41555.json"
+            },
+            {
+                "id": 40369,
+                "uri": "https://sedra.bethmardutho.org/api/word/40369.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

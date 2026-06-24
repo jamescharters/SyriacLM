@@ -1,0 +1,61 @@
+[
+    {
+        "syriac": "\u0715\u0721\u071f\u0722\u072b\u071d\u0722",
+        "western": "\u0715\u0741\u0730\u0721\u071f\u0742\u0730\u0722\u072b\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1551,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1551.json"
+        },
+        "stem": "\u071f\u0722\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u0639",
+                "\u00a0",
+                "\u0648\u0635\u0644 \u0625\u0644\u0649, \u0639\u062f (\u0643\u0630\u0627)",
+                "\u0627\u062c\u062a\u0645\u0639",
+                "\u0643\u0646\u0633 (\u0645\u0636)",
+                "\u062f\u0641\u0646",
+                "\u0623\u063a\u0644\u0642",
+                "\u0637\u0631\u062f"
+            ],
+            "eng": [
+                "to conclude",
+                "Ia to gather, assemble, collect",
+                "to sweep",
+                "to thicken (of a liquid)",
+                "gather",
+                "assemble",
+                "to compile",
+                "Ip to be gathered",
+                "IIa to assemble, collect together",
+                "to concur",
+                "to reckon, make a computation",
+                "IIp."
+            ],
+            "fre": [
+                "fermer",
+                "s&#39;\u00e9lever \u00e0 (nombre), former (un total)",
+                "rassembler",
+                "se rassembler",
+                "balayer",
+                "ensevelir",
+                "chasser",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 10137,
+            "uri": "https://sedra.bethmardutho.org/api/word/10137.json"
+        }
+    }
+]

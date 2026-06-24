@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0729\u0712\u071d\u0720\u072c\u0710",
+        "western": "\u0729\u0712\u073a\u071d\u0720\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6906,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6906.json"
+        },
+        "stem": "\u0729\u0712\u071d\u0720\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0643\u0648\u0649",
+                "\u0636\u0631\u064a\u0628\u0629"
+            ],
+            "eng": [
+                "accusation, charge."
+            ],
+            "fre": [
+                "accusation",
+                "contribution"
+            ]
+        },
+        "word": {
+            "id": 38931,
+            "uri": "https://sedra.bethmardutho.org/api/word/38931.json"
+        }
+    }
+]

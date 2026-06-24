@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0721\u071f\u072c",
+        "western": "\u0723\u0736\u0721\u071f\u0730\u072c",
+        "number": "singular",
+        "lexeme": {
+            "id": 5582,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5582.json"
+        },
+        "stem": "\u0723\u0721\u071f\u072c",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0644\u062d\u0631\u0641 \u0633\u064a\u0646"
+            ],
+            "eng": [
+                "numerical value 60.",
+                "the letter Semkath"
+            ],
+            "fre": [
+                "letter semkat"
+            ]
+        },
+        "word": {
+            "id": 38357,
+            "uri": "https://sedra.bethmardutho.org/api/word/38357.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0721\u071d\u0722\u0710\u0718\u0723",
+        "western": "\u0710\u073a\u071d\u0721\u073a\u071d\u0722\u0730\u0710\u0733\u0718\u0723",
+        "eastern": "\u0710\u071d\u073c\u0721\u071d\u073c\u0722\u0710\u0718\u0723",
+        "lexeme": {
+            "id": 28981,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28981.json"
+        },
+        "stem": "\u0710\u071d\u0721\u071d\u0722\u0710\u0718\u0723",
+        "category": "numeral",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "half, a measure, the half of a sextarius"
+            ],
+            "grc": [
+                "\u1f21\u03bc\u03af\u03bd\u03b1"
+            ],
+            "lat": [
+                "hemina"
+            ]
+        },
+        "word": {
+            "id": 49486,
+            "uri": "https://sedra.bethmardutho.org/api/word/49486.json"
+        }
+    }
+]

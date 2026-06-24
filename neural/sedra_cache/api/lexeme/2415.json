@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 2415,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2415.json"
+        },
+        "syriac": "\u0725\u072a\u071b\u0720\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0631\u0649"
+            ],
+            "French": [
+                "nudit\u00e9"
+            ],
+            "English": [
+                "nakedness",
+                "nakedness."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c8\u03af\u03bb\u03c9\u03c3\u03b9\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1429,
+            "uri": "https://sedra.bethmardutho.org/api/root/1429.json"
+        },
+        "words": [
+            {
+                "id": 15984,
+                "uri": "https://sedra.bethmardutho.org/api/word/15984.json"
+            },
+            {
+                "id": 26161,
+                "uri": "https://sedra.bethmardutho.org/api/word/26161.json"
+            },
+            {
+                "id": 15985,
+                "uri": "https://sedra.bethmardutho.org/api/word/15985.json"
+            },
+            {
+                "id": 15983,
+                "uri": "https://sedra.bethmardutho.org/api/word/15983.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

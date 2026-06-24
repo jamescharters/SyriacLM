@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 815,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/815.json"
+        },
+        "syriac": "\u0717\u072a\u0718\u0715\u0723",
+        "glosses": {
+            "English": [
+                "Herod the Great"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 517,
+            "uri": "https://sedra.bethmardutho.org/api/root/517.json"
+        },
+        "words": [
+            {
+                "id": 5327,
+                "uri": "https://sedra.bethmardutho.org/api/word/5327.json"
+            },
+            {
+                "id": 5328,
+                "uri": "https://sedra.bethmardutho.org/api/word/5328.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

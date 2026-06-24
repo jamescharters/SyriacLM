@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0710\u0721\u0723\u072a",
+        "western": "\u0710\u0730\u0721\u0723\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1820,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1820.json"
+        },
+        "stem": "\u0721\u0723\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0633\u0644\u0645",
+                "\u0639\u0644\u0645 (\u0645\u0636)",
+                ""
+            ],
+            "eng": [
+                "Ip to be delivered up",
+                "to be scorned",
+                "III to hold in contempt.",
+                "accuse",
+                "to speak contemptuously",
+                "Ia to deliver up",
+                "IIa to bring an accusation",
+                "despise"
+            ],
+            "fre": [
+                "",
+                "enseigner",
+                "livrer"
+            ]
+        },
+        "word": {
+            "id": 12076,
+            "uri": "https://sedra.bethmardutho.org/api/word/12076.json"
+        }
+    }
+]

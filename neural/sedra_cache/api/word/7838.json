@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071a\u072c\u0721\u0710",
+        "western": "\u071a\u0733\u072c\u0742\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1188,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1188.json"
+        },
+        "stem": "\u071a\u072c\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0627\u062a\u0645"
+            ],
+            "eng": [
+                "seal",
+                "token of ratification",
+                "seal."
+            ],
+            "fre": [
+                "sceau"
+            ]
+        },
+        "word": {
+            "id": 7838,
+            "uri": "https://sedra.bethmardutho.org/api/word/7838.json"
+        }
+    }
+]

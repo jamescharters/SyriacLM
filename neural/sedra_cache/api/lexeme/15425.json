@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 15425,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15425.json"
+        },
+        "syriac": "\u072a\u072c\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0645\u0633",
+                "\u0648\u0634\u0648\u0634",
+                "\u0635\u0627\u062a",
+                "\u062a\u0643\u0644\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "murmurer",
+                "chuchoter",
+                "produire un son",
+                "parler",
+                "\u00a0"
+            ],
+            "English": [
+                "to stammer",
+                "Ia to speak softly, murmur",
+                "Ip to be uttered, to be mentioned",
+                "Gram. to be pronounced",
+                "IIIa to resound.",
+                "IIa to utter softly",
+                "to whisper"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2058,
+            "uri": "https://sedra.bethmardutho.org/api/root/2058.json"
+        },
+        "words": [
+            {
+                "id": 41794,
+                "uri": "https://sedra.bethmardutho.org/api/word/41794.json"
+            },
+            {
+                "id": 41184,
+                "uri": "https://sedra.bethmardutho.org/api/word/41184.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

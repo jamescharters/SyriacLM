@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072b\u0720\u0726",
+        "western": "\u072b\u0720\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15729,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15729.json"
+        },
+        "stem": "\u072b\u0720\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0632\u0639, \u0642\u0644\u0639",
+                "\u064a\u0628\u0633"
+            ],
+            "eng": [
+                "IIa to dry up",
+                "Ia to draw out, to tear out, to pull out",
+                "IIp to be drawn (of sword)."
+            ],
+            "fre": [
+                "tirer hors, arracher",
+                "se d\u00e9ss\u00e9cher"
+            ]
+        },
+        "word": {
+            "id": 41297,
+            "uri": "https://sedra.bethmardutho.org/api/word/41297.json"
+        }
+    }
+]

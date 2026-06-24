@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 16,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16.json"
+        },
+        "syriac": "\u0710\u0712\u0720\u0710",
+        "glosses": {
+            "English": [
+                "mourning",
+                "grief",
+                "sadness",
+                "mourning, sorrow, lamentation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 11,
+            "uri": "https://sedra.bethmardutho.org/api/root/11.json"
+        },
+        "words": [
+            {
+                "id": 158,
+                "uri": "https://sedra.bethmardutho.org/api/word/158.json"
+            },
+            {
+                "id": 162,
+                "uri": "https://sedra.bethmardutho.org/api/word/162.json"
+            },
+            {
+                "id": 161,
+                "uri": "https://sedra.bethmardutho.org/api/word/161.json"
+            },
+            {
+                "id": 160,
+                "uri": "https://sedra.bethmardutho.org/api/word/160.json"
+            },
+            {
+                "id": 159,
+                "uri": "https://sedra.bethmardutho.org/api/word/159.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

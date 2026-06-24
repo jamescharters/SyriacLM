@@ -1,0 +1,78 @@
+[
+    {
+        "lexeme": {
+            "id": 1206,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1206.json"
+        },
+        "syriac": "\u071b\u0712\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u062a\u0645",
+                "\u0646\u0642\u062f",
+                "\u0645\u062b\u0627\u0644",
+                "\u063a\u0634\u0627\u0621 \u0627\u0644\u0628\u0643\u0627\u0631\u0629",
+                "\u0646\u0648\u0639 \u0625\u0646\u0634\u0627\u0621",
+                "\u0646\u0635",
+                "\u0648\u0632\u0646 \u0627\u0644\u0634\u0639\u0631",
+                "\u062e\u0628\u0632 \u0627\u0644\u062a\u0642\u062f\u064a\u0633",
+                "\u0645\u0648\u062d\u0644"
+            ],
+            "French": [
+                "sceau",
+                "monnaie",
+                "type",
+                "hymen",
+                "style",
+                "texte",
+                "m\u00e8tre",
+                "pain \u00e0 consacrer",
+                "fondri\u00e8re"
+            ],
+            "English": [
+                "seal",
+                "stamp",
+                "character, style",
+                "seal, signet",
+                "stamp, die",
+                "Kth. edition, printing (e.g. <span class=\"selectableFont\">\u071b\u0730\u0712\u0725\u0733\u0710 \u071a\u0721\u073a\u071d\u072b\u0733\u071d\u0733\u0710</span>)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 706,
+            "uri": "https://sedra.bethmardutho.org/api/root/706.json"
+        },
+        "words": [
+            {
+                "id": 23956,
+                "uri": "https://sedra.bethmardutho.org/api/word/23956.json"
+            },
+            {
+                "id": 7995,
+                "uri": "https://sedra.bethmardutho.org/api/word/7995.json"
+            },
+            {
+                "id": 7994,
+                "uri": "https://sedra.bethmardutho.org/api/word/7994.json"
+            },
+            {
+                "id": 7992,
+                "uri": "https://sedra.bethmardutho.org/api/word/7992.json"
+            },
+            {
+                "id": 7991,
+                "uri": "https://sedra.bethmardutho.org/api/word/7991.json"
+            },
+            {
+                "id": 7996,
+                "uri": "https://sedra.bethmardutho.org/api/word/7996.json"
+            },
+            {
+                "id": 7993,
+                "uri": "https://sedra.bethmardutho.org/api/word/7993.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

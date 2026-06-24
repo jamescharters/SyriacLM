@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0721\u0715",
+        "western": "\u0729\u0730\u072a\u0721\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14802,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14802.json"
+        },
+        "stem": "\u0729\u072a\u0721\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to tile over.",
+                "IVa to lay tiles"
+            ]
+        },
+        "word": {
+            "id": 40557,
+            "uri": "https://sedra.bethmardutho.org/api/word/40557.json"
+        }
+    }
+]

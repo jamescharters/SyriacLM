@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071a\u0718\u072a",
+        "western": "\u071a\u0736\u0718\u0733\u072a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 993,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/993.json"
+        },
+        "stem": "\u071a\u0718\u072a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                " \u0623\u0628\u064a\u0636",
+                "\u0642\u0637\u0639\u0629 \u0646\u0642\u0648\u062f \u0641\u0636\u064a\u0629",
+                "\u0644\u0628\u0633 \u0623\u0628\u064a\u0636"
+            ],
+            "eng": [
+                "white",
+                "white",
+                "<span class=\"selectableFont\">\u071a\u0736\u0718\u0733\u072a\u0308\u0733\u072c\u0733\u0710</span> white hairs, old age."
+            ],
+            "fre": [
+                "blanc",
+                "v\u00eatement blanc",
+                "pi\u00e8ce d&#39;argent"
+            ]
+        },
+        "word": {
+            "id": 6528,
+            "uri": "https://sedra.bethmardutho.org/api/word/6528.json"
+        }
+    }
+]

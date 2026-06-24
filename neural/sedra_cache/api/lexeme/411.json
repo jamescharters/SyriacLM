@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 411,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/411.json"
+        },
+        "syriac": "\u0712\u0722\u071d\u0721\u071d\u0722",
+        "glosses": {
+            "English": [
+                "Benjamin"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 284,
+            "uri": "https://sedra.bethmardutho.org/api/root/284.json"
+        },
+        "words": [
+            {
+                "id": 2844,
+                "uri": "https://sedra.bethmardutho.org/api/word/2844.json"
+            },
+            {
+                "id": 2843,
+                "uri": "https://sedra.bethmardutho.org/api/word/2843.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

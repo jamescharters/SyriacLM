@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1428,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1428.json"
+        },
+        "syriac": "\u071d\u0718\u072a\u072c\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "hereditary",
+                "inheritance",
+                "possession",
+                "heritage, possession."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 850,
+            "uri": "https://sedra.bethmardutho.org/api/root/850.json"
+        },
+        "words": [
+            {
+                "id": 9462,
+                "uri": "https://sedra.bethmardutho.org/api/word/9462.json"
+            },
+            {
+                "id": 9461,
+                "uri": "https://sedra.bethmardutho.org/api/word/9461.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

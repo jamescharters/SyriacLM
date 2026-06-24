@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u072c\u0726\u0718\u0722\u071d\u0710",
+        "western": "\u0710\u073d\u0718\u072a\u072c\u0726\u073d\u0718\u0722\u0733\u071d\u0710",
+        "eastern": "\u0710\u0718\u073c\u072a\u072c\u0726\u0718\u073c\u0722\u0735\u071d\u0710",
+        "lexeme": {
+            "id": 28639,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28639.json"
+        },
+        "stem": "\u0710\u0718\u072a\u072c\u0726\u0718\u0722\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "breathing only in an upright posture, orthopnoea"
+            ],
+            "grc": [
+                "\u1f40\u03c1\u03b8\u03cc\u03c0\u03bd\u03bf\u03b9\u03b1"
+            ]
+        },
+        "word": {
+            "id": 49034,
+            "uri": "https://sedra.bethmardutho.org/api/word/49034.json"
+        }
+    }
+]

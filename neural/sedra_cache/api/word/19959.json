@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a\u0726\u071d\u0710",
+        "western": "\u072a\u0730\u0726\u0742\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3061,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3061.json"
+        },
+        "stem": "\u072a\u0726\u071d\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "loose",
+                "dissolute",
+                "relaxed",
+                "slack",
+                "soft, friable.",
+                "soft"
+            ]
+        },
+        "word": {
+            "id": 19959,
+            "uri": "https://sedra.bethmardutho.org/api/word/19959.json"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2458,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2458.json"
+        },
+        "syriac": "\u0726\u0717\u0723\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Festus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1452,
+            "uri": "https://sedra.bethmardutho.org/api/root/1452.json"
+        },
+        "words": [
+            {
+                "id": 16200,
+                "uri": "https://sedra.bethmardutho.org/api/word/16200.json"
+            },
+            {
+                "id": 16199,
+                "uri": "https://sedra.bethmardutho.org/api/word/16199.json"
+            },
+            {
+                "id": 16198,
+                "uri": "https://sedra.bethmardutho.org/api/word/16198.json"
+            },
+            {
+                "id": 16203,
+                "uri": "https://sedra.bethmardutho.org/api/word/16203.json"
+            },
+            {
+                "id": 16202,
+                "uri": "https://sedra.bethmardutho.org/api/word/16202.json"
+            },
+            {
+                "id": 16201,
+                "uri": "https://sedra.bethmardutho.org/api/word/16201.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

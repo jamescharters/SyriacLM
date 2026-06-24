@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 3102,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3102.json"
+        },
+        "syriac": "\u072b\u0712\u071b\u0710",
+        "glosses": {
+            "English": [
+                "magistrates",
+                "rod",
+                "sceptre",
+                "tribe",
+                "staff",
+                "rod, scourge",
+                "shaft (of light)",
+                "staff, scepter",
+                "tribe",
+                "<span class=\"selectableFont\">\u072b\u0730\u0712\u0308\u071b\u0736\u0710</span> (book of) Judges."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1805,
+            "uri": "https://sedra.bethmardutho.org/api/root/1805.json"
+        },
+        "words": [
+            {
+                "id": 20206,
+                "uri": "https://sedra.bethmardutho.org/api/word/20206.json"
+            },
+            {
+                "id": 20205,
+                "uri": "https://sedra.bethmardutho.org/api/word/20205.json"
+            },
+            {
+                "id": 20204,
+                "uri": "https://sedra.bethmardutho.org/api/word/20204.json"
+            },
+            {
+                "id": 20203,
+                "uri": "https://sedra.bethmardutho.org/api/word/20203.json"
+            },
+            {
+                "id": 20208,
+                "uri": "https://sedra.bethmardutho.org/api/word/20208.json"
+            },
+            {
+                "id": 20207,
+                "uri": "https://sedra.bethmardutho.org/api/word/20207.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

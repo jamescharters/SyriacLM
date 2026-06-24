@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2269,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2269.json"
+        },
+        "syriac": "\u0725\u0718\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0646\u064a\u0646",
+                "\u0631\u0628\u064a\u0628"
+            ],
+            "French": [
+                "f\u0153tus",
+                "nourrisson"
+            ],
+            "English": [
+                "child",
+                "babe",
+                "suckling",
+                "embryo, fetus",
+                "new-born baby."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f14\u03bc\u03b2\u03c1\u03c5\u03bf\u03bd"
+            ]
+        },
+        "root": {
+            "id": 1353,
+            "uri": "https://sedra.bethmardutho.org/api/root/1353.json"
+        },
+        "words": [
+            {
+                "id": 15131,
+                "uri": "https://sedra.bethmardutho.org/api/word/15131.json"
+            },
+            {
+                "id": 15132,
+                "uri": "https://sedra.bethmardutho.org/api/word/15132.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

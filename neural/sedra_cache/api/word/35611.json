@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u072b\u0720\u071b\u0718\u072c\u0710",
+        "western": "\u0721\u072b\u0730\u0720\u071b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7059,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7059.json"
+        },
+        "stem": "\u0721\u072b\u0720\u071b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0631\u0627\u062f\u0629, \u062d\u0631\u0629",
+                "\u0633\u0644\u0637\u0629"
+            ],
+            "eng": [
+                "rule, dominion",
+                "permission",
+                "freewill",
+                "prefectship."
+            ],
+            "fre": [
+                "pouvoir",
+                "volont\u00e9 libre"
+            ]
+        },
+        "word": {
+            "id": 35611,
+            "uri": "https://sedra.bethmardutho.org/api/word/35611.json"
+        }
+    }
+]

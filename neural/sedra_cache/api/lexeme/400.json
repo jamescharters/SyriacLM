@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/400.json"
+        },
+        "syriac": "\u0712\u0720\u0723\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Blastus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 276,
+            "uri": "https://sedra.bethmardutho.org/api/root/276.json"
+        },
+        "words": [
+            {
+                "id": 2769,
+                "uri": "https://sedra.bethmardutho.org/api/word/2769.json"
+            },
+            {
+                "id": 2770,
+                "uri": "https://sedra.bethmardutho.org/api/word/2770.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

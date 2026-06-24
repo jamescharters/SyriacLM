@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0721\u072a",
+        "western": "\u0729\u0730\u0721\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15280,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15280.json"
+        },
+        "stem": "\u0729\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to strap, tie."
+            ]
+        },
+        "word": {
+            "id": 41408,
+            "uri": "https://sedra.bethmardutho.org/api/word/41408.json"
+        }
+    }
+]

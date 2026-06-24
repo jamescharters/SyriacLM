@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u072b\u072c\u0718\u0726",
+        "western": "\u0710\u0736\u072b\u072c\u0741\u073d\u0718\u0726\u0742",
+        "eastern": "\u0710\u0738\u072b\u072c\u0741\u0718\u073f\u0726\u0742",
+        "lexeme": {
+            "id": 312,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/312.json"
+        },
+        "stem": "\u0710\u072b\u072c\u0718\u0726",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "would that!, o that!, I wish (that).",
+                "would that!",
+                "O that!"
+            ],
+            "fre": [
+                "pl\u00fbt au ciel que\u2026"
+            ]
+        },
+        "word": {
+            "id": 2024,
+            "uri": "https://sedra.bethmardutho.org/api/word/2024.json"
+        }
+    }
+]

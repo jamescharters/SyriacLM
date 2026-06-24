@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0718\u071f\u072a\u071d\u0710",
+        "western": "\u0721\u073d\u0718\u071f\u072a\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8028,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8028.json"
+        },
+        "stem": "\u0721\u0718\u071f\u072a\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0645\u0627\u0631"
+            ],
+            "eng": [
+                "hired servant."
+            ],
+            "fre": [
+                "\u00e2nier"
+            ]
+        },
+        "word": {
+            "id": 39256,
+            "uri": "https://sedra.bethmardutho.org/api/word/39256.json"
+        }
+    }
+]

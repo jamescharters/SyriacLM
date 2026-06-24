@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0719\u0729\u072c\u0710",
+        "western": "\u0719\u0736\u0729\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8400,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8400.json"
+        },
+        "stem": "\u0719\u0729\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0636\u064a\u0628",
+                "\u0645\u0646\u062e\u0633"
+            ],
+            "eng": [
+                "bow of a musical instrument.",
+                "goad"
+            ],
+            "fre": [
+                "baguette",
+                "aiguillon"
+            ]
+        },
+        "word": {
+            "id": 29955,
+            "uri": "https://sedra.bethmardutho.org/api/word/29955.json"
+        }
+    }
+]

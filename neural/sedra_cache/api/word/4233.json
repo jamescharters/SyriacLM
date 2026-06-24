@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u0715\u071d\u0729\u072c",
+        "western": "\u0710\u0730\u0715\u0742\u073a\u071d\u0729\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 673,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/673.json"
+        },
+        "stem": "\u0715\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "observe",
+                "versed in",
+                "view",
+                "inspect",
+                "look into"
+            ]
+        },
+        "word": {
+            "id": 4233,
+            "uri": "https://sedra.bethmardutho.org/api/word/4233.json"
+        }
+    }
+]

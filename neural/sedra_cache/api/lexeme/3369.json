@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3369,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3369.json"
+        },
+        "syriac": "\u072c\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "repentance",
+                "remorse, compunction."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1956,
+            "uri": "https://sedra.bethmardutho.org/api/root/1956.json"
+        },
+        "words": [
+            {
+                "id": 22388,
+                "uri": "https://sedra.bethmardutho.org/api/word/22388.json"
+            },
+            {
+                "id": 22389,
+                "uri": "https://sedra.bethmardutho.org/api/word/22389.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14926,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14926.json"
+        },
+        "syriac": "\u0723\u0720\u0713\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u062a\u0628"
+            ],
+            "French": [
+                "\u00e9crire"
+            ],
+            "English": [
+                "IVa to arrange words, to compose, to write."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2966,
+            "uri": "https://sedra.bethmardutho.org/api/root/2966.json"
+        },
+        "words": [
+            {
+                "id": 41499,
+                "uri": "https://sedra.bethmardutho.org/api/word/41499.json"
+            },
+            {
+                "id": 40386,
+                "uri": "https://sedra.bethmardutho.org/api/word/40386.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "syriac": "\u0718\u0725\u0712\u072a",
+        "western": "\u0718\u0725\u0733\u0712\u0742\u0730\u072a",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2232,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2232.json"
+        },
+        "stem": "\u0725\u0712\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0647\u0627\u064a\u0629, \u062d\u062f",
+                "\u0623\u062e\u0637\u0623, \u0642\u0635\u0631 \u0639\u0646",
+                "\u0632\u0627\u0644",
+                "\u0627\u0646\u0633\u062d\u0628, \u0627\u0646\u0637\u0644\u0642",
+                "\u0633\u0628\u0642",
+                "\u0623\u0642\u0646\u0639",
+                "\u062c\u0627\u0648\u0632",
+                "\u0646\u062c\u0627 \u0645\u0646",
+                "\u0639\u0628\u0631",
+                "\u0648\u0631\u0627\u0621"
+            ],
+            "eng": [
+                "transgress",
+                "turn away from",
+                "cross over",
+                "pass over",
+                "to transgress",
+                "Ip",
+                "to defer",
+                "to pass over, to remit",
+                "IIIa to transfer, to remove",
+                "to omit",
+                "to convert",
+                "to surpass",
+                "Ia to pass on, pass by, to cross",
+                "IIIp to be translated, removed, transferred."
+            ],
+            "fre": [
+                "au-del\u00e0 de",
+                "fin, limite",
+                "laisser passer, manquer",
+                "cesser",
+                "se retirer, s&#39;en aller",
+                "pr\u00e9c\u00e9der",
+                "persuader",
+                "d\u00e9passer",
+                "\u00e9chapper \u00e0",
+                "passer"
+            ]
+        },
+        "word": {
+            "id": 14912,
+            "uri": "https://sedra.bethmardutho.org/api/word/14912.json"
+        }
+    }
+]

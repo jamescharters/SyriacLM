@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0718\u071b\u0710",
+        "western": "\u0729\u073d\u0718\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13873,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13873.json"
+        },
+        "stem": "\u0729\u0718\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u064a\u0639"
+            ],
+            "eng": [
+                "herd, flock."
+            ],
+            "fre": [
+                "troupeau"
+            ]
+        },
+        "word": {
+            "id": 35859,
+            "uri": "https://sedra.bethmardutho.org/api/word/35859.json"
+        }
+    }
+]

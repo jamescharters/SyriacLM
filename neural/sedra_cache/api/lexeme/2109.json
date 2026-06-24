@@ -1,0 +1,68 @@
+[
+    {
+        "lexeme": {
+            "id": 2109,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2109.json"
+        },
+        "syriac": "\u0723\u071b\u0710",
+        "glosses": {
+            "English": [
+                "IIIa to lead astray",
+                "turn aside",
+                "turn",
+                "to swerve",
+                "to lapse",
+                "to go astray",
+                "IIIp.",
+                "Ip to be led aside",
+                "Ia to turn aside, to deviate"
+            ],
+            "Arabic": [
+                "\u0639\u0631\u062c (\u0645\u0636), \u062d\u0627\u062f"
+            ],
+            "French": [
+                "d\u00e9vier, se d\u00e9tourner"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1259,
+            "uri": "https://sedra.bethmardutho.org/api/root/1259.json"
+        },
+        "words": [
+            {
+                "id": 13996,
+                "uri": "https://sedra.bethmardutho.org/api/word/13996.json"
+            },
+            {
+                "id": 13995,
+                "uri": "https://sedra.bethmardutho.org/api/word/13995.json"
+            },
+            {
+                "id": 13994,
+                "uri": "https://sedra.bethmardutho.org/api/word/13994.json"
+            },
+            {
+                "id": 14001,
+                "uri": "https://sedra.bethmardutho.org/api/word/14001.json"
+            },
+            {
+                "id": 14000,
+                "uri": "https://sedra.bethmardutho.org/api/word/14000.json"
+            },
+            {
+                "id": 13999,
+                "uri": "https://sedra.bethmardutho.org/api/word/13999.json"
+            },
+            {
+                "id": 13998,
+                "uri": "https://sedra.bethmardutho.org/api/word/13998.json"
+            },
+            {
+                "id": 13997,
+                "uri": "https://sedra.bethmardutho.org/api/word/13997.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

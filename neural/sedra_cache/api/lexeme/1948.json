@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1948,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1948.json"
+        },
+        "syriac": "\u0721\u071a\u072c\u072c\u0710",
+        "glosses": {
+            "English": [
+                "descent",
+                "descent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1164,
+            "uri": "https://sedra.bethmardutho.org/api/root/1164.json"
+        },
+        "words": [
+            {
+                "id": 12706,
+                "uri": "https://sedra.bethmardutho.org/api/word/12706.json"
+            },
+            {
+                "id": 29670,
+                "uri": "https://sedra.bethmardutho.org/api/word/29670.json"
+            },
+            {
+                "id": 12707,
+                "uri": "https://sedra.bethmardutho.org/api/word/12707.json"
+            },
+            {
+                "id": 12705,
+                "uri": "https://sedra.bethmardutho.org/api/word/12705.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

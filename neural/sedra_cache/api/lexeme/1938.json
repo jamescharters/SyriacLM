@@ -1,0 +1,60 @@
+[
+    {
+        "lexeme": {
+            "id": 1938,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1938.json"
+        },
+        "syriac": "\u0721\u0722\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0645\u0639\u062f\u0627\u0646",
+                "\u0645\u0646\u0627\u0631\u0629",
+                "\u0645\u0623\u0630\u0646\u0629"
+            ],
+            "French": [
+                "cand\u00e9labre",
+                "phare",
+                "minaret"
+            ],
+            "English": [
+                "candlestick",
+                "lamp-stand",
+                "minaret.",
+                "lighthouse",
+                "candlestick, lamp stand"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1157,
+            "uri": "https://sedra.bethmardutho.org/api/root/1157.json"
+        },
+        "words": [
+            {
+                "id": 12678,
+                "uri": "https://sedra.bethmardutho.org/api/word/12678.json"
+            },
+            {
+                "id": 12677,
+                "uri": "https://sedra.bethmardutho.org/api/word/12677.json"
+            },
+            {
+                "id": 12681,
+                "uri": "https://sedra.bethmardutho.org/api/word/12681.json"
+            },
+            {
+                "id": 12680,
+                "uri": "https://sedra.bethmardutho.org/api/word/12680.json"
+            },
+            {
+                "id": 12679,
+                "uri": "https://sedra.bethmardutho.org/api/word/12679.json"
+            },
+            {
+                "id": 12682,
+                "uri": "https://sedra.bethmardutho.org/api/word/12682.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

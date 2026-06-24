@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071b\u071d\u0720",
+        "western": "\u071b\u0730\u071d\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15317,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15317.json"
+        },
+        "stem": "\u071b\u071d\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to walk to and fro",
+                "to stroll."
+            ]
+        },
+        "word": {
+            "id": 41151,
+            "uri": "https://sedra.bethmardutho.org/api/word/41151.json"
+        }
+    }
+]

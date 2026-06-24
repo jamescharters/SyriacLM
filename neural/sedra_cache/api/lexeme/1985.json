@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 1985,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1985.json"
+        },
+        "syriac": "\u0721\u0722\u0723\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "testing.",
+                "tempter",
+                "tempter, tester"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1185,
+            "uri": "https://sedra.bethmardutho.org/api/root/1185.json"
+        },
+        "words": [
+            {
+                "id": 13011,
+                "uri": "https://sedra.bethmardutho.org/api/word/13011.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

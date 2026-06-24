@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0722\u072b\u0726\u0720",
+        "western": "\u0722\u0736\u072b\u0726\u0730\u0720",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15593,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15593.json"
+        },
+        "stem": "\u072b\u0726\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0641\u0644, \u062f\u0646\u064a",
+                "\u062e\u0645\u062f \u0646\u0634\u0627\u0637\u0647"
+            ],
+            "eng": [
+                "IIp to be wearied, worn out",
+                "IIIa to bring low, to humble, to overpower.",
+                "to be weakened",
+                "IIa to bring low, to cast down",
+                "to be abased",
+                "weaken",
+                "be low",
+                "Ia to be low",
+                "humble"
+            ],
+            "fre": [
+                "\u00eatre abattu",
+                "\u00eatre bas, vil"
+            ]
+        },
+        "word": {
+            "id": 41632,
+            "uri": "https://sedra.bethmardutho.org/api/word/41632.json"
+        }
+    }
+]

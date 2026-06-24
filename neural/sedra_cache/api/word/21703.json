@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u072b\u0722\u0718\u0717\u071d",
+        "western": "\u0720\u0730\u072b\u0722\u0730\u0718\u0717\u0331\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 3279,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3279.json"
+        },
+        "stem": "\u072b\u0722\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "year",
+                "eryngium",
+                "<strong>s\u030cnt d-\u02beb</strong>(<strong>\u02be</strong>)",
+                "lichen",
+                "tree-moss"
+            ]
+        },
+        "word": {
+            "id": 21703,
+            "uri": "https://sedra.bethmardutho.org/api/word/21703.json"
+        }
+    }
+]

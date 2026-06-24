@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 87,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/87.json"
+        },
+        "syriac": "\u0710\u071d\u0720\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u062c\u0631\u0629"
+            ],
+            "French": [
+                "arbre"
+            ],
+            "English": [
+                "tree",
+                "tree."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 69,
+            "uri": "https://sedra.bethmardutho.org/api/root/69.json"
+        },
+        "words": [
+            {
+                "id": 646,
+                "uri": "https://sedra.bethmardutho.org/api/word/646.json"
+            },
+            {
+                "id": 645,
+                "uri": "https://sedra.bethmardutho.org/api/word/645.json"
+            },
+            {
+                "id": 644,
+                "uri": "https://sedra.bethmardutho.org/api/word/644.json"
+            },
+            {
+                "id": 642,
+                "uri": "https://sedra.bethmardutho.org/api/word/642.json"
+            },
+            {
+                "id": 643,
+                "uri": "https://sedra.bethmardutho.org/api/word/643.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

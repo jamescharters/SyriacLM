@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0712\u071f\u0720\u0722\u072b",
+        "western": "\u0712\u0741\u071f\u0742\u073d\u0720\u0722\u0733\u072b",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "common",
+        "lexeme": {
+            "id": 3462,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3462.json"
+        },
+        "stem": "\u071f\u0720\u0722\u072b",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0644 \u0645\u0646"
+            ],
+            "eng": [
+                "every one"
+            ],
+            "fre": [
+                "quiconque"
+            ]
+        },
+        "word": {
+            "id": 1430,
+            "uri": "https://sedra.bethmardutho.org/api/word/1430.json"
+        }
+    }
+]

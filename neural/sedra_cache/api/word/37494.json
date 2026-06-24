@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0713\u0725\u071d\u0728\u0710",
+        "western": "\u0713\u0725\u073a\u071d\u0728\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13809,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13809.json"
+        },
+        "stem": "\u0713\u0725\u071d\u0728\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0627\u0626\u0645",
+                "\u0645\u0643\u0631\u0648\u0647"
+            ],
+            "eng": [
+                "abominable, odious."
+            ],
+            "fre": [
+                "d\u00e9go\u00fbt\u00e9",
+                "repoussant"
+            ]
+        },
+        "word": {
+            "id": 37494,
+            "uri": "https://sedra.bethmardutho.org/api/word/37494.json"
+        }
+    }
+]

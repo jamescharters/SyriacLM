@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 143,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/143.json"
+        },
+        "syriac": "\u0710\u0720\u071d\u072b\u0712\u0725",
+        "glosses": {
+            "English": [
+                "Elizabeth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 108,
+            "uri": "https://sedra.bethmardutho.org/api/root/108.json"
+        },
+        "words": [
+            {
+                "id": 965,
+                "uri": "https://sedra.bethmardutho.org/api/word/965.json"
+            },
+            {
+                "id": 966,
+                "uri": "https://sedra.bethmardutho.org/api/word/966.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

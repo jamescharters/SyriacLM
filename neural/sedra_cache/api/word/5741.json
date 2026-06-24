@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0719\u0720\u0713",
+        "western": "\u0715\u0741\u0730\u0710\u0719\u0720\u0736\u0713\u0742",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 884,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/884.json"
+        },
+        "stem": "\u0719\u0720\u0713",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIp to be enlightened.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0719\u0720\u0736\u0713</span> to shine, be radiant",
+                "shine"
+            ]
+        },
+        "word": {
+            "id": 5741,
+            "uri": "https://sedra.bethmardutho.org/api/word/5741.json"
+        }
+    }
+]

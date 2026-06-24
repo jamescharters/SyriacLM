@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 3075,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3075.json"
+        },
+        "syriac": "\u072a\u072b\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "blameless",
+                "accusation",
+                "blame",
+                "gift",
+                "blame, accusation, censure",
+                "gift, conferring of a favor."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1790,
+            "uri": "https://sedra.bethmardutho.org/api/root/1790.json"
+        },
+        "words": [
+            {
+                "id": 20012,
+                "uri": "https://sedra.bethmardutho.org/api/word/20012.json"
+            },
+            {
+                "id": 20005,
+                "uri": "https://sedra.bethmardutho.org/api/word/20005.json"
+            },
+            {
+                "id": 20008,
+                "uri": "https://sedra.bethmardutho.org/api/word/20008.json"
+            },
+            {
+                "id": 20007,
+                "uri": "https://sedra.bethmardutho.org/api/word/20007.json"
+            },
+            {
+                "id": 20006,
+                "uri": "https://sedra.bethmardutho.org/api/word/20006.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

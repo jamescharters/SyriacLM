@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3487,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3487.json"
+        },
+        "syriac": "\u0721\u0719\u0721\u0722\u0710",
+        "glosses": {
+            "English": [
+                "guest",
+                "guest."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 568,
+            "uri": "https://sedra.bethmardutho.org/api/root/568.json"
+        },
+        "words": [
+            {
+                "id": 24083,
+                "uri": "https://sedra.bethmardutho.org/api/word/24083.json"
+            },
+            {
+                "id": 5757,
+                "uri": "https://sedra.bethmardutho.org/api/word/5757.json"
+            },
+            {
+                "id": 5763,
+                "uri": "https://sedra.bethmardutho.org/api/word/5763.json"
+            }
+        ],
+        "category": "participle adjective"
+    }
+]

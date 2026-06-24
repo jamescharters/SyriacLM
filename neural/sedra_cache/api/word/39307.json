@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u072b\u0720\u0710",
+        "western": "\u0712\u072b\u0733\u0720\u0733\u0710",
+        "eastern": "\u0712\u072b\u0735\u0720\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9898,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9898.json"
+        },
+        "stem": "\u0712\u072b\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0636\u062c"
+            ],
+            "eng": [
+                "ripeness."
+            ],
+            "fre": [
+                "maturit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 39307,
+            "uri": "https://sedra.bethmardutho.org/api/word/39307.json"
+        }
+    }
+]

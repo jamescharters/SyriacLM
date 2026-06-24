@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0722\u071d\u0710",
+        "western": "\u0721\u0733\u072a\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11883,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11883.json"
+        },
+        "stem": "\u0721\u072a\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0647\u0645",
+                "\u062d\u0642\u064a\u0642\u064a, \u062e\u0635\u0648\u0635\u064a",
+                "\u0631\u0628\u064a"
+            ],
+            "eng": [
+                "properly called, proper",
+                "supreme, dominant",
+                "Dominical, pertaining to the Lord."
+            ],
+            "fre": [
+                "principal",
+                "du ma\u00eetre, du seigneur",
+                "vrai, propre"
+            ]
+        },
+        "word": {
+            "id": 31849,
+            "uri": "https://sedra.bethmardutho.org/api/word/31849.json"
+        }
+    }
+]

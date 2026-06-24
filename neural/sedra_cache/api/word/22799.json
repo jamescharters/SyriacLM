@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0712\u0710",
+        "western": "\u071f\u0741\u073d\u0718\u0712\u0741\u0733\u0710",
+        "eastern": "\u071f\u0718\u073c\u0712\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1479,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1479.json"
+        },
+        "stem": "\u071f\u0718\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0648\u0643",
+                "\u0643\u0623\u0633"
+            ],
+            "eng": [
+                "cup",
+                "thorn",
+                "thorn",
+                "cup."
+            ],
+            "fre": [
+                "\u00e9pine",
+                "coupe"
+            ]
+        },
+        "word": {
+            "id": 22799,
+            "uri": "https://sedra.bethmardutho.org/api/word/22799.json"
+        }
+    }
+]

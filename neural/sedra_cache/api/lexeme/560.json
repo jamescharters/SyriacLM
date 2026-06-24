@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 560,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/560.json"
+        },
+        "syriac": "\u0713\u071d\u072a",
+        "glosses": {
+            "English": [
+                "for",
+                "for, indeed."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b3\u03ac\u03c1"
+            ]
+        },
+        "root": {
+            "id": 369,
+            "uri": "https://sedra.bethmardutho.org/api/root/369.json"
+        },
+        "words": [
+            {
+                "id": 53112,
+                "uri": "https://sedra.bethmardutho.org/api/word/53112.json"
+            },
+            {
+                "id": 3684,
+                "uri": "https://sedra.bethmardutho.org/api/word/3684.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

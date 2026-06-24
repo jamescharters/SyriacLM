@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 3381,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3381.json"
+        },
+        "syriac": "\u072c\u0718\u072a\u0710",
+        "glosses": {
+            "English": [
+                "ox",
+                "steer",
+                "bull, ox."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1963,
+            "uri": "https://sedra.bethmardutho.org/api/root/1963.json"
+        },
+        "words": [
+            {
+                "id": 27664,
+                "uri": "https://sedra.bethmardutho.org/api/word/27664.json"
+            },
+            {
+                "id": 22441,
+                "uri": "https://sedra.bethmardutho.org/api/word/22441.json"
+            },
+            {
+                "id": 22440,
+                "uri": "https://sedra.bethmardutho.org/api/word/22440.json"
+            },
+            {
+                "id": 22444,
+                "uri": "https://sedra.bethmardutho.org/api/word/22444.json"
+            },
+            {
+                "id": 22443,
+                "uri": "https://sedra.bethmardutho.org/api/word/22443.json"
+            },
+            {
+                "id": 22442,
+                "uri": "https://sedra.bethmardutho.org/api/word/22442.json"
+            },
+            {
+                "id": 22445,
+                "uri": "https://sedra.bethmardutho.org/api/word/22445.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

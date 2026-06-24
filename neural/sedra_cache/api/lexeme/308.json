@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 308,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/308.json"
+        },
+        "syriac": "\u0710\u072b\u0725\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Isaiah"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 228,
+            "uri": "https://sedra.bethmardutho.org/api/root/228.json"
+        },
+        "words": [
+            {
+                "id": 1996,
+                "uri": "https://sedra.bethmardutho.org/api/word/1996.json"
+            },
+            {
+                "id": 1998,
+                "uri": "https://sedra.bethmardutho.org/api/word/1998.json"
+            },
+            {
+                "id": 1997,
+                "uri": "https://sedra.bethmardutho.org/api/word/1997.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

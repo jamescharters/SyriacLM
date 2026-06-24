@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u071f\u0723\u0718\u071b\u071d\u0723",
+        "western": "\u0710\u073a\u071d\u071f\u0723\u0733\u0718\u071b\u071d\u0723",
+        "lexeme": {
+            "id": 28907,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28907.json"
+        },
+        "stem": "\u0710\u071d\u071f\u0723\u0718\u071b\u071d\u0723",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fowler, birdcatcher"
+            ],
+            "grc": [
+                "\u1f30\u03be\u03b5\u03c5\u03c4\u03ae\u03c2"
+            ],
+            "lat": [
+                "viscator"
+            ]
+        },
+        "word": {
+            "id": 55281,
+            "uri": "https://sedra.bethmardutho.org/api/word/55281.json"
+        }
+    }
+]

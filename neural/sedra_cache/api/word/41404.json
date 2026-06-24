@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0722\u0725\u0721",
+        "western": "\u0722\u0725\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15715,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15715.json"
+        },
+        "stem": "\u0722\u0725\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0623\u0631"
+            ],
+            "eng": [
+                "to roar, growl",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0722\u0725\u0736\u0721</span> to rebuke, to chide.",
+                "Ia to make a sound"
+            ],
+            "fre": [
+                "rugir"
+            ]
+        },
+        "word": {
+            "id": 41404,
+            "uri": "https://sedra.bethmardutho.org/api/word/41404.json"
+        }
+    }
+]

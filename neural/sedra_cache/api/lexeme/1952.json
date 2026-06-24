@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1952,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1952.json"
+        },
+        "syriac": "\u0722\u071b\u0718\u072a\u0710",
+        "glosses": {
+            "English": [
+                "guard, watch.",
+                "gaoler",
+                "keeper",
+                "guard"
+            ],
+            "Arabic": [
+                "\u062d\u0627\u0631\u0633"
+            ],
+            "French": [
+                "garde (m.)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1166,
+            "uri": "https://sedra.bethmardutho.org/api/root/1166.json"
+        },
+        "words": [
+            {
+                "id": 12766,
+                "uri": "https://sedra.bethmardutho.org/api/word/12766.json"
+            },
+            {
+                "id": 12768,
+                "uri": "https://sedra.bethmardutho.org/api/word/12768.json"
+            },
+            {
+                "id": 12767,
+                "uri": "https://sedra.bethmardutho.org/api/word/12767.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

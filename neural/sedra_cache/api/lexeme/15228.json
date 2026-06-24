@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15228,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15228.json"
+        },
+        "syriac": "\u0729\u071d\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u064a\u0641"
+            ],
+            "French": [
+                "passer l&#39;\u00e9t\u00e9"
+            ],
+            "English": [
+                "IIa to pass the summer."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2839,
+            "uri": "https://sedra.bethmardutho.org/api/root/2839.json"
+        },
+        "words": [
+            {
+                "id": 39928,
+                "uri": "https://sedra.bethmardutho.org/api/word/39928.json"
+            },
+            {
+                "id": 40015,
+                "uri": "https://sedra.bethmardutho.org/api/word/40015.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

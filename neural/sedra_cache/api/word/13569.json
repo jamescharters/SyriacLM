@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u0712\u072a\u0717\u0718\u0722",
+        "western": "\u0723\u0730\u0712\u0742\u072a\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2057,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2057.json"
+        },
+        "stem": "\u0723\u0712\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hope, expectation.",
+                "hope"
+            ]
+        },
+        "word": {
+            "id": 13569,
+            "uri": "https://sedra.bethmardutho.org/api/word/13569.json"
+        }
+    }
+]

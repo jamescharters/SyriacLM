@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 918,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/918.json"
+        },
+        "syriac": "\u071a\u0710\u072a\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u064a\u0629",
+                "\u0646\u0628\u0627\u0644\u0629"
+            ],
+            "French": [
+                "libert\u00e9",
+                "noblesse"
+            ],
+            "English": [
+                "freedom",
+                "liberty",
+                "nobility",
+                "freedom, liberty",
+                "freewill."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 582,
+            "uri": "https://sedra.bethmardutho.org/api/root/582.json"
+        },
+        "words": [
+            {
+                "id": 5968,
+                "uri": "https://sedra.bethmardutho.org/api/word/5968.json"
+            },
+            {
+                "id": 5963,
+                "uri": "https://sedra.bethmardutho.org/api/word/5963.json"
+            },
+            {
+                "id": 5962,
+                "uri": "https://sedra.bethmardutho.org/api/word/5962.json"
+            },
+            {
+                "id": 5961,
+                "uri": "https://sedra.bethmardutho.org/api/word/5961.json"
+            },
+            {
+                "id": 5964,
+                "uri": "https://sedra.bethmardutho.org/api/word/5964.json"
+            },
+            {
+                "id": 5967,
+                "uri": "https://sedra.bethmardutho.org/api/word/5967.json"
+            },
+            {
+                "id": 5966,
+                "uri": "https://sedra.bethmardutho.org/api/word/5966.json"
+            },
+            {
+                "id": 5965,
+                "uri": "https://sedra.bethmardutho.org/api/word/5965.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

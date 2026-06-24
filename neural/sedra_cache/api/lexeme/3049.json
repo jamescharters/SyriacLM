@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 3049,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3049.json"
+        },
+        "syriac": "\u072c\u072a\u0725\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0635\u0627\u0644\u062d\u0629"
+            ],
+            "French": [
+                "r\u00e9conciliation"
+            ],
+            "English": [
+                "reconciliation",
+                "reconciliation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1775,
+            "uri": "https://sedra.bethmardutho.org/api/root/1775.json"
+        },
+        "words": [
+            {
+                "id": 19872,
+                "uri": "https://sedra.bethmardutho.org/api/word/19872.json"
+            },
+            {
+                "id": 27762,
+                "uri": "https://sedra.bethmardutho.org/api/word/27762.json"
+            },
+            {
+                "id": 19873,
+                "uri": "https://sedra.bethmardutho.org/api/word/19873.json"
+            },
+            {
+                "id": 19871,
+                "uri": "https://sedra.bethmardutho.org/api/word/19871.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

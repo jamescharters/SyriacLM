@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14781,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14781.json"
+        },
+        "syriac": "\u071b\u071d\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u064a\u0631",
+                "\u062d\u062b (\u0627\u0644\u0639\u0642\u0644)"
+            ],
+            "French": [
+                "faire voler",
+                "exciter ( l&#39;esprit)"
+            ],
+            "English": [
+                "to cause to fly.",
+                "IIa to make to fly."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 40494,
+                "uri": "https://sedra.bethmardutho.org/api/word/40494.json"
+            },
+            {
+                "id": 40541,
+                "uri": "https://sedra.bethmardutho.org/api/word/40541.json"
+            },
+            {
+                "id": 41316,
+                "uri": "https://sedra.bethmardutho.org/api/word/41316.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

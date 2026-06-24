@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 15792,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15792.json"
+        },
+        "syriac": "\u0729\u0720\u0710",
+        "glosses": {
+            "English": [
+                "to scorn",
+                "to be scorned",
+                "Ip to perish",
+                "to be displeased",
+                "to provoke, vex.",
+                "to kill",
+                "IIa to fry",
+                "IIp to be burnt up",
+                "to excite",
+                "to be inflamed",
+                "Ia to fry, to toast",
+                "IIIa to fry"
+            ],
+            "Arabic": [
+                "\u0642\u0644\u0649, \u0634\u0648\u0649",
+                "\u0642\u062a\u0644"
+            ],
+            "French": [
+                "frire, griller",
+                "tuer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2565,
+            "uri": "https://sedra.bethmardutho.org/api/root/2565.json"
+        },
+        "words": [
+            {
+                "id": 42179,
+                "uri": "https://sedra.bethmardutho.org/api/word/42179.json"
+            },
+            {
+                "id": 39834,
+                "uri": "https://sedra.bethmardutho.org/api/word/39834.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

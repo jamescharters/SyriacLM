@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u0719\u0729\u0718\u072c",
+        "western": "\u0722\u0736\u0719\u0729\u073d\u0718\u072c",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15642,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15642.json"
+        },
+        "stem": "\u0719\u0729\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0646\u062e\u0633"
+            ],
+            "eng": [
+                "to provoke",
+                "IIa.",
+                "Ip",
+                "Ia to prick, goad"
+            ],
+            "fre": [
+                "\u00a0",
+                "aiguillonner"
+            ]
+        },
+        "word": {
+            "id": 41638,
+            "uri": "https://sedra.bethmardutho.org/api/word/41638.json"
+        }
+    }
+]

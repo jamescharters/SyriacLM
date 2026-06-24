@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 904,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/904.json"
+        },
+        "syriac": "\u0721\u0719\u0725\u0718\u0729\u0710",
+        "glosses": {
+            "English": [
+                "trumpeter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 574,
+            "uri": "https://sedra.bethmardutho.org/api/root/574.json"
+        },
+        "words": [
+            {
+                "id": 5837,
+                "uri": "https://sedra.bethmardutho.org/api/word/5837.json"
+            },
+            {
+                "id": 5838,
+                "uri": "https://sedra.bethmardutho.org/api/word/5838.json"
+            },
+            {
+                "id": 5725,
+                "uri": "https://sedra.bethmardutho.org/api/word/5725.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

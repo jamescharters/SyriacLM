@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071f\u0720\u072b\u0710",
+        "western": "\u071f\u0741\u0736\u0720\u072b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1537,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1537.json"
+        },
+        "stem": "\u071f\u0720\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0644\u0633"
+            ],
+            "eng": [
+                "lime, quicklime.",
+                "lime"
+            ],
+            "fre": [
+                "chaux"
+            ]
+        },
+        "word": {
+            "id": 10082,
+            "uri": "https://sedra.bethmardutho.org/api/word/10082.json"
+        }
+    }
+]

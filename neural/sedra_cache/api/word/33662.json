@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0712\u071b\u071d\u072c\u0710",
+        "western": "\u0712\u0733\u071b\u073a\u071d\u072c\u0733\u0710",
+        "eastern": "\u0712\u0735\u071b\u071d\u073c\u072c\u0735\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14027,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14027.json"
+        },
+        "stem": "\u0712\u071b\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0628\u0631\u064a\u0642"
+            ],
+            "eng": [
+                "wine-jar",
+                "pitcher, bottle."
+            ],
+            "fre": [
+                "cruche"
+            ],
+            "syr": [
+                "plur. \u0712\u0735\u071b\u0718\u0735\u072c\u0735\u0710 <strong>bt\u0323wt\u02be</strong> <em>b\u0101t\u0323w\u0101t\u0331\u0101</em>, masc.!",
+                "plur. \u0712\u0735\u071b\u071d\u0735\u072c\u0735\u0710 <strong>bt\u0323yt\u02be</strong> <em>b\u0101t\u0323y\u0101t\u0331\u0101</em>"
+            ]
+        },
+        "word": {
+            "id": 33662,
+            "uri": "https://sedra.bethmardutho.org/api/word/33662.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 59,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/59.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0635\u0637\u0628\u0644\u060c \u0645\u0630\u0648\u062f"
+            ],
+            "French": [
+                "\u00e9table, cr\u00e8che"
+            ],
+            "English": [
+                "Uriah"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 48,
+            "uri": "https://sedra.bethmardutho.org/api/root/48.json"
+        },
+        "words": [
+            {
+                "id": 320,
+                "uri": "https://sedra.bethmardutho.org/api/word/320.json"
+            },
+            {
+                "id": 321,
+                "uri": "https://sedra.bethmardutho.org/api/word/321.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

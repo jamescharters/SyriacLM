@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0726\u0726",
+        "western": "\u0729\u0730\u0726\u0736\u0726",
+        "lexeme": {
+            "id": 19996,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19996.json"
+        },
+        "stem": "\u0729\u0726\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0636\u0646",
+                "\u0623\u0641\u0631\u062e"
+            ],
+            "fre": [
+                "faire \u00e9clore",
+                "couver"
+            ]
+        },
+        "word": {
+            "id": 46370,
+            "uri": "https://sedra.bethmardutho.org/api/word/46370.json"
+        }
+    }
+]

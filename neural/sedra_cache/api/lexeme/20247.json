@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 20247,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20247.json"
+        },
+        "syriac": "\u0710\u0712\u0710\u0720\u071b\u072a\u0718\u0723",
+        "glosses": {
+            "English": [
+                "silly, stupid"
+            ],
+            "Latin": [
+                "stultus, stolidus"
+            ],
+            "Greek": [
+                "\u1f00\u03b2\u03ad\u03bb\u03c4\u03b5\u03c1\u03bf\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03b2\u03ad\u03bb\u03c4\u03b5\u03c1\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48201,
+                "uri": "https://sedra.bethmardutho.org/api/word/48201.json"
+            },
+            {
+                "id": 46621,
+                "uri": "https://sedra.bethmardutho.org/api/word/46621.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

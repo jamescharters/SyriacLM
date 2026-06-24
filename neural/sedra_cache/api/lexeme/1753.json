@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1753.json"
+        },
+        "syriac": "\u0721\u071d\u0720\u071d\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Miletus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1052,
+            "uri": "https://sedra.bethmardutho.org/api/root/1052.json"
+        },
+        "words": [
+            {
+                "id": 11497,
+                "uri": "https://sedra.bethmardutho.org/api/word/11497.json"
+            },
+            {
+                "id": 11496,
+                "uri": "https://sedra.bethmardutho.org/api/word/11496.json"
+            },
+            {
+                "id": 11498,
+                "uri": "https://sedra.bethmardutho.org/api/word/11498.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

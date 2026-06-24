@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 647,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/647.json"
+        },
+        "syriac": "\u0715\u0712\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0642\u0648\u0644, \u0628\u0631\u064a\u0629",
+                "\u0635\u062d\u0631\u0627\u0621"
+            ],
+            "French": [
+                "champs , campagne",
+                "d\u00e9sert"
+            ],
+            "English": [
+                "country",
+                "desert",
+                "field, country."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 415,
+            "uri": "https://sedra.bethmardutho.org/api/root/415.json"
+        },
+        "words": [
+            {
+                "id": 4115,
+                "uri": "https://sedra.bethmardutho.org/api/word/4115.json"
+            },
+            {
+                "id": 4114,
+                "uri": "https://sedra.bethmardutho.org/api/word/4114.json"
+            },
+            {
+                "id": 4113,
+                "uri": "https://sedra.bethmardutho.org/api/word/4113.json"
+            },
+            {
+                "id": 4116,
+                "uri": "https://sedra.bethmardutho.org/api/word/4116.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

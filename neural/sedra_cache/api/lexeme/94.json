@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 94,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/94.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u071f\u072a",
+        "glosses": {
+            "English": [
+                "Issachar"
+            ]
+        },
+        "etymologies": {
+            "Hebrew": [
+                "\u05d9\u05b4\u05e9\u05b8\u05bc\u05c2\u05e9\u05db\u05b8\u05e8"
+            ]
+        },
+        "root": {
+            "id": 76,
+            "uri": "https://sedra.bethmardutho.org/api/root/76.json"
+        },
+        "words": [
+            {
+                "id": 696,
+                "uri": "https://sedra.bethmardutho.org/api/word/696.json"
+            },
+            {
+                "id": 695,
+                "uri": "https://sedra.bethmardutho.org/api/word/695.json"
+            }
+        ],
+        "category": "proper noun (nations; e.g. Huns)"
+    }
+]

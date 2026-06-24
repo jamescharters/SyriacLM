@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3425,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3425.json"
+        },
+        "syriac": "\u072c\u0726\u0720\u0710",
+        "glosses": {
+            "English": [
+                "phylacteries",
+                "phylactery."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1988,
+            "uri": "https://sedra.bethmardutho.org/api/root/1988.json"
+        },
+        "words": [
+            {
+                "id": 22599,
+                "uri": "https://sedra.bethmardutho.org/api/word/22599.json"
+            },
+            {
+                "id": 22598,
+                "uri": "https://sedra.bethmardutho.org/api/word/22598.json"
+            },
+            {
+                "id": 22597,
+                "uri": "https://sedra.bethmardutho.org/api/word/22597.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

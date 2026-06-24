@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0710\u072b\u071d\u071b",
+        "western": "\u0710\u0730\u072b\u073a\u071d\u071b",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3146,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3146.json"
+        },
+        "stem": "\u072b\u0718\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "treat w/ contempt",
+                "IIIa to render contemptible",
+                "to profane.",
+                "despise",
+                "Ip",
+                "IIa",
+                "Ia to scorn, to treat with contempt",
+                "to neglect"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 42342,
+            "uri": "https://sedra.bethmardutho.org/api/word/42342.json"
+        }
+    }
+]

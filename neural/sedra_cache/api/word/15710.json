@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0725\u0721\u071d\u0729\u072c\u0710",
+        "western": "\u0725\u0730\u0721\u073a\u071d\u0729\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2355,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2355.json"
+        },
+        "stem": "\u0725\u0721\u071d\u0729\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645\u064a\u0642, \u0633\u0645\u064a\u0643",
+                "\u0623\u062e\u064a\u0631, \u0641\u064a \u0627\u0644\u063a\u0627\u064a\u0629",
+                "\u0635\u0639\u0628",
+                "\u0645\u062a\u0642\u062f\u0645 (\u0633\u0646)"
+            ],
+            "eng": [
+                "deep, profound",
+                "difficult.",
+                "deep"
+            ],
+            "fre": [
+                "extr\u00eame",
+                "profond, \u00e9pais",
+                "difficile",
+                "avanc\u00e9 (\u00e2ge)"
+            ]
+        },
+        "word": {
+            "id": 15710,
+            "uri": "https://sedra.bethmardutho.org/api/word/15710.json"
+        }
+    }
+]

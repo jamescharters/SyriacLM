@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0723\u0718\u0712\u0710",
+        "western": "\u0722\u0733\u0723\u073d\u0718\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9705,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9705.json"
+        },
+        "stem": "\u0722\u0723\u0718\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0631\u064a\u0643, \u0623\u0645\u064a\u0646"
+            ],
+            "eng": [
+                "one who takes.",
+                "recipient, partaker"
+            ],
+            "fre": [
+                "participant, fid\u00e8le"
+            ]
+        },
+        "word": {
+            "id": 39802,
+            "uri": "https://sedra.bethmardutho.org/api/word/39802.json"
+        }
+    }
+]

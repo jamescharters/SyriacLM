@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15413,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15413.json"
+        },
+        "syriac": "\u0721\u0725\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0631\u062c\u0631\u062c"
+            ],
+            "French": [
+                "vaciller"
+            ],
+            "English": [
+                "Ia to stagger."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2404,
+            "uri": "https://sedra.bethmardutho.org/api/root/2404.json"
+        },
+        "words": [
+            {
+                "id": 41901,
+                "uri": "https://sedra.bethmardutho.org/api/word/41901.json"
+            },
+            {
+                "id": 40144,
+                "uri": "https://sedra.bethmardutho.org/api/word/40144.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

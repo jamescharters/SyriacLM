@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0720\u0719\u0712\u0720\u0710",
+        "western": "\u0720\u0719\u0736\u0712\u0742\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 837,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/837.json"
+        },
+        "stem": "\u0719\u0712\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0628\u0644, \u0628\u0631\u0627\u0632"
+            ],
+            "eng": [
+                "Kth. trash, rubbish.",
+                "dung, manure, excrement",
+                "dung",
+                "dirt"
+            ],
+            "fre": [
+                "fumier, excr\u00e9ment"
+            ]
+        },
+        "word": {
+            "id": 5383,
+            "uri": "https://sedra.bethmardutho.org/api/word/5383.json"
+        }
+    }
+]

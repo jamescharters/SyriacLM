@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 16552,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16552.json"
+        },
+        "syriac": "\u0710\u0722\u0718\u0722",
+        "glosses": {
+            "English": [
+                "they, them, there"
+            ]
+        },
+        "etymologies": {
+            "Syriac": [
+                "\u0717\u0718"
+            ]
+        },
+        "words": [
+            {
+                "id": 50059,
+                "uri": "https://sedra.bethmardutho.org/api/word/50059.json"
+            },
+            {
+                "id": 42926,
+                "uri": "https://sedra.bethmardutho.org/api/word/42926.json"
+            }
+        ],
+        "category": "pronoun"
+    }
+]

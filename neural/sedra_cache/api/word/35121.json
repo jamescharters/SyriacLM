@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0728\u0720\u0720\u0718\u072c\u0710",
+        "western": "\u0721\u0728\u0730\u0720\u0720\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11437,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11437.json"
+        },
+        "stem": "\u0721\u0728\u0720\u0720\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0641\u0627\u0621"
+            ],
+            "eng": [
+                "purification, cleansing."
+            ],
+            "fre": [
+                "puret\u00e9"
+            ]
+        },
+        "word": {
+            "id": 35121,
+            "uri": "https://sedra.bethmardutho.org/api/word/35121.json"
+        }
+    }
+]

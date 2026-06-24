@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0728\u071a\u0718\u0710",
+        "western": "\u0728\u0730\u071a\u0718\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2682,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2682.json"
+        },
+        "stem": "\u0728\u071a\u0718\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fair weather",
+                "clear sky, fine weather.",
+                "serenity"
+            ]
+        },
+        "word": {
+            "id": 17434,
+            "uri": "https://sedra.bethmardutho.org/api/word/17434.json"
+        }
+    }
+]

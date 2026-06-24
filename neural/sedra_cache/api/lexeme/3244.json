@@ -1,0 +1,82 @@
+[
+    {
+        "lexeme": {
+            "id": 3244,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3244.json"
+        },
+        "syriac": "\u0721\u072b\u0721\u0725\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0633\u062a\u0645\u0627\u0639",
+                "\u0623\u0630\u0646"
+            ],
+            "French": [
+                "action d&#39;entendre",
+                "oreille"
+            ],
+            "English": [
+                "hearing",
+                "obedience",
+                "sense of hearing",
+                "obedience, hearing."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1888,
+            "uri": "https://sedra.bethmardutho.org/api/root/1888.json"
+        },
+        "words": [
+            {
+                "id": 21384,
+                "uri": "https://sedra.bethmardutho.org/api/word/21384.json"
+            },
+            {
+                "id": 28716,
+                "uri": "https://sedra.bethmardutho.org/api/word/28716.json"
+            },
+            {
+                "id": 28715,
+                "uri": "https://sedra.bethmardutho.org/api/word/28715.json"
+            },
+            {
+                "id": 28714,
+                "uri": "https://sedra.bethmardutho.org/api/word/28714.json"
+            },
+            {
+                "id": 28713,
+                "uri": "https://sedra.bethmardutho.org/api/word/28713.json"
+            },
+            {
+                "id": 21386,
+                "uri": "https://sedra.bethmardutho.org/api/word/21386.json"
+            },
+            {
+                "id": 21385,
+                "uri": "https://sedra.bethmardutho.org/api/word/21385.json"
+            },
+            {
+                "id": 21383,
+                "uri": "https://sedra.bethmardutho.org/api/word/21383.json"
+            },
+            {
+                "id": 21382,
+                "uri": "https://sedra.bethmardutho.org/api/word/21382.json"
+            },
+            {
+                "id": 21381,
+                "uri": "https://sedra.bethmardutho.org/api/word/21381.json"
+            },
+            {
+                "id": 21380,
+                "uri": "https://sedra.bethmardutho.org/api/word/21380.json"
+            },
+            {
+                "id": 21379,
+                "uri": "https://sedra.bethmardutho.org/api/word/21379.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

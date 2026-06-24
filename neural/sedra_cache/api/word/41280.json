@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u071a\u072a\u072a",
+        "western": "\u071a\u0730\u072a\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15164,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15164.json"
+        },
+        "stem": "\u071a\u072a\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0631, \u0623\u0639\u062a\u0642",
+                "\u00a0",
+                "\u0623\u0644\u063a\u0649",
+                "\u0623\u0628\u0639\u062f"
+            ],
+            "eng": [
+                "set free",
+                "IIa to liberate",
+                "IIp."
+            ],
+            "fre": [
+                "supprimer",
+                "\u00e9loigner",
+                "\u00a0",
+                "lib\u00e9rer, affranchir"
+            ]
+        },
+        "word": {
+            "id": 41280,
+            "uri": "https://sedra.bethmardutho.org/api/word/41280.json"
+        }
+    }
+]

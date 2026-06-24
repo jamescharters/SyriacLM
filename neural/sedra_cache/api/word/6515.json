@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071a\u0718\u072a\u0710",
+        "western": "\u071a\u0730\u0718\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 991,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/991.json"
+        },
+        "stem": "\u071a\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0633\u0648\u062f"
+            ],
+            "eng": [
+                "pattern",
+                "white poplar.",
+                "outline",
+                "form",
+                "example",
+                "sight, aspect, look, appearance",
+                "likeness, example, model"
+            ],
+            "fre": [
+                "envieux"
+            ]
+        },
+        "word": {
+            "id": 6515,
+            "uri": "https://sedra.bethmardutho.org/api/word/6515.json"
+        }
+    }
+]

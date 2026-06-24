@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15871,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15871.json"
+        },
+        "syriac": "\u071a\u0722\u0726",
+        "glosses": {
+            "English": [
+                "Ia to turn pagan",
+                "IIIa to apostatize, to cause to apostasize.",
+                "IIp to act impiously"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2326,
+            "uri": "https://sedra.bethmardutho.org/api/root/2326.json"
+        },
+        "words": [
+            {
+                "id": 42090,
+                "uri": "https://sedra.bethmardutho.org/api/word/42090.json"
+            },
+            {
+                "id": 41779,
+                "uri": "https://sedra.bethmardutho.org/api/word/41779.json"
+            },
+            {
+                "id": 40604,
+                "uri": "https://sedra.bethmardutho.org/api/word/40604.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

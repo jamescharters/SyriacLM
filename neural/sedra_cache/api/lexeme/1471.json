@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1471,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1471.json"
+        },
+        "syriac": "\u071f\u0715\u0712\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0630\u0628"
+            ],
+            "French": [
+                "mensonge"
+            ],
+            "English": [
+                "lie",
+                "falsehood",
+                "falsehood."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 871,
+            "uri": "https://sedra.bethmardutho.org/api/root/871.json"
+        },
+        "words": [
+            {
+                "id": 9740,
+                "uri": "https://sedra.bethmardutho.org/api/word/9740.json"
+            },
+            {
+                "id": 9739,
+                "uri": "https://sedra.bethmardutho.org/api/word/9739.json"
+            },
+            {
+                "id": 9741,
+                "uri": "https://sedra.bethmardutho.org/api/word/9741.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "syriac": "\u0720\u0712\u071d\u072c\u071f",
+        "western": "\u0720\u0712\u0742\u0730\u071d\u072c\u0741\u0733\u071f\u0742",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 389,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/389.json"
+        },
+        "stem": "\u0712\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0721\u0730\u0725\u0721\u073d\u0718\u0715\u073a\u071d\u072c\u0733\u0710</span> baptistery",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0710\u0730\u072a\u0308</span><span class=\"selectableFont\">\u071f\u0736\u0710</span> archive, library",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u072a\u0730\u071a\u071d\u0733\u0710</span> mill",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0712\u0733\u071f\u0308</span><span class=\"selectableFont\">\u0736\u0710</span> lamentation",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0729\u0730\u0715\u073a\u071d\u0308</span><span class=\"selectableFont\">\u072b\u0736\u0710</span> place of burial for bishops and saints",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0729\u073d\u0718\u0715\u072b\u0733\u0710</span> sanctuary",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0715\u0730\u0718\u0729\u0733\u0710</span> watch tower",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u071b\u0712\u0733\u071a\u0733\u0710</span> kitchen",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u071f\u072c\u0733\u0712\u0308</span><span class=\"selectableFont\">\u0736\u0710</span> library",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0721\u0730\u071d\u0308</span><span class=\"selectableFont\">\u0733\u0710</span> latrine",
+                "territory. Many other phrases with <span class=\"selectableFont\">\u0712\u0736\u071d\u072c</span> e.g., <span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0710\u073a\u071d\u0729\u0733\u072a\u0733\u0710</span> latrine",
+                "stanza, verse. <span class=\"selectableFont\">\u0712\u0736\u071d\u072c</span> + (name) family, dynasty, generation",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0712\u073d\u0718\u072b\u0733\u0720\u0733\u0710</span> kitchen",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0728\u0730\u0718\u0712\u0733\u0710</span> rendezvous, meeting place",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u071d\u0730\u0720\u0715\u073d\u0718\u072c\u0733\u0710</span> birthday",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0725\u0733\u0720\u0721\u0733\u0710</span> sepulcher",
+                "Kth. college, university",
+                "church (+ saint\u2019s name)",
+                "house",
+                "home, room",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0725\u0736\u0715\u0733\u0722\u0308</span><span class=\"selectableFont\">\u0736\u0710</span> records office",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0721\u0730\u072a\u0715\u073d\u0718\u072c\u0733\u0710</span> place of teaching, school",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0713\u0730\u0718\u0723\u0733\u0710</span> refuge",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0721\u0730\u072b\u072a\u071d\u0733\u0710</span> resting place, lodging",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0729\u0726\u0733\u0723\u0733\u0710</span> granary",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0715\u0721\u0733\u071f\u0733\u0710</span> Kth. hotel, hostel, guesthouse",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0713\u0730\u0719\u0733\u0710</span> treasury, Lit. West Syriac book of liturgical tunes",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0721\u073a\u071d\u0308</span><span class=\"selectableFont\">\u072c\u0736\u0710</span> place of the dead, the grave, Sheol",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0712\u0730\u0718\u072c\u0733\u0710</span> night lodging",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0729\u0712\u073d\u0718\u072a\u0733\u0710</span> cemetery",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0710\u0730\u0726\u073d\u0718\u0723\u073a\u071d\u0730\u0710</span> latrine",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0718\u0730\u0725\u0715\u0733\u0710</span> meeting place",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u071d\u0730\u0720\u0715\u0733\u0710</span> the Nativity, Christmas, birthday, horoscope",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0723\u0736\u0726\u072a\u0733\u0710</span> school",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u072b\u0730\u0712\u072c\u0733\u0710</span> synagogue, refectory",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0718\u0733\u0720\u073a\u071d\u072c\u0733\u0710</span> toilet",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u071f\u0722\u073d\u0718\u072b\u072c\u0733\u0710</span> synagogue",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u071f\u072a\u0308</span><span class=\"selectableFont\">\u073a\u071d\u0717\u0736\u0710</span> hospital",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0721\u0730\u0725\u072a\u0726\u0733\u0710</span> Kth. bank (financial)",
+                "school",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0728\u0720\u073d\u0718\u072c\u0733\u0710</span> place of prayer (usually a summer altar in the church\u2019s courtyard)",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0721\u0736\u072b\u072c\u073d\u0718\u072c\u0733\u0710</span> banquet",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0721\u0730\u0718\u072c\u0712\u0308</span><span class=\"selectableFont\">\u0736\u0710</span> historical and some wisdom books of the Bible",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0723\u0733\u0717\u0308</span><span class=\"selectableFont\">\u0715\u0736\u0710</span> martyrium, chapel",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u072c\u071a\u073d\u0718\u0308</span><span class=\"selectableFont\">\u0721\u0736\u0710</span> border-lands.",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0710\u0730\u0723\u071d\u072a\u0308</span><span class=\"selectableFont\">\u0736\u0710</span> prison",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0725\u0730\u071d\u0722\u0733\u0710</span> forehead",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0715\u073a\u071d\u0722\u0733\u0710</span> law court",
+                "house",
+                "abode"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 2715,
+            "uri": "https://sedra.bethmardutho.org/api/word/2715.json"
+        }
+    }
+]

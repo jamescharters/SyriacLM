@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 1171,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1171.json"
+        },
+        "syriac": "\u071a\u0718\u072b\u0712\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0633\u0627\u0628"
+            ],
+            "French": [
+                "compte"
+            ],
+            "English": [
+                "reckoning",
+                "calculation",
+                "account",
+                "reckoning, fixed number, calculation, enumeration, accounting."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 693,
+            "uri": "https://sedra.bethmardutho.org/api/root/693.json"
+        },
+        "words": [
+            {
+                "id": 7689,
+                "uri": "https://sedra.bethmardutho.org/api/word/7689.json"
+            },
+            {
+                "id": 7692,
+                "uri": "https://sedra.bethmardutho.org/api/word/7692.json"
+            },
+            {
+                "id": 7690,
+                "uri": "https://sedra.bethmardutho.org/api/word/7690.json"
+            },
+            {
+                "id": 7691,
+                "uri": "https://sedra.bethmardutho.org/api/word/7691.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

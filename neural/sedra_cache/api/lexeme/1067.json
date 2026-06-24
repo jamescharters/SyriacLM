@@ -1,0 +1,78 @@
+[
+    {
+        "lexeme": {
+            "id": 1067,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1067.json"
+        },
+        "syriac": "\u071a\u0721\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0637\u0649, \u0623\u062e\u0628\u0623, \u0644\u0641\u0641",
+                "\u0627\u062c\u062a\u0630\u0628, \u0623\u0645\u0633\u0643",
+                "\u0642\u0628\u0644",
+                "\u062c\u0645\u0639, \u0627\u062f\u062e\u0631",
+                "\u0627\u062c\u062a\u0645\u0639",
+                "\u00a0"
+            ],
+            "French": [
+                "cacher,recouvrir, envelopper",
+                "retirer, retenir",
+                "recevoir",
+                "ramasser, entasser",
+                "se r\u00e9unir, \u00eatre r\u00e9uni",
+                "\u00a0"
+            ],
+            "English": [
+                "to hem in",
+                "Ia to gather in, lay up, amass, collect, compile",
+                "gather in",
+                "to be summed up",
+                "to gather together",
+                "to be held back, restrained.",
+                "to withhold",
+                "to die",
+                "Ip to be gathered in",
+                "to be withheld",
+                "IIa to wrap up, cover over, enshroud",
+                "IIp to be gathered in, heaped up",
+                "to withold, restrain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 642,
+            "uri": "https://sedra.bethmardutho.org/api/root/642.json"
+        },
+        "words": [
+            {
+                "id": 7188,
+                "uri": "https://sedra.bethmardutho.org/api/word/7188.json"
+            },
+            {
+                "id": 7187,
+                "uri": "https://sedra.bethmardutho.org/api/word/7187.json"
+            },
+            {
+                "id": 24870,
+                "uri": "https://sedra.bethmardutho.org/api/word/24870.json"
+            },
+            {
+                "id": 24869,
+                "uri": "https://sedra.bethmardutho.org/api/word/24869.json"
+            },
+            {
+                "id": 7191,
+                "uri": "https://sedra.bethmardutho.org/api/word/7191.json"
+            },
+            {
+                "id": 7190,
+                "uri": "https://sedra.bethmardutho.org/api/word/7190.json"
+            },
+            {
+                "id": 7189,
+                "uri": "https://sedra.bethmardutho.org/api/word/7189.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

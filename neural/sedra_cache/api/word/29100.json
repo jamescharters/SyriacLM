@@ -1,0 +1,80 @@
+[
+    {
+        "syriac": "\u0715\u0721\u072b\u0720\u0721",
+        "western": "\u0715\u0741\u0721\u0730\u072b\u0720\u0736\u0721",
+        "tense": "active participle",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3227,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3227.json"
+        },
+        "stem": "\u072b\u0720\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0645, \u0643\u0645\u0644 (\u0644\u0627\u0632\u0645)",
+                "\u0623\u0646\u0647\u0649, \u062a\u0645\u0645",
+                "\u0645\u0627\u062a",
+                "\u0627\u0646\u062a\u0647\u0649, \u0645\u0636\u0649",
+                "\u062a\u0645\u062a (\u0646\u0628\u0648\u0621\u0629)",
+                "\u0627\u0645\u062a\u0644\u0623",
+                "\u0633\u0644\u0645, \u062a\u0645, \u0643\u0645\u0644"
+            ],
+            "eng": [
+                "agree",
+                "obey",
+                "IIa to finish, to complete, to conclude",
+                "to achieve, to finish",
+                "to be in agreement",
+                "Ia to come to an end, to be concluded",
+                "to resemble",
+                "to approve",
+                "to be complete",
+                "to repair, to restore",
+                "to take possession of",
+                "to consent to, to concede",
+                "to be handed down.",
+                "IIIp to be handed over",
+                "to agree with",
+                "to recompense",
+                "IIp to be completed, to be accomplished",
+                "to greet",
+                "to be surrendered, handed over",
+                "to give up, to surrender",
+                "Ip to be delivered up",
+                "to fulfill",
+                "to adhere to",
+                "to be brought to a state of peace",
+                "be completed",
+                "deliver up",
+                "complete",
+                "be delivered up",
+                "die",
+                "to take leave of, to die",
+                "to transmit, hand down",
+                "IIIa to hand over, to commit",
+                "follow"
+            ],
+            "fre": [
+                "mourir",
+                "\u00eatre ou rester complet, entier, sauf",
+                "\u00eatre accomplie (proph\u00e9tie)",
+                "\u00eatre achev\u00e9, parfait",
+                "\u00eatre plein",
+                "finir, achever",
+                "\u00eatre fini, pass\u00e9"
+            ]
+        },
+        "word": {
+            "id": 29100,
+            "uri": "https://sedra.bethmardutho.org/api/word/29100.json"
+        }
+    }
+]

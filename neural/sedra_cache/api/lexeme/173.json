@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 173,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/173.json"
+        },
+        "syriac": "\u0710\u0721\u072c\u0710",
+        "glosses": {
+            "English": [
+                "cubit",
+                "span.",
+                "1 (pl. <span class=\"selectableFont\">\u0710\u0730\u0721\u0308\u0736\u0710</span>) f. fore-arm"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 127,
+            "uri": "https://sedra.bethmardutho.org/api/root/127.json"
+        },
+        "words": [
+            {
+                "id": 1334,
+                "uri": "https://sedra.bethmardutho.org/api/word/1334.json"
+            },
+            {
+                "id": 1333,
+                "uri": "https://sedra.bethmardutho.org/api/word/1333.json"
+            },
+            {
+                "id": 42287,
+                "uri": "https://sedra.bethmardutho.org/api/word/42287.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

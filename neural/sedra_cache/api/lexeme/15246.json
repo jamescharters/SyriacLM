@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15246,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15246.json"
+        },
+        "syriac": "\u0713\u0712\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0646\u0639\u0634, \u0634\u062c\u0639"
+            ],
+            "French": [
+                "animer, donner c\u0153ur"
+            ],
+            "English": [
+                "IIp to be valiant",
+                "IIa to come to manhood",
+                "to strengthen, to invigorate, to embolden",
+                "to be fortified."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2265,
+            "uri": "https://sedra.bethmardutho.org/api/root/2265.json"
+        },
+        "words": [
+            {
+                "id": 40010,
+                "uri": "https://sedra.bethmardutho.org/api/word/40010.json"
+            },
+            {
+                "id": 39932,
+                "uri": "https://sedra.bethmardutho.org/api/word/39932.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

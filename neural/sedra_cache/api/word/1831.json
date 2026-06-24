@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0712\u072c\u0725\u0723\u072a",
+        "western": "\u0710\u0730\u072a\u0712\u072c\u0730\u0725\u0723\u0730\u072a",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 270,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/270.json"
+        },
+        "stem": "\u0710\u072a\u0712\u0725\u0723\u072a",
+        "category": "numeral",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fourteen"
+            ]
+        },
+        "word": {
+            "id": 1831,
+            "uri": "https://sedra.bethmardutho.org/api/word/1831.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072c\u0712\u072a\u072c\u0710",
+        "western": "\u072c\u0712\u0733\u072a\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11473,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11473.json"
+        },
+        "stem": "\u072c\u0712\u072a\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0646\u0643\u0633\u0627\u0631"
+            ],
+            "eng": [
+                "defeat, rout",
+                "Lit. <span class=\"selectableFont\">\u072c\u0712\u0733\u072a\u0308\u0733\u072c\u0733\u0710</span> metrical hymns on the meter of Ephrem (7 syllables), Jacob (16) or Balay (5)."
+            ],
+            "fre": [
+                "d\u00e9faite"
+            ]
+        },
+        "word": {
+            "id": 32003,
+            "uri": "https://sedra.bethmardutho.org/api/word/32003.json"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0718\u072c\u072a\u0725\u071d\u0717",
+        "western": "\u0718\u072c\u0742\u0730\u072a\u0725\u0736\u071d\u0717",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 3448,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3448.json"
+        },
+        "stem": "\u072c\u072a\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "door",
+                "gate",
+                "portal",
+                "mountain pass.",
+                "opening",
+                "door, gate",
+                "stanza, chapter",
+                "court",
+                "gateway, approach"
+            ]
+        },
+        "word": {
+            "id": 22718,
+            "uri": "https://sedra.bethmardutho.org/api/word/22718.json"
+        }
+    }
+]

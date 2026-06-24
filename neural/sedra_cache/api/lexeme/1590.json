@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 1590,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1590.json"
+        },
+        "syriac": "\u071f\u072a\u071b\u071d\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0631\u0642",
+                "\u0628\u0631\u062f\u064a"
+            ],
+            "French": [
+                "papier",
+                "papyrus"
+            ],
+            "English": [
+                "document.",
+                "paper",
+                "papyrus",
+                "paper, writing material"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c7\u03ac\u03c1\u03c4\u03b7\u03c2"
+            ]
+        },
+        "root": {
+            "id": 932,
+            "uri": "https://sedra.bethmardutho.org/api/root/932.json"
+        },
+        "words": [
+            {
+                "id": 10490,
+                "uri": "https://sedra.bethmardutho.org/api/word/10490.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

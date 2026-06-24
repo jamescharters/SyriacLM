@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0715\u0710\u072b\u071d\u071a",
+        "western": "\u0715\u0741\u0730\u0710\u072b\u073a\u071d\u071a",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 3145,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3145.json"
+        },
+        "stem": "\u072b\u0718\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa, IIIa <span class=\"selectableFont\">\u0710\u0730\u072b\u073a\u071d\u071a</span> to melt (something)",
+                "to cause to waste",
+                "Ia to melt, waste away",
+                "to attempt",
+                "to presume",
+                "dare",
+                "melt",
+                "to defy."
+            ]
+        },
+        "word": {
+            "id": 20852,
+            "uri": "https://sedra.bethmardutho.org/api/word/20852.json"
+        }
+    }
+]

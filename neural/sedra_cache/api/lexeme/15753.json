@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 15753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15753.json"
+        },
+        "syriac": "\u072b\u0721",
+        "glosses": {
+            "English": [
+                "to inflict pain, to hurt, to wound.",
+                "Ia to stain",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072b\u073a\u071d\u0721</span> to harm."
+            ],
+            "Arabic": [
+                "\u062c\u0631\u062d, \u0623\u0630\u0649",
+                "\u0634\u0648\u0647"
+            ],
+            "French": [
+                "blesser , faire mal",
+                "d\u00e9figurer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2502,
+            "uri": "https://sedra.bethmardutho.org/api/root/2502.json"
+        },
+        "words": [
+            {
+                "id": 42030,
+                "uri": "https://sedra.bethmardutho.org/api/word/42030.json"
+            },
+            {
+                "id": 41216,
+                "uri": "https://sedra.bethmardutho.org/api/word/41216.json"
+            },
+            {
+                "id": 39988,
+                "uri": "https://sedra.bethmardutho.org/api/word/39988.json"
+            },
+            {
+                "id": 39887,
+                "uri": "https://sedra.bethmardutho.org/api/word/39887.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

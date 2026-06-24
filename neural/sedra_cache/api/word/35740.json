@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u072a\u0726\u072c\u0710",
+        "western": "\u071b\u072a\u0733\u0726\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12626,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12626.json"
+        },
+        "stem": "\u071b\u072a\u0726\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0648\u064a\u0642"
+            ],
+            "eng": [
+                "fine flour."
+            ],
+            "fre": [
+                "fleur de farine"
+            ]
+        },
+        "word": {
+            "id": 35740,
+            "uri": "https://sedra.bethmardutho.org/api/word/35740.json"
+        }
+    }
+]

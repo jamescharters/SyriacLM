@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2651,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2651.json"
+        },
+        "syriac": "\u0728\u0710\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0646\u0633, \u0648\u0633\u062e"
+            ],
+            "French": [
+                "souillure, salet\u00e9"
+            ],
+            "English": [
+                "filth",
+                "sordidness",
+                "dirt, impurity."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1570,
+            "uri": "https://sedra.bethmardutho.org/api/root/1570.json"
+        },
+        "words": [
+            {
+                "id": 17237,
+                "uri": "https://sedra.bethmardutho.org/api/word/17237.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

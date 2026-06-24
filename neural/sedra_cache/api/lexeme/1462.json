@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 1462,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1462.json"
+        },
+        "syriac": "\u071f\u0712\u0720\u0710",
+        "glosses": {
+            "English": [
+                "bond",
+                "fetter, bond."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 866,
+            "uri": "https://sedra.bethmardutho.org/api/root/866.json"
+        },
+        "words": [
+            {
+                "id": 9712,
+                "uri": "https://sedra.bethmardutho.org/api/word/9712.json"
+            },
+            {
+                "id": 9713,
+                "uri": "https://sedra.bethmardutho.org/api/word/9713.json"
+            },
+            {
+                "id": 9714,
+                "uri": "https://sedra.bethmardutho.org/api/word/9714.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

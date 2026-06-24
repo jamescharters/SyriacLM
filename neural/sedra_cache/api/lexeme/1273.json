@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1273,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1273.json"
+        },
+        "syriac": "\u071b\u072a\u0718\u0713\u0720\u071d\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Trogyllium"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 751,
+            "uri": "https://sedra.bethmardutho.org/api/root/751.json"
+        },
+        "words": [
+            {
+                "id": 8339,
+                "uri": "https://sedra.bethmardutho.org/api/word/8339.json"
+            },
+            {
+                "id": 8340,
+                "uri": "https://sedra.bethmardutho.org/api/word/8340.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

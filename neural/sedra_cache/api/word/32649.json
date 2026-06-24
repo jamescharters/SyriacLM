@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u072a\u071d\u0719\u0718\u072c\u0710",
+        "western": "\u071a\u072a\u073a\u071d\u0719\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8318,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8318.json"
+        },
+        "stem": "\u071a\u072a\u071d\u0719\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0631\u062a\u064a\u0628"
+            ],
+            "eng": [
+                "arrangement (of words), composition",
+                "Kth. programming (of computing)."
+            ],
+            "fre": [
+                "disposition"
+            ]
+        },
+        "word": {
+            "id": 32649,
+            "uri": "https://sedra.bethmardutho.org/api/word/32649.json"
+        }
+    }
+]

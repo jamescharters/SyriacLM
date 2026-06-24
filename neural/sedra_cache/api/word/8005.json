@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0715\u071b\u0718\u0717\u0721\u0722",
+        "western": "\u0715\u0741\u071b\u073d\u0718\u0717\u0721\u0730\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1210,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1210.json"
+        },
+        "stem": "\u071b\u0718\u0717\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0622\u0644, \u0623\u0645\u0629"
+            ],
+            "eng": [
+                "descent",
+                "family",
+                "stock",
+                "race",
+                "family, stock, lineage, race.",
+                "nationality",
+                "birth",
+                "family",
+                "kin",
+                "origin"
+            ],
+            "fre": [
+                "famille, nation"
+            ]
+        },
+        "word": {
+            "id": 8005,
+            "uri": "https://sedra.bethmardutho.org/api/word/8005.json"
+        }
+    }
+]

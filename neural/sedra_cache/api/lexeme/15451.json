@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15451,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15451.json"
+        },
+        "syriac": "\u0720\u0725\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0645\u062a\u0645"
+            ],
+            "French": [
+                "b\u00e9gayer"
+            ],
+            "English": [
+                "Ia to stammer",
+                "Ip to begin to stammer."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3074,
+            "uri": "https://sedra.bethmardutho.org/api/root/3074.json"
+        },
+        "words": [
+            {
+                "id": 42128,
+                "uri": "https://sedra.bethmardutho.org/api/word/42128.json"
+            },
+            {
+                "id": 41154,
+                "uri": "https://sedra.bethmardutho.org/api/word/41154.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 27054,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27054.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0718\u0723 \u0723\u0729\u0710\u0721\u0718\u0722\u071b\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f37\u03bd\u03bf\u03c2 \u03c3\u03ba\u03b1\u03bc\u03bc\u03c9\u03bd\u03af\u03c4\u03b7\u03c2"
+            ],
+            "English": [
+                "wine flavored with scammony"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03ba\u03b1\u03bc\u03bc\u03c9\u03bd\u03af\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 48851,
+                "uri": "https://sedra.bethmardutho.org/api/word/48851.json"
+            },
+            {
+                "id": 53428,
+                "uri": "https://sedra.bethmardutho.org/api/word/53428.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

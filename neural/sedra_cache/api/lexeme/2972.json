@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2972,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2972.json"
+        },
+        "syriac": "\u072a\u0718\u071a",
+        "glosses": {
+            "English": [
+                "ample",
+                "enlarged",
+                "relieve",
+                "IIp",
+                "IIa to enlarge, dilate",
+                "IIIa to give space to",
+                "Ia to expand, to be enlarged",
+                "to relieve. (see also <span class=\"selectableFont\">\u072a\u0733\u071a</span>)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1744,
+            "uri": "https://sedra.bethmardutho.org/api/root/1744.json"
+        },
+        "words": [
+            {
+                "id": 19354,
+                "uri": "https://sedra.bethmardutho.org/api/word/19354.json"
+            },
+            {
+                "id": 19353,
+                "uri": "https://sedra.bethmardutho.org/api/word/19353.json"
+            },
+            {
+                "id": 19356,
+                "uri": "https://sedra.bethmardutho.org/api/word/19356.json"
+            },
+            {
+                "id": 19355,
+                "uri": "https://sedra.bethmardutho.org/api/word/19355.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

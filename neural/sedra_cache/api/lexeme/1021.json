@@ -1,0 +1,80 @@
+[
+    {
+        "lexeme": {
+            "id": 1021,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1021.json"
+        },
+        "syriac": "\u071a\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u064a\u0648\u0627\u0646",
+                "\u062d\u064a\u0648\u0627\u0646\u0627\u062a"
+            ],
+            "French": [
+                "animal",
+                "animaux"
+            ],
+            "English": [
+                "animal.",
+                "life, vitality",
+                "creature",
+                "animal",
+                "living creature",
+                "lifetime"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 621,
+            "uri": "https://sedra.bethmardutho.org/api/root/621.json"
+        },
+        "words": [
+            {
+                "id": 6941,
+                "uri": "https://sedra.bethmardutho.org/api/word/6941.json"
+            },
+            {
+                "id": 6940,
+                "uri": "https://sedra.bethmardutho.org/api/word/6940.json"
+            },
+            {
+                "id": 6936,
+                "uri": "https://sedra.bethmardutho.org/api/word/6936.json"
+            },
+            {
+                "id": 6935,
+                "uri": "https://sedra.bethmardutho.org/api/word/6935.json"
+            },
+            {
+                "id": 6934,
+                "uri": "https://sedra.bethmardutho.org/api/word/6934.json"
+            },
+            {
+                "id": 6933,
+                "uri": "https://sedra.bethmardutho.org/api/word/6933.json"
+            },
+            {
+                "id": 6932,
+                "uri": "https://sedra.bethmardutho.org/api/word/6932.json"
+            },
+            {
+                "id": 6931,
+                "uri": "https://sedra.bethmardutho.org/api/word/6931.json"
+            },
+            {
+                "id": 6939,
+                "uri": "https://sedra.bethmardutho.org/api/word/6939.json"
+            },
+            {
+                "id": 6938,
+                "uri": "https://sedra.bethmardutho.org/api/word/6938.json"
+            },
+            {
+                "id": 6937,
+                "uri": "https://sedra.bethmardutho.org/api/word/6937.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

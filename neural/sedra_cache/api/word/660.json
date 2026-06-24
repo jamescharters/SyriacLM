@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0722\u0718",
+        "western": "\u0710\u0730\u071d\u0722\u0730\u0718",
+        "lexeme": {
+            "id": 3458,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3458.json"
+        },
+        "stem": "\u0710\u071d\u0722\u0718",
+        "category": "pronoun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646 \u0647\u0648\u061f",
+                "\u0623\u064a\u0648\u062c\u062f \u0645\u0646\u061f"
+            ],
+            "fre": [
+                "qui est-il?",
+                "y a-t-il quelqu&#39;un qui?"
+            ]
+        },
+        "word": {
+            "id": 660,
+            "uri": "https://sedra.bethmardutho.org/api/word/660.json"
+        }
+    }
+]

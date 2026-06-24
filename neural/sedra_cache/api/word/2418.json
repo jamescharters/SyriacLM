@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u0718\u072a\u071f\u071d",
+        "western": "\u0712\u0741\u073d\u0718\u072a\u071f\u0741\u0730\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 353,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/353.json"
+        },
+        "stem": "\u0712\u0718\u072a\u071f\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "borax",
+                "knee"
+            ]
+        },
+        "word": {
+            "id": 2418,
+            "uri": "https://sedra.bethmardutho.org/api/word/2418.json"
+        }
+    }
+]

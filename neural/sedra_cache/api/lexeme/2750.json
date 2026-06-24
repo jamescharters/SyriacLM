@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2750,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2750.json"
+        },
+        "syriac": "\u0729\u0715\u072a\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Kidron"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1622,
+            "uri": "https://sedra.bethmardutho.org/api/root/1622.json"
+        },
+        "words": [
+            {
+                "id": 17884,
+                "uri": "https://sedra.bethmardutho.org/api/word/17884.json"
+            },
+            {
+                "id": 17885,
+                "uri": "https://sedra.bethmardutho.org/api/word/17885.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

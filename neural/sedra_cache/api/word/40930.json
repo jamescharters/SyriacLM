@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0713\u0720",
+        "western": "\u0713\u0733\u0720",
+        "eastern": "\u0713\u0735\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15528,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15528.json"
+        },
+        "stem": "\u0713\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to separate out",
+                "IIIa to cast out, eject, reject",
+                "Ia to stir, to be moved (of emotions)",
+                "to render merciful",
+                "IIIp."
+            ]
+        },
+        "word": {
+            "id": 40930,
+            "uri": "https://sedra.bethmardutho.org/api/word/40930.json"
+        }
+    }
+]

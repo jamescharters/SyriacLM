@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u0715\u0713\u0718\u0722",
+        "western": "\u0712\u0730\u0715\u0713\u073d\u0718\u0722",
+        "number": "singular",
+        "lexeme": {
+            "id": 9331,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9331.json"
+        },
+        "stem": "\u0712\u0715\u0713\u0718\u0722",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0630\u0627 \u064b, \u0639\u0644\u064a\u0647",
+                "\u00a0"
+            ],
+            "eng": [
+                "therefore."
+            ],
+            "fre": [
+                "donc, c\u060cest pourquoi",
+                "c\u2019est pourquoi"
+            ]
+        },
+        "word": {
+            "id": 32569,
+            "uri": "https://sedra.bethmardutho.org/api/word/32569.json"
+        }
+    }
+]

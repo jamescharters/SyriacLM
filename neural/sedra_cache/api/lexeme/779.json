@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 779,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/779.json"
+        },
+        "syriac": "\u0717\u0715\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0633\u062a"
+            ],
+            "French": [
+                "anus"
+            ],
+            "English": [
+                "ornament",
+                "embellishment",
+                "honour",
+                "adornment.",
+                "magnificence, splendor"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 491,
+            "uri": "https://sedra.bethmardutho.org/api/root/491.json"
+        },
+        "words": [
+            {
+                "id": 4950,
+                "uri": "https://sedra.bethmardutho.org/api/word/4950.json"
+            },
+            {
+                "id": 4951,
+                "uri": "https://sedra.bethmardutho.org/api/word/4951.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

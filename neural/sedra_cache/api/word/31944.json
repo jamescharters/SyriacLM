@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0720\u0718\u0719\u0710",
+        "western": "\u0729\u0733\u0720\u073d\u0718\u0719\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13002,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13002.json"
+        },
+        "stem": "\u0729\u0720\u0718\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0627\u0644\u0648\u0632"
+            ],
+            "eng": [
+                "bolt (of door)."
+            ],
+            "fre": [
+                "anneau"
+            ]
+        },
+        "word": {
+            "id": 31944,
+            "uri": "https://sedra.bethmardutho.org/api/word/31944.json"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15479,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15479.json"
+        },
+        "syriac": "\u0723\u0712\u0723",
+        "glosses": {
+            "English": [
+                "to do frequently",
+                "IIp to do something rapidly.",
+                "IIa to increase greatly, to multiply",
+                "to be increased",
+                "Ip to be tightly packed",
+                "& <span class=\"selectableFont\">\u0723\u0712\u0736\u0723</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u0712\u0730\u0723</span>, Ia to make many, to multiply"
+            ],
+            "Arabic": [
+                "\u0643\u062b\u0631 (\u0645\u0636)",
+                "\u062a\u0643\u0627\u062b\u0631, \u0643\u062b\u0631"
+            ],
+            "French": [
+                "multiplier",
+                "se presser, abonder"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2129,
+            "uri": "https://sedra.bethmardutho.org/api/root/2129.json"
+        },
+        "words": [
+            {
+                "id": 42153,
+                "uri": "https://sedra.bethmardutho.org/api/word/42153.json"
+            },
+            {
+                "id": 41494,
+                "uri": "https://sedra.bethmardutho.org/api/word/41494.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

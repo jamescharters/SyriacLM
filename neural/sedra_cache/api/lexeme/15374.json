@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15374,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15374.json"
+        },
+        "syriac": "\u0726\u071a\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0641\u0631",
+                "\u062b\u0642\u0628"
+            ],
+            "French": [
+                "creuser",
+                "perforer"
+            ],
+            "English": [
+                "IIp to be undermined, to collapse.",
+                "IIa to cleave, to part asunder",
+                "to bore",
+                "Ia to dig"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2871,
+            "uri": "https://sedra.bethmardutho.org/api/root/2871.json"
+        },
+        "words": [
+            {
+                "id": 42167,
+                "uri": "https://sedra.bethmardutho.org/api/word/42167.json"
+            },
+            {
+                "id": 41145,
+                "uri": "https://sedra.bethmardutho.org/api/word/41145.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

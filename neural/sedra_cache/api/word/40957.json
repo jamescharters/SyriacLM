@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072c\u072b\u0725",
+        "western": "\u072c\u0730\u072b\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15333,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15333.json"
+        },
+        "stem": "\u072c\u072b\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to multiply by nine."
+            ]
+        },
+        "word": {
+            "id": 40957,
+            "uri": "https://sedra.bethmardutho.org/api/word/40957.json"
+        }
+    }
+]

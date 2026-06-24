@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 3263,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3263.json"
+        },
+        "syriac": "\u072b\u0721\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Samaritan"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1902,
+            "uri": "https://sedra.bethmardutho.org/api/root/1902.json"
+        },
+        "words": [
+            {
+                "id": 21533,
+                "uri": "https://sedra.bethmardutho.org/api/word/21533.json"
+            },
+            {
+                "id": 21532,
+                "uri": "https://sedra.bethmardutho.org/api/word/21532.json"
+            },
+            {
+                "id": 21536,
+                "uri": "https://sedra.bethmardutho.org/api/word/21536.json"
+            },
+            {
+                "id": 21535,
+                "uri": "https://sedra.bethmardutho.org/api/word/21535.json"
+            },
+            {
+                "id": 21534,
+                "uri": "https://sedra.bethmardutho.org/api/word/21534.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

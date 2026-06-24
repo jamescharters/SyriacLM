@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14905,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14905.json"
+        },
+        "syriac": "\u0721\u0718\u072a\u0722",
+        "glosses": {
+            "English": [
+                "IVp to become a Maronite.",
+                "IVa to perfume, preserve with myrrh"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3062,
+            "uri": "https://sedra.bethmardutho.org/api/root/3062.json"
+        },
+        "words": [
+            {
+                "id": 41467,
+                "uri": "https://sedra.bethmardutho.org/api/word/41467.json"
+            },
+            {
+                "id": 40261,
+                "uri": "https://sedra.bethmardutho.org/api/word/40261.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 3323,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3323.json"
+        },
+        "syriac": "\u072b\u072a\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "breastplate",
+                "joint",
+                "ligament",
+                "breastplate",
+                "joint, articulation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1929,
+            "uri": "https://sedra.bethmardutho.org/api/root/1929.json"
+        },
+        "words": [
+            {
+                "id": 22166,
+                "uri": "https://sedra.bethmardutho.org/api/word/22166.json"
+            },
+            {
+                "id": 22163,
+                "uri": "https://sedra.bethmardutho.org/api/word/22163.json"
+            },
+            {
+                "id": 22165,
+                "uri": "https://sedra.bethmardutho.org/api/word/22165.json"
+            },
+            {
+                "id": 22164,
+                "uri": "https://sedra.bethmardutho.org/api/word/22164.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

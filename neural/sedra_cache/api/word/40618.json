@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0712\u0717\u0712\u0717",
+        "western": "\u0712\u0717\u0712\u0717",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15339,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15339.json"
+        },
+        "stem": "\u0712\u0717\u0712\u0717",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVa <span class=\"selectableFont\">\u0712\u0730\u0717\u0712\u0730\u0717</span> to be perplexed."
+            ]
+        },
+        "word": {
+            "id": 40618,
+            "uri": "https://sedra.bethmardutho.org/api/word/40618.json"
+        }
+    }
+]

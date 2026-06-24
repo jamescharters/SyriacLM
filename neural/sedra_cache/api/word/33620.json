@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u0729\u0718\u0712\u0720\u071d\u0718\u072c\u0710",
+        "western": "\u0723\u0730\u0729\u073d\u0718\u0712\u0720\u0733\u071d\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9082,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9082.json"
+        },
+        "stem": "\u0723\u0729\u0718\u0712\u0720\u071d\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0627\u0631\u0636\u0629"
+            ],
+            "eng": [
+                "opposition",
+                "contradiction."
+            ],
+            "fre": [
+                "opposition"
+            ]
+        },
+        "word": {
+            "id": 33620,
+            "uri": "https://sedra.bethmardutho.org/api/word/33620.json"
+        }
+    }
+]

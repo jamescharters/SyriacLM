@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 799,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/799.json"
+        },
+        "syriac": "\u0717\u0720\u0723",
+        "glosses": {
+            "English": [
+                "Greece"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 508,
+            "uri": "https://sedra.bethmardutho.org/api/root/508.json"
+        },
+        "words": [
+            {
+                "id": 5198,
+                "uri": "https://sedra.bethmardutho.org/api/word/5198.json"
+            },
+            {
+                "id": 5197,
+                "uri": "https://sedra.bethmardutho.org/api/word/5197.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "lexeme": {
+            "id": 1771,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1771.json"
+        },
+        "syriac": "\u072b\u0718\u0721\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "accomplishment",
+                "fullness",
+                "completion",
+                "consecration",
+                "perfection",
+                "fulfillment, conclusion",
+                "performance (of a rite)."
+            ],
+            "Arabic": [
+                "\u062a\u0643\u0645\u064a\u0644, \u0625\u062a\u0645\u0627\u0645, \u0648\u0641\u0627\u0621",
+                "\u062a\u0645\u0627\u0645, \u0643\u0645\u0627\u0644",
+                "\u0625\u0631\u0636\u0627\u0621",
+                "\u062a\u062b\u0628\u064a\u062a",
+                "\u0633\u064a\u0627\u0645\u0629 (\u0643\u0647\u0646\u0648\u062a\u064a\u0629)",
+                "\u0645\u062d\u0631\u0642\u0629"
+            ],
+            "French": [
+                "ach\u00e8vement, consommation, accomplissement",
+                "pl\u00e9nitude, perfection ",
+                "satisfaction",
+                "confirmation",
+                "ordination ( sacerdotale)",
+                "holocauste"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1058,
+            "uri": "https://sedra.bethmardutho.org/api/root/1058.json"
+        },
+        "words": [
+            {
+                "id": 11696,
+                "uri": "https://sedra.bethmardutho.org/api/word/11696.json"
+            },
+            {
+                "id": 11695,
+                "uri": "https://sedra.bethmardutho.org/api/word/11695.json"
+            },
+            {
+                "id": 29642,
+                "uri": "https://sedra.bethmardutho.org/api/word/29642.json"
+            },
+            {
+                "id": 11698,
+                "uri": "https://sedra.bethmardutho.org/api/word/11698.json"
+            },
+            {
+                "id": 11694,
+                "uri": "https://sedra.bethmardutho.org/api/word/11694.json"
+            },
+            {
+                "id": 11697,
+                "uri": "https://sedra.bethmardutho.org/api/word/11697.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "shaph\u02bfel"
+    }
+]

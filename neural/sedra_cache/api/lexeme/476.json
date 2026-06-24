@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 476,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/476.json"
+        },
+        "syriac": "\u0712\u072a\u0718\u0710\u0710",
+        "glosses": {
+            "English": [
+                "Beroea"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 318,
+            "uri": "https://sedra.bethmardutho.org/api/root/318.json"
+        },
+        "words": [
+            {
+                "id": 3341,
+                "uri": "https://sedra.bethmardutho.org/api/word/3341.json"
+            },
+            {
+                "id": 3339,
+                "uri": "https://sedra.bethmardutho.org/api/word/3339.json"
+            },
+            {
+                "id": 3340,
+                "uri": "https://sedra.bethmardutho.org/api/word/3340.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

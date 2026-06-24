@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072a\u0725\u0721\u071d\u0722",
+        "western": "\u072a\u0730\u0725\u0721\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3057,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3057.json"
+        },
+        "stem": "\u072a\u0725\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0639\u062f",
+                "\u0635\u0648\u062a"
+            ],
+            "eng": [
+                "thunder",
+                "loud sound.",
+                "thunder"
+            ],
+            "fre": [
+                "son",
+                "tonnerre"
+            ]
+        },
+        "word": {
+            "id": 19946,
+            "uri": "https://sedra.bethmardutho.org/api/word/19946.json"
+        }
+    }
+]

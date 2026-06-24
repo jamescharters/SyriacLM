@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0722\u071f\u072a",
+        "western": "\u0722\u0730\u071f\u0730\u072a",
+        "lexeme": {
+            "id": 1978,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1978.json"
+        },
+        "stem": "\u0722\u071f\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u0730\u072a</span> to know, recognize",
+                "IIIp.",
+                "repudiate",
+                "IIa <span class=\"selectableFont\">\u0722\u0730\u071f\u0730\u072a</span> to repudiate"
+            ]
+        },
+        "word": {
+            "id": 12923,
+            "uri": "https://sedra.bethmardutho.org/api/word/12923.json"
+        }
+    }
+]

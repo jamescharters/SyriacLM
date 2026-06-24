@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u0722\u071d\u0710",
+        "western": "\u0723\u0730\u0722\u071d\u0733\u0710",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2163,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2163.json"
+        },
+        "stem": "\u0723\u0722\u071d\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hateful",
+                "ugly.",
+                "1 displeasing, unpleasant",
+                "hateful, odious",
+                "detestable",
+                "shameful"
+            ]
+        },
+        "word": {
+            "id": 14400,
+            "uri": "https://sedra.bethmardutho.org/api/word/14400.json"
+        }
+    }
+]

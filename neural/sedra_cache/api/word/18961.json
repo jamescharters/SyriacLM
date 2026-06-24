@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072a\u0712\u0718\u0720\u071d",
+        "western": "\u072a\u0730\u0712\u0741\u073d\u0718\u0720\u073a\u071d",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2913,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2913.json"
+        },
+        "stem": "\u072a\u0712\u0718\u0720\u071d",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "master"
+            ]
+        },
+        "word": {
+            "id": 18961,
+            "uri": "https://sedra.bethmardutho.org/api/word/18961.json"
+        }
+    }
+]

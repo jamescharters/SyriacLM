@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 1183,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1183.json"
+        },
+        "syriac": "\u071a\u072b\u0721",
+        "glosses": {
+            "English": [
+                "supper",
+                "to take food, to eat.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071a\u072b\u0736\u0721</span> to sup, dine"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 697,
+            "uri": "https://sedra.bethmardutho.org/api/root/697.json"
+        },
+        "words": [
+            {
+                "id": 7805,
+                "uri": "https://sedra.bethmardutho.org/api/word/7805.json"
+            },
+            {
+                "id": 7804,
+                "uri": "https://sedra.bethmardutho.org/api/word/7804.json"
+            },
+            {
+                "id": 7803,
+                "uri": "https://sedra.bethmardutho.org/api/word/7803.json"
+            },
+            {
+                "id": 7802,
+                "uri": "https://sedra.bethmardutho.org/api/word/7802.json"
+            },
+            {
+                "id": 7807,
+                "uri": "https://sedra.bethmardutho.org/api/word/7807.json"
+            },
+            {
+                "id": 7806,
+                "uri": "https://sedra.bethmardutho.org/api/word/7806.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

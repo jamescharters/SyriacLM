@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 14622,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14622.json"
+        },
+        "syriac": "\u0723\u071d\u0712\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0627\u0633\u0649, \u0627\u062d\u062a\u0645\u0644",
+                "\u0633\u0627\u0645\u062d",
+                "\u062a\u0645\u0644\u0643",
+                "\u00a0"
+            ],
+            "French": [
+                "supporter, soutenir",
+                "remettre \u00e0",
+                "se contenir",
+                "supporter\u2026"
+            ],
+            "English": [
+                "IVp to be sustained",
+                "IVa to endure, to bear",
+                "to persevere."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2327,
+            "uri": "https://sedra.bethmardutho.org/api/root/2327.json"
+        },
+        "words": [
+            {
+                "id": 40496,
+                "uri": "https://sedra.bethmardutho.org/api/word/40496.json"
+            },
+            {
+                "id": 40041,
+                "uri": "https://sedra.bethmardutho.org/api/word/40041.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

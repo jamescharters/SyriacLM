@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15011,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15011.json"
+        },
+        "syriac": "\u072b\u0715\u071f",
+        "glosses": {
+            "English": [
+                "IIp to be founded.",
+                "IIa to offer marriage gifts, to propose marriage"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2681,
+            "uri": "https://sedra.bethmardutho.org/api/root/2681.json"
+        },
+        "words": [
+            {
+                "id": 40004,
+                "uri": "https://sedra.bethmardutho.org/api/word/40004.json"
+            },
+            {
+                "id": 39925,
+                "uri": "https://sedra.bethmardutho.org/api/word/39925.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

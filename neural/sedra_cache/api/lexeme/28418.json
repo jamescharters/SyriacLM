@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28418,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28418.json"
+        },
+        "syriac": "\u0710\u0718\u0726\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f45\u03c0\u03c9\u03c2"
+            ],
+            "English": [
+                "as, in such manner as, how, in any way whatever, ever so little"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f45\u03c0\u03c9\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48879,
+                "uri": "https://sedra.bethmardutho.org/api/word/48879.json"
+            },
+            {
+                "id": 54792,
+                "uri": "https://sedra.bethmardutho.org/api/word/54792.json"
+            }
+        ],
+        "category": "adverb"
+    }
+]

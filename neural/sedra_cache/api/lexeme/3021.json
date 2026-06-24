@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 3021,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3021.json"
+        },
+        "syriac": "\u0710\u071a\u071d\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u062f\u064a\u0631",
+                "\u0633\u064a\u062f",
+                "\u062d\u0627\u0643\u0645"
+            ],
+            "French": [
+                "puissant",
+                "ma\u00eetre",
+                "pr\u00e9fet"
+            ],
+            "English": [
+                "holder",
+                "closed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 56,
+            "uri": "https://sedra.bethmardutho.org/api/root/56.json"
+        },
+        "words": [
+            {
+                "id": 29594,
+                "uri": "https://sedra.bethmardutho.org/api/word/29594.json"
+            },
+            {
+                "id": 29592,
+                "uri": "https://sedra.bethmardutho.org/api/word/29592.json"
+            },
+            {
+                "id": 29591,
+                "uri": "https://sedra.bethmardutho.org/api/word/29591.json"
+            },
+            {
+                "id": 22887,
+                "uri": "https://sedra.bethmardutho.org/api/word/22887.json"
+            },
+            {
+                "id": 491,
+                "uri": "https://sedra.bethmardutho.org/api/word/491.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

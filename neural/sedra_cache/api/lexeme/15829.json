@@ -1,0 +1,73 @@
+[
+    {
+        "lexeme": {
+            "id": 15829,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15829.json"
+        },
+        "syriac": "\u0719\u0722",
+        "glosses": {
+            "English": [
+                "to arm",
+                "IIp.",
+                "arm",
+                "to provide for",
+                "IIp.",
+                "Ia to provide with food, sustain, support",
+                "Ip to be nourished",
+                "IIa <span class=\"selectableFont\">\u0719\u0730\u071d\u0736\u0722</span> to arm, equip"
+            ],
+            "Arabic": [
+                "\u0633\u0644\u062d (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "armer",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3111,
+            "uri": "https://sedra.bethmardutho.org/api/root/3111.json"
+        },
+        "words": [
+            {
+                "id": 5683,
+                "uri": "https://sedra.bethmardutho.org/api/word/5683.json"
+            },
+            {
+                "id": 5681,
+                "uri": "https://sedra.bethmardutho.org/api/word/5681.json"
+            },
+            {
+                "id": 5682,
+                "uri": "https://sedra.bethmardutho.org/api/word/5682.json"
+            },
+            {
+                "id": 24418,
+                "uri": "https://sedra.bethmardutho.org/api/word/24418.json"
+            },
+            {
+                "id": 24419,
+                "uri": "https://sedra.bethmardutho.org/api/word/24419.json"
+            },
+            {
+                "id": 41315,
+                "uri": "https://sedra.bethmardutho.org/api/word/41315.json"
+            },
+            {
+                "id": 40576,
+                "uri": "https://sedra.bethmardutho.org/api/word/40576.json"
+            },
+            {
+                "id": 39901,
+                "uri": "https://sedra.bethmardutho.org/api/word/39901.json"
+            },
+            {
+                "id": 42195,
+                "uri": "https://sedra.bethmardutho.org/api/word/42195.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

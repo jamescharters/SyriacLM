@@ -1,0 +1,74 @@
+[
+    {
+        "lexeme": {
+            "id": 903,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/903.json"
+        },
+        "syriac": "\u0719\u0725\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0631\u062e",
+                "\u0631\u0646 (\u0628\u0648\u0642)"
+            ],
+            "French": [
+                "crier",
+                "retentir (trompette)"
+            ],
+            "English": [
+                "cry out",
+                "Ia to shout, call out",
+                "IIIa to shout, to cry out",
+                "IIIp.",
+                "to make to cry out"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 574,
+            "uri": "https://sedra.bethmardutho.org/api/root/574.json"
+        },
+        "words": [
+            {
+                "id": 5833,
+                "uri": "https://sedra.bethmardutho.org/api/word/5833.json"
+            },
+            {
+                "id": 5832,
+                "uri": "https://sedra.bethmardutho.org/api/word/5832.json"
+            },
+            {
+                "id": 5830,
+                "uri": "https://sedra.bethmardutho.org/api/word/5830.json"
+            },
+            {
+                "id": 24480,
+                "uri": "https://sedra.bethmardutho.org/api/word/24480.json"
+            },
+            {
+                "id": 24479,
+                "uri": "https://sedra.bethmardutho.org/api/word/24479.json"
+            },
+            {
+                "id": 5836,
+                "uri": "https://sedra.bethmardutho.org/api/word/5836.json"
+            },
+            {
+                "id": 5835,
+                "uri": "https://sedra.bethmardutho.org/api/word/5835.json"
+            },
+            {
+                "id": 5834,
+                "uri": "https://sedra.bethmardutho.org/api/word/5834.json"
+            },
+            {
+                "id": 5831,
+                "uri": "https://sedra.bethmardutho.org/api/word/5831.json"
+            },
+            {
+                "id": 5829,
+                "uri": "https://sedra.bethmardutho.org/api/word/5829.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

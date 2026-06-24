@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 3314,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3314.json"
+        },
+        "syriac": "\u072b\u0718\u072a\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0628\u062a\u062f\u0627\u0621",
+                "\u0641\u062a\u062d",
+                "\u0623\u0646\u062a\u064a\u0641\u0648\u0646\u0627"
+            ],
+            "French": [
+                "commencement",
+                "ouverture",
+                "antienne"
+            ],
+            "English": [
+                "beginning",
+                "preface",
+                "introductory prayer, anthem",
+                "beginning, origin",
+                "Gram. subject."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1925,
+            "uri": "https://sedra.bethmardutho.org/api/root/1925.json"
+        },
+        "words": [
+            {
+                "id": 22016,
+                "uri": "https://sedra.bethmardutho.org/api/word/22016.json"
+            },
+            {
+                "id": 22015,
+                "uri": "https://sedra.bethmardutho.org/api/word/22015.json"
+            },
+            {
+                "id": 22017,
+                "uri": "https://sedra.bethmardutho.org/api/word/22017.json"
+            },
+            {
+                "id": 22019,
+                "uri": "https://sedra.bethmardutho.org/api/word/22019.json"
+            },
+            {
+                "id": 22018,
+                "uri": "https://sedra.bethmardutho.org/api/word/22018.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

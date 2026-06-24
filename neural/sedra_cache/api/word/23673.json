@@ -1,0 +1,51 @@
+[
+    {
+        "syriac": "\u0718\u071f\u0720\u071d\u0722",
+        "western": "\u0718\u0730\u071f\u0742\u0720\u0730\u071d\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 1528,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1528.json"
+        },
+        "stem": "\u071f\u0720\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0645\u062a\u0646\u0639, \u0627\u0646\u0642\u0637\u0639",
+                "\u0623\u063a\u0644\u0642",
+                "\u062a\u0648\u0642\u0641, \u0628\u0642\u064a",
+                "\u0631\u0641\u0636",
+                "\u0645\u0646\u0639, \u0623\u0645\u0633\u0643"
+            ],
+            "eng": [
+                "hinder",
+                "IIa, IIIa = Ia.",
+                "to be hindered, prohibited",
+                "restrain",
+                "Ia to hinder, hold back",
+                "to prohibit",
+                "Ip to refuse, refrain",
+                "forbid"
+            ],
+            "fre": [
+                "s&#39;arr\u00eater, rester",
+                "emp\u00eacher, retenir",
+                "\u00eatre emp\u00each\u00e9, cesser",
+                "refuser",
+                "fermer"
+            ]
+        },
+        "word": {
+            "id": 23673,
+            "uri": "https://sedra.bethmardutho.org/api/word/23673.json"
+        }
+    }
+]

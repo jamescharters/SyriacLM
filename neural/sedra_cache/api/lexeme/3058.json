@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3058,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3058.json"
+        },
+        "syriac": "\u072a\u0726",
+        "glosses": {
+            "English": [
+                "move",
+                "to move slightly.",
+                "IIa to flutter",
+                "IIp to be moved slightly",
+                "to move gently",
+                "Ia to blink",
+                "to flap (wings)",
+                "IIIa to twitch"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1780,
+            "uri": "https://sedra.bethmardutho.org/api/root/1780.json"
+        },
+        "words": [
+            {
+                "id": 19947,
+                "uri": "https://sedra.bethmardutho.org/api/word/19947.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

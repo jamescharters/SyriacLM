@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072c\u0718\u072c\u0710",
+        "western": "\u072c\u0741\u0718\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3369,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3369.json"
+        },
+        "stem": "\u072c\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "repentance",
+                "remorse, compunction."
+            ]
+        },
+        "word": {
+            "id": 22389,
+            "uri": "https://sedra.bethmardutho.org/api/word/22389.json"
+        }
+    }
+]

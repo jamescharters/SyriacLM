@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15033,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15033.json"
+        },
+        "syriac": "\u0729\u0726",
+        "glosses": {
+            "English": [
+                "to take care of.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0729\u073a\u071d\u0726</span> to pay attention to"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3036,
+            "uri": "https://sedra.bethmardutho.org/api/root/3036.json"
+        },
+        "words": [
+            {
+                "id": 41359,
+                "uri": "https://sedra.bethmardutho.org/api/word/41359.json"
+            },
+            {
+                "id": 39894,
+                "uri": "https://sedra.bethmardutho.org/api/word/39894.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

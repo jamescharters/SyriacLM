@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0710\u072c\u071a\u0723\u0722\u0718",
+        "western": "\u0710\u0736\u072c\u0742\u071a\u0730\u0723\u0730\u0722\u0718",
+        "tense": "imperative",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1112,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1112.json"
+        },
+        "stem": "\u071a\u0723\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "b) trans. <span class=\"selectableFont\">\u071a\u0723\u0730\u0722</span> to prevail over, be stronger than",
+                "& <span class=\"selectableFont\">\u071a\u0723\u0730\u0722</span> fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0723\u0730\u0722</span>, Ia a) intrans. to be strong, to be severe, grievous",
+                "Ip to be subdued, overpowered",
+                "IIp to be strengthened",
+                "to show oneself strong",
+                "IIa to strengthen, fortify",
+                "to tyrannize over.",
+                "strengthen",
+                "prevail",
+                "be strong"
+            ]
+        },
+        "word": {
+            "id": 7371,
+            "uri": "https://sedra.bethmardutho.org/api/word/7371.json"
+        }
+    }
+]

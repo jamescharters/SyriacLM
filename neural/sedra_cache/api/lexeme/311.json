@@ -1,0 +1,111 @@
+[
+    {
+        "lexeme": {
+            "id": 311,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/311.json"
+        },
+        "syriac": "\u072b\u072c\u0710\u0723\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0633\u0627\u0633"
+            ],
+            "French": [
+                "fondement"
+            ],
+            "English": [
+                "foundation",
+                "foundation",
+                "Gram. base form.",
+                "foundation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 230,
+            "uri": "https://sedra.bethmardutho.org/api/root/230.json"
+        },
+        "words": [
+            {
+                "id": 1721,
+                "uri": "https://sedra.bethmardutho.org/api/word/1721.json"
+            },
+            {
+                "id": 1722,
+                "uri": "https://sedra.bethmardutho.org/api/word/1722.json"
+            },
+            {
+                "id": 1724,
+                "uri": "https://sedra.bethmardutho.org/api/word/1724.json"
+            },
+            {
+                "id": 1725,
+                "uri": "https://sedra.bethmardutho.org/api/word/1725.json"
+            },
+            {
+                "id": 1719,
+                "uri": "https://sedra.bethmardutho.org/api/word/1719.json"
+            },
+            {
+                "id": 1720,
+                "uri": "https://sedra.bethmardutho.org/api/word/1720.json"
+            },
+            {
+                "id": 1723,
+                "uri": "https://sedra.bethmardutho.org/api/word/1723.json"
+            },
+            {
+                "id": 1716,
+                "uri": "https://sedra.bethmardutho.org/api/word/1716.json"
+            },
+            {
+                "id": 1717,
+                "uri": "https://sedra.bethmardutho.org/api/word/1717.json"
+            },
+            {
+                "id": 1718,
+                "uri": "https://sedra.bethmardutho.org/api/word/1718.json"
+            },
+            {
+                "id": 2016,
+                "uri": "https://sedra.bethmardutho.org/api/word/2016.json"
+            },
+            {
+                "id": 2015,
+                "uri": "https://sedra.bethmardutho.org/api/word/2015.json"
+            },
+            {
+                "id": 2014,
+                "uri": "https://sedra.bethmardutho.org/api/word/2014.json"
+            },
+            {
+                "id": 2021,
+                "uri": "https://sedra.bethmardutho.org/api/word/2021.json"
+            },
+            {
+                "id": 2018,
+                "uri": "https://sedra.bethmardutho.org/api/word/2018.json"
+            },
+            {
+                "id": 2017,
+                "uri": "https://sedra.bethmardutho.org/api/word/2017.json"
+            },
+            {
+                "id": 2023,
+                "uri": "https://sedra.bethmardutho.org/api/word/2023.json"
+            },
+            {
+                "id": 2022,
+                "uri": "https://sedra.bethmardutho.org/api/word/2022.json"
+            },
+            {
+                "id": 2020,
+                "uri": "https://sedra.bethmardutho.org/api/word/2020.json"
+            },
+            {
+                "id": 2019,
+                "uri": "https://sedra.bethmardutho.org/api/word/2019.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

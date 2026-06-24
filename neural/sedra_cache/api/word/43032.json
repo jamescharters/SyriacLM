@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a\u0712\u071d\u0725\u072c\u0710",
+        "western": "\u072a\u0712\u073a\u071d\u0725\u072c\u0733\u0710",
+        "lexeme": {
+            "id": 16658,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16658.json"
+        },
+        "stem": "\u072a\u0712\u071d\u0725\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u0639",
+                "\u062c\u0628\u0644, \u062a\u0644\u0629"
+            ],
+            "eng": [
+                "squared block of stone"
+            ],
+            "fre": [
+                "quart",
+                "montagne, colline"
+            ]
+        },
+        "word": {
+            "id": 43032,
+            "uri": "https://sedra.bethmardutho.org/api/word/43032.json"
+        }
+    }
+]

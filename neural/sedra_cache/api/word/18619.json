@@ -1,0 +1,64 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0729\u072a\u071d\u0710",
+        "western": "\u0721\u0736\u072c\u0742\u0729\u0730\u072a\u071d\u0733\u0710",
+        "tense": "participle",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2871,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2871.json"
+        },
+        "stem": "\u0729\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0648\u0649",
+                "\u0635\u0627\u062d (\u062f\u064a\u0643)",
+                "\u0635\u0631\u062e",
+                "\u062a\u0642\u062f\u0645 \u0625\u0644\u0649",
+                "\u0642\u0631\u0623",
+                "\u0633\u0645\u0649",
+                "\u0646\u0627\u062f\u0649",
+                "\u0623\u0639\u0644\u0646",
+                "\u0627\u062d\u062a\u0644",
+                "\u0633\u0645\u0639",
+                "\u0633\u0628\u0628",
+                "\u0639\u0632\u0645",
+                "\u0627\u0633\u062a\u062f\u0639\u0649",
+                "\u062f\u0631\u0633"
+            ],
+            "eng": [
+                "appeal to",
+                "call",
+                "read"
+            ],
+            "fre": [
+                "appeler",
+                "crier",
+                "lire",
+                "envahir",
+                "sonner (intr.)",
+                "chanter (coq)",
+                "inviter",
+                "annoncer",
+                "causer, provoquer",
+                "r\u00e9citer",
+                "venir au devant de",
+                "d\u00e9signer",
+                "\u00e9tudier",
+                "invoquer"
+            ]
+        },
+        "word": {
+            "id": 18619,
+            "uri": "https://sedra.bethmardutho.org/api/word/18619.json"
+        }
+    }
+]

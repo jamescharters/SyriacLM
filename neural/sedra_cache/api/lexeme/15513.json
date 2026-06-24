@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15513,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15513.json"
+        },
+        "syriac": "\u0710\u072b\u071f\u071a",
+        "glosses": {
+            "English": [
+                "to be discovered.",
+                "to find",
+                "Ip to be present",
+                "Ia to be able"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2393,
+            "uri": "https://sedra.bethmardutho.org/api/root/2393.json"
+        },
+        "words": [
+            {
+                "id": 40621,
+                "uri": "https://sedra.bethmardutho.org/api/word/40621.json"
+            },
+            {
+                "id": 42032,
+                "uri": "https://sedra.bethmardutho.org/api/word/42032.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

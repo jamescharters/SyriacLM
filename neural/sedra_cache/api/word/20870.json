@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u0715\u0722\u072b\u072c\u071d\u0722\u0718\u0722",
+        "western": "\u0715\u0741\u0722\u0736\u072b\u072c\u0741\u0730\u071d\u0722\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3186,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3186.json"
+        },
+        "stem": "\u072b\u071d\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0627\u0644\u062d",
+                "\u0628\u0634\u0631 \u0628\u0627\u0644\u0633\u0644\u0627\u0645",
+                "\u00a0",
+                "\u0633\u0643\u0646 (\u0645\u0636)",
+                "\u0623\u0645\u0646 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to reconcile",
+                "make peace",
+                "to make peace, peaceful",
+                "to calm",
+                "IIa to pacify",
+                "IIp.",
+                "reconcile"
+            ],
+            "fre": [
+                "donner la paix \u00e0",
+                "r\u00e9concilier",
+                "apaiser",
+                "\u00a0",
+                "annoncer la paix"
+            ]
+        },
+        "word": {
+            "id": 20870,
+            "uri": "https://sedra.bethmardutho.org/api/word/20870.json"
+        }
+    }
+]

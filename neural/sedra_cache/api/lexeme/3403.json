@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3403,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3403.json"
+        },
+        "syriac": "\u072c\u0720\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0641\u0648\u0646\u0629"
+            ],
+            "French": [
+                "moisissure"
+            ],
+            "English": [
+                "See \u072c\u0730\u0720\u073a\u071d\u0720\u0718\u073d\u072c\u0733\u0710",
+                "dampness",
+                "moisture."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1974,
+            "uri": "https://sedra.bethmardutho.org/api/root/1974.json"
+        },
+        "words": [
+            {
+                "id": 46936,
+                "uri": "https://sedra.bethmardutho.org/api/word/46936.json"
+            },
+            {
+                "id": 22531,
+                "uri": "https://sedra.bethmardutho.org/api/word/22531.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

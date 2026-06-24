@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0719\u071d\u0726",
+        "western": "\u0719\u0730\u071d\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15023,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15023.json"
+        },
+        "stem": "\u0719\u071d\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0630\u0628 (\u0645\u0636)",
+                "\u0632\u064a\u0641"
+            ],
+            "eng": [
+                "Ip.",
+                "IIa to falsify"
+            ],
+            "fre": [
+                "accuser de mensonge",
+                "falsifier"
+            ]
+        },
+        "word": {
+            "id": 40632,
+            "uri": "https://sedra.bethmardutho.org/api/word/40632.json"
+        }
+    }
+]

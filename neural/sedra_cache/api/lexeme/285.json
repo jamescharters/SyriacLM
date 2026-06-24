@@ -1,0 +1,78 @@
+[
+    {
+        "lexeme": {
+            "id": 285,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/285.json"
+        },
+        "syriac": "\u0710\u072a\u071f",
+        "glosses": {
+            "English": [
+                "prolong",
+                "enlarge",
+                "Ia to be long",
+                "IIa to prolong",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u072a\u0736\u071f</span> lengthen."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 210,
+            "uri": "https://sedra.bethmardutho.org/api/root/210.json"
+        },
+        "words": [
+            {
+                "id": 23267,
+                "uri": "https://sedra.bethmardutho.org/api/word/23267.json"
+            },
+            {
+                "id": 23266,
+                "uri": "https://sedra.bethmardutho.org/api/word/23266.json"
+            },
+            {
+                "id": 23265,
+                "uri": "https://sedra.bethmardutho.org/api/word/23265.json"
+            },
+            {
+                "id": 23264,
+                "uri": "https://sedra.bethmardutho.org/api/word/23264.json"
+            },
+            {
+                "id": 23263,
+                "uri": "https://sedra.bethmardutho.org/api/word/23263.json"
+            },
+            {
+                "id": 23262,
+                "uri": "https://sedra.bethmardutho.org/api/word/23262.json"
+            },
+            {
+                "id": 1894,
+                "uri": "https://sedra.bethmardutho.org/api/word/1894.json"
+            },
+            {
+                "id": 1893,
+                "uri": "https://sedra.bethmardutho.org/api/word/1893.json"
+            },
+            {
+                "id": 23270,
+                "uri": "https://sedra.bethmardutho.org/api/word/23270.json"
+            },
+            {
+                "id": 23268,
+                "uri": "https://sedra.bethmardutho.org/api/word/23268.json"
+            },
+            {
+                "id": 1895,
+                "uri": "https://sedra.bethmardutho.org/api/word/1895.json"
+            },
+            {
+                "id": 1896,
+                "uri": "https://sedra.bethmardutho.org/api/word/1896.json"
+            },
+            {
+                "id": 42346,
+                "uri": "https://sedra.bethmardutho.org/api/word/42346.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

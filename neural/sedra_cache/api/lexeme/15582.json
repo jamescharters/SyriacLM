@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15582,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15582.json"
+        },
+        "syriac": "\u0719\u0726\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u062a\u0646"
+            ],
+            "French": [
+                "sentir mauvais"
+            ],
+            "English": [
+                "Ia to stink."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2378,
+            "uri": "https://sedra.bethmardutho.org/api/root/2378.json"
+        },
+        "words": [
+            {
+                "id": 41839,
+                "uri": "https://sedra.bethmardutho.org/api/word/41839.json"
+            },
+            {
+                "id": 39824,
+                "uri": "https://sedra.bethmardutho.org/api/word/39824.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

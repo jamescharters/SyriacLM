@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15252,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15252.json"
+        },
+        "syriac": "\u0728\u0718\u0710",
+        "glosses": {
+            "English": [
+                "2 IIIa <span class=\"selectableFont\">\u0710\u0730\u0728\u0718\u073a\u071d</span> to heap up stones."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2773,
+            "uri": "https://sedra.bethmardutho.org/api/root/2773.json"
+        },
+        "words": [
+            {
+                "id": 40740,
+                "uri": "https://sedra.bethmardutho.org/api/word/40740.json"
+            },
+            {
+                "id": 40305,
+                "uri": "https://sedra.bethmardutho.org/api/word/40305.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15487,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15487.json"
+        },
+        "syriac": "\u071b\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to close",
+                "IIa to step up, block",
+                "IIp.",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2509,
+            "uri": "https://sedra.bethmardutho.org/api/root/2509.json"
+        },
+        "words": [
+            {
+                "id": 42186,
+                "uri": "https://sedra.bethmardutho.org/api/word/42186.json"
+            },
+            {
+                "id": 40002,
+                "uri": "https://sedra.bethmardutho.org/api/word/40002.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

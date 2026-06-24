@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072a\u071d\u0729",
+        "western": "\u072a\u071d\u0729",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15105,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15105.json"
+        },
+        "stem": "\u072a\u071d\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u072a\u073a\u071d\u0729</span> to be despised."
+            ]
+        },
+        "word": {
+            "id": 40072,
+            "uri": "https://sedra.bethmardutho.org/api/word/40072.json"
+        }
+    }
+]

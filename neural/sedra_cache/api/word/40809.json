@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0712\u0725\u072a\u072a",
+        "western": "\u0712\u0725\u072a\u072a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15118,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15118.json"
+        },
+        "stem": "\u0712\u0725\u072a\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0712\u0730\u0725\u072a\u0730\u072a</span> to be fierce, act fiercely",
+                "to rage",
+                "to return to a wild state (of plants)."
+            ]
+        },
+        "word": {
+            "id": 40809,
+            "uri": "https://sedra.bethmardutho.org/api/word/40809.json"
+        }
+    }
+]

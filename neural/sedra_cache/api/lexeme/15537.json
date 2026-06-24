@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15537,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15537.json"
+        },
+        "syriac": "\u071b\u0720\u071d",
+        "glosses": {
+            "English": [
+                "IIa to restore to youth, rejuvenate",
+                "IIp to be rejuvenated.",
+                "Ia to be young"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2355,
+            "uri": "https://sedra.bethmardutho.org/api/root/2355.json"
+        },
+        "words": [
+            {
+                "id": 41663,
+                "uri": "https://sedra.bethmardutho.org/api/word/41663.json"
+            },
+            {
+                "id": 40016,
+                "uri": "https://sedra.bethmardutho.org/api/word/40016.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0726\u0713\u0721",
+        "western": "\u0726\u0713\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15464,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15464.json"
+        },
+        "stem": "\u0726\u0713\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639, \u0646\u0642\u0635 (\u0645\u0636)",
+                "\u0646\u0642\u0635 (\u0627\u0644\u0642\u0645\u0631)"
+            ],
+            "eng": [
+                "Ia to decay, to diminish",
+                "to mutilate",
+                "Ip."
+            ],
+            "fre": [
+                "mutiler",
+                "d\u00e9cro\u00eetre (lune)"
+            ]
+        },
+        "word": {
+            "id": 40229,
+            "uri": "https://sedra.bethmardutho.org/api/word/40229.json"
+        }
+    }
+]

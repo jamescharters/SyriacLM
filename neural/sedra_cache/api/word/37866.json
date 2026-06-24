@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u0712\u0718\u0722\u0710",
+        "western": "\u071f\u0730\u0712\u073d\u0718\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12750,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12750.json"
+        },
+        "stem": "\u071f\u0712\u0718\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0631\u0635 \u0645\u0633\u062a\u062f\u064a\u0631"
+            ],
+            "eng": [
+                "round cake, loaf."
+            ],
+            "fre": [
+                "galette ronde"
+            ]
+        },
+        "word": {
+            "id": 37866,
+            "uri": "https://sedra.bethmardutho.org/api/word/37866.json"
+        }
+    }
+]

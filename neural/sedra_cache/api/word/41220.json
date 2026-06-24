@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u071b",
+        "western": "\u0723\u0733\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15782,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15782.json"
+        },
+        "stem": "\u0723\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa <span class=\"selectableFont\">\u0723\u0730\u071d\u0736\u071b</span> to scorch, to burn up",
+                "Ia to be burnt up, to be parched",
+                "IIp."
+            ]
+        },
+        "word": {
+            "id": 41220,
+            "uri": "https://sedra.bethmardutho.org/api/word/41220.json"
+        }
+    }
+]

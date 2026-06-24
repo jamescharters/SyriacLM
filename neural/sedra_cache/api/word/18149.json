@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0726\u071d\u0722\u0710",
+        "western": "\u0729\u073d\u0718\u0726\u0742\u073a\u071d\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2775,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2775.json"
+        },
+        "stem": "\u0729\u0718\u0726\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "basket",
+                "basket (large)."
+            ]
+        },
+        "word": {
+            "id": 18149,
+            "uri": "https://sedra.bethmardutho.org/api/word/18149.json"
+        }
+    }
+]

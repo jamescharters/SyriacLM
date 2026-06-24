@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1919,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1919.json"
+        },
+        "syriac": "\u0722\u0717\u072a\u0710",
+        "glosses": {
+            "English": [
+                "river",
+                "river."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1145,
+            "uri": "https://sedra.bethmardutho.org/api/root/1145.json"
+        },
+        "words": [
+            {
+                "id": 12585,
+                "uri": "https://sedra.bethmardutho.org/api/word/12585.json"
+            },
+            {
+                "id": 12584,
+                "uri": "https://sedra.bethmardutho.org/api/word/12584.json"
+            },
+            {
+                "id": 12583,
+                "uri": "https://sedra.bethmardutho.org/api/word/12583.json"
+            },
+            {
+                "id": 12587,
+                "uri": "https://sedra.bethmardutho.org/api/word/12587.json"
+            },
+            {
+                "id": 12586,
+                "uri": "https://sedra.bethmardutho.org/api/word/12586.json"
+            },
+            {
+                "id": 42249,
+                "uri": "https://sedra.bethmardutho.org/api/word/42249.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

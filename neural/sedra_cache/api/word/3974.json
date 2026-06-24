@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0721",
+        "western": "\u0713\u0741\u072a\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 630,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/630.json"
+        },
+        "stem": "\u0713\u072a\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0642\u0631\u0631"
+            ],
+            "eng": [
+                "Ip",
+                "Ia to cut off short",
+                "decide",
+                "IIa to break bones.",
+                "cut off",
+                "to decide, determine"
+            ],
+            "fre": [
+                "\u00a0",
+                "d\u00e9cider"
+            ]
+        },
+        "word": {
+            "id": 3974,
+            "uri": "https://sedra.bethmardutho.org/api/word/3974.json"
+        }
+    }
+]

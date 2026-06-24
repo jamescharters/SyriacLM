@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0719\u0721",
+        "western": "\u0710\u0730\u0719\u0736\u0721",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 888,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/888.json"
+        },
+        "stem": "\u0719\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to ring out (of sound).",
+                "Ia to buzz, resound",
+                "ring",
+                "to ring out (of sound).",
+                "sound"
+            ]
+        },
+        "word": {
+            "id": 42374,
+            "uri": "https://sedra.bethmardutho.org/api/word/42374.json"
+        }
+    }
+]

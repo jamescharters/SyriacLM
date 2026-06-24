@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u0720\u071d\u071a\u0718\u072c\u0710",
+        "western": "\u0715\u0720\u073a\u071d\u071a\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14272,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14272.json"
+        },
+        "stem": "\u0715\u0720\u071d\u071a\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0627\u0621 \u0639\u0643\u0631",
+                "\u062e\u0631\u0642, \u0627\u0646\u0634\u0642\u0627\u0642"
+            ],
+            "eng": [
+                "disturbance, disorder.",
+                "tossing (of waves etc.)"
+            ],
+            "fre": [
+                "d\u00e9chirement, schisme",
+                "eau trouble"
+            ]
+        },
+        "word": {
+            "id": 32839,
+            "uri": "https://sedra.bethmardutho.org/api/word/32839.json"
+        }
+    }
+]

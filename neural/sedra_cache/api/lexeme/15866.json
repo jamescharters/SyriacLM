@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15866,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15866.json"
+        },
+        "syriac": "\u0725\u072a\u071f",
+        "glosses": {
+            "English": [
+                "Ia to stir, to knead",
+                "Ip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2194,
+            "uri": "https://sedra.bethmardutho.org/api/root/2194.json"
+        },
+        "words": [
+            {
+                "id": 42115,
+                "uri": "https://sedra.bethmardutho.org/api/word/42115.json"
+            },
+            {
+                "id": 41640,
+                "uri": "https://sedra.bethmardutho.org/api/word/41640.json"
+            },
+            {
+                "id": 41058,
+                "uri": "https://sedra.bethmardutho.org/api/word/41058.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

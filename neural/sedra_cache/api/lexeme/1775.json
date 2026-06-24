@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1775,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1775.json"
+        },
+        "syriac": "\u0721\u0720\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u062d\u0627\u0631"
+            ],
+            "French": [
+                "marin"
+            ],
+            "English": [
+                "sailor",
+                "sailor, mariner."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1061,
+            "uri": "https://sedra.bethmardutho.org/api/root/1061.json"
+        },
+        "words": [
+            {
+                "id": 22808,
+                "uri": "https://sedra.bethmardutho.org/api/word/22808.json"
+            },
+            {
+                "id": 11728,
+                "uri": "https://sedra.bethmardutho.org/api/word/11728.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

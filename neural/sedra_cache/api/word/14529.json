@@ -1,0 +1,56 @@
+[
+    {
+        "syriac": "\u0723\u0726\u0729\u0710",
+        "western": "\u0723\u0733\u0726\u0742\u0729\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2185,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2185.json"
+        },
+        "stem": "\u0723\u0726\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u062a\u062d\u0642",
+                "\u0641\u0647\u0645",
+                "\u0642\u062f\u0631",
+                "\u0643\u0641\u0649"
+            ],
+            "eng": [
+                "to deprive oneself, to abstain (from)",
+                "to be adequate, suitable, capable",
+                "Ia to suffice",
+                "IIIa to make fit, to qualify",
+                "to empty out.",
+                "to be poured out, to be lavished",
+                "IIp to be emptied",
+                "to find opportunity",
+                "to be deprived of",
+                "to be at leisure, to have time for",
+                "IIa to empty, to lay bare, to evacuate, to empty out",
+                "Ip to be emptied",
+                "be sufficient",
+                "be able",
+                "suffice"
+            ],
+            "fre": [
+                "\u00eatre digne",
+                "pouvoir",
+                "comprendre",
+                "suffire"
+            ]
+        },
+        "word": {
+            "id": 14529,
+            "uri": "https://sedra.bethmardutho.org/api/word/14529.json"
+        }
+    }
+]

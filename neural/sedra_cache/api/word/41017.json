@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0712\u071d\u0722",
+        "western": "\u0712\u0730\u071d\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14950,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14950.json"
+        },
+        "stem": "\u0712\u071d\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0623\u0641\u0647\u0645"
+            ],
+            "eng": [
+                "IIp to understand, observe.",
+                "IIa to discern, to teach"
+            ],
+            "fre": [
+                "\u00a0",
+                "faire comprendre"
+            ]
+        },
+        "word": {
+            "id": 41017,
+            "uri": "https://sedra.bethmardutho.org/api/word/41017.json"
+        }
+    }
+]

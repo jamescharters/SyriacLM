@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15013,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15013.json"
+        },
+        "syriac": "\u0715\u0722\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0630\u0628 (\u0645\u0636)",
+                ""
+            ],
+            "French": [
+                "tourmenter",
+                ""
+            ],
+            "English": [
+                "IIa to torment",
+                "IIp to be in pain."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2162,
+            "uri": "https://sedra.bethmardutho.org/api/root/2162.json"
+        },
+        "words": [
+            {
+                "id": 41518,
+                "uri": "https://sedra.bethmardutho.org/api/word/41518.json"
+            },
+            {
+                "id": 41417,
+                "uri": "https://sedra.bethmardutho.org/api/word/41417.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

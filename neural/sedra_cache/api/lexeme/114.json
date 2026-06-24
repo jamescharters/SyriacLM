@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 114,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/114.json"
+        },
+        "syriac": "\u0712\u071a\u071d\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062c\u0631\u0628, \u0641\u0631\u064a\u062f"
+            ],
+            "French": [
+                "\u00e9prouv\u00e9, excellent"
+            ],
+            "English": [
+                "tried",
+                "approved",
+                "expert",
+                "tested, approved."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 259,
+            "uri": "https://sedra.bethmardutho.org/api/root/259.json"
+        },
+        "words": [
+            {
+                "id": 3242,
+                "uri": "https://sedra.bethmardutho.org/api/word/3242.json"
+            },
+            {
+                "id": 2499,
+                "uri": "https://sedra.bethmardutho.org/api/word/2499.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

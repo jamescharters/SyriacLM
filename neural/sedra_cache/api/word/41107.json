@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0728\u0726",
+        "western": "\u0728\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15762,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15762.json"
+        },
+        "stem": "\u0728\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to burn, be inflamed."
+            ]
+        },
+        "word": {
+            "id": 41107,
+            "uri": "https://sedra.bethmardutho.org/api/word/41107.json"
+        }
+    }
+]

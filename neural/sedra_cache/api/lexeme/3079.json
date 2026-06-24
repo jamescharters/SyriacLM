@@ -1,0 +1,89 @@
+[
+    {
+        "lexeme": {
+            "id": 3079,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3079.json"
+        },
+        "syriac": "\u072a\u072b\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0633\u0645, \u0639\u0644\u0645 (\u0645\u0636)",
+                "\u062d\u0641\u0631",
+                "\u0635\u0648\u0631",
+                "\u062e\u0637",
+                "\u0648\u0633\u0645",
+                "\u0648\u0635\u0649",
+                "\u00a0"
+            ],
+            "French": [
+                "tracer, marquer",
+                "graver",
+                "dessiner",
+                "\u00e9crire",
+                "intituler",
+                "prescrire",
+                "\u00a0"
+            ],
+            "English": [
+                "foreordain",
+                "engrave",
+                "mark",
+                "IIp",
+                "IIIa to trace out, to prefigure.",
+                "Ia to mark, to delineate, to inscribe, to draw",
+                "Ip",
+                "IIa to trace",
+                "to sign with the cross",
+                "to appoint, assign"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1792,
+            "uri": "https://sedra.bethmardutho.org/api/root/1792.json"
+        },
+        "words": [
+            {
+                "id": 28750,
+                "uri": "https://sedra.bethmardutho.org/api/word/28750.json"
+            },
+            {
+                "id": 28749,
+                "uri": "https://sedra.bethmardutho.org/api/word/28749.json"
+            },
+            {
+                "id": 20017,
+                "uri": "https://sedra.bethmardutho.org/api/word/20017.json"
+            },
+            {
+                "id": 20016,
+                "uri": "https://sedra.bethmardutho.org/api/word/20016.json"
+            },
+            {
+                "id": 20015,
+                "uri": "https://sedra.bethmardutho.org/api/word/20015.json"
+            },
+            {
+                "id": 28752,
+                "uri": "https://sedra.bethmardutho.org/api/word/28752.json"
+            },
+            {
+                "id": 28751,
+                "uri": "https://sedra.bethmardutho.org/api/word/28751.json"
+            },
+            {
+                "id": 20020,
+                "uri": "https://sedra.bethmardutho.org/api/word/20020.json"
+            },
+            {
+                "id": 20018,
+                "uri": "https://sedra.bethmardutho.org/api/word/20018.json"
+            },
+            {
+                "id": 20019,
+                "uri": "https://sedra.bethmardutho.org/api/word/20019.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

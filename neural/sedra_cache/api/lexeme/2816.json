@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 2816,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2816.json"
+        },
+        "syriac": "\u0729\u071d\u072c\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u064a\u062b\u0627\u0631\u0629"
+            ],
+            "French": [
+                "cithare"
+            ],
+            "English": [
+                "harp",
+                "instrument",
+                "stringed instrument, cithern, harp, lyre."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03b9\u03b8\u03ac\u03c1\u03b1"
+            ]
+        },
+        "root": {
+            "id": 1664,
+            "uri": "https://sedra.bethmardutho.org/api/root/1664.json"
+        },
+        "words": [
+            {
+                "id": 27908,
+                "uri": "https://sedra.bethmardutho.org/api/word/27908.json"
+            },
+            {
+                "id": 18347,
+                "uri": "https://sedra.bethmardutho.org/api/word/18347.json"
+            },
+            {
+                "id": 18350,
+                "uri": "https://sedra.bethmardutho.org/api/word/18350.json"
+            },
+            {
+                "id": 18348,
+                "uri": "https://sedra.bethmardutho.org/api/word/18348.json"
+            },
+            {
+                "id": 18346,
+                "uri": "https://sedra.bethmardutho.org/api/word/18346.json"
+            },
+            {
+                "id": 18349,
+                "uri": "https://sedra.bethmardutho.org/api/word/18349.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

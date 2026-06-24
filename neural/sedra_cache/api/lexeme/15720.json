@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15720,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15720.json"
+        },
+        "syriac": "\u0715\u0713\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0638\u0644\u0645\u062a (\u0639\u064a\u0646)"
+            ],
+            "French": [
+                "s&#39;obscurcir (\u0153il)"
+            ],
+            "English": [
+                ", <span class=\"selectableFont\">\u0715\u0713\u0730\u0722</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u0713\u0730\u0722</span>, Ia to grow dim, be bleary (of eye)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2896,
+            "uri": "https://sedra.bethmardutho.org/api/root/2896.json"
+        },
+        "words": [
+            {
+                "id": 42183,
+                "uri": "https://sedra.bethmardutho.org/api/word/42183.json"
+            },
+            {
+                "id": 40266,
+                "uri": "https://sedra.bethmardutho.org/api/word/40266.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

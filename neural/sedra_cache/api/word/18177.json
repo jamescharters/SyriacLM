@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0729\u0718\u072b\u072c\u0710",
+        "western": "\u0729\u073d\u0718\u072b\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2786,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2786.json"
+        },
+        "stem": "\u0729\u0718\u072b\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062f\u0644",
+                "\u062d\u0642\u064a\u0642\u0629"
+            ],
+            "eng": [
+                "truth",
+                "truth, verity.",
+                "verity"
+            ],
+            "fre": [
+                "justice",
+                "v\u00e9rit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 18177,
+            "uri": "https://sedra.bethmardutho.org/api/word/18177.json"
+        }
+    }
+]

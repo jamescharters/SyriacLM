@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 493,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/493.json"
+        },
+        "syriac": "\u0713\u0710\u071d\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Gaius"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 331,
+            "uri": "https://sedra.bethmardutho.org/api/root/331.json"
+        },
+        "words": [
+            {
+                "id": 3384,
+                "uri": "https://sedra.bethmardutho.org/api/word/3384.json"
+            },
+            {
+                "id": 3383,
+                "uri": "https://sedra.bethmardutho.org/api/word/3383.json"
+            },
+            {
+                "id": 3382,
+                "uri": "https://sedra.bethmardutho.org/api/word/3382.json"
+            },
+            {
+                "id": 3381,
+                "uri": "https://sedra.bethmardutho.org/api/word/3381.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1072,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1072.json"
+        },
+        "syriac": "\u072c\u071a\u0721\u0728\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u062c\u0644"
+            ],
+            "French": [
+                "honte"
+            ],
+            "English": [
+                "shamefastness",
+                "modesty",
+                "reverence",
+                "modesty, shame."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 645,
+            "uri": "https://sedra.bethmardutho.org/api/root/645.json"
+        },
+        "words": [
+            {
+                "id": 7207,
+                "uri": "https://sedra.bethmardutho.org/api/word/7207.json"
+            },
+            {
+                "id": 7206,
+                "uri": "https://sedra.bethmardutho.org/api/word/7206.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

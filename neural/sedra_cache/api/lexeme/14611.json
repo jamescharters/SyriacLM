@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 14611,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14611.json"
+        },
+        "syriac": "\u0726\u072a\u071f\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0641\u0642"
+            ],
+            "French": [
+                "palpiter"
+            ],
+            "English": [
+                "IVa to separate",
+                "IVp.",
+                "to palpitate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2479,
+            "uri": "https://sedra.bethmardutho.org/api/root/2479.json"
+        },
+        "words": [
+            {
+                "id": 41309,
+                "uri": "https://sedra.bethmardutho.org/api/word/41309.json"
+            },
+            {
+                "id": 40773,
+                "uri": "https://sedra.bethmardutho.org/api/word/40773.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

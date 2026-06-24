@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 1430,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1430.json"
+        },
+        "syriac": "\u071d\u072a\u072c\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0631\u0627\u062b\u0629, \u0645\u0644\u0643"
+            ],
+            "French": [
+                "h\u00e9ritage, possession"
+            ],
+            "English": [
+                "inheritance",
+                "Kth. heritage.",
+                "inheritance, portion, property"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 850,
+            "uri": "https://sedra.bethmardutho.org/api/root/850.json"
+        },
+        "words": [
+            {
+                "id": 9490,
+                "uri": "https://sedra.bethmardutho.org/api/word/9490.json"
+            },
+            {
+                "id": 9487,
+                "uri": "https://sedra.bethmardutho.org/api/word/9487.json"
+            },
+            {
+                "id": 9484,
+                "uri": "https://sedra.bethmardutho.org/api/word/9484.json"
+            },
+            {
+                "id": 9483,
+                "uri": "https://sedra.bethmardutho.org/api/word/9483.json"
+            },
+            {
+                "id": 9488,
+                "uri": "https://sedra.bethmardutho.org/api/word/9488.json"
+            },
+            {
+                "id": 9486,
+                "uri": "https://sedra.bethmardutho.org/api/word/9486.json"
+            },
+            {
+                "id": 9485,
+                "uri": "https://sedra.bethmardutho.org/api/word/9485.json"
+            },
+            {
+                "id": 9489,
+                "uri": "https://sedra.bethmardutho.org/api/word/9489.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

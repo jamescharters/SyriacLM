@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 3046,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3046.json"
+        },
+        "syriac": "\u072a\u0725\u071d\u0710",
+        "glosses": {
+            "English": [
+                "shepherd",
+                "pastor",
+                "shepherd, pastor."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1774,
+            "uri": "https://sedra.bethmardutho.org/api/root/1774.json"
+        },
+        "words": [
+            {
+                "id": 19855,
+                "uri": "https://sedra.bethmardutho.org/api/word/19855.json"
+            },
+            {
+                "id": 19854,
+                "uri": "https://sedra.bethmardutho.org/api/word/19854.json"
+            },
+            {
+                "id": 19857,
+                "uri": "https://sedra.bethmardutho.org/api/word/19857.json"
+            },
+            {
+                "id": 19856,
+                "uri": "https://sedra.bethmardutho.org/api/word/19856.json"
+            },
+            {
+                "id": 42216,
+                "uri": "https://sedra.bethmardutho.org/api/word/42216.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

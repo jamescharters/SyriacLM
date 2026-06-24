@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0726\u071d\u0720\u0718\u0723\u0718\u0726\u0710",
+        "western": "\u0726\u0741\u073a\u071d\u0720\u0733\u0718\u0723\u0733\u0718\u0726\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2490,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2490.json"
+        },
+        "stem": "\u0726\u071d\u0720\u0723\u0718\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "philosopher"
+            ]
+        },
+        "word": {
+            "id": 16308,
+            "uri": "https://sedra.bethmardutho.org/api/word/16308.json"
+        }
+    }
+]

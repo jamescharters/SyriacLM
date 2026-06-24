@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0710\u0715\u0722\u0710",
+        "western": "\u0710\u0736\u0715\u0722\u0733\u0710",
+        "lexeme": {
+            "id": 33,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33.json"
+        },
+        "stem": "\u0710\u0715\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0645 \u0627\u0644\u0632\u0642",
+                "\u062e\u0644\u064a\u062c",
+                "\u0639\u0631\u0648\u0629",
+                "\u0623\u0630\u0646"
+            ],
+            "eng": [
+                "handle.",
+                "ear",
+                "the plaintain",
+                "ear"
+            ],
+            "fre": [
+                "oreille",
+                "anse",
+                "golfe",
+                "bouche de l&#39;outre"
+            ]
+        },
+        "word": {
+            "id": 47237,
+            "uri": "https://sedra.bethmardutho.org/api/word/47237.json"
+        }
+    }
+]

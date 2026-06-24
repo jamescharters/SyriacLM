@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u072b\u071d\u0720\u0710",
+        "western": "\u0710\u0730\u072b\u073a\u071d\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10211,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10211.json"
+        },
+        "stem": "\u0710\u072b\u071d\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "borrowed, assumed, presumed."
+            ],
+            "fre": [
+                "emprunt\u00e9\u2026"
+            ]
+        },
+        "word": {
+            "id": 31594,
+            "uri": "https://sedra.bethmardutho.org/api/word/31594.json"
+        }
+    }
+]

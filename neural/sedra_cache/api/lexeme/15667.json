@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15667,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15667.json"
+        },
+        "syriac": "\u0713\u0721\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0635\u0631"
+            ],
+            "French": [
+                "raccourcir"
+            ],
+            "English": [
+                "Ia to press, mangle (clothes)",
+                "IIIa to dare, persist obstinately, act boldly."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3044,
+            "uri": "https://sedra.bethmardutho.org/api/root/3044.json"
+        },
+        "words": [
+            {
+                "id": 41809,
+                "uri": "https://sedra.bethmardutho.org/api/word/41809.json"
+            },
+            {
+                "id": 40036,
+                "uri": "https://sedra.bethmardutho.org/api/word/40036.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

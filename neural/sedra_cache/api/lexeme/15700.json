@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15700,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15700.json"
+        },
+        "syriac": "\u0728\u0712\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0631\u062b\u0631",
+                "\u0645\u0632\u062d",
+                "\u0647\u0630\u0649"
+            ],
+            "French": [
+                "jaser",
+                "plaisanter",
+                "divaguer"
+            ],
+            "English": [
+                "IIa to confound",
+                "to rave.",
+                "Ia to chatter, talk nonsense"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2830,
+            "uri": "https://sedra.bethmardutho.org/api/root/2830.json"
+        },
+        "words": [
+            {
+                "id": 41823,
+                "uri": "https://sedra.bethmardutho.org/api/word/41823.json"
+            },
+            {
+                "id": 41032,
+                "uri": "https://sedra.bethmardutho.org/api/word/41032.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0718\u0710\u072c\u0725\u0719\u0719",
+        "western": "\u0718\u0736\u0710\u072c\u0742\u0725\u0730\u0719\u0730\u0719",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2291,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2291.json"
+        },
+        "stem": "\u0725\u0719",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0642\u0648\u0649, \u062a\u0634\u062f\u062f"
+            ],
+            "eng": [
+                "groan",
+                "be vehemently troubled",
+                "IIa to resist with fortitude",
+                "Ia to be, grow powerful, vehement",
+                "IIp to be strong, mighty",
+                "to be strongly affected."
+            ],
+            "fre": [
+                "devenir fort, s&#39;intensifier"
+            ]
+        },
+        "word": {
+            "id": 15224,
+            "uri": "https://sedra.bethmardutho.org/api/word/15224.json"
+        }
+    }
+]

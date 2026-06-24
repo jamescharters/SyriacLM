@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u0712\u071a\u071d\u0722\u071d",
+        "western": "\u072b\u0730\u0712\u0741\u0730\u071a\u0730\u071d\u0722\u071d",
+        "tense": "imperative",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 3136,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3136.json"
+        },
+        "stem": "\u072b\u0712\u071a",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "praise",
+                "commend",
+                "glorify"
+            ]
+        },
+        "word": {
+            "id": 20606,
+            "uri": "https://sedra.bethmardutho.org/api/word/20606.json"
+        }
+    }
+]

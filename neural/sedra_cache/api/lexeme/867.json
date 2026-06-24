@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 867,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/867.json"
+        },
+        "syriac": "\u0719\u0718\u071d\u072c\u0710",
+        "glosses": {
+            "English": [
+                "corner",
+                "corner, angle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 551,
+            "uri": "https://sedra.bethmardutho.org/api/root/551.json"
+        },
+        "words": [
+            {
+                "id": 5620,
+                "uri": "https://sedra.bethmardutho.org/api/word/5620.json"
+            },
+            {
+                "id": 5619,
+                "uri": "https://sedra.bethmardutho.org/api/word/5619.json"
+            },
+            {
+                "id": 5623,
+                "uri": "https://sedra.bethmardutho.org/api/word/5623.json"
+            },
+            {
+                "id": 5621,
+                "uri": "https://sedra.bethmardutho.org/api/word/5621.json"
+            },
+            {
+                "id": 5622,
+                "uri": "https://sedra.bethmardutho.org/api/word/5622.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

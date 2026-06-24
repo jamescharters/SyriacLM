@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 2119,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2119.json"
+        },
+        "syriac": "\u0723\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "mud",
+                "mire",
+                "mud, mire, filth."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1265,
+            "uri": "https://sedra.bethmardutho.org/api/root/1265.json"
+        },
+        "words": [
+            {
+                "id": 14105,
+                "uri": "https://sedra.bethmardutho.org/api/word/14105.json"
+            },
+            {
+                "id": 14106,
+                "uri": "https://sedra.bethmardutho.org/api/word/14106.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

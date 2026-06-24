@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0722\u0725\u0712\u0710",
+        "western": "\u0722\u0736\u0725\u0712\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15367,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15367.json"
+        },
+        "stem": "\u0725\u0712\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to harden, to condense, to thicken",
+                "& <span class=\"selectableFont\">\u0725\u0712\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0725\u0712\u0736\u0710</span>, Ia to thicken, to swell",
+                "IIIa.",
+                "Ip to swell",
+                "IIp"
+            ]
+        },
+        "word": {
+            "id": 41774,
+            "uri": "https://sedra.bethmardutho.org/api/word/41774.json"
+        }
+    }
+]

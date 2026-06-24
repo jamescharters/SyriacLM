@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0725\u0720\u072c\u0717\u0718\u0722",
+        "western": "\u0725\u0736\u0720\u0730\u072c\u0742\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 12584,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12584.json"
+        },
+        "stem": "\u0725\u0720\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "cause, pretext",
+                "argument, heading.",
+                "occasion",
+                "cause",
+                "affair, occasion",
+                "cause, pretext",
+                "rationale",
+                "affair, occasion",
+                "cause, pretext",
+                "rationale",
+                "argument, heading."
+            ]
+        },
+        "word": {
+            "id": 15451,
+            "uri": "https://sedra.bethmardutho.org/api/word/15451.json"
+        }
+    }
+]

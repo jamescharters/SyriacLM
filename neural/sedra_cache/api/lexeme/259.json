@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 259,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/259.json"
+        },
+        "syriac": "\u0710\u0726\u0723\u0722\u072c\u071d\u0718\u0722",
+        "glosses": {
+            "English": [
+                "wormwood"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f04\u03c8\u03b9\u03bd\u03b8\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 195,
+            "uri": "https://sedra.bethmardutho.org/api/root/195.json"
+        },
+        "words": [
+            {
+                "id": 1804,
+                "uri": "https://sedra.bethmardutho.org/api/word/1804.json"
+            },
+            {
+                "id": 50793,
+                "uri": "https://sedra.bethmardutho.org/api/word/50793.json"
+            },
+            {
+                "id": 1803,
+                "uri": "https://sedra.bethmardutho.org/api/word/1803.json"
+            },
+            {
+                "id": 1802,
+                "uri": "https://sedra.bethmardutho.org/api/word/1802.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

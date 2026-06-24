@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15366,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15366.json"
+        },
+        "syriac": "\u0712\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0631\u0628"
+            ],
+            "French": [
+                "d\u00e9vaster"
+            ],
+            "English": [
+                "IIIa to leave uncultivated",
+                "to lay waste.",
+                "to cease",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0712\u073d\u0718\u072a</span>, Ia to be uncultivated"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3225,
+            "uri": "https://sedra.bethmardutho.org/api/root/3225.json"
+        },
+        "words": [
+            {
+                "id": 42152,
+                "uri": "https://sedra.bethmardutho.org/api/word/42152.json"
+            },
+            {
+                "id": 41514,
+                "uri": "https://sedra.bethmardutho.org/api/word/41514.json"
+            },
+            {
+                "id": 40936,
+                "uri": "https://sedra.bethmardutho.org/api/word/40936.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

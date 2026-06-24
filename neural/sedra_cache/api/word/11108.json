@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0720\u0725\u0712\u0710",
+        "western": "\u0720\u0730\u0725\u0712\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1686,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1686.json"
+        },
+        "stem": "\u0720\u0725\u0712\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0637\u064a\u0646, \u062c\u0634\u0639"
+            ],
+            "eng": [
+                "greedy",
+                "greedy, voracious."
+            ],
+            "fre": [
+                "glouton, avide"
+            ]
+        },
+        "word": {
+            "id": 11108,
+            "uri": "https://sedra.bethmardutho.org/api/word/11108.json"
+        }
+    }
+]

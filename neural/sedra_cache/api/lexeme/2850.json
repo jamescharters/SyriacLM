@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 2850,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2850.json"
+        },
+        "syriac": "\u0729\u0723\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u0646\u0627\u0621",
+                "\u0642\u0633\u0637"
+            ],
+            "French": [
+                "vase",
+                "setier"
+            ],
+            "English": [
+                "pint",
+                "pitcher",
+                "jug",
+                "jug",
+                "liquid measure.",
+                "pint"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03be\u03ad\u03c3\u03c4\u03b7\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1688,
+            "uri": "https://sedra.bethmardutho.org/api/root/1688.json"
+        },
+        "words": [
+            {
+                "id": 18482,
+                "uri": "https://sedra.bethmardutho.org/api/word/18482.json"
+            },
+            {
+                "id": 18484,
+                "uri": "https://sedra.bethmardutho.org/api/word/18484.json"
+            },
+            {
+                "id": 18483,
+                "uri": "https://sedra.bethmardutho.org/api/word/18483.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 1726,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1726.json"
+        },
+        "syriac": "\u0721\u0718\u072b\u0710",
+        "glosses": {
+            "English": [
+                "Moses"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1035,
+            "uri": "https://sedra.bethmardutho.org/api/root/1035.json"
+        },
+        "words": [
+            {
+                "id": 11272,
+                "uri": "https://sedra.bethmardutho.org/api/word/11272.json"
+            },
+            {
+                "id": 11271,
+                "uri": "https://sedra.bethmardutho.org/api/word/11271.json"
+            },
+            {
+                "id": 11270,
+                "uri": "https://sedra.bethmardutho.org/api/word/11270.json"
+            },
+            {
+                "id": 11269,
+                "uri": "https://sedra.bethmardutho.org/api/word/11269.json"
+            },
+            {
+                "id": 11268,
+                "uri": "https://sedra.bethmardutho.org/api/word/11268.json"
+            },
+            {
+                "id": 11273,
+                "uri": "https://sedra.bethmardutho.org/api/word/11273.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

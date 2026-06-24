@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0712\u072a\u0717-\u0715\u071d\u0718\u0722\u0710",
+        "western": "\u0712\u0741\u072a\u0736\u0717-\u0715\u0741\u071d\u0730\u0718\u0722\u0733\u0710",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 455,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/455.json"
+        },
+        "stem": "\u0712\u072a \u071d\u0718\u0722\u0710",
+        "category": "proper noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Bar-jona",
+                "son of Jonas"
+            ]
+        },
+        "word": {
+            "id": 3153,
+            "uri": "https://sedra.bethmardutho.org/api/word/3153.json"
+        }
+    }
+]

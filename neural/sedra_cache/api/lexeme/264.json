@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 264,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/264.json"
+        },
+        "syriac": "\u0710\u0729\u0718\u0720\u0710\u0723",
+        "glosses": {
+            "English": [
+                "Aquila"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 200,
+            "uri": "https://sedra.bethmardutho.org/api/root/200.json"
+        },
+        "words": [
+            {
+                "id": 1813,
+                "uri": "https://sedra.bethmardutho.org/api/word/1813.json"
+            },
+            {
+                "id": 1812,
+                "uri": "https://sedra.bethmardutho.org/api/word/1812.json"
+            },
+            {
+                "id": 1811,
+                "uri": "https://sedra.bethmardutho.org/api/word/1811.json"
+            },
+            {
+                "id": 1810,
+                "uri": "https://sedra.bethmardutho.org/api/word/1810.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u0725\u071d\u0723\u0710",
+        "western": "\u0721\u0725\u073a\u071d\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12835,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12835.json"
+        },
+        "stem": "\u0721\u0725\u071d\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0641\u0633\u0648\u062f",
+                "\u0645\u0631\u064a\u0636"
+            ],
+            "eng": [
+                "despicable."
+            ],
+            "fre": [
+                "corrompu",
+                "malade"
+            ]
+        },
+        "word": {
+            "id": 37498,
+            "uri": "https://sedra.bethmardutho.org/api/word/37498.json"
+        }
+    }
+]

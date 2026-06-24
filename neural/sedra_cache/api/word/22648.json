@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072c\u0718\u0729\u0726\u0710",
+        "western": "\u072c\u0741\u073d\u0718\u0729\u0726\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3431,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3431.json"
+        },
+        "stem": "\u072c\u0718\u0729\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "strength",
+                "power",
+                "stronghold.",
+                "force, strength"
+            ]
+        },
+        "word": {
+            "id": 22648,
+            "uri": "https://sedra.bethmardutho.org/api/word/22648.json"
+        }
+    }
+]

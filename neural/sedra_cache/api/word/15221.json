@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0725\u0718\u072a\u0726\u0722\u0717\u0718\u0722",
+        "western": "\u0725\u073d\u0718\u072a\u0726\u0742\u0733\u0722\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2289,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2289.json"
+        },
+        "stem": "\u0725\u0718\u072a\u0726\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0641\u0643\u064a\u0631"
+            ],
+            "eng": [
+                "gain.",
+                "money (change)",
+                "change (money)",
+                "small change, money"
+            ],
+            "fre": [
+                "r\u00e9flexion"
+            ]
+        },
+        "word": {
+            "id": 15221,
+            "uri": "https://sedra.bethmardutho.org/api/word/15221.json"
+        }
+    }
+]

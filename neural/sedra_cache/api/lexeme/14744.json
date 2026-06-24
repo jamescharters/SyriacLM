@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14744,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14744.json"
+        },
+        "syriac": "\u071f\u072a\u071f\u0720",
+        "glosses": {
+            "English": [
+                "IVa to writhe (of a snake)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2859,
+            "uri": "https://sedra.bethmardutho.org/api/root/2859.json"
+        },
+        "words": [
+            {
+                "id": 40313,
+                "uri": "https://sedra.bethmardutho.org/api/word/40313.json"
+            },
+            {
+                "id": 40220,
+                "uri": "https://sedra.bethmardutho.org/api/word/40220.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

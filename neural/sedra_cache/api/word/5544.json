@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u0719\u0715\u0729",
+        "western": "\u0721\u0719\u0730\u0715\u0741\u0736\u0729",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 848,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/848.json"
+        },
+        "stem": "\u0719\u0715\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "justify",
+                "Ia <span class=\"selectableFont\">\u0719\u0733\u0715\u0736\u0729</span> it is right, fitting",
+                "to assign",
+                "IIa to justify, declare righteous",
+                "IIp.",
+                "to verify",
+                "approve",
+                "fitting",
+                "it is right",
+                "to give alms"
+            ]
+        },
+        "word": {
+            "id": 5544,
+            "uri": "https://sedra.bethmardutho.org/api/word/5544.json"
+        }
+    }
+]

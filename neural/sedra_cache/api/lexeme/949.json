@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 949,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/949.json"
+        },
+        "syriac": "\u0721\u071a\u0713\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0639\u0631\u062c"
+            ],
+            "French": [
+                "boiteux"
+            ],
+            "English": [
+                "lame"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 594,
+            "uri": "https://sedra.bethmardutho.org/api/root/594.json"
+        },
+        "words": [
+            {
+                "id": 6185,
+                "uri": "https://sedra.bethmardutho.org/api/word/6185.json"
+            },
+            {
+                "id": 6184,
+                "uri": "https://sedra.bethmardutho.org/api/word/6184.json"
+            },
+            {
+                "id": 6187,
+                "uri": "https://sedra.bethmardutho.org/api/word/6187.json"
+            },
+            {
+                "id": 6186,
+                "uri": "https://sedra.bethmardutho.org/api/word/6186.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

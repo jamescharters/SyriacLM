@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 2771,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2771.json"
+        },
+        "syriac": "\u0729\u071d\u0721\u0710",
+        "glosses": {
+            "English": [
+                "covenant",
+                "standing",
+                "stand",
+                "pact",
+                "constitution, state",
+                "standing position",
+                "covenant, agreement, treaty",
+                "monastic or clerical profession."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1632,
+            "uri": "https://sedra.bethmardutho.org/api/root/1632.json"
+        },
+        "words": [
+            {
+                "id": 18130,
+                "uri": "https://sedra.bethmardutho.org/api/word/18130.json"
+            },
+            {
+                "id": 18129,
+                "uri": "https://sedra.bethmardutho.org/api/word/18129.json"
+            },
+            {
+                "id": 18128,
+                "uri": "https://sedra.bethmardutho.org/api/word/18128.json"
+            },
+            {
+                "id": 18127,
+                "uri": "https://sedra.bethmardutho.org/api/word/18127.json"
+            },
+            {
+                "id": 18132,
+                "uri": "https://sedra.bethmardutho.org/api/word/18132.json"
+            },
+            {
+                "id": 18131,
+                "uri": "https://sedra.bethmardutho.org/api/word/18131.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

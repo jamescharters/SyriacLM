@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2140,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2140.json"
+        },
+        "syriac": "\u0723\u0720\u0718\u0729\u071d\u0710",
+        "glosses": {
+            "English": [
+                "inhabitant of Seleucia",
+                "Seleucia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1277,
+            "uri": "https://sedra.bethmardutho.org/api/root/1277.json"
+        },
+        "words": [
+            {
+                "id": 43871,
+                "uri": "https://sedra.bethmardutho.org/api/word/43871.json"
+            },
+            {
+                "id": 14250,
+                "uri": "https://sedra.bethmardutho.org/api/word/14250.json"
+            },
+            {
+                "id": 14251,
+                "uri": "https://sedra.bethmardutho.org/api/word/14251.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

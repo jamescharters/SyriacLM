@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u0723\u0710\u0712",
+        "western": "\u0718\u0730\u0723\u0736\u0710\u0712\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15805,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15805.json"
+        },
+        "stem": "\u0723\u0710\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to grow old, to be old",
+                "IIIa to come to old age.",
+                "grow old"
+            ]
+        },
+        "word": {
+            "id": 13448,
+            "uri": "https://sedra.bethmardutho.org/api/word/13448.json"
+        }
+    }
+]

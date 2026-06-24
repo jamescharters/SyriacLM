@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071a\u072a\u072b\u0710",
+        "western": "\u071a\u0730\u072a\u0733\u072b\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1157,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1157.json"
+        },
+        "stem": "\u071a\u072a\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sorcerer",
+                "magician, sorcerer, enchanter."
+            ]
+        },
+        "word": {
+            "id": 7587,
+            "uri": "https://sedra.bethmardutho.org/api/word/7587.json"
+        }
+    }
+]

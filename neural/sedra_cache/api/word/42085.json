@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0729\u0718\u0723",
+        "western": "\u0722\u0736\u0729\u073d\u0718\u0723",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15511,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15511.json"
+        },
+        "stem": "\u0722\u0729\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639"
+            ],
+            "eng": [
+                "Ia to cut in pieces."
+            ],
+            "fre": [
+                "couper"
+            ]
+        },
+        "word": {
+            "id": 42085,
+            "uri": "https://sedra.bethmardutho.org/api/word/42085.json"
+        }
+    }
+]

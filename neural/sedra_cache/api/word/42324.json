@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0728\u071d\u072c",
+        "western": "\u0710\u0730\u0728\u073a\u071d\u072c",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2680,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2680.json"
+        },
+        "stem": "\u0728\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to hearken.",
+                "Ia to hear, give heed Ip",
+                "to hearken.",
+                "listen to",
+                "heed"
+            ]
+        },
+        "word": {
+            "id": 42324,
+            "uri": "https://sedra.bethmardutho.org/api/word/42324.json"
+        }
+    }
+]

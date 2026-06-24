@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u0710\u0718\u072c\u0710",
+        "western": "\u0720\u0736\u0710\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5666,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5666.json"
+        },
+        "stem": "\u0720\u0710\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0645\u0631\u0629 \u0627\u0644\u0634\u063a\u0644"
+            ],
+            "eng": [
+                "laboriousness",
+                "labour",
+                "fatigue",
+                "weariness",
+                "weariness, fatigue."
+            ],
+            "fre": [
+                "fruit du travail"
+            ]
+        },
+        "word": {
+            "id": 37254,
+            "uri": "https://sedra.bethmardutho.org/api/word/37254.json"
+        }
+    }
+]

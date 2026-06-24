@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u071d\u071f\u0718\u0723",
+        "western": "\u0710\u073a\u071d\u071f\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 14022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14022.json"
+        },
+        "stem": "\u0710\u071d\u071f\u0718\u0723",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sound",
+                "track, footstep",
+                "tone (in music), = <span class=\"selectableFont\">\u0729\u073a\u071d\u0722\u072c\u0733\u0710</span>.",
+                "tonus, modulatio"
+            ],
+            "grc": [
+                "\u1f34\u03c7\u03bd\u03bf\u03c2"
+            ],
+            "lat": [
+                "\u1f26\u03c7\u03bf\u03c2"
+            ]
+        },
+        "word": {
+            "id": 55274,
+            "uri": "https://sedra.bethmardutho.org/api/word/55274.json"
+        }
+    }
+]

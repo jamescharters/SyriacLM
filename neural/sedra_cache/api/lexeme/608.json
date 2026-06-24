@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 608,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/608.json"
+        },
+        "syriac": "\u0713\u0722\u0723\u072a",
+        "glosses": {
+            "English": [
+                "Gennesaret"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 390,
+            "uri": "https://sedra.bethmardutho.org/api/root/390.json"
+        },
+        "words": [
+            {
+                "id": 3912,
+                "uri": "https://sedra.bethmardutho.org/api/word/3912.json"
+            },
+            {
+                "id": 3913,
+                "uri": "https://sedra.bethmardutho.org/api/word/3913.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

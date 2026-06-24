@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0725\u072c\u071d\u072a\u072c\u0710",
+        "western": "\u0725\u0730\u072c\u0741\u073a\u071d\u072a\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2439,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2439.json"
+        },
+        "stem": "\u0725\u072c\u071d\u072a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0632\u064a\u0631",
+                "\u0643\u0631\u064a\u0645",
+                "\u063a\u0646\u064a"
+            ],
+            "eng": [
+                "abundant.",
+                "rich",
+                "bountiful",
+                "rich, wealthy",
+                "wealthy"
+            ],
+            "fre": [
+                "g\u00e9n\u00e9reux",
+                "riche",
+                "abondant"
+            ]
+        },
+        "word": {
+            "id": 16103,
+            "uri": "https://sedra.bethmardutho.org/api/word/16103.json"
+        }
+    }
+]

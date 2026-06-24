@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 2913,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2913.json"
+        },
+        "syriac": "\u072a\u0712\u0718\u0720\u071d",
+        "glosses": {
+            "English": [
+                "master"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1722,
+            "uri": "https://sedra.bethmardutho.org/api/root/1722.json"
+        },
+        "words": [
+            {
+                "id": 18962,
+                "uri": "https://sedra.bethmardutho.org/api/word/18962.json"
+            },
+            {
+                "id": 18961,
+                "uri": "https://sedra.bethmardutho.org/api/word/18961.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethp"
+    }
+]

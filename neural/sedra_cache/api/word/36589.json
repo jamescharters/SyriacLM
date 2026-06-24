@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0713\u0710",
+        "western": "\u071a\u0733\u0713\u0308\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9112,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9112.json"
+        },
+        "stem": "\u071a\u0713\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0627\u062c (\u0646\u0628\u062a\u0629 \u0634\u0627\u0626\u0643\u0629)"
+            ],
+            "eng": [
+                "thorns."
+            ],
+            "fre": [
+                "alhagi ( plante \u00e9pineuse)"
+            ]
+        },
+        "word": {
+            "id": 36589,
+            "uri": "https://sedra.bethmardutho.org/api/word/36589.json"
+        }
+    }
+]

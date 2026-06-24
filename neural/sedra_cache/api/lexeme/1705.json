@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1705,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1705.json"
+        },
+        "syriac": "\u0721\u0713\u0715\u0720\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Magdelene"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1015,
+            "uri": "https://sedra.bethmardutho.org/api/root/1015.json"
+        },
+        "words": [
+            {
+                "id": 25437,
+                "uri": "https://sedra.bethmardutho.org/api/word/25437.json"
+            },
+            {
+                "id": 11217,
+                "uri": "https://sedra.bethmardutho.org/api/word/11217.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

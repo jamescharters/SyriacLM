@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0712\u0725\u0715",
+        "western": "\u0712\u0725\u0715",
+        "lexeme": {
+            "id": 428,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/428.json"
+        },
+        "stem": "\u0712\u0725\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "stay away",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0712\u0725\u0730\u0715</span> to go far away",
+                "to send far away, remove.",
+                "be absent"
+            ]
+        },
+        "word": {
+            "id": 3021,
+            "uri": "https://sedra.bethmardutho.org/api/word/3021.json"
+        }
+    }
+]

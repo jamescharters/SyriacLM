@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0710\u0715\u0718\u0721",
+        "western": "\u0710\u0730\u0715\u0718\u073d\u0721",
+        "lexeme": {
+            "id": 30,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/30.json"
+        },
+        "stem": "\u0710\u0715\u0718\u0721",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Idumaea"
+            ]
+        },
+        "word": {
+            "id": 220,
+            "uri": "https://sedra.bethmardutho.org/api/word/220.json"
+        }
+    }
+]

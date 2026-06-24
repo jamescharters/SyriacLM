@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 3010,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3010.json"
+        },
+        "syriac": "\u072a\u071a\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0627\u062d\u0641",
+                "\u0627\u0644\u0632\u0648\u0627\u062d\u0641",
+                "\u0646\u0645\u0644\u0629"
+            ],
+            "French": [
+                "reptile",
+                "les reptiles",
+                "fourmi"
+            ],
+            "English": [
+                "insects",
+                "creeping thing",
+                "reptiles",
+                "vermin."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1756,
+            "uri": "https://sedra.bethmardutho.org/api/root/1756.json"
+        },
+        "words": [
+            {
+                "id": 19612,
+                "uri": "https://sedra.bethmardutho.org/api/word/19612.json"
+            },
+            {
+                "id": 19611,
+                "uri": "https://sedra.bethmardutho.org/api/word/19611.json"
+            },
+            {
+                "id": 19613,
+                "uri": "https://sedra.bethmardutho.org/api/word/19613.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

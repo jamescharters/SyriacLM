@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 3358,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3358.json"
+        },
+        "syriac": "\u072c\u0713\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0627\u062c\u0631",
+                "\u0645\u0645\u0648\u0644"
+            ],
+            "French": [
+                "commer\u00e7ant",
+                "riche"
+            ],
+            "English": [
+                "merchant",
+                "merchant."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1949,
+            "uri": "https://sedra.bethmardutho.org/api/root/1949.json"
+        },
+        "words": [
+            {
+                "id": 27755,
+                "uri": "https://sedra.bethmardutho.org/api/word/27755.json"
+            },
+            {
+                "id": 22355,
+                "uri": "https://sedra.bethmardutho.org/api/word/22355.json"
+            },
+            {
+                "id": 22357,
+                "uri": "https://sedra.bethmardutho.org/api/word/22357.json"
+            },
+            {
+                "id": 22356,
+                "uri": "https://sedra.bethmardutho.org/api/word/22356.json"
+            },
+            {
+                "id": 22354,
+                "uri": "https://sedra.bethmardutho.org/api/word/22354.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

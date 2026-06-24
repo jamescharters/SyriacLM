@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0717",
+        "western": "\u0722\u0733\u0713\u0730\u0717",
+        "number": "singular",
+        "lexeme": {
+            "id": 9694,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9694.json"
+        },
+        "stem": "\u0722\u0713\u0717",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062c\u0631",
+                "\u0639\u0634\u064a\u0629"
+            ],
+            "eng": [
+                "dawn."
+            ],
+            "fre": [
+                "aurore",
+                "v\u00eapres"
+            ]
+        },
+        "word": {
+            "id": 35357,
+            "uri": "https://sedra.bethmardutho.org/api/word/35357.json"
+        }
+    }
+]

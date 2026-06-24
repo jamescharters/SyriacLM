@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15251,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15251.json"
+        },
+        "syriac": "\u0720\u0712\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u062b",
+                "\u00a0"
+            ],
+            "French": [
+                "exciter",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to instigate, incite",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2286,
+            "uri": "https://sedra.bethmardutho.org/api/root/2286.json"
+        },
+        "words": [
+            {
+                "id": 41483,
+                "uri": "https://sedra.bethmardutho.org/api/word/41483.json"
+            },
+            {
+                "id": 41464,
+                "uri": "https://sedra.bethmardutho.org/api/word/41464.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

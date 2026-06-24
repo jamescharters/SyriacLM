@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15437,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15437.json"
+        },
+        "syriac": "\u0712\u0719\u0729",
+        "glosses": {
+            "English": [
+                "IIa.",
+                "Ia to scatter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2673,
+            "uri": "https://sedra.bethmardutho.org/api/root/2673.json"
+        },
+        "words": [
+            {
+                "id": 40549,
+                "uri": "https://sedra.bethmardutho.org/api/word/40549.json"
+            },
+            {
+                "id": 41802,
+                "uri": "https://sedra.bethmardutho.org/api/word/41802.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

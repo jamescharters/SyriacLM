@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15049,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15049.json"
+        },
+        "syriac": "\u0728\u0726\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0633\u0642\u0649"
+            ],
+            "French": [
+                "faire boire"
+            ],
+            "English": [
+                "IIa to filter, clarify."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2156,
+            "uri": "https://sedra.bethmardutho.org/api/root/2156.json"
+        },
+        "words": [
+            {
+                "id": 39973,
+                "uri": "https://sedra.bethmardutho.org/api/word/39973.json"
+            },
+            {
+                "id": 39966,
+                "uri": "https://sedra.bethmardutho.org/api/word/39966.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

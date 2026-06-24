@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0712\u0718\u0723\u072c\u0722\u0710",
+        "western": "\u0712\u073d\u0718\u0723\u072c\u0733\u0722\u0733\u0710",
+        "eastern": "\u0712\u0718\u073c\u0723\u072c\u0735\u0722\u0735\u0710",
+        "lexeme": {
+            "id": 18489,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18489.json"
+        },
+        "stem": "\u0712\u0718\u0723\u072c\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "garden",
+                "orchard"
+            ],
+            "syr": [
+                "garden"
+            ]
+        },
+        "word": {
+            "id": 47652,
+            "uri": "https://sedra.bethmardutho.org/api/word/47652.json"
+        }
+    }
+]

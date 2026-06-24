@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0717\u0710",
+        "western": "\u0717\u0733\u0710",
+        "lexeme": {
+            "id": 767,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/767.json"
+        },
+        "stem": "\u0717\u0710",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0646\u0627",
+                "\u0627\u0644\u0622\u0646, \u0639\u0646\u062f\u0626\u0630, \u0642\u0628\u0644\u0627\u064b",
+                "\u0647\u0627 !",
+                "\u0627\u0644\u0622\u0646"
+            ],
+            "eng": [
+                "behold!, look!",
+                "already, since.",
+                "behold!",
+                "lo!"
+            ],
+            "fre": [
+                "ici",
+                "voici !",
+                "maintenant",
+                "d\u00e9j\u00e0"
+            ]
+        },
+        "word": {
+            "id": 4909,
+            "uri": "https://sedra.bethmardutho.org/api/word/4909.json"
+        }
+    }
+]

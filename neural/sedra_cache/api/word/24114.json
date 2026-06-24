@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0715\u0720\u0729",
+        "western": "\u0715\u0741\u0733\u0720\u0736\u0729",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 716,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/716.json"
+        },
+        "stem": "\u0715\u0720\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u0631\u0642",
+                "\u0644\u0645\u0639",
+                "\u0637\u0644\u0639\u062a (\u0627\u0644\u0634\u0645\u0633)"
+            ],
+            "eng": [
+                "Ia to blaze, flame, shine out",
+                "burn",
+                "blaze",
+                "IIa to set on fire",
+                "shine",
+                "IIIa to set light to, kindle, illuminate."
+            ],
+            "fre": [
+                "br\u00fbler (intr.)",
+                "se lever (soleil)",
+                "briller"
+            ]
+        },
+        "word": {
+            "id": 24114,
+            "uri": "https://sedra.bethmardutho.org/api/word/24114.json"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071f\u0718\u072a\u0723\u071d",
+        "western": "\u071f\u0741\u073d\u0718\u072a\u0723\u0730\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1499,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1499.json"
+        },
+        "stem": "\u071f\u0718\u072a\u0723\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "seat",
+                "(episcopal) see.",
+                "seat, chair, throne",
+                "throne"
+            ]
+        },
+        "word": {
+            "id": 9868,
+            "uri": "https://sedra.bethmardutho.org/api/word/9868.json"
+        }
+    }
+]

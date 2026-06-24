@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0710\u072b\u072c\u0710",
+        "western": "\u0710\u0736\u072b\u072c\u0741\u0733\u0710",
+        "eastern": "\u0710\u0738\u072b\u072c\u0741\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 310,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/310.json"
+        },
+        "stem": "\u0710\u072b\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u00a0"
+            ],
+            "eng": [
+                "foundation"
+            ],
+            "fre": [
+                "fond",
+                "six\u2026"
+            ]
+        },
+        "word": {
+            "id": 2013,
+            "uri": "https://sedra.bethmardutho.org/api/word/2013.json"
+        }
+    }
+]

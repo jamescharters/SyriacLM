@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 915,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/915.json"
+        },
+        "syriac": "\u0719\u072a\u0725\u0718\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0630\u0631"
+            ],
+            "French": [
+                "semence"
+            ],
+            "English": [
+                "grain",
+                "seed",
+                "pulse, grain."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 580,
+            "uri": "https://sedra.bethmardutho.org/api/root/580.json"
+        },
+        "words": [
+            {
+                "id": 5951,
+                "uri": "https://sedra.bethmardutho.org/api/word/5951.json"
+            },
+            {
+                "id": 22787,
+                "uri": "https://sedra.bethmardutho.org/api/word/22787.json"
+            },
+            {
+                "id": 5952,
+                "uri": "https://sedra.bethmardutho.org/api/word/5952.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

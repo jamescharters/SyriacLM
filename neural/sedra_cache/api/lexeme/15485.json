@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15485,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15485.json"
+        },
+        "syriac": "\u0712\u0720",
+        "glosses": {
+            "English": [
+                "Ia to mix."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2969,
+            "uri": "https://sedra.bethmardutho.org/api/root/2969.json"
+        },
+        "words": [
+            {
+                "id": 41760,
+                "uri": "https://sedra.bethmardutho.org/api/word/41760.json"
+            },
+            {
+                "id": 41338,
+                "uri": "https://sedra.bethmardutho.org/api/word/41338.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

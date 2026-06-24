@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1259,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1259.json"
+        },
+        "syriac": "\u071b\u0718\u0725\u071d\u071d",
+        "glosses": {
+            "English": [
+                "error",
+                "deception",
+                "oblivion.",
+                "forgetting, forgetfulness",
+                "error, mistake"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 742,
+            "uri": "https://sedra.bethmardutho.org/api/root/742.json"
+        },
+        "words": [
+            {
+                "id": 8207,
+                "uri": "https://sedra.bethmardutho.org/api/word/8207.json"
+            },
+            {
+                "id": 8206,
+                "uri": "https://sedra.bethmardutho.org/api/word/8206.json"
+            },
+            {
+                "id": 8205,
+                "uri": "https://sedra.bethmardutho.org/api/word/8205.json"
+            },
+            {
+                "id": 8208,
+                "uri": "https://sedra.bethmardutho.org/api/word/8208.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

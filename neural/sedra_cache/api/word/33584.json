@@ -1,0 +1,56 @@
+[
+    {
+        "syriac": "\u0725\u0723\u0723\u0710",
+        "western": "\u0725\u0723\u0733\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5279,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5279.json"
+        },
+        "stem": "\u0725\u0723\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0644\u0628\u0644\u0629",
+                "\u0646\u0642\u0628",
+                "\u062d\u062b",
+                "\u062e\u0631\u0641\u0627\u062a",
+                "\u0625\u0628\u0631\u0627\u0645, \u0625\u0636\u062c\u0627\u0631",
+                "\u062a\u062e\u0627\u0644\u0641",
+                "\u0643\u0628\u0631\u064a\u0627\u0621, \u0639\u0646\u0627\u062f",
+                "\u0645\u062a\u0627\u0639\u0628, \u062a\u0639\u0628",
+                "\u0623\u0644\u0645",
+                "\u062c\u062f",
+                "\u0635\u0639\u0648\u0628\u0629"
+            ],
+            "eng": [
+                "grief",
+                "harassment, trouble, importunity",
+                "scrutiny.",
+                "foolish talk",
+                "obstinacy"
+            ],
+            "fre": [
+                "tiraillement",
+                "radotages",
+                "action de scruter",
+                "importunit\u00e9",
+                "orgueil, ent\u00eatement",
+                "peine",
+                "difficult\u00e9",
+                "excitation",
+                "activit\u00e9",
+                "tracas, fatigue",
+                "trouble"
+            ]
+        },
+        "word": {
+            "id": 33584,
+            "uri": "https://sedra.bethmardutho.org/api/word/33584.json"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0721\u071b\u072b\u071d",
+        "western": "\u0718\u0715\u0742\u0730\u0721\u071b\u0730\u072b\u0730\u071d",
+        "tense": "passive participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1286,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1286.json"
+        },
+        "stem": "\u071b\u072b\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062e\u062a\u0628\u0623, \u062a\u062e\u0628\u0623",
+                "\u062e\u0628\u0623 (\u0645\u0636)"
+            ],
+            "eng": [
+                "Ia to hide, conceal",
+                "IIIa to hide, to secrete, conceal.",
+                "to lie hid",
+                "IIp to hide oneself, to be hidden",
+                "hide oneself",
+                "Gram. to elide",
+                "be hidden",
+                "IIa to hide, conceal",
+                "hide"
+            ],
+            "fre": [
+                "se cacher , \u00eatre cach\u00e9",
+                "cacher"
+            ]
+        },
+        "word": {
+            "id": 8381,
+            "uri": "https://sedra.bethmardutho.org/api/word/8381.json"
+        }
+    }
+]

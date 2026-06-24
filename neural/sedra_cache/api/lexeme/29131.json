@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 29131,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29131.json"
+        },
+        "syriac": "\u0710\u071d\u0726\u072a\u071d\u0726\u0722\u071d\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f51\u03c0\u03b5\u03c1\u03b7\u03c6\u03ac\u03bd\u03b9\u03b1"
+            ],
+            "English": [
+                "arrogance"
+            ],
+            "Latin": [
+                "superbia"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f51\u03c0\u03b5\u03c1\u03b7\u03c6\u03ac\u03bd\u03b9\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 49569,
+                "uri": "https://sedra.bethmardutho.org/api/word/49569.json"
+            },
+            {
+                "id": 55505,
+                "uri": "https://sedra.bethmardutho.org/api/word/55505.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

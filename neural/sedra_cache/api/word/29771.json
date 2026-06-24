@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0723\u071d\u071f\u0710",
+        "western": "\u0722\u0723\u073a\u071d\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6381,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6381.json"
+        },
+        "stem": "\u0722\u0723\u071d\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0646\u0645"
+            ],
+            "eng": [
+                "idol."
+            ],
+            "fre": [
+                "idole"
+            ]
+        },
+        "word": {
+            "id": 29771,
+            "uri": "https://sedra.bethmardutho.org/api/word/29771.json"
+        }
+    }
+]

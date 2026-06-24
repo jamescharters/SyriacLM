@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u071d\u072c\u0721",
+        "western": "\u071d\u0730\u072c\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15113,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15113.json"
+        },
+        "stem": "\u071d\u072c\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0623\u064a\u062a\u0645"
+            ],
+            "eng": [
+                "IIa to bereave, make an orphan",
+                "IIp."
+            ],
+            "fre": [
+                "\u00a0",
+                "rendre orphelin"
+            ]
+        },
+        "word": {
+            "id": 40345,
+            "uri": "https://sedra.bethmardutho.org/api/word/40345.json"
+        }
+    }
+]

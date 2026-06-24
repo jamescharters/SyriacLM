@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0712\u0715\u072a\u072c\u0710",
+        "western": "\u0712\u0741\u0715\u0742\u0733\u072a\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 750,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/750.json"
+        },
+        "stem": "\u0715\u072a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u064a\u062a",
+                ""
+            ],
+            "eng": [
+                "enclosure, sheepfold.",
+                "court",
+                "hall",
+                "courtyard",
+                "atrium"
+            ],
+            "fre": [
+                "maison",
+                "maison\u2026"
+            ]
+        },
+        "word": {
+            "id": 4829,
+            "uri": "https://sedra.bethmardutho.org/api/word/4829.json"
+        }
+    }
+]

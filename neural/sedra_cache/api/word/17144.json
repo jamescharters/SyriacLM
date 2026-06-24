@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0726\u072b\u0729",
+        "western": "\u0726\u0741\u0730\u072b\u0736\u0729",
+        "tense": "imperative",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2636,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2636.json"
+        },
+        "stem": "\u0726\u072b\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "expound",
+                "interpret"
+            ]
+        },
+        "word": {
+            "id": 17144,
+            "uri": "https://sedra.bethmardutho.org/api/word/17144.json"
+        }
+    }
+]

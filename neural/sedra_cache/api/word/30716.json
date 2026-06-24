@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0722\u0726\u072b\u0710",
+        "western": "\u0721\u0722\u0730\u0726\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5606,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5606.json"
+        },
+        "stem": "\u0721\u0722\u0726\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0648 \u0646\u0641\u0633"
+            ],
+            "eng": [
+                "animate, endowed with life."
+            ],
+            "fre": [
+                "anim\u00e9"
+            ]
+        },
+        "word": {
+            "id": 30716,
+            "uri": "https://sedra.bethmardutho.org/api/word/30716.json"
+        }
+    }
+]

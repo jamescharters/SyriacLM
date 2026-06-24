@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u0729\u0722\u0712\u0710",
+        "western": "\u0721\u0730\u0729\u0722\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5150,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5150.json"
+        },
+        "stem": "\u0721\u0729\u0722\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0632\u0648",
+                "\u0645\u0643\u0627\u0626\u062f",
+                "\u0643\u0634\u0627\u0641, \u062c\u0633\u0627\u0633"
+            ],
+            "eng": [
+                "spy, lurker",
+                "ambush."
+            ],
+            "fre": [
+                "incursion",
+                "\u00e9claireur, espion",
+                "emb\u00fbches"
+            ]
+        },
+        "word": {
+            "id": 36546,
+            "uri": "https://sedra.bethmardutho.org/api/word/36546.json"
+        }
+    }
+]

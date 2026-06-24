@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0726\u0718\u072a\u0713\u0720\u0710",
+        "western": "\u0726\u073d\u0718\u072a\u0713\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8387,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8387.json"
+        },
+        "stem": "\u0726\u0718\u072a\u0713\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0647\u062f\u064a\u062f\u0627\u062a",
+                "\u0645\u0646\u0639",
+                "\u0648\u0635\u064a\u0629",
+                "\u0646\u0647\u064a"
+            ],
+            "eng": [
+                "warning.",
+                "order, command"
+            ],
+            "fre": [
+                "d\u00e9fense",
+                "menaces",
+                "inhibition",
+                "pr\u00e9cepte"
+            ]
+        },
+        "word": {
+            "id": 30956,
+            "uri": "https://sedra.bethmardutho.org/api/word/30956.json"
+        }
+    }
+]

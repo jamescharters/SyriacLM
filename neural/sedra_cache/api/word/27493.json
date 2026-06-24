@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0725\u072a\u0729\u0710",
+        "western": "\u0725\u0733\u072a\u0729\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2423,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2423.json"
+        },
+        "stem": "\u0725\u072a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u062c\u0646\u0628",
+                "\u0647\u0631\u0628, \u0641\u0631"
+            ],
+            "eng": [
+                "IIIa to put to flight",
+                "Ip to shun",
+                "to rescue, to put in a safe place.",
+                "to avoid",
+                "IIa to take to flight",
+                "to scatter",
+                "flee",
+                "to gnaw",
+                "Ia to escape, to flee",
+                "to beat off, to banish"
+            ],
+            "fre": [
+                "\u00e9viter",
+                "fuir, s&#39;\u00e9chapper"
+            ]
+        },
+        "word": {
+            "id": 27493,
+            "uri": "https://sedra.bethmardutho.org/api/word/27493.json"
+        }
+    }
+]

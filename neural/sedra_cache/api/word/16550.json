@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0715\u0722\u072c\u0726\u0720\u072b",
+        "western": "\u0715\u0741\u0722\u0736\u072c\u0742\u0726\u0741\u0720\u0736\u072b",
+        "tense": "imperfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2536,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2536.json"
+        },
+        "stem": "\u0726\u0720\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062a\u0634 \u0639\u0644\u0649",
+                "\u062b\u0642\u0628, \u063a\u0631\u0632"
+            ],
+            "eng": [
+                "IIa to force a way in",
+                "Ia to break through (a wall)",
+                "Ip",
+                "to pierce.",
+                "to fathom",
+                "to undermine",
+                "to break into",
+                "break through"
+            ],
+            "fre": [
+                "rechercher",
+                "percer, enfoncer"
+            ]
+        },
+        "word": {
+            "id": 16550,
+            "uri": "https://sedra.bethmardutho.org/api/word/16550.json"
+        }
+    }
+]

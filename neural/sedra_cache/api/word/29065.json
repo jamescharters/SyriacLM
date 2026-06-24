@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0721\u072b\u071f\u071a\u071d",
+        "western": "\u0721\u0736\u072b\u071f\u0741\u071a\u0730\u071d",
+        "state": "construct",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15360,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15360.json"
+        },
+        "stem": "\u072b\u071f\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be able",
+                "Ia to find, to discover",
+                "to be discovered, detected.",
+                "be able",
+                "happen",
+                "find",
+                "Ip to be present, to happen"
+            ]
+        },
+        "word": {
+            "id": 29065,
+            "uri": "https://sedra.bethmardutho.org/api/word/29065.json"
+        }
+    }
+]

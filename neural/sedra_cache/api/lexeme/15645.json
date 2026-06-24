@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15645,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15645.json"
+        },
+        "syriac": "\u0726\u072a\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0637\u0645, \u0641\u0633\u0645, \u0634\u0642",
+                "\u0628\u062f\u062f",
+                "\u0646\u0634\u0631",
+                "\u00a0"
+            ],
+            "French": [
+                "rompre, partager, fendre",
+                "dissiper",
+                "r\u00e9pandre",
+                "\u00a0"
+            ],
+            "English": [
+                "IIIa to deceive",
+                "Ia to rend, tear, split, burst",
+                "IIa to give up, to make over",
+                "to allow.",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2356,
+            "uri": "https://sedra.bethmardutho.org/api/root/2356.json"
+        },
+        "words": [
+            {
+                "id": 41670,
+                "uri": "https://sedra.bethmardutho.org/api/word/41670.json"
+            },
+            {
+                "id": 40870,
+                "uri": "https://sedra.bethmardutho.org/api/word/40870.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 548,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/548.json"
+        },
+        "syriac": "\u0713\u0719\u0710",
+        "glosses": {
+            "English": [
+                "Gaza"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 362,
+            "uri": "https://sedra.bethmardutho.org/api/root/362.json"
+        },
+        "words": [
+            {
+                "id": 3628,
+                "uri": "https://sedra.bethmardutho.org/api/word/3628.json"
+            },
+            {
+                "id": 3629,
+                "uri": "https://sedra.bethmardutho.org/api/word/3629.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

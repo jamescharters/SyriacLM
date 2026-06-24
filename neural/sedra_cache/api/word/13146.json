@@ -1,0 +1,53 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0726\u0729",
+        "western": "\u0715\u0741\u0721\u0730\u0726\u0741\u0736\u0729",
+        "tense": "active participle",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2002,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2002.json"
+        },
+        "stem": "\u0722\u0726\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u0736\u0729</span> to bring out, produce",
+                "go out",
+                "be exercised",
+                "go out",
+                "make cast out",
+                "eject",
+                "IIp to be trained, instructed, practiced",
+                "defend",
+                "to subtract",
+                "to be expended",
+                "to train, instruct",
+                "to spend",
+                "Ia to go out, depart, to issue",
+                "to remove",
+                "to expose",
+                "to go through",
+                "to repudiate",
+                "IIIp to be extracted, translated, pronounced.",
+                "to translate",
+                "to send forth, to issue, to publish",
+                "to turn out, come to pass",
+                "+ <span class=\"selectableFont\">\u0712\u072a\u073d\u0718\u071a\u0733\u0710</span> to defend, excuse oneself",
+                "to be translated",
+                "IIa to spend"
+            ]
+        },
+        "word": {
+            "id": 13146,
+            "uri": "https://sedra.bethmardutho.org/api/word/13146.json"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3291,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3291.json"
+        },
+        "syriac": "\u0721\u072b\u0726\u0725\u0710",
+        "glosses": {
+            "English": [
+                "abundant"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1918,
+            "uri": "https://sedra.bethmardutho.org/api/root/1918.json"
+        },
+        "words": [
+            {
+                "id": 28683,
+                "uri": "https://sedra.bethmardutho.org/api/word/28683.json"
+            },
+            {
+                "id": 21770,
+                "uri": "https://sedra.bethmardutho.org/api/word/21770.json"
+            },
+            {
+                "id": 21772,
+                "uri": "https://sedra.bethmardutho.org/api/word/21772.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

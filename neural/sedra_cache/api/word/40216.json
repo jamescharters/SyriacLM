@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072b\u0720\u0717\u0712",
+        "western": "\u072b\u0730\u0720\u0717\u0736\u0712",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14706,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14706.json"
+        },
+        "stem": "\u072b\u0720\u0717\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "to glow (with heat)",
+                "IVa to inflame",
+                "to cherish",
+                "IVp.",
+                "inflame"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40216,
+            "uri": "https://sedra.bethmardutho.org/api/word/40216.json"
+        }
+    }
+]

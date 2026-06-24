@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0718\u0720\u0725\u0723\u071d\u0722",
+        "western": "\u0718\u0720\u0733\u0725\u0723\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1689,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1689.json"
+        },
+        "stem": "\u0720\u0725\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0643\u0644",
+                "\u00a0",
+                "\u0623\u0643\u0644, \u0623\u062e\u0630 \u0648\u062c\u0628\u0629"
+            ],
+            "eng": [
+                "chew",
+                "IIIa to make to swallow, give to eat.",
+                "Ia to eat",
+                "to chew",
+                "IIa to eat hungrily",
+                "Ip",
+                "eat"
+            ],
+            "fre": [
+                "\u00a0",
+                "manger",
+                "prendre un repas"
+            ]
+        },
+        "word": {
+            "id": 26032,
+            "uri": "https://sedra.bethmardutho.org/api/word/26032.json"
+        }
+    }
+]

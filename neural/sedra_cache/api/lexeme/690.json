@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 690,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/690.json"
+        },
+        "syriac": "\u0715\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u0627\u0644\u062d\u0627\u0644\u0629 \u0647\u0630\u0647, \u0648\u0644\u0643\u0646 , \u0645\u0646 \u062c\u0647\u0629 \u0623\u062e\u0631\u0649",
+                "\u0641\u0639\u0644\u0627\u064b, \u0644\u0623\u0646\u0647",
+                "\u0628\u0639\u062f\u0626\u0630, \u0648"
+            ],
+            "French": [
+                "or , mais, d&#39;autre part",
+                "en effet , car",
+                "ensuite , et"
+            ],
+            "English": [
+                "but",
+                "yet",
+                "but, and, for, then."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 439,
+            "uri": "https://sedra.bethmardutho.org/api/root/439.json"
+        },
+        "words": [
+            {
+                "id": 4374,
+                "uri": "https://sedra.bethmardutho.org/api/word/4374.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

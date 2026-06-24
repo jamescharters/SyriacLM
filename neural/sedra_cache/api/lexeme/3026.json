@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 3026,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3026.json"
+        },
+        "syriac": "\u072a\u071f\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0627\u0631\u0633",
+                "\u0641\u0631\u0633\u0627\u0646"
+            ],
+            "French": [
+                "cavalier",
+                "cavaliers"
+            ],
+            "English": [
+                "band",
+                "fastening",
+                "rider, horseman."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1762,
+            "uri": "https://sedra.bethmardutho.org/api/root/1762.json"
+        },
+        "words": [
+            {
+                "id": 19727,
+                "uri": "https://sedra.bethmardutho.org/api/word/19727.json"
+            },
+            {
+                "id": 19726,
+                "uri": "https://sedra.bethmardutho.org/api/word/19726.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

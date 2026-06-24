@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u072a\u0718\u0720\u0710",
+        "western": "\u071b\u072a\u073d\u0718\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11625,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11625.json"
+        },
+        "stem": "\u071b\u072a\u0718\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u063a\u0631\u0641\u0629"
+            ],
+            "eng": [
+                "ladle, iron pan."
+            ],
+            "fre": [
+                "puisoir"
+            ]
+        },
+        "word": {
+            "id": 37562,
+            "uri": "https://sedra.bethmardutho.org/api/word/37562.json"
+        }
+    }
+]

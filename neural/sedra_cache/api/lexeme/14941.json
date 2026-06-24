@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 14941,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14941.json"
+        },
+        "syriac": "\u072a\u0721\u072a\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0638\u0645 (\u0645\u0636)",
+                "\u062b\u0642\u0641 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "exalter",
+                "\u00e9duquer",
+                "\u00a0"
+            ],
+            "English": [
+                "IVp to be extolled",
+                "IVa to exalt, to extol",
+                "to become great."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3033,
+            "uri": "https://sedra.bethmardutho.org/api/root/3033.json"
+        },
+        "words": [
+            {
+                "id": 47163,
+                "uri": "https://sedra.bethmardutho.org/api/word/47163.json"
+            },
+            {
+                "id": 41531,
+                "uri": "https://sedra.bethmardutho.org/api/word/41531.json"
+            },
+            {
+                "id": 40156,
+                "uri": "https://sedra.bethmardutho.org/api/word/40156.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

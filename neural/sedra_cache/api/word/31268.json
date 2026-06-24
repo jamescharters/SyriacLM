@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u0710\u072a\u0723\u0710",
+        "western": "\u0720\u073a\u0710\u072a\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7119,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7119.json"
+        },
+        "stem": "\u0720\u0710\u072a\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0631\u0642"
+            ],
+            "eng": [
+                "jester."
+            ],
+            "fre": [
+                "radoteur"
+            ]
+        },
+        "word": {
+            "id": 31268,
+            "uri": "https://sedra.bethmardutho.org/api/word/31268.json"
+        }
+    }
+]

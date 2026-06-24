@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 896,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/896.json"
+        },
+        "syriac": "\u0719\u0721\u072a\u0713\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "emerald",
+                "emerald."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03bc\u03ac\u03c1\u03b1\u03b3\u03b4\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 570,
+            "uri": "https://sedra.bethmardutho.org/api/root/570.json"
+        },
+        "words": [
+            {
+                "id": 5785,
+                "uri": "https://sedra.bethmardutho.org/api/word/5785.json"
+            },
+            {
+                "id": 5787,
+                "uri": "https://sedra.bethmardutho.org/api/word/5787.json"
+            },
+            {
+                "id": 5786,
+                "uri": "https://sedra.bethmardutho.org/api/word/5786.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

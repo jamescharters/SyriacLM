@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2631,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2631.json"
+        },
+        "syriac": "\u0726\u0718\u072b\u071f\u0710",
+        "glosses": {
+            "English": [
+                "anxiety",
+                "distress"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1561,
+            "uri": "https://sedra.bethmardutho.org/api/root/1561.json"
+        },
+        "words": [
+            {
+                "id": 17125,
+                "uri": "https://sedra.bethmardutho.org/api/word/17125.json"
+            },
+            {
+                "id": 17127,
+                "uri": "https://sedra.bethmardutho.org/api/word/17127.json"
+            },
+            {
+                "id": 17126,
+                "uri": "https://sedra.bethmardutho.org/api/word/17126.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "lexeme": {
+            "id": 2653,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2653.json"
+        },
+        "syriac": "\u0728\u0712\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u0631\u0627\u062f\u0629, \u0631\u063a\u0628\u0629",
+                "\u0645\u0633\u0623\u0644\u0629, \u0634\u064a\u0621, \u063a\u0631\u0636, \u0645\u0644\u0643",
+                "\u0623\u062b\u0627\u062b"
+            ],
+            "French": [
+                "volont\u00e9, d\u00e9sir",
+                "affaire, chose, objet, bien",
+                "mobilier"
+            ],
+            "English": [
+                "thing",
+                "matter",
+                "affair",
+                "thing, affair, matter."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1571,
+            "uri": "https://sedra.bethmardutho.org/api/root/1571.json"
+        },
+        "words": [
+            {
+                "id": 17283,
+                "uri": "https://sedra.bethmardutho.org/api/word/17283.json"
+            },
+            {
+                "id": 17280,
+                "uri": "https://sedra.bethmardutho.org/api/word/17280.json"
+            },
+            {
+                "id": 17279,
+                "uri": "https://sedra.bethmardutho.org/api/word/17279.json"
+            },
+            {
+                "id": 17278,
+                "uri": "https://sedra.bethmardutho.org/api/word/17278.json"
+            },
+            {
+                "id": 17277,
+                "uri": "https://sedra.bethmardutho.org/api/word/17277.json"
+            },
+            {
+                "id": 17285,
+                "uri": "https://sedra.bethmardutho.org/api/word/17285.json"
+            },
+            {
+                "id": 17284,
+                "uri": "https://sedra.bethmardutho.org/api/word/17284.json"
+            },
+            {
+                "id": 17282,
+                "uri": "https://sedra.bethmardutho.org/api/word/17282.json"
+            },
+            {
+                "id": 17281,
+                "uri": "https://sedra.bethmardutho.org/api/word/17281.json"
+            },
+            {
+                "id": 17286,
+                "uri": "https://sedra.bethmardutho.org/api/word/17286.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

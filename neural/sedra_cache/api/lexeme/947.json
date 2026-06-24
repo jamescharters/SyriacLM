@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 947,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/947.json"
+        },
+        "syriac": "\u071a\u0713\u071d\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0639\u0631\u062c"
+            ],
+            "French": [
+                "boiteux"
+            ],
+            "English": [
+                "lame",
+                "lame, crippled, feeble."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 594,
+            "uri": "https://sedra.bethmardutho.org/api/root/594.json"
+        },
+        "words": [
+            {
+                "id": 6179,
+                "uri": "https://sedra.bethmardutho.org/api/word/6179.json"
+            },
+            {
+                "id": 6181,
+                "uri": "https://sedra.bethmardutho.org/api/word/6181.json"
+            },
+            {
+                "id": 6180,
+                "uri": "https://sedra.bethmardutho.org/api/word/6180.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

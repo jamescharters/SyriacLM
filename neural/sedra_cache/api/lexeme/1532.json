@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 1532,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1532.json"
+        },
+        "syriac": "\u071f\u0720\u0712\u0710",
+        "glosses": {
+            "English": [
+                "dog",
+                "dog."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 902,
+            "uri": "https://sedra.bethmardutho.org/api/root/902.json"
+        },
+        "words": [
+            {
+                "id": 10069,
+                "uri": "https://sedra.bethmardutho.org/api/word/10069.json"
+            },
+            {
+                "id": 10067,
+                "uri": "https://sedra.bethmardutho.org/api/word/10067.json"
+            },
+            {
+                "id": 10070,
+                "uri": "https://sedra.bethmardutho.org/api/word/10070.json"
+            },
+            {
+                "id": 10068,
+                "uri": "https://sedra.bethmardutho.org/api/word/10068.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

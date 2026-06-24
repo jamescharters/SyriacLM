@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0717\u0720\u071f\u072c\u0710",
+        "western": "\u0717\u0720\u0730\u071f\u0742\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 798,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/798.json"
+        },
+        "stem": "\u0717\u0720\u071f\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "walk",
+                "footsteps",
+                "way"
+            ]
+        },
+        "word": {
+            "id": 5195,
+            "uri": "https://sedra.bethmardutho.org/api/word/5195.json"
+        }
+    }
+]

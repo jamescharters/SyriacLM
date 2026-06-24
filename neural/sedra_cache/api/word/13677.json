@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0723\u0712\u072a\u072c\u071d",
+        "western": "\u0723\u0712\u0742\u0730\u072a\u072c\u0742\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2061,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2061.json"
+        },
+        "stem": "\u0723\u0712\u072a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "good tidings",
+                "Gospel.",
+                "good news, tidings",
+                "message",
+                "Gospel"
+            ]
+        },
+        "word": {
+            "id": 13677,
+            "uri": "https://sedra.bethmardutho.org/api/word/13677.json"
+        }
+    }
+]

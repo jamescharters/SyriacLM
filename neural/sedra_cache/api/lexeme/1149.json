@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 1149,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1149.json"
+        },
+        "syriac": "\u071a\u072a\u0725\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u064a\u0644\u0629"
+            ],
+            "French": [
+                "ruse"
+            ],
+            "English": [
+                "craftiness",
+                "astuteness",
+                "cunning",
+                "biliousness.",
+                "cunning, craftiness"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 686,
+            "uri": "https://sedra.bethmardutho.org/api/root/686.json"
+        },
+        "words": [
+            {
+                "id": 7555,
+                "uri": "https://sedra.bethmardutho.org/api/word/7555.json"
+            },
+            {
+                "id": 23988,
+                "uri": "https://sedra.bethmardutho.org/api/word/23988.json"
+            },
+            {
+                "id": 7559,
+                "uri": "https://sedra.bethmardutho.org/api/word/7559.json"
+            },
+            {
+                "id": 7557,
+                "uri": "https://sedra.bethmardutho.org/api/word/7557.json"
+            },
+            {
+                "id": 7556,
+                "uri": "https://sedra.bethmardutho.org/api/word/7556.json"
+            },
+            {
+                "id": 7558,
+                "uri": "https://sedra.bethmardutho.org/api/word/7558.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "syriac": "\u0717\u0726\u0718\u071f",
+        "western": "\u0717\u0726\u0742\u073d\u0718\u071f\u0742",
+        "tense": "imperative",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 807,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/807.json"
+        },
+        "stem": "\u0717\u0726\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u064a\u0631",
+                "\u0623\u0628\u0637\u0644",
+                "\u0631\u062c\u0639",
+                "\u0627\u0631\u062a\u062f",
+                "\u0642\u0644\u0628 (\u0645\u062a), \u0635\u0631\u0639",
+                "\u0628\u0637\u0644",
+                "\u0641\u0639\u0644 \u0645\u0633\u0627\u0639\u062f= \u0645\u0646 \u062c\u062f\u064a\u062f"
+            ],
+            "eng": [
+                "IIa to turn, to change",
+                "to be overthrown",
+                "to change",
+                "turn",
+                "return",
+                "conduct oneself",
+                "to overthrow",
+                "to do again",
+                "Ip to turn around",
+                "to convert",
+                "to be occupied",
+                "IIIa to turn, to change",
+                "to restore",
+                "to refute.",
+                "IIp to go about",
+                "to be intimate with",
+                "to be changed",
+                "Ia to turn, to return",
+                "to conduct oneself",
+                "to upset"
+            ],
+            "fre": [
+                "[ v. auxil.= de nouveau ]",
+                "changer",
+                "annuler",
+                "revenir",
+                "retourner, renverser",
+                "cesser",
+                "se d\u00e9tourner"
+            ]
+        },
+        "word": {
+            "id": 5269,
+            "uri": "https://sedra.bethmardutho.org/api/word/5269.json"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0713\u0718\u072a\u0715\u072b\u0710",
+        "western": "\u0713\u073d\u0718\u072a\u0715\u073a\u072b\u0710",
+        "eastern": "\u0713\u0718\u073c\u072a\u0715\u0735\u072b\u0735\u0710",
+        "lexeme": {
+            "id": 18789,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18789.json"
+        },
+        "stem": "\u0713\u0718\u072a\u0715\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "the gnawing of a bone/getting the marrow out"
+            ]
+        },
+        "word": {
+            "id": 53005,
+            "uri": "https://sedra.bethmardutho.org/api/word/53005.json"
+        }
+    }
+]

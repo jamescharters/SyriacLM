@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 427,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/427.json"
+        },
+        "syriac": "\u0712\u0725\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u062d\u062b, \u0637\u0644\u0628",
+                "\u0637\u0644\u0628",
+                "\u0645\u062c\u0627\u062f\u0644\u0629"
+            ],
+            "French": [
+                "recherche",
+                "demande",
+                "discussion"
+            ],
+            "English": [
+                "search.",
+                "questioning",
+                "enquiry",
+                "debate",
+                "request"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 291,
+            "uri": "https://sedra.bethmardutho.org/api/root/291.json"
+        },
+        "words": [
+            {
+                "id": 3017,
+                "uri": "https://sedra.bethmardutho.org/api/word/3017.json"
+            },
+            {
+                "id": 3019,
+                "uri": "https://sedra.bethmardutho.org/api/word/3019.json"
+            },
+            {
+                "id": 3018,
+                "uri": "https://sedra.bethmardutho.org/api/word/3018.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

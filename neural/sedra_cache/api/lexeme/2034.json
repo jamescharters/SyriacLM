@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2034,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2034.json"
+        },
+        "syriac": "\u0721\u072b\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0628\u0648\u0628, \u0646\u0633\u0645",
+                "\u0631\u064a\u062d"
+            ],
+            "French": [
+                "souffle",
+                "vent"
+            ],
+            "English": [
+                "breeze",
+                "wind",
+                "blast",
+                "breath, breeze."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1215,
+            "uri": "https://sedra.bethmardutho.org/api/root/1215.json"
+        },
+        "words": [
+            {
+                "id": 13411,
+                "uri": "https://sedra.bethmardutho.org/api/word/13411.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

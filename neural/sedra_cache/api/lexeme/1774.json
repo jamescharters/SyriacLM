@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 1774,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1774.json"
+        },
+        "syriac": "\u0721\u0720\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0644\u0639",
+                "\u0646\u062a\u0641",
+                "\u0639\u0630\u0628 (\u0645\u0636)"
+            ],
+            "French": [
+                "arracher",
+                "\u00e9piler",
+                "molester"
+            ],
+            "English": [
+                "pluck",
+                "pick off",
+                "Ia to rub (ears of wheat)",
+                "to pluck (feathers, hairs)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1060,
+            "uri": "https://sedra.bethmardutho.org/api/root/1060.json"
+        },
+        "words": [
+            {
+                "id": 26298,
+                "uri": "https://sedra.bethmardutho.org/api/word/26298.json"
+            },
+            {
+                "id": 26297,
+                "uri": "https://sedra.bethmardutho.org/api/word/26297.json"
+            },
+            {
+                "id": 26296,
+                "uri": "https://sedra.bethmardutho.org/api/word/26296.json"
+            },
+            {
+                "id": 26295,
+                "uri": "https://sedra.bethmardutho.org/api/word/26295.json"
+            },
+            {
+                "id": 11727,
+                "uri": "https://sedra.bethmardutho.org/api/word/11727.json"
+            },
+            {
+                "id": 11725,
+                "uri": "https://sedra.bethmardutho.org/api/word/11725.json"
+            },
+            {
+                "id": 11726,
+                "uri": "https://sedra.bethmardutho.org/api/word/11726.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

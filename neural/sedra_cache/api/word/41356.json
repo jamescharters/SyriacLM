@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0726\u071a\u072a",
+        "western": "\u0726\u0730\u071a\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15353,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15353.json"
+        },
+        "stem": "\u0726\u071a\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0633\u062d\u0642",
+                "\u00a0",
+                "\u0623\u0631\u062e\u0649"
+            ],
+            "eng": [
+                "IIa to make pottery",
+                "to pound",
+                "IIp to be shattered",
+                "to crack",
+                "to be formed."
+            ],
+            "fre": [
+                "\u00a0",
+                "broyer",
+                "amollir"
+            ]
+        },
+        "word": {
+            "id": 41356,
+            "uri": "https://sedra.bethmardutho.org/api/word/41356.json"
+        }
+    }
+]

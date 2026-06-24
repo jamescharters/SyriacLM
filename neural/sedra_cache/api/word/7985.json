@@ -1,0 +1,59 @@
+[
+    {
+        "syriac": "\u0720\u0721\u071b\u0712\u0725",
+        "western": "\u0720\u0721\u0736\u071b\u0712\u0741\u0730\u0725",
+        "tense": "infinitive",
+        "kaylo": "p\u02bfal",
+        "lexeme": {
+            "id": 1205,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1205.json"
+        },
+        "stem": "\u071b\u0712\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u0642",
+                "\u0623\u063a\u0644\u0642",
+                "\u0636\u0631\u0628 (\u0627\u0644\u062f\u0631\u0627\u0647\u0645)",
+                "\u0642\u0647\u0631 (\u0646\u0648\u0645)",
+                "\u0623\u062f\u0647\u0634",
+                "\u063a\u0637\u0633 (\u0644\u0627\u0632\u0645), \u0627\u0646\u063a\u0645\u0631",
+                "\u063a\u0627\u0628 (\u0643\u0648\u0643\u0628)",
+                "\u062e\u062a\u0645"
+            ],
+            "eng": [
+                "seal",
+                "sink",
+                "to sink, be immersed",
+                "Ia to imprint, seal, stamp",
+                "Ip to be sealed, imprinted, engraved, coined",
+                "to be plunged, drowned",
+                "Kth. to print",
+                "to be sealed",
+                "IIa to plunge, to dip, immerse, sink, submerge",
+                "to be imbued.",
+                "stamp",
+                "IIp to be submerged",
+                "drown"
+            ],
+            "fre": [
+                "frapper ( la monnaie)",
+                "se coucher ( astre)",
+                "opprimer ( sommeil)",
+                "\u00eatre immerg\u00e9, submerg\u00e9",
+                "stup\u00e9fier",
+                "s&#39;enfoncer",
+                "sceller",
+                "fermer"
+            ]
+        },
+        "word": {
+            "id": 7985,
+            "uri": "https://sedra.bethmardutho.org/api/word/7985.json"
+        }
+    }
+]

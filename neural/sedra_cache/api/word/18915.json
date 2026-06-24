@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u0712\u0710\u072a\u0719\u0717",
+        "western": "\u0715\u0741\u0730\u0712\u0742\u0710\u0331\u072a\u0733\u0719\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 7749,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7749.json"
+        },
+        "stem": "\u0710\u072a\u0719\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "pl. <span class=\"selectableFont\">\u0710\u0331\u072a\u0308\u0733\u0719\u0736\u0710</span> (liturgical) Mysteries. (See further under -<span class=\"selectableFont\">\u072a\u0710\u0719</span>).",
+                "symbol, mystery, secret",
+                "mystery"
+            ]
+        },
+        "word": {
+            "id": 18915,
+            "uri": "https://sedra.bethmardutho.org/api/word/18915.json"
+        }
+    }
+]

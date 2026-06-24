@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0722\u072c\u072a\u0718\u072a\u0712",
+        "western": "\u0722\u0736\u072c\u0742\u072a\u0730\u0718\u072a\u0730\u0712\u0742",
+        "tense": "imperfect",
+        "kaylo": "ethpalpal",
+        "number": "plural",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 2906,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2906.json"
+        },
+        "stem": "\u072a\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0628\u0631"
+            ],
+            "eng": [
+                "Ia to grow great, big.",
+                "be magnified",
+                "made great"
+            ],
+            "fre": [
+                "grandir"
+            ]
+        },
+        "word": {
+            "id": 18918,
+            "uri": "https://sedra.bethmardutho.org/api/word/18918.json"
+        }
+    }
+]

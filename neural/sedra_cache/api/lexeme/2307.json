@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2307,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2307.json"
+        },
+        "syriac": "\u0721\u0725\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "source",
+                "well",
+                "fountain",
+                "spring, fountain, source."
+            ],
+            "Arabic": [
+                "\u0639\u064a\u0646, \u064a\u0646\u0628\u0648\u0639"
+            ],
+            "French": [
+                "source"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1374,
+            "uri": "https://sedra.bethmardutho.org/api/root/1374.json"
+        },
+        "words": [
+            {
+                "id": 15288,
+                "uri": "https://sedra.bethmardutho.org/api/word/15288.json"
+            },
+            {
+                "id": 15287,
+                "uri": "https://sedra.bethmardutho.org/api/word/15287.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

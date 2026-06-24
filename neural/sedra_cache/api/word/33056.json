@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0722\u071d\u071b\u0718\u072c\u0710",
+        "western": "\u0729\u0730\u0722\u073a\u071d\u071b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7737,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7737.json"
+        },
+        "stem": "\u0729\u0722\u071d\u071b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u064a\u0627\u0621"
+            ],
+            "eng": [
+                "timidity."
+            ],
+            "fre": [
+                "timidit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 33056,
+            "uri": "https://sedra.bethmardutho.org/api/word/33056.json"
+        }
+    }
+]

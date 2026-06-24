@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u071a\u0713\u071d\u072a",
+        "western": "\u071a\u0713\u0742\u073a\u071d\u072a",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 948,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/948.json"
+        },
+        "stem": "\u071a\u0713\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0639\u0631\u062c, \u062c\u0630\u0645",
+                "\u0639\u0631\u062c",
+                "\u062d\u062c\u0632, \u0645\u0646\u0639"
+            ],
+            "eng": [
+                "Ia to limp, be lame",
+                "to be impeded, checked",
+                "Ip to become lame",
+                "to hinder, restrain",
+                "limp",
+                "to be impeded",
+                "IIa to cripple, to impede, fetter",
+                "IIIa to make, be lame",
+                "IIp to be crippled",
+                "to restrain.",
+                "to stumble, waver"
+            ],
+            "fre": [
+                "rendre boiteux, mutiler",
+                "retenir, emp\u00eacher",
+                "boiter"
+            ]
+        },
+        "word": {
+            "id": 6182,
+            "uri": "https://sedra.bethmardutho.org/api/word/6182.json"
+        }
+    }
+]

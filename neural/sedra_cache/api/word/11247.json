@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0721\u0715\u072a\u0710",
+        "western": "\u0721\u0736\u0715\u0742\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "common",
+        "lexeme": {
+            "id": 1717,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1717.json"
+        },
+        "stem": "\u0721\u0715\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062f\u0631\u0629",
+                "\u0648\u062d\u0644",
+                "\u063a\u0628\u0627\u0631"
+            ],
+            "eng": [
+                "soil, lump of earth, clay.",
+                "earth",
+                "dirt",
+                "soil"
+            ],
+            "fre": [
+                "poussi\u00e8re",
+                "gl\u00e8be",
+                "boue"
+            ]
+        },
+        "word": {
+            "id": 11247,
+            "uri": "https://sedra.bethmardutho.org/api/word/11247.json"
+        }
+    }
+]

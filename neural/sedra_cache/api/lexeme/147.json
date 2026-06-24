@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 147,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/147.json"
+        },
+        "syriac": "\u0710\u0720\u071f\u0723\u0722\u0715\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Alexandrian"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f08\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03b5\u03cd\u03c2"
+            ]
+        },
+        "root": {
+            "id": 111,
+            "uri": "https://sedra.bethmardutho.org/api/root/111.json"
+        },
+        "words": [
+            {
+                "id": 974,
+                "uri": "https://sedra.bethmardutho.org/api/word/974.json"
+            },
+            {
+                "id": 22759,
+                "uri": "https://sedra.bethmardutho.org/api/word/22759.json"
+            },
+            {
+                "id": 976,
+                "uri": "https://sedra.bethmardutho.org/api/word/976.json"
+            },
+            {
+                "id": 975,
+                "uri": "https://sedra.bethmardutho.org/api/word/975.json"
+            },
+            {
+                "id": 973,
+                "uri": "https://sedra.bethmardutho.org/api/word/973.json"
+            }
+        ],
+        "category": "adjective of place"
+    }
+]

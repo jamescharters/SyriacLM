@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072c\u0726\u0720\u071d\u0717\u0718\u0722",
+        "western": "\u072c\u0741\u0736\u0726\u0742\u0720\u0730\u071d\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 3425,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3425.json"
+        },
+        "stem": "\u072c\u0726\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "phylacteries",
+                "phylactery."
+            ]
+        },
+        "word": {
+            "id": 22597,
+            "uri": "https://sedra.bethmardutho.org/api/word/22597.json"
+        }
+    }
+]

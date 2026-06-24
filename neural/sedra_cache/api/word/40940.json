@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0713",
+        "western": "\u0721\u072a\u0730\u0713",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15712,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15712.json"
+        },
+        "stem": "\u0721\u072a\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u062f\u0645",
+                "\u0639\u062b\u0631 \u0639\u0644\u0649",
+                "\u062a\u0631\u062c\u0631\u062c"
+            ],
+            "eng": [
+                "Ia to totter",
+                "to knock against",
+                "IIIa to totter",
+                "to make to totter."
+            ],
+            "fre": [
+                "tomber sur",
+                "heurter",
+                "chanceler"
+            ]
+        },
+        "word": {
+            "id": 40940,
+            "uri": "https://sedra.bethmardutho.org/api/word/40940.json"
+        }
+    }
+]

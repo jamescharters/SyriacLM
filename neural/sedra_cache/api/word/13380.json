@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0710\u0729\u0726\u072c\u0718\u0722",
+        "western": "\u0710\u0730\u0729\u0736\u0726\u0742\u072c\u0741\u073d\u0718\u0722",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2027,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2027.json"
+        },
+        "stem": "\u0722\u0729\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to commence.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0729\u0736\u0726</span> to join, fasten, unite",
+                "to continue, go on",
+                "Ia to adhere to, follow, join, adjoin",
+                "to unite with",
+                "to add, supplement",
+                "to have sexual intercourse",
+                "adhere",
+                "follow",
+                "cleave to",
+                "to unite with, to be conjoined",
+                "IIp to cleave to"
+            ]
+        },
+        "word": {
+            "id": 13380,
+            "uri": "https://sedra.bethmardutho.org/api/word/13380.json"
+        }
+    }
+]

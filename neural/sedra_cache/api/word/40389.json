@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071f\u0712\u0720",
+        "western": "\u071f\u0712\u0730\u0720",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15443,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15443.json"
+        },
+        "stem": "\u071f\u0712\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to bind, fetter",
+                "IIa."
+            ]
+        },
+        "word": {
+            "id": 40389,
+            "uri": "https://sedra.bethmardutho.org/api/word/40389.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15876,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15876.json"
+        },
+        "syriac": "\u0728\u072a\u071a",
+        "glosses": {
+            "English": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u072a\u0730\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0728\u072a\u073d\u0718\u071a</span>, Ia, IIIa to cry out."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2452,
+            "uri": "https://sedra.bethmardutho.org/api/root/2452.json"
+        },
+        "words": [
+            {
+                "id": 41796,
+                "uri": "https://sedra.bethmardutho.org/api/word/41796.json"
+            },
+            {
+                "id": 41729,
+                "uri": "https://sedra.bethmardutho.org/api/word/41729.json"
+            },
+            {
+                "id": 41418,
+                "uri": "https://sedra.bethmardutho.org/api/word/41418.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

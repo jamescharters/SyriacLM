@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 2842,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2842.json"
+        },
+        "syriac": "\u0729\u0722\u071b",
+        "glosses": {
+            "English": [
+                "Ia, IIa to fear, shrink from",
+                "fear",
+                "avoid",
+                "IIp, IIIa."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1682,
+            "uri": "https://sedra.bethmardutho.org/api/root/1682.json"
+        },
+        "words": [
+            {
+                "id": 18462,
+                "uri": "https://sedra.bethmardutho.org/api/word/18462.json"
+            },
+            {
+                "id": 18467,
+                "uri": "https://sedra.bethmardutho.org/api/word/18467.json"
+            },
+            {
+                "id": 18465,
+                "uri": "https://sedra.bethmardutho.org/api/word/18465.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

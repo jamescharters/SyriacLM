@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 406,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/406.json"
+        },
+        "syriac": "\u0712\u0720\u0729",
+        "glosses": {
+            "English": [
+                "Balak"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 281,
+            "uri": "https://sedra.bethmardutho.org/api/root/281.json"
+        },
+        "words": [
+            {
+                "id": 2797,
+                "uri": "https://sedra.bethmardutho.org/api/word/2797.json"
+            },
+            {
+                "id": 2796,
+                "uri": "https://sedra.bethmardutho.org/api/word/2796.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15773,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15773.json"
+        },
+        "syriac": "\u071a\u0713",
+        "glosses": {
+            "English": [
+                "to avoid, stand in awe of, to retire",
+                "to encompass, go about",
+                "Ia to draw a circle",
+                "IIa <span class=\"selectableFont\">\u071a\u0730\u0718\u0736\u0713</span> to surround."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2307,
+            "uri": "https://sedra.bethmardutho.org/api/root/2307.json"
+        },
+        "words": [
+            {
+                "id": 41780,
+                "uri": "https://sedra.bethmardutho.org/api/word/41780.json"
+            },
+            {
+                "id": 41123,
+                "uri": "https://sedra.bethmardutho.org/api/word/41123.json"
+            },
+            {
+                "id": 40926,
+                "uri": "https://sedra.bethmardutho.org/api/word/40926.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

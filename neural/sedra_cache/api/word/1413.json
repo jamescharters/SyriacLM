@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0712\u0710\u0722\u0722\u0729\u0723",
+        "western": "\u0712\u0741\u0730\u0710\u0722\u0730\u0722\u0729\u0730\u0723",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10142,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10142.json"
+        },
+        "stem": "\u0710\u0722\u0722\u0729\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "necessity.",
+                "necessity.",
+                "necessity"
+            ]
+        },
+        "word": {
+            "id": 1413,
+            "uri": "https://sedra.bethmardutho.org/api/word/1413.json"
+        }
+    }
+]

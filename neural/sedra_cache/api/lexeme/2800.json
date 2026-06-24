@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2800,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2800.json"
+        },
+        "syriac": "\u0729\u071b\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0642\u062f"
+            ],
+            "French": [
+                "lien"
+            ],
+            "English": [
+                "bond",
+                "fetter",
+                "bandage, knot, joint",
+                "enigma",
+                "<span class=\"selectableFont\">\u0729\u0736\u071b\u072a\u0308\u0736\u0710</span> amulets."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1651,
+            "uri": "https://sedra.bethmardutho.org/api/root/1651.json"
+        },
+        "words": [
+            {
+                "id": 18300,
+                "uri": "https://sedra.bethmardutho.org/api/word/18300.json"
+            },
+            {
+                "id": 18302,
+                "uri": "https://sedra.bethmardutho.org/api/word/18302.json"
+            },
+            {
+                "id": 18301,
+                "uri": "https://sedra.bethmardutho.org/api/word/18301.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

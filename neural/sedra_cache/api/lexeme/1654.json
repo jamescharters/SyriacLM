@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1654,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1654.json"
+        },
+        "syriac": "\u0720\u0718\u0729\u0710",
+        "glosses": {
+            "English": [
+                "Luke"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 977,
+            "uri": "https://sedra.bethmardutho.org/api/root/977.json"
+        },
+        "words": [
+            {
+                "id": 10976,
+                "uri": "https://sedra.bethmardutho.org/api/word/10976.json"
+            },
+            {
+                "id": 10975,
+                "uri": "https://sedra.bethmardutho.org/api/word/10975.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

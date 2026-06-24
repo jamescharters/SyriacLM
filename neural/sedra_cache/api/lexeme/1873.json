@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1873,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1873.json"
+        },
+        "syriac": "\u0721\u072b\u0718\u071a\u072c\u0710",
+        "glosses": {
+            "English": [
+                "measure",
+                "proportion",
+                "meter.",
+                "age, position",
+                "moderation",
+                "measure"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1118,
+            "uri": "https://sedra.bethmardutho.org/api/root/1118.json"
+        },
+        "words": [
+            {
+                "id": 12332,
+                "uri": "https://sedra.bethmardutho.org/api/word/12332.json"
+            },
+            {
+                "id": 12331,
+                "uri": "https://sedra.bethmardutho.org/api/word/12331.json"
+            },
+            {
+                "id": 12330,
+                "uri": "https://sedra.bethmardutho.org/api/word/12330.json"
+            },
+            {
+                "id": 12333,
+                "uri": "https://sedra.bethmardutho.org/api/word/12333.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

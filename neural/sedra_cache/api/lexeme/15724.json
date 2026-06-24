@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15724,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15724.json"
+        },
+        "syriac": "\u072a\u0725",
+        "glosses": {
+            "English": [
+                "Ia to talk idly."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2445,
+            "uri": "https://sedra.bethmardutho.org/api/root/2445.json"
+        },
+        "words": [
+            {
+                "id": 41621,
+                "uri": "https://sedra.bethmardutho.org/api/word/41621.json"
+            },
+            {
+                "id": 41241,
+                "uri": "https://sedra.bethmardutho.org/api/word/41241.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

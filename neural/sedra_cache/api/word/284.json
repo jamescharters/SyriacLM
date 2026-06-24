@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0712\u0710\u0718\u0722\u0713\u0720\u071d\u0718\u0722",
+        "western": "\u0715\u0741\u0712\u0742\u0736\u0710\u0718\u0730\u0722\u0713\u0741\u0736\u0720\u073a\u071d\u0733\u0718\u0722",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7518,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7518.json"
+        },
+        "stem": "\u0710\u0718\u0722\u0713\u0720\u071d\u0718\u0722",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0646\u062c\u064a\u0644"
+            ],
+            "eng": [
+                "Gospel, gospel(s).",
+                "Gospel"
+            ],
+            "fre": [
+                "\u00e9vangile"
+            ],
+            "grc": [
+                "\u03b5\u1f50\u03b1\u03b3\u03b3\u03ad\u03bb\u03b9\u03bf\u03bd"
+            ]
+        },
+        "word": {
+            "id": 284,
+            "uri": "https://sedra.bethmardutho.org/api/word/284.json"
+        }
+    }
+]

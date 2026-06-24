@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2620,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2620.json"
+        },
+        "syriac": "\u0726\u072a\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u064a\u0627\u0644"
+            ],
+            "French": [
+                "cavalier"
+            ],
+            "English": [
+                "horseman",
+                "horseman, cavalier."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1554,
+            "uri": "https://sedra.bethmardutho.org/api/root/1554.json"
+        },
+        "words": [
+            {
+                "id": 17085,
+                "uri": "https://sedra.bethmardutho.org/api/word/17085.json"
+            },
+            {
+                "id": 17084,
+                "uri": "https://sedra.bethmardutho.org/api/word/17084.json"
+            },
+            {
+                "id": 17086,
+                "uri": "https://sedra.bethmardutho.org/api/word/17086.json"
+            },
+            {
+                "id": 22838,
+                "uri": "https://sedra.bethmardutho.org/api/word/22838.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

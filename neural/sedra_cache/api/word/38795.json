@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0720\u071d\u072a\u071d\u0729\u0710",
+        "western": "\u0729\u0720\u073a\u071d\u072a\u073a\u071d\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12782,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12782.json"
+        },
+        "stem": "\u0729\u0720\u071d\u072a\u071d\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0643\u0644\u064a\u0631\u064a\u0643\u064a"
+            ],
+            "eng": [
+                "clergyman, cleric."
+            ],
+            "fre": [
+                "clerc"
+            ]
+        },
+        "word": {
+            "id": 38795,
+            "uri": "https://sedra.bethmardutho.org/api/word/38795.json"
+        }
+    }
+]

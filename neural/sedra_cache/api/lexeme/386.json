@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 386,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/386.json"
+        },
+        "syriac": "\u0712\u071d\u072c \u0728\u071d\u0715\u0710",
+        "glosses": {
+            "English": [
+                "Bethsaida"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 270,
+            "uri": "https://sedra.bethmardutho.org/api/root/270.json"
+        },
+        "words": [
+            {
+                "id": 2661,
+                "uri": "https://sedra.bethmardutho.org/api/word/2661.json"
+            },
+            {
+                "id": 2659,
+                "uri": "https://sedra.bethmardutho.org/api/word/2659.json"
+            },
+            {
+                "id": 2658,
+                "uri": "https://sedra.bethmardutho.org/api/word/2658.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

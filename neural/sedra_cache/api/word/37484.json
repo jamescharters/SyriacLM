@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0713\u0712\u072c\u0710",
+        "western": "\u0713\u0712\u0736\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9356,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9356.json"
+        },
+        "stem": "\u0713\u0712\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0628\u0646",
+                "\u00a0"
+            ],
+            "eng": [
+                "cheese, curd."
+            ],
+            "fre": [
+                "fromage",
+                "fromage\u2026"
+            ]
+        },
+        "word": {
+            "id": 37484,
+            "uri": "https://sedra.bethmardutho.org/api/word/37484.json"
+        }
+    }
+]

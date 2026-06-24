@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u072a\u072b\u0710",
+        "western": "\u0721\u0730\u072a\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6909,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6909.json"
+        },
+        "stem": "\u0721\u072a\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062f\u0642",
+                "\u0631\u0634\u0627\u0621"
+            ],
+            "eng": [
+                "hemp rope."
+            ],
+            "fre": [
+                "c\u00e2ble",
+                "pilon"
+            ]
+        },
+        "word": {
+            "id": 30128,
+            "uri": "https://sedra.bethmardutho.org/api/word/30128.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u071f\u0722\u072b\u0710",
+        "western": "\u0715\u0741\u071f\u0742\u0736\u0722\u072b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1552,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1552.json"
+        },
+        "stem": "\u071f\u0722\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "assembly",
+                "gathering (of persons)",
+                "multitude",
+                "gathering, assembly, crowd, group.",
+                "council",
+                "crowd"
+            ]
+        },
+        "word": {
+            "id": 10193,
+            "uri": "https://sedra.bethmardutho.org/api/word/10193.json"
+        }
+    }
+]

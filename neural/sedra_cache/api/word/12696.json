@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u0718\u071a\u0721\u0710",
+        "western": "\u0722\u073d\u0718\u071a\u0733\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1943,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1943.json"
+        },
+        "stem": "\u0722\u0718\u071a\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u064a\u0627\u0645\u0629",
+                "\u0646\u0647\u0648\u0636",
+                "\u0625\u0646\u0639\u0627\u0634"
+            ],
+            "eng": [
+                "resurrection",
+                "resuscitation",
+                "resurrection.",
+                "revival"
+            ],
+            "fre": [
+                "rel\u00e8vement",
+                "r\u00e9confort",
+                "r\u00e9surrection"
+            ]
+        },
+        "word": {
+            "id": 12696,
+            "uri": "https://sedra.bethmardutho.org/api/word/12696.json"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2515,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2515.json"
+        },
+        "syriac": "\u0726\u071f\u071d\u0717\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0644\u0627\u0647\u0629",
+                "\u062a\u0641\u0627\u0647\u0629"
+            ],
+            "French": [
+                "d\u00e9raison",
+                "insipidit\u00e9"
+            ],
+            "English": [
+                "foolishness",
+                "folly."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1493,
+            "uri": "https://sedra.bethmardutho.org/api/root/1493.json"
+        },
+        "words": [
+            {
+                "id": 16399,
+                "uri": "https://sedra.bethmardutho.org/api/word/16399.json"
+            },
+            {
+                "id": 16400,
+                "uri": "https://sedra.bethmardutho.org/api/word/16400.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

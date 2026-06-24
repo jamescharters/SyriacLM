@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1146,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1146.json"
+        },
+        "syriac": "\u071a\u072a\u0721\u0710",
+        "glosses": {
+            "English": [
+                "curse",
+                "anathema",
+                "ban, anathema",
+                "votive offering."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 684,
+            "uri": "https://sedra.bethmardutho.org/api/root/684.json"
+        },
+        "words": [
+            {
+                "id": 7549,
+                "uri": "https://sedra.bethmardutho.org/api/word/7549.json"
+            },
+            {
+                "id": 7548,
+                "uri": "https://sedra.bethmardutho.org/api/word/7548.json"
+            },
+            {
+                "id": 7551,
+                "uri": "https://sedra.bethmardutho.org/api/word/7551.json"
+            },
+            {
+                "id": 7550,
+                "uri": "https://sedra.bethmardutho.org/api/word/7550.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

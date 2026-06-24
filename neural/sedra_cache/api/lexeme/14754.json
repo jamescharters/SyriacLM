@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14754,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14754.json"
+        },
+        "syriac": "\u0729\u072a\u071b\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639"
+            ],
+            "French": [
+                "couper"
+            ],
+            "English": [
+                "IVa to cut off."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2797,
+            "uri": "https://sedra.bethmardutho.org/api/root/2797.json"
+        },
+        "words": [
+            {
+                "id": 41416,
+                "uri": "https://sedra.bethmardutho.org/api/word/41416.json"
+            },
+            {
+                "id": 40270,
+                "uri": "https://sedra.bethmardutho.org/api/word/40270.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

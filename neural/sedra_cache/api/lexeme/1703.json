@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1703,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1703.json"
+        },
+        "syriac": "\u0721\u0713\u0715\u0718",
+        "glosses": {
+            "English": [
+                "Magdu"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1013,
+            "uri": "https://sedra.bethmardutho.org/api/root/1013.json"
+        },
+        "words": [
+            {
+                "id": 11214,
+                "uri": "https://sedra.bethmardutho.org/api/word/11214.json"
+            },
+            {
+                "id": 11215,
+                "uri": "https://sedra.bethmardutho.org/api/word/11215.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

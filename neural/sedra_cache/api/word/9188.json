@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0721\u0720\u0726\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u0720\u0726\u0741\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1382,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1382.json"
+        },
+        "stem": "\u0721\u0720\u0726\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0630\u0647\u0628",
+                "\u0645\u0639\u0631\u0641\u0629",
+                "\u062a\u0639\u0644\u064a\u0645",
+                "\u0645\u0639\u0627\u0647\u062f\u0629"
+            ],
+            "eng": [
+                "learning, scholarship.",
+                "instruction, teaching",
+                "doctrine",
+                "teaching"
+            ],
+            "fre": [
+                "doctrine",
+                "enseignement",
+                "trait\u00e9",
+                "savoir"
+            ]
+        },
+        "word": {
+            "id": 9188,
+            "uri": "https://sedra.bethmardutho.org/api/word/9188.json"
+        }
+    }
+]

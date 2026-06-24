@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0712\u0720\u0721",
+        "western": "\u0712\u0741\u0720\u0730\u0721",
+        "eastern": "\u0712\u0741\u0720\u0732\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 399,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/399.json"
+        },
+        "stem": "\u0712\u0720\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0623\u0633\u0643\u062a",
+                "\u062d\u062c\u0645"
+            ],
+            "eng": [
+                "to be refuted.",
+                "muzzle",
+                "Ia to muzzle, silence",
+                "Ip to be silenced"
+            ],
+            "fre": [
+                "faire taire",
+                "museler",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 2768,
+            "uri": "https://sedra.bethmardutho.org/api/word/2768.json"
+        }
+    }
+]

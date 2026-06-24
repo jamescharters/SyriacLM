@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u071b\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u071b\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10669,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10669.json"
+        },
+        "stem": "\u0721\u071b\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0635\u0629"
+            ],
+            "eng": [
+                "portion, share."
+            ],
+            "fre": [
+                "part"
+            ]
+        },
+        "word": {
+            "id": 39241,
+            "uri": "https://sedra.bethmardutho.org/api/word/39241.json"
+        }
+    }
+]

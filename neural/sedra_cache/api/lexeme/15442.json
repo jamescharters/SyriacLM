@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15442,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15442.json"
+        },
+        "syriac": "\u0721\u071a\u072a",
+        "glosses": {
+            "English": [
+                "Ia to measure land."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3129,
+            "uri": "https://sedra.bethmardutho.org/api/root/3129.json"
+        },
+        "words": [
+            {
+                "id": 42146,
+                "uri": "https://sedra.bethmardutho.org/api/word/42146.json"
+            },
+            {
+                "id": 41387,
+                "uri": "https://sedra.bethmardutho.org/api/word/41387.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

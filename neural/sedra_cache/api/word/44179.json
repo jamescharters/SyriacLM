@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0725\u072a\u071d\u0710",
+        "western": "\u0725\u072a\u0733\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 17805,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/17805.json"
+        },
+        "stem": "\u0725\u072a\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u0643"
+            ],
+            "eng": [
+                "grasp; seizure"
+            ],
+            "fre": [
+                "action de tenir"
+            ]
+        },
+        "word": {
+            "id": 44179,
+            "uri": "https://sedra.bethmardutho.org/api/word/44179.json"
+        }
+    }
+]

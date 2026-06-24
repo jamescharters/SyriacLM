@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 670,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/670.json"
+        },
+        "syriac": "\u0715\u0718\u0722\u0712\u0710",
+        "glosses": {
+            "English": [
+                "tail.",
+                "tail"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 426,
+            "uri": "https://sedra.bethmardutho.org/api/root/426.json"
+        },
+        "words": [
+            {
+                "id": 29632,
+                "uri": "https://sedra.bethmardutho.org/api/word/29632.json"
+            },
+            {
+                "id": 4226,
+                "uri": "https://sedra.bethmardutho.org/api/word/4226.json"
+            },
+            {
+                "id": 4224,
+                "uri": "https://sedra.bethmardutho.org/api/word/4224.json"
+            },
+            {
+                "id": 4225,
+                "uri": "https://sedra.bethmardutho.org/api/word/4225.json"
+            },
+            {
+                "id": 4223,
+                "uri": "https://sedra.bethmardutho.org/api/word/4223.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

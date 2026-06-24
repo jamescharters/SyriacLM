@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u071d\u072c\u071d",
+        "western": "\u0720\u071d\u072c\u071d",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15315,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15315.json"
+        },
+        "stem": "\u0720\u071d\u072c\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to cease",
+                "IVa <span class=\"selectableFont\">\u0710\u0736\u072c\u0720\u0730\u071d\u072c\u0736\u071d</span> to be reduced to nothing, annihilated",
+                "IVp."
+            ]
+        },
+        "word": {
+            "id": 40600,
+            "uri": "https://sedra.bethmardutho.org/api/word/40600.json"
+        }
+    }
+]

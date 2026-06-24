@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 871,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/871.json"
+        },
+        "syriac": "\u0719\u0718\u072a\u0712\u0712\u0720",
+        "glosses": {
+            "English": [
+                "Zerubbabel"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 554,
+            "uri": "https://sedra.bethmardutho.org/api/root/554.json"
+        },
+        "words": [
+            {
+                "id": 5672,
+                "uri": "https://sedra.bethmardutho.org/api/word/5672.json"
+            },
+            {
+                "id": 5671,
+                "uri": "https://sedra.bethmardutho.org/api/word/5671.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

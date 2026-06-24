@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072b\u072b\u0720\u0722",
+        "western": "\u072b\u073a\u072b\u0720\u0733\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3190,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3190.json"
+        },
+        "stem": "\u072b\u071d\u072b\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "series.",
+                "chain",
+                "chain, link.",
+                "chain, fetter"
+            ]
+        },
+        "word": {
+            "id": 20892,
+            "uri": "https://sedra.bethmardutho.org/api/word/20892.json"
+        }
+    }
+]

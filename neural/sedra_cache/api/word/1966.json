@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0712\u0710\u072a\u0725\u0710",
+        "western": "\u0712\u0741\u0730\u0710\u072a\u0725\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 302,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/302.json"
+        },
+        "stem": "\u0710\u072a\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "earth, land",
+                "earth",
+                "land",
+                "Kth. ground, floor.",
+                "country",
+                "soil",
+                "ground"
+            ]
+        },
+        "word": {
+            "id": 1966,
+            "uri": "https://sedra.bethmardutho.org/api/word/1966.json"
+        }
+    }
+]

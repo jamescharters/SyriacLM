@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0728\u0720\u071a",
+        "western": "\u0728\u0730\u0720\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15107,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15107.json"
+        },
+        "stem": "\u0728\u0720\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0634\u0642"
+            ],
+            "eng": [
+                "3 IIa to assess (tax)."
+            ],
+            "fre": [
+                "fendre"
+            ]
+        },
+        "word": {
+            "id": 40767,
+            "uri": "https://sedra.bethmardutho.org/api/word/40767.json"
+        }
+    }
+]

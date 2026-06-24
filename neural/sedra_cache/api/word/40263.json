@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0725\u072a\u0729\u0720",
+        "western": "\u0725\u0730\u072a\u0729\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14676,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14676.json"
+        },
+        "stem": "\u0725\u072a\u0729\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0631\u0628\u0637, \u062d\u0628\u0643",
+                "\u0644\u0628\u0643 (\u0645\u0636), \u0645\u0646\u0639",
+                "\u0623\u0644\u0642\u0649 \u0628\u0642\u0648\u0629",
+                "\u0639\u0642\u0628"
+            ],
+            "eng": [
+                "to bring together",
+                "IVa to twist, entwine, entangle",
+                "to confuse",
+                "to be confused, perplexed.",
+                "to embrace",
+                "IVp to be entangled, to be involved"
+            ],
+            "fre": [
+                "supplanter",
+                "lancer avec force",
+                "emp\u00eatrer, emp\u00eacher",
+                "lier,enlacer",
+                "lier\u2026"
+            ]
+        },
+        "word": {
+            "id": 40263,
+            "uri": "https://sedra.bethmardutho.org/api/word/40263.json"
+        }
+    }
+]

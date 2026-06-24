@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u071b\u071a",
+        "western": "\u0721\u071b\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15839,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15839.json"
+        },
+        "stem": "\u0721\u071b\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u062d\u0633"
+            ],
+            "eng": [
+                "Ia to lick",
+                "IIa to lick up. IIIa to swallow.",
+                "Ip"
+            ],
+            "fre": [
+                "l\u00e9cher"
+            ]
+        },
+        "word": {
+            "id": 39963,
+            "uri": "https://sedra.bethmardutho.org/api/word/39963.json"
+        }
+    }
+]

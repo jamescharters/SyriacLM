@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2659,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2659.json"
+        },
+        "syriac": "\u0728\u0712\u072c\u0710",
+        "glosses": {
+            "English": [
+                "adornment",
+                "adornment, ornament, decoration."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1575,
+            "uri": "https://sedra.bethmardutho.org/api/root/1575.json"
+        },
+        "words": [
+            {
+                "id": 17337,
+                "uri": "https://sedra.bethmardutho.org/api/word/17337.json"
+            },
+            {
+                "id": 17339,
+                "uri": "https://sedra.bethmardutho.org/api/word/17339.json"
+            },
+            {
+                "id": 17338,
+                "uri": "https://sedra.bethmardutho.org/api/word/17338.json"
+            },
+            {
+                "id": 42231,
+                "uri": "https://sedra.bethmardutho.org/api/word/42231.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

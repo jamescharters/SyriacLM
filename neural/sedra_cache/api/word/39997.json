@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0717\u0718\u0722",
+        "western": "\u0717\u0730\u0718\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15006,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15006.json"
+        },
+        "stem": "\u0717\u0718\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0623\u062d\u0643\u0645",
+                ""
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u0721\u0717\u0730\u0718\u0730\u0722</span> endowed with reason, rational",
+                "to master oneself.",
+                "IIa to compose oneself",
+                "IIp to come to one\u2019s senses"
+            ],
+            "fre": [
+                "rendre sage",
+                ""
+            ]
+        },
+        "word": {
+            "id": 39997,
+            "uri": "https://sedra.bethmardutho.org/api/word/39997.json"
+        }
+    }
+]

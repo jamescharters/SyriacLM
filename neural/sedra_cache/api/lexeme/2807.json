@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2807,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2807.json"
+        },
+        "syriac": "\u0729\u071d\u0720\u071d\u0729\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Cilicia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1655,
+            "uri": "https://sedra.bethmardutho.org/api/root/1655.json"
+        },
+        "words": [
+            {
+                "id": 18327,
+                "uri": "https://sedra.bethmardutho.org/api/word/18327.json"
+            },
+            {
+                "id": 18326,
+                "uri": "https://sedra.bethmardutho.org/api/word/18326.json"
+            },
+            {
+                "id": 18325,
+                "uri": "https://sedra.bethmardutho.org/api/word/18325.json"
+            },
+            {
+                "id": 18328,
+                "uri": "https://sedra.bethmardutho.org/api/word/18328.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

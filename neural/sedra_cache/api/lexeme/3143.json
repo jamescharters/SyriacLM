@@ -1,0 +1,60 @@
+[
+    {
+        "lexeme": {
+            "id": 3143,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3143.json"
+        },
+        "syriac": "\u072b\u0718\u0719\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u062c\u0649 (\u0645\u0636), \u062e\u0644\u0635 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "d\u00e9livrer, sauver",
+                "\u00a0"
+            ],
+            "English": [
+                "rescue",
+                "IVp.",
+                "IVa to deliver, preserve"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1826,
+            "uri": "https://sedra.bethmardutho.org/api/root/1826.json"
+        },
+        "words": [
+            {
+                "id": 3219,
+                "uri": "https://sedra.bethmardutho.org/api/word/3219.json"
+            },
+            {
+                "id": 20681,
+                "uri": "https://sedra.bethmardutho.org/api/word/20681.json"
+            },
+            {
+                "id": 20680,
+                "uri": "https://sedra.bethmardutho.org/api/word/20680.json"
+            },
+            {
+                "id": 20679,
+                "uri": "https://sedra.bethmardutho.org/api/word/20679.json"
+            },
+            {
+                "id": 20676,
+                "uri": "https://sedra.bethmardutho.org/api/word/20676.json"
+            },
+            {
+                "id": 20677,
+                "uri": "https://sedra.bethmardutho.org/api/word/20677.json"
+            },
+            {
+                "id": 20678,
+                "uri": "https://sedra.bethmardutho.org/api/word/20678.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

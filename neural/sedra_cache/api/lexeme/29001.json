@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 29001,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29001.json"
+        },
+        "syriac": "\u0710\u071d\u0722\u0718\u0720\u071d\u0718\u0722",
+        "glosses": {
+            "Latin": [
+                "inula"
+            ],
+            "English": [
+                "elecampane, a plant (Inula helenium)"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "inula"
+            ]
+        },
+        "words": [
+            {
+                "id": 55375,
+                "uri": "https://sedra.bethmardutho.org/api/word/55375.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

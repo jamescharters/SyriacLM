@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 698,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/698.json"
+        },
+        "syriac": "\u0715\u0718\u071f\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0637\u0647\u064a\u0631"
+            ],
+            "French": [
+                "purification"
+            ],
+            "English": [
+                "cleansing",
+                "purification",
+                "purification, cleansing."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 444,
+            "uri": "https://sedra.bethmardutho.org/api/root/444.json"
+        },
+        "words": [
+            {
+                "id": 4515,
+                "uri": "https://sedra.bethmardutho.org/api/word/4515.json"
+            },
+            {
+                "id": 4514,
+                "uri": "https://sedra.bethmardutho.org/api/word/4514.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

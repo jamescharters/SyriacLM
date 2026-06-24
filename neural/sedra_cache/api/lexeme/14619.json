@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 14619,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14619.json"
+        },
+        "syriac": "\u071a\u072a\u0712\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u0631",
+                "\u00a0",
+                "\u00a0"
+            ],
+            "French": [
+                "rendre amer",
+                "\u00a0",
+                "rendre amer"
+            ],
+            "English": [
+                "IVa to make bitter",
+                "IVp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2928,
+            "uri": "https://sedra.bethmardutho.org/api/root/2928.json"
+        },
+        "words": [
+            {
+                "id": 41379,
+                "uri": "https://sedra.bethmardutho.org/api/word/41379.json"
+            },
+            {
+                "id": 40605,
+                "uri": "https://sedra.bethmardutho.org/api/word/40605.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

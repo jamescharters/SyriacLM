@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0712\u072a\u0715\u0725\u072c\u0710",
+        "western": "\u0712\u0730\u072a\u0715\u0730\u0725\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7887,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7887.json"
+        },
+        "stem": "\u0712\u072a\u0715\u0725\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639\u0629 \u0642\u0645\u0627\u0634",
+                "\u0628\u0631\u062f\u0639\u0629"
+            ],
+            "eng": [
+                "pack-saddle, saddle-cloth",
+                "rags."
+            ],
+            "fre": [
+                "morceau d\u2019\u00e9toffe",
+                "b\u00e2t"
+            ]
+        },
+        "word": {
+            "id": 33481,
+            "uri": "https://sedra.bethmardutho.org/api/word/33481.json"
+        }
+    }
+]

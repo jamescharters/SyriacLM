@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0718\u071f\u0710",
+        "western": "\u0720\u0733\u0712\u073d\u0718\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8959,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8959.json"
+        },
+        "stem": "\u0720\u0712\u0718\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0627\u062d\u0628"
+            ],
+            "eng": [
+                "retentive.",
+                "restraining"
+            ],
+            "fre": [
+                "possesseur"
+            ]
+        },
+        "word": {
+            "id": 34361,
+            "uri": "https://sedra.bethmardutho.org/api/word/34361.json"
+        }
+    }
+]

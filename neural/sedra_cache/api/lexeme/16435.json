@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 16435,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16435.json"
+        },
+        "syriac": "\u0710\u0718\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0648\u0631\u200e"
+            ],
+            "English": [
+                "Ur"
+            ]
+        },
+        "etymologies": {
+            "Hebrew": [
+                "\u05d0\u05d5\u05bc\u05e8"
+            ]
+        },
+        "words": [
+            {
+                "id": 48950,
+                "uri": "https://sedra.bethmardutho.org/api/word/48950.json"
+            },
+            {
+                "id": 42809,
+                "uri": "https://sedra.bethmardutho.org/api/word/42809.json"
+            }
+        ],
+        "category": "proper noun (place name)"
+    }
+]

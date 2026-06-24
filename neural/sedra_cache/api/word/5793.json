@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0719\u0722\u0710",
+        "western": "\u0719\u0722\u0733\u0710",
+        "eastern": "\u0719\u0722\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 897,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/897.json"
+        },
+        "stem": "\u0719\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "kind",
+                "sort",
+                "species",
+                "kind",
+                "(gramm.) mood",
+                "mood",
+                "form",
+                "way of speaking",
+                "quality (\u03c0\u03bf\u03b9\u1f79\u03c4\u03b7\u03c2)",
+                "apparatus of war",
+                "plur. customs",
+                "habits",
+                "way (cf. \u0715 \u0710\u0712\u0719\u0722\u0710)",
+                "species, variety, kind, manner. <span class=\"selectableFont\">\u0719\u0722\u0733\u0710 \u0710\u0331</span><span class=\"selectableFont\">\u071a\u072a\u073a\u0722\u0733\u0710</span> Lit. alternative (melody).",
+                "mode"
+            ],
+            "syr": [
+                "\u0719\u0722\u0732\u071d \u0729\u072a\u0735\u0712\u0735\u0710 <em>znay qr\u0101b\u0331\u0101</em>"
+            ]
+        },
+        "word": {
+            "id": 5793,
+            "uri": "https://sedra.bethmardutho.org/api/word/5793.json"
+        }
+    }
+]

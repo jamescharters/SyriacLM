@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0729\u072a\u071a\u0710",
+        "western": "\u0729\u0730\u072a\u071a\u0733\u0710",
+        "lexeme": {
+            "id": 20056,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20056.json"
+        },
+        "stem": "\u0729\u072a\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0648\u0628\u0639\u0629"
+            ],
+            "eng": [
+                "a vetch, a pea-nut"
+            ],
+            "fre": [
+                "temp\u00eate"
+            ]
+        },
+        "word": {
+            "id": 46430,
+            "uri": "https://sedra.bethmardutho.org/api/word/46430.json"
+        }
+    }
+]

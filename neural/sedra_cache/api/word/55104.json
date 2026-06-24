@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0710\u0723\u0718\u0722",
+        "western": "\u0710\u071d\u0730\u0710\u0723\u0733\u0718\u0722",
+        "lexeme": {
+            "id": 28730,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28730.json"
+        },
+        "stem": "\u0710\u071d\u0710\u0723\u0718\u0722",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u1f38\u1f00\u03c3\u03c9\u03bd"
+            ],
+            "lat": [
+                "Jason"
+            ]
+        },
+        "word": {
+            "id": 55104,
+            "uri": "https://sedra.bethmardutho.org/api/word/55104.json"
+        }
+    }
+]

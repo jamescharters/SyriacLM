@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 28995,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28995.json"
+        },
+        "syriac": "\u0710\u071d\u0722\u0715\u071d\u0729\u071b\u071d\u0718\u0722",
+        "glosses": {
+            "English": [
+                "indiction"
+            ],
+            "Greek": [
+                "\u1f30\u03bd\u03b4\u03b9\u03ba\u03c4\u03af\u03c9\u03bd",
+                "\u1f30\u03bd\u03b4\u03b9\u03ba\u03c4\u03af\u03c9\u03bd"
+            ],
+            "Latin": [
+                "Indiction",
+                "indictio"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "indictio"
+            ]
+        },
+        "words": [
+            {
+                "id": 42840,
+                "uri": "https://sedra.bethmardutho.org/api/word/42840.json"
+            },
+            {
+                "id": 55369,
+                "uri": "https://sedra.bethmardutho.org/api/word/55369.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

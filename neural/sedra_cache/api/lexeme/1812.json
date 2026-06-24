@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1812,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1812.json"
+        },
+        "syriac": "\u0721\u0722\u072b\u0710",
+        "glosses": {
+            "English": [
+                "Manasseh"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1083,
+            "uri": "https://sedra.bethmardutho.org/api/root/1083.json"
+        },
+        "words": [
+            {
+                "id": 12050,
+                "uri": "https://sedra.bethmardutho.org/api/word/12050.json"
+            },
+            {
+                "id": 12051,
+                "uri": "https://sedra.bethmardutho.org/api/word/12051.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u071a\u0721",
+        "western": "\u0722\u0730\u071a\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15258,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15258.json"
+        },
+        "stem": "\u0722\u071a\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0628\u0639\u062b",
+                "\u0639\u0632\u0649 (\u0645\u0636)"
+            ],
+            "eng": [
+                "IIa to resuscitate, to raise to life",
+                "raise up",
+                "IIp to be raised, revived, resurrected."
+            ],
+            "fre": [
+                "consoler",
+                "ressusciter"
+            ]
+        },
+        "word": {
+            "id": 41162,
+            "uri": "https://sedra.bethmardutho.org/api/word/41162.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15447,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15447.json"
+        },
+        "syriac": "\u0720\u072c\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0641\u0638",
+                "\u00a0"
+            ],
+            "French": [
+                "prononcer",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to pronounce",
+                "to compile",
+                "Ip to be pronounced",
+                "IIa to murmur",
+                "IIp to be coupled, fastened together.",
+                "to disparage",
+                "to pile up, bring together"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3116,
+            "uri": "https://sedra.bethmardutho.org/api/root/3116.json"
+        },
+        "words": [
+            {
+                "id": 41738,
+                "uri": "https://sedra.bethmardutho.org/api/word/41738.json"
+            },
+            {
+                "id": 41279,
+                "uri": "https://sedra.bethmardutho.org/api/word/41279.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

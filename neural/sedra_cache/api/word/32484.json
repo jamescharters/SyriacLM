@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u0718\u071a\u0720\u0710",
+        "western": "\u0715\u073d\u0718\u071a\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5410,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5410.json"
+        },
+        "stem": "\u0715\u0718\u071a\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                ""
+            ],
+            "eng": [
+                "terror",
+                "object of fear."
+            ],
+            "fre": [
+                ""
+            ]
+        },
+        "word": {
+            "id": 32484,
+            "uri": "https://sedra.bethmardutho.org/api/word/32484.json"
+        }
+    }
+]

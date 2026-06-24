@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0725\u0712\u0718\u072a\u071d",
+        "western": "\u0725\u0712\u0742\u073d\u0718\u072a\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2228,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2228.json"
+        },
+        "stem": "\u0725\u0712\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0646\u0637\u0629"
+            ],
+            "eng": [
+                "wheat",
+                "yearly produce",
+                "corn",
+                "harvest",
+                "crop",
+                "produce."
+            ],
+            "fre": [
+                "forment"
+            ]
+        },
+        "word": {
+            "id": 14889,
+            "uri": "https://sedra.bethmardutho.org/api/word/14889.json"
+        }
+    }
+]

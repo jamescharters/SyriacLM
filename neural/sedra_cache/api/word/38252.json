@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0713\u071d\u0723\u0718\u072c\u0710",
+        "western": "\u0713\u0730\u071d\u0733\u0723\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 12310,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12310.json"
+        },
+        "stem": "\u0713\u071d\u0723\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0635\u0648\u0635\u064a\u0629"
+            ],
+            "eng": [
+                "robbery."
+            ],
+            "fre": [
+                "brigandage"
+            ]
+        },
+        "word": {
+            "id": 38252,
+            "uri": "https://sedra.bethmardutho.org/api/word/38252.json"
+        }
+    }
+]

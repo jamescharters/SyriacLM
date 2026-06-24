@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0728",
+        "western": "\u072b\u072a\u0730\u0728",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15474,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15474.json"
+        },
+        "stem": "\u072b\u072a\u0728",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u062d\u0641"
+            ],
+            "eng": [
+                "Ia to creep."
+            ],
+            "fre": [
+                "ramper"
+            ]
+        },
+        "word": {
+            "id": 40946,
+            "uri": "https://sedra.bethmardutho.org/api/word/40946.json"
+        }
+    }
+]

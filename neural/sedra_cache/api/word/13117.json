@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u0720\u0721\u0726\u0729",
+        "western": "\u0715\u0741\u0730\u0720\u0721\u0730\u0726\u0741\u0730\u0729",
+        "state": "construct",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1999,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1999.json"
+        },
+        "stem": "\u0721\u0726\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "answer",
+                "<span class=\"selectableFont\">\u0721\u0730\u0726\u0730\u0729 \u0712\u072a\u073d\u0718\u071a\u0733\u0710</span> apology, excuse, defense",
+                "preface, foreword.",
+                "exit, going out",
+                "defense"
+            ]
+        },
+        "word": {
+            "id": 13117,
+            "uri": "https://sedra.bethmardutho.org/api/word/13117.json"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14784,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14784.json"
+        },
+        "syriac": "\u0719\u071d\u0726\u0722",
+        "glosses": {
+            "English": [
+                "IVa to deceive, beguile, pretend."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3218,
+            "uri": "https://sedra.bethmardutho.org/api/root/3218.json"
+        },
+        "words": [
+            {
+                "id": 40433,
+                "uri": "https://sedra.bethmardutho.org/api/word/40433.json"
+            },
+            {
+                "id": 40058,
+                "uri": "https://sedra.bethmardutho.org/api/word/40058.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

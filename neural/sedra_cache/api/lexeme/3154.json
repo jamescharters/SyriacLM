@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3154,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3154.json"
+        },
+        "syriac": "\u072b\u0718\u0729\u072a\u0710",
+        "glosses": {
+            "English": [
+                "falsehood, lie.",
+                "lie",
+                "falsity"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1835,
+            "uri": "https://sedra.bethmardutho.org/api/root/1835.json"
+        },
+        "words": [
+            {
+                "id": 20723,
+                "uri": "https://sedra.bethmardutho.org/api/word/20723.json"
+            },
+            {
+                "id": 20722,
+                "uri": "https://sedra.bethmardutho.org/api/word/20722.json"
+            },
+            {
+                "id": 20724,
+                "uri": "https://sedra.bethmardutho.org/api/word/20724.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

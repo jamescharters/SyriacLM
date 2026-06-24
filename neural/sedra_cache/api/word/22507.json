@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0718\u072c\u0718\u0720\u072c\u0717",
+        "western": "\u0718\u072c\u0742\u073d\u0718\u0720\u072c\u0742\u0733\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 3397,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3397.json"
+        },
+        "stem": "\u072c\u0718\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u062b\u0627\u0644\u062b",
+                "\u0639\u0645\u0631\u0647 \u062b\u0644\u0627\u062b \u0633\u0646\u064a\u0646"
+            ],
+            "eng": [
+                "third",
+                "three-year old.",
+                "third part."
+            ],
+            "fre": [
+                "\u00e2ge de trios ans",
+                "la troisi\u00e8me partie"
+            ]
+        },
+        "word": {
+            "id": 22507,
+            "uri": "https://sedra.bethmardutho.org/api/word/22507.json"
+        }
+    }
+]

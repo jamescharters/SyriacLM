@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 14765,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14765.json"
+        },
+        "syriac": "\u072a\u0726\u072a\u0726",
+        "glosses": {
+            "English": [
+                "Palpel conj. of verb \u072a\u0730\u0726",
+                "IVp to oscillate.",
+                "to flutter",
+                "IVa to move to and from"
+            ],
+            "Arabic": [
+                "\u062d\u0631\u0643 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "mouvoir",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2492,
+            "uri": "https://sedra.bethmardutho.org/api/root/2492.json"
+        },
+        "words": [
+            {
+                "id": 47040,
+                "uri": "https://sedra.bethmardutho.org/api/word/47040.json"
+            },
+            {
+                "id": 41102,
+                "uri": "https://sedra.bethmardutho.org/api/word/41102.json"
+            },
+            {
+                "id": 40922,
+                "uri": "https://sedra.bethmardutho.org/api/word/40922.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

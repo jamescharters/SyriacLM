@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1497,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1497.json"
+        },
+        "syriac": "\u071f\u0718\u072a\u0710",
+        "glosses": {
+            "English": [
+                "region",
+                "district",
+                "country, district, land."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c7\u03ce\u03c1\u03b1"
+            ]
+        },
+        "root": {
+            "id": 884,
+            "uri": "https://sedra.bethmardutho.org/api/root/884.json"
+        },
+        "words": [
+            {
+                "id": 9856,
+                "uri": "https://sedra.bethmardutho.org/api/word/9856.json"
+            },
+            {
+                "id": 9855,
+                "uri": "https://sedra.bethmardutho.org/api/word/9855.json"
+            },
+            {
+                "id": 42229,
+                "uri": "https://sedra.bethmardutho.org/api/word/42229.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

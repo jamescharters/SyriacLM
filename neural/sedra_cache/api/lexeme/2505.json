@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 2505,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2505.json"
+        },
+        "syriac": "\u0721\u072c\u071b\u0726\u071d\u0723\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "obedience",
+                "obedience",
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> disobedience."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1489,
+            "uri": "https://sedra.bethmardutho.org/api/root/1489.json"
+        },
+        "words": [
+            {
+                "id": 16345,
+                "uri": "https://sedra.bethmardutho.org/api/word/16345.json"
+            },
+            {
+                "id": 16346,
+                "uri": "https://sedra.bethmardutho.org/api/word/16346.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ettaph\u02bfal"
+    }
+]

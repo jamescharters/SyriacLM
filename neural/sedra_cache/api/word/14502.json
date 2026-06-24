@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0720\u0723\u0726\u0710",
+        "western": "\u0720\u0723\u0736\u0726\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2178,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2178.json"
+        },
+        "stem": "\u0723\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0647\u0644\u064a\u0632",
+                "\u0639\u062a\u0628\u0629",
+                "\u0631\u0628\u0636"
+            ],
+            "eng": [
+                "doorpost, threshold",
+                "threshold",
+                "approach",
+                "suburb",
+                "vestibule",
+                "porch",
+                "margin."
+            ],
+            "fre": [
+                "faubourg",
+                "seuil",
+                "portique"
+            ]
+        },
+        "word": {
+            "id": 14502,
+            "uri": "https://sedra.bethmardutho.org/api/word/14502.json"
+        }
+    }
+]

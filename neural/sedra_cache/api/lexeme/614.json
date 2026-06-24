@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 614,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/614.json"
+        },
+        "syriac": "\u0713\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0631\u062e",
+                "\u0647\u062a\u0641",
+                "\u062e\u0627\u0631"
+            ],
+            "French": [
+                "crier",
+                "appeler",
+                "mugir"
+            ],
+            "English": [
+                "to implore, call upon",
+                "IIa, IIIa to bellow.",
+                "call out",
+                "shout",
+                "cry aloud",
+                "Ia to low, bellow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 393,
+            "uri": "https://sedra.bethmardutho.org/api/root/393.json"
+        },
+        "words": [
+            {
+                "id": 3933,
+                "uri": "https://sedra.bethmardutho.org/api/word/3933.json"
+            },
+            {
+                "id": 3932,
+                "uri": "https://sedra.bethmardutho.org/api/word/3932.json"
+            },
+            {
+                "id": 3934,
+                "uri": "https://sedra.bethmardutho.org/api/word/3934.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

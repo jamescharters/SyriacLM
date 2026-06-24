@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 29135,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29135.json"
+        },
+        "syriac": "\u0710\u071d\u0729\u0710\u0720\u0710\u0723\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f21 \u03ba\u03bb\u1fc6\u03c3\u03b9\u03c2"
+            ],
+            "English": [
+                "calling, call\u03bc invocation"
+            ],
+            "Latin": [
+                "vocatio"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03bb\u1fc6\u03c3\u03b9\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55509,
+                "uri": "https://sedra.bethmardutho.org/api/word/55509.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

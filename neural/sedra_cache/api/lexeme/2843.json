@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2843,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2843.json"
+        },
+        "syriac": "\u0729\u0722\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0648\u0641",
+                "\u062e\u0637\u0631"
+            ],
+            "French": [
+                "crainte",
+                "danger"
+            ],
+            "English": [
+                "danger",
+                "fear",
+                "fear, dread."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1682,
+            "uri": "https://sedra.bethmardutho.org/api/root/1682.json"
+        },
+        "words": [
+            {
+                "id": 18463,
+                "uri": "https://sedra.bethmardutho.org/api/word/18463.json"
+            },
+            {
+                "id": 18464,
+                "uri": "https://sedra.bethmardutho.org/api/word/18464.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

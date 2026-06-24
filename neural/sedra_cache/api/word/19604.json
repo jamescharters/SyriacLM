@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0710\u072a\u071a\u0729",
+        "western": "\u0710\u0730\u072a\u071a\u0736\u0729",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15689,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15689.json"
+        },
+        "stem": "\u072a\u071a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to remove.",
+                "IIp to travel afar",
+                "to be prolonged",
+                "IIIa to go far away",
+                "depart",
+                "Ia to go away",
+                "remove",
+                "keep away from",
+                "to abstain from",
+                "IIa to put far away"
+            ]
+        },
+        "word": {
+            "id": 19604,
+            "uri": "https://sedra.bethmardutho.org/api/word/19604.json"
+        }
+    }
+]

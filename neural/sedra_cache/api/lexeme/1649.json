@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1649,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1649.json"
+        },
+        "syriac": "\u0720\u0718\u071f\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u0628\u0629"
+            ],
+            "French": [
+                "lance"
+            ],
+            "English": [
+                "spear",
+                "pike",
+                "spear, lance."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bb\u03cc\u03b3\u03c7\u03b7"
+            ]
+        },
+        "root": {
+            "id": 972,
+            "uri": "https://sedra.bethmardutho.org/api/root/972.json"
+        },
+        "words": [
+            {
+                "id": 10963,
+                "uri": "https://sedra.bethmardutho.org/api/word/10963.json"
+            },
+            {
+                "id": 10964,
+                "uri": "https://sedra.bethmardutho.org/api/word/10964.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

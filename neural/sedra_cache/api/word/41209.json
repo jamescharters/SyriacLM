@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071f\u0720\u0720",
+        "western": "\u071f\u0730\u0720\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15241,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15241.json"
+        },
+        "stem": "\u071f\u0720\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0643\u0644\u0644"
+            ],
+            "eng": [
+                "IIIa to fancy, imagine.",
+                "IIp",
+                "IIa to crown"
+            ],
+            "fre": [
+                "couronner",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 41209,
+            "uri": "https://sedra.bethmardutho.org/api/word/41209.json"
+        }
+    }
+]

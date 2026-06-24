@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0712\u071d\u0725\u072c\u0710",
+        "western": "\u0712\u073a\u071d\u0725\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11915,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11915.json"
+        },
+        "stem": "\u0712\u071d\u0725\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u062c\u0645\u0629",
+                "\u062e\u0635\u064a\u0629",
+                "\u062d\u0646\u064a\u0629"
+            ],
+            "eng": [
+                "crown of head, of arch",
+                "testicle.",
+                "egg"
+            ],
+            "fre": [
+                "arc",
+                "testicule",
+                "cr\u00e2ne"
+            ]
+        },
+        "word": {
+            "id": 36665,
+            "uri": "https://sedra.bethmardutho.org/api/word/36665.json"
+        }
+    }
+]

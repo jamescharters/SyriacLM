@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0718\u0710\u0710",
+        "western": "\u0710\u0730\u0712\u073d\u0718\u0710\u0730\u0710",
+        "lexeme": {
+            "id": 20255,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20255.json"
+        },
+        "stem": "\u0710\u0712\u0718\u0710\u0710",
+        "category": "proper noun (place name)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u0395\u1f54\u03b2\u03bf\u03b9\u03b1"
+            ],
+            "lat": [
+                "Euboea"
+            ]
+        },
+        "word": {
+            "id": 46629,
+            "uri": "https://sedra.bethmardutho.org/api/word/46629.json"
+        }
+    }
+]

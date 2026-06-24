@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u071f\u0710",
+        "western": "\u071f\u0733\u0710",
+        "lexeme": {
+            "id": 38539,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/38539.json"
+        },
+        "stem": "\u071f\u0710",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "syr": [
+                "present tense particle"
+            ]
+        },
+        "word": {
+            "id": 64894,
+            "uri": "https://sedra.bethmardutho.org/api/word/64894.json"
+        }
+    }
+]

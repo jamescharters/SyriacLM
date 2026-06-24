@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15421,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15421.json"
+        },
+        "syriac": "\u0722\u0715\u0720",
+        "glosses": {
+            "English": [
+                "IIp to be annulled.",
+                "Ia to move, to disturb"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2299,
+            "uri": "https://sedra.bethmardutho.org/api/root/2299.json"
+        },
+        "words": [
+            {
+                "id": 42040,
+                "uri": "https://sedra.bethmardutho.org/api/word/42040.json"
+            },
+            {
+                "id": 40470,
+                "uri": "https://sedra.bethmardutho.org/api/word/40470.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

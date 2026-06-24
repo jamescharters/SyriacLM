@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0720\u071d\u0723\u0718\u0722",
+        "western": "\u0710\u071d\u0308\u0720\u071d\u0723\u0718\u0722",
+        "lexeme": {
+            "id": 28940,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28940.json"
+        },
+        "stem": "\u0710\u071d\u0720\u071d\u0723\u0718\u0722",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "the Elysian fields"
+            ],
+            "grc": [
+                "\u03c4\u1f78 \u1f28\u03bb\u03cd\u03c3\u03b9\u03bf\u03bd \u03c0\u03b5\u03b4\u03af\u03bf\u03bd"
+            ],
+            "lat": [
+                "Elysii campi"
+            ]
+        },
+        "word": {
+            "id": 55314,
+            "uri": "https://sedra.bethmardutho.org/api/word/55314.json"
+        }
+    }
+]

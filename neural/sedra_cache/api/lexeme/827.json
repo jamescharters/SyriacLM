@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 827,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/827.json"
+        },
+        "syriac": "\u0717\u072b\u0710",
+        "glosses": {
+            "English": [
+                "now",
+                "now."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 528,
+            "uri": "https://sedra.bethmardutho.org/api/root/528.json"
+        },
+        "words": [
+            {
+                "id": 5355,
+                "uri": "https://sedra.bethmardutho.org/api/word/5355.json"
+            },
+            {
+                "id": 5354,
+                "uri": "https://sedra.bethmardutho.org/api/word/5354.json"
+            },
+            {
+                "id": 5352,
+                "uri": "https://sedra.bethmardutho.org/api/word/5352.json"
+            },
+            {
+                "id": 5353,
+                "uri": "https://sedra.bethmardutho.org/api/word/5353.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

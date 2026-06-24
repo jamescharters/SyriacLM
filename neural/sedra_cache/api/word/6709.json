@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0712\u071a\u0719\u071d\u072a\u0710",
+        "western": "\u0712\u0741\u0730\u071a\u0719\u073a\u071d\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1003,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1003.json"
+        },
+        "stem": "\u071a\u0719\u071d\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0646\u0632\u064a\u0631"
+            ],
+            "eng": [
+                "swine",
+                "Kth. pig.",
+                "boar, swine"
+            ],
+            "fre": [
+                "porc"
+            ]
+        },
+        "word": {
+            "id": 6709,
+            "uri": "https://sedra.bethmardutho.org/api/word/6709.json"
+        }
+    }
+]

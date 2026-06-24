@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0712\u072a\u071f\u071d\u0722",
+        "western": "\u0712\u0741\u0733\u072a\u071f\u0741\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 356,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/356.json"
+        },
+        "stem": "\u0712\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u062f\u0631\u064a",
+                "\u0645\u0628\u0627\u0631\u0643"
+            ],
+            "eng": [
+                "IIIa to cause to kneel.",
+                "IIp",
+                "IIa to bless, pronounce a blessing",
+                "kneel",
+                "bless",
+                "Ia to kneel",
+                "bow"
+            ],
+            "fre": [
+                "variole",
+                "b\u00e9ni"
+            ]
+        },
+        "word": {
+            "id": 23396,
+            "uri": "https://sedra.bethmardutho.org/api/word/23396.json"
+        }
+    }
+]

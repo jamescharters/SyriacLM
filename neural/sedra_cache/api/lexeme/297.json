@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 297,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/297.json"
+        },
+        "syriac": "\u0710\u072a\u0723\u071b\u0712\u0718\u0720\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Aristobulus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 219,
+            "uri": "https://sedra.bethmardutho.org/api/root/219.json"
+        },
+        "words": [
+            {
+                "id": 1937,
+                "uri": "https://sedra.bethmardutho.org/api/word/1937.json"
+            },
+            {
+                "id": 1938,
+                "uri": "https://sedra.bethmardutho.org/api/word/1938.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

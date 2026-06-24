@@ -1,0 +1,51 @@
+[
+    {
+        "syriac": "\u0713\u0722\u0710",
+        "western": "\u0713\u0722\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 597,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/597.json"
+        },
+        "stem": "\u0713\u0722\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062e\u062a\u0628\u0623",
+                "\u062c\u0644\u0633",
+                "\u0631\u0642\u062f",
+                "\u0633\u0643\u0646"
+            ],
+            "eng": [
+                "to conceal oneself",
+                "to withdraw, depart secretly",
+                "IIp to be blamed",
+                "IIa to blame, find fault with",
+                "to conceal oneself.",
+                "withdraw oneself",
+                "Ia to recline, lie down",
+                "IIIa to make to sit (at table)",
+                "Ip",
+                "reprimand"
+            ],
+            "fre": [
+                "\u00eatre cach\u00e9 , se cacher",
+                "s&#39;asseoir",
+                "se coucher",
+                "habiter"
+            ]
+        },
+        "word": {
+            "id": 3874,
+            "uri": "https://sedra.bethmardutho.org/api/word/3874.json"
+        }
+    }
+]

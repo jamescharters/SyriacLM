@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u071f\u0723\u0718\u072a\u071d\u0723\u072c\u071d\u0722\u0710",
+        "western": "\u0710\u073a\u071d\u071f\u0723\u0733\u0718\u072a\u071d\u0723\u072c\u071d\u0722\u0736\u0710",
+        "lexeme": {
+            "id": 28909,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28909.json"
+        },
+        "stem": "\u0710\u071d\u071f\u0723\u0718\u072a\u071d\u0723\u072c\u071d\u0722\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "those who were sent beyond the frontier, those who were banished"
+            ],
+            "grc": [
+                "\u1f10\u03be\u03bf\u03c1\u03b9\u03c3\u03b8\u03ad\u03bd\u03c4\u03b5\u03c2"
+            ],
+            "lat": [
+                "exules"
+            ]
+        },
+        "word": {
+            "id": 55283,
+            "uri": "https://sedra.bethmardutho.org/api/word/55283.json"
+        }
+    }
+]

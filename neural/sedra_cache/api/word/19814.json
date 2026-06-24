@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u072a\u0722\u071d",
+        "western": "\u072a\u0722\u0730\u071d",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3036,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3036.json"
+        },
+        "stem": "\u072a\u0722\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to attend to",
+                "IIIa to direct the thoughts.",
+                "Ip to be considered",
+                "IIp to consider, to reflect",
+                "Ia to think, reflect",
+                "to conceive",
+                "plan",
+                "consider",
+                "think",
+                "meditate"
+            ]
+        },
+        "word": {
+            "id": 19814,
+            "uri": "https://sedra.bethmardutho.org/api/word/19814.json"
+        }
+    }
+]

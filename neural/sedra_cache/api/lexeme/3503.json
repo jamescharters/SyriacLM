@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 3503,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3503.json"
+        },
+        "syriac": "\u071f\u0720 \u0721\u0722",
+        "glosses": [],
+        "etymologies": [],
+        "root": {
+            "id": 2030,
+            "uri": "https://sedra.bethmardutho.org/api/root/2030.json"
+        },
+        "words": [
+            {
+                "id": 9973,
+                "uri": "https://sedra.bethmardutho.org/api/word/9973.json"
+            },
+            {
+                "id": 9947,
+                "uri": "https://sedra.bethmardutho.org/api/word/9947.json"
+            },
+            {
+                "id": 9998,
+                "uri": "https://sedra.bethmardutho.org/api/word/9998.json"
+            }
+        ],
+        "category": "idiom",
+        "kaylo": "p\u02bfal"
+    }
+]

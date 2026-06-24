@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0718\u071f\u0715",
+        "western": "\u0718\u071f\u0742\u0730\u0715\u0742",
+        "lexeme": {
+            "id": 1468,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1468.json"
+        },
+        "stem": "\u071f\u0715",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0645\u0646\u064a\u0629",
+                "\u0639\u0646\u062f\u0645\u0627, \u0628\u064a\u0646\u0645\u0627",
+                "\u0643\u064a\u0641\u064a\u0629",
+                "(\u062a\u0633\u0644\u064a\u0645\u064a\u0629) \u0645\u0647\u0645\u0627, \u0648\u0625\u0646, \u0648\u0644\u0648",
+                "(\u0633\u0628\u0628\u064a\u0629) \u0644\u0623\u0646\u0647, \u0628\u0645\u0627 \u0623\u0646\u0647"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u071f\u0730\u0715 \u071b\u0733\u0712</span> although.",
+                "when",
+                "after",
+                "while",
+                "where",
+                "when, while",
+                "<span class=\"selectableFont\">\u0717\u073d\u0718 \u071f\u0730\u0715 \u0717\u073d\u0718</span> the same",
+                "<span class=\"selectableFont\">\u0715\u073a\u071d\u0720\u0736\u0717 \u071f\u0730\u0715 \u0715\u073a\u071d\u0720\u0736\u0717</span> by the same"
+            ],
+            "fre": [
+                "concession, quoique, m\u00eame si",
+                "temps",
+                "cause, parce que, puisque",
+                "mani\u00e8re",
+                "lorsque, tandis que"
+            ]
+        },
+        "word": {
+            "id": 9734,
+            "uri": "https://sedra.bethmardutho.org/api/word/9734.json"
+        }
+    }
+]

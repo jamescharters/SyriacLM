@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0712\u072a\u0721\u0710",
+        "western": "\u0712\u072a\u0733\u0721\u0733\u0710",
+        "eastern": "\u0712\u072a\u0735\u0721\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7154,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7154.json"
+        },
+        "stem": "\u0712\u072a\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "erosion."
+            ]
+        },
+        "word": {
+            "id": 35907,
+            "uri": "https://sedra.bethmardutho.org/api/word/35907.json"
+        }
+    }
+]

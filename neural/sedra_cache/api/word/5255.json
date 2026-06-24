@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0717\u0718\u0726\u071f\u0710",
+        "western": "\u0717\u073d\u0718\u0726\u0741\u0733\u071f\u0742\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 805,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/805.json"
+        },
+        "stem": "\u0717\u0718\u0726\u071f\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0643\u0629, \u062a\u063a\u064a\u0631",
+                "\u0639\u0627\u062f\u0629, \u0645\u0639\u064a\u0634\u0629, \u0633\u0644\u0648\u0643",
+                "\u062f\u0648\u0631\u0627\u0646"
+            ],
+            "eng": [
+                "turning back",
+                "a going or turning back",
+                "deliberation",
+                "<span class=\"selectableFont\">\u0717\u073d\u0718\u0726\u0733\u071f \u0721\u0308</span><span class=\"selectableFont\">\u0736\u0720\u0736\u0710</span>reply.",
+                "manner of life",
+                "Gram. inflection, conjugation",
+                "manner of life",
+                "deliberation, controversy",
+                "ways",
+                "behavior",
+                "conduct",
+                "controversy"
+            ],
+            "fre": [
+                "mouvement, changement",
+                "habitude, genre de vie, conduite",
+                "r\u00e9volution ( des astres)"
+            ]
+        },
+        "word": {
+            "id": 5255,
+            "uri": "https://sedra.bethmardutho.org/api/word/5255.json"
+        }
+    }
+]

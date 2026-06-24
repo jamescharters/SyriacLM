@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 234,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/234.json"
+        },
+        "syriac": "\u0710\u0723\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "sergeant",
+                "prisoner",
+                "bound",
+                "prisoner",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0710\u0730\u0723\u073a\u071d\u072a\u0308</span><span class=\"selectableFont\">\u0736\u0710</span> prison."
+            ],
+            "Arabic": [
+                "\u0633\u062c\u064a\u0646",
+                "\u0623\u0633\u064a\u0631"
+            ],
+            "French": [
+                "prisonnier",
+                "captif"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 176,
+            "uri": "https://sedra.bethmardutho.org/api/root/176.json"
+        },
+        "words": [
+            {
+                "id": 1662,
+                "uri": "https://sedra.bethmardutho.org/api/word/1662.json"
+            },
+            {
+                "id": 1667,
+                "uri": "https://sedra.bethmardutho.org/api/word/1667.json"
+            },
+            {
+                "id": 1666,
+                "uri": "https://sedra.bethmardutho.org/api/word/1666.json"
+            },
+            {
+                "id": 1663,
+                "uri": "https://sedra.bethmardutho.org/api/word/1663.json"
+            },
+            {
+                "id": 22925,
+                "uri": "https://sedra.bethmardutho.org/api/word/22925.json"
+            },
+            {
+                "id": 1665,
+                "uri": "https://sedra.bethmardutho.org/api/word/1665.json"
+            },
+            {
+                "id": 1664,
+                "uri": "https://sedra.bethmardutho.org/api/word/1664.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

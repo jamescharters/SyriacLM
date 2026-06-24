@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u071f\u071d\u072c",
+        "western": "\u0710\u0730\u0718\u071f\u073a\u071d\u072c",
+        "number": "singular",
+        "lexeme": {
+            "id": 6747,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6747.json"
+        },
+        "stem": "\u0710\u0718\u071f\u071d\u072c",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u064a \u060c \u0623\u0639\u0646\u064a"
+            ],
+            "eng": [
+                "that is to say."
+            ],
+            "fre": [
+                "\u00e0 savoir, soit"
+            ]
+        },
+        "word": {
+            "id": 29832,
+            "uri": "https://sedra.bethmardutho.org/api/word/29832.json"
+        }
+    }
+]

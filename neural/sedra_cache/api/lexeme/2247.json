@@ -1,0 +1,73 @@
+[
+    {
+        "lexeme": {
+            "id": 2247,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2247.json"
+        },
+        "syriac": "\u0725\u0715\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0630\u0644, \u0644\u0627\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "reprendre, bl\u00e2mer",
+                "\u00a0"
+            ],
+            "English": [
+                "fault",
+                "complain",
+                "IIp to find fault (with), to condemn",
+                "IIIa to blame severely.",
+                "Ip",
+                "IIa to take a census",
+                "to assess",
+                "& <span class=\"selectableFont\">\u0725\u0715\u0736\u0720</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0725\u0715\u073d\u0718\u0720</span>, Ia to blame, to find fault"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1340,
+            "uri": "https://sedra.bethmardutho.org/api/root/1340.json"
+        },
+        "words": [
+            {
+                "id": 14984,
+                "uri": "https://sedra.bethmardutho.org/api/word/14984.json"
+            },
+            {
+                "id": 27253,
+                "uri": "https://sedra.bethmardutho.org/api/word/27253.json"
+            },
+            {
+                "id": 27252,
+                "uri": "https://sedra.bethmardutho.org/api/word/27252.json"
+            },
+            {
+                "id": 14983,
+                "uri": "https://sedra.bethmardutho.org/api/word/14983.json"
+            },
+            {
+                "id": 14982,
+                "uri": "https://sedra.bethmardutho.org/api/word/14982.json"
+            },
+            {
+                "id": 27255,
+                "uri": "https://sedra.bethmardutho.org/api/word/27255.json"
+            },
+            {
+                "id": 27254,
+                "uri": "https://sedra.bethmardutho.org/api/word/27254.json"
+            },
+            {
+                "id": 14986,
+                "uri": "https://sedra.bethmardutho.org/api/word/14986.json"
+            },
+            {
+                "id": 14985,
+                "uri": "https://sedra.bethmardutho.org/api/word/14985.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

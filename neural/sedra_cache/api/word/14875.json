@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0720\u0725\u0712\u0715\u0718\u072c\u0710",
+        "western": "\u0720\u0725\u0730\u0712\u0742\u0715\u0741\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2224,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2224.json"
+        },
+        "stem": "\u0725\u0712\u0715\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u062f\u0645\u0629",
+                "\u0639\u0628\u0627\u062f\u0629"
+            ],
+            "eng": [
+                "service.",
+                "slavery",
+                "bondage",
+                "service",
+                "servitude"
+            ],
+            "fre": [
+                "culte",
+                "service"
+            ]
+        },
+        "word": {
+            "id": 14875,
+            "uri": "https://sedra.bethmardutho.org/api/word/14875.json"
+        }
+    }
+]

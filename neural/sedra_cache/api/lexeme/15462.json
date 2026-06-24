@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15462,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15462.json"
+        },
+        "syriac": "\u0723\u0715\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "Ia to set in order, to arrange, set out",
+                "Ip to be set out",
+                "IIa to set in array.",
+                "to be drawn up in line (of battle)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2077,
+            "uri": "https://sedra.bethmardutho.org/api/root/2077.json"
+        },
+        "words": [
+            {
+                "id": 41948,
+                "uri": "https://sedra.bethmardutho.org/api/word/41948.json"
+            },
+            {
+                "id": 40805,
+                "uri": "https://sedra.bethmardutho.org/api/word/40805.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

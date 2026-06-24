@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15822,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15822.json"
+        },
+        "syriac": "\u0729\u0726",
+        "glosses": {
+            "English": [
+                "Ia to settle down, subside",
+                "IIa to brood over.",
+                "to congeal",
+                "to shrink"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2662,
+            "uri": "https://sedra.bethmardutho.org/api/root/2662.json"
+        },
+        "words": [
+            {
+                "id": 41692,
+                "uri": "https://sedra.bethmardutho.org/api/word/41692.json"
+            },
+            {
+                "id": 39809,
+                "uri": "https://sedra.bethmardutho.org/api/word/39809.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

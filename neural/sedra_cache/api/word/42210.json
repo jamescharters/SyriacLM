@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0721\u0722\u0710",
+        "western": "\u0721\u0736\u0722\u0308\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1813,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1813.json"
+        },
+        "stem": "\u0721\u0722\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0639\u0631, \u0648\u0628\u0631",
+                "\u0648\u062a\u0631",
+                "\u0639\u0635\u0628"
+            ],
+            "eng": [
+                "hair",
+                "string (of instrument).",
+                "hair",
+                "fur"
+            ],
+            "fre": [
+                "cheveu, poil",
+                "nerf",
+                "corde"
+            ]
+        },
+        "word": {
+            "id": 42210,
+            "uri": "https://sedra.bethmardutho.org/api/word/42210.json"
+        }
+    }
+]

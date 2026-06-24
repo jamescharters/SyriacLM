@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15488,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15488.json"
+        },
+        "syriac": "\u0720\u0726",
+        "glosses": {
+            "English": [
+                "Ia to join, add",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0720\u073a\u071d\u0726</span> to connect, subjoin.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0720\u073a\u071d\u0726</span> to be added, join oneself"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3002,
+            "uri": "https://sedra.bethmardutho.org/api/root/3002.json"
+        },
+        "words": [
+            {
+                "id": 41949,
+                "uri": "https://sedra.bethmardutho.org/api/word/41949.json"
+            },
+            {
+                "id": 40808,
+                "uri": "https://sedra.bethmardutho.org/api/word/40808.json"
+            },
+            {
+                "id": 40256,
+                "uri": "https://sedra.bethmardutho.org/api/word/40256.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

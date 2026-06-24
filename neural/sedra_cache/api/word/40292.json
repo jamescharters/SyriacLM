@@ -1,0 +1,51 @@
+[
+    {
+        "syriac": "\u072b\u0721\u0720\u071d",
+        "western": "\u072b\u0730\u0721\u0720\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14638,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14638.json"
+        },
+        "stem": "\u072b\u0721\u0720\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0636\u0649 (\u0627\u0644\u0648\u0642\u062a)",
+                "\u0639\u064a\u062f",
+                "\u0643\u0645\u0644 (\u0645\u0636), \u0623\u062a\u0645",
+                "\u0631\u0633\u0645 (\u0627\u0643\u0644\u064a\u0631\u064a\u0643\u064a\u0627\u064b)",
+                "\u0635\u0646\u0639, \u0623\u0642\u0627\u0645"
+            ],
+            "eng": [
+                "IVp to be fulfilled, made perfect",
+                "to be celebrated",
+                "Lit. Kth. to hold the censer (of deacons)",
+                "IVa to do completely, to accomplish, to perfect",
+                "to be given over to",
+                "to be full grown",
+                "to be consummated.",
+                "to be initiated (in)"
+            ],
+            "fre": [
+                "c\u00e9l\u00e9brer ( une f\u00eate)",
+                "ordonner ( un clerc)",
+                "faire , \u00e9tablir",
+                "achever, consommer",
+                "passer ( le temps)"
+            ]
+        },
+        "word": {
+            "id": 40292,
+            "uri": "https://sedra.bethmardutho.org/api/word/40292.json"
+        }
+    }
+]

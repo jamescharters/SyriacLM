@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 1039,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1039.json"
+        },
+        "syriac": "\u071a\u0720\u0718\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0631\u0633",
+                "\u0648\u0644\u064a\u0645\u0629"
+            ],
+            "French": [
+                "noces",
+                "repas"
+            ],
+            "English": [
+                "banquet",
+                "wedding",
+                "banquet, marriage feast."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 628,
+            "uri": "https://sedra.bethmardutho.org/api/root/628.json"
+        },
+        "words": [
+            {
+                "id": 7061,
+                "uri": "https://sedra.bethmardutho.org/api/word/7061.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

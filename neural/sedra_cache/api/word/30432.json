@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071b\u0712",
+        "western": "\u071b\u0733\u0712",
+        "number": "singular",
+        "lexeme": {
+            "id": 13058,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13058.json"
+        },
+        "stem": "\u071b\u0712",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0639\u0644\u0645",
+                "\u0643\u062b\u064a\u0631\u0627\u064b, \u062c\u062f\u0627\u064b"
+            ],
+            "eng": [
+                "very, very much, exceeding."
+            ],
+            "fre": [
+                "beaucoup, tr\u00e8s",
+                "informer"
+            ]
+        },
+        "word": {
+            "id": 30432,
+            "uri": "https://sedra.bethmardutho.org/api/word/30432.json"
+        }
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "syriac": "\u0718\u0710\u0725\u0720",
+        "western": "\u0718\u0730\u0710\u0725\u0736\u0720",
+        "tense": "imperative",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2316,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2316.json"
+        },
+        "stem": "\u0725\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0633\u0628",
+                "\u0639\u0644\u0649",
+                "\u0646\u062d\u0648, \u0625\u0644\u0649",
+                "\u0636\u062f",
+                "\u0642\u0631\u0628",
+                "\u0628\u062e\u0635\u0648\u0635",
+                "\u0628\u0633\u0628\u0628, \u0644\u0623\u062c\u0644",
+                "\u0632\u064a\u0627\u062f\u0629 \u0639\u0644\u0649",
+                "\u0645\u0646 \u0648\u0633\u0637, \u0645\u0627\u0628\u064a\u0646",
+                "\u062e\u0644\u0627\u0644",
+                "\u0627\u0628\u062a\u062f\u0623",
+                "\u0623\u062a\u0649, \u062a\u0642\u0631\u0628",
+                "\u0623\u062b\u0645\u0631"
+            ],
+            "eng": [
+                "to complain",
+                "IIIp.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0725\u0736\u0720</span> to bring in, to introduce",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0725\u0730\u0720\u0730\u0720</span> to be brought in, introduced",
+                "bring in",
+                "Ia to enter, go in",
+                "to produce",
+                "to make a pretext",
+                "to allege",
+                "enter"
+            ],
+            "fre": [
+                "au sujet de",
+                "pendant",
+                "pr\u00e8s de",
+                "vers \u00e0",
+                "venir, approcher",
+                "commencer (intr.)",
+                "contre",
+                "\u00e0 cause de, pour",
+                "sur",
+                "en plus de , outre",
+                "d&#39;apr\u00e8s, selon",
+                "par, \u00e0 travers",
+                "porter du fruit"
+            ]
+        },
+        "word": {
+            "id": 15390,
+            "uri": "https://sedra.bethmardutho.org/api/word/15390.json"
+        }
+    }
+]

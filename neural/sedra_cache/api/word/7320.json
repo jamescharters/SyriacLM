@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0723\u0715",
+        "western": "\u071a\u0723\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1100,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1100.json"
+        },
+        "stem": "\u071a\u0723\u0715",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "revile",
+                "upbraid",
+                "reproach"
+            ]
+        },
+        "word": {
+            "id": 7320,
+            "uri": "https://sedra.bethmardutho.org/api/word/7320.json"
+        }
+    }
+]

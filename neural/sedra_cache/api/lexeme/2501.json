@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2501,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2501.json"
+        },
+        "syriac": "\u0726\u071d\u0720\u071f\u0723",
+        "glosses": {
+            "English": [
+                "Felix"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1486,
+            "uri": "https://sedra.bethmardutho.org/api/root/1486.json"
+        },
+        "words": [
+            {
+                "id": 16336,
+                "uri": "https://sedra.bethmardutho.org/api/word/16336.json"
+            },
+            {
+                "id": 16337,
+                "uri": "https://sedra.bethmardutho.org/api/word/16337.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

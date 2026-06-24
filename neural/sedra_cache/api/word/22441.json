@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0718\u0720\u072c\u0718\u072a\u0710",
+        "western": "\u0718\u0730\u0720\u072c\u0742\u0730\u0718\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3381,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3381.json"
+        },
+        "stem": "\u072c\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "ox",
+                "bull, ox.",
+                "steer"
+            ]
+        },
+        "word": {
+            "id": 22441,
+            "uri": "https://sedra.bethmardutho.org/api/word/22441.json"
+        }
+    }
+]

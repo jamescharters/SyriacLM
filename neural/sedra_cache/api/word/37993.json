@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u0710\u0715\u0722\u0718\u072c\u0710",
+        "western": "\u072b\u073a\u0710\u0715\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8179,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8179.json"
+        },
+        "stem": "\u072b\u0710\u0715\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u064a\u0637\u0627\u0646\u064a\u0629"
+            ],
+            "eng": [
+                "demonic nature."
+            ],
+            "fre": [
+                "nature diabolique"
+            ]
+        },
+        "word": {
+            "id": 37993,
+            "uri": "https://sedra.bethmardutho.org/api/word/37993.json"
+        }
+    }
+]

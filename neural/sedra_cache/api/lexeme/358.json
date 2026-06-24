@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 358,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/358.json"
+        },
+        "syriac": "\u0712\u0719",
+        "glosses": {
+            "English": [
+                "IIa",
+                "spoil",
+                "plunder",
+                "Ip",
+                "IIIa to give over to plunder.",
+                "Ia to plunder, take spoil"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 256,
+            "uri": "https://sedra.bethmardutho.org/api/root/256.json"
+        },
+        "words": [
+            {
+                "id": 2472,
+                "uri": "https://sedra.bethmardutho.org/api/word/2472.json"
+            },
+            {
+                "id": 2471,
+                "uri": "https://sedra.bethmardutho.org/api/word/2471.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

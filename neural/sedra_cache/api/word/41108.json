@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0725\u072a\u0726",
+        "western": "\u0725\u0730\u072a\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15200,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15200.json"
+        },
+        "stem": "\u0725\u072a\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0635\u0631\u0641 (\u0645\u0636)"
+            ],
+            "eng": [
+                "IIa to change money.",
+                "change"
+            ],
+            "fre": [
+                "changer"
+            ]
+        },
+        "word": {
+            "id": 41108,
+            "uri": "https://sedra.bethmardutho.org/api/word/41108.json"
+        }
+    }
+]

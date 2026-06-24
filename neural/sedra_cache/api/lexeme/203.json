@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 203,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/203.json"
+        },
+        "syriac": "\u0710\u0723\u0718\u071b\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0631\u0627\u0647\u0629, \u0637\u0645\u0627\u0639\u0629"
+            ],
+            "French": [
+                "intemp\u00e9rance, avidit\u00e9"
+            ],
+            "English": [
+                "luxury",
+                "profligacy",
+                "intemperance, licentiousness."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f04\u03c3\u03c9\u03c4\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 151,
+            "uri": "https://sedra.bethmardutho.org/api/root/151.json"
+        },
+        "words": [
+            {
+                "id": 50348,
+                "uri": "https://sedra.bethmardutho.org/api/word/50348.json"
+            },
+            {
+                "id": 1516,
+                "uri": "https://sedra.bethmardutho.org/api/word/1516.json"
+            },
+            {
+                "id": 1515,
+                "uri": "https://sedra.bethmardutho.org/api/word/1515.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

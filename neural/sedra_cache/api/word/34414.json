@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0717\u071d\u072a\u0710",
+        "western": "\u0721\u0717\u073a\u071d\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11074,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11074.json"
+        },
+        "stem": "\u0721\u0717\u071d\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0627\u0644\u0645"
+            ],
+            "eng": [
+                "skilful, trained, practiced, skilled."
+            ],
+            "fre": [
+                "savant"
+            ]
+        },
+        "word": {
+            "id": 34414,
+            "uri": "https://sedra.bethmardutho.org/api/word/34414.json"
+        }
+    }
+]

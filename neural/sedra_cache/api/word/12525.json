@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0715\u071d\u0715\u0710",
+        "western": "\u0722\u0715\u073a\u071d\u0715\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1911,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1911.json"
+        },
+        "stem": "\u0722\u0715\u071d\u0715\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u0630\u0648\u0644",
+                "\u0642\u0628\u064a\u062d",
+                "\u0646\u062c\u0633"
+            ],
+            "eng": [
+                "foul",
+                "abominable",
+                "unclean, foul, abominable, rejected."
+            ],
+            "fre": [
+                "rejet\u00e9",
+                "immonde",
+                "abominable"
+            ]
+        },
+        "word": {
+            "id": 12525,
+            "uri": "https://sedra.bethmardutho.org/api/word/12525.json"
+        }
+    }
+]

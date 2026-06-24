@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15361,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15361.json"
+        },
+        "syriac": "\u071a\u0729\u0719",
+        "glosses": {
+            "English": [
+                "Same as \u071a\u0729\u0730\u071c, to bound;",
+                "Ia to leap, jump."
+            ],
+            "Arabic": [
+                "\u0648\u062b\u0628"
+            ],
+            "French": [
+                "bondir"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2469,
+            "uri": "https://sedra.bethmardutho.org/api/root/2469.json"
+        },
+        "words": [
+            {
+                "id": 45987,
+                "uri": "https://sedra.bethmardutho.org/api/word/45987.json"
+            },
+            {
+                "id": 41873,
+                "uri": "https://sedra.bethmardutho.org/api/word/41873.json"
+            },
+            {
+                "id": 40892,
+                "uri": "https://sedra.bethmardutho.org/api/word/40892.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

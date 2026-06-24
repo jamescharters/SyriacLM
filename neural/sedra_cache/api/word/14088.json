@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0712\u0723\u071d\u0721",
+        "western": "\u0718\u0712\u0742\u0730\u0723\u071d\u0733\u0721",
+        "state": "construct",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2115,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2115.json"
+        },
+        "stem": "\u0723\u071d\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "laying on of hands",
+                "<span class=\"selectableFont\">\u0723\u071d\u0733\u0721\u0308\u0736\u0710</span> plural points",
+                "planting",
+                "laying down",
+                "creed",
+                "position, place",
+                "composing",
+                "proposition, statement",
+                "formulation"
+            ]
+        },
+        "word": {
+            "id": 14088,
+            "uri": "https://sedra.bethmardutho.org/api/word/14088.json"
+        }
+    }
+]

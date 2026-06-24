@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0725\u0715\u0725\u0715",
+        "western": "\u0725\u0730\u0715\u0725\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14659,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14659.json"
+        },
+        "stem": "\u0725\u0715\u0725\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0627\u062d\u062a\u0641\u0644 \u0628\u0639\u064a\u062f",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVp.",
+                "IVa to celebrate, to keep feast"
+            ],
+            "fre": [
+                "c\u00e9l\u00e9brer une f\u00eate\u2026",
+                "c\u00e9l\u00e9brer une f\u00eate",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40283,
+            "uri": "https://sedra.bethmardutho.org/api/word/40283.json"
+        }
+    }
+]

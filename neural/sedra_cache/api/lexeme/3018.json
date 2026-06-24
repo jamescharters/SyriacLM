@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 3018,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3018.json"
+        },
+        "syriac": "\u072a\u071d\u072b\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0648\u0644",
+                "\u0631\u0626\u064a\u0633",
+                "\u0631\u0626\u064a\u0633",
+                "\u0644\u0647 \u062b\u0645\u0646, \u0644\u0647 \u0642\u064a\u0645\u0629"
+            ],
+            "French": [
+                "premier",
+                "principal",
+                "chef",
+                "remarquable, de valeur"
+            ],
+            "English": [
+                "best",
+                "choicest",
+                "excellent",
+                "best, chief."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1760,
+            "uri": "https://sedra.bethmardutho.org/api/root/1760.json"
+        },
+        "words": [
+            {
+                "id": 19695,
+                "uri": "https://sedra.bethmardutho.org/api/word/19695.json"
+            },
+            {
+                "id": 19694,
+                "uri": "https://sedra.bethmardutho.org/api/word/19694.json"
+            },
+            {
+                "id": 19693,
+                "uri": "https://sedra.bethmardutho.org/api/word/19693.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

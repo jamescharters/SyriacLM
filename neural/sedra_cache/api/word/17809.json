@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0729\u0715\u0720\u0710",
+        "western": "\u0729\u0715\u0742\u0733\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2740,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2740.json"
+        },
+        "stem": "\u0729\u0715\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0648\u0647\u0629 (\u0625\u0646\u0627\u0621)",
+                "\u0642\u0641\u0627, \u0631\u0642\u0628\u0629",
+                "\u0636\u0641\u0629"
+            ],
+            "eng": [
+                "neck",
+                "nape",
+                "neck."
+            ],
+            "fre": [
+                "nuque, cou",
+                "rive",
+                "col (de vase)"
+            ]
+        },
+        "word": {
+            "id": 17809,
+            "uri": "https://sedra.bethmardutho.org/api/word/17809.json"
+        }
+    }
+]

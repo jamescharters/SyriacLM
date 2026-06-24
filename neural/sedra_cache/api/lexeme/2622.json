@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2622,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2622.json"
+        },
+        "syriac": "\u0726\u072a\u072c\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062a\u0627\u062a"
+            ],
+            "French": [
+                "miette"
+            ],
+            "English": [
+                "crumb",
+                "fragment",
+                "crumbs, fragments."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1555,
+            "uri": "https://sedra.bethmardutho.org/api/root/1555.json"
+        },
+        "words": [
+            {
+                "id": 22839,
+                "uri": "https://sedra.bethmardutho.org/api/word/22839.json"
+            },
+            {
+                "id": 17090,
+                "uri": "https://sedra.bethmardutho.org/api/word/17090.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "ethpa\u02bf\u02bfal"
+    }
+]

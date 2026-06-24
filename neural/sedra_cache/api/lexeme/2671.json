@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 2671,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2671.json"
+        },
+        "syriac": "\u0728\u0718\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0648\u0645"
+            ],
+            "French": [
+                "je\u00fbne"
+            ],
+            "English": [
+                "fast",
+                "fast, abstinence",
+                "<span class=\"selectableFont\">\u0728\u0730\u0718\u0721\u0733\u0710 \u072a\u0730\u0712\u0733\u0710</span> Lent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1582,
+            "uri": "https://sedra.bethmardutho.org/api/root/1582.json"
+        },
+        "words": [
+            {
+                "id": 17404,
+                "uri": "https://sedra.bethmardutho.org/api/word/17404.json"
+            },
+            {
+                "id": 17403,
+                "uri": "https://sedra.bethmardutho.org/api/word/17403.json"
+            },
+            {
+                "id": 17402,
+                "uri": "https://sedra.bethmardutho.org/api/word/17402.json"
+            },
+            {
+                "id": 17401,
+                "uri": "https://sedra.bethmardutho.org/api/word/17401.json"
+            },
+            {
+                "id": 17405,
+                "uri": "https://sedra.bethmardutho.org/api/word/17405.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

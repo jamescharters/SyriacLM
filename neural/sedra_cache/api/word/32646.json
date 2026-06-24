@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0719\u072a\u071d\u0726\u072c\u0710",
+        "western": "\u0719\u0733\u072a\u073a\u071d\u0726\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10526,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10526.json"
+        },
+        "stem": "\u0719\u072a\u071d\u0726\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0637\u0631 \u0634\u062f\u064a\u062f"
+            ],
+            "eng": [
+                "downpour (of rain)."
+            ],
+            "fre": [
+                "pluie violente"
+            ]
+        },
+        "word": {
+            "id": 32646,
+            "uri": "https://sedra.bethmardutho.org/api/word/32646.json"
+        }
+    }
+]

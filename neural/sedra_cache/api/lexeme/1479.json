@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1479,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1479.json"
+        },
+        "syriac": "\u071f\u0718\u0712\u0710",
+        "glosses": {
+            "English": [
+                "cup",
+                "thorn",
+                "thorn",
+                "cup."
+            ],
+            "Arabic": [
+                "\u0643\u0623\u0633",
+                "\u0634\u0648\u0643"
+            ],
+            "French": [
+                "coupe",
+                "\u00e9pine"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 876,
+            "uri": "https://sedra.bethmardutho.org/api/root/876.json"
+        },
+        "words": [
+            {
+                "id": 22799,
+                "uri": "https://sedra.bethmardutho.org/api/word/22799.json"
+            },
+            {
+                "id": 9763,
+                "uri": "https://sedra.bethmardutho.org/api/word/9763.json"
+            },
+            {
+                "id": 9764,
+                "uri": "https://sedra.bethmardutho.org/api/word/9764.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

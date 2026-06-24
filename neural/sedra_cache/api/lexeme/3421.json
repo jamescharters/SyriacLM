@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 3421,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3421.json"
+        },
+        "syriac": "\u072c\u0723\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Thasos"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1985,
+            "uri": "https://sedra.bethmardutho.org/api/root/1985.json"
+        },
+        "words": [
+            {
+                "id": 22585,
+                "uri": "https://sedra.bethmardutho.org/api/word/22585.json"
+            },
+            {
+                "id": 22586,
+                "uri": "https://sedra.bethmardutho.org/api/word/22586.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

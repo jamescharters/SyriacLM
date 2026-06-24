@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0715\u072a\u0710",
+        "western": "\u0715\u0730\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7321,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7321.json"
+        },
+        "stem": "\u0715\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0631\u0643\u0629, \u062d\u0631\u0628"
+            ],
+            "eng": [
+                "wrestling match.",
+                "fight"
+            ],
+            "fre": [
+                "combat , guerre"
+            ]
+        },
+        "word": {
+            "id": 33795,
+            "uri": "https://sedra.bethmardutho.org/api/word/33795.json"
+        }
+    }
+]

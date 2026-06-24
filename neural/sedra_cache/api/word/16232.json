@@ -1,0 +1,53 @@
+[
+    {
+        "syriac": "\u0720\u0726\u0718\u0721\u071f",
+        "western": "\u0720\u0726\u0742\u073d\u0718\u0721\u0733\u071f\u0742",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2465,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2465.json"
+        },
+        "stem": "\u0726\u0718\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0648\u0647\u0629",
+                "\u0645\u0646\u0642\u0627\u0631",
+                "\u0644\u0642\u0645\u0629",
+                "\u062d\u062f",
+                "\u0645\u0633\u0627\u062d\u0629",
+                "\u0641\u0645",
+                "\u0637\u0631\u0641"
+            ],
+            "eng": [
+                "mouth",
+                "edge",
+                "opening.",
+                "mouth"
+            ],
+            "fre": [
+                "surface",
+                "bouche",
+                "bord",
+                "tranchant",
+                "orifice",
+                "bec",
+                "bouch\u00e9e"
+            ]
+        },
+        "word": {
+            "id": 16232,
+            "uri": "https://sedra.bethmardutho.org/api/word/16232.json"
+        }
+    }
+]

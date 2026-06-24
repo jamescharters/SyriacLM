@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 309,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/309.json"
+        },
+        "syriac": "\u0710\u072b\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0645\u0649"
+            ],
+            "French": [
+                "fi\u00e8vre"
+            ],
+            "English": [
+                "fever",
+                "fever."
+            ]
+        },
+        "etymologies": {
+            "Hebrew": [
+                "\u05d0\u05b6\u05e9\u05c1\u05bc\u05b8\u05d0"
+            ]
+        },
+        "root": {
+            "id": 229,
+            "uri": "https://sedra.bethmardutho.org/api/root/229.json"
+        },
+        "words": [
+            {
+                "id": 1999,
+                "uri": "https://sedra.bethmardutho.org/api/word/1999.json"
+            },
+            {
+                "id": 2001,
+                "uri": "https://sedra.bethmardutho.org/api/word/2001.json"
+            },
+            {
+                "id": 2002,
+                "uri": "https://sedra.bethmardutho.org/api/word/2002.json"
+            },
+            {
+                "id": 2000,
+                "uri": "https://sedra.bethmardutho.org/api/word/2000.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

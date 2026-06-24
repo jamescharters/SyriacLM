@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071f\u0710\u0712",
+        "western": "\u071f\u0736\u0710\u0712",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15780,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15780.json"
+        },
+        "stem": "\u071f\u0710\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "IIIa to hurt, cause pain to.",
+                "suffer",
+                "grieve",
+                "Ia to feel pain, be sorry, grieve",
+                "Ip to grow thin",
+                "IIp to be hurt"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 9670,
+            "uri": "https://sedra.bethmardutho.org/api/word/9670.json"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u0725\u0721\u0715\u0722\u0710",
+        "western": "\u0721\u0730\u0725\u0721\u0715\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2339,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2339.json"
+        },
+        "stem": "\u0721\u0725\u0721\u0715\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0645\u062f (\u0645\u062a\u0640)"
+            ],
+            "eng": [
+                "baptizer",
+                "baptizer, baptist."
+            ],
+            "fre": [
+                "baptiseur"
+            ]
+        },
+        "word": {
+            "id": 15607,
+            "uri": "https://sedra.bethmardutho.org/api/word/15607.json"
+        }
+    }
+]

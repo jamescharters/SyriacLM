@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2944,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2944.json"
+        },
+        "syriac": "\u072a\u0715\u0718\u071d\u0710",
+        "glosses": {
+            "English": [
+                "instructor",
+                "traveler",
+                "instructor",
+                "fluid, liquid.",
+                "chastiser"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1731,
+            "uri": "https://sedra.bethmardutho.org/api/root/1731.json"
+        },
+        "words": [
+            {
+                "id": 19217,
+                "uri": "https://sedra.bethmardutho.org/api/word/19217.json"
+            },
+            {
+                "id": 19218,
+                "uri": "https://sedra.bethmardutho.org/api/word/19218.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

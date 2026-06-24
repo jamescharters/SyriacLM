@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 7864,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7864.json"
+        },
+        "syriac": "\u071d\u072a\u0729\u0722\u0710",
+        "glosses": {
+            "English": [
+                "yellowish",
+                "mildew, blight",
+                "pallor",
+                "jaundice."
+            ],
+            "Arabic": [
+                "\u0634\u062d\u0648\u0628",
+                "\u0623\u0628\u0648 \u0635\u0641\u0627\u0631",
+                "\u064a\u0631\u0642\u0627\u0646",
+                "\u0623\u0635\u0641\u0631"
+            ],
+            "French": [
+                "p\u00e2leur",
+                "jaunisse",
+                "chlorose",
+                "jaune"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f34\u03ba\u03c4\u03b5\u03c1\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 33658,
+                "uri": "https://sedra.bethmardutho.org/api/word/33658.json"
+            }
+        ]
+    }
+]

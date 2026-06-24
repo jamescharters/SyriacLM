@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15731,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15731.json"
+        },
+        "syriac": "\u0729\u0726\u0715",
+        "glosses": {
+            "English": [
+                "IIIa to wrinkle.",
+                "to roll up",
+                "Ip to be shriveled",
+                "to bristle",
+                "& <span class=\"selectableFont\">\u0729\u0726\u073d\u0718\u0715</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0729\u0726\u073d\u0718\u0715</span>, Ia to shrink, contract"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2133,
+            "uri": "https://sedra.bethmardutho.org/api/root/2133.json"
+        },
+        "words": [
+            {
+                "id": 41972,
+                "uri": "https://sedra.bethmardutho.org/api/word/41972.json"
+            },
+            {
+                "id": 40547,
+                "uri": "https://sedra.bethmardutho.org/api/word/40547.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

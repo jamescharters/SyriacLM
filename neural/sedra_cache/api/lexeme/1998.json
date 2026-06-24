@@ -1,0 +1,60 @@
+[
+    {
+        "lexeme": {
+            "id": 1998,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1998.json"
+        },
+        "syriac": "\u0722\u0726\u0728",
+        "glosses": {
+            "English": [
+                "IIp to be stirred up, shaken",
+                "shake off",
+                "to lay eggs",
+                "Ia to shake, toss",
+                "to shake off",
+                "to be emptied out, purged.",
+                "to purge, empty out",
+                "to be emptied",
+                "to evacuate",
+                "Ip to be shaken",
+                "IIa to shatter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1193,
+            "uri": "https://sedra.bethmardutho.org/api/root/1193.json"
+        },
+        "words": [
+            {
+                "id": 13111,
+                "uri": "https://sedra.bethmardutho.org/api/word/13111.json"
+            },
+            {
+                "id": 26642,
+                "uri": "https://sedra.bethmardutho.org/api/word/26642.json"
+            },
+            {
+                "id": 26641,
+                "uri": "https://sedra.bethmardutho.org/api/word/26641.json"
+            },
+            {
+                "id": 13115,
+                "uri": "https://sedra.bethmardutho.org/api/word/13115.json"
+            },
+            {
+                "id": 13114,
+                "uri": "https://sedra.bethmardutho.org/api/word/13114.json"
+            },
+            {
+                "id": 13113,
+                "uri": "https://sedra.bethmardutho.org/api/word/13113.json"
+            },
+            {
+                "id": 13112,
+                "uri": "https://sedra.bethmardutho.org/api/word/13112.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

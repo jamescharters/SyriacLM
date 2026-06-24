@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15385,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15385.json"
+        },
+        "syriac": "\u0723\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u062f\u0633 (\u0645\u0636), \u0644\u0645",
+                "\u0643\u062b\u0631",
+                "\u00a0"
+            ],
+            "French": [
+                "entasser, ramasser",
+                "abonder",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp to be taken up (with something), to be occupied.",
+                "Ip",
+                "Ia to heap up, to collect, to accumulate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2423,
+            "uri": "https://sedra.bethmardutho.org/api/root/2423.json"
+        },
+        "words": [
+            {
+                "id": 41979,
+                "uri": "https://sedra.bethmardutho.org/api/word/41979.json"
+            },
+            {
+                "id": 40245,
+                "uri": "https://sedra.bethmardutho.org/api/word/40245.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

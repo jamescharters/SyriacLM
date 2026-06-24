@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725",
+        "western": "\u0725",
+        "number": "singular",
+        "lexeme": {
+            "id": 15916,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15916.json"
+        },
+        "stem": "\u0725",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "70"
+            ],
+            "eng": [
+                "sixteenth letter of the alphabet (\u201be)",
+                "numerical value: 70."
+            ],
+            "fre": [
+                "70"
+            ]
+        },
+        "word": {
+            "id": 29768,
+            "uri": "https://sedra.bethmardutho.org/api/word/29768.json"
+        }
+    }
+]

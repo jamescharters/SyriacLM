@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u071b\u0721",
+        "western": "\u0710\u071b\u0721",
+        "eastern": "\u0710\u071b\u0721",
+        "lexeme": {
+            "id": 16453,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16453.json"
+        },
+        "stem": "\u0710\u071b\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "to close"
+            ],
+            "eng": [
+                "choked up"
+            ]
+        },
+        "word": {
+            "id": 42827,
+            "uri": "https://sedra.bethmardutho.org/api/word/42827.json"
+        }
+    }
+]

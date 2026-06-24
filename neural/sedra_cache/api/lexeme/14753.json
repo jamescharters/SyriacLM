@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14753.json"
+        },
+        "syriac": "\u071b\u072a\u071b\u0725",
+        "glosses": {
+            "English": [
+                "IVp to be made to boil, seethe up.",
+                "IVa to seethe, swell, surge"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2488,
+            "uri": "https://sedra.bethmardutho.org/api/root/2488.json"
+        },
+        "words": [
+            {
+                "id": 40591,
+                "uri": "https://sedra.bethmardutho.org/api/word/40591.json"
+            },
+            {
+                "id": 40076,
+                "uri": "https://sedra.bethmardutho.org/api/word/40076.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

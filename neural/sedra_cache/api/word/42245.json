@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u0710\u072a\u0723",
+        "western": "\u0710\u0733\u0710\u0736\u072a\u0308\u0730\u0723\u200f",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1.json"
+        },
+        "stem": "\u0710\u0710\u072a",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u064a\u0626\u0629",
+                "\u0647\u0648\u0627\u0621"
+            ],
+            "eng": [
+                "air",
+                "air\u200f."
+            ],
+            "fre": [
+                "aspect",
+                "air"
+            ]
+        },
+        "word": {
+            "id": 42245,
+            "uri": "https://sedra.bethmardutho.org/api/word/42245.json"
+        }
+    }
+]

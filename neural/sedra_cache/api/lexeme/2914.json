@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 2914,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2914.json"
+        },
+        "syriac": "\u072a\u0712\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0634\u0631\u0629 \u0622\u0644\u0627\u0641"
+            ],
+            "French": [
+                "myriade, dix mille"
+            ],
+            "English": [
+                "myriad",
+                "thousand"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1722,
+            "uri": "https://sedra.bethmardutho.org/api/root/1722.json"
+        },
+        "words": [
+            {
+                "id": 18964,
+                "uri": "https://sedra.bethmardutho.org/api/word/18964.json"
+            },
+            {
+                "id": 18963,
+                "uri": "https://sedra.bethmardutho.org/api/word/18963.json"
+            },
+            {
+                "id": 22850,
+                "uri": "https://sedra.bethmardutho.org/api/word/22850.json"
+            },
+            {
+                "id": 27852,
+                "uri": "https://sedra.bethmardutho.org/api/word/27852.json"
+            },
+            {
+                "id": 18966,
+                "uri": "https://sedra.bethmardutho.org/api/word/18966.json"
+            },
+            {
+                "id": 18965,
+                "uri": "https://sedra.bethmardutho.org/api/word/18965.json"
+            },
+            {
+                "id": 18967,
+                "uri": "https://sedra.bethmardutho.org/api/word/18967.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

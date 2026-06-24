@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15627,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15627.json"
+        },
+        "syriac": "\u0715\u0717\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0645\u0646"
+            ],
+            "French": [
+                "devenir gras"
+            ],
+            "English": [
+                "IIa to make fat, fertile",
+                "to enrich.",
+                "IIIa to make fat",
+                "to anoint",
+                "IIp to anoint oneself, to be anointed",
+                "Ip to be fattened",
+                "& <span class=\"selectableFont\">\u0715\u0717\u0730\u0722</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u0717\u0730\u0722</span>, Ia to grow fat"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2362,
+            "uri": "https://sedra.bethmardutho.org/api/root/2362.json"
+        },
+        "words": [
+            {
+                "id": 42059,
+                "uri": "https://sedra.bethmardutho.org/api/word/42059.json"
+            },
+            {
+                "id": 41178,
+                "uri": "https://sedra.bethmardutho.org/api/word/41178.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

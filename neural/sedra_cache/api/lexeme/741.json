@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 741,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/741.json"
+        },
+        "syriac": "\u0715\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0648\u062d \u0633\u0645\u064a\u0643",
+                "\u062f\u0641",
+                "\u0637\u0627\u0648\u0644\u0629",
+                "\u0635\u0641\u062d\u0629"
+            ],
+            "French": [
+                "madrier",
+                "planche",
+                "table",
+                "page"
+            ],
+            "English": [
+                "plank",
+                "board",
+                "tablet",
+                "planks",
+                "board, tablet",
+                "leaf (of book), page."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 467,
+            "uri": "https://sedra.bethmardutho.org/api/root/467.json"
+        },
+        "words": [
+            {
+                "id": 4807,
+                "uri": "https://sedra.bethmardutho.org/api/word/4807.json"
+            },
+            {
+                "id": 4806,
+                "uri": "https://sedra.bethmardutho.org/api/word/4806.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

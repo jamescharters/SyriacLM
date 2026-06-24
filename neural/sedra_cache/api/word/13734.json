@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0723\u0713\u071d\u0710\u0718\u072c\u0710",
+        "western": "\u0723\u0730\u0713\u0741\u073a\u071d\u0710\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8326,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8326.json"
+        },
+        "stem": "\u0723\u0713\u071d\u0710\u0718\u072c\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u0639",
+                "\u0643\u062b\u0631\u0629"
+            ],
+            "eng": [
+                "multitude",
+                "abundance.",
+                "abundance",
+                "a large number"
+            ],
+            "fre": [
+                "pluriel",
+                "multitude"
+            ]
+        },
+        "word": {
+            "id": 13734,
+            "uri": "https://sedra.bethmardutho.org/api/word/13734.json"
+        }
+    }
+]

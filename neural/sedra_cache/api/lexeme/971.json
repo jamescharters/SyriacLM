@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 971,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/971.json"
+        },
+        "syriac": "\u072c\u071a\u0718\u071d\u072c\u0710",
+        "glosses": {
+            "English": [
+                "example",
+                "appearance",
+                "demonstration",
+                "example, demonstration.",
+                "manifestation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 601,
+            "uri": "https://sedra.bethmardutho.org/api/root/601.json"
+        },
+        "words": [
+            {
+                "id": 6388,
+                "uri": "https://sedra.bethmardutho.org/api/word/6388.json"
+            },
+            {
+                "id": 6386,
+                "uri": "https://sedra.bethmardutho.org/api/word/6386.json"
+            },
+            {
+                "id": 5210,
+                "uri": "https://sedra.bethmardutho.org/api/word/5210.json"
+            },
+            {
+                "id": 6389,
+                "uri": "https://sedra.bethmardutho.org/api/word/6389.json"
+            },
+            {
+                "id": 6387,
+                "uri": "https://sedra.bethmardutho.org/api/word/6387.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

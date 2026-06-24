@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 2536,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2536.json"
+        },
+        "syriac": "\u0726\u0720\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0642\u0628, \u063a\u0631\u0632",
+                "\u0641\u062a\u0634 \u0639\u0644\u0649"
+            ],
+            "French": [
+                "percer, enfoncer",
+                "rechercher"
+            ],
+            "English": [
+                "IIa to force a way in",
+                "break through",
+                "to break into",
+                "to undermine",
+                "to fathom",
+                "to pierce.",
+                "Ip",
+                "Ia to break through (a wall)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1503,
+            "uri": "https://sedra.bethmardutho.org/api/root/1503.json"
+        },
+        "words": [
+            {
+                "id": 16552,
+                "uri": "https://sedra.bethmardutho.org/api/word/16552.json"
+            },
+            {
+                "id": 16550,
+                "uri": "https://sedra.bethmardutho.org/api/word/16550.json"
+            },
+            {
+                "id": 27621,
+                "uri": "https://sedra.bethmardutho.org/api/word/27621.json"
+            },
+            {
+                "id": 27620,
+                "uri": "https://sedra.bethmardutho.org/api/word/27620.json"
+            },
+            {
+                "id": 16553,
+                "uri": "https://sedra.bethmardutho.org/api/word/16553.json"
+            },
+            {
+                "id": 16551,
+                "uri": "https://sedra.bethmardutho.org/api/word/16551.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

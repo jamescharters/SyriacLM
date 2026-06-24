@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0722\u072a\u071a\u072b",
+        "western": "\u0722\u0736\u072a\u071a\u0730\u072b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15864,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15864.json"
+        },
+        "stem": "\u072a\u071a\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u062d\u0631\u0643",
+                "\u0632\u062d\u0641"
+            ],
+            "eng": [
+                "IIIa to move",
+                "to stir up",
+                "to make to swarm",
+                "to swarm",
+                "IIIa to move",
+                "to make to swarm",
+                "creep",
+                "Ia to creep",
+                "to germinate",
+                "Ia to creep",
+                "to insinuate.",
+                "to germinate",
+                "to insinuate.",
+                "to stir up",
+                "to swarm"
+            ],
+            "fre": [
+                "se mouvoir",
+                "ramper"
+            ]
+        },
+        "word": {
+            "id": 42113,
+            "uri": "https://sedra.bethmardutho.org/api/word/42113.json"
+        }
+    }
+]

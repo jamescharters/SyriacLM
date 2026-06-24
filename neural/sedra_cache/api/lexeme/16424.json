@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 16424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16424.json"
+        },
+        "syriac": "\u0715\u0718\u0728\u0710",
+        "glosses": {
+            "English": [
+                "scoria",
+                "dross of iron",
+                "water in which iron is plunged"
+            ]
+        },
+        "etymologies": {
+            "Persian": [
+                "\u062f\u064e\u0648\u0635",
+                "\u062f\u0648\u0633"
+            ]
+        },
+        "words": [
+            {
+                "id": 47739,
+                "uri": "https://sedra.bethmardutho.org/api/word/47739.json"
+            },
+            {
+                "id": 42798,
+                "uri": "https://sedra.bethmardutho.org/api/word/42798.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

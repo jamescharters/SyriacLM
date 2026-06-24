@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0721\u0729\u0715\u0721\u0718\u072c\u0710",
+        "western": "\u0721\u0729\u0730\u0715\u0741\u0721\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2742,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2742.json"
+        },
+        "stem": "\u0721\u0729\u0715\u0721\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "foreknowledge",
+                "priority",
+                "<span class=\"selectableFont\">\u0721\u0729\u0730\u0715\u0721\u073d\u0718\u072c</span> pre-, fore-.",
+                "precedence"
+            ]
+        },
+        "word": {
+            "id": 17815,
+            "uri": "https://sedra.bethmardutho.org/api/word/17815.json"
+        }
+    }
+]

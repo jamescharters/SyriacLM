@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 901,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/901.json"
+        },
+        "syriac": "\u0719\u0722\u071d\u072c\u0710",
+        "glosses": {
+            "English": [
+                "harlot",
+                "prostitute"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 572,
+            "uri": "https://sedra.bethmardutho.org/api/root/572.json"
+        },
+        "words": [
+            {
+                "id": 5825,
+                "uri": "https://sedra.bethmardutho.org/api/word/5825.json"
+            },
+            {
+                "id": 5822,
+                "uri": "https://sedra.bethmardutho.org/api/word/5822.json"
+            },
+            {
+                "id": 5821,
+                "uri": "https://sedra.bethmardutho.org/api/word/5821.json"
+            },
+            {
+                "id": 5820,
+                "uri": "https://sedra.bethmardutho.org/api/word/5820.json"
+            },
+            {
+                "id": 5824,
+                "uri": "https://sedra.bethmardutho.org/api/word/5824.json"
+            },
+            {
+                "id": 5823,
+                "uri": "https://sedra.bethmardutho.org/api/word/5823.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

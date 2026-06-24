@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0721\u071f\u0722\u071d\u0729\u0718",
+        "western": "\u0721\u0736\u071f\u0730\u0722\u073a\u071d\u0308\u0729\u073d\u0718",
+        "number": "singular",
+        "lexeme": {
+            "id": 12690,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12690.json"
+        },
+        "stem": "\u0721\u071f\u0722\u071d\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0647\u0646\u062f\u0633"
+            ],
+            "eng": [
+                "engineer, Kth. mechanic."
+            ],
+            "fre": [
+                "ing\u00e9nieur"
+            ]
+        },
+        "word": {
+            "id": 32824,
+            "uri": "https://sedra.bethmardutho.org/api/word/32824.json"
+        }
+    }
+]

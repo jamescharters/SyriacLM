@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 2408,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2408.json"
+        },
+        "syriac": "\u0721\u0725\u072a\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0631\u0628, \u0645\u063a\u0631\u0628",
+                "\u0631\u064a\u062d \u063a\u0631\u0628\u064a\u0629"
+            ],
+            "French": [
+                "occident, ouest",
+                "vent d&#39;ouest"
+            ],
+            "English": [
+                "setting of sun",
+                "west",
+                "west."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1426,
+            "uri": "https://sedra.bethmardutho.org/api/root/1426.json"
+        },
+        "words": [
+            {
+                "id": 15954,
+                "uri": "https://sedra.bethmardutho.org/api/word/15954.json"
+            },
+            {
+                "id": 15953,
+                "uri": "https://sedra.bethmardutho.org/api/word/15953.json"
+            },
+            {
+                "id": 15956,
+                "uri": "https://sedra.bethmardutho.org/api/word/15956.json"
+            },
+            {
+                "id": 15955,
+                "uri": "https://sedra.bethmardutho.org/api/word/15955.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2328,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2328.json"
+        },
+        "syriac": "\u0725\u0720\u0718\u071d",
+        "glosses": {
+            "English": [
+                "aloes.",
+                "aloe"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03bb\u03cc\u03b7"
+            ]
+        },
+        "root": {
+            "id": 1381,
+            "uri": "https://sedra.bethmardutho.org/api/root/1381.json"
+        },
+        "words": [
+            {
+                "id": 15514,
+                "uri": "https://sedra.bethmardutho.org/api/word/15514.json"
+            },
+            {
+                "id": 15513,
+                "uri": "https://sedra.bethmardutho.org/api/word/15513.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

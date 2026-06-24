@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u072c\u071d\u0720\u072c\u0710",
+        "western": "\u0726\u072c\u073a\u071d\u0720\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14112,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14112.json"
+        },
+        "stem": "\u0726\u072c\u071d\u0720\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062a\u064a\u0644\u0629"
+            ],
+            "eng": [
+                "wick."
+            ],
+            "fre": [
+                "m\u00e8che"
+            ]
+        },
+        "word": {
+            "id": 30703,
+            "uri": "https://sedra.bethmardutho.org/api/word/30703.json"
+        }
+    }
+]

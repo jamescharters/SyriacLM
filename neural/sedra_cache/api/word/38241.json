@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0713\u0720\u0726\u0722\u0710",
+        "western": "\u0713\u0736\u0720\u0726\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8536,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8536.json"
+        },
+        "stem": "\u0713\u0720\u0726\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646\u0642\u0634",
+                "\u0631\u064a\u0634\u0629",
+                "\u062c\u0646\u0627\u062d"
+            ],
+            "eng": [
+                "chisel.",
+                "feather, fin"
+            ],
+            "fre": [
+                "aile",
+                "ciseau",
+                "plume"
+            ]
+        },
+        "word": {
+            "id": 38241,
+            "uri": "https://sedra.bethmardutho.org/api/word/38241.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2688,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2688.json"
+        },
+        "syriac": "\u0728\u071d\u0715\u0710",
+        "glosses": {
+            "English": [
+                "hunting",
+                "catch",
+                "catch (of fish).",
+                "prey"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1590,
+            "uri": "https://sedra.bethmardutho.org/api/root/1590.json"
+        },
+        "words": [
+            {
+                "id": 17456,
+                "uri": "https://sedra.bethmardutho.org/api/word/17456.json"
+            },
+            {
+                "id": 17457,
+                "uri": "https://sedra.bethmardutho.org/api/word/17457.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

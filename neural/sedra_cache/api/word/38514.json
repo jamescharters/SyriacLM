@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0719\u0710",
+        "western": "\u071f\u073d\u0718\u0719\u0733\u0710",
+        "eastern": "\u071f\u0718\u073c\u0719\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14295,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14295.json"
+        },
+        "stem": "\u071f\u0718\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0648\u0632"
+            ],
+            "eng": [
+                "jug.",
+                "earthen pot",
+                "pitcher"
+            ],
+            "fre": [
+                "cruche"
+            ]
+        },
+        "word": {
+            "id": 38514,
+            "uri": "https://sedra.bethmardutho.org/api/word/38514.json"
+        }
+    }
+]

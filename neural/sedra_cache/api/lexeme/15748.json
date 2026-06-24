@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15748,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15748.json"
+        },
+        "syriac": "\u0712\u0718\u071a",
+        "glosses": {
+            "English": [
+                "to be overripe (of fruit).",
+                "Ia to be weak (from age)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2386,
+            "uri": "https://sedra.bethmardutho.org/api/root/2386.json"
+        },
+        "words": [
+            {
+                "id": 41662,
+                "uri": "https://sedra.bethmardutho.org/api/word/41662.json"
+            },
+            {
+                "id": 39999,
+                "uri": "https://sedra.bethmardutho.org/api/word/39999.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

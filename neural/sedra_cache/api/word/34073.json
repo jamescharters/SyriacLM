@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u071a\u071d\u0715\u0718\u072c\u0710",
+        "western": "\u071f\u071a\u073a\u071d\u0715\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6165,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6165.json"
+        },
+        "stem": "\u071f\u071a\u071d\u0715\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u0631\u0627\u0645"
+            ],
+            "eng": [
+                "respect, reverence, modesty."
+            ],
+            "fre": [
+                "respect"
+            ]
+        },
+        "word": {
+            "id": 34073,
+            "uri": "https://sedra.bethmardutho.org/api/word/34073.json"
+        }
+    }
+]

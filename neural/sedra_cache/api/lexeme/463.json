@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 463,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/463.json"
+        },
+        "syriac": "\u0712\u072a \u0710\u0713\u072a\u0710",
+        "glosses": {
+            "English": [
+                "lunatic"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 314,
+            "uri": "https://sedra.bethmardutho.org/api/root/314.json"
+        },
+        "words": [
+            {
+                "id": 52752,
+                "uri": "https://sedra.bethmardutho.org/api/word/52752.json"
+            },
+            {
+                "id": 52644,
+                "uri": "https://sedra.bethmardutho.org/api/word/52644.json"
+            },
+            {
+                "id": 3170,
+                "uri": "https://sedra.bethmardutho.org/api/word/3170.json"
+            }
+        ],
+        "category": "idiom"
+    }
+]

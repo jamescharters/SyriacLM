@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1629,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1629.json"
+        },
+        "syriac": "\u0720\u0713\u072c\u0710",
+        "glosses": {
+            "English": [
+                "dish, basin, vessel",
+                "dish",
+                "measure (solid)."
+            ],
+            "Arabic": [
+                "\u0642\u0635\u0639\u0629"
+            ],
+            "French": [
+                "plat"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 955,
+            "uri": "https://sedra.bethmardutho.org/api/root/955.json"
+        },
+        "words": [
+            {
+                "id": 10890,
+                "uri": "https://sedra.bethmardutho.org/api/word/10890.json"
+            },
+            {
+                "id": 10891,
+                "uri": "https://sedra.bethmardutho.org/api/word/10891.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

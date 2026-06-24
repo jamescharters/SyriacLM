@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0723\u071f\u0718\u0720\u072c\u0722\u0710",
+        "western": "\u0718\u0723\u0730\u071f\u0741\u073d\u0718\u0720\u072c\u0742\u0733\u0722\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2126,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2126.json"
+        },
+        "stem": "\u0723\u071f\u0718\u0720\u072c\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0637\u0646"
+            ],
+            "eng": [
+                "intelligent, understanding, prudent.",
+                "prudent",
+                "intelligent"
+            ],
+            "fre": [
+                "prudent"
+            ]
+        },
+        "word": {
+            "id": 14137,
+            "uri": "https://sedra.bethmardutho.org/api/word/14137.json"
+        }
+    }
+]

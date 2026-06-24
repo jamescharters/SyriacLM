@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0718\u0713\u0725\u071d",
+        "western": "\u0718\u0730\u0713\u0742\u0725\u0733\u071d",
+        "tense": "imperative",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 614,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/614.json"
+        },
+        "stem": "\u0713\u0725\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0631\u062e",
+                "\u062e\u0627\u0631",
+                "\u0647\u062a\u0641"
+            ],
+            "eng": [
+                "shout",
+                "call out",
+                "IIa, IIIa to bellow.",
+                "to implore, call upon",
+                "Ia to low, bellow",
+                "cry aloud"
+            ],
+            "fre": [
+                "appeler",
+                "mugir",
+                "crier"
+            ]
+        },
+        "word": {
+            "id": 3932,
+            "uri": "https://sedra.bethmardutho.org/api/word/3932.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28979,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28979.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u071d\u071b\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f31\u03bc\u03ac\u03bd\u03c4\u03b1"
+            ],
+            "English": [
+                "cord, thong or latchet of a sandal, leathern strap"
+            ],
+            "Latin": [
+                "corrigia"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f31\u03bc\u03ac\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49488,
+                "uri": "https://sedra.bethmardutho.org/api/word/49488.json"
+            },
+            {
+                "id": 55353,
+                "uri": "https://sedra.bethmardutho.org/api/word/55353.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

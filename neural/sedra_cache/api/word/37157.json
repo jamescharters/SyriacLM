@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0729\u0726\u071d\u0723\u0710",
+        "western": "\u0729\u0726\u073a\u071d\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5302,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5302.json"
+        },
+        "stem": "\u0729\u0726\u071d\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0635\u064a\u0631"
+            ],
+            "eng": [
+                "succinct, short, abbreviated",
+                "<span class=\"selectableFont\">\u0712\u0730\u0729\u0726\u073a\u071d\u0308\u0723\u0733\u072c\u0733\u0710</span> concisely."
+            ],
+            "fre": [
+                "court"
+            ]
+        },
+        "word": {
+            "id": 37157,
+            "uri": "https://sedra.bethmardutho.org/api/word/37157.json"
+        }
+    }
+]

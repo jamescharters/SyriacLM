@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u071a\u072b\u071d\u0710",
+        "western": "\u0722\u071a\u0733\u072b\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7022.json"
+        },
+        "stem": "\u0722\u071a\u072b\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0644\u0632\u064a, \u0646\u062d\u0627\u0633\u064a"
+            ],
+            "eng": [
+                "brazen, of bronze, copper."
+            ],
+            "fre": [
+                "de bronze, de cuivre"
+            ]
+        },
+        "word": {
+            "id": 30498,
+            "uri": "https://sedra.bethmardutho.org/api/word/30498.json"
+        }
+    }
+]

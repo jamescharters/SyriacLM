@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2503,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2503.json"
+        },
+        "syriac": "\u0726\u071d\u0722\u071f\u0710",
+        "glosses": {
+            "English": [
+                "a board, panel for painting on, a writing table",
+                "tablet.",
+                "dish",
+                "platter",
+                "dish"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c0\u03af\u03bd\u03b1\u03be"
+            ]
+        },
+        "root": {
+            "id": 1488,
+            "uri": "https://sedra.bethmardutho.org/api/root/1488.json"
+        },
+        "words": [
+            {
+                "id": 44410,
+                "uri": "https://sedra.bethmardutho.org/api/word/44410.json"
+            },
+            {
+                "id": 16341,
+                "uri": "https://sedra.bethmardutho.org/api/word/16341.json"
+            },
+            {
+                "id": 16340,
+                "uri": "https://sedra.bethmardutho.org/api/word/16340.json"
+            },
+            {
+                "id": 16342,
+                "uri": "https://sedra.bethmardutho.org/api/word/16342.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071f\u072c\u0721",
+        "western": "\u071f\u0741\u072c\u0742\u0730\u0721",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1606,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1606.json"
+        },
+        "stem": "\u071f\u072c\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0637\u062e, \u0648\u0633\u062e (\u0645\u0636)",
+                "\u0646\u062c\u0633"
+            ],
+            "eng": [
+                "defile",
+                "Ia to make mark, stain",
+                "IIa to sully, defile",
+                "IIp."
+            ],
+            "fre": [
+                "tacher, souiller",
+                "\u00eatre sale"
+            ]
+        },
+        "word": {
+            "id": 10664,
+            "uri": "https://sedra.bethmardutho.org/api/word/10664.json"
+        }
+    }
+]

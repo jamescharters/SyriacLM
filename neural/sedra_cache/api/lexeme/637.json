@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 637,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/637.json"
+        },
+        "syriac": "\u0715\u0710\u0721\u0710",
+        "glosses": {
+            "English": [
+                "Demas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 411,
+            "uri": "https://sedra.bethmardutho.org/api/root/411.json"
+        },
+        "words": [
+            {
+                "id": 4007,
+                "uri": "https://sedra.bethmardutho.org/api/word/4007.json"
+            },
+            {
+                "id": 4006,
+                "uri": "https://sedra.bethmardutho.org/api/word/4006.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28624,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28624.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0723\u0720\u071d\u0722\u0718\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f40\u03c1\u03b5\u03bf\u03c3\u03ad\u03bb\u03b9\u03bd\u03bf\u03bd"
+            ],
+            "Latin": [
+                "Athamanta macedonica"
+            ],
+            "English": [
+                "mountain-parsley"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f40\u03c1\u03b5\u03bf\u03c3\u03ad\u03bb\u03b9\u03bd\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 49022,
+                "uri": "https://sedra.bethmardutho.org/api/word/49022.json"
+            },
+            {
+                "id": 54998,
+                "uri": "https://sedra.bethmardutho.org/api/word/54998.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

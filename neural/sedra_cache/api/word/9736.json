@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0721\u071f\u0715\u0712",
+        "western": "\u0721\u071f\u0742\u0730\u0715\u0741\u0736\u0712\u0742",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14971,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14971.json"
+        },
+        "stem": "\u071f\u0715\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0630\u0628"
+            ],
+            "eng": [
+                "IIa to speak falsely, lie, deceive",
+                "IIp to be deceived",
+                "lie",
+                "IIIa.",
+                "to be proved false"
+            ],
+            "fre": [
+                "mentir"
+            ]
+        },
+        "word": {
+            "id": 9736,
+            "uri": "https://sedra.bethmardutho.org/api/word/9736.json"
+        }
+    }
+]

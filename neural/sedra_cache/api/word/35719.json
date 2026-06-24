@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u071f\u072b\u0710",
+        "western": "\u0712\u0730\u071f\u072b\u0733\u0710",
+        "eastern": "\u0712\u0732\u071f\u072b\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9565,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9565.json"
+        },
+        "stem": "\u0712\u071f\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062c\u0631 \u0643\u0628\u064a\u0631"
+            ],
+            "eng": [
+                "(also <span class=\"selectableFont\">\u0712\u073d\u0718\u071f\u072b\u0733\u0710</span>) large stone."
+            ],
+            "fre": [
+                "grosse pierre"
+            ]
+        },
+        "word": {
+            "id": 35719,
+            "uri": "https://sedra.bethmardutho.org/api/word/35719.json"
+        }
+    }
+]

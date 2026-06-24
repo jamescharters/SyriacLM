@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 338,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/338.json"
+        },
+        "syriac": "\u0712\u0715\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0627\u062f",
+                "\u0623\u0638\u0647\u0631",
+                "\u0633\u0646",
+                "\u0623\u0635\u0644\u062d"
+            ],
+            "French": [
+                "explorer",
+                "montrer",
+                "\u00e9tablir",
+                "r\u00e9parer"
+            ],
+            "English": [
+                "show",
+                "known"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 246,
+            "uri": "https://sedra.bethmardutho.org/api/root/246.json"
+        },
+        "words": [
+            {
+                "id": 2317,
+                "uri": "https://sedra.bethmardutho.org/api/word/2317.json"
+            },
+            {
+                "id": 22764,
+                "uri": "https://sedra.bethmardutho.org/api/word/22764.json"
+            },
+            {
+                "id": 2318,
+                "uri": "https://sedra.bethmardutho.org/api/word/2318.json"
+            },
+            {
+                "id": 2316,
+                "uri": "https://sedra.bethmardutho.org/api/word/2316.json"
+            },
+            {
+                "id": 2315,
+                "uri": "https://sedra.bethmardutho.org/api/word/2315.json"
+            },
+            {
+                "id": 2314,
+                "uri": "https://sedra.bethmardutho.org/api/word/2314.json"
+            },
+            {
+                "id": 2313,
+                "uri": "https://sedra.bethmardutho.org/api/word/2313.json"
+            },
+            {
+                "id": 2312,
+                "uri": "https://sedra.bethmardutho.org/api/word/2312.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

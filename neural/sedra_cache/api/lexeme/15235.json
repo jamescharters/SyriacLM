@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 15235,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15235.json"
+        },
+        "syriac": "\u0725\u0718\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0639\u0645\u0649"
+            ],
+            "French": [
+                "aveugler"
+            ],
+            "English": [
+                "blind",
+                "IIa, IIIa to blind",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2333,
+            "uri": "https://sedra.bethmardutho.org/api/root/2333.json"
+        },
+        "words": [
+            {
+                "id": 15093,
+                "uri": "https://sedra.bethmardutho.org/api/word/15093.json"
+            },
+            {
+                "id": 15202,
+                "uri": "https://sedra.bethmardutho.org/api/word/15202.json"
+            },
+            {
+                "id": 15204,
+                "uri": "https://sedra.bethmardutho.org/api/word/15204.json"
+            },
+            {
+                "id": 15205,
+                "uri": "https://sedra.bethmardutho.org/api/word/15205.json"
+            },
+            {
+                "id": 15203,
+                "uri": "https://sedra.bethmardutho.org/api/word/15203.json"
+            },
+            {
+                "id": 40609,
+                "uri": "https://sedra.bethmardutho.org/api/word/40609.json"
+            },
+            {
+                "id": 40396,
+                "uri": "https://sedra.bethmardutho.org/api/word/40396.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

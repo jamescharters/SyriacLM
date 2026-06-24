@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0713\u0722\u0719",
+        "western": "\u0713\u0722\u0719",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15167,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15167.json"
+        },
+        "stem": "\u0713\u0722\u0719",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa to hide.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0713\u0722\u0736\u0719</span> to be hidden, go out of sight"
+            ]
+        },
+        "word": {
+            "id": 40512,
+            "uri": "https://sedra.bethmardutho.org/api/word/40512.json"
+        }
+    }
+]

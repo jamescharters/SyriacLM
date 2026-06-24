@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15224,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15224.json"
+        },
+        "syriac": "\u0720\u0718\u072c",
+        "glosses": {
+            "English": [
+                "IIIp to be joined, connected.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0720\u0718\u0736\u072c</span> to put together, join, annex"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2602,
+            "uri": "https://sedra.bethmardutho.org/api/root/2602.json"
+        },
+        "words": [
+            {
+                "id": 41087,
+                "uri": "https://sedra.bethmardutho.org/api/word/41087.json"
+            },
+            {
+                "id": 40028,
+                "uri": "https://sedra.bethmardutho.org/api/word/40028.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

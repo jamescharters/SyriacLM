@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15280,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15280.json"
+        },
+        "syriac": "\u0729\u0721\u072a",
+        "glosses": {
+            "English": [
+                "IIa to strap, tie."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2098,
+            "uri": "https://sedra.bethmardutho.org/api/root/2098.json"
+        },
+        "words": [
+            {
+                "id": 41408,
+                "uri": "https://sedra.bethmardutho.org/api/word/41408.json"
+            },
+            {
+                "id": 41325,
+                "uri": "https://sedra.bethmardutho.org/api/word/41325.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

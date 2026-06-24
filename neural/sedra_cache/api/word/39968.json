@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0715",
+        "western": "\u0713\u072a\u0730\u0715",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15694,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15694.json"
+        },
+        "stem": "\u0713\u072a\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0639\u0643, \u0646\u0632\u0639"
+            ],
+            "eng": [
+                "Ia to scrape, scrape off, lay bare",
+                "to be made plain",
+                "to erase",
+                "to strip",
+                "Ip to be scraped off, stripped",
+                "IIp.",
+                "to be left destitute",
+                "IIa to scrape"
+            ],
+            "fre": [
+                "grater , \u00f4ter"
+            ]
+        },
+        "word": {
+            "id": 39968,
+            "uri": "https://sedra.bethmardutho.org/api/word/39968.json"
+        }
+    }
+]

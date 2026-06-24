@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0722\u0729\u0710",
+        "western": "\u0722\u0729\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15390,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15390.json"
+        },
+        "stem": "\u0722\u0729\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to pour a drink offering, to offer sacrifice",
+                "Ia pass. part. <span class=\"selectableFont\">\u0722\u0729\u0736\u0710</span> apt, eager, inclined to, prone",
+                "IIp to consecrate oneself.",
+                "Ip to be inclined",
+                "to consecrate"
+            ]
+        },
+        "word": {
+            "id": 40169,
+            "uri": "https://sedra.bethmardutho.org/api/word/40169.json"
+        }
+    }
+]

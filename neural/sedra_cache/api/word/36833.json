@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0713\u0722\u0718\u0712\u0710",
+        "western": "\u0713\u0733\u0722\u073d\u0718\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5398,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5398.json"
+        },
+        "stem": "\u0713\u0722\u0718\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0627\u0631\u0642"
+            ],
+            "eng": [
+                "thief."
+            ],
+            "fre": [
+                "voleur"
+            ]
+        },
+        "word": {
+            "id": 36833,
+            "uri": "https://sedra.bethmardutho.org/api/word/36833.json"
+        }
+    }
+]

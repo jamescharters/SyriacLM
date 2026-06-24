@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0712\u0718\u072b\u0720\u0710",
+        "western": "\u0712\u073d\u0718\u072b\u0733\u0720\u0733\u0710",
+        "eastern": "\u0712\u0718\u0323\u072b\u0735\u0720\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11029,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11029.json"
+        },
+        "stem": "\u0712\u0718\u072b\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0639\u0627\u0645 \u0645\u0637\u0628\u0648\u062e"
+            ],
+            "eng": [
+                "cooked food",
+                "ripening (of fruit)",
+                "Kth. cooking, <span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0712\u073d\u0718\u072b\u0733\u0720\u0733\u0710</span> kitchen."
+            ],
+            "fre": [
+                "mets cuit"
+            ]
+        },
+        "word": {
+            "id": 38590,
+            "uri": "https://sedra.bethmardutho.org/api/word/38590.json"
+        }
+    }
+]

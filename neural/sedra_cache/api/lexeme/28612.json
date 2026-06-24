@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28612,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28612.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u0722\u071d\u072c\u0718\u0713\u0710\u0720\u0710",
+        "glosses": {
+            "Greek": [
+                "\u03cc\u03c1\u03bd\u03b9\u03b8\u03cc\u03b3\u03b1\u03bb\u03bf\u03bd"
+            ],
+            "Latin": [
+                "Ornithogalum umbellatum"
+            ],
+            "English": [
+                "starflower"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03cc\u03c1\u03bd\u03b9\u03b8\u03cc\u03b3\u03b1\u03bb\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 49018,
+                "uri": "https://sedra.bethmardutho.org/api/word/49018.json"
+            },
+            {
+                "id": 54986,
+                "uri": "https://sedra.bethmardutho.org/api/word/54986.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 888,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/888.json"
+        },
+        "syriac": "\u0719\u0721",
+        "glosses": {
+            "English": [
+                "to ring out (of sound).",
+                "sound",
+                "ring",
+                "Ia to buzz, resound",
+                "IIIa to ring out (of sound)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 567,
+            "uri": "https://sedra.bethmardutho.org/api/root/567.json"
+        },
+        "words": [
+            {
+                "id": 24442,
+                "uri": "https://sedra.bethmardutho.org/api/word/24442.json"
+            },
+            {
+                "id": 24441,
+                "uri": "https://sedra.bethmardutho.org/api/word/24441.json"
+            },
+            {
+                "id": 5750,
+                "uri": "https://sedra.bethmardutho.org/api/word/5750.json"
+            },
+            {
+                "id": 24444,
+                "uri": "https://sedra.bethmardutho.org/api/word/24444.json"
+            },
+            {
+                "id": 24443,
+                "uri": "https://sedra.bethmardutho.org/api/word/24443.json"
+            },
+            {
+                "id": 5752,
+                "uri": "https://sedra.bethmardutho.org/api/word/5752.json"
+            },
+            {
+                "id": 5751,
+                "uri": "https://sedra.bethmardutho.org/api/word/5751.json"
+            },
+            {
+                "id": 42374,
+                "uri": "https://sedra.bethmardutho.org/api/word/42374.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

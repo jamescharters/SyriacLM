@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0725\u0722\u0722\u0710",
+        "western": "\u0725\u0722\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2369,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2369.json"
+        },
+        "stem": "\u0725\u0722\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "cloud.",
+                "cloud",
+                "a name for mercury"
+            ]
+        },
+        "word": {
+            "id": 15801,
+            "uri": "https://sedra.bethmardutho.org/api/word/15801.json"
+        }
+    }
+]

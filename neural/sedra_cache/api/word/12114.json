@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0728\u0725\u072c\u0717\u0718\u0722",
+        "western": "\u0721\u0728\u0730\u0725\u072c\u0742\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1828,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1828.json"
+        },
+        "stem": "\u0721\u0728\u0725\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "middle, centre, midst",
+                "midst",
+                "middle",
+                "interval",
+                "among, between."
+            ]
+        },
+        "word": {
+            "id": 12114,
+            "uri": "https://sedra.bethmardutho.org/api/word/12114.json"
+        }
+    }
+]

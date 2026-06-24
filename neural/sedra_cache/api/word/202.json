@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0710\u0713\u072a\u071d",
+        "western": "\u0718\u0730\u0710\u0713\u0742\u072a\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 26,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/26.json"
+        },
+        "stem": "\u0710\u0713\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "reward",
+                "Kth. (of property) rent, lease.",
+                "wage, reward",
+                "recompense",
+                "pay"
+            ]
+        },
+        "word": {
+            "id": 202,
+            "uri": "https://sedra.bethmardutho.org/api/word/202.json"
+        }
+    }
+]

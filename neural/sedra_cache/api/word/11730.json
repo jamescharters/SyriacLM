@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u072c\u072c\u0721\u0720\u071a",
+        "western": "\u072c\u0741\u0736\u072c\u0742\u0721\u0720\u0730\u071a",
+        "tense": "imperfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1776,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1776.json"
+        },
+        "stem": "\u0721\u0720\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0644\u062d",
+                "",
+                "\u0645\u0644\u062d",
+                "\u0631\u0634"
+            ],
+            "eng": [
+                "to sail.",
+                "IIp to be seasoned",
+                "Ip to be salted",
+                "to steer (a ship)",
+                "to eat salt with, to be a companion",
+                "IIa to salt, to season",
+                "Ia to salt, to be salty",
+                "be salted"
+            ],
+            "fre": [
+                "",
+                "devenir sal\u00e9",
+                "asperger",
+                "saler"
+            ]
+        },
+        "word": {
+            "id": 11730,
+            "uri": "https://sedra.bethmardutho.org/api/word/11730.json"
+        }
+    }
+]

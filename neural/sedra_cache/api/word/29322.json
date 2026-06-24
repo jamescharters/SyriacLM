@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u071d\u0720",
+        "western": "\u071a\u071d\u0720",
+        "lexeme": {
+            "id": 1024,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1024.json"
+        },
+        "stem": "\u071a\u071d\u0720",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0648\u0649"
+            ],
+            "eng": [
+                "strengthen",
+                "IIa to strengthen, confirm. IIp to be strengthened, to take courage.",
+                "confirm"
+            ],
+            "fre": [
+                "rendre fort"
+            ]
+        },
+        "word": {
+            "id": 29322,
+            "uri": "https://sedra.bethmardutho.org/api/word/29322.json"
+        }
+    }
+]

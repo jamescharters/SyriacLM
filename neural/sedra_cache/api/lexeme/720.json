@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 720,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/720.json"
+        },
+        "syriac": "\u0715\u0718\u0721\u071d\u0710",
+        "glosses": {
+            "English": [
+                "likeness",
+                "form",
+                "image",
+                "example",
+                "likelihood.",
+                "comparison",
+                "resemblance, likeness"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 456,
+            "uri": "https://sedra.bethmardutho.org/api/root/456.json"
+        },
+        "words": [
+            {
+                "id": 4658,
+                "uri": "https://sedra.bethmardutho.org/api/word/4658.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

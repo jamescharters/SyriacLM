@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 2313,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2313.json"
+        },
+        "syriac": "\u0721\u0725\u0720\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062f\u062e\u0644, \u062f\u062e\u0648\u0644",
+                "\u0631\u062c\u0648\u0639"
+            ],
+            "French": [
+                "entr\u00e9e",
+                "retour"
+            ],
+            "English": [
+                "entrance",
+                "ingress",
+                "entry, entrance."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1378,
+            "uri": "https://sedra.bethmardutho.org/api/root/1378.json"
+        },
+        "words": [
+            {
+                "id": 15361,
+                "uri": "https://sedra.bethmardutho.org/api/word/15361.json"
+            },
+            {
+                "id": 26274,
+                "uri": "https://sedra.bethmardutho.org/api/word/26274.json"
+            },
+            {
+                "id": 15363,
+                "uri": "https://sedra.bethmardutho.org/api/word/15363.json"
+            },
+            {
+                "id": 15362,
+                "uri": "https://sedra.bethmardutho.org/api/word/15362.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

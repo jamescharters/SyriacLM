@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15850,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15850.json"
+        },
+        "syriac": "\u071a\u0726\u072a",
+        "glosses": {
+            "English": [
+                "to paw (the ground)",
+                "Ip to be dug up, out",
+                "IIIa to dig through.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0726\u073d\u0718\u072a</span>, Ia to dig, burrow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2691,
+            "uri": "https://sedra.bethmardutho.org/api/root/2691.json"
+        },
+        "words": [
+            {
+                "id": 41733,
+                "uri": "https://sedra.bethmardutho.org/api/word/41733.json"
+            },
+            {
+                "id": 41007,
+                "uri": "https://sedra.bethmardutho.org/api/word/41007.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

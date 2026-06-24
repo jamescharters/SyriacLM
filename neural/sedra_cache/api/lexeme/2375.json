@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 2375,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2375.json"
+        },
+        "syriac": "\u0721\u0725\u0723\u072a\u0710",
+        "glosses": {
+            "English": [
+                "tenth",
+                "tithe",
+                "tithe, tenth part."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1409,
+            "uri": "https://sedra.bethmardutho.org/api/root/1409.json"
+        },
+        "words": [
+            {
+                "id": 15818,
+                "uri": "https://sedra.bethmardutho.org/api/word/15818.json"
+            },
+            {
+                "id": 22834,
+                "uri": "https://sedra.bethmardutho.org/api/word/22834.json"
+            },
+            {
+                "id": 15819,
+                "uri": "https://sedra.bethmardutho.org/api/word/15819.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

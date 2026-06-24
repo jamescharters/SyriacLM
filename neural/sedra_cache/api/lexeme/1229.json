@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 1229,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1229.json"
+        },
+        "syriac": "\u071b\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "enclosure, sheepfold",
+                "sheepfold",
+                "mandra."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 728,
+            "uri": "https://sedra.bethmardutho.org/api/root/728.json"
+        },
+        "words": [
+            {
+                "id": 8069,
+                "uri": "https://sedra.bethmardutho.org/api/word/8069.json"
+            },
+            {
+                "id": 8068,
+                "uri": "https://sedra.bethmardutho.org/api/word/8068.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

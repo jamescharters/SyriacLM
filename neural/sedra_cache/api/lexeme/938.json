@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 938,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/938.json"
+        },
+        "syriac": "\u071a\u0712\u0722\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0633\u0644\u0627\u0646"
+            ],
+            "French": [
+                "paresseux"
+            ],
+            "English": [
+                "lazy",
+                "idle",
+                "slothful",
+                "lazy, negligent, slothful."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 589,
+            "uri": "https://sedra.bethmardutho.org/api/root/589.json"
+        },
+        "words": [
+            {
+                "id": 6129,
+                "uri": "https://sedra.bethmardutho.org/api/word/6129.json"
+            },
+            {
+                "id": 6131,
+                "uri": "https://sedra.bethmardutho.org/api/word/6131.json"
+            },
+            {
+                "id": 6130,
+                "uri": "https://sedra.bethmardutho.org/api/word/6130.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "ethpa\u02bf\u02bfal"
+    }
+]

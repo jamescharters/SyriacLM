@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0719\u072a\u071d\u0719\u0710",
+        "western": "\u0719\u072a\u073a\u071d\u0719\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11943,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11943.json"
+        },
+        "stem": "\u0719\u072a\u071d\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0648\u064a, \u0628\u0627\u0633\u0644",
+                "\u062d\u0627\u0631, \u0630\u0648 \u062d\u0645\u064a\u0629",
+                "\u062e\u0641\u064a\u0641, \u0646\u0634\u064a\u0637, \u0633\u0631\u064a\u0639"
+            ],
+            "eng": [
+                "strenuous",
+                "valiant",
+                "diligent."
+            ],
+            "fre": [
+                "fort, vaillant",
+                "agile, rapide",
+                "ardent, v\u00e9h\u00e9ment"
+            ]
+        },
+        "word": {
+            "id": 34845,
+            "uri": "https://sedra.bethmardutho.org/api/word/34845.json"
+        }
+    }
+]

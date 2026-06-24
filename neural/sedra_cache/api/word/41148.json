@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u072a\u071b\u0721",
+        "western": "\u071b\u0730\u072a\u071b\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14787,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14787.json"
+        },
+        "stem": "\u071b\u072a\u071b\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to murmur, to grumble."
+            ]
+        },
+        "word": {
+            "id": 41148,
+            "uri": "https://sedra.bethmardutho.org/api/word/41148.json"
+        }
+    }
+]

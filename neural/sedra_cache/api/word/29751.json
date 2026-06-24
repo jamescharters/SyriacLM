@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a",
+        "western": "\u072a",
+        "number": "singular",
+        "lexeme": {
+            "id": 12999,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12999.json"
+        },
+        "stem": "\u072a",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "200"
+            ],
+            "eng": [
+                "twentieth letter of the alphabet (Rish)",
+                "Resh, the twentieth letter of the alphabet; the numeral 200.",
+                "numerical value 200."
+            ],
+            "fre": [
+                "200"
+            ]
+        },
+        "word": {
+            "id": 29751,
+            "uri": "https://sedra.bethmardutho.org/api/word/29751.json"
+        }
+    }
+]

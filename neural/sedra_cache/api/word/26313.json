@@ -1,0 +1,51 @@
+[
+    {
+        "syriac": "\u0721\u0720\u071d\u071f\u0710",
+        "western": "\u0721\u0720\u073a\u071d\u071f\u0742\u0733\u0710",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1782,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1782.json"
+        },
+        "stem": "\u0721\u0720\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0639\u062f",
+                "\u0646\u0635\u062d, \u062d\u0631\u0636 (\u0645\u0636) \u0639\u0644\u0649"
+            ],
+            "eng": [
+                "IIIa to counsel, give advice",
+                "to reign, rule",
+                "Ip to consult",
+                "reign",
+                "to promise",
+                "Ia to counsel, advise, promise, reign",
+                "to make king",
+                "to be promised",
+                "IIIp to be made king",
+                "IIa to give advice",
+                "to be reigned over.",
+                "counsel",
+                "promise",
+                "deliberate"
+            ],
+            "fre": [
+                "promettre",
+                "conseiller, exhorter"
+            ]
+        },
+        "word": {
+            "id": 26313,
+            "uri": "https://sedra.bethmardutho.org/api/word/26313.json"
+        }
+    }
+]

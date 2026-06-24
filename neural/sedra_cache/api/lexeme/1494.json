@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1494,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1494.json"
+        },
+        "syriac": "\u0721\u071f\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0628\u064a\u0639\u064a",
+                "\u062c\u062f\u064a\u0631",
+                "\u0645\u0633\u062a\u0637\u0627\u0639"
+            ],
+            "French": [
+                "naturel",
+                "apte",
+                "possible"
+            ],
+            "English": [
+                "natural",
+                "created",
+                "existing, possible",
+                "capable, endowed.",
+                "natural, innate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 882,
+            "uri": "https://sedra.bethmardutho.org/api/root/882.json"
+        },
+        "words": [
+            {
+                "id": 9852,
+                "uri": "https://sedra.bethmardutho.org/api/word/9852.json"
+            },
+            {
+                "id": 9851,
+                "uri": "https://sedra.bethmardutho.org/api/word/9851.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "aph\u02bfel"
+    }
+]

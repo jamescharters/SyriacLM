@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u0722\u071d\u071a\u072c\u071d",
+        "western": "\u0720\u0730\u0722\u071d\u0733\u071a\u072c\u0741\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1930,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1930.json"
+        },
+        "stem": "\u0722\u071d\u071a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "leisure",
+                "rest",
+                "repose",
+                "rest, repose.",
+                "recreation"
+            ]
+        },
+        "word": {
+            "id": 12653,
+            "uri": "https://sedra.bethmardutho.org/api/word/12653.json"
+        }
+    }
+]

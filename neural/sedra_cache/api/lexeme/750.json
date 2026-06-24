@@ -1,0 +1,63 @@
+[
+    {
+        "lexeme": {
+            "id": 750,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/750.json"
+        },
+        "syriac": "\u0715\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u064a\u062a",
+                ""
+            ],
+            "French": [
+                "maison",
+                "maison\u2026"
+            ],
+            "English": [
+                "courtyard",
+                "court",
+                "atrium",
+                "enclosure, sheepfold.",
+                "hall"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 472,
+            "uri": "https://sedra.bethmardutho.org/api/root/472.json"
+        },
+        "words": [
+            {
+                "id": 4834,
+                "uri": "https://sedra.bethmardutho.org/api/word/4834.json"
+            },
+            {
+                "id": 4833,
+                "uri": "https://sedra.bethmardutho.org/api/word/4833.json"
+            },
+            {
+                "id": 4830,
+                "uri": "https://sedra.bethmardutho.org/api/word/4830.json"
+            },
+            {
+                "id": 4829,
+                "uri": "https://sedra.bethmardutho.org/api/word/4829.json"
+            },
+            {
+                "id": 4831,
+                "uri": "https://sedra.bethmardutho.org/api/word/4831.json"
+            },
+            {
+                "id": 4835,
+                "uri": "https://sedra.bethmardutho.org/api/word/4835.json"
+            },
+            {
+                "id": 4832,
+                "uri": "https://sedra.bethmardutho.org/api/word/4832.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

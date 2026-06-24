@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 3064,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3064.json"
+        },
+        "syriac": "\u072a\u0726\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u062a\u0641",
+                "\u0645\u0630\u0631\u0649",
+                "\u0631\u0641\u0634"
+            ],
+            "French": [
+                "\u00e9paule",
+                "van",
+                "pelle"
+            ],
+            "English": [
+                "fan",
+                "winnowing fan",
+                "shovel",
+                "<span class=\"selectableFont\">\u072a\u0308\u0730\u0726\u072b\u0736\u0710</span> shoulder blades."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1784,
+            "uri": "https://sedra.bethmardutho.org/api/root/1784.json"
+        },
+        "words": [
+            {
+                "id": 19963,
+                "uri": "https://sedra.bethmardutho.org/api/word/19963.json"
+            },
+            {
+                "id": 19964,
+                "uri": "https://sedra.bethmardutho.org/api/word/19964.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

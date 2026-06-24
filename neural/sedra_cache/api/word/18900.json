@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u072b\u071d\u071d",
+        "western": "\u0729\u0730\u072b\u071d\u0730\u071d",
+        "state": "construct",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2901,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2901.json"
+        },
+        "stem": "\u0729\u072b\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "strong",
+                "harsh, stern.",
+                "hard, difficult",
+                "rough",
+                "hard"
+            ]
+        },
+        "word": {
+            "id": 18900,
+            "uri": "https://sedra.bethmardutho.org/api/word/18900.json"
+        }
+    }
+]

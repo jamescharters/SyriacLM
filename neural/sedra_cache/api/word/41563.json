@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0728\u0720\u0721",
+        "western": "\u0728\u0730\u0720\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15174,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15174.json"
+        },
+        "stem": "\u0728\u0720\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0645\u062b\u0644",
+                "\u00a0",
+                "\u0635\u0648\u0631"
+            ],
+            "eng": [
+                "IIa to impress an image",
+                "to form",
+                "IIp."
+            ],
+            "fre": [
+                "repr\u00e9senter",
+                "\u00a0",
+                "former"
+            ]
+        },
+        "word": {
+            "id": 41563,
+            "uri": "https://sedra.bethmardutho.org/api/word/41563.json"
+        }
+    }
+]

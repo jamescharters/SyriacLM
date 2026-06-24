@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0710\u072c\u0715\u071f\u072a",
+        "western": "\u0718\u0736\u0710\u072c\u0741\u0715\u0741\u071f\u0742\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15778,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15778.json"
+        },
+        "stem": "\u0715\u071f\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "remind",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u071f\u0730\u072a</span>, Ia part. <span class=\"selectableFont\">\u0715\u071f\u073a\u071d\u072a</span> mindful",
+                "Ip, IIp to remember, commemorate",
+                "IIIa to remind, make mention of.",
+                "remember",
+                "make mention of"
+            ]
+        },
+        "word": {
+            "id": 4587,
+            "uri": "https://sedra.bethmardutho.org/api/word/4587.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 988,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/988.json"
+        },
+        "syriac": "\u071a\u071d\u0728\u0710",
+        "glosses": {
+            "English": [
+                "bond",
+                "shroud",
+                "swath, bandage",
+                "reed mat."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 609,
+            "uri": "https://sedra.bethmardutho.org/api/root/609.json"
+        },
+        "words": [
+            {
+                "id": 6483,
+                "uri": "https://sedra.bethmardutho.org/api/word/6483.json"
+            },
+            {
+                "id": 6484,
+                "uri": "https://sedra.bethmardutho.org/api/word/6484.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

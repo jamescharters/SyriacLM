@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u0721\u0722\u071a\u071d",
+        "western": "\u0720\u0721\u0730\u0722\u071a\u0730\u071d",
+        "lexeme": {
+            "id": 1807,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1807.json"
+        },
+        "stem": "\u0721\u0722\u071a\u071d",
+        "category": "adverb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0644\u0633\u0646\u0629 \u0627\u0644\u062a\u0627\u0628\u0639\u0629"
+            ],
+            "eng": [
+                "next year",
+                "the next year."
+            ],
+            "fre": [
+                "l&#39;ann\u00e9e suivante"
+            ]
+        },
+        "word": {
+            "id": 12037,
+            "uri": "https://sedra.bethmardutho.org/api/word/12037.json"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 3555,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3555.json"
+        },
+        "syriac": "\u072b\u0729\u071d\u0720\u0710",
+        "glosses": {
+            "English": [
+                "carrying",
+                "bearer",
+                "Gram. derivative.",
+                "carrying"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1923,
+            "uri": "https://sedra.bethmardutho.org/api/root/1923.json"
+        },
+        "words": [
+            {
+                "id": 28592,
+                "uri": "https://sedra.bethmardutho.org/api/word/28592.json"
+            },
+            {
+                "id": 21865,
+                "uri": "https://sedra.bethmardutho.org/api/word/21865.json"
+            },
+            {
+                "id": 21877,
+                "uri": "https://sedra.bethmardutho.org/api/word/21877.json"
+            },
+            {
+                "id": 21916,
+                "uri": "https://sedra.bethmardutho.org/api/word/21916.json"
+            },
+            {
+                "id": 21920,
+                "uri": "https://sedra.bethmardutho.org/api/word/21920.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

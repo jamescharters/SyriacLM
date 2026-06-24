@@ -1,0 +1,61 @@
+[
+    {
+        "syriac": "\u0718\u072a\u0712\u071f\u0718\u0722",
+        "western": "\u0718\u072a\u0730\u0712\u0741\u071f\u0742\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2907,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2907.json"
+        },
+        "stem": "\u072a\u0712\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0628\u064a\u0644, \u0648\u062c\u064a\u0647",
+                "\u0645\u0639\u0644\u0645, \u0623\u0633\u062a\u0627\u0630",
+                "\u0632\u0639\u064a\u0645",
+                "\u0628\u0643\u0631",
+                "\u0639\u062f\u064a\u062f",
+                "\u0642\u0648\u064a",
+                "\u0643\u0628\u064a\u0631",
+                "\u062d\u0627\u0643\u0645"
+            ],
+            "eng": [
+                "prefect",
+                "great",
+                "teacher",
+                "grand",
+                "<span class=\"selectableFont\">\u072a\u0730\u0712</span> + chief-, arch-.",
+                "chief",
+                "eldest",
+                "master",
+                "great, large",
+                "magnate"
+            ],
+            "fre": [
+                "a\u00een\u00e9",
+                "ma\u00eetre, docteur",
+                "nombreux",
+                "fort",
+                "chef",
+                "pr\u00e9fet",
+                "noble, grand",
+                "grand"
+            ]
+        },
+        "word": {
+            "id": 18933,
+            "uri": "https://sedra.bethmardutho.org/api/word/18933.json"
+        }
+    }
+]

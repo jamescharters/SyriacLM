@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 3532,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3532.json"
+        },
+        "syriac": "\u071d\u0715\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0644\u064a\u0641"
+            ],
+            "French": [
+                "familier"
+            ],
+            "English": [
+                "acquaintance"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 768,
+            "uri": "https://sedra.bethmardutho.org/api/root/768.json"
+        },
+        "words": [
+            {
+                "id": 8643,
+                "uri": "https://sedra.bethmardutho.org/api/word/8643.json"
+            },
+            {
+                "id": 8676,
+                "uri": "https://sedra.bethmardutho.org/api/word/8676.json"
+            },
+            {
+                "id": 8124,
+                "uri": "https://sedra.bethmardutho.org/api/word/8124.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "syriac": "\u071d\u0720\u071d\u0715 \u0721\u0722 \u0722\u0726\u072b\u0717",
+        "western": "\u071d\u073a\u0720\u0730\u071d\u0715 \u0721\u0736\u0722 \u0722\u0730\u0726\u072b\u0736\u0717",
+        "lexeme": {
+            "id": 37520,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/37520.json"
+        },
+        "stem": "\u071d\u0720\u071d\u0715 \u0721\u0722 \u0722\u0726\u072b\u0717",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "lat": [
+                "nota genitiva"
+            ]
+        },
+        "word": {
+            "id": 63875,
+            "uri": "https://sedra.bethmardutho.org/api/word/63875.json"
+        }
+    }
+]

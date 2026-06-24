@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0712\u0721\u0715\u0712\u071a\u0710",
+        "western": "\u0712\u0741\u0721\u0730\u0715\u0742\u0712\u0741\u071a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 643,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/643.json"
+        },
+        "stem": "\u0721\u0715\u0712\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "altar space, sanctuary.",
+                "altar",
+                "altar"
+            ]
+        },
+        "word": {
+            "id": 4031,
+            "uri": "https://sedra.bethmardutho.org/api/word/4031.json"
+        }
+    }
+]

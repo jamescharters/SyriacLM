@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0721\u0728\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u0728\u0718\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2010,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2010.json"
+        },
+        "stem": "\u0721\u0728\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "contention",
+                "strife, quarrel, disputation.",
+                "law-suit",
+                "strife"
+            ]
+        },
+        "word": {
+            "id": 13304,
+            "uri": "https://sedra.bethmardutho.org/api/word/13304.json"
+        }
+    }
+]

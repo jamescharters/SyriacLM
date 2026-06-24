@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0719\u0725",
+        "western": "\u072b\u072a\u0719\u0725",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15185,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15185.json"
+        },
+        "stem": "\u072b\u072a\u0719\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to tremble, be alarmed",
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072b\u072c\u0730\u072a\u0719\u0730\u0725</span> to be inclined."
+            ]
+        },
+        "word": {
+            "id": 41403,
+            "uri": "https://sedra.bethmardutho.org/api/word/41403.json"
+        }
+    }
+]

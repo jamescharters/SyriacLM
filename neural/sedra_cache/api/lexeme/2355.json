@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 2355,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2355.json"
+        },
+        "syriac": "\u0725\u0721\u071d\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0645\u064a\u0642, \u0633\u0645\u064a\u0643",
+                "\u0645\u062a\u0642\u062f\u0645 (\u0633\u0646)",
+                "\u0623\u062e\u064a\u0631, \u0641\u064a \u0627\u0644\u063a\u0627\u064a\u0629",
+                "\u0635\u0639\u0628"
+            ],
+            "French": [
+                "profond, \u00e9pais",
+                "avanc\u00e9 (\u00e2ge)",
+                "extr\u00eame",
+                "difficile"
+            ],
+            "English": [
+                "deep",
+                "difficult.",
+                "deep, profound"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1397,
+            "uri": "https://sedra.bethmardutho.org/api/root/1397.json"
+        },
+        "words": [
+            {
+                "id": 15710,
+                "uri": "https://sedra.bethmardutho.org/api/word/15710.json"
+            },
+            {
+                "id": 15708,
+                "uri": "https://sedra.bethmardutho.org/api/word/15708.json"
+            },
+            {
+                "id": 15709,
+                "uri": "https://sedra.bethmardutho.org/api/word/15709.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

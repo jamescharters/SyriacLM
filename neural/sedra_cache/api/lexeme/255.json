@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 255,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/255.json"
+        },
+        "syriac": "\u0710\u0726\u0722\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Epaenetus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 192,
+            "uri": "https://sedra.bethmardutho.org/api/root/192.json"
+        },
+        "words": [
+            {
+                "id": 1791,
+                "uri": "https://sedra.bethmardutho.org/api/word/1791.json"
+            },
+            {
+                "id": 1792,
+                "uri": "https://sedra.bethmardutho.org/api/word/1792.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

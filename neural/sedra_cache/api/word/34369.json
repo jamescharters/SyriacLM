@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u071d\u0723\u071d\u0723",
+        "western": "\u0715\u073a\u071d\u0723\u073a\u071d\u0723",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8688,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8688.json"
+        },
+        "stem": "\u0715\u071d\u0723\u071d\u0723",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0644\u0628"
+            ],
+            "eng": [
+                "petition."
+            ],
+            "fre": [
+                "demande"
+            ]
+        },
+        "word": {
+            "id": 34369,
+            "uri": "https://sedra.bethmardutho.org/api/word/34369.json"
+        }
+    }
+]

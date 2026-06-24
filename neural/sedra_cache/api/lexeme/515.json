@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 515,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/515.json"
+        },
+        "syriac": "\u0713\u0715\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u062f\u0644, \u0646\u0633\u062c",
+                "\u0635\u0627\u063a, \u0631\u0643\u0628",
+                "\u0627\u0631\u062a\u0641\u0639, \u0637\u0627\u0631",
+                "\u0623\u0635\u0639\u062f"
+            ],
+            "French": [
+                "tresser, tisser",
+                "former, composer",
+                "s&#39;\u00e9lever, voler",
+                "faire monter"
+            ],
+            "English": [
+                "IIa to twist",
+                "weave",
+                "twist",
+                "plaint",
+                "Ia to twist, plait, interweave",
+                "Ip to plait one\u2019s hair",
+                "IIp.",
+                "to soar (of birds)",
+                "to compose (words)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 344,
+            "uri": "https://sedra.bethmardutho.org/api/root/344.json"
+        },
+        "words": [
+            {
+                "id": 3501,
+                "uri": "https://sedra.bethmardutho.org/api/word/3501.json"
+            },
+            {
+                "id": 3500,
+                "uri": "https://sedra.bethmardutho.org/api/word/3500.json"
+            },
+            {
+                "id": 3499,
+                "uri": "https://sedra.bethmardutho.org/api/word/3499.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1007,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1007.json"
+        },
+        "syriac": "\u071a\u0719\u0729\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Hezekiah"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 616,
+            "uri": "https://sedra.bethmardutho.org/api/root/616.json"
+        },
+        "words": [
+            {
+                "id": 6727,
+                "uri": "https://sedra.bethmardutho.org/api/word/6727.json"
+            },
+            {
+                "id": 6726,
+                "uri": "https://sedra.bethmardutho.org/api/word/6726.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

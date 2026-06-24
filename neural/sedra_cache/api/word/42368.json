@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0722\u071d\u0721",
+        "western": "\u0710\u0730\u0722\u073a\u071d\u0721",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1931,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1931.json"
+        },
+        "stem": "\u0722\u0718\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0722\u073a\u071d\u0721</span> to put to sleep.",
+                "IIa <span class=\"selectableFont\">\u0722\u0730\u0718\u0736\u0721</span>",
+                "Ia to slumber, to sleep heavily",
+                "slumber",
+                "sleep"
+            ]
+        },
+        "word": {
+            "id": 42368,
+            "uri": "https://sedra.bethmardutho.org/api/word/42368.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u071f\u0723\u071b\u072a\u071d\u0710",
+        "western": "\u0710\u0718\u072a\u0308\u071f\u0723\u071b\u072a\u071d\u0710",
+        "lexeme": {
+            "id": 28600,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28600.json"
+        },
+        "stem": "\u0710\u0718\u072a\u071f\u0723\u071b\u072a\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "dancing-girls, female dancers"
+            ],
+            "grc": [
+                "\u1f40\u03c1\u03c7\u03ae\u03c3\u03c4\u03c1\u03b9\u03b1\u03b9 (from \u1f40\u03c1\u03c7\u03b7\u03c3\u03c4\u03c1\u03af\u03c2)"
+            ],
+            "lat": [
+                "saltatrices (from saltatrix)"
+            ]
+        },
+        "word": {
+            "id": 54974,
+            "uri": "https://sedra.bethmardutho.org/api/word/54974.json"
+        }
+    }
+]

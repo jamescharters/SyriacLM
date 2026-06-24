@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u0728\u0712\u072c\u0722\u071d\u0710",
+        "western": "\u0722\u0736\u0728\u0712\u072c\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8893,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8893.json"
+        },
+        "stem": "\u0722\u0728\u0712\u072c\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646\u0628\u062a",
+                "\u0646\u0628\u0627\u062a\u064a"
+            ],
+            "eng": [
+                "instinctive.",
+                "vegetative"
+            ],
+            "fre": [
+                "v\u00e9g\u00e9tatif",
+                "v\u00e9g\u00e9tal"
+            ]
+        },
+        "word": {
+            "id": 35155,
+            "uri": "https://sedra.bethmardutho.org/api/word/35155.json"
+        }
+    }
+]

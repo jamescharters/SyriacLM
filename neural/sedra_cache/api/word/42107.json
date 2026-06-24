@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u072c\u0726\u072b",
+        "western": "\u0722\u0736\u072c\u0726\u0730\u072b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15886,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15886.json"
+        },
+        "stem": "\u072c\u0726\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to waken.",
+                "IIa to knock, to tap",
+                "Ia to arouse"
+            ]
+        },
+        "word": {
+            "id": 42107,
+            "uri": "https://sedra.bethmardutho.org/api/word/42107.json"
+        }
+    }
+]

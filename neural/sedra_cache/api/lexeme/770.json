@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 770,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/770.json"
+        },
+        "syriac": "\u0717\u0712\u0712\u0710",
+        "glosses": {
+            "English": [
+                "saucer of a lamp",
+                "flower",
+                "bloom",
+                "blossom",
+                "flower."
+            ],
+            "Arabic": [
+                "\u0632\u0647\u0631\u0629"
+            ],
+            "French": [
+                "fleur"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 484,
+            "uri": "https://sedra.bethmardutho.org/api/root/484.json"
+        },
+        "words": [
+            {
+                "id": 4914,
+                "uri": "https://sedra.bethmardutho.org/api/word/4914.json"
+            },
+            {
+                "id": 24164,
+                "uri": "https://sedra.bethmardutho.org/api/word/24164.json"
+            },
+            {
+                "id": 4915,
+                "uri": "https://sedra.bethmardutho.org/api/word/4915.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

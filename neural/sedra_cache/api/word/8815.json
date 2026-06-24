@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0712\u0721\u0718\u0717\u0712\u072c\u0717",
+        "western": "\u0712\u0741\u0721\u0730\u0718\u0717\u0730\u0712\u0742\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1310,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1310.json"
+        },
+        "stem": "\u0721\u0718\u0717\u0712\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0628\u0629, \u0646\u0639\u0645\u0629"
+            ],
+            "eng": [
+                "gift, present.",
+                "gift"
+            ],
+            "fre": [
+                "don, gr\u00e2ce"
+            ]
+        },
+        "word": {
+            "id": 8815,
+            "uri": "https://sedra.bethmardutho.org/api/word/8815.json"
+        }
+    }
+]

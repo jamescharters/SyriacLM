@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15592,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15592.json"
+        },
+        "syriac": "\u0713\u0712\u0722",
+        "glosses": {
+            "English": [
+                "Ia to curdle",
+                "IIa to curdle (something).",
+                "to harden",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2376,
+            "uri": "https://sedra.bethmardutho.org/api/root/2376.json"
+        },
+        "words": [
+            {
+                "id": 41932,
+                "uri": "https://sedra.bethmardutho.org/api/word/41932.json"
+            },
+            {
+                "id": 40439,
+                "uri": "https://sedra.bethmardutho.org/api/word/40439.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

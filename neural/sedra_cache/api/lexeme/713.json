@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 713,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/713.json"
+        },
+        "syriac": "\u0715\u0720\u071d\u0720\u0710",
+        "glosses": {
+            "English": [
+                "easy",
+                "easy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 450,
+            "uri": "https://sedra.bethmardutho.org/api/root/450.json"
+        },
+        "words": [
+            {
+                "id": 4624,
+                "uri": "https://sedra.bethmardutho.org/api/word/4624.json"
+            },
+            {
+                "id": 4627,
+                "uri": "https://sedra.bethmardutho.org/api/word/4627.json"
+            },
+            {
+                "id": 4626,
+                "uri": "https://sedra.bethmardutho.org/api/word/4626.json"
+            },
+            {
+                "id": 4625,
+                "uri": "https://sedra.bethmardutho.org/api/word/4625.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

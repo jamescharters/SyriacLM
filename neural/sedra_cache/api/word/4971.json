@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0722\u0718",
+        "western": "\u0715\u0741\u0721\u0730\u0722\u073d\u0718",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3476,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3476.json"
+        },
+        "stem": "\u0721\u0722\u0718",
+        "category": "pronoun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0646 \u0647\u0648\u061f"
+            ],
+            "eng": [
+                "who is this?"
+            ],
+            "fre": [
+                "qui est-ce?"
+            ]
+        },
+        "word": {
+            "id": 4971,
+            "uri": "https://sedra.bethmardutho.org/api/word/4971.json"
+        }
+    }
+]

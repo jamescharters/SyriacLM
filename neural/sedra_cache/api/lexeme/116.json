@@ -1,0 +1,78 @@
+[
+    {
+        "lexeme": {
+            "id": 116,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/116.json"
+        },
+        "syriac": "\u0721\u0710\u071f\u0718\u0720\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0641\u062a\u0631\u0627\u0633"
+            ],
+            "French": [
+                "action de d\u00e9vorer"
+            ],
+            "English": [
+                "food",
+                "food, provisions."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 89,
+            "uri": "https://sedra.bethmardutho.org/api/root/89.json"
+        },
+        "words": [
+            {
+                "id": 863,
+                "uri": "https://sedra.bethmardutho.org/api/word/863.json"
+            },
+            {
+                "id": 862,
+                "uri": "https://sedra.bethmardutho.org/api/word/862.json"
+            },
+            {
+                "id": 859,
+                "uri": "https://sedra.bethmardutho.org/api/word/859.json"
+            },
+            {
+                "id": 858,
+                "uri": "https://sedra.bethmardutho.org/api/word/858.json"
+            },
+            {
+                "id": 866,
+                "uri": "https://sedra.bethmardutho.org/api/word/866.json"
+            },
+            {
+                "id": 865,
+                "uri": "https://sedra.bethmardutho.org/api/word/865.json"
+            },
+            {
+                "id": 22899,
+                "uri": "https://sedra.bethmardutho.org/api/word/22899.json"
+            },
+            {
+                "id": 22898,
+                "uri": "https://sedra.bethmardutho.org/api/word/22898.json"
+            },
+            {
+                "id": 857,
+                "uri": "https://sedra.bethmardutho.org/api/word/857.json"
+            },
+            {
+                "id": 861,
+                "uri": "https://sedra.bethmardutho.org/api/word/861.json"
+            },
+            {
+                "id": 860,
+                "uri": "https://sedra.bethmardutho.org/api/word/860.json"
+            },
+            {
+                "id": 864,
+                "uri": "https://sedra.bethmardutho.org/api/word/864.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

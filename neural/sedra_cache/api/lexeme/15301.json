@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15301,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15301.json"
+        },
+        "syriac": "\u0717\u0712\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0645\u0639"
+            ],
+            "French": [
+                "briller"
+            ],
+            "English": [
+                "to flourish",
+                "IIp.",
+                "to glitter, to dazzle",
+                "IIa to blossom"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2682,
+            "uri": "https://sedra.bethmardutho.org/api/root/2682.json"
+        },
+        "words": [
+            {
+                "id": 41049,
+                "uri": "https://sedra.bethmardutho.org/api/word/41049.json"
+            },
+            {
+                "id": 40897,
+                "uri": "https://sedra.bethmardutho.org/api/word/40897.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

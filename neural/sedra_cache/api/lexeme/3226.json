@@ -1,0 +1,73 @@
+[
+    {
+        "lexeme": {
+            "id": 3226,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3226.json"
+        },
+        "syriac": "\u072b\u0718\u0720\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0645\u0627\u0644",
+                "\u0646\u0647\u0627\u064a\u0629",
+                "\u062a\u0645\u0627\u0645, \u0643\u0645\u0627\u0644"
+            ],
+            "French": [
+                "perfection",
+                "fin",
+                "pl\u00e9nitude"
+            ],
+            "English": [
+                "end",
+                "consummation",
+                "fulfilment",
+                "fulness",
+                "end, completion."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1879,
+            "uri": "https://sedra.bethmardutho.org/api/root/1879.json"
+        },
+        "words": [
+            {
+                "id": 21160,
+                "uri": "https://sedra.bethmardutho.org/api/word/21160.json"
+            },
+            {
+                "id": 21157,
+                "uri": "https://sedra.bethmardutho.org/api/word/21157.json"
+            },
+            {
+                "id": 28761,
+                "uri": "https://sedra.bethmardutho.org/api/word/28761.json"
+            },
+            {
+                "id": 28759,
+                "uri": "https://sedra.bethmardutho.org/api/word/28759.json"
+            },
+            {
+                "id": 21162,
+                "uri": "https://sedra.bethmardutho.org/api/word/21162.json"
+            },
+            {
+                "id": 21161,
+                "uri": "https://sedra.bethmardutho.org/api/word/21161.json"
+            },
+            {
+                "id": 21159,
+                "uri": "https://sedra.bethmardutho.org/api/word/21159.json"
+            },
+            {
+                "id": 21158,
+                "uri": "https://sedra.bethmardutho.org/api/word/21158.json"
+            },
+            {
+                "id": 21163,
+                "uri": "https://sedra.bethmardutho.org/api/word/21163.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 588,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/588.json"
+        },
+        "syriac": "\u0713\u0721\u0718\u072a\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0645\u0631\u0629, \u0641\u062d\u0645\u0629",
+                "\u062c\u0645\u0631\u0629",
+                "\u0642\u0637\u0639\u0629 \u062e\u0628\u0632 \u0645\u0642\u062f\u0633\u0629"
+            ],
+            "French": [
+                "charbon ardent, charbon",
+                "charbon",
+                "parcelle de pain consacr\u00e9"
+            ],
+            "English": [
+                "coal",
+                "coal",
+                "(burning) coal",
+                "particle of consecrated bread."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 382,
+            "uri": "https://sedra.bethmardutho.org/api/root/382.json"
+        },
+        "words": [
+            {
+                "id": 3818,
+                "uri": "https://sedra.bethmardutho.org/api/word/3818.json"
+            },
+            {
+                "id": 3817,
+                "uri": "https://sedra.bethmardutho.org/api/word/3817.json"
+            },
+            {
+                "id": 42276,
+                "uri": "https://sedra.bethmardutho.org/api/word/42276.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15891,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15891.json"
+        },
+        "syriac": "\u0728\u0720\u071a",
+        "glosses": {
+            "English": [
+                "IIIa to succeed, flourish, prosper",
+                "to grant success.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u0720\u0730\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0728\u0720\u073d\u0718\u071a</span>, Ia, IIp to be successful"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3048,
+            "uri": "https://sedra.bethmardutho.org/api/root/3048.json"
+        },
+        "words": [
+            {
+                "id": 41838,
+                "uri": "https://sedra.bethmardutho.org/api/word/41838.json"
+            },
+            {
+                "id": 41655,
+                "uri": "https://sedra.bethmardutho.org/api/word/41655.json"
+            },
+            {
+                "id": 40416,
+                "uri": "https://sedra.bethmardutho.org/api/word/40416.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

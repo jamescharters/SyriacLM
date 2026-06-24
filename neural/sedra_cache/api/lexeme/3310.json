@@ -1,0 +1,108 @@
+[
+    {
+        "lexeme": {
+            "id": 3310,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3310.json"
+        },
+        "syriac": "\u072b\u072a\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0643\u0627\u0646\u0629",
+                "\u0635\u0644\u0627\u0628\u0629",
+                "\u062d\u0642\u064a\u0642\u0629",
+                "\u0627\u064a\u0645\u0627\u0646",
+                "\u062b\u0642\u0629",
+                "\u0623\u0645\u0627\u0646\u0629",
+                "\u062e\u0637\u0628\u0629, \u0632\u0648\u0627\u062c"
+            ],
+            "French": [
+                "fermet\u00e9",
+                "solidit\u00e9",
+                "v\u00e9rit\u00e9",
+                "foi",
+                "confiance",
+                "fid\u00e9lit\u00e9",
+                "fian\u00e7ailles, mariage"
+            ],
+            "English": [
+                "truth",
+                "truth",
+                "firmness, faithfulness.",
+                "(Urim and) Thummim"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1924,
+            "uri": "https://sedra.bethmardutho.org/api/root/1924.json"
+        },
+        "words": [
+            {
+                "id": 58757,
+                "uri": "https://sedra.bethmardutho.org/api/word/58757.json"
+            },
+            {
+                "id": 21997,
+                "uri": "https://sedra.bethmardutho.org/api/word/21997.json"
+            },
+            {
+                "id": 21996,
+                "uri": "https://sedra.bethmardutho.org/api/word/21996.json"
+            },
+            {
+                "id": 21995,
+                "uri": "https://sedra.bethmardutho.org/api/word/21995.json"
+            },
+            {
+                "id": 21994,
+                "uri": "https://sedra.bethmardutho.org/api/word/21994.json"
+            },
+            {
+                "id": 21992,
+                "uri": "https://sedra.bethmardutho.org/api/word/21992.json"
+            },
+            {
+                "id": 21991,
+                "uri": "https://sedra.bethmardutho.org/api/word/21991.json"
+            },
+            {
+                "id": 21990,
+                "uri": "https://sedra.bethmardutho.org/api/word/21990.json"
+            },
+            {
+                "id": 21987,
+                "uri": "https://sedra.bethmardutho.org/api/word/21987.json"
+            },
+            {
+                "id": 21998,
+                "uri": "https://sedra.bethmardutho.org/api/word/21998.json"
+            },
+            {
+                "id": 21989,
+                "uri": "https://sedra.bethmardutho.org/api/word/21989.json"
+            },
+            {
+                "id": 21993,
+                "uri": "https://sedra.bethmardutho.org/api/word/21993.json"
+            },
+            {
+                "id": 21988,
+                "uri": "https://sedra.bethmardutho.org/api/word/21988.json"
+            },
+            {
+                "id": 22001,
+                "uri": "https://sedra.bethmardutho.org/api/word/22001.json"
+            },
+            {
+                "id": 22000,
+                "uri": "https://sedra.bethmardutho.org/api/word/22000.json"
+            },
+            {
+                "id": 21999,
+                "uri": "https://sedra.bethmardutho.org/api/word/21999.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

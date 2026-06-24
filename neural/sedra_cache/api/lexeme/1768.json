@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1768,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1768.json"
+        },
+        "syriac": "\u0721\u0720\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "fullness",
+                "supplement",
+                "patch",
+                "fullness."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1058,
+            "uri": "https://sedra.bethmardutho.org/api/root/1058.json"
+        },
+        "words": [
+            {
+                "id": 11681,
+                "uri": "https://sedra.bethmardutho.org/api/word/11681.json"
+            },
+            {
+                "id": 11680,
+                "uri": "https://sedra.bethmardutho.org/api/word/11680.json"
+            },
+            {
+                "id": 11679,
+                "uri": "https://sedra.bethmardutho.org/api/word/11679.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0713\u071d",
+        "western": "\u0713\u0730\u072a\u0713\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14705,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14705.json"
+        },
+        "stem": "\u0713\u072a\u0713\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to clash, to knock together."
+            ]
+        },
+        "word": {
+            "id": 41004,
+            "uri": "https://sedra.bethmardutho.org/api/word/41004.json"
+        }
+    }
+]

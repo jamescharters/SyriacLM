@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0729\u0723\u0710",
+        "western": "\u0722\u0736\u0729\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13446,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13446.json"
+        },
+        "stem": "\u0722\u0729\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639\u0629"
+            ],
+            "eng": [
+                "piece, cut (of meat)."
+            ],
+            "fre": [
+                "morceau"
+            ]
+        },
+        "word": {
+            "id": 31115,
+            "uri": "https://sedra.bethmardutho.org/api/word/31115.json"
+        }
+    }
+]

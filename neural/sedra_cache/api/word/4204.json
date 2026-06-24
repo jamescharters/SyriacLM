@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0712\u0715\u0718\u071f\u072c",
+        "western": "\u0712\u0741\u0715\u0742\u073d\u0718\u071f\u0741\u0730\u072c\u0742",
+        "state": "construct",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 667,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/667.json"
+        },
+        "stem": "\u0715\u0718\u071f\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "place",
+                "place."
+            ]
+        },
+        "word": {
+            "id": 4204,
+            "uri": "https://sedra.bethmardutho.org/api/word/4204.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1538,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1538.json"
+        },
+        "syriac": "\u071f\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                ""
+            ],
+            "French": [
+                ""
+            ],
+            "English": [
+                "how much?",
+                "how many?",
+                "how much, how many",
+                "<span class=\"selectableFont\">\u071f\u0721\u0733\u0710 \u0719\u0730\u0712\u0722\u073a\u071d\u0308</span><span class=\"selectableFont\">\u0722</span> sometimes, often enough.",
+                "+ -<span class=\"selectableFont\">\u0715</span> as much as, as long as"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 907,
+            "uri": "https://sedra.bethmardutho.org/api/root/907.json"
+        },
+        "words": [
+            {
+                "id": 10083,
+                "uri": "https://sedra.bethmardutho.org/api/word/10083.json"
+            },
+            {
+                "id": 10085,
+                "uri": "https://sedra.bethmardutho.org/api/word/10085.json"
+            },
+            {
+                "id": 10084,
+                "uri": "https://sedra.bethmardutho.org/api/word/10084.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

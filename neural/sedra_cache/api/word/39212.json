@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0726\u072c\u0718\u072c\u071f\u0710",
+        "western": "\u0726\u072c\u0730\u0718\u072c\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12293,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12293.json"
+        },
+        "stem": "\u0726\u072c\u0718\u072c\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0648\u0639 \u0645\u0646 \u0627\u0644\u062d\u062c\u0627\u0631\u0629 \u0627\u0644\u0643\u0631\u064a\u0645\u0629",
+                "\u0644\u0628\u0627\u0633 \u0645\u0632\u064a\u0646 \u0628\u0627\u0644\u0630\u0647\u0628"
+            ],
+            "eng": [
+                "kind of precious stone",
+                "ornamented garment."
+            ],
+            "fre": [
+                "esp\u00e8ce de pierre pr\u00e9cieuse",
+                "v\u00eatement broch\u00e9 d&#39;or"
+            ]
+        },
+        "word": {
+            "id": 39212,
+            "uri": "https://sedra.bethmardutho.org/api/word/39212.json"
+        }
+    }
+]

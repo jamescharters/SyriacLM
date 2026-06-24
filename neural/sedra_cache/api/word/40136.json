@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0723",
+        "western": "\u0715\u0730\u0721\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15042,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15042.json"
+        },
+        "stem": "\u0715\u0721\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0628\u0646\u0649"
+            ],
+            "eng": [
+                "IIa to lay the foundations, to build."
+            ],
+            "fre": [
+                "\u00e9difier"
+            ]
+        },
+        "word": {
+            "id": 40136,
+            "uri": "https://sedra.bethmardutho.org/api/word/40136.json"
+        }
+    }
+]

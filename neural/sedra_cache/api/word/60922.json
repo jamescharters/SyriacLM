@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0710\u0723\u0712\u071f",
+        "western": "\u0710\u0730\u0723\u0712\u0736\u071f",
+        "lexeme": {
+            "id": 34567,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/34567.json"
+        },
+        "stem": "\u0710\u0723\u0712\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to make to adhere"
+            ]
+        },
+        "word": {
+            "id": 60922,
+            "uri": "https://sedra.bethmardutho.org/api/word/60922.json"
+        }
+    }
+]

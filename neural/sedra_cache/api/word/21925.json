@@ -1,0 +1,54 @@
+[
+    {
+        "syriac": "\u072b\u0729\u0720\u0710",
+        "western": "\u072b\u0729\u0733\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3305,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3305.json"
+        },
+        "stem": "\u072b\u0729\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0648\u0627\u062c",
+                "\u0625\u0642\u0644\u064a\u0645",
+                "\u062a\u0643\u0644\u0641 \u0628\u0640",
+                "\u062a\u0639\u0630\u064a\u0628",
+                "\u0631\u0641\u0639, \u0646\u0632\u0639",
+                "\u0642\u0633\u0645, \u062d\u0635\u0629",
+                "\u062c\u0632\u064a\u0629"
+            ],
+            "eng": [
+                "portion",
+                "taking away",
+                "acceptance",
+                "diligence",
+                "Gram. syllable.",
+                "taking",
+                "care",
+                "tribute",
+                "burden"
+            ],
+            "fre": [
+                "province",
+                "portion, part",
+                "supplice",
+                "tribut",
+                "mariage",
+                "action d&#39;\u00f4ter",
+                "action d&#39;assumer"
+            ]
+        },
+        "word": {
+            "id": 21925,
+            "uri": "https://sedra.bethmardutho.org/api/word/21925.json"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 3245,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3245.json"
+        },
+        "syriac": "\u0721\u072b\u072c\u0721\u0725\u0722\u0710",
+        "glosses": {
+            "English": [
+                "obedient",
+                "compliant",
+                "to be obeyed",
+                "audible.",
+                "obedient, subject"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1888,
+            "uri": "https://sedra.bethmardutho.org/api/root/1888.json"
+        },
+        "words": [
+            {
+                "id": 28705,
+                "uri": "https://sedra.bethmardutho.org/api/word/28705.json"
+            },
+            {
+                "id": 21387,
+                "uri": "https://sedra.bethmardutho.org/api/word/21387.json"
+            },
+            {
+                "id": 21389,
+                "uri": "https://sedra.bethmardutho.org/api/word/21389.json"
+            },
+            {
+                "id": 21388,
+                "uri": "https://sedra.bethmardutho.org/api/word/21388.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "ethp\u02bfel"
+    }
+]

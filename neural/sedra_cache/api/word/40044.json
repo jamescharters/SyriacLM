@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u072a\u071d\u071a",
+        "western": "\u072a\u0730\u071d\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15203,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15203.json"
+        },
+        "stem": "\u072a\u071d\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0643\u0646 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "smell",
+                "IIp",
+                "IIIp.",
+                "IIa to placate",
+                "IIIa to smell"
+            ],
+            "fre": [
+                "\u00a0",
+                "apaiser"
+            ]
+        },
+        "word": {
+            "id": 40044,
+            "uri": "https://sedra.bethmardutho.org/api/word/40044.json"
+        }
+    }
+]

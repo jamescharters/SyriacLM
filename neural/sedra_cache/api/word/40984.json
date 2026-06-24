@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072c\u071f",
+        "western": "\u072c\u0733\u071f",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15576,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15576.json"
+        },
+        "stem": "\u072c\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to fence in, to restrain, to coerce",
+                "to cease",
+                "to hold back",
+                "to be ashamed",
+                "IIIa to put a stop to.",
+                "IIp",
+                "Ia fut. <span class=\"selectableFont\">\u0722\u072c\u073d\u0718\u071f</span>, to be contained, restrained"
+            ]
+        },
+        "word": {
+            "id": 40984,
+            "uri": "https://sedra.bethmardutho.org/api/word/40984.json"
+        }
+    }
+]

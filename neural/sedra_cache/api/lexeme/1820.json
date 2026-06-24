@@ -1,0 +1,71 @@
+[
+    {
+        "lexeme": {
+            "id": 1820,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1820.json"
+        },
+        "syriac": "\u0721\u0723\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0633\u0644\u0645",
+                "\u0639\u0644\u0645 (\u0645\u0636)",
+                ""
+            ],
+            "French": [
+                "livrer",
+                "enseigner",
+                ""
+            ],
+            "English": [
+                "to speak contemptuously",
+                "accuse",
+                "despise",
+                "Ip to be delivered up",
+                "to be scorned",
+                "III to hold in contempt.",
+                "Ia to deliver up",
+                "IIa to bring an accusation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1088,
+            "uri": "https://sedra.bethmardutho.org/api/root/1088.json"
+        },
+        "words": [
+            {
+                "id": 12078,
+                "uri": "https://sedra.bethmardutho.org/api/word/12078.json"
+            },
+            {
+                "id": 26353,
+                "uri": "https://sedra.bethmardutho.org/api/word/26353.json"
+            },
+            {
+                "id": 26352,
+                "uri": "https://sedra.bethmardutho.org/api/word/26352.json"
+            },
+            {
+                "id": 12077,
+                "uri": "https://sedra.bethmardutho.org/api/word/12077.json"
+            },
+            {
+                "id": 26355,
+                "uri": "https://sedra.bethmardutho.org/api/word/26355.json"
+            },
+            {
+                "id": 26354,
+                "uri": "https://sedra.bethmardutho.org/api/word/26354.json"
+            },
+            {
+                "id": 12079,
+                "uri": "https://sedra.bethmardutho.org/api/word/12079.json"
+            },
+            {
+                "id": 12076,
+                "uri": "https://sedra.bethmardutho.org/api/word/12076.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

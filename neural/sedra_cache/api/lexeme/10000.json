@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 10000,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10000.json"
+        },
+        "syriac": "\u071a\u0721\u072b\u0725\u0723\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0645\u0633 \u0639\u0634\u0631\u0629"
+            ],
+            "French": [
+                "quinze"
+            ],
+            "English": [
+                "fifteen.",
+                "fifteen"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 7232,
+                "uri": "https://sedra.bethmardutho.org/api/word/7232.json"
+            },
+            {
+                "id": 7233,
+                "uri": "https://sedra.bethmardutho.org/api/word/7233.json"
+            },
+            {
+                "id": 34823,
+                "uri": "https://sedra.bethmardutho.org/api/word/34823.json"
+            }
+        ]
+    }
+]

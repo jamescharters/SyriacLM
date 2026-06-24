@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0710\u0723\u071d\u072a\u0710",
+        "western": "\u0710\u0730\u0723\u073a\u071d\u072a\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 234,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/234.json"
+        },
+        "stem": "\u0710\u0723\u071d\u072a\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0633\u064a\u0631",
+                "\u0633\u062c\u064a\u0646"
+            ],
+            "eng": [
+                "prisoner",
+                "sergeant",
+                "prisoner",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0710\u0730\u0723\u073a\u071d\u072a\u0308</span><span class=\"selectableFont\">\u0736\u0710</span> prison.",
+                "bound"
+            ],
+            "fre": [
+                "prisonnier",
+                "captif"
+            ]
+        },
+        "word": {
+            "id": 1663,
+            "uri": "https://sedra.bethmardutho.org/api/word/1663.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 760,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/760.json"
+        },
+        "syriac": "\u0715\u072a\u0721\u0723\u0718\u0729",
+        "glosses": {
+            "English": [
+                "Damascus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2045,
+            "uri": "https://sedra.bethmardutho.org/api/root/2045.json"
+        },
+        "words": [
+            {
+                "id": 4880,
+                "uri": "https://sedra.bethmardutho.org/api/word/4880.json"
+            },
+            {
+                "id": 4879,
+                "uri": "https://sedra.bethmardutho.org/api/word/4879.json"
+            },
+            {
+                "id": 4878,
+                "uri": "https://sedra.bethmardutho.org/api/word/4878.json"
+            },
+            {
+                "id": 4881,
+                "uri": "https://sedra.bethmardutho.org/api/word/4881.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

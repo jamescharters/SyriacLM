@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u0710\u0726\u0710",
+        "western": "\u0722\u0736\u0710\u0726\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15672,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15672.json"
+        },
+        "stem": "\u0710\u0726\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to bake",
+                "Ip."
+            ]
+        },
+        "word": {
+            "id": 41619,
+            "uri": "https://sedra.bethmardutho.org/api/word/41619.json"
+        }
+    }
+]

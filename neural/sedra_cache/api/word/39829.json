@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0719\u0725\u0726",
+        "western": "\u0719\u0725\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15415,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15415.json"
+        },
+        "stem": "\u0719\u0725\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0641\u0639"
+            ],
+            "eng": [
+                "Ia to thrust",
+                "to rail at",
+                "Ip to be indignant",
+                "IIa to menace.",
+                "be angry"
+            ],
+            "fre": [
+                "pousser"
+            ]
+        },
+        "word": {
+            "id": 39829,
+            "uri": "https://sedra.bethmardutho.org/api/word/39829.json"
+        }
+    }
+]

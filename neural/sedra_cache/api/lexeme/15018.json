@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15018,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15018.json"
+        },
+        "syriac": "\u0729\u072b\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0633\u0649 (\u0645\u0636)"
+            ],
+            "French": [
+                "rendre dur"
+            ],
+            "English": [
+                "IIa to harden",
+                "IIIa to be harsh",
+                "to make grievous",
+                "IIp",
+                "to harden."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2812,
+            "uri": "https://sedra.bethmardutho.org/api/root/2812.json"
+        },
+        "words": [
+            {
+                "id": 39912,
+                "uri": "https://sedra.bethmardutho.org/api/word/39912.json"
+            },
+            {
+                "id": 39811,
+                "uri": "https://sedra.bethmardutho.org/api/word/39811.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

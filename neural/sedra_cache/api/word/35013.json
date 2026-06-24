@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0729\u071d\u0718\u072c\u0710",
+        "western": "\u0729\u073d\u0718\u0729\u0733\u071d\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10159,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10159.json"
+        },
+        "stem": "\u0729\u0718\u0729\u071d\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u062e\u0627\u0631\u0629"
+            ],
+            "eng": [
+                "potter\u2019s craft."
+            ],
+            "fre": [
+                "art du potier"
+            ]
+        },
+        "word": {
+            "id": 35013,
+            "uri": "https://sedra.bethmardutho.org/api/word/35013.json"
+        }
+    }
+]

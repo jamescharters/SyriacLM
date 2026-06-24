@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14919,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14919.json"
+        },
+        "syriac": "\u0729\u072a\u0715\u071a",
+        "glosses": {
+            "English": [
+                "IVa to cudgel",
+                "to hammer."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2351,
+            "uri": "https://sedra.bethmardutho.org/api/root/2351.json"
+        },
+        "words": [
+            {
+                "id": 41322,
+                "uri": "https://sedra.bethmardutho.org/api/word/41322.json"
+            },
+            {
+                "id": 40790,
+                "uri": "https://sedra.bethmardutho.org/api/word/40790.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

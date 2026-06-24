@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 683,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/683.json"
+        },
+        "syriac": "\u0715\u071a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u062f, \u0632\u062c\u0631",
+                ""
+            ],
+            "French": [
+                "repousser , rejecter",
+                ""
+            ],
+            "English": [
+                "reject",
+                "thrust away",
+                "repudiate",
+                "Ia to drive away, remove, Kth. to push",
+                "Ip",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 433,
+            "uri": "https://sedra.bethmardutho.org/api/root/433.json"
+        },
+        "words": [
+            {
+                "id": 4331,
+                "uri": "https://sedra.bethmardutho.org/api/word/4331.json"
+            },
+            {
+                "id": 4329,
+                "uri": "https://sedra.bethmardutho.org/api/word/4329.json"
+            },
+            {
+                "id": 4328,
+                "uri": "https://sedra.bethmardutho.org/api/word/4328.json"
+            },
+            {
+                "id": 4330,
+                "uri": "https://sedra.bethmardutho.org/api/word/4330.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0712\u0717\u0722\u0718\u0722",
+        "western": "\u0712\u0741\u0717\u0736\u0722\u073d\u0718\u0722",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 781,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/781.json"
+        },
+        "stem": "\u0717\u0718",
+        "category": "pronoun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "#NAME?",
+                "\u0647\u0648, \u0647\u0648 \u0630\u0627\u062a\u0647",
+                ""
+            ],
+            "eng": [
+                "it",
+                "<span class=\"selectableFont\">\u0717\u073d\u0718 \u071f\u0730\u0715 \u0717\u073d\u0718</span> the same.",
+                "he",
+                "he",
+                "is"
+            ],
+            "fre": [
+                "",
+                "[= v. \u00eatre] il est , etc.",
+                "lui , lui-m\u00eame"
+            ]
+        },
+        "word": {
+            "id": 4960,
+            "uri": "https://sedra.bethmardutho.org/api/word/4960.json"
+        }
+    }
+]

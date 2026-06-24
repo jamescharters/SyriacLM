@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0713\u0718\u0723\u0718",
+        "western": "\u0710\u0736\u072c\u0742\u0713\u0741\u0730\u0718\u0730\u0723\u0718",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 536,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/536.json"
+        },
+        "stem": "\u0713\u0718\u0723",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0713\u0730\u0718\u0730\u0723</span> to take refuge, flee for help.",
+                "take refuge",
+                "flee"
+            ]
+        },
+        "word": {
+            "id": 3582,
+            "uri": "https://sedra.bethmardutho.org/api/word/3582.json"
+        }
+    }
+]

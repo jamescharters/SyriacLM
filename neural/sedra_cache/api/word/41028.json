@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u071f\u071b\u071f",
+        "western": "\u071b\u0730\u071f\u071b\u0736\u071f",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14743,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14743.json"
+        },
+        "stem": "\u071b\u071f\u071b\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to resound."
+            ]
+        },
+        "word": {
+            "id": 41028,
+            "uri": "https://sedra.bethmardutho.org/api/word/41028.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2904,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2904.json"
+        },
+        "syriac": "\u0729\u072b\u072c\u0710",
+        "glosses": {
+            "English": [
+                "1 bow",
+                "rainbow",
+                "arch.",
+                "bow",
+                "rainbow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1720,
+            "uri": "https://sedra.bethmardutho.org/api/root/1720.json"
+        },
+        "words": [
+            {
+                "id": 39601,
+                "uri": "https://sedra.bethmardutho.org/api/word/39601.json"
+            },
+            {
+                "id": 18907,
+                "uri": "https://sedra.bethmardutho.org/api/word/18907.json"
+            },
+            {
+                "id": 18908,
+                "uri": "https://sedra.bethmardutho.org/api/word/18908.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

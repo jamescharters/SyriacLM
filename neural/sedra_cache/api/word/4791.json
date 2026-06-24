@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0721\u0715\u0722\u071a\u071d",
+        "western": "\u0721\u0730\u0715\u0742\u0722\u071a\u0730\u071d",
+        "state": "construct",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 736,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/736.json"
+        },
+        "stem": "\u0721\u0715\u0722\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Orient",
+                "east",
+                "east."
+            ]
+        },
+        "word": {
+            "id": 4791,
+            "uri": "https://sedra.bethmardutho.org/api/word/4791.json"
+        }
+    }
+]

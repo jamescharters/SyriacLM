@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 27099,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27099.json"
+        },
+        "syriac": "\u0710\u0718\u0723\u0710\u0712\u071d\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u0395\u1f50\u03c3\u03ad\u03b2\u03b9\u03bf\u03c2"
+            ],
+            "Latin": [
+                "Eusebius"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 53559,
+                "uri": "https://sedra.bethmardutho.org/api/word/53559.json"
+            },
+            {
+                "id": 53473,
+                "uri": "https://sedra.bethmardutho.org/api/word/53473.json"
+            }
+        ],
+        "category": "proper noun (individual's name; e.g. Ephrem)"
+    }
+]

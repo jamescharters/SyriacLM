@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 1544,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1544.json"
+        },
+        "syriac": "\u071f\u0721\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0632\u0646"
+            ],
+            "French": [
+                "\u00eatre ou devenir triste"
+            ],
+            "English": [
+                "sad",
+                "Ia to be sad",
+                "IIIa to sadden, make gloomy.",
+                "Ip to be gloomy, downcast"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 910,
+            "uri": "https://sedra.bethmardutho.org/api/root/910.json"
+        },
+        "words": [
+            {
+                "id": 25740,
+                "uri": "https://sedra.bethmardutho.org/api/word/25740.json"
+            },
+            {
+                "id": 10095,
+                "uri": "https://sedra.bethmardutho.org/api/word/10095.json"
+            },
+            {
+                "id": 25741,
+                "uri": "https://sedra.bethmardutho.org/api/word/25741.json"
+            },
+            {
+                "id": 10097,
+                "uri": "https://sedra.bethmardutho.org/api/word/10097.json"
+            },
+            {
+                "id": 10096,
+                "uri": "https://sedra.bethmardutho.org/api/word/10096.json"
+            },
+            {
+                "id": 10094,
+                "uri": "https://sedra.bethmardutho.org/api/word/10094.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

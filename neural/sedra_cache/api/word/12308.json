@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0712\u0721\u072b\u071a\u0710",
+        "western": "\u0712\u0741\u0721\u0736\u072b\u071a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1870,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1870.json"
+        },
+        "stem": "\u0721\u072b\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0647\u0646",
+                "\u0632\u064a\u062a"
+            ],
+            "eng": [
+                "ointment",
+                "ointment, oil, unguent.",
+                "oil",
+                "unguent"
+            ],
+            "fre": [
+                "huile",
+                "graisse"
+            ]
+        },
+        "word": {
+            "id": 12308,
+            "uri": "https://sedra.bethmardutho.org/api/word/12308.json"
+        }
+    }
+]

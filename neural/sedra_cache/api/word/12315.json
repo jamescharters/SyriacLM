@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0715\u0712\u0721\u072b\u071d\u071a\u0710",
+        "western": "\u0715\u0741\u0712\u0742\u0730\u0721\u072b\u073a\u071d\u071a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1871,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1871.json"
+        },
+        "stem": "\u0721\u072b\u071d\u071a\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u064a\u062d"
+            ],
+            "eng": [
+                "Christ",
+                "Annointed One",
+                "Messiah",
+                "anointed.",
+                "Messiah, Christ"
+            ],
+            "fre": [
+                "christ, messie"
+            ]
+        },
+        "word": {
+            "id": 12315,
+            "uri": "https://sedra.bethmardutho.org/api/word/12315.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2644,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2644.json"
+        },
+        "syriac": "\u0721\u0726\u072c\u071a\u0710",
+        "glosses": {
+            "English": [
+                "mouthed",
+                "opening."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1567,
+            "uri": "https://sedra.bethmardutho.org/api/root/1567.json"
+        },
+        "words": [
+            {
+                "id": 17174,
+                "uri": "https://sedra.bethmardutho.org/api/word/17174.json"
+            },
+            {
+                "id": 26086,
+                "uri": "https://sedra.bethmardutho.org/api/word/26086.json"
+            },
+            {
+                "id": 17175,
+                "uri": "https://sedra.bethmardutho.org/api/word/17175.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

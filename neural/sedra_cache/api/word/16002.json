@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0725\u072a\u0718\u0729\u071d\u071f\u0718\u0722",
+        "western": "\u0725\u072a\u073d\u0718\u0729\u073a\u071d\u071f\u0742\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2422,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2422.json"
+        },
+        "stem": "\u0725\u072a\u0718\u0729\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "flight",
+                "flight, escape."
+            ]
+        },
+        "word": {
+            "id": 16002,
+            "uri": "https://sedra.bethmardutho.org/api/word/16002.json"
+        }
+    }
+]

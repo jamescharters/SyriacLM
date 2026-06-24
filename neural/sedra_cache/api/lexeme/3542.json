@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3542,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3542.json"
+        },
+        "syriac": "\u072a\u0725\u0720\u0710",
+        "glosses": {
+            "English": [
+                "trembling"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c4\u03c1\u03cc\u03bc\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1778,
+            "uri": "https://sedra.bethmardutho.org/api/root/1778.json"
+        },
+        "words": [
+            {
+                "id": 23646,
+                "uri": "https://sedra.bethmardutho.org/api/word/23646.json"
+            },
+            {
+                "id": 19936,
+                "uri": "https://sedra.bethmardutho.org/api/word/19936.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

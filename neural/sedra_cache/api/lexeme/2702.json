@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2702,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2702.json"
+        },
+        "syriac": "\u0728\u0722\u0725",
+        "glosses": {
+            "English": [
+                "plot",
+                "scheme"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1599,
+            "uri": "https://sedra.bethmardutho.org/api/root/1599.json"
+        },
+        "words": [
+            {
+                "id": 17560,
+                "uri": "https://sedra.bethmardutho.org/api/word/17560.json"
+            },
+            {
+                "id": 28014,
+                "uri": "https://sedra.bethmardutho.org/api/word/28014.json"
+            },
+            {
+                "id": 28013,
+                "uri": "https://sedra.bethmardutho.org/api/word/28013.json"
+            },
+            {
+                "id": 17562,
+                "uri": "https://sedra.bethmardutho.org/api/word/17562.json"
+            },
+            {
+                "id": 17563,
+                "uri": "https://sedra.bethmardutho.org/api/word/17563.json"
+            },
+            {
+                "id": 17561,
+                "uri": "https://sedra.bethmardutho.org/api/word/17561.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

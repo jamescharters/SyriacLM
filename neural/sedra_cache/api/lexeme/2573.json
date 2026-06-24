@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2573,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2573.json"
+        },
+        "syriac": "\u0726\u0729\u0725\u072c\u0710",
+        "glosses": {
+            "English": [
+                "plain",
+                "valley",
+                "expanse.",
+                "plain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1523,
+            "uri": "https://sedra.bethmardutho.org/api/root/1523.json"
+        },
+        "words": [
+            {
+                "id": 16819,
+                "uri": "https://sedra.bethmardutho.org/api/word/16819.json"
+            },
+            {
+                "id": 16818,
+                "uri": "https://sedra.bethmardutho.org/api/word/16818.json"
+            },
+            {
+                "id": 16820,
+                "uri": "https://sedra.bethmardutho.org/api/word/16820.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

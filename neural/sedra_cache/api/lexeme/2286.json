@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 2286,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2286.json"
+        },
+        "syriac": "\u0725\u0718\u072a\u0720\u0710",
+        "glosses": {
+            "English": [
+                "uncircumcised",
+                "uncircumcised."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1360,
+            "uri": "https://sedra.bethmardutho.org/api/root/1360.json"
+        },
+        "words": [
+            {
+                "id": 15908,
+                "uri": "https://sedra.bethmardutho.org/api/word/15908.json"
+            },
+            {
+                "id": 15207,
+                "uri": "https://sedra.bethmardutho.org/api/word/15207.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

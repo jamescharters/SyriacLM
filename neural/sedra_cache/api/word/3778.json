@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0713\u0720\u0718\u0723\u0729\u0721\u0710",
+        "western": "\u0713\u0741\u0720\u073d\u0718\u0723\u0729\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 578,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/578.json"
+        },
+        "stem": "\u0713\u0720\u0718\u0723\u0729\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0646\u062f\u0648\u0642",
+                "\u0628\u064a\u062a \u0630\u062e\u0627\u0626\u0631"
+            ],
+            "eng": [
+                "box",
+                "chest",
+                "bag",
+                "box, case, reliquary, coffin."
+            ],
+            "fre": [
+                "cassette , coffre",
+                "reliquaire"
+            ]
+        },
+        "word": {
+            "id": 3778,
+            "uri": "https://sedra.bethmardutho.org/api/word/3778.json"
+        }
+    }
+]

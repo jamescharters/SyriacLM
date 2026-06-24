@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0712\u0725\u0720",
+        "western": "\u0712\u0741\u0725\u0736\u0720",
+        "state": "construct",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 436,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/436.json"
+        },
+        "stem": "\u0712\u0725\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "husband",
+                "owner, master, husband.",
+                "master",
+                "lord"
+            ]
+        },
+        "word": {
+            "id": 3036,
+            "uri": "https://sedra.bethmardutho.org/api/word/3036.json"
+        }
+    }
+]

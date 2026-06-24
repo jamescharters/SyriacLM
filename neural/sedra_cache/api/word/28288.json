@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0715\u0729\u0728\u071d\u0722\u0722",
+        "western": "\u0715\u0741\u0729\u0733\u0728\u0736\u071d\u0722\u0730\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2863,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2863.json"
+        },
+        "stem": "\u0729\u0728\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0633\u0631 (\u0627\u0644\u062e\u0628\u0632)",
+                "\u0642\u062f\u0633 (\u0645\u0636), \u0642\u0627\u0645 \u0628\u0627\u0644\u0630\u0628\u064a\u062d\u0629 \u0627\u0644\u0645\u0642\u062f\u0633\u0629",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to break (bread)",
+                "break (bread)",
+                "Ip."
+            ],
+            "fre": [
+                "\u00a0",
+                "consacrer, c\u00e9l\u00e9brer le Saint Sacrifice",
+                "rompre (le pain)"
+            ]
+        },
+        "word": {
+            "id": 28288,
+            "uri": "https://sedra.bethmardutho.org/api/word/28288.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072c\u072b\u0725\u071d\u0722",
+        "western": "\u072c\u0741\u0736\u072b\u0725\u073a\u071d\u0722",
+        "lexeme": {
+            "id": 3455,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3455.json"
+        },
+        "stem": "\u072c\u072b\u0725\u071d\u0722",
+        "category": "numeral",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0633\u0639\u0648\u0646"
+            ],
+            "eng": [
+                "lot",
+                "ninety.",
+                "portion",
+                "ninety"
+            ],
+            "fre": [
+                "quatre- vingt dix"
+            ]
+        },
+        "word": {
+            "id": 22752,
+            "uri": "https://sedra.bethmardutho.org/api/word/22752.json"
+        }
+    }
+]

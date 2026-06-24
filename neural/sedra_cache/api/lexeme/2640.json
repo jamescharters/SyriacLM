@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2640,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2640.json"
+        },
+        "syriac": "\u0726\u072c\u071d\u0710",
+        "glosses": {
+            "English": [
+                "broad"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1564,
+            "uri": "https://sedra.bethmardutho.org/api/root/1564.json"
+        },
+        "words": [
+            {
+                "id": 17151,
+                "uri": "https://sedra.bethmardutho.org/api/word/17151.json"
+            },
+            {
+                "id": 17153,
+                "uri": "https://sedra.bethmardutho.org/api/word/17153.json"
+            },
+            {
+                "id": 17152,
+                "uri": "https://sedra.bethmardutho.org/api/word/17152.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

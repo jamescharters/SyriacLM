@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15481,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15481.json"
+        },
+        "syriac": "\u0719\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u063a\u0628"
+            ],
+            "French": [
+                "d\u00e9sirer"
+            ],
+            "English": [
+                "to steep.",
+                "Ia to dart swiftly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2161,
+            "uri": "https://sedra.bethmardutho.org/api/root/2161.json"
+        },
+        "words": [
+            {
+                "id": 41847,
+                "uri": "https://sedra.bethmardutho.org/api/word/41847.json"
+            },
+            {
+                "id": 40436,
+                "uri": "https://sedra.bethmardutho.org/api/word/40436.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

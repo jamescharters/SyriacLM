@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u071f\u071f\u0710",
+        "western": "\u071a\u071f\u0733\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6230,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6230.json"
+        },
+        "stem": "\u071a\u071f\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0643\u0627\u0644"
+            ],
+            "eng": [
+                "itch, scab."
+            ],
+            "fre": [
+                "d\u00e9mangeaison"
+            ]
+        },
+        "word": {
+            "id": 34352,
+            "uri": "https://sedra.bethmardutho.org/api/word/34352.json"
+        }
+    }
+]

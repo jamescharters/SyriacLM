@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0715\u0718\u0725\u072c\u0710",
+        "western": "\u0715\u0741\u073d\u0718\u0725\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "common",
+        "lexeme": {
+            "id": 671,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/671.json"
+        },
+        "stem": "\u0715\u0718\u0725\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sweat, perspiration.",
+                "sweat"
+            ]
+        },
+        "word": {
+            "id": 4228,
+            "uri": "https://sedra.bethmardutho.org/api/word/4228.json"
+        }
+    }
+]

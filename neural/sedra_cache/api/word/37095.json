@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u0729\u072a\u0710",
+        "western": "\u072b\u0730\u0729\u0733\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8458,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8458.json"
+        },
+        "stem": "\u072b\u0729\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0630\u0627\u0628"
+            ],
+            "eng": [
+                "lying, liar, perfidious."
+            ],
+            "fre": [
+                "menteur"
+            ]
+        },
+        "word": {
+            "id": 37095,
+            "uri": "https://sedra.bethmardutho.org/api/word/37095.json"
+        }
+    }
+]

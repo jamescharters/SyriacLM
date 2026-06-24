@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15578,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15578.json"
+        },
+        "syriac": "\u0728\u0720",
+        "glosses": {
+            "English": [
+                "Ia to tingle, ring",
+                "IIp to be made pure, refined.",
+                "to refine",
+                "IIa <span class=\"selectableFont\">\u0728\u0730\u0720\u0736\u0720</span> to strain (a liquid), filter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2463,
+            "uri": "https://sedra.bethmardutho.org/api/root/2463.json"
+        },
+        "words": [
+            {
+                "id": 41676,
+                "uri": "https://sedra.bethmardutho.org/api/word/41676.json"
+            },
+            {
+                "id": 41118,
+                "uri": "https://sedra.bethmardutho.org/api/word/41118.json"
+            },
+            {
+                "id": 41103,
+                "uri": "https://sedra.bethmardutho.org/api/word/41103.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 580,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/580.json"
+        },
+        "syriac": "\u0713\u0720\u071b\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Galatia"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2044,
+            "uri": "https://sedra.bethmardutho.org/api/root/2044.json"
+        },
+        "words": [
+            {
+                "id": 3795,
+                "uri": "https://sedra.bethmardutho.org/api/word/3795.json"
+            },
+            {
+                "id": 3794,
+                "uri": "https://sedra.bethmardutho.org/api/word/3794.json"
+            },
+            {
+                "id": 3793,
+                "uri": "https://sedra.bethmardutho.org/api/word/3793.json"
+            },
+            {
+                "id": 3792,
+                "uri": "https://sedra.bethmardutho.org/api/word/3792.json"
+            },
+            {
+                "id": 3796,
+                "uri": "https://sedra.bethmardutho.org/api/word/3796.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

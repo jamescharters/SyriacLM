@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u0726\u0718\u072a",
+        "western": "\u0722\u0736\u0726\u073d\u0718\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15409,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15409.json"
+        },
+        "stem": "\u0726\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u0730\u072a</span> to put to flight.",
+                "Ia to flee, to be off"
+            ]
+        },
+        "word": {
+            "id": 41686,
+            "uri": "https://sedra.bethmardutho.org/api/word/41686.json"
+        }
+    }
+]

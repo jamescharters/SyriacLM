@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 2987,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2987.json"
+        },
+        "syriac": "\u072a\u0718\u0725\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u063a\u0648\u0629"
+            ],
+            "French": [
+                "\u00e9cume"
+            ],
+            "English": [
+                "scum",
+                "foam",
+                "froth, foam",
+                "nonsense."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c6\u03c1\u03cc\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1747,
+            "uri": "https://sedra.bethmardutho.org/api/root/1747.json"
+        },
+        "words": [
+            {
+                "id": 19475,
+                "uri": "https://sedra.bethmardutho.org/api/word/19475.json"
+            },
+            {
+                "id": 19474,
+                "uri": "https://sedra.bethmardutho.org/api/word/19474.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

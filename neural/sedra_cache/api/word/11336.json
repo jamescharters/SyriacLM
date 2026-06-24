@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u071d\u0718\u072c\u0718\u072c\u0710",
+        "western": "\u0721\u0733\u071d\u073d\u0718\u072c\u0742\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1730,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1730.json"
+        },
+        "stem": "\u0721\u071d\u0718\u072c\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u064a\u062a\u0648\u062a\u0629"
+            ],
+            "eng": [
+                "+ <span class=\"selectableFont\">\u0720\u0733\u0710</span> immortality.",
+                "mortal state, mortality",
+                "mortality"
+            ],
+            "fre": [
+                "mortalit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 11336,
+            "uri": "https://sedra.bethmardutho.org/api/word/11336.json"
+        }
+    }
+]

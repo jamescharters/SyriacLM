@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0715\u0720\u0721\u0722\u071d\u0722\u0710",
+        "western": "\u0715\u0741\u0730\u0720\u0721\u0736\u0722\u071d\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1804,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1804.json"
+        },
+        "stem": "\u0721\u0722\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "number, reckoning, computation, era.",
+                "number"
+            ]
+        },
+        "word": {
+            "id": 29648,
+            "uri": "https://sedra.bethmardutho.org/api/word/29648.json"
+        }
+    }
+]

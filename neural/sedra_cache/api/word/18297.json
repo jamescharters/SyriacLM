@@ -1,0 +1,63 @@
+[
+    {
+        "syriac": "\u0718\u0721\u072c\u0729\u071b\u072a",
+        "western": "\u0718\u0721\u0736\u072c\u0742\u0729\u0730\u071b\u0730\u072a",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2799,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2799.json"
+        },
+        "stem": "\u0729\u071b\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0628\u0637",
+                "\u0643\u062b\u0641",
+                "\u062d\u0627\u0643 , \u062d\u0628\u0643",
+                "\u0631\u0643\u0628, \u0639\u0645\u0644, \u0623\u0639\u062f",
+                "\u0627\u0628\u062a\u062f\u0623 (\u0627\u0644\u0642\u062a\u0627\u0644)",
+                "\u062a\u062a\u0648\u062c (\u062a\u0633\u0646\u0645 \u0627\u0644\u0639\u0631\u0634)",
+                "\u062a\u0643\u0627\u062b\u0641, \u062c\u0645\u062f",
+                "\u0627\u0646\u0636\u0645",
+                "\u0648\u0642\u0639, \u0635\u0627\u0631, \u062d\u062f\u062b",
+                "\u00a0"
+            ],
+            "eng": [
+                "to engage (battle)",
+                "to condense, grow thick",
+                "IIIa.",
+                "to form",
+                "Ip",
+                "Ia to tie, knot, interweave",
+                "to prepare",
+                "be joined together",
+                "IIp",
+                "IIa"
+            ],
+            "fre": [
+                "s&#39;\u00e9paissir, se figer",
+                "\u00a0",
+                "composer, faire, pr\u00e9parer",
+                "s&#39;\u00e9lever, se produire, avoir lieu",
+                "tisser, entrelacer",
+                "ceindre (la couronne)",
+                "condenser",
+                "se joindre",
+                "lier",
+                "engager (le combat)"
+            ]
+        },
+        "word": {
+            "id": 18297,
+            "uri": "https://sedra.bethmardutho.org/api/word/18297.json"
+        }
+    }
+]

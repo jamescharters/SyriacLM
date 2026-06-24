@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u072c\u071a\u0721",
+        "western": "\u072c\u0730\u071a\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15249,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15249.json"
+        },
+        "stem": "\u072c\u071a\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0642\u0631\u0631",
+                "\u062b\u0628\u062a (\u0645\u0636)",
+                "\u062d\u062f, \u062d\u062f\u062f, \u0639\u064a\u0646",
+                "\u0631\u0633\u0645 \u0639\u0644\u064a\u0647 \u0625\u0634\u0627\u0631\u0629 \u0627\u0644\u0635\u0644\u064a\u0628",
+                "\u0623\u0645\u0631"
+            ],
+            "eng": [
+                "to determine, define",
+                "IIp.",
+                "to confine, restrict",
+                "IIa to set a limit, boundary",
+                "to fix, settle"
+            ],
+            "fre": [
+                "ordonner",
+                "d\u00e9cider",
+                "limiter, circonscrire, d\u00e9finir",
+                "affermir",
+                "marquer du signe de la croix"
+            ]
+        },
+        "word": {
+            "id": 40677,
+            "uri": "https://sedra.bethmardutho.org/api/word/40677.json"
+        }
+    }
+]

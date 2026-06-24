@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2786,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2786.json"
+        },
+        "syriac": "\u0729\u0718\u072b\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0642\u064a\u0642\u0629",
+                "\u0639\u062f\u0644"
+            ],
+            "French": [
+                "v\u00e9rit\u00e9",
+                "justice"
+            ],
+            "English": [
+                "truth",
+                "verity",
+                "truth, verity."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1644,
+            "uri": "https://sedra.bethmardutho.org/api/root/1644.json"
+        },
+        "words": [
+            {
+                "id": 18176,
+                "uri": "https://sedra.bethmardutho.org/api/word/18176.json"
+            },
+            {
+                "id": 18175,
+                "uri": "https://sedra.bethmardutho.org/api/word/18175.json"
+            },
+            {
+                "id": 18174,
+                "uri": "https://sedra.bethmardutho.org/api/word/18174.json"
+            },
+            {
+                "id": 18177,
+                "uri": "https://sedra.bethmardutho.org/api/word/18177.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

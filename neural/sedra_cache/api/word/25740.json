@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0718\u071f\u0721\u071d\u072a\u071d\u0722",
+        "western": "\u0718\u0730\u071f\u0742\u0721\u073a\u071d\u072a\u073a\u071d\u0722",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1544,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1544.json"
+        },
+        "stem": "\u071f\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0632\u0646"
+            ],
+            "eng": [
+                "be sad",
+                "Ia to be sad",
+                "Ip to be gloomy, downcast",
+                "IIIa to sadden, make gloomy."
+            ],
+            "fre": [
+                "\u00eatre ou devenir triste"
+            ]
+        },
+        "word": {
+            "id": 25740,
+            "uri": "https://sedra.bethmardutho.org/api/word/25740.json"
+        }
+    }
+]

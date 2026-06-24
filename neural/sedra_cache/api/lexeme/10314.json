@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 10314,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10314.json"
+        },
+        "syriac": "\u0725\u0720\u072c\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "causal, as particles of causation",
+                "derivative.",
+                "Gram. accusative",
+                "causal"
+            ],
+            "Arabic": [
+                "\u0645\u0634\u062a\u0642"
+            ],
+            "French": [
+                "d\u00e9riv\u00e9"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f30\u03c4\u03b9\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 44122,
+                "uri": "https://sedra.bethmardutho.org/api/word/44122.json"
+            },
+            {
+                "id": 33608,
+                "uri": "https://sedra.bethmardutho.org/api/word/33608.json"
+            }
+        ]
+    }
+]

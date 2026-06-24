@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0713\u0713\u072a\u0722\u0710",
+        "western": "\u0713\u0730\u0713\u072a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7358,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7358.json"
+        },
+        "stem": "\u0713\u0713\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0647\u0645"
+            ],
+            "eng": [
+                "glutton, gluttonous",
+                "Gram. guttural."
+            ],
+            "fre": [
+                "glouton"
+            ]
+        },
+        "word": {
+            "id": 32904,
+            "uri": "https://sedra.bethmardutho.org/api/word/32904.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072a\u071f",
+        "western": "\u072a\u0730\u071f\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3022.json"
+        },
+        "stem": "\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp",
+                "be soft",
+                "be tender",
+                "Ip to become soft",
+                "to soothe, to mitigate.",
+                "Ia to be soft, tender",
+                "IIIa to soften",
+                "IIa to soften"
+            ]
+        },
+        "word": {
+            "id": 19709,
+            "uri": "https://sedra.bethmardutho.org/api/word/19709.json"
+        }
+    }
+]

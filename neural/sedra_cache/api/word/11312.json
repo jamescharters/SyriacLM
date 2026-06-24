@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0721\u072c",
+        "western": "\u0721\u0733\u072c",
+        "lexeme": {
+            "id": 1727,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1727.json"
+        },
+        "stem": "\u0721\u0718\u072c",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be dead",
+                "die",
+                "put to death"
+            ]
+        },
+        "word": {
+            "id": 11312,
+            "uri": "https://sedra.bethmardutho.org/api/word/11312.json"
+        }
+    }
+]

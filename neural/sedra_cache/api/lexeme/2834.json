@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 2834,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2834.json"
+        },
+        "syriac": "\u0729\u0721\u0728\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0631\u0627\u062f"
+            ],
+            "French": [
+                "sauterelles"
+            ],
+            "English": [
+                "locust",
+                "locust."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1677,
+            "uri": "https://sedra.bethmardutho.org/api/root/1677.json"
+        },
+        "words": [
+            {
+                "id": 18408,
+                "uri": "https://sedra.bethmardutho.org/api/word/18408.json"
+            },
+            {
+                "id": 22847,
+                "uri": "https://sedra.bethmardutho.org/api/word/22847.json"
+            },
+            {
+                "id": 18409,
+                "uri": "https://sedra.bethmardutho.org/api/word/18409.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

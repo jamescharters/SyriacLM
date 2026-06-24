@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0722\u071a\u0723\u0722\u0718\u0722\u0717",
+        "western": "\u0722\u0736\u071a\u0723\u0722\u073d\u0718\u0722\u0733\u0717",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 1112,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1112.json"
+        },
+        "stem": "\u071a\u0723\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "b) trans. <span class=\"selectableFont\">\u071a\u0723\u0730\u0722</span> to prevail over, be stronger than",
+                "& <span class=\"selectableFont\">\u071a\u0723\u0730\u0722</span> fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u0723\u0730\u0722</span>, Ia a) intrans. to be strong, to be severe, grievous",
+                "Ip to be subdued, overpowered",
+                "IIp to be strengthened",
+                "to show oneself strong",
+                "IIa to strengthen, fortify",
+                "to tyrannize over.",
+                "strengthen",
+                "prevail",
+                "be strong"
+            ]
+        },
+        "word": {
+            "id": 7372,
+            "uri": "https://sedra.bethmardutho.org/api/word/7372.json"
+        }
+    }
+]

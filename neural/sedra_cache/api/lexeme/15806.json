@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15806,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15806.json"
+        },
+        "syriac": "\u071a\u072a\u0710",
+        "glosses": {
+            "English": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u072a\u0736\u0710</span>, Ia to evacuate the bowels."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2567,
+            "uri": "https://sedra.bethmardutho.org/api/root/2567.json"
+        },
+        "words": [
+            {
+                "id": 41718,
+                "uri": "https://sedra.bethmardutho.org/api/word/41718.json"
+            },
+            {
+                "id": 40995,
+                "uri": "https://sedra.bethmardutho.org/api/word/40995.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

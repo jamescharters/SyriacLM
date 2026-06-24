@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071a\u071f\u0710",
+        "western": "\u071a\u0736\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9858,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9858.json"
+        },
+        "stem": "\u071a\u0722\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062d\u0646\u0643",
+                "\u0641\u0645",
+                "\u062d\u0646\u062c\u0631\u0629",
+                "\u0630\u0648\u0642"
+            ],
+            "eng": [
+                "palate."
+            ],
+            "fre": [
+                "Palais",
+                "palais\u2026",
+                "go\u00fbt",
+                "Bouche",
+                "Gorge"
+            ]
+        },
+        "word": {
+            "id": 36456,
+            "uri": "https://sedra.bethmardutho.org/api/word/36456.json"
+        }
+    }
+]

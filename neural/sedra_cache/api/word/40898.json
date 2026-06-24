@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u071b\u071a",
+        "western": "\u0722\u071b\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15740,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15740.json"
+        },
+        "stem": "\u0722\u071b\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp to shine brightly.",
+                "Ia to be diffused, to spread",
+                "to shine",
+                "IIa to glitter"
+            ]
+        },
+        "word": {
+            "id": 40898,
+            "uri": "https://sedra.bethmardutho.org/api/word/40898.json"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2846,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2846.json"
+        },
+        "syriac": "\u0729\u0722\u071d\u0710",
+        "glosses": {
+            "English": [
+                "pen",
+                "cane",
+                "reed",
+                "pen",
+                "reed",
+                "balance.",
+                "stalk"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1684,
+            "uri": "https://sedra.bethmardutho.org/api/root/1684.json"
+        },
+        "words": [
+            {
+                "id": 18475,
+                "uri": "https://sedra.bethmardutho.org/api/word/18475.json"
+            },
+            {
+                "id": 18474,
+                "uri": "https://sedra.bethmardutho.org/api/word/18474.json"
+            },
+            {
+                "id": 18476,
+                "uri": "https://sedra.bethmardutho.org/api/word/18476.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28888,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28888.json"
+        },
+        "syriac": "\u0710\u071d\u071b\u071d\u0723\u0710\u071d",
+        "glosses": {
+            "Greek": [
+                "\u1f24\u03c4\u03b7\u03c3\u03b5"
+            ],
+            "English": [
+                "he/she asked, begged, claimed"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b1\u1f30\u03c4\u03ad\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 49404,
+                "uri": "https://sedra.bethmardutho.org/api/word/49404.json"
+            },
+            {
+                "id": 55262,
+                "uri": "https://sedra.bethmardutho.org/api/word/55262.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

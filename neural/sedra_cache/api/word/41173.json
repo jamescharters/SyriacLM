@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0723\u0726\u071b",
+        "western": "\u0723\u0726\u071b",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15005,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15005.json"
+        },
+        "stem": "\u0723\u0726\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp to cut, slash.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u0723\u072c\u0726\u0736\u071b</span> to be slit"
+            ]
+        },
+        "word": {
+            "id": 41173,
+            "uri": "https://sedra.bethmardutho.org/api/word/41173.json"
+        }
+    }
+]

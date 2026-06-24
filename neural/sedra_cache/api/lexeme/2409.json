@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 2409,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2409.json"
+        },
+        "syriac": "\u0725\u072a\u0712",
+        "glosses": {
+            "English": [
+                "set",
+                "go down",
+                "IIIa to make to set.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0725\u072a\u0730\u0712</span>, Ia to set (of sun)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1426,
+            "uri": "https://sedra.bethmardutho.org/api/root/1426.json"
+        },
+        "words": [
+            {
+                "id": 15958,
+                "uri": "https://sedra.bethmardutho.org/api/word/15958.json"
+            },
+            {
+                "id": 15957,
+                "uri": "https://sedra.bethmardutho.org/api/word/15957.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

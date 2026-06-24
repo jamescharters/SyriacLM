@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1991,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1991.json"
+        },
+        "syriac": "\u0722\u0725\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0631\u0627\u0628",
+                "\u0639\u0642\u0627\u0628"
+            ],
+            "French": [
+                "corbeau",
+                "orfraie"
+            ],
+            "English": [
+                "raven",
+                "raven."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1187,
+            "uri": "https://sedra.bethmardutho.org/api/root/1187.json"
+        },
+        "words": [
+            {
+                "id": 13058,
+                "uri": "https://sedra.bethmardutho.org/api/word/13058.json"
+            },
+            {
+                "id": 13060,
+                "uri": "https://sedra.bethmardutho.org/api/word/13060.json"
+            },
+            {
+                "id": 13059,
+                "uri": "https://sedra.bethmardutho.org/api/word/13059.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

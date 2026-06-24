@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15887,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15887.json"
+        },
+        "syriac": "\u072a\u0728\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u062d\u062f (\u0645\u0636)",
+                "\u062e\u0627\u0637 \u0645\u0639\u0627\u064b",
+                "\u0635\u0644\u062d (\u0645\u0636)",
+                "\u062a\u0642\u0637\u0631"
+            ],
+            "French": [
+                "unir",
+                "coudre ensemble",
+                "r\u00e9parer",
+                "d\u00e9goutter"
+            ],
+            "English": [
+                "Ia to piece together, to patch."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2113,
+            "uri": "https://sedra.bethmardutho.org/api/root/2113.json"
+        },
+        "words": [
+            {
+                "id": 42182,
+                "uri": "https://sedra.bethmardutho.org/api/word/42182.json"
+            },
+            {
+                "id": 41652,
+                "uri": "https://sedra.bethmardutho.org/api/word/41652.json"
+            },
+            {
+                "id": 40025,
+                "uri": "https://sedra.bethmardutho.org/api/word/40025.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

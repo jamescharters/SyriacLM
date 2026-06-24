@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0712\u0720\u0728",
+        "western": "\u0712\u0741\u0720\u0730\u0728",
+        "eastern": "\u0712\u0741\u0720\u0732\u0728",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 405,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/405.json"
+        },
+        "stem": "\u0712\u0720\u0728",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0628\u062a, \u0623\u0632\u0647\u0631"
+            ],
+            "eng": [
+                "to bring out, disclose",
+                "to pronounce.",
+                "Ip, IIp Gram. to be pronounced",
+                "IIIa to make to bud, sprout",
+                "Ia to blossom",
+                "sprout"
+            ],
+            "fre": [
+                "germer, fleurir"
+            ]
+        },
+        "word": {
+            "id": 2795,
+            "uri": "https://sedra.bethmardutho.org/api/word/2795.json"
+        }
+    }
+]

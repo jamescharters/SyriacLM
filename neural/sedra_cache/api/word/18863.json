@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u0718\u072a\u072b\u0710",
+        "western": "\u0729\u073d\u0718\u072a\u072b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2894,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2894.json"
+        },
+        "stem": "\u0729\u0718\u072a\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "frost, iciness",
+                "cold",
+                "refrigeration."
+            ]
+        },
+        "word": {
+            "id": 18863,
+            "uri": "https://sedra.bethmardutho.org/api/word/18863.json"
+        }
+    }
+]

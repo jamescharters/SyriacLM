@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0718\u0710\u071b\u0710\u0712\u0718",
+        "western": "\u0718\u0730\u0710\u071b\u0736\u0710\u0712\u0742\u0718",
+        "tense": "imperative",
+        "kaylo": "aph\u02bfel",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1193,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1193.json"
+        },
+        "stem": "\u071b\u0710\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to do good to, deal well with",
+                "to make better, amend.",
+                "do good",
+                "Ia to be good",
+                "to seem good"
+            ]
+        },
+        "word": {
+            "id": 7853,
+            "uri": "https://sedra.bethmardutho.org/api/word/7853.json"
+        }
+    }
+]

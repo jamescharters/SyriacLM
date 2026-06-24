@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0713\u0720\u0718\u071d",
+        "western": "\u0713\u0730\u0720\u0718\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14656,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14656.json"
+        },
+        "stem": "\u0713\u0720\u0718\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to take into captivity",
+                "IVp to go into exile",
+                "emigrate."
+            ]
+        },
+        "word": {
+            "id": 40987,
+            "uri": "https://sedra.bethmardutho.org/api/word/40987.json"
+        }
+    }
+]

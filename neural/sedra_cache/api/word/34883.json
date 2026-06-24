@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u0712\u071b\u0710",
+        "western": "\u071a\u0712\u0733\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10955,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10955.json"
+        },
+        "stem": "\u071a\u0712\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u0639, \u062e\u0628\u0637"
+            ],
+            "eng": [
+                "beating, shaking",
+                "downfall."
+            ],
+            "fre": [
+                "abattage, gaulage"
+            ]
+        },
+        "word": {
+            "id": 34883,
+            "uri": "https://sedra.bethmardutho.org/api/word/34883.json"
+        }
+    }
+]

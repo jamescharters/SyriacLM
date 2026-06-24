@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1139,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1139.json"
+        },
+        "syriac": "\u071a\u072a\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u062a\u0644, \u0642\u062a\u0644 (\u0645\u0636)",
+                "\u00a0",
+                "\u062e\u0631\u0628"
+            ],
+            "French": [
+                "tuer, massacrer",
+                "\u00a0",
+                "d\u00e9vaster"
+            ],
+            "English": [
+                "desolate",
+                "devastate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 680,
+            "uri": "https://sedra.bethmardutho.org/api/root/680.json"
+        },
+        "words": [
+            {
+                "id": 7525,
+                "uri": "https://sedra.bethmardutho.org/api/word/7525.json"
+            },
+            {
+                "id": 7524,
+                "uri": "https://sedra.bethmardutho.org/api/word/7524.json"
+            },
+            {
+                "id": 7523,
+                "uri": "https://sedra.bethmardutho.org/api/word/7523.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

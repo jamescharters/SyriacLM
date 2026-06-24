@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0729\u0721",
+        "western": "\u0722\u0729\u0721",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15062,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15062.json"
+        },
+        "stem": "\u0722\u0729\u0721",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to avenge",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0722\u0729\u0736\u0721</span>  (+ <span class=\"selectableFont\">\u0721\u0736\u0722</span>) to take vengeance on",
+                "IIp to be avenged",
+                "to punish."
+            ]
+        },
+        "word": {
+            "id": 41344,
+            "uri": "https://sedra.bethmardutho.org/api/word/41344.json"
+        }
+    }
+]

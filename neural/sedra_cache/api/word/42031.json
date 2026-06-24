@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0722\u072b\u071b\u071a",
+        "western": "\u0722\u0736\u072b\u071b\u0730\u071a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15478,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15478.json"
+        },
+        "stem": "\u072b\u071b\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0628\u0633\u0637"
+            ],
+            "eng": [
+                "IIp to be laid flat, spread out.",
+                "Ia, IIa to spread out"
+            ],
+            "fre": [
+                "\u00a0",
+                "\u00e9tendre"
+            ]
+        },
+        "word": {
+            "id": 42031,
+            "uri": "https://sedra.bethmardutho.org/api/word/42031.json"
+        }
+    }
+]

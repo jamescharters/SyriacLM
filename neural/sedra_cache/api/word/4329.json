@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0715\u071a\u0729",
+        "western": "\u0715\u0741\u071a\u0730\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 683,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/683.json"
+        },
+        "stem": "\u0715\u071a\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "",
+                "\u0631\u062f, \u0632\u062c\u0631"
+            ],
+            "eng": [
+                "reject",
+                "repudiate",
+                "Ip",
+                "IIp.",
+                "Ia to drive away, remove, Kth. to push",
+                "thrust away"
+            ],
+            "fre": [
+                "repousser , rejecter",
+                ""
+            ]
+        },
+        "word": {
+            "id": 4329,
+            "uri": "https://sedra.bethmardutho.org/api/word/4329.json"
+        }
+    }
+]

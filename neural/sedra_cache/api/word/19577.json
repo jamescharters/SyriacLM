@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072a\u071a\u0721\u071d",
+        "western": "\u072a\u0730\u071a\u0721\u0730\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 8481,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8481.json"
+        },
+        "stem": "\u072a\u071a\u0721\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "intestines.",
+                "mercy, compassion",
+                "mercy",
+                "bowels"
+            ]
+        },
+        "word": {
+            "id": 19577,
+            "uri": "https://sedra.bethmardutho.org/api/word/19577.json"
+        }
+    }
+]

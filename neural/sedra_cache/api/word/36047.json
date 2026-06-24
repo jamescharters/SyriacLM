@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0726\u072c\u0718\u072c\u0710",
+        "western": "\u0726\u0730\u072c\u0718\u0308\u0733\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 14208,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14208.json"
+        },
+        "stem": "\u0726\u0710\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u062c\u0647",
+                "\u062c\u0647\u0629",
+                "\u062d\u062f",
+                "\u0637\u0631\u0641"
+            ],
+            "eng": [
+                "side, edge, corner",
+                "face",
+                "page.",
+                "forehead"
+            ],
+            "fre": [
+                "face",
+                "tranchant",
+                "c\u00f4t\u00e9",
+                "bord"
+            ]
+        },
+        "word": {
+            "id": 36047,
+            "uri": "https://sedra.bethmardutho.org/api/word/36047.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15506,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15506.json"
+        },
+        "syriac": "\u0723\u0729\u0725",
+        "glosses": {
+            "English": [
+                "Ia to crouch, to squat",
+                "IIa to crouch down, to cower",
+                "to lay snares."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2723,
+            "uri": "https://sedra.bethmardutho.org/api/root/2723.json"
+        },
+        "words": [
+            {
+                "id": 42063,
+                "uri": "https://sedra.bethmardutho.org/api/word/42063.json"
+            },
+            {
+                "id": 41391,
+                "uri": "https://sedra.bethmardutho.org/api/word/41391.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

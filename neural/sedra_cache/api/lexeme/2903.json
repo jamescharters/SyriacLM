@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 2903,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2903.json"
+        },
+        "syriac": "\u0729\u072b\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "hardness",
+                "difficulty",
+                "severity",
+                "difficulty.",
+                "severity",
+                "hardness"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1719,
+            "uri": "https://sedra.bethmardutho.org/api/root/1719.json"
+        },
+        "words": [
+            {
+                "id": 18903,
+                "uri": "https://sedra.bethmardutho.org/api/word/18903.json"
+            },
+            {
+                "id": 18905,
+                "uri": "https://sedra.bethmardutho.org/api/word/18905.json"
+            },
+            {
+                "id": 27915,
+                "uri": "https://sedra.bethmardutho.org/api/word/27915.json"
+            },
+            {
+                "id": 18906,
+                "uri": "https://sedra.bethmardutho.org/api/word/18906.json"
+            },
+            {
+                "id": 18904,
+                "uri": "https://sedra.bethmardutho.org/api/word/18904.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0715\u0718\u0729\u0710",
+        "western": "\u0723\u0733\u0715\u073d\u0718\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6637,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6637.json"
+        },
+        "stem": "\u0723\u0715\u0718\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u0631\u0636 \u0639\u0644\u0649 \u0627\u0644\u0634\u0642\u0627\u0642"
+            ],
+            "eng": [
+                "schismatic."
+            ],
+            "fre": [
+                "fauteur de schisme"
+            ]
+        },
+        "word": {
+            "id": 32586,
+            "uri": "https://sedra.bethmardutho.org/api/word/32586.json"
+        }
+    }
+]

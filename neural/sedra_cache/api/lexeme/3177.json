@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3177,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3177.json"
+        },
+        "syriac": "\u072b\u071b\u071d\u0726\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0627\u0631\u0648\u0631\u0629 \u0632\u062c\u0627\u062c"
+            ],
+            "French": [
+                "vase d&#39;alb\u00e2tre"
+            ],
+            "English": [
+                "box",
+                "alabaster vase, container",
+                "Kth. pitcher."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1849,
+            "uri": "https://sedra.bethmardutho.org/api/root/1849.json"
+        },
+        "words": [
+            {
+                "id": 20842,
+                "uri": "https://sedra.bethmardutho.org/api/word/20842.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0718",
+        "western": "\u0715\u0741\u0730\u0710\u0718",
+        "lexeme": {
+            "id": 39,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/39.json"
+        },
+        "stem": "\u0710\u0718",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0648",
+                "\u0645\u0646"
+            ],
+            "eng": [
+                "or.",
+                "else",
+                "rather than",
+                "or"
+            ],
+            "fre": [
+                "ou",
+                "que"
+            ]
+        },
+        "word": {
+            "id": 256,
+            "uri": "https://sedra.bethmardutho.org/api/word/256.json"
+        }
+    }
+]

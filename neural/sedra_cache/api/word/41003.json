@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0726\u0718\u072b\u072b",
+        "western": "\u0726\u0730\u0718\u072b\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15321,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15321.json"
+        },
+        "stem": "\u0726\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVp.",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0726\u0730\u072b\u0730\u072b</span> to be relaxed, to be dissolved",
+                "IIIa to waste away, IVa <span class=\"selectableFont\">\u0726\u0730\u0718\u072b\u0736\u072b</span> to put an end to",
+                "to dissolve"
+            ]
+        },
+        "word": {
+            "id": 41003,
+            "uri": "https://sedra.bethmardutho.org/api/word/41003.json"
+        }
+    }
+]

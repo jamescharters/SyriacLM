@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 14848,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14848.json"
+        },
+        "syriac": "\u0725\u072a\u0725\u072a",
+        "glosses": {
+            "English": [
+                "IVa to gargle, to wash out the mouth."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2301,
+            "uri": "https://sedra.bethmardutho.org/api/root/2301.json"
+        },
+        "words": [
+            {
+                "id": 41523,
+                "uri": "https://sedra.bethmardutho.org/api/word/41523.json"
+            },
+            {
+                "id": 40315,
+                "uri": "https://sedra.bethmardutho.org/api/word/40315.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

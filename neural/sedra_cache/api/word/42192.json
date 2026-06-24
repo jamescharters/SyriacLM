@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0712\u072a\u0718\u0721",
+        "western": "\u0722\u0736\u0712\u072a\u073d\u0718\u0721",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15781,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15781.json"
+        },
+        "stem": "\u0712\u072a\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to corrode",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0712\u072a\u073d\u0718\u0721</span>, Ia to gnaw, eat into (of insects)",
+                "Ip."
+            ]
+        },
+        "word": {
+            "id": 42192,
+            "uri": "https://sedra.bethmardutho.org/api/word/42192.json"
+        }
+    }
+]

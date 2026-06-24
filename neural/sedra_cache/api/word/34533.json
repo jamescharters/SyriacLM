@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u071d\u071a\u0722\u0710",
+        "western": "\u072b\u0730\u071d\u071a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11824,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11824.json"
+        },
+        "stem": "\u072b\u071d\u071a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0641\u064a\u0647"
+            ],
+            "eng": [
+                "ferocious."
+            ],
+            "fre": [
+                "effront\u00e9"
+            ]
+        },
+        "word": {
+            "id": 34533,
+            "uri": "https://sedra.bethmardutho.org/api/word/34533.json"
+        }
+    }
+]

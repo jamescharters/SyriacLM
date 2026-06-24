@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1200,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1200.json"
+        },
+        "syriac": "\u071b\u0718\u0712\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0648\u0628\u0627\u0648\u064a"
+            ],
+            "French": [
+                "bienheureux"
+            ],
+            "English": [
+                "blessed",
+                "happy",
+                "blessed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 704,
+            "uri": "https://sedra.bethmardutho.org/api/root/704.json"
+        },
+        "words": [
+            {
+                "id": 7954,
+                "uri": "https://sedra.bethmardutho.org/api/word/7954.json"
+            },
+            {
+                "id": 7956,
+                "uri": "https://sedra.bethmardutho.org/api/word/7956.json"
+            },
+            {
+                "id": 7955,
+                "uri": "https://sedra.bethmardutho.org/api/word/7955.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

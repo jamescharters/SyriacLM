@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0721\u0715\u0713\u0720\u071d\u0722",
+        "western": "\u0721\u0715\u0742\u0730\u0713\u0741\u0720\u073a\u071d\u0722",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15063,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15063.json"
+        },
+        "stem": "\u0715\u0713\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0630\u0628",
+                "\u0623\u0639\u0644\u0646 \u0643\u0627\u0630\u0628\u0627\u064b"
+            ],
+            "eng": [
+                "to accuse of falsehood",
+                "to defraud",
+                "IIa to deceive, to lie",
+                "to be deceived, mistaken.",
+                "lie",
+                "speak falsely",
+                "IIp to be accused, suspected of falsehood"
+            ],
+            "fre": [
+                "mentir",
+                "d\u00e9clarer menteur"
+            ]
+        },
+        "word": {
+            "id": 23923,
+            "uri": "https://sedra.bethmardutho.org/api/word/23923.json"
+        }
+    }
+]

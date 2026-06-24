@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u071a\u071d\u0722\u0722",
+        "western": "\u0721\u0730\u071a\u071d\u0733\u0722\u0730\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1023,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1023.json"
+        },
+        "stem": "\u0721\u071a\u071d\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "life-giver, savior.",
+                "Saviour",
+                "preserver",
+                "life-giving",
+                "life-giving, vivifying"
+            ]
+        },
+        "word": {
+            "id": 6952,
+            "uri": "https://sedra.bethmardutho.org/api/word/6952.json"
+        }
+    }
+]

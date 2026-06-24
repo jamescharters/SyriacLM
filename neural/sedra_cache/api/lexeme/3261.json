@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 3261,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3261.json"
+        },
+        "syriac": "\u072b\u0721\u0725\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Simeon"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1900,
+            "uri": "https://sedra.bethmardutho.org/api/root/1900.json"
+        },
+        "words": [
+            {
+                "id": 21529,
+                "uri": "https://sedra.bethmardutho.org/api/word/21529.json"
+            },
+            {
+                "id": 21530,
+                "uri": "https://sedra.bethmardutho.org/api/word/21530.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

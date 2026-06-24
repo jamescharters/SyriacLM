@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0720\u071b\u072c",
+        "western": "\u0720\u0733\u071b\u072c\u0741",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1642,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1642.json"
+        },
+        "stem": "\u0720\u0718\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "curse",
+                "Ia to curse",
+                "Ip to be cursed, accursed",
+                "IIa to curse bitterly."
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 10946,
+            "uri": "https://sedra.bethmardutho.org/api/word/10946.json"
+        }
+    }
+]

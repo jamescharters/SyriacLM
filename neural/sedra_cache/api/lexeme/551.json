@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 551,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/551.json"
+        },
+        "syriac": "\u0713\u0719\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0647\u062f\u064a\u062f\u0627\u062a"
+            ],
+            "French": [
+                "menaces"
+            ],
+            "English": [
+                "assault",
+                "threat",
+                "onset",
+                "rush",
+                "assault, threat."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 364,
+            "uri": "https://sedra.bethmardutho.org/api/root/364.json"
+        },
+        "words": [
+            {
+                "id": 3635,
+                "uri": "https://sedra.bethmardutho.org/api/word/3635.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

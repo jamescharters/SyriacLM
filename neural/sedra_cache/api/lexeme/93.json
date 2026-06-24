@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 93,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/93.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u071a\u0729",
+        "glosses": {
+            "English": [
+                "Isaac"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 75,
+            "uri": "https://sedra.bethmardutho.org/api/root/75.json"
+        },
+        "words": [
+            {
+                "id": 688,
+                "uri": "https://sedra.bethmardutho.org/api/word/688.json"
+            },
+            {
+                "id": 694,
+                "uri": "https://sedra.bethmardutho.org/api/word/694.json"
+            },
+            {
+                "id": 693,
+                "uri": "https://sedra.bethmardutho.org/api/word/693.json"
+            },
+            {
+                "id": 692,
+                "uri": "https://sedra.bethmardutho.org/api/word/692.json"
+            },
+            {
+                "id": 691,
+                "uri": "https://sedra.bethmardutho.org/api/word/691.json"
+            },
+            {
+                "id": 690,
+                "uri": "https://sedra.bethmardutho.org/api/word/690.json"
+            },
+            {
+                "id": 689,
+                "uri": "https://sedra.bethmardutho.org/api/word/689.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

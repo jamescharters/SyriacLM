@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 886,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/886.json"
+        },
+        "syriac": "\u0719\u0720\u0717\u0719",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0648\u062c\u0632"
+            ],
+            "French": [
+                "abr\u00e9ger"
+            ],
+            "English": [
+                "IVa to cut short (of time)",
+                "shortened",
+                "reduced",
+                "IVp to be cut short, to fail, to be reduced."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 565,
+            "uri": "https://sedra.bethmardutho.org/api/root/565.json"
+        },
+        "words": [
+            {
+                "id": 5745,
+                "uri": "https://sedra.bethmardutho.org/api/word/5745.json"
+            },
+            {
+                "id": 5744,
+                "uri": "https://sedra.bethmardutho.org/api/word/5744.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

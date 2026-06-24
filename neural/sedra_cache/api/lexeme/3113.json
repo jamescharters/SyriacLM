@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3113,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3113.json"
+        },
+        "syriac": "\u072b\u0712\u072c",
+        "glosses": {
+            "English": [
+                "rest",
+                "IIa, IIIa to keep Sabbath."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1812,
+            "uri": "https://sedra.bethmardutho.org/api/root/1812.json"
+        },
+        "words": [
+            {
+                "id": 20331,
+                "uri": "https://sedra.bethmardutho.org/api/word/20331.json"
+            },
+            {
+                "id": 20332,
+                "uri": "https://sedra.bethmardutho.org/api/word/20332.json"
+            },
+            {
+                "id": 23007,
+                "uri": "https://sedra.bethmardutho.org/api/word/23007.json"
+            },
+            {
+                "id": 20333,
+                "uri": "https://sedra.bethmardutho.org/api/word/20333.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

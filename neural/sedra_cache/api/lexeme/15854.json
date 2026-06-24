@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15854,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15854.json"
+        },
+        "syriac": "\u0723\u072a\u071f",
+        "glosses": {
+            "English": [
+                "Ia to adhere, to stick, to cohere",
+                "IIa to cling, to stick fast",
+                "IIp to be addicted to.",
+                "Ip to be fastened"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2408,
+            "uri": "https://sedra.bethmardutho.org/api/root/2408.json"
+        },
+        "words": [
+            {
+                "id": 41695,
+                "uri": "https://sedra.bethmardutho.org/api/word/41695.json"
+            },
+            {
+                "id": 41424,
+                "uri": "https://sedra.bethmardutho.org/api/word/41424.json"
+            },
+            {
+                "id": 41411,
+                "uri": "https://sedra.bethmardutho.org/api/word/41411.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

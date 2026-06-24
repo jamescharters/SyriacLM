@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 216,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/216.json"
+        },
+        "syriac": "\u0710\u0723\u071b\u072a\u071b\u071d\u0713\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0627\u0643\u0645, \u0642\u0627\u0626\u062f \u062c\u064a\u0634"
+            ],
+            "French": [
+                "pr\u00e9teur, chef d&#39;arm\u00e9e"
+            ],
+            "English": [
+                "prefect",
+                "praetor",
+                "governor.",
+                "commander, general"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03cc\u03c2"
+            ]
+        },
+        "root": {
+            "id": 163,
+            "uri": "https://sedra.bethmardutho.org/api/root/163.json"
+        },
+        "words": [
+            {
+                "id": 1553,
+                "uri": "https://sedra.bethmardutho.org/api/word/1553.json"
+            },
+            {
+                "id": 1554,
+                "uri": "https://sedra.bethmardutho.org/api/word/1554.json"
+            },
+            {
+                "id": 1552,
+                "uri": "https://sedra.bethmardutho.org/api/word/1552.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0712\u0725\u0715\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u0712\u0725\u0715\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7145,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7145.json"
+        },
+        "stem": "\u0721\u0712\u0725\u0715\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0628\u062a\u0639\u0627\u062f"
+            ],
+            "eng": [
+                "distance, remoteness."
+            ],
+            "fre": [
+                "\u00e9loignement"
+            ]
+        },
+        "word": {
+            "id": 30079,
+            "uri": "https://sedra.bethmardutho.org/api/word/30079.json"
+        }
+    }
+]

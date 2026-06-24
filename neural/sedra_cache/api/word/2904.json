@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0712\u0723\u072a",
+        "western": "\u0712\u0741\u0733\u0723\u0730\u072a",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 420,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/420.json"
+        },
+        "stem": "\u0712\u0723\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0627\u0645",
+                "\u062f\u062d\u0636",
+                "\u0627\u062d\u062a\u0642\u0631"
+            ],
+            "eng": [
+                "despise",
+                "contemn",
+                "hazard (life)",
+                "condemn",
+                "Ia to despise",
+                "IIp.",
+                "to blame, reprove",
+                "IIa to scorn"
+            ],
+            "fre": [
+                "bl\u00e2mer",
+                "m\u00e9priser",
+                "r\u00e9futer"
+            ]
+        },
+        "word": {
+            "id": 2904,
+            "uri": "https://sedra.bethmardutho.org/api/word/2904.json"
+        }
+    }
+]

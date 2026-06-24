@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0712\u071f\u071d\u072a\u071d\u0710",
+        "western": "\u0712\u071f\u073a\u071d\u072a\u0308\u0733\u071d\u0736\u0710",
+        "eastern": "\u0712\u071f\u071d\u073c\u072a\u0308\u0735\u071d\u0738\u0710",
+        "lexeme": {
+            "id": 395,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/395.json"
+        },
+        "stem": "\u0712\u071f\u071d\u072a\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0643\u0631",
+                "\u0631\u0628\u064a\u0639\u064a (\u0645\u0637\u0631)"
+            ],
+            "eng": [
+                "primary.",
+                "early (rain season)",
+                "the first",
+                "the earliest, first"
+            ],
+            "fre": [
+                "premier-n\u00e9",
+                "printani\u00e8re (pluie)"
+            ]
+        },
+        "word": {
+            "id": 52438,
+            "uri": "https://sedra.bethmardutho.org/api/word/52438.json"
+        }
+    }
+]

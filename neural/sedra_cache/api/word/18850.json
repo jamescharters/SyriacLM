@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0728\u071d\u071f\u0718\u0722",
+        "western": "\u0729\u0730\u072a\u0728\u071d\u0730\u071f\u0741\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2891,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2891.json"
+        },
+        "stem": "\u0729\u072a\u0728\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "accuse",
+                "with <span class=\"selectableFont\">\u0710\u0736\u071f\u0730\u0720</span> to slander."
+            ]
+        },
+        "word": {
+            "id": 18850,
+            "uri": "https://sedra.bethmardutho.org/api/word/18850.json"
+        }
+    }
+]

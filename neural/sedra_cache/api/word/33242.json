@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0728\u0720\u071d\u0712\u071d\u0710",
+        "western": "\u0728\u0720\u073a\u071d\u0712\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5345,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5345.json"
+        },
+        "stem": "\u0728\u0720\u071d\u0712\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                ", <span class=\"selectableFont\">\u0728\u0720\u073a\u071d\u0712\u0733\u0722\u0733\u071d\u0733\u0710</span> cruciform, crosswise",
+                "belonging to the cross."
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 33242,
+            "uri": "https://sedra.bethmardutho.org/api/word/33242.json"
+        }
+    }
+]

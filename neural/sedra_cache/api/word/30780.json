@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071d\u0721\u0721\u071d\u0710",
+        "western": "\u071d\u0730\u0721\u0331\u0721\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9060,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9060.json"
+        },
+        "stem": "\u071d\u0721\u0721\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u062d\u0631\u064a",
+                "\u0628\u062d\u0631\u064a"
+            ],
+            "eng": [
+                "mariner.",
+                "maritime, marine"
+            ],
+            "fre": [
+                "marin, maritime",
+                "marin"
+            ]
+        },
+        "word": {
+            "id": 30780,
+            "uri": "https://sedra.bethmardutho.org/api/word/30780.json"
+        }
+    }
+]

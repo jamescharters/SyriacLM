@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071d\u0710\u071d\u0712\u0718\u072c\u0710",
+        "western": "\u071d\u0730\u0710\u073a\u071d\u0712\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7201,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7201.json"
+        },
+        "stem": "\u071d\u0710\u071d\u0712\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0634\u0648\u0642"
+            ],
+            "eng": [
+                "eager desire, longing."
+            ],
+            "fre": [
+                "vif, d\u00e9sir"
+            ]
+        },
+        "word": {
+            "id": 29931,
+            "uri": "https://sedra.bethmardutho.org/api/word/29931.json"
+        }
+    }
+]

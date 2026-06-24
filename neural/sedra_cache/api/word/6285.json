@@ -1,0 +1,58 @@
+[
+    {
+        "syriac": "\u0715\u0722\u071a\u0715\u072a\u0718\u0722\u071f\u071d",
+        "western": "\u0715\u0741\u0722\u0736\u071a\u0715\u0741\u072a\u073d\u0718\u0722\u0736\u071f\u0742\u071d",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 961,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/961.json"
+        },
+        "stem": "\u071a\u0715\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0634\u062d\u0630",
+                "\u0637\u0627\u0641 (\u062d\u0648\u0644), \u062a\u0627\u0647 \u062d\u0648\u0644",
+                "\u0623\u062d\u0627\u0637 \u0628\u0640 , \u0627\u0643\u062a\u0646\u0641",
+                "\u062b\u0627\u0646\u064a\u0629"
+            ],
+            "eng": [
+                "to do again.",
+                "hedge",
+                "beg",
+                "wander",
+                "surround",
+                "to gird",
+                "to surround",
+                "Ia to go about, go around",
+                "to beg",
+                "IIIa to enclose, cause to go round",
+                "Ip to be begged of"
+            ],
+            "fre": [
+                "faire de tour, errer autour",
+                "entourer, encercler",
+                "de nouveau",
+                "\u00a0",
+                "mendier"
+            ]
+        },
+        "word": {
+            "id": 6285,
+            "uri": "https://sedra.bethmardutho.org/api/word/6285.json"
+        }
+    }
+]

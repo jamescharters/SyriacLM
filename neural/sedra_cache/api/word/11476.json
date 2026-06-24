@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0721\u071b\u072a",
+        "western": "\u0721\u071b\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1743,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1743.json"
+        },
+        "stem": "\u0721\u071b\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0645\u0637\u0631"
+            ],
+            "eng": [
+                "Ia to rain",
+                "rain",
+                "IIIa to cause to rain, pour down (of rain)",
+                "shower",
+                "cause to rain",
+                "IIIp to come down like rain.",
+                "Ip to be rained on, watered with rain",
+                "II to wet with rain"
+            ],
+            "fre": [
+                "pleuvoir"
+            ]
+        },
+        "word": {
+            "id": 11476,
+            "uri": "https://sedra.bethmardutho.org/api/word/11476.json"
+        }
+    }
+]

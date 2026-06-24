@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u072a\u071d",
+        "western": "\u0721\u0730\u072a\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15031,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15031.json"
+        },
+        "stem": "\u0721\u072a\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa to strive.",
+                "to emulate",
+                "IIa to contend",
+                "to imitate",
+                "IIp"
+            ]
+        },
+        "word": {
+            "id": 40910,
+            "uri": "https://sedra.bethmardutho.org/api/word/40910.json"
+        }
+    }
+]

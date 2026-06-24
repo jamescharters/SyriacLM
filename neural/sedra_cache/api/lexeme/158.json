@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 158,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/158.json"
+        },
+        "syriac": "\u0710\u0718\u0721\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0639\u0628, \u0623\u0645\u0629"
+            ],
+            "French": [
+                "peuple, nation"
+            ],
+            "English": [
+                "people",
+                "nation",
+                "people, nation, race."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 118,
+            "uri": "https://sedra.bethmardutho.org/api/root/118.json"
+        },
+        "words": [
+            {
+                "id": 1073,
+                "uri": "https://sedra.bethmardutho.org/api/word/1073.json"
+            },
+            {
+                "id": 1072,
+                "uri": "https://sedra.bethmardutho.org/api/word/1072.json"
+            },
+            {
+                "id": 1075,
+                "uri": "https://sedra.bethmardutho.org/api/word/1075.json"
+            },
+            {
+                "id": 1071,
+                "uri": "https://sedra.bethmardutho.org/api/word/1071.json"
+            },
+            {
+                "id": 1074,
+                "uri": "https://sedra.bethmardutho.org/api/word/1074.json"
+            },
+            {
+                "id": 42296,
+                "uri": "https://sedra.bethmardutho.org/api/word/42296.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

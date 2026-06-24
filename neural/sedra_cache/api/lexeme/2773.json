@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2773,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2773.json"
+        },
+        "syriac": "\u0729\u0718\u0722\u0718\u0721\u0718\u0722",
+        "glosses": {
+            "English": [
+                "cinnamon"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03b9\u03bd\u03bd\u03ac\u03bc\u03c9\u03bc\u03bf\u03bd"
+            ]
+        },
+        "root": {
+            "id": 1633,
+            "uri": "https://sedra.bethmardutho.org/api/root/1633.json"
+        },
+        "words": [
+            {
+                "id": 18146,
+                "uri": "https://sedra.bethmardutho.org/api/word/18146.json"
+            },
+            {
+                "id": 18145,
+                "uri": "https://sedra.bethmardutho.org/api/word/18145.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

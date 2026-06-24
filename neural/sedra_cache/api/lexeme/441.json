@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 441,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/441.json"
+        },
+        "syriac": "\u0712\u0725\u0720\u0719\u0712\u0718\u0712",
+        "glosses": {
+            "English": [
+                "Beelzebub"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 299,
+            "uri": "https://sedra.bethmardutho.org/api/root/299.json"
+        },
+        "words": [
+            {
+                "id": 3081,
+                "uri": "https://sedra.bethmardutho.org/api/word/3081.json"
+            },
+            {
+                "id": 3082,
+                "uri": "https://sedra.bethmardutho.org/api/word/3082.json"
+            },
+            {
+                "id": 3080,
+                "uri": "https://sedra.bethmardutho.org/api/word/3080.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

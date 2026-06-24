@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15229,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15229.json"
+        },
+        "syriac": "\u0719\u0722\u0713",
+        "glosses": {
+            "English": [
+                "IIa to equip",
+                "IIIa to make resound."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2731,
+            "uri": "https://sedra.bethmardutho.org/api/root/2731.json"
+        },
+        "words": [
+            {
+                "id": 41197,
+                "uri": "https://sedra.bethmardutho.org/api/word/41197.json"
+            },
+            {
+                "id": 41127,
+                "uri": "https://sedra.bethmardutho.org/api/word/41127.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0720\u071f\u071f",
+        "western": "\u0721\u0736\u0720\u071f\u0741\u0733\u071f\u0742",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1784,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1784.json"
+        },
+        "stem": "\u0721\u0720\u071f\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "advice, counsel.",
+                "counsel"
+            ]
+        },
+        "word": {
+            "id": 11807,
+            "uri": "https://sedra.bethmardutho.org/api/word/11807.json"
+        }
+    }
+]

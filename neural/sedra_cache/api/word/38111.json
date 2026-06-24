@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u072a\u071f\u071d\u071b\u072a\u0718\u0723",
+        "western": "\u0710\u0730\u072a\u071f\u073a\u071d\u0730\u071b\u072a\u0733\u0718\u0723",
+        "number": "singular",
+        "lexeme": {
+            "id": 10302,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10302.json"
+        },
+        "stem": "\u0710\u072a\u071f\u071d\u071b\u072a\u0718\u0723",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0626\u064a\u0633 \u0627\u0644\u0623\u0637\u0628\u0627\u0621"
+            ],
+            "eng": [
+                "chief physician"
+            ],
+            "fre": [
+                "chef des m\u00e9decins"
+            ]
+        },
+        "word": {
+            "id": 38111,
+            "uri": "https://sedra.bethmardutho.org/api/word/38111.json"
+        }
+    }
+]

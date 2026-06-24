@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2207,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2207.json"
+        },
+        "syriac": "\u0723\u072a\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0637\u0631, \u062e\u0637"
+            ],
+            "French": [
+                "ligne, trait"
+            ],
+            "English": [
+                "line",
+                "scratch",
+                "tittle",
+                "point",
+                "the ser\u1e6d\u0101 script.",
+                "scratch, gash",
+                "line (of writing), character, script"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1321,
+            "uri": "https://sedra.bethmardutho.org/api/root/1321.json"
+        },
+        "words": [
+            {
+                "id": 14591,
+                "uri": "https://sedra.bethmardutho.org/api/word/14591.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

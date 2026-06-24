@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072b\u071a\u0721\u0718\u072c\u0710",
+        "western": "\u072b\u0733\u071a\u0721\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8707,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8707.json"
+        },
+        "stem": "\u072b\u071a\u0721\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0648\u0627\u062f"
+            ],
+            "eng": [
+                "blackness.",
+                "swarthiness"
+            ],
+            "fre": [
+                "noirceur"
+            ]
+        },
+        "word": {
+            "id": 37140,
+            "uri": "https://sedra.bethmardutho.org/api/word/37140.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0718\u072a\u0719\u0710",
+        "western": "\u0718\u0730\u072a\u0719\u0733\u0710",
+        "eastern": "\u0718\u0732\u072a\u0719\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13950,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13950.json"
+        },
+        "stem": "\u0718\u072a\u0719\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0646\u0632\u064a\u0631 \u0628\u0631\u064a"
+            ],
+            "eng": [
+                "wild boar",
+                "wild boar."
+            ],
+            "fre": [
+                "sanglier"
+            ]
+        },
+        "word": {
+            "id": 34175,
+            "uri": "https://sedra.bethmardutho.org/api/word/34175.json"
+        }
+    }
+]

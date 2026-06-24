@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0728\u0721\u0728",
+        "western": "\u0721\u0730\u0728\u0721\u0736\u0728",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14899,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14899.json"
+        },
+        "stem": "\u0721\u0728\u0721\u0728",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0635"
+            ],
+            "eng": [
+                "IVa to suck."
+            ],
+            "fre": [
+                "sucer"
+            ]
+        },
+        "word": {
+            "id": 40080,
+            "uri": "https://sedra.bethmardutho.org/api/word/40080.json"
+        }
+    }
+]

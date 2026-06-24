@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071a\u071d\u071d\u0722\u0722",
+        "western": "\u071a\u0730\u071d\u073a\u071d\u0722\u0730\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1019,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1019.json"
+        },
+        "stem": "\u071a\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "alive",
+                "living, alive",
+                "living",
+                "raw, unripe."
+            ]
+        },
+        "word": {
+            "id": 6907,
+            "uri": "https://sedra.bethmardutho.org/api/word/6907.json"
+        }
+    }
+]

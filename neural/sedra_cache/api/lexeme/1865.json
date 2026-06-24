@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1865,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1865.json"
+        },
+        "syriac": "\u0721\u072a\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u0636, \u0623\u0646\u0636\u0646\u0649"
+            ],
+            "French": [
+                "\u00eatre malade, languir"
+            ],
+            "English": [
+                "weak",
+                "sick",
+                "IIp to be diseased",
+                "Ia to be ill, fall ill",
+                "IIIa to cause sickness.",
+                "IIa to be ill",
+                "to grow flabby, wither"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1114,
+            "uri": "https://sedra.bethmardutho.org/api/root/1114.json"
+        },
+        "words": [
+            {
+                "id": 12278,
+                "uri": "https://sedra.bethmardutho.org/api/word/12278.json"
+            },
+            {
+                "id": 12279,
+                "uri": "https://sedra.bethmardutho.org/api/word/12279.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

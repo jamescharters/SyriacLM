@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 1249,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1249.json"
+        },
+        "syriac": "\u071b\u0721\u0710",
+        "glosses": {
+            "English": [
+                "unclean"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 738,
+            "uri": "https://sedra.bethmardutho.org/api/root/738.json"
+        },
+        "words": [
+            {
+                "id": 25139,
+                "uri": "https://sedra.bethmardutho.org/api/word/25139.json"
+            },
+            {
+                "id": 25138,
+                "uri": "https://sedra.bethmardutho.org/api/word/25138.json"
+            },
+            {
+                "id": 8148,
+                "uri": "https://sedra.bethmardutho.org/api/word/8148.json"
+            },
+            {
+                "id": 25141,
+                "uri": "https://sedra.bethmardutho.org/api/word/25141.json"
+            },
+            {
+                "id": 25140,
+                "uri": "https://sedra.bethmardutho.org/api/word/25140.json"
+            },
+            {
+                "id": 8150,
+                "uri": "https://sedra.bethmardutho.org/api/word/8150.json"
+            },
+            {
+                "id": 8149,
+                "uri": "https://sedra.bethmardutho.org/api/word/8149.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

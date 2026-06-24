@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0710\u0713\u071d\u0712",
+        "western": "\u0710\u0730\u0713\u073a\u071d\u0712",
+        "eastern": "\u0710\u0732\u0713\u071d\u073c\u0712",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14625,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14625.json"
+        },
+        "stem": "\u0713\u0718\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0713\u073a\u071d\u0712</span> to answer.",
+                "to answer, to reply",
+                "IIIp."
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40641,
+            "uri": "https://sedra.bethmardutho.org/api/word/40641.json"
+        }
+    }
+]

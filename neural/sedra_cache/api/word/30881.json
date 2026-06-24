@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0712\u071d\u0723\u072c\u0710",
+        "western": "\u0712\u073a\u071d\u0723\u072c\u0733\u0710",
+        "eastern": "\u0712\u071d\u073c\u0723\u072c\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10660,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10660.json"
+        },
+        "stem": "\u0712\u071d\u0723\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "jug, vessel."
+            ]
+        },
+        "word": {
+            "id": 30881,
+            "uri": "https://sedra.bethmardutho.org/api/word/30881.json"
+        }
+    }
+]

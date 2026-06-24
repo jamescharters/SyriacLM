@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1579,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1579.json"
+        },
+        "syriac": "\u071f\u072a\u0718\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0644\u0627\u062d"
+            ],
+            "French": [
+                "laboureur"
+            ],
+            "English": [
+                "ploughman",
+                "ploughman."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 927,
+            "uri": "https://sedra.bethmardutho.org/api/root/927.json"
+        },
+        "words": [
+            {
+                "id": 10386,
+                "uri": "https://sedra.bethmardutho.org/api/word/10386.json"
+            },
+            {
+                "id": 10387,
+                "uri": "https://sedra.bethmardutho.org/api/word/10387.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

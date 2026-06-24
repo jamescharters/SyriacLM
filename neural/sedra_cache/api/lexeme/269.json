@@ -1,0 +1,27 @@
+[
+    {
+        "lexeme": {
+            "id": 269,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/269.json"
+        },
+        "syriac": "\u0710\u072a\u0712\u0725\u0721\u0710\u0710",
+        "glosses": {
+            "English": [
+                "four hundred",
+                "four hundred."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 202,
+            "uri": "https://sedra.bethmardutho.org/api/root/202.json"
+        },
+        "words": [
+            {
+                "id": 1825,
+                "uri": "https://sedra.bethmardutho.org/api/word/1825.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

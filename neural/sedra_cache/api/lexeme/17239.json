@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 17239,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/17239.json"
+        },
+        "syriac": "\u0721\u072a\u0710",
+        "glosses": {
+            "English": [
+                "see <span class=\"selectableFont\">\u0721\u0733\u072a\u071d\u0733\u0710</span>.",
+                "in construction, expresses rule, power, ownership"
+            ],
+            "Arabic": [
+                "\u0635\u0627\u062d\u0628",
+                "\u0645\u062c\u0647\u0632 \u0628\u0640",
+                "\u0645\u0624\u0644\u0641..., \u0645\u0633\u0628\u0628..."
+            ],
+            "French": [
+                "ma\u00eetre de",
+                "pourvu de",
+                "auteur de"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 35790,
+                "uri": "https://sedra.bethmardutho.org/api/word/35790.json"
+            },
+            {
+                "id": 43613,
+                "uri": "https://sedra.bethmardutho.org/api/word/43613.json"
+            }
+        ]
+    }
+]

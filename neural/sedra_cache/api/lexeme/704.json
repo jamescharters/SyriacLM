@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 704,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/704.json"
+        },
+        "syriac": "\u0715\u0718\u071f\u072a\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0633\u0628\u064a\u062d",
+                "\u064a\u0648\u0645 \u0639\u064a\u062f",
+                "\u0648\u0636\u064a\u0645\u0629"
+            ],
+            "French": [
+                "louange",
+                "jour de f\u00eate",
+                "repas fun\u00e8bre"
+            ],
+            "English": [
+                "remembrance",
+                "memorial",
+                "remembrance, memorial, commemoration."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 445,
+            "uri": "https://sedra.bethmardutho.org/api/root/445.json"
+        },
+        "words": [
+            {
+                "id": 4575,
+                "uri": "https://sedra.bethmardutho.org/api/word/4575.json"
+            },
+            {
+                "id": 4574,
+                "uri": "https://sedra.bethmardutho.org/api/word/4574.json"
+            },
+            {
+                "id": 4577,
+                "uri": "https://sedra.bethmardutho.org/api/word/4577.json"
+            },
+            {
+                "id": 4576,
+                "uri": "https://sedra.bethmardutho.org/api/word/4576.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

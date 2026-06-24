@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0721\u072a\u0721\u072a",
+        "western": "\u0721\u0736\u072c\u0742\u0721\u0730\u072a\u0721\u0730\u072a",
+        "tense": "participle",
+        "kaylo": "ethpalpal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1836,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1836.json"
+        },
+        "stem": "\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631 \u0623\u0648 \u0635\u0627\u0631 \u0645\u0631\u0627\u064b",
+                "\u0634\u064a\u0621",
+                "\u0634\u062e\u0635"
+            ],
+            "eng": [
+                "to make sad",
+                "to exacerbate. (See also <span class=\"selectableFont\">\u0721\u0730\u072a\u0721\u0730\u072a</span>.)",
+                "Ia to be bitter, sour",
+                "be bitter",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0721\u0730\u072a</span> to make bitter, sour",
+                "make bitter",
+                "IIa <span class=\"selectableFont\">\u0721\u0730\u072a\u073a\u071d</span> to make bitter",
+                "grieve"
+            ],
+            "fre": [
+                "chose",
+                "personne",
+                "\u00eatre ou devenir amer"
+            ]
+        },
+        "word": {
+            "id": 12145,
+            "uri": "https://sedra.bethmardutho.org/api/word/12145.json"
+        }
+    }
+]

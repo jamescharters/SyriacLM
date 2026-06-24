@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 486,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/486.json"
+        },
+        "syriac": "\u0712\u072a\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0627\u0639\u0642\u0629"
+            ],
+            "French": [
+                "foudre"
+            ],
+            "English": [
+                "lightning",
+                "lightning."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 327,
+            "uri": "https://sedra.bethmardutho.org/api/root/327.json"
+        },
+        "words": [
+            {
+                "id": 3363,
+                "uri": "https://sedra.bethmardutho.org/api/word/3363.json"
+            },
+            {
+                "id": 3366,
+                "uri": "https://sedra.bethmardutho.org/api/word/3366.json"
+            },
+            {
+                "id": 3365,
+                "uri": "https://sedra.bethmardutho.org/api/word/3365.json"
+            },
+            {
+                "id": 3364,
+                "uri": "https://sedra.bethmardutho.org/api/word/3364.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

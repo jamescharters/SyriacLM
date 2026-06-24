@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0720\u071f\u0723\u0722\u0715\u072a\u0718\u0723",
+        "western": "\u0715\u0741\u0730\u0710\u0720\u0736\u071f\u0741\u0723\u0730\u0722\u0715\u0741\u072a\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 145,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/145.json"
+        },
+        "stem": "\u0710\u0720\u071f\u0723\u0722\u0715\u072a\u0718\u0723",
+        "category": "proper noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Alexander"
+            ]
+        },
+        "word": {
+            "id": 970,
+            "uri": "https://sedra.bethmardutho.org/api/word/970.json"
+        }
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 2599,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2599.json"
+        },
+        "syriac": "\u0726\u072a\u0723",
+        "glosses": {
+            "English": [
+                "divide",
+                "spread",
+                "Ip",
+                "to extend",
+                "IIp.",
+                "Ia to spread out, Kth. publish",
+                "IIa to devise, to plan"
+            ],
+            "Arabic": [
+                "\u0642\u0633\u0645",
+                "\u0628\u0633\u0637",
+                "\u0627\u0645\u062a\u062f"
+            ],
+            "French": [
+                "diviser",
+                "\u00e9tendre",
+                "s&#39; \u00e9tendre"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1542,
+            "uri": "https://sedra.bethmardutho.org/api/root/1542.json"
+        },
+        "words": [
+            {
+                "id": 16888,
+                "uri": "https://sedra.bethmardutho.org/api/word/16888.json"
+            },
+            {
+                "id": 27705,
+                "uri": "https://sedra.bethmardutho.org/api/word/27705.json"
+            },
+            {
+                "id": 27704,
+                "uri": "https://sedra.bethmardutho.org/api/word/27704.json"
+            },
+            {
+                "id": 16891,
+                "uri": "https://sedra.bethmardutho.org/api/word/16891.json"
+            },
+            {
+                "id": 16890,
+                "uri": "https://sedra.bethmardutho.org/api/word/16890.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 45,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/45.json"
+        },
+        "syriac": "\u0710\u0718\u071b\u071d\u071f\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u0395\u1f54\u03c4\u03c5\u03c7\u03bf\u03c2, \u0395\u1f50\u03c4\u03c5\u03c7\u03ae\u03c2"
+            ],
+            "English": [
+                "Eutychus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 36,
+            "uri": "https://sedra.bethmardutho.org/api/root/36.json"
+        },
+        "words": [
+            {
+                "id": 48106,
+                "uri": "https://sedra.bethmardutho.org/api/word/48106.json"
+            },
+            {
+                "id": 268,
+                "uri": "https://sedra.bethmardutho.org/api/word/268.json"
+            },
+            {
+                "id": 267,
+                "uri": "https://sedra.bethmardutho.org/api/word/267.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

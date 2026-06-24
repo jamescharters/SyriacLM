@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15215,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15215.json"
+        },
+        "syriac": "\u071d\u0729\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062b\u0644 (\u0645\u0636)",
+                "\u0643\u0648\u0646",
+                "\u00a0"
+            ],
+            "French": [
+                "repr\u00e9senter",
+                "former",
+                "\u00a0"
+            ],
+            "English": [
+                "to imprint a likeness, to stamp",
+                "IIa to represent, to figure, signify",
+                "to be stamped (of coin).",
+                "IIp to be depicted, described, expressed"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2634,
+            "uri": "https://sedra.bethmardutho.org/api/root/2634.json"
+        },
+        "words": [
+            {
+                "id": 40856,
+                "uri": "https://sedra.bethmardutho.org/api/word/40856.json"
+            },
+            {
+                "id": 40642,
+                "uri": "https://sedra.bethmardutho.org/api/word/40642.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

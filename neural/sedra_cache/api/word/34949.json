@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071b\u0718\u0712\u072c\u0722\u071d\u0710",
+        "western": "\u071b\u073d\u0718\u0712\u072c\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12696,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12696.json"
+        },
+        "stem": "\u071b\u0718\u0712\u072c\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0639\u064a\u062f",
+                "\u0637\u0648\u0628\u0627\u0648\u064a"
+            ],
+            "eng": [
+                "blessed.",
+                "blessed.",
+                "blessed"
+            ],
+            "fre": [
+                "heureux",
+                "bienheureux"
+            ]
+        },
+        "word": {
+            "id": 34949,
+            "uri": "https://sedra.bethmardutho.org/api/word/34949.json"
+        }
+    }
+]

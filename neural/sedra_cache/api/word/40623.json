@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u071d\u0718\u0722",
+        "western": "\u0715\u071d\u0718\u0722",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15143,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15143.json"
+        },
+        "stem": "\u0715\u071d\u0718\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0715\u0730\u071d\u0718\u0730\u0722</span> to be possessed by a devil",
+                "diwan",
+                "register",
+                "fisc",
+                "council",
+                "session",
+                "bureau",
+                "Kth. to become crazy."
+            ]
+        },
+        "word": {
+            "id": 40623,
+            "uri": "https://sedra.bethmardutho.org/api/word/40623.json"
+        }
+    }
+]

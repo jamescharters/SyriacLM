@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1105,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1105.json"
+        },
+        "syriac": "\u071a\u0723\u071d\u0710",
+        "glosses": {
+            "English": [
+                "holy, just, pure",
+                "holy",
+                "pure",
+                "innocent",
+                "bishop.",
+                "venerable, reverend"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 663,
+            "uri": "https://sedra.bethmardutho.org/api/root/663.json"
+        },
+        "words": [
+            {
+                "id": 7339,
+                "uri": "https://sedra.bethmardutho.org/api/word/7339.json"
+            },
+            {
+                "id": 24065,
+                "uri": "https://sedra.bethmardutho.org/api/word/24065.json"
+            },
+            {
+                "id": 7340,
+                "uri": "https://sedra.bethmardutho.org/api/word/7340.json"
+            },
+            {
+                "id": 7341,
+                "uri": "https://sedra.bethmardutho.org/api/word/7341.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

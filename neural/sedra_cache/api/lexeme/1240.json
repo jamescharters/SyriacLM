@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1240,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1240.json"
+        },
+        "syriac": "\u071b\u0720\u0722\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0638\u0644",
+                "\u0635\u0648\u0631\u0629"
+            ],
+            "French": [
+                "ombre",
+                "image"
+            ],
+            "English": [
+                "shadow",
+                "shade",
+                "adumbration",
+                "type",
+                "shade",
+                "image."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 733,
+            "uri": "https://sedra.bethmardutho.org/api/root/733.json"
+        },
+        "words": [
+            {
+                "id": 8114,
+                "uri": "https://sedra.bethmardutho.org/api/word/8114.json"
+            },
+            {
+                "id": 8116,
+                "uri": "https://sedra.bethmardutho.org/api/word/8116.json"
+            },
+            {
+                "id": 8115,
+                "uri": "https://sedra.bethmardutho.org/api/word/8115.json"
+            },
+            {
+                "id": 8117,
+                "uri": "https://sedra.bethmardutho.org/api/word/8117.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

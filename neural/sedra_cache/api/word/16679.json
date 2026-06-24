@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0715\u0710\u072c\u0726\u0728\u071d\u072c",
+        "western": "\u0715\u0741\u0736\u0710\u072c\u0742\u0726\u0741\u0730\u0728\u073a\u071d\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 2560,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2560.json"
+        },
+        "stem": "\u0726\u0728\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "deliver"
+            ]
+        },
+        "word": {
+            "id": 16679,
+            "uri": "https://sedra.bethmardutho.org/api/word/16679.json"
+        }
+    }
+]

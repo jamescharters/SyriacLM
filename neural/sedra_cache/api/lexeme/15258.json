@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15258,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15258.json"
+        },
+        "syriac": "\u0722\u071a\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0639\u062b",
+                "\u0639\u0632\u0649 (\u0645\u0636)"
+            ],
+            "French": [
+                "ressusciter",
+                "consoler"
+            ],
+            "English": [
+                "raise up",
+                "IIa to resuscitate, to raise to life",
+                "IIp to be raised, revived, resurrected."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3068,
+            "uri": "https://sedra.bethmardutho.org/api/root/3068.json"
+        },
+        "words": [
+            {
+                "id": 12697,
+                "uri": "https://sedra.bethmardutho.org/api/word/12697.json"
+            },
+            {
+                "id": 41162,
+                "uri": "https://sedra.bethmardutho.org/api/word/41162.json"
+            },
+            {
+                "id": 41149,
+                "uri": "https://sedra.bethmardutho.org/api/word/41149.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

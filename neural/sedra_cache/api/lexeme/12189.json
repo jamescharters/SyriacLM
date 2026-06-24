@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 12189,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12189.json"
+        },
+        "syriac": "\u0713\u0718\u0721\u0725\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0641\u0631\u0629",
+                "\u0636\u0631\u064a\u062d"
+            ],
+            "French": [
+                "fosse",
+                "tombe"
+            ],
+            "English": [
+                "pit."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 52959,
+                "uri": "https://sedra.bethmardutho.org/api/word/52959.json"
+            },
+            {
+                "id": 52950,
+                "uri": "https://sedra.bethmardutho.org/api/word/52950.json"
+            },
+            {
+                "id": 32055,
+                "uri": "https://sedra.bethmardutho.org/api/word/32055.json"
+            }
+        ]
+    }
+]

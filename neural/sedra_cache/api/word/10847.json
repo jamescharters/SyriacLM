@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0718\u072b\u0710",
+        "western": "\u0720\u0712\u0742\u073d\u0718\u072b\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1625,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1625.json"
+        },
+        "stem": "\u0720\u0712\u0718\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0644\u0628\u0633\u0629"
+            ],
+            "eng": [
+                "apparel",
+                "dress",
+                "clothing",
+                "<span class=\"selectableFont\">\u0720\u0712\u073d\u0718\u0308\u072b\u0736\u0710</span> clothes.",
+                "clothing, garment"
+            ],
+            "fre": [
+                "v\u00eatements"
+            ]
+        },
+        "word": {
+            "id": 10847,
+            "uri": "https://sedra.bethmardutho.org/api/word/10847.json"
+        }
+    }
+]

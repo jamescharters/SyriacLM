@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072a\u0725\u0720\u0710",
+        "western": "\u072a\u0308\u0736\u0725\u0720\u0733\u0710",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5913,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5913.json"
+        },
+        "stem": "\u072a\u0725\u0720\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0631\u062a\u0639\u0627\u062f"
+            ],
+            "eng": [
+                "earthquake",
+                "oscillation",
+                "trem-bling, terror."
+            ],
+            "fre": [
+                "tremblement"
+            ]
+        },
+        "word": {
+            "id": 38415,
+            "uri": "https://sedra.bethmardutho.org/api/word/38415.json"
+        }
+    }
+]

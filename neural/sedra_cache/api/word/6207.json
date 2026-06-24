@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u071a\u0715\u0725\u0723\u072a",
+        "western": "\u071a\u0715\u0742\u0730\u0725\u0723\u0730\u072a",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 953,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/953.json"
+        },
+        "stem": "\u071a\u0715\u0725\u0723\u072a",
+        "category": "numeral",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062d\u062f \u0639\u0634\u0631"
+            ],
+            "eng": [
+                "eleven.",
+                "eleven"
+            ],
+            "fre": [
+                "onze"
+            ]
+        },
+        "word": {
+            "id": 6207,
+            "uri": "https://sedra.bethmardutho.org/api/word/6207.json"
+        }
+    }
+]

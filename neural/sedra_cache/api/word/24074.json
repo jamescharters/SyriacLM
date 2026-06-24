@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0720\u071a\u0722\u0722\u0710",
+        "western": "\u0720\u0730\u071a\u0722\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1084,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1084.json"
+        },
+        "stem": "\u071a\u0722\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0628\u0627\u0631 \u0645\u0642\u062f\u0633 \u0645\u0646 \u0645\u0643\u0627\u0646 \u0627\u0633\u062a\u0634\u0647\u0627\u062f",
+                "\u062d\u0644\u0645, \u0631\u0623\u0641\u0629"
+            ],
+            "eng": [
+                "pity, mercy, compassion",
+                "favour",
+                "favor, grace.",
+                "mercy",
+                "compassion"
+            ],
+            "fre": [
+                "cl\u00e9mence, mis\u00e9ricorde",
+                "poussi\u00e8re sainte du lieu d&#39;un martyre"
+            ]
+        },
+        "word": {
+            "id": 24074,
+            "uri": "https://sedra.bethmardutho.org/api/word/24074.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0719\u0725",
+        "western": "\u0719\u0733\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 868,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/868.json"
+        },
+        "stem": "\u0719\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be shaken",
+                "Ia to move, stir, tremble",
+                "IIIa to set in motion, to stir.",
+                "stir",
+                "trouble",
+                "stir up",
+                "be confused",
+                "Ip"
+            ]
+        },
+        "word": {
+            "id": 5662,
+            "uri": "https://sedra.bethmardutho.org/api/word/5662.json"
+        }
+    }
+]

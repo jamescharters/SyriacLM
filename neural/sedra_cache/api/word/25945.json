@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0715\u0720\u0710\u0710",
+        "western": "\u0715\u0741\u0720\u0733\u0710\u0736\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15859,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15859.json"
+        },
+        "stem": "\u0720\u0710\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0634\u062a\u063a\u0644",
+                "\u062a\u0639\u0628",
+                "\u0639\u062c\u0632"
+            ],
+            "eng": [
+                "Ip to be wearied by labor",
+                "Ip to be wearied by labor",
+                "to weary.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0720\u073a\u071d</span> to make weary, to fatigue, to trouble.",
+                "Ia to be weary, tired (from labor)",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0720\u073a\u071d</span> to make weary, to fatigue, to trouble.",
+                "toil",
+                "labour",
+                "tire",
+                "Ia to be weary, tired (from labor)"
+            ],
+            "fre": [
+                "travailler",
+                "\u00eatre fatigu\u00e9, se fatiguer",
+                "ne pas pouvoir"
+            ]
+        },
+        "word": {
+            "id": 25945,
+            "uri": "https://sedra.bethmardutho.org/api/word/25945.json"
+        }
+    }
+]

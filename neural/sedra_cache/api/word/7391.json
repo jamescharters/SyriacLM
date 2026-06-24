@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u071a\u0723\u071d\u072a\u071d\u0722",
+        "western": "\u071a\u0730\u0723\u073a\u071d\u072a\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1116,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1116.json"
+        },
+        "stem": "\u071a\u0723\u071d\u072a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0627\u0642\u0635",
+                "\u0645\u062a\u062c\u0631\u062f"
+            ],
+            "eng": [
+                "wanting, lacking",
+                "<span class=\"selectableFont\">\u071f\u072c\u0733\u0712\u0733\u0710 \u0715\u071a\u0730\u0723\u073a\u071d\u072a\u0308</span><span class=\"selectableFont\">\u0733\u072c\u0733\u0710</span> the Book of Chronicles.",
+                "deficient",
+                "lacking"
+            ],
+            "fre": [
+                "d\u00e9pourvu",
+                "manquant"
+            ]
+        },
+        "word": {
+            "id": 7391,
+            "uri": "https://sedra.bethmardutho.org/api/word/7391.json"
+        }
+    }
+]

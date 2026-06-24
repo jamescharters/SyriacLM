@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u0715\u0721\u0725",
+        "western": "\u0722\u0736\u0715\u0721\u0730\u0725",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15523,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15523.json"
+        },
+        "stem": "\u0715\u0721\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to weep vehemently.",
+                "Ia to weep"
+            ]
+        },
+        "word": {
+            "id": 42014,
+            "uri": "https://sedra.bethmardutho.org/api/word/42014.json"
+        }
+    }
+]

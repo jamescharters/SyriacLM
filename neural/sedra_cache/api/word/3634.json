@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0713\u0719\u0721\u0718",
+        "western": "\u0713\u0741\u0719\u0730\u0721\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 550,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/550.json"
+        },
+        "stem": "\u0713\u0719\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0627\u062c\u062a\u0647\u062f",
+                "\u00a0",
+                "\u0623\u0648\u0634\u0643"
+            ],
+            "eng": [
+                "threaten",
+                "to rush upon, threaten",
+                "IIa to threaten.",
+                "Ia to cut off, to decree",
+                "Ip to be threatened",
+                "rush at"
+            ],
+            "fre": [
+                "\u00eatre imminent",
+                "\u00a0",
+                "\u00a0",
+                "s&#39;appliquer"
+            ]
+        },
+        "word": {
+            "id": 3634,
+            "uri": "https://sedra.bethmardutho.org/api/word/3634.json"
+        }
+    }
+]

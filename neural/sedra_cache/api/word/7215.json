@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u071a\u0721\u071d\u072a\u0717",
+        "western": "\u071a\u0721\u073a\u071d\u072a\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1074,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1074.json"
+        },
+        "stem": "\u071a\u0721\u071d\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0645\u064a\u0631"
+            ],
+            "eng": [
+                "leaven, leavened bread.",
+                "leaven"
+            ],
+            "fre": [
+                "ferment"
+            ]
+        },
+        "word": {
+            "id": 7215,
+            "uri": "https://sedra.bethmardutho.org/api/word/7215.json"
+        }
+    }
+]

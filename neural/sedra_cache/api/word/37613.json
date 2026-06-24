@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u0719\u0713\u0710",
+        "western": "\u0710\u0730\u0719\u0713\u0733\u0710",
+        "eastern": "\u0710\u0732\u0719\u0713\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9725,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9725.json"
+        },
+        "stem": "\u0710\u0719\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0646\u0637\u0631\u0629, \u0639\u0642\u062f"
+            ],
+            "eng": [
+                "portico",
+                "the arch of a door or roof",
+                "porch",
+                "arch, vault, porch, portico."
+            ],
+            "fre": [
+                "arc, vo\u00fbte"
+            ]
+        },
+        "word": {
+            "id": 37613,
+            "uri": "https://sedra.bethmardutho.org/api/word/37613.json"
+        }
+    }
+]

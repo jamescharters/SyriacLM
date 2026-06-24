@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0722\u0715\u072a\u0718\u0713",
+        "western": "\u0722\u0736\u0715\u072a\u073d\u0718\u0713",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15814,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15814.json"
+        },
+        "stem": "\u0715\u072a\u0713",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0647\u0628"
+            ],
+            "eng": [
+                "Ia to step forward, to proceed",
+                "to be promoted",
+                "Kth. to graduate (from school).",
+                "to advance gradually, to progress",
+                "to be arranged",
+                "to arrange in order",
+                "IIp to follow by degrees",
+                "IIa to promote"
+            ],
+            "fre": [
+                "aller"
+            ]
+        },
+        "word": {
+            "id": 42189,
+            "uri": "https://sedra.bethmardutho.org/api/word/42189.json"
+        }
+    }
+]

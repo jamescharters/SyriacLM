@@ -1,0 +1,85 @@
+[
+    {
+        "lexeme": {
+            "id": 1454,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1454.json"
+        },
+        "syriac": "\u071f\u0710\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0644\u0645",
+                "\u0645\u0631\u0636",
+                "\u062c\u0631\u062d"
+            ],
+            "French": [
+                "douleur",
+                "maladie",
+                "blessure"
+            ],
+            "English": [
+                "pain",
+                "suffering",
+                "disease",
+                "pain, grief, sickness",
+                "<span class=\"selectableFont\">\u071f\u073a\u0710\u0712 \u072a\u073a\u071d\u072b\u0733\u0710</span> headache."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 861,
+            "uri": "https://sedra.bethmardutho.org/api/root/861.json"
+        },
+        "words": [
+            {
+                "id": 9671,
+                "uri": "https://sedra.bethmardutho.org/api/word/9671.json"
+            },
+            {
+                "id": 9682,
+                "uri": "https://sedra.bethmardutho.org/api/word/9682.json"
+            },
+            {
+                "id": 9674,
+                "uri": "https://sedra.bethmardutho.org/api/word/9674.json"
+            },
+            {
+                "id": 9681,
+                "uri": "https://sedra.bethmardutho.org/api/word/9681.json"
+            },
+            {
+                "id": 9673,
+                "uri": "https://sedra.bethmardutho.org/api/word/9673.json"
+            },
+            {
+                "id": 9672,
+                "uri": "https://sedra.bethmardutho.org/api/word/9672.json"
+            },
+            {
+                "id": 9680,
+                "uri": "https://sedra.bethmardutho.org/api/word/9680.json"
+            },
+            {
+                "id": 9676,
+                "uri": "https://sedra.bethmardutho.org/api/word/9676.json"
+            },
+            {
+                "id": 9675,
+                "uri": "https://sedra.bethmardutho.org/api/word/9675.json"
+            },
+            {
+                "id": 9679,
+                "uri": "https://sedra.bethmardutho.org/api/word/9679.json"
+            },
+            {
+                "id": 9678,
+                "uri": "https://sedra.bethmardutho.org/api/word/9678.json"
+            },
+            {
+                "id": 9677,
+                "uri": "https://sedra.bethmardutho.org/api/word/9677.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

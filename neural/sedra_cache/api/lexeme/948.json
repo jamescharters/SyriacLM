@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 948,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/948.json"
+        },
+        "syriac": "\u071a\u0713\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u062c\u0632, \u0645\u0646\u0639",
+                "\u0623\u0639\u0631\u062c, \u062c\u0630\u0645",
+                "\u0639\u0631\u062c"
+            ],
+            "French": [
+                "retenir, emp\u00eacher",
+                "rendre boiteux, mutiler",
+                "boiter"
+            ],
+            "English": [
+                "IIp to be crippled",
+                "IIa to cripple, to impede, fetter",
+                "limp",
+                "to hinder, restrain",
+                "Ip to become lame",
+                "to be impeded, checked",
+                "to be impeded",
+                "to stumble, waver",
+                "Ia to limp, be lame",
+                "to restrain.",
+                "IIIa to make, be lame"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 594,
+            "uri": "https://sedra.bethmardutho.org/api/root/594.json"
+        },
+        "words": [
+            {
+                "id": 6183,
+                "uri": "https://sedra.bethmardutho.org/api/word/6183.json"
+            },
+            {
+                "id": 6178,
+                "uri": "https://sedra.bethmardutho.org/api/word/6178.json"
+            },
+            {
+                "id": 6182,
+                "uri": "https://sedra.bethmardutho.org/api/word/6182.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

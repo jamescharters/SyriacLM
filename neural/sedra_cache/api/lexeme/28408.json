@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28408,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28408.json"
+        },
+        "syriac": "\u0710\u0718\u0726\u0718\u071f\u0718\u0721\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f51\u03c0\u03cc\u03c7\u03c5\u03bc\u03b1"
+            ],
+            "English": [
+                "cataract (in the eye)"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f51\u03c0\u03cc\u03c7\u03c5\u03bc\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 48884,
+                "uri": "https://sedra.bethmardutho.org/api/word/48884.json"
+            },
+            {
+                "id": 54782,
+                "uri": "https://sedra.bethmardutho.org/api/word/54782.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u0717\u0720\u0710",
+        "western": "\u0729\u0730\u0717\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8920,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8920.json"
+        },
+        "stem": "\u0729\u0717\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u0647\u0648\u0631"
+            ],
+            "eng": [
+                "assembly, crowd."
+            ],
+            "fre": [
+                "foule"
+            ]
+        },
+        "word": {
+            "id": 37062,
+            "uri": "https://sedra.bethmardutho.org/api/word/37062.json"
+        }
+    }
+]

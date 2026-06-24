@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 795,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/795.json"
+        },
+        "syriac": "\u0717\u0720\u0720\u0718\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Hallelujah"
+            ]
+        },
+        "etymologies": {
+            "Hebrew": [
+                "\u05d4\u05b7\u05dc\u05b0\u05bc\u05dc\u05d5\u05bc\u05d9\u05b8\u05d4\u05bc"
+            ]
+        },
+        "root": {
+            "id": 505,
+            "uri": "https://sedra.bethmardutho.org/api/root/505.json"
+        },
+        "words": [
+            {
+                "id": 5160,
+                "uri": "https://sedra.bethmardutho.org/api/word/5160.json"
+            }
+        ],
+        "category": "particle",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

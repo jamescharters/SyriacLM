@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0729\u072a\u0726\u071d\u0718\u0723",
+        "western": "\u0710\u0718\u073d\u0729\u0730\u072a\u0726\u071d\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 28515,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28515.json"
+        },
+        "stem": "\u0710\u0718\u0729\u072a\u0726\u071d\u0718\u0723",
+        "category": "proper noun (individual's name; e.g. Ephrem)",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "grc": [
+                "\u0395\u1f50\u03ba\u03ac\u03c1\u03c0\u03b9\u03bf\u03c2"
+            ],
+            "lat": [
+                "Eucarpius"
+            ]
+        },
+        "word": {
+            "id": 54889,
+            "uri": "https://sedra.bethmardutho.org/api/word/54889.json"
+        }
+    }
+]

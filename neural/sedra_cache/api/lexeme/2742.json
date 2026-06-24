@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2742,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2742.json"
+        },
+        "syriac": "\u0721\u0729\u0715\u0721\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "foreknowledge",
+                "precedence",
+                "priority",
+                "<span class=\"selectableFont\">\u0721\u0729\u0730\u0715\u0721\u073d\u0718\u072c</span> pre-, fore-."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1621,
+            "uri": "https://sedra.bethmardutho.org/api/root/1621.json"
+        },
+        "words": [
+            {
+                "id": 17814,
+                "uri": "https://sedra.bethmardutho.org/api/word/17814.json"
+            },
+            {
+                "id": 17816,
+                "uri": "https://sedra.bethmardutho.org/api/word/17816.json"
+            },
+            {
+                "id": 17815,
+                "uri": "https://sedra.bethmardutho.org/api/word/17815.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

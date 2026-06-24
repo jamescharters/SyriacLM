@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0726\u072c\u072a",
+        "western": "\u0726\u072c\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15941,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15941.json"
+        },
+        "stem": "\u0726\u072c\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to fade away."
+            ]
+        },
+        "word": {
+            "id": 41161,
+            "uri": "https://sedra.bethmardutho.org/api/word/41161.json"
+        }
+    }
+]

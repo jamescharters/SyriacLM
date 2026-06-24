@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15308,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15308.json"
+        },
+        "syriac": "\u072c\u0726\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062c\u0631\u0649",
+                "\u00a0"
+            ],
+            "French": [
+                "faire couler",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp to be poured",
+                "to be diverted.",
+                "IIa to cause to flow, to pour",
+                "to begin to flow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2923,
+            "uri": "https://sedra.bethmardutho.org/api/root/2923.json"
+        },
+        "words": [
+            {
+                "id": 40777,
+                "uri": "https://sedra.bethmardutho.org/api/word/40777.json"
+            },
+            {
+                "id": 40688,
+                "uri": "https://sedra.bethmardutho.org/api/word/40688.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

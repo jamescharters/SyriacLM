@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0720\u071f",
+        "western": "\u0721\u0720\u0736\u071f\u0742",
+        "state": "construct",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1783,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1783.json"
+        },
+        "stem": "\u0721\u0720\u071f\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "queen.",
+                "king",
+                "queen",
+                "king, ruler, khalif, prince, emirate",
+                "king, emperor, caliph, ruler."
+            ]
+        },
+        "word": {
+            "id": 11794,
+            "uri": "https://sedra.bethmardutho.org/api/word/11794.json"
+        }
+    }
+]

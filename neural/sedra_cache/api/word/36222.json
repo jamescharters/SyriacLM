@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0715\u071d\u071b\u0713\u0721\u0710",
+        "western": "\u0715\u073a\u071d\u0730\u071b\u0730\u0713\u0721\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10975,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10975.json"
+        },
+        "stem": "\u0715\u071d\u071b\u0713\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0645\u0631"
+            ],
+            "eng": [
+                "decree."
+            ],
+            "fre": [
+                "ordre"
+            ]
+        },
+        "word": {
+            "id": 36222,
+            "uri": "https://sedra.bethmardutho.org/api/word/36222.json"
+        }
+    }
+]

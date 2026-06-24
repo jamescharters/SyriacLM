@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1222,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1222.json"
+        },
+        "syriac": "\u071b\u071b\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Titus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 721,
+            "uri": "https://sedra.bethmardutho.org/api/root/721.json"
+        },
+        "words": [
+            {
+                "id": 8050,
+                "uri": "https://sedra.bethmardutho.org/api/word/8050.json"
+            },
+            {
+                "id": 8048,
+                "uri": "https://sedra.bethmardutho.org/api/word/8048.json"
+            },
+            {
+                "id": 8049,
+                "uri": "https://sedra.bethmardutho.org/api/word/8049.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

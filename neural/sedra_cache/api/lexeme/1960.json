@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1960,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1960.json"
+        },
+        "syriac": "\u0722\u071d\u0729\u0726\u0718\u0720\u071d\u0723",
+        "glosses": {
+            "English": [
+                "Nicopolis"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1172,
+            "uri": "https://sedra.bethmardutho.org/api/root/1172.json"
+        },
+        "words": [
+            {
+                "id": 12846,
+                "uri": "https://sedra.bethmardutho.org/api/word/12846.json"
+            },
+            {
+                "id": 12847,
+                "uri": "https://sedra.bethmardutho.org/api/word/12847.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0723\u0721\u0718\u072a\u0710",
+        "western": "\u0723\u0730\u0721\u073d\u0718\u072a\u0733\u0710",
+        "eastern": "\u0723\u0732\u0721\u0718\u073c\u072a\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9976,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9976.json"
+        },
+        "stem": "\u0723\u0721\u0718\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0628\u0646 \u0639\u0631\u0633"
+            ],
+            "eng": [
+                "mustela zibellina",
+                "weasel.",
+                "the sable or marten"
+            ],
+            "fre": [
+                "belette"
+            ]
+        },
+        "word": {
+            "id": 32510,
+            "uri": "https://sedra.bethmardutho.org/api/word/32510.json"
+        }
+    }
+]

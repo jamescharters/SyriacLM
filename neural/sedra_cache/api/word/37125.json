@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0712\u0713\u0710",
+        "western": "\u0722\u0736\u0712\u0713\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7422,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7422.json"
+        },
+        "stem": "\u0722\u0712\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0631\u0639"
+            ],
+            "eng": [
+                "shoot, sprout, sucker."
+            ],
+            "fre": [
+                "rejeton"
+            ]
+        },
+        "word": {
+            "id": 37125,
+            "uri": "https://sedra.bethmardutho.org/api/word/37125.json"
+        }
+    }
+]

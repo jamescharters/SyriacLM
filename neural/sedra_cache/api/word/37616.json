@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0712\u071d\u0710",
+        "western": "\u0710\u073d\u0718\u0712\u073a\u071d\u0730\u0710",
+        "number": "singular",
+        "lexeme": {
+            "id": 5371,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5371.json"
+        },
+        "stem": "\u0710\u0718\u0712\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0627\u0623\u0633\u0641\u0627\u0647 !"
+            ],
+            "eng": [
+                "woe!, alas!"
+            ],
+            "fre": [
+                "malheur"
+            ]
+        },
+        "word": {
+            "id": 37616,
+            "uri": "https://sedra.bethmardutho.org/api/word/37616.json"
+        }
+    }
+]

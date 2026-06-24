@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15157,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15157.json"
+        },
+        "syriac": "\u072a\u0721\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0645\u0633\u0649 ( \u0627\u0644\u0646\u0647\u0627\u0631)",
+                "\u0628\u0642\u064a \u062d\u062a\u0649 \u0627\u0644\u0645\u0633\u0627\u0621",
+                "\u0623\u062a\u0649 \u0645\u0633\u0627\u0621\u064b"
+            ],
+            "French": [
+                "\u00eatre au soir (jour)",
+                "rester jusqu&#39;au soir",
+                "venire le soir"
+            ],
+            "English": [
+                "IIa to stay till evening",
+                "IIIa to grow late."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3011,
+            "uri": "https://sedra.bethmardutho.org/api/root/3011.json"
+        },
+        "words": [
+            {
+                "id": 40782,
+                "uri": "https://sedra.bethmardutho.org/api/word/40782.json"
+            },
+            {
+                "id": 40712,
+                "uri": "https://sedra.bethmardutho.org/api/word/40712.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

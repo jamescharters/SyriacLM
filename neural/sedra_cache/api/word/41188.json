@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0726\u072a\u0710",
+        "western": "\u0726\u072a\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15858,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15858.json"
+        },
+        "stem": "\u0726\u072a\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0635\u0628"
+            ],
+            "eng": [
+                "Ia to be fruitful",
+                "to increase, to multiply",
+                "IIIa to make fruitful",
+                "IIIp to be produced, to be published.",
+                "to germinate"
+            ],
+            "fre": [
+                "\u00eatre fertile"
+            ]
+        },
+        "word": {
+            "id": 41188,
+            "uri": "https://sedra.bethmardutho.org/api/word/41188.json"
+        }
+    }
+]

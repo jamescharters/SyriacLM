@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 3132,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3132.json"
+        },
+        "syriac": "\u072b\u0718\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "equality",
+                "equality",
+                "similarity",
+                "agreement, concord",
+                "level",
+                "moderate price.",
+                "equability",
+                "moderate price"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1822,
+            "uri": "https://sedra.bethmardutho.org/api/root/1822.json"
+        },
+        "words": [
+            {
+                "id": 58553,
+                "uri": "https://sedra.bethmardutho.org/api/word/58553.json"
+            },
+            {
+                "id": 20562,
+                "uri": "https://sedra.bethmardutho.org/api/word/20562.json"
+            },
+            {
+                "id": 20561,
+                "uri": "https://sedra.bethmardutho.org/api/word/20561.json"
+            },
+            {
+                "id": 20563,
+                "uri": "https://sedra.bethmardutho.org/api/word/20563.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

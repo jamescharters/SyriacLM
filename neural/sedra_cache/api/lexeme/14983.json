@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14983,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14983.json"
+        },
+        "syriac": "\u072b\u0712\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "IIp.",
+                "IIa to praise, glorify",
+                "to hold an opinion",
+                "Lit. to sing the Gloria"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2092,
+            "uri": "https://sedra.bethmardutho.org/api/root/2092.json"
+        },
+        "words": [
+            {
+                "id": 40550,
+                "uri": "https://sedra.bethmardutho.org/api/word/40550.json"
+            },
+            {
+                "id": 40453,
+                "uri": "https://sedra.bethmardutho.org/api/word/40453.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

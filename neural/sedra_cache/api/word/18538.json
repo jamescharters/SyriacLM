@@ -1,0 +1,68 @@
+[
+    {
+        "syriac": "\u0729\u0726\u0723\u0718",
+        "western": "\u0729\u0726\u0742\u0730\u0723\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2860,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2860.json"
+        },
+        "stem": "\u0729\u0726\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0636\u0645\u0646",
+                "\u062a\u0642\u0635\u0631",
+                "\u0642\u0635\u0631 (\u0645\u0636)",
+                "\u0627\u0646\u0633\u062d\u0628, \u0632\u0627\u0644",
+                "\u0642\u0630\u0641, \u0646\u0632\u0639",
+                "\u0623\u063a\u0645\u062f",
+                "\u0631\u062f\u0639",
+                "\u00a0",
+                "\u0642\u0645\u0639, \u0645\u0646\u0639",
+                "\u0642\u0628\u0636",
+                "\u0623\u0643\u0644",
+                "\u062c\u0645\u0639",
+                "\u0627\u0646\u0642\u0628\u0636"
+            ],
+            "eng": [
+                "IIIa to abolish",
+                "to draw back, restrain",
+                "Ip",
+                "Ia to shrink, contract",
+                "IIa",
+                "IIp to be suppressed",
+                "to lay a mosaic floor.",
+                "to shorten",
+                "gather"
+            ],
+            "fre": [
+                "contenir",
+                "r\u00e9primer, retenir",
+                "\u00eatre raccourci",
+                "\u00a0",
+                "contracter",
+                "\u00e9mousser",
+                "se retirer. cesser",
+                "se contracter",
+                "rengainer",
+                "retirer, supprimer",
+                "rassembler",
+                "raccourcir",
+                "rejeter"
+            ]
+        },
+        "word": {
+            "id": 18538,
+            "uri": "https://sedra.bethmardutho.org/api/word/18538.json"
+        }
+    }
+]

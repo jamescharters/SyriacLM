@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15273,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15273.json"
+        },
+        "syriac": "\u0713\u0722\u0712\u072a",
+        "glosses": {
+            "English": [
+                "to vaunt.",
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0713\u0730\u0722\u0331\u0712\u0730\u072a</span> to act mightily, with heroism"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2564,
+            "uri": "https://sedra.bethmardutho.org/api/root/2564.json"
+        },
+        "words": [
+            {
+                "id": 53202,
+                "uri": "https://sedra.bethmardutho.org/api/word/53202.json"
+            },
+            {
+                "id": 40387,
+                "uri": "https://sedra.bethmardutho.org/api/word/40387.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

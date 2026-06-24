@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0717\u0713\u0710",
+        "western": "\u0717\u0713\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15849,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15849.json"
+        },
+        "stem": "\u0717\u0713\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to vocalize",
+                "to read aloud",
+                "Ia to meditate (on), to think",
+                "IIp to meditate",
+                "to plane, to scheme",
+                "meditate",
+                "to study",
+                "study",
+                "IIIa to make to think",
+                "IIa to teach to read",
+                "to practice reading."
+            ]
+        },
+        "word": {
+            "id": 4918,
+            "uri": "https://sedra.bethmardutho.org/api/word/4918.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0729\u0726\u071d\u0723\u0718\u072c\u0710",
+        "western": "\u0729\u0726\u073a\u071d\u0723\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13330,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13330.json"
+        },
+        "stem": "\u0729\u0726\u071d\u0723\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0644\u0642",
+                "\u062d\u0635\u0631, \u0627\u0646\u0642\u0628\u0627\u0636",
+                "\u0625\u064a\u062c\u0627\u0632"
+            ],
+            "eng": [
+                "contraction.",
+                "conciseness"
+            ],
+            "fre": [
+                "compression, contraction",
+                "fermeture",
+                "bri\u00e8vet\u00e9"
+            ]
+        },
+        "word": {
+            "id": 39090,
+            "uri": "https://sedra.bethmardutho.org/api/word/39090.json"
+        }
+    }
+]

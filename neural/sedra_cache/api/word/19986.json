@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072a\u0729\u0715\u072c",
+        "western": "\u072a\u0730\u0729\u0715\u0742\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3071,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3071.json"
+        },
+        "stem": "\u072a\u0729\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0642\u0635"
+            ],
+            "eng": [
+                "IIa to dance, to skip",
+                "dance",
+                "to dance",
+                "Ia to sparkle (of eyes)",
+                "IIIa to mourn.",
+                "mourn"
+            ],
+            "fre": [
+                "danser"
+            ]
+        },
+        "word": {
+            "id": 19986,
+            "uri": "https://sedra.bethmardutho.org/api/word/19986.json"
+        }
+    }
+]

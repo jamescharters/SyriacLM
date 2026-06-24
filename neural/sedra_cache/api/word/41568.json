@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a\u0728",
+        "western": "\u072a\u0730\u0728",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15605,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15605.json"
+        },
+        "stem": "\u072a\u0728",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to crush",
+                "IIp.",
+                "Ia to bruise, to crush",
+                "to strain, to dislocate"
+            ]
+        },
+        "word": {
+            "id": 41568,
+            "uri": "https://sedra.bethmardutho.org/api/word/41568.json"
+        }
+    }
+]

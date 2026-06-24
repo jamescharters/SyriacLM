@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0729\u0722\u0729\u0722",
+        "western": "\u0729\u0730\u0722\u0729\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14771,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14771.json"
+        },
+        "stem": "\u0729\u0722\u0729\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u062a\u0644 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVa to chant, sing."
+            ],
+            "fre": [
+                "chanter\u2026",
+                "chanter"
+            ]
+        },
+        "word": {
+            "id": 41449,
+            "uri": "https://sedra.bethmardutho.org/api/word/41449.json"
+        }
+    }
+]

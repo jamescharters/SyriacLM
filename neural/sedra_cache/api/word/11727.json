@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0721\u0720\u0713",
+        "western": "\u0721\u0720\u0730\u0713\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1774,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1774.json"
+        },
+        "stem": "\u0721\u0720\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0644\u0639",
+                "\u0646\u062a\u0641",
+                "\u0639\u0630\u0628 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to pluck (feathers, hairs).",
+                "Ia to rub (ears of wheat)",
+                "pick off",
+                "pluck"
+            ],
+            "fre": [
+                "\u00e9piler",
+                "arracher",
+                "molester"
+            ]
+        },
+        "word": {
+            "id": 11727,
+            "uri": "https://sedra.bethmardutho.org/api/word/11727.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u071d\u071b\u0710",
+        "western": "\u071a\u0730\u071d\u0733\u071b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12240,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12240.json"
+        },
+        "stem": "\u071a\u071d\u071b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u064a\u0627\u0637"
+            ],
+            "eng": [
+                "tailor."
+            ],
+            "fre": [
+                "tailleur"
+            ]
+        },
+        "word": {
+            "id": 34534,
+            "uri": "https://sedra.bethmardutho.org/api/word/34534.json"
+        }
+    }
+]

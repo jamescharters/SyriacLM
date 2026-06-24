@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 225,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/225.json"
+        },
+        "syriac": "\u0710\u0723\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "\u00a0"
+            ],
+            "English": [
+                "Ip.",
+                "store up",
+                "Ia to store up, lay by"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 169,
+            "uri": "https://sedra.bethmardutho.org/api/root/169.json"
+        },
+        "words": [
+            {
+                "id": 23222,
+                "uri": "https://sedra.bethmardutho.org/api/word/23222.json"
+            },
+            {
+                "id": 23221,
+                "uri": "https://sedra.bethmardutho.org/api/word/23221.json"
+            },
+            {
+                "id": 1634,
+                "uri": "https://sedra.bethmardutho.org/api/word/1634.json"
+            },
+            {
+                "id": 1635,
+                "uri": "https://sedra.bethmardutho.org/api/word/1635.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

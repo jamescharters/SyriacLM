@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2009,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2009.json"
+        },
+        "syriac": "\u0722\u0726\u072c\u0720\u071d",
+        "glosses": {
+            "English": [
+                "Naphtali"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1198,
+            "uri": "https://sedra.bethmardutho.org/api/root/1198.json"
+        },
+        "words": [
+            {
+                "id": 13300,
+                "uri": "https://sedra.bethmardutho.org/api/word/13300.json"
+            },
+            {
+                "id": 13299,
+                "uri": "https://sedra.bethmardutho.org/api/word/13299.json"
+            },
+            {
+                "id": 13301,
+                "uri": "https://sedra.bethmardutho.org/api/word/13301.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

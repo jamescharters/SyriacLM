@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072b\u071b\u072a",
+        "western": "\u072b\u071b\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15687,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15687.json"
+        },
+        "stem": "\u072b\u071b\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0630\u0649"
+            ],
+            "eng": [
+                "to lose one\u2019s senses.",
+                "Ia to talk nonsense"
+            ],
+            "fre": [
+                "d\u00e9raisonner"
+            ]
+        },
+        "word": {
+            "id": 40089,
+            "uri": "https://sedra.bethmardutho.org/api/word/40089.json"
+        }
+    }
+]

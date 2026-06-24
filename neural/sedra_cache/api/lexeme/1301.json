@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1301,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1301.json"
+        },
+        "syriac": "\u071d\u0715\u0718\u0725\u0710",
+        "glosses": {
+            "French": [
+                "\u00a0"
+            ],
+            "Arabic": [
+                "\u00a0"
+            ],
+            "English": [
+                "acquaintance",
+                "acquaintance",
+                "familiar person",
+                "learned, experienced, skilful",
+                "intimate."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 768,
+            "uri": "https://sedra.bethmardutho.org/api/root/768.json"
+        },
+        "words": [
+            {
+                "id": 8531,
+                "uri": "https://sedra.bethmardutho.org/api/word/8531.json"
+            },
+            {
+                "id": 8530,
+                "uri": "https://sedra.bethmardutho.org/api/word/8530.json"
+            },
+            {
+                "id": 8529,
+                "uri": "https://sedra.bethmardutho.org/api/word/8529.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

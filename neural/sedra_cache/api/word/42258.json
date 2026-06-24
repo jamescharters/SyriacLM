@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0721\u071b\u0720\u0710",
+        "western": "\u0721\u0308\u071b\u0730\u0720\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1242,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1242.json"
+        },
+        "stem": "\u0721\u071b\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0638\u0644\u0629"
+            ],
+            "eng": [
+                "tent",
+                "booth",
+                "pl. heavenly abodes",
+                "tabernacle",
+                "Sukkot",
+                "shade",
+                "Transfiguration (feast of).",
+                "shed"
+            ],
+            "fre": [
+                "tente"
+            ]
+        },
+        "word": {
+            "id": 42258,
+            "uri": "https://sedra.bethmardutho.org/api/word/42258.json"
+        }
+    }
+]

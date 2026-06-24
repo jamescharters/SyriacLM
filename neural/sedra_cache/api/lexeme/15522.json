@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15522,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15522.json"
+        },
+        "syriac": "\u0722\u071a\u0712",
+        "glosses": {
+            "English": [
+                "Ia to grow lean, to waste away",
+                "IIa to emaciate, to make thin."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2287,
+            "uri": "https://sedra.bethmardutho.org/api/root/2287.json"
+        },
+        "words": [
+            {
+                "id": 41963,
+                "uri": "https://sedra.bethmardutho.org/api/word/41963.json"
+            },
+            {
+                "id": 41484,
+                "uri": "https://sedra.bethmardutho.org/api/word/41484.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

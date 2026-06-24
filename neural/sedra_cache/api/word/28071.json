@@ -1,0 +1,55 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0729\u0712\u0720",
+        "western": "\u0721\u0736\u072c\u0742\u0729\u0730\u0712\u0741\u0730\u0720",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2730,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2730.json"
+        },
+        "stem": "\u0729\u0712\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0642\u0628\u0644 (\u0625\u0644\u0649)",
+                "\u0639\u0627\u0631\u0636",
+                "\u0627\u0633\u062a\u062f\u0639\u0649"
+            ],
+            "eng": [
+                "appeal to",
+                "+ <span class=\"selectableFont\">\u071b\u0730\u071d\u0712\u073d\u0718\u072c\u0733\u0710</span> to thank",
+                "to oppose",
+                "IIIa to face",
+                "to meet.",
+                "IIp",
+                "Ip to be accused",
+                "Ia to accuse, complain of",
+                "IIa to receive, accept",
+                "to meet",
+                "to appeal to",
+                "oppose",
+                "be present",
+                "take",
+                "receive",
+                "accuse"
+            ],
+            "fre": [
+                "en appeler \u00e0",
+                "s&#39;opposer",
+                "aller au devant"
+            ]
+        },
+        "word": {
+            "id": 28071,
+            "uri": "https://sedra.bethmardutho.org/api/word/28071.json"
+        }
+    }
+]

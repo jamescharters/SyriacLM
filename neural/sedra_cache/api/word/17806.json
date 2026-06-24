@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0729\u0715",
+        "western": "\u0729\u0730\u0715\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2738,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2738.json"
+        },
+        "stem": "\u0729\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to tear, cut away",
+                "tear",
+                "cut off",
+                "to tear up",
+                "IIp.",
+                "IIa to cut off"
+            ]
+        },
+        "word": {
+            "id": 17806,
+            "uri": "https://sedra.bethmardutho.org/api/word/17806.json"
+        }
+    }
+]

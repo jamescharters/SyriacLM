@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0720\u0720\u0718\u072c\u0710",
+        "western": "\u0720\u0736\u0720\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1674,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1674.json"
+        },
+        "stem": "\u0720\u0720\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0646\u0648\u0646"
+            ],
+            "eng": [
+                "foolishness",
+                "foolishness, folly, stupidity."
+            ],
+            "fre": [
+                "folie"
+            ]
+        },
+        "word": {
+            "id": 11050,
+            "uri": "https://sedra.bethmardutho.org/api/word/11050.json"
+        }
+    }
+]

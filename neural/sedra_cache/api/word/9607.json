@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u0718\u071d\u072c\u072a\u071d\u0722\u0722",
+        "western": "\u0718\u071d\u0733\u072c\u0742\u072a\u073a\u071d\u0722\u0730\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 1445,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1445.json"
+        },
+        "stem": "\u071d\u072c\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to have abundance",
+                "gain",
+                "remain over",
+                "abound",
+                "make abound",
+                "benefit",
+                "to gain, win, obtain",
+                "to have advantage, profit",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u072c\u0730\u072a</span> to profit, help, to be of advantage",
+                "to let remain.",
+                "prefer",
+                "IIa to increase, make to abound",
+                "IIp to be made to abound",
+                "to be increased",
+                "Ia to be left over",
+                "to exceed, to excel, to surpass",
+                "to have left over"
+            ]
+        },
+        "word": {
+            "id": 9607,
+            "uri": "https://sedra.bethmardutho.org/api/word/9607.json"
+        }
+    }
+]

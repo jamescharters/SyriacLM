@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0710",
+        "western": "\u0721\u0733\u072a\u0736\u0710",
+        "lexeme": {
+            "id": 17239,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/17239.json"
+        },
+        "stem": "\u0721\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062c\u0647\u0632 \u0628\u0640",
+                "\u0645\u0624\u0644\u0641..., \u0645\u0633\u0628\u0628...",
+                "\u0635\u0627\u062d\u0628"
+            ],
+            "eng": [
+                "see <span class=\"selectableFont\">\u0721\u0733\u072a\u071d\u0733\u0710</span>.",
+                "in construction, expresses rule, power, ownership"
+            ],
+            "fre": [
+                "pourvu de",
+                "ma\u00eetre de",
+                "auteur de"
+            ]
+        },
+        "word": {
+            "id": 43613,
+            "uri": "https://sedra.bethmardutho.org/api/word/43613.json"
+        }
+    }
+]

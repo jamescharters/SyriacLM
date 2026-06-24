@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 2946,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2946.json"
+        },
+        "syriac": "\u072a\u0715\u0718\u0726\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0636\u0637\u0647\u062f"
+            ],
+            "French": [
+                "pers\u00e9cuteur"
+            ],
+            "English": [
+                "persecutor",
+                "persecutor."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1732,
+            "uri": "https://sedra.bethmardutho.org/api/root/1732.json"
+        },
+        "words": [
+            {
+                "id": 25347,
+                "uri": "https://sedra.bethmardutho.org/api/word/25347.json"
+            },
+            {
+                "id": 19222,
+                "uri": "https://sedra.bethmardutho.org/api/word/19222.json"
+            },
+            {
+                "id": 19225,
+                "uri": "https://sedra.bethmardutho.org/api/word/19225.json"
+            },
+            {
+                "id": 27811,
+                "uri": "https://sedra.bethmardutho.org/api/word/27811.json"
+            },
+            {
+                "id": 19224,
+                "uri": "https://sedra.bethmardutho.org/api/word/19224.json"
+            },
+            {
+                "id": 19226,
+                "uri": "https://sedra.bethmardutho.org/api/word/19226.json"
+            },
+            {
+                "id": 19223,
+                "uri": "https://sedra.bethmardutho.org/api/word/19223.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

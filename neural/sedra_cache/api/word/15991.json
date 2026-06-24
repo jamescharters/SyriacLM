@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0718\u0725\u072a\u0723\u0717\u0718\u0722",
+        "western": "\u0718\u0725\u0730\u072a\u0723\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2418,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2418.json"
+        },
+        "stem": "\u0725\u072a\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0631\u064a\u0631",
+                "\u0645\u062d\u0645\u0644, \u0633\u0631\u064a\u0631 \u0645\u062d\u0645\u0648\u0644"
+            ],
+            "eng": [
+                "bed",
+                "bier",
+                "stretcher, litter, bier.",
+                "pallet",
+                "bed, couch"
+            ],
+            "fre": [
+                "liti\u00e8re, civi\u00e8re",
+                "lit"
+            ]
+        },
+        "word": {
+            "id": 15991,
+            "uri": "https://sedra.bethmardutho.org/api/word/15991.json"
+        }
+    }
+]

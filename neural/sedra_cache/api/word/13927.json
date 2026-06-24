@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0723\u071f",
+        "western": "\u0723\u0733\u071f\u0741",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2090,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2090.json"
+        },
+        "stem": "\u0723\u0718\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be ended",
+                "Ia to end",
+                "IIp.",
+                "to contain, comprise",
+                "to define",
+                "IIa <span class=\"selectableFont\">\u0723\u0730\u071d\u0736\u071f</span> to conclude, bring to an end"
+            ]
+        },
+        "word": {
+            "id": 13927,
+            "uri": "https://sedra.bethmardutho.org/api/word/13927.json"
+        }
+    }
+]

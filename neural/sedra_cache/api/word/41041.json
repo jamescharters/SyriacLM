@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0717\u0718\u0722\u0722",
+        "western": "\u0717\u0730\u0718\u0722\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14882,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14882.json"
+        },
+        "stem": "\u0717\u0718\u0722\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645\u0644 \u0628\u062d\u0643\u0645\u0629"
+            ],
+            "eng": [
+                "to be mindful of.",
+                "to comprehend",
+                "IVp to understand",
+                "IVa to act wisely"
+            ],
+            "fre": [
+                "agir sagement"
+            ]
+        },
+        "word": {
+            "id": 41041,
+            "uri": "https://sedra.bethmardutho.org/api/word/41041.json"
+        }
+    }
+]

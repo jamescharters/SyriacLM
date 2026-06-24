@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072a\u0718\u072b\u0710",
+        "western": "\u072a\u073d\u0718\u072b\u0733\u0710",
+        "lexeme": {
+            "id": 3900,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3900.json"
+        },
+        "stem": "\u072a\u0718\u072b\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0644\u0633"
+            ],
+            "eng": [
+                "barley water",
+                "barley groats"
+            ],
+            "fre": [
+                "\u00e9peautre"
+            ]
+        },
+        "word": {
+            "id": 43090,
+            "uri": "https://sedra.bethmardutho.org/api/word/43090.json"
+        }
+    }
+]

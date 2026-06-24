@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u0712\u0718\u072a\u071f\u072c\u0710",
+        "western": "\u0718\u0712\u0742\u073d\u0718\u072a\u071f\u0741\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 354,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/354.json"
+        },
+        "stem": "\u0712\u0718\u072a\u071f\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "benediction",
+                "blessing",
+                "blessing",
+                "Lit. blessed bread.",
+                "present, gift"
+            ]
+        },
+        "word": {
+            "id": 2431,
+            "uri": "https://sedra.bethmardutho.org/api/word/2431.json"
+        }
+    }
+]

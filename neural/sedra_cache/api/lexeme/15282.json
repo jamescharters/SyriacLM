@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 15282,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15282.json"
+        },
+        "syriac": "\u071b\u0720\u0720",
+        "glosses": {
+            "English": [
+                "to bedew.",
+                "to give shade",
+                "to bedew.",
+                "IIa to cover over, to roof",
+                "IIp",
+                "IIIa to give shade, to overshadow"
+            ],
+            "Arabic": [
+                "\u0638\u0644\u0644, \u063a\u0637\u0649",
+                "\u00a0",
+                "\u00a0",
+                "\u062e\u0644\u0627\u0647 \u064a\u063a\u0631\u0642"
+            ],
+            "French": [
+                "ombrager, couvrir",
+                "\u00a0",
+                "\u00a0",
+                "laisser puiser"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2879,
+            "uri": "https://sedra.bethmardutho.org/api/root/2879.json"
+        },
+        "words": [
+            {
+                "id": 41084,
+                "uri": "https://sedra.bethmardutho.org/api/word/41084.json"
+            },
+            {
+                "id": 40890,
+                "uri": "https://sedra.bethmardutho.org/api/word/40890.json"
+            },
+            {
+                "id": 40752,
+                "uri": "https://sedra.bethmardutho.org/api/word/40752.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

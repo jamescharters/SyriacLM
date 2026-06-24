@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0722\u072b\u0726",
+        "western": "\u0722\u072b\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15801,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15801.json"
+        },
+        "stem": "\u0722\u072b\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp.",
+                "Ia to pound, to pulverize",
+                "IIa to smooth, to rub clean",
+                "to clean out"
+            ]
+        },
+        "word": {
+            "id": 39838,
+            "uri": "https://sedra.bethmardutho.org/api/word/39838.json"
+        }
+    }
+]

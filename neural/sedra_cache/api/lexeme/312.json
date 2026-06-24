@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 312,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/312.json"
+        },
+        "syriac": "\u0710\u072b\u072c\u0718\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u00a0"
+            ],
+            "French": [
+                "pl\u00fbt au ciel que\u2026"
+            ],
+            "English": [
+                "would that!",
+                "O that!",
+                "would that!, o that!, I wish (that)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 231,
+            "uri": "https://sedra.bethmardutho.org/api/root/231.json"
+        },
+        "words": [
+            {
+                "id": 2025,
+                "uri": "https://sedra.bethmardutho.org/api/word/2025.json"
+            },
+            {
+                "id": 2024,
+                "uri": "https://sedra.bethmardutho.org/api/word/2024.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

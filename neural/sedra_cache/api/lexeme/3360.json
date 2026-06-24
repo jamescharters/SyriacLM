@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 3360,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3360.json"
+        },
+        "syriac": "\u072c\u0715\u071d",
+        "glosses": {
+            "English": [
+                "Thaddaeus"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1951,
+            "uri": "https://sedra.bethmardutho.org/api/root/1951.json"
+        },
+        "words": [
+            {
+                "id": 22362,
+                "uri": "https://sedra.bethmardutho.org/api/word/22362.json"
+            },
+            {
+                "id": 22363,
+                "uri": "https://sedra.bethmardutho.org/api/word/22363.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

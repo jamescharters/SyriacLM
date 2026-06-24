@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 117,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/117.json"
+        },
+        "syriac": "\u0721\u0710\u071f\u0720 \u0729\u072a\u0728\u0710",
+        "glosses": {
+            "English": [
+                "accusation"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 89,
+            "uri": "https://sedra.bethmardutho.org/api/root/89.json"
+        },
+        "words": [
+            {
+                "id": 868,
+                "uri": "https://sedra.bethmardutho.org/api/word/868.json"
+            },
+            {
+                "id": 867,
+                "uri": "https://sedra.bethmardutho.org/api/word/867.json"
+            },
+            {
+                "id": 869,
+                "uri": "https://sedra.bethmardutho.org/api/word/869.json"
+            }
+        ],
+        "category": "idiom",
+        "kaylo": "p\u02bfal"
+    }
+]

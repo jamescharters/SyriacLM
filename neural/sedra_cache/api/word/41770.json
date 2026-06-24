@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u0729\u071b\u0710",
+        "western": "\u0722\u0736\u0729\u071b\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15499,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15499.json"
+        },
+        "stem": "\u0729\u071b\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0627\u0644, \u0637\u0627\u0641"
+            ],
+            "eng": [
+                "Ia to revolve",
+                "to be occupied",
+                "IIIa to turn around, turn upside down, upset.",
+                "to investigate",
+                "to wander, go about",
+                "to be sprinkled on"
+            ],
+            "fre": [
+                "tourner autour, errer"
+            ]
+        },
+        "word": {
+            "id": 41770,
+            "uri": "https://sedra.bethmardutho.org/api/word/41770.json"
+        }
+    }
+]

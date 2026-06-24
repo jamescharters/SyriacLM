@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0722\u0723",
+        "western": "\u0710\u0733\u0722\u0736\u0723",
+        "eastern": "\u0710\u0735\u0722\u0738\u0723",
+        "lexeme": {
+            "id": 193,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/193.json"
+        },
+        "stem": "\u0710\u0722\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "compel",
+                "Ip",
+                "Ia to press, compel",
+                "IIa."
+            ]
+        },
+        "word": {
+            "id": 50287,
+            "uri": "https://sedra.bethmardutho.org/api/word/50287.json"
+        }
+    }
+]

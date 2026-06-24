@@ -1,0 +1,69 @@
+[
+    {
+        "lexeme": {
+            "id": 3007,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3007.json"
+        },
+        "syriac": "\u072a\u071a\u071d\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0639\u064a\u062f"
+            ],
+            "French": [
+                "\u00e9loign\u00e9"
+            ],
+            "English": [
+                "far",
+                "distant",
+                "remote",
+                "distant, remote, far",
+                "<span class=\"selectableFont\">\u0720\u0733\u0710 \u072a\u0730\u071a\u073a\u071d\u0729\u0733\u0710</span> (it is) not unlikely."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1755,
+            "uri": "https://sedra.bethmardutho.org/api/root/1755.json"
+        },
+        "words": [
+            {
+                "id": 19597,
+                "uri": "https://sedra.bethmardutho.org/api/word/19597.json"
+            },
+            {
+                "id": 19596,
+                "uri": "https://sedra.bethmardutho.org/api/word/19596.json"
+            },
+            {
+                "id": 19595,
+                "uri": "https://sedra.bethmardutho.org/api/word/19595.json"
+            },
+            {
+                "id": 19603,
+                "uri": "https://sedra.bethmardutho.org/api/word/19603.json"
+            },
+            {
+                "id": 19601,
+                "uri": "https://sedra.bethmardutho.org/api/word/19601.json"
+            },
+            {
+                "id": 19600,
+                "uri": "https://sedra.bethmardutho.org/api/word/19600.json"
+            },
+            {
+                "id": 19599,
+                "uri": "https://sedra.bethmardutho.org/api/word/19599.json"
+            },
+            {
+                "id": 19598,
+                "uri": "https://sedra.bethmardutho.org/api/word/19598.json"
+            },
+            {
+                "id": 19602,
+                "uri": "https://sedra.bethmardutho.org/api/word/19602.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

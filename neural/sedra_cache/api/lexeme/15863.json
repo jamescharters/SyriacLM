@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15863,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15863.json"
+        },
+        "syriac": "\u072c\u072a\u0710",
+        "glosses": {
+            "English": [
+                "IIIa to soak.",
+                "Ip to become soaked",
+                "Ia to be damp"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2421,
+            "uri": "https://sedra.bethmardutho.org/api/root/2421.json"
+        },
+        "words": [
+            {
+                "id": 42022,
+                "uri": "https://sedra.bethmardutho.org/api/word/42022.json"
+            },
+            {
+                "id": 41031,
+                "uri": "https://sedra.bethmardutho.org/api/word/41031.json"
+            },
+            {
+                "id": 40615,
+                "uri": "https://sedra.bethmardutho.org/api/word/40615.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

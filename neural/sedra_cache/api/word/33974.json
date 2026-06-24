@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u072a\u071b\u0718\u0720\u072a\u0710",
+        "western": "\u071f\u0730\u072a\u071b\u073d\u0718\u0720\u0733\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7062,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7062.json"
+        },
+        "stem": "\u071f\u072a\u071b\u0718\u0720\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0627\u0641\u0638 \u0627\u0644\u0642\u0631\u0627\u0637\u064a\u0633"
+            ],
+            "eng": [
+                "archivist."
+            ],
+            "fre": [
+                "archiviste"
+            ]
+        },
+        "word": {
+            "id": 33974,
+            "uri": "https://sedra.bethmardutho.org/api/word/33974.json"
+        }
+    }
+]

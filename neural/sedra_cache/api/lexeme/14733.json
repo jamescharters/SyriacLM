@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 14733,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14733.json"
+        },
+        "syriac": "\u0722\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0636\u0639\u0641",
+                "\u0636\u0639\u0641"
+            ],
+            "French": [
+                "affaiblir",
+                "\u00eatre affaibli"
+            ],
+            "English": [
+                "IIp to become inert",
+                "to weaken.",
+                "to make torpid.",
+                "fur. <span class=\"selectableFont\">\u0722\u0736\u0722\u0730\u072b</span> & <span class=\"selectableFont\">\u0722\u0736\u0722\u073d\u0718\u072b</span>, Ia to be weakened",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0722\u0736\u072b</span> to weaken"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2571,
+            "uri": "https://sedra.bethmardutho.org/api/root/2571.json"
+        },
+        "words": [
+            {
+                "id": 41372,
+                "uri": "https://sedra.bethmardutho.org/api/word/41372.json"
+            },
+            {
+                "id": 40163,
+                "uri": "https://sedra.bethmardutho.org/api/word/40163.json"
+            },
+            {
+                "id": 40138,
+                "uri": "https://sedra.bethmardutho.org/api/word/40138.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

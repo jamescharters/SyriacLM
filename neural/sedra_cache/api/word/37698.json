@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072c\u0720\u071a\u0710",
+        "western": "\u072c\u0720\u0733\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10829,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10829.json"
+        },
+        "stem": "\u072c\u0720\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0645\u0632\u064a\u0642, \u062e\u0631\u0642",
+                "\u0645\u0636\u064a\u0642",
+                "\u062e\u0631\u0642\u0629"
+            ],
+            "eng": [
+                "rupture.",
+                "fissure",
+                "chasm"
+            ],
+            "fre": [
+                "d\u00e9chirement, fission",
+                "gorge ( de montagne)",
+                "lambeau"
+            ]
+        },
+        "word": {
+            "id": 37698,
+            "uri": "https://sedra.bethmardutho.org/api/word/37698.json"
+        }
+    }
+]

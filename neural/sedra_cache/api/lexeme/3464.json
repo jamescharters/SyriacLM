@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 3464,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3464.json"
+        },
+        "syriac": "\u0710\u0723\u072c\u0710",
+        "glosses": {
+            "English": [
+                "wall",
+                "wall, partition."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 178,
+            "uri": "https://sedra.bethmardutho.org/api/root/178.json"
+        },
+        "words": [
+            {
+                "id": 1715,
+                "uri": "https://sedra.bethmardutho.org/api/word/1715.json"
+            },
+            {
+                "id": 42291,
+                "uri": "https://sedra.bethmardutho.org/api/word/42291.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

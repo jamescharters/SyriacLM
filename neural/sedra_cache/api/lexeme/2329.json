@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 2329,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2329.json"
+        },
+        "syriac": "\u0725\u0720\u071d\u0721\u0710",
+        "glosses": {
+            "English": [
+                "man",
+                "young man",
+                "youth",
+                "youthful, young.",
+                "youth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1382,
+            "uri": "https://sedra.bethmardutho.org/api/root/1382.json"
+        },
+        "words": [
+            {
+                "id": 15519,
+                "uri": "https://sedra.bethmardutho.org/api/word/15519.json"
+            },
+            {
+                "id": 15518,
+                "uri": "https://sedra.bethmardutho.org/api/word/15518.json"
+            },
+            {
+                "id": 15517,
+                "uri": "https://sedra.bethmardutho.org/api/word/15517.json"
+            },
+            {
+                "id": 15516,
+                "uri": "https://sedra.bethmardutho.org/api/word/15516.json"
+            },
+            {
+                "id": 15515,
+                "uri": "https://sedra.bethmardutho.org/api/word/15515.json"
+            },
+            {
+                "id": 15521,
+                "uri": "https://sedra.bethmardutho.org/api/word/15521.json"
+            },
+            {
+                "id": 15520,
+                "uri": "https://sedra.bethmardutho.org/api/word/15520.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

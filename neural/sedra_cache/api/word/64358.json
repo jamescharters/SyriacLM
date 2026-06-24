@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0710\u0715\u0717\u0722",
+        "western": "\u0710\u0730\u0715\u0717\u0736\u0722",
+        "lexeme": {
+            "id": 38003,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/38003.json"
+        },
+        "stem": "\u0710\u0715\u0717\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to make fat"
+            ]
+        },
+        "word": {
+            "id": 64358,
+            "uri": "https://sedra.bethmardutho.org/api/word/64358.json"
+        }
+    }
+]

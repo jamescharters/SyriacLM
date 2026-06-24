@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0723\u0721\u0725\u0720",
+        "western": "\u0723\u0730\u0721\u0725\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14811,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14811.json"
+        },
+        "stem": "\u0723\u0721\u0725\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0639\u0644\u0647 \u064a\u062a\u0646\u0633\u0643",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVa to emaciate",
+                "IVp to be emaciated",
+                "to lead an ascetic life."
+            ],
+            "fre": [
+                "\u00a0",
+                "faire ermite"
+            ]
+        },
+        "word": {
+            "id": 40401,
+            "uri": "https://sedra.bethmardutho.org/api/word/40401.json"
+        }
+    }
+]

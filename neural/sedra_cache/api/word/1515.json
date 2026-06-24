@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u0723\u0718\u071b\u0718\u072c\u0710",
+        "western": "\u0710\u0733\u0723\u073d\u0718\u071b\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 203,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/203.json"
+        },
+        "stem": "\u0710\u0723\u0718\u071b\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0631\u0627\u0647\u0629, \u0637\u0645\u0627\u0639\u0629"
+            ],
+            "eng": [
+                "luxury",
+                "profligacy",
+                "intemperance, licentiousness."
+            ],
+            "fre": [
+                "intemp\u00e9rance, avidit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 1515,
+            "uri": "https://sedra.bethmardutho.org/api/word/1515.json"
+        }
+    }
+]

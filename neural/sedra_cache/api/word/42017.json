@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0722\u0712\u0720\u0729",
+        "western": "\u0722\u0736\u0712\u0720\u0730\u0729",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15926,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15926.json"
+        },
+        "stem": "\u0712\u0720\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0631\u0632, \u0637\u0631\u0623"
+            ],
+            "eng": [
+                "to urge",
+                "Ia to come, happen unawares",
+                "IIa to stir up, incite",
+                "IIp to be eager, strive for."
+            ],
+            "fre": [
+                "appara\u00eetre, survenir"
+            ]
+        },
+        "word": {
+            "id": 42017,
+            "uri": "https://sedra.bethmardutho.org/api/word/42017.json"
+        }
+    }
+]

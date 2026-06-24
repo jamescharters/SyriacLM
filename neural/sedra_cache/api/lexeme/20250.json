@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 20250,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20250.json"
+        },
+        "syriac": "\u0710\u0712\u0715\u0718\u0721\u0710",
+        "glosses": {
+            "English": [
+                "Indictio"
+            ],
+            "Greek": [
+                "\u1f11\u03b2\u03b4\u03cc\u03bc\u03b7"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f15\u03b2\u03b4\u03bf\u03bc\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 46624,
+                "uri": "https://sedra.bethmardutho.org/api/word/46624.json"
+            }
+        ],
+        "category": "numeral"
+    }
+]

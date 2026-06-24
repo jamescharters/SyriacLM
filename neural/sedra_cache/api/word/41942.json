@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u0722\u072a\u0712\u0718\u0728",
+        "western": "\u0722\u0736\u072a\u0712\u073d\u0718\u0728",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15573,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15573.json"
+        },
+        "stem": "\u072a\u0712\u0728",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0642\u0635",
+                "\u062e\u0641\u0636",
+                "\u062d\u0635\u0631, \u0636\u063a\u0637, \u0636\u064a\u0642 \u0639\u0644\u0649",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIa to check, to repress",
+                "to compress",
+                "to oppress",
+                "Ip",
+                "Ia to grip",
+                "IIp."
+            ],
+            "fre": [
+                "presser, comprimer, opprimer",
+                "diminuer",
+                "abaisser",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 41942,
+            "uri": "https://sedra.bethmardutho.org/api/word/41942.json"
+        }
+    }
+]

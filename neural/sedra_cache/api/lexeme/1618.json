@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 1618,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1618.json"
+        },
+        "syriac": "\u0720\u0712\u0712",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u062c\u0639 (\u0645\u0636)"
+            ],
+            "French": [
+                "r\u00e9conforter"
+            ],
+            "English": [
+                "encourage",
+                "IIp to take heart, be encouraged.",
+                "IIa to encourage, exhort"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 948,
+            "uri": "https://sedra.bethmardutho.org/api/root/948.json"
+        },
+        "words": [
+            {
+                "id": 29300,
+                "uri": "https://sedra.bethmardutho.org/api/word/29300.json"
+            },
+            {
+                "id": 10777,
+                "uri": "https://sedra.bethmardutho.org/api/word/10777.json"
+            },
+            {
+                "id": 10773,
+                "uri": "https://sedra.bethmardutho.org/api/word/10773.json"
+            },
+            {
+                "id": 10776,
+                "uri": "https://sedra.bethmardutho.org/api/word/10776.json"
+            },
+            {
+                "id": 29359,
+                "uri": "https://sedra.bethmardutho.org/api/word/29359.json"
+            },
+            {
+                "id": 10775,
+                "uri": "https://sedra.bethmardutho.org/api/word/10775.json"
+            },
+            {
+                "id": 10778,
+                "uri": "https://sedra.bethmardutho.org/api/word/10778.json"
+            },
+            {
+                "id": 10774,
+                "uri": "https://sedra.bethmardutho.org/api/word/10774.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

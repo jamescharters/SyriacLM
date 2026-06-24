@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 2095,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2095.json"
+        },
+        "syriac": "\u0723\u0718\u0723\u071d\u0710",
+        "glosses": {
+            "English": [
+                "horse",
+                "horse."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1251,
+            "uri": "https://sedra.bethmardutho.org/api/root/1251.json"
+        },
+        "words": [
+            {
+                "id": 13941,
+                "uri": "https://sedra.bethmardutho.org/api/word/13941.json"
+            },
+            {
+                "id": 42251,
+                "uri": "https://sedra.bethmardutho.org/api/word/42251.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

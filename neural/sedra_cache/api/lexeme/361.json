@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 361,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/361.json"
+        },
+        "syriac": "\u0712\u0719\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u062e\u0631\u064a\u0629, \u0634\u062a\u064a\u0645\u0629"
+            ],
+            "French": [
+                "moquerie, outrage"
+            ],
+            "English": [
+                "mocking",
+                "jeering",
+                "mocking, disgrace."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 257,
+            "uri": "https://sedra.bethmardutho.org/api/root/257.json"
+        },
+        "words": [
+            {
+                "id": 2489,
+                "uri": "https://sedra.bethmardutho.org/api/word/2489.json"
+            },
+            {
+                "id": 2488,
+                "uri": "https://sedra.bethmardutho.org/api/word/2488.json"
+            },
+            {
+                "id": 2487,
+                "uri": "https://sedra.bethmardutho.org/api/word/2487.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

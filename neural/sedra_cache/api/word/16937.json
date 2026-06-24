@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072c\u072c\u0726\u072a\u0725\u0718\u0722",
+        "western": "\u072c\u0741\u0736\u072c\u0742\u0726\u0741\u0730\u072a\u0725\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2605,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2605.json"
+        },
+        "stem": "\u0726\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "recompense",
+                "3 fut. <span class=\"selectableFont\">\u0722\u0736\u0726\u072a\u073d\u0718\u0725</span>, Ia to repay, to reward",
+                "Ip.",
+                "Kth. to pay"
+            ]
+        },
+        "word": {
+            "id": 16937,
+            "uri": "https://sedra.bethmardutho.org/api/word/16937.json"
+        }
+    }
+]

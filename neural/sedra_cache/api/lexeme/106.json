@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 106,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/106.json"
+        },
+        "syriac": "\u0710\u071f\u0715\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0641\u0639\u0649",
+                "\u0635\u0644"
+            ],
+            "French": [
+                "vip\u00e8re",
+                "aspic"
+            ],
+            "English": [
+                "viper",
+                "viper."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f14\u03c7\u03b9\u03b4\u03bd\u03b1"
+            ]
+        },
+        "root": {
+            "id": 86,
+            "uri": "https://sedra.bethmardutho.org/api/root/86.json"
+        },
+        "words": [
+            {
+                "id": 49677,
+                "uri": "https://sedra.bethmardutho.org/api/word/49677.json"
+            },
+            {
+                "id": 770,
+                "uri": "https://sedra.bethmardutho.org/api/word/770.json"
+            },
+            {
+                "id": 769,
+                "uri": "https://sedra.bethmardutho.org/api/word/769.json"
+            },
+            {
+                "id": 771,
+                "uri": "https://sedra.bethmardutho.org/api/word/771.json"
+            },
+            {
+                "id": 768,
+                "uri": "https://sedra.bethmardutho.org/api/word/768.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

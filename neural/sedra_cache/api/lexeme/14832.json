@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14832,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14832.json"
+        },
+        "syriac": "\u072b\u071a\u0720\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u064a\u0631, \u062d\u0648\u0644",
+                "\u0635\u0644\u0628 (\u0645\u0636-\u0627\u0644\u064a\u062f\u064a\u0646)"
+            ],
+            "French": [
+                "changer, transformer",
+                "croiser ( les bras)"
+            ],
+            "English": [
+                "IVa to change, alter",
+                "IVp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3125,
+            "uri": "https://sedra.bethmardutho.org/api/root/3125.json"
+        },
+        "words": [
+            {
+                "id": 46907,
+                "uri": "https://sedra.bethmardutho.org/api/word/46907.json"
+            },
+            {
+                "id": 41169,
+                "uri": "https://sedra.bethmardutho.org/api/word/41169.json"
+            },
+            {
+                "id": 41050,
+                "uri": "https://sedra.bethmardutho.org/api/word/41050.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u072c\u0729\u071d\u0722\u0710",
+        "western": "\u072c\u0730\u0729\u073a\u071d\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11251,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11251.json"
+        },
+        "stem": "\u072c\u0729\u071d\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u062d\u0627\u0644\u0629 \u062d\u0633\u0646\u0629",
+                "\u062d\u0627\u0636\u0631",
+                "\u0645\u062d\u0633\u0646 \u0627\u0644\u062a\u0645\u0643\u064a\u0646, \u0648\u0637\u064a\u062f"
+            ],
+            "eng": [
+                "in good order, established, firm, ready."
+            ],
+            "fre": [
+                "bien \u00e9tabli, ferme",
+                "en bon \u00e9tat",
+                "pr\u00eat"
+            ]
+        },
+        "word": {
+            "id": 38669,
+            "uri": "https://sedra.bethmardutho.org/api/word/38669.json"
+        }
+    }
+]

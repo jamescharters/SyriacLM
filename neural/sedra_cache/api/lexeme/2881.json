@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2881,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2881.json"
+        },
+        "syriac": "\u0729\u072a\u071b\u0710",
+        "glosses": {
+            "English": [
+                "Crete"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1705,
+            "uri": "https://sedra.bethmardutho.org/api/root/1705.json"
+        },
+        "words": [
+            {
+                "id": 18803,
+                "uri": "https://sedra.bethmardutho.org/api/word/18803.json"
+            },
+            {
+                "id": 18805,
+                "uri": "https://sedra.bethmardutho.org/api/word/18805.json"
+            },
+            {
+                "id": 18804,
+                "uri": "https://sedra.bethmardutho.org/api/word/18804.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

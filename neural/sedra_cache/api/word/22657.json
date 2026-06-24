@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u072c\u0718\u072a\u0713\u0721\u0717",
+        "western": "\u072c\u0741\u073d\u0718\u072a\u0713\u0741\u0733\u0721\u0733\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 3436,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3436.json"
+        },
+        "stem": "\u072c\u0718\u072a\u0713\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0637\u0627\u0628",
+                "\u0645\u062c\u0645\u0648\u0639\u0629 \u0623\u0646\u0627\u0634\u064a\u062f",
+                "\u062a\u0641\u0633\u064a\u0631, \u0634\u0631\u062d",
+                "\u062a\u0631\u062c\u0645\u0629"
+            ],
+            "eng": [
+                "interpretation",
+                "interpretation",
+                "oration",
+                "homily",
+                "commentary",
+                "Kth. lecture."
+            ],
+            "fre": [
+                "recueil d&#39;hymnes",
+                "traduction",
+                "interpr\u00e9tation, explication",
+                "discours"
+            ]
+        },
+        "word": {
+            "id": 22657,
+            "uri": "https://sedra.bethmardutho.org/api/word/22657.json"
+        }
+    }
+]

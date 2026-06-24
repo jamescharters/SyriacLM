@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15873,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15873.json"
+        },
+        "syriac": "\u071f\u071a\u0715",
+        "glosses": {
+            "English": [
+                "to stand in awe.",
+                "IIa to put to shame",
+                "to be afraid",
+                "IIp to be ashamed",
+                "& <span class=\"selectableFont\">\u071f\u071a\u0730\u0715</span> fut. <span class=\"selectableFont\">\u0722\u0736\u071f\u071a\u0730\u0715</span> & <span class=\"selectableFont\">\u0722\u0736\u071f\u071a\u073d\u0718\u0715</span>, Ia to be modest"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3000,
+            "uri": "https://sedra.bethmardutho.org/api/root/3000.json"
+        },
+        "words": [
+            {
+                "id": 42119,
+                "uri": "https://sedra.bethmardutho.org/api/word/42119.json"
+            },
+            {
+                "id": 41608,
+                "uri": "https://sedra.bethmardutho.org/api/word/41608.json"
+            },
+            {
+                "id": 40126,
+                "uri": "https://sedra.bethmardutho.org/api/word/40126.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

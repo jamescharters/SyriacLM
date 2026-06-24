@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071a\u0721\u0728",
+        "western": "\u071a\u0721\u0730\u0728",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1071,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1071.json"
+        },
+        "stem": "\u071a\u0721\u0728",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "shame",
+                "Ia to turn sour",
+                "to make ashamed.",
+                "IIp to be ashamed, confused",
+                "IIa to make ashamed",
+                "IIIa to turn something sour"
+            ]
+        },
+        "word": {
+            "id": 7205,
+            "uri": "https://sedra.bethmardutho.org/api/word/7205.json"
+        }
+    }
+]

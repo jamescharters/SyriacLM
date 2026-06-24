@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0713\u0718\u0719\u0720\u0710",
+        "western": "\u0713\u0741\u073d\u0718\u0719\u0733\u0720\u0733\u0710",
+        "eastern": "\u0713\u0718\u073c\u0719\u0735\u0720\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 534,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/534.json"
+        },
+        "stem": "\u0713\u0718\u0719\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "burning, inflammation.",
+                "flame",
+                "flaming heat"
+            ]
+        },
+        "word": {
+            "id": 3575,
+            "uri": "https://sedra.bethmardutho.org/api/word/3575.json"
+        }
+    }
+]

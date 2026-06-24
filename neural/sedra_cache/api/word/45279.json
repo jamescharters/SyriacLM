@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0713\u0715\u0729\u0718\u0723",
+        "western": "\u0710\u0730\u0713\u0715\u073a\u0729\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 18905,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/18905.json"
+        },
+        "stem": "\u0710\u0713\u0715\u0729\u0718\u0723",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "judge"
+            ],
+            "lat": [
+                "procurator"
+            ]
+        },
+        "word": {
+            "id": 45279,
+            "uri": "https://sedra.bethmardutho.org/api/word/45279.json"
+        }
+    }
+]

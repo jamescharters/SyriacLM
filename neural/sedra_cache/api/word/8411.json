@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u072c\u071d\u0710\u0712",
+        "western": "\u0721\u0736\u072c\u0742\u071d\u0730\u0710\u0730\u0712\u0742",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1288,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1288.json"
+        },
+        "stem": "\u071d\u0710\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to desire eagerly",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u071d\u0730\u0710\u0730\u0712</span>, <span class=\"selectableFont\">\u0710\u0736\u072c\u071d\u0730\u0710\u071d\u0730\u0712</span>, <span class=\"selectableFont\">\u0710\u0736\u072c\u0710\u0730\u0718\u0730\u0712</span> to long for, desire ardently.",
+                "desire"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 8411,
+            "uri": "https://sedra.bethmardutho.org/api/word/8411.json"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u072c\u0729\u0720\u0712",
+        "western": "\u072c\u0730\u0729\u0720\u0730\u0712",
+        "number": "singular",
+        "lexeme": {
+            "id": 10878,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10878.json"
+        },
+        "stem": "\u072c\u0729\u0720\u0712",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "the number 532, computus = title to compute the date of Easter."
+            ]
+        },
+        "word": {
+            "id": 30497,
+            "uri": "https://sedra.bethmardutho.org/api/word/30497.json"
+        }
+    }
+]

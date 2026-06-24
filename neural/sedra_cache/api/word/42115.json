@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u0725\u072a\u071f",
+        "western": "\u0722\u0736\u0725\u072a\u0730\u071f",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15866,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15866.json"
+        },
+        "stem": "\u0725\u072a\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ip.",
+                "Ia to stir, to knead"
+            ]
+        },
+        "word": {
+            "id": 42115,
+            "uri": "https://sedra.bethmardutho.org/api/word/42115.json"
+        }
+    }
+]

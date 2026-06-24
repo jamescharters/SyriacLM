@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1867,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1867.json"
+        },
+        "syriac": "\u0721\u072a\u0729\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Mark"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1115,
+            "uri": "https://sedra.bethmardutho.org/api/root/1115.json"
+        },
+        "words": [
+            {
+                "id": 12283,
+                "uri": "https://sedra.bethmardutho.org/api/word/12283.json"
+            },
+            {
+                "id": 12282,
+                "uri": "https://sedra.bethmardutho.org/api/word/12282.json"
+            },
+            {
+                "id": 12284,
+                "uri": "https://sedra.bethmardutho.org/api/word/12284.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

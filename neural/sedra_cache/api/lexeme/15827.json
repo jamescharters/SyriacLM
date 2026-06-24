@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15827,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15827.json"
+        },
+        "syriac": "\u0729\u0726\u071b",
+        "glosses": {
+            "English": [
+                "Ia to jump."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2540,
+            "uri": "https://sedra.bethmardutho.org/api/root/2540.json"
+        },
+        "words": [
+            {
+                "id": 42180,
+                "uri": "https://sedra.bethmardutho.org/api/word/42180.json"
+            },
+            {
+                "id": 40201,
+                "uri": "https://sedra.bethmardutho.org/api/word/40201.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

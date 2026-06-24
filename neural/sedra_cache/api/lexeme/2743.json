@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 2743,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2743.json"
+        },
+        "syriac": "\u0729\u0715\u071d\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0627\u0628\u0642\u0627\u064b",
+                "\u0642\u0628\u0644\u0627\u064b"
+            ],
+            "French": [
+                "ant\u00e9rieur",
+                "avant"
+            ],
+            "English": [
+                "before",
+                "formerly",
+                "before",
+                "former, prior."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1621,
+            "uri": "https://sedra.bethmardutho.org/api/root/1621.json"
+        },
+        "words": [
+            {
+                "id": 28088,
+                "uri": "https://sedra.bethmardutho.org/api/word/28088.json"
+            },
+            {
+                "id": 28087,
+                "uri": "https://sedra.bethmardutho.org/api/word/28087.json"
+            },
+            {
+                "id": 28086,
+                "uri": "https://sedra.bethmardutho.org/api/word/28086.json"
+            },
+            {
+                "id": 28085,
+                "uri": "https://sedra.bethmardutho.org/api/word/28085.json"
+            },
+            {
+                "id": 28084,
+                "uri": "https://sedra.bethmardutho.org/api/word/28084.json"
+            },
+            {
+                "id": 17818,
+                "uri": "https://sedra.bethmardutho.org/api/word/17818.json"
+            },
+            {
+                "id": 17817,
+                "uri": "https://sedra.bethmardutho.org/api/word/17817.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

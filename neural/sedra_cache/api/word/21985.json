@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u072b\u072a\u071d\u072a\u0718\u072c\u0710",
+        "western": "\u0718\u072b\u0730\u072a\u073a\u071d\u072a\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3309,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3309.json"
+        },
+        "stem": "\u072b\u072a\u071d\u072a\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0628\u0627\u062a"
+            ],
+            "eng": [
+                "truth, fidelity, steadfastness, soundness.",
+                "steadfastness"
+            ],
+            "fre": [
+                "fermet\u00e9"
+            ]
+        },
+        "word": {
+            "id": 21985,
+            "uri": "https://sedra.bethmardutho.org/api/word/21985.json"
+        }
+    }
+]

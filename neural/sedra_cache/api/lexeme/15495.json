@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15495,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15495.json"
+        },
+        "syriac": "\u0722\u0712\u072a",
+        "glosses": {
+            "English": [
+                "Ia to scratch",
+                "to leap."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2525,
+            "uri": "https://sedra.bethmardutho.org/api/root/2525.json"
+        },
+        "words": [
+            {
+                "id": 41660,
+                "uri": "https://sedra.bethmardutho.org/api/word/41660.json"
+            },
+            {
+                "id": 40608,
+                "uri": "https://sedra.bethmardutho.org/api/word/40608.json"
+            },
+            {
+                "id": 41597,
+                "uri": "https://sedra.bethmardutho.org/api/word/41597.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

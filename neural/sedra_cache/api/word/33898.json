@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u0720\u0713\u0721\u0710",
+        "western": "\u0726\u0720\u0736\u0713\u0721\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11772,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11772.json"
+        },
+        "stem": "\u0726\u0720\u0713\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0644\u063a\u0645"
+            ],
+            "eng": [
+                "inflammation, phlegm."
+            ],
+            "fre": [
+                "pituite"
+            ]
+        },
+        "word": {
+            "id": 33898,
+            "uri": "https://sedra.bethmardutho.org/api/word/33898.json"
+        }
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1414,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1414.json"
+        },
+        "syriac": "\u071d\u0729\u0715\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0627\u0631, \u062d\u0631\u064a\u0642",
+                "\u062d\u0631\u0627\u0631\u0629"
+            ],
+            "French": [
+                "feu, incendie",
+                "chaleur"
+            ],
+            "English": [
+                "burning",
+                "conflagration",
+                "heat, inflammation.",
+                "conflagration, fire, burning",
+                "fuel"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03b1\u1fe6\u03bc\u03b1"
+            ]
+        },
+        "root": {
+            "id": 842,
+            "uri": "https://sedra.bethmardutho.org/api/root/842.json"
+        },
+        "words": [
+            {
+                "id": 23684,
+                "uri": "https://sedra.bethmardutho.org/api/word/23684.json"
+            },
+            {
+                "id": 9373,
+                "uri": "https://sedra.bethmardutho.org/api/word/9373.json"
+            },
+            {
+                "id": 9372,
+                "uri": "https://sedra.bethmardutho.org/api/word/9372.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

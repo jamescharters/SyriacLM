@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0723\u072c\u072a\u0710",
+        "western": "\u0720\u0712\u0742\u0736\u0723\u072c\u0741\u072a\u0733\u0710",
+        "state": "emphatic",
+        "lexeme": {
+            "id": 423,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/423.json"
+        },
+        "stem": "\u0712\u0723\u072c\u072a\u0710",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "behind",
+                "back part, posterior.",
+                "backwards",
+                "the back"
+            ]
+        },
+        "word": {
+            "id": 22976,
+            "uri": "https://sedra.bethmardutho.org/api/word/22976.json"
+        }
+    }
+]

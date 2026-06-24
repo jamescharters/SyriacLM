@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u0722",
+        "western": "\u071f\u0741\u0736\u0722",
+        "lexeme": {
+            "id": 1545,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1545.json"
+        },
+        "stem": "\u071f\u0722",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0646\u062f\u0626\u0630, \u062b\u0645"
+            ],
+            "eng": [
+                "afterwards",
+                "then, next."
+            ],
+            "fre": [
+                "alors, ensuite"
+            ]
+        },
+        "word": {
+            "id": 10099,
+            "uri": "https://sedra.bethmardutho.org/api/word/10099.json"
+        }
+    }
+]

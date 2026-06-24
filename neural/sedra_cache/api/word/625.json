@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0718\u0715\u0710\u071d\u071f",
+        "western": "\u0718\u0715\u0742\u0730\u0710\u071d\u071f\u0742",
+        "lexeme": {
+            "id": 82,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/82.json"
+        },
+        "stem": "\u0710\u071d\u071f",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0623\u0646, \u0643\u0644\u0648"
+            ],
+            "eng": [
+                "as, like, according to",
+                "as",
+                "according to",
+                "-<span class=\"selectableFont\">\u0710\u0730\u071d\u071f \u0715</span> so that."
+            ],
+            "fre": [
+                "comme si"
+            ]
+        },
+        "word": {
+            "id": 625,
+            "uri": "https://sedra.bethmardutho.org/api/word/625.json"
+        }
+    }
+]

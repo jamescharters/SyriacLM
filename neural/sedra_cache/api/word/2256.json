@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0712\u0710\u072b",
+        "western": "\u0722\u0730\u0712\u0742\u0736\u0710\u072b",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 329,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/329.json"
+        },
+        "stem": "\u0712\u0710\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u063a\u062a\u0627\u0638"
+            ],
+            "eng": [
+                "IIIa to harm, cause evil.",
+                "be offended",
+                "ill-treat",
+                "to displease",
+                "Ia to be, seem evil"
+            ],
+            "fre": [
+                "\u00eatre contrari\u00e9"
+            ]
+        },
+        "word": {
+            "id": 2256,
+            "uri": "https://sedra.bethmardutho.org/api/word/2256.json"
+        }
+    }
+]

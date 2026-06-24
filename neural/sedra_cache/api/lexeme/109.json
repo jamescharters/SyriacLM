@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 109,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/109.json"
+        },
+        "syriac": "\u0710\u071f\u071a\u0715\u0710",
+        "glosses": {
+            "English": [
+                "as one",
+                "together",
+                "together."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 87,
+            "uri": "https://sedra.bethmardutho.org/api/root/87.json"
+        },
+        "words": [
+            {
+                "id": 49692,
+                "uri": "https://sedra.bethmardutho.org/api/word/49692.json"
+            },
+            {
+                "id": 781,
+                "uri": "https://sedra.bethmardutho.org/api/word/781.json"
+            },
+            {
+                "id": 783,
+                "uri": "https://sedra.bethmardutho.org/api/word/783.json"
+            },
+            {
+                "id": 782,
+                "uri": "https://sedra.bethmardutho.org/api/word/782.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

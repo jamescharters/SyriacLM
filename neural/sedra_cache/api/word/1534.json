@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u0723\u071b\u0718\u0721\u071f\u0710",
+        "western": "\u0710\u0736\u0723\u071b\u073d\u0718\u0721\u071f\u0742\u0733\u0710",
+        "eastern": "\u0710\u0738\u0723\u071b\u0718\u073c\u0721\u071f\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 209,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/209.json"
+        },
+        "stem": "\u0710\u0723\u071b\u0718\u0721\u071f\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u062f\u0629"
+            ],
+            "eng": [
+                "stomach.",
+                "stomach"
+            ],
+            "fre": [
+                "estomac"
+            ]
+        },
+        "word": {
+            "id": 1534,
+            "uri": "https://sedra.bethmardutho.org/api/word/1534.json"
+        }
+    }
+]

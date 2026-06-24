@@ -1,0 +1,68 @@
+[
+    {
+        "lexeme": {
+            "id": 1804,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1804.json"
+        },
+        "syriac": "\u0721\u0722\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "number",
+                "number, reckoning, computation, era."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1076,
+            "uri": "https://sedra.bethmardutho.org/api/root/1076.json"
+        },
+        "words": [
+            {
+                "id": 12026,
+                "uri": "https://sedra.bethmardutho.org/api/word/12026.json"
+            },
+            {
+                "id": 12025,
+                "uri": "https://sedra.bethmardutho.org/api/word/12025.json"
+            },
+            {
+                "id": 12023,
+                "uri": "https://sedra.bethmardutho.org/api/word/12023.json"
+            },
+            {
+                "id": 12021,
+                "uri": "https://sedra.bethmardutho.org/api/word/12021.json"
+            },
+            {
+                "id": 29648,
+                "uri": "https://sedra.bethmardutho.org/api/word/29648.json"
+            },
+            {
+                "id": 29647,
+                "uri": "https://sedra.bethmardutho.org/api/word/29647.json"
+            },
+            {
+                "id": 12029,
+                "uri": "https://sedra.bethmardutho.org/api/word/12029.json"
+            },
+            {
+                "id": 12027,
+                "uri": "https://sedra.bethmardutho.org/api/word/12027.json"
+            },
+            {
+                "id": 12024,
+                "uri": "https://sedra.bethmardutho.org/api/word/12024.json"
+            },
+            {
+                "id": 12022,
+                "uri": "https://sedra.bethmardutho.org/api/word/12022.json"
+            },
+            {
+                "id": 12028,
+                "uri": "https://sedra.bethmardutho.org/api/word/12028.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0715\u0712\u0712\u0718\u0729\u071d\u0710",
+        "western": "\u0715\u0741\u0730\u0712\u0742\u0712\u0742\u073d\u0718\u0729\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 449,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/449.json"
+        },
+        "stem": "\u0712\u0718\u0729\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "probation",
+                "trial, test, proof.",
+                "proof"
+            ]
+        },
+        "word": {
+            "id": 3122,
+            "uri": "https://sedra.bethmardutho.org/api/word/3122.json"
+        }
+    }
+]

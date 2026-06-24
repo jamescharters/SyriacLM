@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0713\u0719\u072a\u072c\u0710",
+        "western": "\u0713\u0741\u0733\u0719\u0730\u072a\u072c\u0741\u0733\u0710",
+        "eastern": "\u0713\u0735\u0719\u0732\u072a\u072c\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 555,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/555.json"
+        },
+        "stem": "\u0713\u0719\u072a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0632\u064a\u0631\u0629"
+            ],
+            "eng": [
+                "island",
+                "island."
+            ],
+            "fre": [
+                "\u00eele"
+            ]
+        },
+        "word": {
+            "id": 3667,
+            "uri": "https://sedra.bethmardutho.org/api/word/3667.json"
+        }
+    }
+]

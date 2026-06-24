@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0721\u072a\u0721\u072a\u0722\u0710",
+        "western": "\u0721\u0721\u0730\u072a\u0721\u072a\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1835,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1835.json"
+        },
+        "stem": "\u0721\u0721\u072a\u0721\u072a\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062f\u0648 \u0639\u0646\u064a\u062f, \u0644\u062f\u0648\u062f"
+            ],
+            "eng": [
+                "contentious",
+                "rebellious, provocative.",
+                "provoking"
+            ],
+            "fre": [
+                "adversaire ent\u00eat\u00e9, querelleur"
+            ]
+        },
+        "word": {
+            "id": 29291,
+            "uri": "https://sedra.bethmardutho.org/api/word/29291.json"
+        }
+    }
+]

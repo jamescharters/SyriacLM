@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072a\u072b\u0726",
+        "western": "\u072a\u072b\u0730\u0726",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15652,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15652.json"
+        },
+        "stem": "\u072a\u072b\u0726",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u062d\u0641"
+            ],
+            "eng": [
+                "IIIa to make to crawl, to humiliate.",
+                "Ia to crawl, creep"
+            ],
+            "fre": [
+                "ramper"
+            ]
+        },
+        "word": {
+            "id": 41495,
+            "uri": "https://sedra.bethmardutho.org/api/word/41495.json"
+        }
+    }
+]

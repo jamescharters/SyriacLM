@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0717\u071f\u0723\u0717\u071b\u071d\u071f\u0723\u0710\u0723",
+        "western": "\u0717\u071f\u0723\u0717\u071b\u071d\u071f\u0723\u0730\u0710\u0723",
+        "lexeme": {
+            "id": 33610,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33610.json"
+        },
+        "stem": "\u0717\u071f\u0723\u0717\u071b\u071d\u071f\u0723\u0710\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0648\u0651\u0628\u062a"
+            ],
+            "eng": [
+                "you melted"
+            ],
+            "lat": [
+                "liquefecisti"
+            ],
+            "syr": [
+                "\u0726\u0730\u072b\u072a\u072c"
+            ]
+        },
+        "word": {
+            "id": 59965,
+            "uri": "https://sedra.bethmardutho.org/api/word/59965.json"
+        }
+    }
+]

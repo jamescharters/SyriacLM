@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u071d\u0710",
+        "western": "\u0710\u073d\u0718\u072a\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 60,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/60.json"
+        },
+        "stem": "\u0710\u0718\u072a\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "stall, manger, crib.",
+                "manger",
+                "stall"
+            ]
+        },
+        "word": {
+            "id": 322,
+            "uri": "https://sedra.bethmardutho.org/api/word/322.json"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0729\u0718\u071b\u071d",
+        "western": "\u0729\u0730\u0718\u071b\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14752,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14752.json"
+        },
+        "stem": "\u0729\u0718\u071b\u071d",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0643\u0648\u0645"
+            ],
+            "eng": [
+                "to go around.",
+                "IVa to heap up"
+            ],
+            "fre": [
+                "\u00a0",
+                "entasser"
+            ]
+        },
+        "word": {
+            "id": 40962,
+            "uri": "https://sedra.bethmardutho.org/api/word/40962.json"
+        }
+    }
+]

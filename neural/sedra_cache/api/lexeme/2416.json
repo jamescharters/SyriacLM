@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2416,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2416.json"
+        },
+        "syriac": "\u0725\u072a\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u062b",
+                "\u062a\u0643\u0648\u0645"
+            ],
+            "French": [
+                "exciter",
+                "s&#39;amonceler"
+            ],
+            "English": [
+                "gather",
+                "IIa to incite",
+                "to make wily",
+                "to make clever",
+                "Ia to gather in a heap",
+                "to be astute.",
+                "IIp to be swollen, to be puffed up (with pride)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1430,
+            "uri": "https://sedra.bethmardutho.org/api/root/1430.json"
+        },
+        "words": [
+            {
+                "id": 15986,
+                "uri": "https://sedra.bethmardutho.org/api/word/15986.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

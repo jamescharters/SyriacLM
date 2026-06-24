@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 545,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/545.json"
+        },
+        "syriac": "\u0713\u0718\u072b\u0721\u0722\u0710\u071d\u072c",
+        "glosses": {
+            "English": [
+                "bodily.",
+                "bodily"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 360,
+            "uri": "https://sedra.bethmardutho.org/api/root/360.json"
+        },
+        "words": [
+            {
+                "id": 32261,
+                "uri": "https://sedra.bethmardutho.org/api/word/32261.json"
+            },
+            {
+                "id": 3625,
+                "uri": "https://sedra.bethmardutho.org/api/word/3625.json"
+            }
+        ],
+        "category": "adverb ending with aiyt"
+    }
+]

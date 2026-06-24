@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072c\u0725\u0720",
+        "western": "\u072c\u0730\u0725\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15292,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15292.json"
+        },
+        "stem": "\u072c\u0725\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to wag the tail",
+                "to fawn."
+            ]
+        },
+        "word": {
+            "id": 40495,
+            "uri": "https://sedra.bethmardutho.org/api/word/40495.json"
+        }
+    }
+]

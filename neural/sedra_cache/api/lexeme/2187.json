@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2187,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2187.json"
+        },
+        "syriac": "\u0723\u0726\u072a\u0710",
+        "glosses": {
+            "English": [
+                "language",
+                "book",
+                "scroll",
+                "roll",
+                "literature",
+                "book",
+                "art of writing, script",
+                "Kth. <span class=\"selectableFont\">\u0723\u0726\u0730\u072a \u0721\u0308</span><span class=\"selectableFont\">\u0736\u0720\u0736\u0710</span> dictionary."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1306,
+            "uri": "https://sedra.bethmardutho.org/api/root/1306.json"
+        },
+        "words": [
+            {
+                "id": 14540,
+                "uri": "https://sedra.bethmardutho.org/api/word/14540.json"
+            },
+            {
+                "id": 14539,
+                "uri": "https://sedra.bethmardutho.org/api/word/14539.json"
+            },
+            {
+                "id": 14542,
+                "uri": "https://sedra.bethmardutho.org/api/word/14542.json"
+            },
+            {
+                "id": 14541,
+                "uri": "https://sedra.bethmardutho.org/api/word/14541.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

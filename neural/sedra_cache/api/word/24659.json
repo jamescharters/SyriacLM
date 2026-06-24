@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u072c\u072c\u071a\u071d\u0712",
+        "western": "\u0721\u0736\u072c\u0741\u072c\u0741\u071a\u073a\u071d\u0712\u0742",
+        "tense": "participle",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 972,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/972.json"
+        },
+        "stem": "\u071a\u0718\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be condemned",
+                "IIa <span class=\"selectableFont\">\u071a\u0730\u071d\u0736\u0712</span> to prevail, surmount, overcome",
+                "to confute, to find guilty",
+                "IIp to be found guilty, to be convicted, condemned, to be worsted.",
+                "to owe, to be guilty",
+                "Ip to be found guilty, owing",
+                "Ia to succumb, to be unequal, to be defeated, to be powerless",
+                "condemn",
+                "owe",
+                "to be due"
+            ]
+        },
+        "word": {
+            "id": 24659,
+            "uri": "https://sedra.bethmardutho.org/api/word/24659.json"
+        }
+    }
+]

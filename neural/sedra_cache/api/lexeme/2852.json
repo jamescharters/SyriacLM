@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 2852,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2852.json"
+        },
+        "syriac": "\u0729\u0723\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u064a\u0635\u0631",
+                "\u0645\u0644\u062c\u0623"
+            ],
+            "French": [
+                "c\u00e9zar",
+                "refuge"
+            ],
+            "English": [
+                "Caesar",
+                "caesar, emperor."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u039a\u03b1\u1fd6\u03c3\u03b1\u03c1"
+            ]
+        },
+        "root": {
+            "id": 1690,
+            "uri": "https://sedra.bethmardutho.org/api/root/1690.json"
+        },
+        "words": [
+            {
+                "id": 18488,
+                "uri": "https://sedra.bethmardutho.org/api/word/18488.json"
+            },
+            {
+                "id": 18487,
+                "uri": "https://sedra.bethmardutho.org/api/word/18487.json"
+            },
+            {
+                "id": 18489,
+                "uri": "https://sedra.bethmardutho.org/api/word/18489.json"
+            },
+            {
+                "id": 18490,
+                "uri": "https://sedra.bethmardutho.org/api/word/18490.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

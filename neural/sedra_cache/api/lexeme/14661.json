@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14661,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14661.json"
+        },
+        "syriac": "\u072c\u072b\u0725\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0628\u0631 (\u0645\u0636)"
+            ],
+            "French": [
+                "raconter"
+            ],
+            "English": [
+                "IVa to rehearse, relate."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2496,
+            "uri": "https://sedra.bethmardutho.org/api/root/2496.json"
+        },
+        "words": [
+            {
+                "id": 41081,
+                "uri": "https://sedra.bethmardutho.org/api/word/41081.json"
+            },
+            {
+                "id": 39869,
+                "uri": "https://sedra.bethmardutho.org/api/word/39869.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

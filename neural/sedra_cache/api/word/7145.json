@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071a\u0720\u0726\u0718\u0717\u071d",
+        "western": "\u071a\u0720\u0733\u0726\u0742\u0730\u0718\u0717\u0331\u071d",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1053,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1053.json"
+        },
+        "stem": "\u071a\u0720\u0726",
+        "category": "preposition",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0643\u0627\u0646....",
+                "\u0644\u0634\u0623\u0646",
+                "\u0628\u0633\u0628\u0628..."
+            ],
+            "eng": [
+                "instead",
+                "for",
+                "instead of, because of, in place of, on account of."
+            ],
+            "fre": [
+                "en faveur de",
+                "\u00e0 cause de",
+                "\u00e0 la place de"
+            ]
+        },
+        "word": {
+            "id": 7145,
+            "uri": "https://sedra.bethmardutho.org/api/word/7145.json"
+        }
+    }
+]

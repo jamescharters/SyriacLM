@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072b\u0718\u0725\u0722\u071d\u0710",
+        "western": "\u072b\u073d\u0718\u0725\u0733\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12932,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12932.json"
+        },
+        "stem": "\u072b\u0718\u0725\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062c\u0631\u064a"
+            ],
+            "eng": [
+                "made of stone",
+                "rocky."
+            ],
+            "fre": [
+                "de pierre"
+            ]
+        },
+        "word": {
+            "id": 34773,
+            "uri": "https://sedra.bethmardutho.org/api/word/34773.json"
+        }
+    }
+]

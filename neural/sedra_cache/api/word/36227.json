@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072b\u0726\u071d\u072a",
+        "western": "\u072b\u0730\u0726\u073a\u071d\u072a",
+        "number": "singular",
+        "lexeme": {
+            "id": 5424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5424.json"
+        },
+        "stem": "\u072b\u0726\u071d\u072a",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0633\u0646\u0627\u064b, \u062c\u064a\u062f\u0627\u064b, \u0628\u062a\u0641\u0648\u0642"
+            ],
+            "eng": [
+                "good, well, properly."
+            ],
+            "fre": [
+                "bien , bellement"
+            ]
+        },
+        "word": {
+            "id": 36227,
+            "uri": "https://sedra.bethmardutho.org/api/word/36227.json"
+        }
+    }
+]

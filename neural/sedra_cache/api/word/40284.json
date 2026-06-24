@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0713\u0723",
+        "western": "\u0713\u0723",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15173,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15173.json"
+        },
+        "stem": "\u0713\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0623\u0636\u062c\u0639",
+                "\u0623\u0636\u062c\u0639",
+                "\u0648\u0636\u0639"
+            ],
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0713\u0736\u0723</span> to make to recline, sit down",
+                "to make to recline.",
+                "to sit down (at table), lie down on one\u2019s side."
+            ],
+            "fre": [
+                "faire se coucher",
+                "\u00eatre couch\u00e9, se coucher",
+                "d\u00e9poser"
+            ]
+        },
+        "word": {
+            "id": 40284,
+            "uri": "https://sedra.bethmardutho.org/api/word/40284.json"
+        }
+    }
+]

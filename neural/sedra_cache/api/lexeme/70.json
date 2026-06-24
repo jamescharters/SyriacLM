@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 70,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/70.json"
+        },
+        "syriac": "\u0710\u0718\u071a\u0715\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u062f\u0631\u0629\u060c \u0633\u0644\u0637\u0629",
+                "\u062c\u0644\u0627\u0644\u0629",
+                "\u0645\u0644\u0643",
+                "\u0623\u0631\u0636 \u0645\u0645\u0644\u0643\u0629"
+            ],
+            "French": [
+                "puissance, pouvoir",
+                "majest\u00e9",
+                "possession",
+                "territoire"
+            ],
+            "English": [
+                "dominion",
+                "possession",
+                "sovereignty",
+                "power, realm, jurisdiction."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 56,
+            "uri": "https://sedra.bethmardutho.org/api/root/56.json"
+        },
+        "words": [
+            {
+                "id": 48672,
+                "uri": "https://sedra.bethmardutho.org/api/word/48672.json"
+            },
+            {
+                "id": 470,
+                "uri": "https://sedra.bethmardutho.org/api/word/470.json"
+            },
+            {
+                "id": 471,
+                "uri": "https://sedra.bethmardutho.org/api/word/471.json"
+            },
+            {
+                "id": 22888,
+                "uri": "https://sedra.bethmardutho.org/api/word/22888.json"
+            },
+            {
+                "id": 469,
+                "uri": "https://sedra.bethmardutho.org/api/word/469.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072a\u0725",
+        "western": "\u072a\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3042,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3042.json"
+        },
+        "stem": "\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to confute",
+                "Ia to break in pieces",
+                "be broken",
+                "IIp to be fractured, shattered.",
+                "to beat",
+                "Ip to be bruised"
+            ]
+        },
+        "word": {
+            "id": 19832,
+            "uri": "https://sedra.bethmardutho.org/api/word/19832.json"
+        }
+    }
+]

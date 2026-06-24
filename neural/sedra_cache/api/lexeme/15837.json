@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15837,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15837.json"
+        },
+        "syriac": "\u0713\u0720\u072b",
+        "glosses": {
+            "English": [
+                "Ia to scratch",
+                "Ip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2235,
+            "uri": "https://sedra.bethmardutho.org/api/root/2235.json"
+        },
+        "words": [
+            {
+                "id": 41868,
+                "uri": "https://sedra.bethmardutho.org/api/word/41868.json"
+            },
+            {
+                "id": 41277,
+                "uri": "https://sedra.bethmardutho.org/api/word/41277.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

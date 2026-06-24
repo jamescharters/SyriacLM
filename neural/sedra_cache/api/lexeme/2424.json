@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 2424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2424.json"
+        },
+        "syriac": "\u0725\u072a\u0729\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0628\u0627\u0637, \u0633\u064a\u0631",
+                "\u0644\u062c\u0627\u0645",
+                "\u062c\u0633\u0631",
+                "\u0625\u0628\u0631\u0629 (\u0627\u0644\u0645\u064a\u0632\u0627\u0646)"
+            ],
+            "French": [
+                "lien, courroie, lacet",
+                "bride",
+                "poutre",
+                "aiguille (de balance)"
+            ],
+            "English": [
+                "leather strap",
+                "leather strap",
+                "joist, beam."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1435,
+            "uri": "https://sedra.bethmardutho.org/api/root/1435.json"
+        },
+        "words": [
+            {
+                "id": 16030,
+                "uri": "https://sedra.bethmardutho.org/api/word/16030.json"
+            },
+            {
+                "id": 16028,
+                "uri": "https://sedra.bethmardutho.org/api/word/16028.json"
+            },
+            {
+                "id": 16027,
+                "uri": "https://sedra.bethmardutho.org/api/word/16027.json"
+            },
+            {
+                "id": 16029,
+                "uri": "https://sedra.bethmardutho.org/api/word/16029.json"
+            },
+            {
+                "id": 42311,
+                "uri": "https://sedra.bethmardutho.org/api/word/42311.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

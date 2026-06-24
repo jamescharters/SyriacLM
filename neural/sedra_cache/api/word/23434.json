@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u0721\u0712\u071b\u0720",
+        "western": "\u0721\u0712\u0742\u0730\u071b\u0736\u0720",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 370,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/370.json"
+        },
+        "stem": "\u0712\u071b\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0632\u064a\u0644 (\u0645\u062c)",
+                "\u0639\u0627\u0632",
+                "\u0647\u0644\u0643",
+                "\u0628\u0637\u0644"
+            ],
+            "eng": [
+                "Ia to cease (work), to be idle, at leisure",
+                "IIa to bring to an end, abolish",
+                "annul",
+                "cease",
+                "be idle",
+                "care",
+                "Ip -<span class=\"selectableFont\">\u0710\u0736\u072c\u0712\u071b\u0736\u0720 \u0720\u200d</span> to take care of, see to",
+                "to come to an end, fail, cease",
+                "IIp to cease, fail, be brought to an end."
+            ],
+            "fre": [
+                "p\u00e9rir",
+                "faire d\u00e9faut",
+                "\u00eatre aboli",
+                "cesser"
+            ]
+        },
+        "word": {
+            "id": 23434,
+            "uri": "https://sedra.bethmardutho.org/api/word/23434.json"
+        }
+    }
+]

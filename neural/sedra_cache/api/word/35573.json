@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0713\u0722\u071d\u0719\u0718\u072c\u0710",
+        "western": "\u0713\u0722\u073a\u071d\u0719\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8031,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8031.json"
+        },
+        "stem": "\u0713\u0722\u071d\u0719\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u062e\u0628\u0626\u0629, \u062a\u062e\u0628\u0624",
+                "\u062c\u0648\u0647\u0631 \u062e\u0641\u064a"
+            ],
+            "eng": [
+                "secrecy, being out of sight."
+            ],
+            "fre": [
+                "action de cacher , de se cacher",
+                "nature myst\u00e9rieuse"
+            ]
+        },
+        "word": {
+            "id": 35573,
+            "uri": "https://sedra.bethmardutho.org/api/word/35573.json"
+        }
+    }
+]

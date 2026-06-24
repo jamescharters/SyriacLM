@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15440,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15440.json"
+        },
+        "syriac": "\u071a\u072a\u0723",
+        "glosses": {
+            "English": [
+                "Ia to roughen",
+                "to harden (by rubbing)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2183,
+            "uri": "https://sedra.bethmardutho.org/api/root/2183.json"
+        },
+        "words": [
+            {
+                "id": 42018,
+                "uri": "https://sedra.bethmardutho.org/api/word/42018.json"
+            },
+            {
+                "id": 39919,
+                "uri": "https://sedra.bethmardutho.org/api/word/39919.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

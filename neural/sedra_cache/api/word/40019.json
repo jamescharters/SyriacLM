@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u071a\u0720\u0729",
+        "western": "\u071a\u0720\u0730\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15611,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15611.json"
+        },
+        "stem": "\u071a\u0720\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0633\u0645",
+                "\u0642\u0633\u0645 (\u0645\u0636), \u062e\u0635\u0635",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to allot, determine, destine."
+            ],
+            "fre": [
+                "\u00a0",
+                "r\u00e9partir, attributer",
+                "d\u00e9cr\u00e9ter"
+            ]
+        },
+        "word": {
+            "id": 40019,
+            "uri": "https://sedra.bethmardutho.org/api/word/40019.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071b\u0725\u0722\u072c\u0710",
+        "western": "\u071b\u0725\u0730\u0722\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13741,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13741.json"
+        },
+        "stem": "\u071b\u0725\u0722\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0644\u0629"
+            ],
+            "eng": [
+                "crop (of fruit)."
+            ],
+            "fre": [
+                "r\u00e9colte"
+            ]
+        },
+        "word": {
+            "id": 32612,
+            "uri": "https://sedra.bethmardutho.org/api/word/32612.json"
+        }
+    }
+]

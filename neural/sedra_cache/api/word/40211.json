@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0717\u071d\u071f\u0720",
+        "western": "\u0717\u071d\u071f\u0720",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15159,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15159.json"
+        },
+        "stem": "\u0717\u071d\u071f\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to be lodged in a temple.",
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0717\u0730\u071d\u071f\u0730\u0720</span> to be enshrined"
+            ]
+        },
+        "word": {
+            "id": 40211,
+            "uri": "https://sedra.bethmardutho.org/api/word/40211.json"
+        }
+    }
+]

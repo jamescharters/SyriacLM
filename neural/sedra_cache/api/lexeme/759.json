@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 759,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/759.json"
+        },
+        "syriac": "\u0715\u072a\u071f\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                ""
+            ],
+            "French": [
+                ""
+            ],
+            "English": [
+                "treading out",
+                "threshing (of corn)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 478,
+            "uri": "https://sedra.bethmardutho.org/api/root/478.json"
+        },
+        "words": [
+            {
+                "id": 4876,
+                "uri": "https://sedra.bethmardutho.org/api/word/4876.json"
+            },
+            {
+                "id": 4877,
+                "uri": "https://sedra.bethmardutho.org/api/word/4877.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

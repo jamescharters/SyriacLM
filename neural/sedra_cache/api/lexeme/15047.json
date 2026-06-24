@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15047,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15047.json"
+        },
+        "syriac": "\u0712\u071d\u0725",
+        "glosses": {
+            "English": [
+                "IIa to delay, put off."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2589,
+            "uri": "https://sedra.bethmardutho.org/api/root/2589.json"
+        },
+        "words": [
+            {
+                "id": 41171,
+                "uri": "https://sedra.bethmardutho.org/api/word/41171.json"
+            },
+            {
+                "id": 41155,
+                "uri": "https://sedra.bethmardutho.org/api/word/41155.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0718\u072c\u072a\u0710",
+        "western": "\u071a\u073d\u0718\u072c\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13975,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13975.json"
+        },
+        "stem": "\u071a\u0718\u072c\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062c\u062f"
+            ],
+            "eng": [
+                "pride, pomp, boast."
+            ],
+            "fre": [
+                "gloire"
+            ]
+        },
+        "word": {
+            "id": 35902,
+            "uri": "https://sedra.bethmardutho.org/api/word/35902.json"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0722\u0723\u0729\u0718\u0720",
+        "western": "\u0722\u0736\u0723\u0729\u073d\u0718\u0720",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15423,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15423.json"
+        },
+        "stem": "\u0723\u0729\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0635\u0642\u0644",
+                "\u0632\u062e\u0631\u0641"
+            ],
+            "eng": [
+                "IIp to embellish oneself.",
+                "to make elegant",
+                "Ia to polish, to burnish",
+                "Ip",
+                "IIa to adorn"
+            ],
+            "fre": [
+                "\u00a0",
+                "embellir",
+                "polir"
+            ]
+        },
+        "word": {
+            "id": 41888,
+            "uri": "https://sedra.bethmardutho.org/api/word/41888.json"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0721\u072a\u071d\u0715\u0710",
+        "western": "\u0721\u072a\u073a\u071d\u0715\u0742\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1851,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1851.json"
+        },
+        "stem": "\u0721\u072a\u071d\u0715\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0635\u064a\u0646",
+                "\u0645\u0645\u062a\u0646\u0639, \u0645\u0646\u064a\u0639",
+                "\u0648\u0639\u0631",
+                "\u0623\u0645\u064a\u0646"
+            ],
+            "eng": [
+                "rebelling",
+                "inaccessible",
+                "secure, fortified.",
+                "fugitive",
+                "fortified",
+                "defiant",
+                "resisting"
+            ],
+            "fre": [
+                "escarp\u00e9",
+                "s\u00fbr",
+                "fortifi\u00e9",
+                "ferm\u00e9, inaccessible"
+            ]
+        },
+        "word": {
+            "id": 12238,
+            "uri": "https://sedra.bethmardutho.org/api/word/12238.json"
+        }
+    }
+]

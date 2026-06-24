@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0722\u071b\u071d\u0720\u0710",
+        "western": "\u0722\u0730\u071b\u073a\u071d\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12415,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12415.json"
+        },
+        "stem": "\u0722\u071b\u071d\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0642\u064a\u0644"
+            ],
+            "eng": [
+                "diuretic.",
+                "hesitant",
+                "heavy, ponderous"
+            ],
+            "fre": [
+                "lourd"
+            ]
+        },
+        "word": {
+            "id": 37457,
+            "uri": "https://sedra.bethmardutho.org/api/word/37457.json"
+        }
+    }
+]

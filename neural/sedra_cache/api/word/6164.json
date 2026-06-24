@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071a\u0712\u0718\u072b\u071d\u0710",
+        "western": "\u071a\u0712\u0742\u073d\u0718\u072b\u071d\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 944,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/944.json"
+        },
+        "stem": "\u071a\u0712\u0718\u072b\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "reclusion",
+                "imprisonment",
+                "confinement",
+                "constraint",
+                "siege, blockade",
+                "burrow",
+                "imprisonment, confinement",
+                "distress."
+            ]
+        },
+        "word": {
+            "id": 6164,
+            "uri": "https://sedra.bethmardutho.org/api/word/6164.json"
+        }
+    }
+]

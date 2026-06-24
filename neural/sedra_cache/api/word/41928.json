@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0722\u071b\u0718\u0726",
+        "western": "\u0722\u0736\u071b\u073d\u0718\u0726",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15869,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15869.json"
+        },
+        "stem": "\u0722\u071b\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0644\u0623"
+            ],
+            "eng": [
+                "to melt",
+                "IIa to drop down abundantly",
+                "Ia to drip, to flow in drops",
+                "to apply by drops",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071b\u0736\u0726</span> to let fall in drops",
+                "IIp to fall in drops",
+                "to instill, to distil."
+            ],
+            "fre": [
+                "emplir"
+            ]
+        },
+        "word": {
+            "id": 41928,
+            "uri": "https://sedra.bethmardutho.org/api/word/41928.json"
+        }
+    }
+]

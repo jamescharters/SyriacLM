@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 3128,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3128.json"
+        },
+        "syriac": "\u072b\u0717\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0647\u0631"
+            ],
+            "French": [
+                "veill\u00e9e"
+            ],
+            "English": [
+                "insomnia.",
+                "watching",
+                "wakefulness",
+                "vigilance",
+                "vigil, watch"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03b3\u03c1\u03c5\u03c0\u03bd\u03af\u03b1"
+            ]
+        },
+        "root": {
+            "id": 1821,
+            "uri": "https://sedra.bethmardutho.org/api/root/1821.json"
+        },
+        "words": [
+            {
+                "id": 20507,
+                "uri": "https://sedra.bethmardutho.org/api/word/20507.json"
+            },
+            {
+                "id": 20509,
+                "uri": "https://sedra.bethmardutho.org/api/word/20509.json"
+            },
+            {
+                "id": 20508,
+                "uri": "https://sedra.bethmardutho.org/api/word/20508.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

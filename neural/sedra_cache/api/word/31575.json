@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0719\u0712\u072a\u071f\u0710",
+        "western": "\u0710\u0736\u0719\u0712\u0730\u072a\u071f\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5236,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5236.json"
+        },
+        "stem": "\u0710\u0719\u0712\u072a\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "buffalo",
+                "bos taurus",
+                "bull, buffalo."
+            ]
+        },
+        "word": {
+            "id": 31575,
+            "uri": "https://sedra.bethmardutho.org/api/word/31575.json"
+        }
+    }
+]

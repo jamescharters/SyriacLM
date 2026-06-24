@@ -1,0 +1,66 @@
+[
+    {
+        "lexeme": {
+            "id": 2078,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2078.json"
+        },
+        "syriac": "\u0723\u0717\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0627\u0647\u062f",
+                "\u0634\u0647\u064a\u062f"
+            ],
+            "French": [
+                "t\u00e9moin",
+                "martyr"
+            ],
+            "English": [
+                "witness",
+                "martyr",
+                "martyr.",
+                "witness"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1240,
+            "uri": "https://sedra.bethmardutho.org/api/root/1240.json"
+        },
+        "words": [
+            {
+                "id": 29607,
+                "uri": "https://sedra.bethmardutho.org/api/word/29607.json"
+            },
+            {
+                "id": 13845,
+                "uri": "https://sedra.bethmardutho.org/api/word/13845.json"
+            },
+            {
+                "id": 13851,
+                "uri": "https://sedra.bethmardutho.org/api/word/13851.json"
+            },
+            {
+                "id": 13849,
+                "uri": "https://sedra.bethmardutho.org/api/word/13849.json"
+            },
+            {
+                "id": 13857,
+                "uri": "https://sedra.bethmardutho.org/api/word/13857.json"
+            },
+            {
+                "id": 13842,
+                "uri": "https://sedra.bethmardutho.org/api/word/13842.json"
+            },
+            {
+                "id": 13853,
+                "uri": "https://sedra.bethmardutho.org/api/word/13853.json"
+            },
+            {
+                "id": 13852,
+                "uri": "https://sedra.bethmardutho.org/api/word/13852.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

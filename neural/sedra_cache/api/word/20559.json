@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072b\u0718\u071d\u072c",
+        "western": "\u072b\u0730\u0718\u071d\u0730\u072c\u0742",
+        "state": "construct",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3130,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3130.json"
+        },
+        "stem": "\u072b\u0718\u071d\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "equal",
+                "<span class=\"selectableFont\">\u072b\u0733\u0718\u0736\u0710 \u0712\u200d</span> co-, fellow-.",
+                "equal, even, level",
+                "the same"
+            ]
+        },
+        "word": {
+            "id": 20559,
+            "uri": "https://sedra.bethmardutho.org/api/word/20559.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072c\u072a\u0712\u0722\u0710",
+        "western": "\u072c\u0730\u072a\u0712\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8182,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8182.json"
+        },
+        "stem": "\u072c\u072a\u0712\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u062d\u064a\u0645"
+            ],
+            "eng": [
+                "fat, fatty."
+            ],
+            "fre": [
+                "gras"
+            ]
+        },
+        "word": {
+            "id": 33009,
+            "uri": "https://sedra.bethmardutho.org/api/word/33009.json"
+        }
+    }
+]

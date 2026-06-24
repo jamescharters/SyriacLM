@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 2983,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2983.json"
+        },
+        "syriac": "\u072a\u0718\u0721\u072a\u0721\u0710",
+        "glosses": {
+            "English": [
+                "exaltation",
+                "high estate",
+                "exaltation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1745,
+            "uri": "https://sedra.bethmardutho.org/api/root/1745.json"
+        },
+        "words": [
+            {
+                "id": 27805,
+                "uri": "https://sedra.bethmardutho.org/api/word/27805.json"
+            },
+            {
+                "id": 19461,
+                "uri": "https://sedra.bethmardutho.org/api/word/19461.json"
+            },
+            {
+                "id": 19460,
+                "uri": "https://sedra.bethmardutho.org/api/word/19460.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "palpel"
+    }
+]

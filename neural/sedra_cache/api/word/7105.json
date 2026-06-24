@@ -1,0 +1,48 @@
+[
+    {
+        "syriac": "\u0722\u071a\u0720\u0728\u071f\u0718\u0722",
+        "western": "\u0722\u071a\u0730\u0720\u0736\u0728\u071f\u0742\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1049,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1049.json"
+        },
+        "stem": "\u071a\u0720\u0728",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0633\u0644\u062d",
+                "\u0628\u0633\u0644"
+            ],
+            "eng": [
+                "spoil",
+                "plunder",
+                "IIp to be pillaged.",
+                "Ia, Ip to gird oneself",
+                "IIa to take spoil, seize",
+                "steal",
+                "to commit sacrilege"
+            ],
+            "fre": [
+                "s&#39;armer",
+                "se montrer vaillant"
+            ]
+        },
+        "word": {
+            "id": 7105,
+            "uri": "https://sedra.bethmardutho.org/api/word/7105.json"
+        }
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15568,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15568.json"
+        },
+        "syriac": "\u0719\u072a\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062c\u0628\u0631"
+            ],
+            "French": [
+                "contraindre"
+            ],
+            "English": [
+                "to tie tightly",
+                "Ia to constrain",
+                "IIa to gird."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2257,
+            "uri": "https://sedra.bethmardutho.org/api/root/2257.json"
+        },
+        "words": [
+            {
+                "id": 42052,
+                "uri": "https://sedra.bethmardutho.org/api/word/42052.json"
+            },
+            {
+                "id": 40051,
+                "uri": "https://sedra.bethmardutho.org/api/word/40051.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

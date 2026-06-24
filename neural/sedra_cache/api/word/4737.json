@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0712\u0715\u0721\u0725\u071d\u0717",
+        "western": "\u0712\u0741\u0715\u0742\u0736\u0721\u0725\u0736\u071d\u0717",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 728,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/728.json"
+        },
+        "stem": "\u0715\u0721\u0725\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0645\u0639\u0629"
+            ],
+            "eng": [
+                "tear, tears.",
+                "tear"
+            ],
+            "fre": [
+                "larme"
+            ]
+        },
+        "word": {
+            "id": 4737,
+            "uri": "https://sedra.bethmardutho.org/api/word/4737.json"
+        }
+    }
+]

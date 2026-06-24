@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15302,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15302.json"
+        },
+        "syriac": "\u0719\u0718\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0645\u0639",
+                "\u0632\u0648\u062c",
+                "\u00a0"
+            ],
+            "French": [
+                "unir",
+                "marier",
+                "\u00a0"
+            ],
+            "English": [
+                "IIIa = IIa.",
+                "IIp",
+                "IIa to join together, marry"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2801,
+            "uri": "https://sedra.bethmardutho.org/api/root/2801.json"
+        },
+        "words": [
+            {
+                "id": 41295,
+                "uri": "https://sedra.bethmardutho.org/api/word/41295.json"
+            },
+            {
+                "id": 41252,
+                "uri": "https://sedra.bethmardutho.org/api/word/41252.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

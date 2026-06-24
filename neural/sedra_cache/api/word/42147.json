@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0726\u072b\u071a",
+        "western": "\u0722\u0736\u0726\u072b\u0730\u071a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15937,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15937.json"
+        },
+        "stem": "\u0726\u072b\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to diminish",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0726\u072b\u073d\u0718\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0726\u072b\u0730\u071a</span>, Ia to tear, to rend",
+                "to cut down",
+                "to detach",
+                "Ip",
+                "IIa to cut in pieces, to cut off, to tear asunder",
+                "IIp."
+            ]
+        },
+        "word": {
+            "id": 42147,
+            "uri": "https://sedra.bethmardutho.org/api/word/42147.json"
+        }
+    }
+]

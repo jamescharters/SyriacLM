@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0721\u0728\u0720\u0726",
+        "western": "\u0721\u0728\u0730\u0720\u0736\u0726\u0742",
+        "tense": "active participle",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2699,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2699.json"
+        },
+        "stem": "\u0728\u0720\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u062c\u0631\u062d",
+                "\u0637\u0631\u0642",
+                "\u0634\u062c"
+            ],
+            "eng": [
+                "IIIa to open partially.",
+                "IIa to beat on the head, hurt",
+                "to open a little way (e.g. door)",
+                "to split",
+                "wound",
+                "Ia to bruise, wound",
+                "IIp",
+                "Ip"
+            ],
+            "fre": [
+                "blesser",
+                "\u00a0",
+                "fendre",
+                "frapper"
+            ]
+        },
+        "word": {
+            "id": 28011,
+            "uri": "https://sedra.bethmardutho.org/api/word/28011.json"
+        }
+    }
+]

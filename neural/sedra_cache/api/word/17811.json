@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u0720\u0718\u0729\u0715\u0721",
+        "western": "\u0718\u0720\u073d\u0718\u0729\u0715\u0742\u0730\u0721",
+        "lexeme": {
+            "id": 2741,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2741.json"
+        },
+        "stem": "\u0720\u0718\u0729\u0715\u0721",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0642\u0628\u0644\u0627\u064b, \u0623\u0648\u0644\u0627\u064b"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u0721\u0736\u0722 \u0720\u073d\u0718\u0729\u0715\u0730\u0721</span> formerly.",
+                "first of all, before",
+                "formerly",
+                "before"
+            ],
+            "fre": [
+                "avant, devant\u2026",
+                "auparavant, d&#39;abord"
+            ]
+        },
+        "word": {
+            "id": 17811,
+            "uri": "https://sedra.bethmardutho.org/api/word/17811.json"
+        }
+    }
+]

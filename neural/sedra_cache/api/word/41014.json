@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0719\u0713",
+        "western": "\u0719\u0730\u0713",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15622,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15622.json"
+        },
+        "stem": "\u0719\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to tingle (of ear), to tinkle."
+            ]
+        },
+        "word": {
+            "id": 41014,
+            "uri": "https://sedra.bethmardutho.org/api/word/41014.json"
+        }
+    }
+]

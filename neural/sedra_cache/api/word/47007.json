@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u072b\u071d\u072a",
+        "western": "\u072b\u0730\u071d\u0730\u072a",
+        "lexeme": {
+            "id": 20633,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20633.json"
+        },
+        "stem": "\u072b\u071d\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to sing"
+            ]
+        },
+        "word": {
+            "id": 47007,
+            "uri": "https://sedra.bethmardutho.org/api/word/47007.json"
+        }
+    }
+]

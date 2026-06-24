@@ -1,0 +1,75 @@
+[
+    {
+        "lexeme": {
+            "id": 1836,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1836.json"
+        },
+        "syriac": "\u0721\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u064a\u0621",
+                "\u0634\u062e\u0635",
+                "\u0645\u0631 \u0623\u0648 \u0635\u0627\u0631 \u0645\u0631\u0627\u064b"
+            ],
+            "French": [
+                "chose",
+                "personne",
+                "\u00eatre ou devenir amer"
+            ],
+            "English": [
+                "bitter",
+                "bitter",
+                "grieve",
+                "to make sad",
+                "Ia to be bitter, sour",
+                "IIa <span class=\"selectableFont\">\u0721\u0730\u072a\u073a\u071d</span> to make bitter",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0721\u0730\u072a</span> to make bitter, sour",
+                "to exacerbate. (See also <span class=\"selectableFont\">\u0721\u0730\u072a\u0721\u0730\u072a</span>.)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1099,
+            "uri": "https://sedra.bethmardutho.org/api/root/1099.json"
+        },
+        "words": [
+            {
+                "id": 12144,
+                "uri": "https://sedra.bethmardutho.org/api/word/12144.json"
+            },
+            {
+                "id": 12143,
+                "uri": "https://sedra.bethmardutho.org/api/word/12143.json"
+            },
+            {
+                "id": 12142,
+                "uri": "https://sedra.bethmardutho.org/api/word/12142.json"
+            },
+            {
+                "id": 26367,
+                "uri": "https://sedra.bethmardutho.org/api/word/26367.json"
+            },
+            {
+                "id": 26366,
+                "uri": "https://sedra.bethmardutho.org/api/word/26366.json"
+            },
+            {
+                "id": 12148,
+                "uri": "https://sedra.bethmardutho.org/api/word/12148.json"
+            },
+            {
+                "id": 12147,
+                "uri": "https://sedra.bethmardutho.org/api/word/12147.json"
+            },
+            {
+                "id": 12146,
+                "uri": "https://sedra.bethmardutho.org/api/word/12146.json"
+            },
+            {
+                "id": 12145,
+                "uri": "https://sedra.bethmardutho.org/api/word/12145.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

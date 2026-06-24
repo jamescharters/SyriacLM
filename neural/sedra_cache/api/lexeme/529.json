@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 529,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/529.json"
+        },
+        "syriac": "\u0713\u0718\u071d\u0710",
+        "glosses": {
+            "English": [
+                "bowels",
+                "intestines.",
+                "eunuchs"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 352,
+            "uri": "https://sedra.bethmardutho.org/api/root/352.json"
+        },
+        "words": [
+            {
+                "id": 59424,
+                "uri": "https://sedra.bethmardutho.org/api/word/59424.json"
+            },
+            {
+                "id": 3563,
+                "uri": "https://sedra.bethmardutho.org/api/word/3563.json"
+            },
+            {
+                "id": 3562,
+                "uri": "https://sedra.bethmardutho.org/api/word/3562.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

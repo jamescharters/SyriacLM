@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0726\u072b\u0720\u0710",
+        "western": "\u0726\u0736\u072b\u0308\u0720\u0733\u0710",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14358,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14358.json"
+        },
+        "stem": "\u0726\u072b\u0720\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0632\u0644",
+                "\u062e\u064a\u0637, \u0641\u062a\u064a\u0644\u0629"
+            ],
+            "eng": [
+                "spinning, thread."
+            ],
+            "fre": [
+                "filage",
+                "fil, cordon"
+            ]
+        },
+        "word": {
+            "id": 37696,
+            "uri": "https://sedra.bethmardutho.org/api/word/37696.json"
+        }
+    }
+]

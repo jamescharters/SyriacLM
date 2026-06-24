@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0722\u071d\u0719\u071f\u0710",
+        "western": "\u0722\u0730\u071d\u0719\u071f\u0733\u0710",
+        "eastern": "\u0722\u0732\u071d\u0719\u071f\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7209,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7209.json"
+        },
+        "stem": "\u0722\u071d\u0719\u071f\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0645\u062d",
+                "\u0634\u0647\u0627\u0628"
+            ],
+            "eng": [
+                "shooting stars",
+                "spear",
+                "lance",
+                "meteor.",
+                "lance, javelin, spear",
+                "meteors"
+            ],
+            "fre": [
+                "lance",
+                "m\u00e9t\u00e9ore"
+            ],
+            "grc": [
+                "\u03b4\u03bf\u03ba\u1f77\u03b4\u03b5\u03c2"
+            ]
+        },
+        "word": {
+            "id": 37179,
+            "uri": "https://sedra.bethmardutho.org/api/word/37179.json"
+        }
+    }
+]

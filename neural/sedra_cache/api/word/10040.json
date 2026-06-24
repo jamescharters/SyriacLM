@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0720\u071f\u0720\u072c\u0710",
+        "western": "\u0720\u071f\u0742\u0730\u0720\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1527,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1527.json"
+        },
+        "stem": "\u071f\u0720\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0648\u062c\u0629",
+                "\u0643\u0646\u0629"
+            ],
+            "eng": [
+                "daughter-in-law.",
+                "bride",
+                "bride",
+                "daughter-in-law"
+            ],
+            "fre": [
+                "\u00e9pouse",
+                "belle-fille"
+            ]
+        },
+        "word": {
+            "id": 10040,
+            "uri": "https://sedra.bethmardutho.org/api/word/10040.json"
+        }
+    }
+]

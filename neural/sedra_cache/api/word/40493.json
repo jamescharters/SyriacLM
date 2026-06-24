@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0729\u0723\u0721\u0723",
+        "western": "\u0729\u0730\u0723\u0721\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14694,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14694.json"
+        },
+        "stem": "\u0729\u0723\u0721\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0632\u062e\u0631\u0641"
+            ],
+            "eng": [
+                "IVa to adorn",
+                "IVp."
+            ],
+            "fre": [
+                "orner",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40493,
+            "uri": "https://sedra.bethmardutho.org/api/word/40493.json"
+        }
+    }
+]

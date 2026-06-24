@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0721\u0729\u071b\u072a\u0713",
+        "western": "\u0721\u0729\u0730\u071b\u072a\u0736\u0713\u0742",
+        "tense": "active participle",
+        "kaylo": "palpel",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2803,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2803.json"
+        },
+        "stem": "\u0729\u071b\u072a\u0713",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0635\u0641",
+                "\u0634\u0643\u0649",
+                "\u00a0"
+            ],
+            "eng": [
+                "IVp to be accused",
+                "to predicate",
+                "accuse",
+                "IVa to denounce, accuse",
+                "to be predicated."
+            ],
+            "fre": [
+                "accuser\u2026",
+                "accuser",
+                "qualifier"
+            ]
+        },
+        "word": {
+            "id": 28223,
+            "uri": "https://sedra.bethmardutho.org/api/word/28223.json"
+        }
+    }
+]

@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15225,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15225.json"
+        },
+        "syriac": "\u0710\u0715\u072b",
+        "glosses": {
+            "English": [
+                "IIa to disregard, stop the ears",
+                "to be silent."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2638,
+            "uri": "https://sedra.bethmardutho.org/api/root/2638.json"
+        },
+        "words": [
+            {
+                "id": 40096,
+                "uri": "https://sedra.bethmardutho.org/api/word/40096.json"
+            },
+            {
+                "id": 40047,
+                "uri": "https://sedra.bethmardutho.org/api/word/40047.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

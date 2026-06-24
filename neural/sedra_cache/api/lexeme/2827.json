@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2827,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2827.json"
+        },
+        "syriac": "\u0729\u0718\u0720\u0723\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062f\u062d, \u062b\u0646\u0627\u0621"
+            ],
+            "French": [
+                "louange, \u00e9loge"
+            ],
+            "English": [
+                "report",
+                "praise",
+                "commendation",
+                "praise, eulogy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1673,
+            "uri": "https://sedra.bethmardutho.org/api/root/1673.json"
+        },
+        "words": [
+            {
+                "id": 18396,
+                "uri": "https://sedra.bethmardutho.org/api/word/18396.json"
+            },
+            {
+                "id": 18395,
+                "uri": "https://sedra.bethmardutho.org/api/word/18395.json"
+            },
+            {
+                "id": 18394,
+                "uri": "https://sedra.bethmardutho.org/api/word/18394.json"
+            },
+            {
+                "id": 18397,
+                "uri": "https://sedra.bethmardutho.org/api/word/18397.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0713\u072b\u072a",
+        "western": "\u0713\u072b\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15765,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15765.json"
+        },
+        "stem": "\u0713\u072b\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u0639 \u0628\u062c\u0633\u0631",
+                "\u00a0",
+                "\u0639\u0642\u062f \u062c\u0633\u0631\u0627\u064b"
+            ],
+            "eng": [
+                "Ip.",
+                "Ia to bridge over, make a bridge"
+            ],
+            "fre": [
+                "unir par un pont",
+                "faire un pont",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40198,
+            "uri": "https://sedra.bethmardutho.org/api/word/40198.json"
+        }
+    }
+]

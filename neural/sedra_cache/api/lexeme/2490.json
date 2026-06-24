@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2490,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2490.json"
+        },
+        "syriac": "\u0726\u071d\u0720\u0723\u0718\u0726\u0710",
+        "glosses": {
+            "English": [
+                "philosopher"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c6\u03b9\u03bb\u03cc\u03c3\u03bf\u03c6\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1477,
+            "uri": "https://sedra.bethmardutho.org/api/root/1477.json"
+        },
+        "words": [
+            {
+                "id": 16308,
+                "uri": "https://sedra.bethmardutho.org/api/word/16308.json"
+            },
+            {
+                "id": 16307,
+                "uri": "https://sedra.bethmardutho.org/api/word/16307.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0719\u072a\u071d\u0712\u0710",
+        "western": "\u0719\u072a\u073a\u071d\u0712\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11424.json"
+        },
+        "stem": "\u0719\u072a\u071d\u0712\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u064a\u0642",
+                "\u0633\u0631\u064a\u0639",
+                "\u0645\u0636\u063a\u0648\u0637"
+            ],
+            "eng": [
+                "oppressed, constrained."
+            ],
+            "fre": [
+                "resserr\u00e9",
+                "rapide",
+                "oppress\u00e9"
+            ]
+        },
+        "word": {
+            "id": 36588,
+            "uri": "https://sedra.bethmardutho.org/api/word/36588.json"
+        }
+    }
+]

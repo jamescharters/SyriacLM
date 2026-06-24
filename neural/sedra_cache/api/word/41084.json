@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u071b\u0720\u0720",
+        "western": "\u071b\u0730\u0720\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15282,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15282.json"
+        },
+        "stem": "\u071b\u0720\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0644\u0627\u0647 \u064a\u063a\u0631\u0642",
+                "\u0638\u0644\u0644, \u063a\u0637\u0649",
+                "\u00a0",
+                "\u00a0"
+            ],
+            "eng": [
+                "to bedew.",
+                "IIIa to give shade, to overshadow",
+                "IIp",
+                "IIa to cover over, to roof",
+                "to bedew.",
+                "to give shade"
+            ],
+            "fre": [
+                "\u00a0",
+                "ombrager, couvrir",
+                "\u00a0",
+                "laisser puiser"
+            ]
+        },
+        "word": {
+            "id": 41084,
+            "uri": "https://sedra.bethmardutho.org/api/word/41084.json"
+        }
+    }
+]

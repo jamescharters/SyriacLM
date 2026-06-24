@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0721\u0719\u0715\u072a\u0725\u071d\u0722",
+        "western": "\u0721\u0736\u0719\u0715\u0741\u0730\u072a\u0725\u073a\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethp\u02bfel",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 913,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/913.json"
+        },
+        "stem": "\u0719\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0644\u062f",
+                "\u00a0",
+                "\u0632\u0631\u0639",
+                "\u0641\u0631\u0642 (\u0645\u0636)"
+            ],
+            "eng": [
+                "Ip",
+                "Ia to sow, scatter (seed), implant, disseminate",
+                "IIIa to form seed.",
+                "sow"
+            ],
+            "fre": [
+                "engendrer",
+                "semer",
+                "disperser",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 24507,
+            "uri": "https://sedra.bethmardutho.org/api/word/24507.json"
+        }
+    }
+]

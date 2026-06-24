@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15417,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15417.json"
+        },
+        "syriac": "\u0722\u071a\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062d\u062a\u0641\u0649",
+                "\u0627\u0646\u062d\u0644\u062a \u0623\u0638\u0627\u0641\u0631\u0647",
+                "\u0636\u0639\u0641"
+            ],
+            "French": [
+                "\u00eatre d\u00e9chauss\u00e9",
+                "perdre les ongles",
+                "\u00eatre affaibli"
+            ],
+            "English": [
+                "to take off shoes",
+                "Ia to be barefoot",
+                "IIa to humiliate",
+                "to be weakened.",
+                "IIIa to go barefoot"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2670,
+            "uri": "https://sedra.bethmardutho.org/api/root/2670.json"
+        },
+        "words": [
+            {
+                "id": 42137,
+                "uri": "https://sedra.bethmardutho.org/api/word/42137.json"
+            },
+            {
+                "id": 41263,
+                "uri": "https://sedra.bethmardutho.org/api/word/41263.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

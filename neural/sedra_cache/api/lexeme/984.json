@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 984,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/984.json"
+        },
+        "syriac": "\u071a\u0720",
+        "glosses": {
+            "English": [
+                "wash",
+                "profane"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 607,
+            "uri": "https://sedra.bethmardutho.org/api/root/607.json"
+        },
+        "words": [
+            {
+                "id": 6468,
+                "uri": "https://sedra.bethmardutho.org/api/word/6468.json"
+            },
+            {
+                "id": 24668,
+                "uri": "https://sedra.bethmardutho.org/api/word/24668.json"
+            },
+            {
+                "id": 24667,
+                "uri": "https://sedra.bethmardutho.org/api/word/24667.json"
+            },
+            {
+                "id": 6470,
+                "uri": "https://sedra.bethmardutho.org/api/word/6470.json"
+            },
+            {
+                "id": 6471,
+                "uri": "https://sedra.bethmardutho.org/api/word/6471.json"
+            },
+            {
+                "id": 6469,
+                "uri": "https://sedra.bethmardutho.org/api/word/6469.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072c\u0720\u071d\u0720\u0710",
+        "western": "\u072c\u0730\u0720\u073a\u071d\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9972,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9972.json"
+        },
+        "stem": "\u072c\u0720\u071d\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0637\u0628"
+            ],
+            "eng": [
+                "moist, damp."
+            ],
+            "fre": [
+                "humide"
+            ]
+        },
+        "word": {
+            "id": 36878,
+            "uri": "https://sedra.bethmardutho.org/api/word/36878.json"
+        }
+    }
+]

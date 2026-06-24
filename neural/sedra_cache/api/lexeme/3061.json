@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3061,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3061.json"
+        },
+        "syriac": "\u072a\u0726\u071d\u0710",
+        "glosses": {
+            "English": [
+                "loose",
+                "soft",
+                "soft, friable.",
+                "slack",
+                "relaxed",
+                "dissolute"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1781,
+            "uri": "https://sedra.bethmardutho.org/api/root/1781.json"
+        },
+        "words": [
+            {
+                "id": 19958,
+                "uri": "https://sedra.bethmardutho.org/api/word/19958.json"
+            },
+            {
+                "id": 19959,
+                "uri": "https://sedra.bethmardutho.org/api/word/19959.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15364,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15364.json"
+        },
+        "syriac": "\u0713\u0715\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639, \u062c\u0632\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "couper, abattre en trenchant",
+                "\u00a0"
+            ],
+            "English": [
+                "Ip",
+                "IIa to dash to pieces",
+                "Ia to hew, cut down",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2495,
+            "uri": "https://sedra.bethmardutho.org/api/root/2495.json"
+        },
+        "words": [
+            {
+                "id": 41829,
+                "uri": "https://sedra.bethmardutho.org/api/word/41829.json"
+            },
+            {
+                "id": 39933,
+                "uri": "https://sedra.bethmardutho.org/api/word/39933.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

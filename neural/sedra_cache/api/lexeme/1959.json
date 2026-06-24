@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1959,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1959.json"
+        },
+        "syriac": "\u0722\u071d\u0729\u0722\u0718\u072a",
+        "glosses": {
+            "English": [
+                "Nicanor"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1171,
+            "uri": "https://sedra.bethmardutho.org/api/root/1171.json"
+        },
+        "words": [
+            {
+                "id": 12844,
+                "uri": "https://sedra.bethmardutho.org/api/word/12844.json"
+            },
+            {
+                "id": 12845,
+                "uri": "https://sedra.bethmardutho.org/api/word/12845.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

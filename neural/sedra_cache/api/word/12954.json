@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u0723\u0712\u0710",
+        "western": "\u0721\u0730\u0723\u0712\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1983,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1983.json"
+        },
+        "stem": "\u0721\u0723\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "receiving",
+                "<span class=\"selectableFont\">\u0721\u0730\u0723\u0730\u0712 \u0712\u0730\u0710\u0726\u0308</span><span class=\"selectableFont\">\u0736\u0710</span> dissimulation, hypocrisy.",
+                "<span class=\"selectableFont\">\u0721\u0730\u0723\u0712\u0733\u0710 \u0718\u0721\u0730\u072c\u0720\u0733\u0710</span> commerce, trade",
+                "taking, receiving",
+                "acceptance",
+                "taking",
+                "hypocrisy"
+            ]
+        },
+        "word": {
+            "id": 12954,
+            "uri": "https://sedra.bethmardutho.org/api/word/12954.json"
+        }
+    }
+]

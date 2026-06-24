@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0713\u072a\u0710",
+        "western": "\u0710\u0730\u0712\u0713\u0733\u072a\u0733\u0710",
+        "eastern": "\u0710\u0732\u0712\u0713\u0735\u072a\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6297,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6297.json"
+        },
+        "stem": "\u0710\u0712\u0713\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0639\u0631\u062c"
+            ],
+            "eng": [
+                "lame.",
+                "cistern",
+                "lame"
+            ],
+            "fre": [
+                "boiteux"
+            ]
+        },
+        "word": {
+            "id": 35301,
+            "uri": "https://sedra.bethmardutho.org/api/word/35301.json"
+        }
+    }
+]

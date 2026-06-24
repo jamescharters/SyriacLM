@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0715\u071a\u0723\u071d\u0722",
+        "western": "\u0715\u0741\u071a\u0730\u0723\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1111,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1111.json"
+        },
+        "stem": "\u071a\u0723\u071d\u0722\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0647\u0645, \u0643\u0628\u064a\u0631",
+                "\u0642\u0648\u064a, \u062d\u0635\u064a\u0646, \u0642\u062f\u064a\u0631",
+                "\u0635\u0639\u0628"
+            ],
+            "eng": [
+                "mighty",
+                "mighty, strong, powerful",
+                "violent, difficult, hard.",
+                "strong"
+            ],
+            "fre": [
+                "difficile",
+                "important, grand",
+                "fort, puissant"
+            ]
+        },
+        "word": {
+            "id": 7361,
+            "uri": "https://sedra.bethmardutho.org/api/word/7361.json"
+        }
+    }
+]

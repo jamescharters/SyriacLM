@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15589,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15589.json"
+        },
+        "syriac": "\u0719\u0725\u0721",
+        "glosses": {
+            "English": [
+                "IIp to be taunted.",
+                "Ia to chide",
+                "IIa to reprove"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2901,
+            "uri": "https://sedra.bethmardutho.org/api/root/2901.json"
+        },
+        "words": [
+            {
+                "id": 41904,
+                "uri": "https://sedra.bethmardutho.org/api/word/41904.json"
+            },
+            {
+                "id": 41068,
+                "uri": "https://sedra.bethmardutho.org/api/word/41068.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

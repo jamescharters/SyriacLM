@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 1302,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1302.json"
+        },
+        "syriac": "\u071d\u0715\u071d\u0725\u0710",
+        "glosses": {
+            "English": [
+                "apparent",
+                "known",
+                "certain",
+                "notable",
+                "specific, certain, fixed, particular, appointed",
+                "famous, well-known, notable",
+                "evident, manifest",
+                "Gram. determined."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 768,
+            "uri": "https://sedra.bethmardutho.org/api/root/768.json"
+        },
+        "words": [
+            {
+                "id": 8532,
+                "uri": "https://sedra.bethmardutho.org/api/word/8532.json"
+            },
+            {
+                "id": 8541,
+                "uri": "https://sedra.bethmardutho.org/api/word/8541.json"
+            },
+            {
+                "id": 8540,
+                "uri": "https://sedra.bethmardutho.org/api/word/8540.json"
+            },
+            {
+                "id": 8538,
+                "uri": "https://sedra.bethmardutho.org/api/word/8538.json"
+            },
+            {
+                "id": 8537,
+                "uri": "https://sedra.bethmardutho.org/api/word/8537.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

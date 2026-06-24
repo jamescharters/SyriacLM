@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0721\u0729\u0712\u0720\u0722\u071d",
+        "western": "\u0721\u0729\u0730\u0712\u0741\u0720\u0733\u0722\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2727,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2727.json"
+        },
+        "stem": "\u0721\u0729\u0712\u0720\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0637\u0631\u0634\u064a\u0644"
+            ],
+            "eng": [
+                "capable of receiving, receptive",
+                "host",
+                "recipient, receptacle",
+                "Gram. subject (of predication).",
+                "host",
+                "susceptible",
+                "God-parent",
+                "entertainer"
+            ],
+            "fre": [
+                "\u00e9tole"
+            ]
+        },
+        "word": {
+            "id": 17670,
+            "uri": "https://sedra.bethmardutho.org/api/word/17670.json"
+        }
+    }
+]

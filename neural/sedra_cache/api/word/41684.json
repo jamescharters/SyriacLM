@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0722\u0728\u072a\u071a",
+        "western": "\u0722\u0736\u0728\u072a\u0730\u071a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15885,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15885.json"
+        },
+        "stem": "\u0728\u072a\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u0631\u0642",
+                "\u0635\u0631\u062e",
+                "\u0635\u0641\u0631"
+            ],
+            "eng": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u072a\u0730\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0728\u072a\u073d\u0718\u071a</span>, Ia to crackle, hiss",
+                "to set on fire.",
+                "to catch fire"
+            ],
+            "fre": [
+                "br\u00fbler (intr.)",
+                "crier",
+                "siffler"
+            ]
+        },
+        "word": {
+            "id": 41684,
+            "uri": "https://sedra.bethmardutho.org/api/word/41684.json"
+        }
+    }
+]

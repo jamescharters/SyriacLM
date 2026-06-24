@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u0720\u0710",
+        "western": "\u0720\u0736\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1673,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1673.json"
+        },
+        "stem": "\u0720\u0720\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062c\u0646\u0648\u0646"
+            ],
+            "eng": [
+                "infatuated",
+                "fool",
+                "fool, foolish, stupid."
+            ],
+            "fre": [
+                "insens\u00e9"
+            ]
+        },
+        "word": {
+            "id": 11049,
+            "uri": "https://sedra.bethmardutho.org/api/word/11049.json"
+        }
+    }
+]

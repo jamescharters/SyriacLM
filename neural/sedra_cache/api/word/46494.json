@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0723\u0710",
+        "western": "\u0729\u0730\u072a\u0733\u0723\u0733\u0710",
+        "lexeme": {
+            "id": 20120,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20120.json"
+        },
+        "stem": "\u0729\u072a\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "a chariot"
+            ],
+            "lat": [
+                "currus"
+            ]
+        },
+        "word": {
+            "id": 46494,
+            "uri": "https://sedra.bethmardutho.org/api/word/46494.json"
+        }
+    }
+]

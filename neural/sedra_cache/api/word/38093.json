@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u072a\u071d\u072b\u071f\u0717\u0722\u071d\u0710",
+        "western": "\u072a\u073a\u071d\u072b\u071f\u0733\u0717\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7735,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7735.json"
+        },
+        "stem": "\u072a\u071d\u072b\u071f\u0717\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "episcopal",
+                "pontifical."
+            ]
+        },
+        "word": {
+            "id": 38093,
+            "uri": "https://sedra.bethmardutho.org/api/word/38093.json"
+        }
+    }
+]

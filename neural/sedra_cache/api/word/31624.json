@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u0713\u072b\u0710",
+        "western": "\u072b\u0713\u0733\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6048,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6048.json"
+        },
+        "stem": "\u072b\u0713\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0644\u0628\u0644\u0629"
+            ],
+            "eng": [
+                "tumult, disturbance."
+            ],
+            "fre": [
+                "trouble, disturbance"
+            ]
+        },
+        "word": {
+            "id": 31624,
+            "uri": "https://sedra.bethmardutho.org/api/word/31624.json"
+        }
+    }
+]

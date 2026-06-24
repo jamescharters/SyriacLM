@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 1090,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1090.json"
+        },
+        "syriac": "\u071a\u0718\u0722\u071b\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u064a\u0628"
+            ],
+            "French": [
+                "aromate"
+            ],
+            "English": [
+                "spices"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 654,
+            "uri": "https://sedra.bethmardutho.org/api/root/654.json"
+        },
+        "words": [
+            {
+                "id": 7282,
+                "uri": "https://sedra.bethmardutho.org/api/word/7282.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

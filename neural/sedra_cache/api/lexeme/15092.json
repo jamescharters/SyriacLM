@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15092,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15092.json"
+        },
+        "syriac": "\u0713\u071d\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0637\u0639 \u0627\u0644\u0637\u0646\u0628",
+                "\u0630\u0628\u062d",
+                "\u00a0"
+            ],
+            "French": [
+                "couper les tendons",
+                "\u00e9gorger",
+                "\u00a0"
+            ],
+            "English": [
+                "IIp.",
+                "IIa to ham-string, to hew down"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2909,
+            "uri": "https://sedra.bethmardutho.org/api/root/2909.json"
+        },
+        "words": [
+            {
+                "id": 39994,
+                "uri": "https://sedra.bethmardutho.org/api/word/39994.json"
+            },
+            {
+                "id": 39940,
+                "uri": "https://sedra.bethmardutho.org/api/word/39940.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

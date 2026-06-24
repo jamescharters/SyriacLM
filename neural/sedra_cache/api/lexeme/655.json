@@ -1,0 +1,67 @@
+[
+    {
+        "lexeme": {
+            "id": 655,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/655.json"
+        },
+        "syriac": "\u0715\u0713\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0630\u0627\u0628",
+                "\u0643\u0627\u0630\u0628",
+                ""
+            ],
+            "French": [
+                "menteur",
+                "faux",
+                ""
+            ],
+            "English": [
+                "",
+                "liar",
+                "deceitful, false, spurious."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 417,
+            "uri": "https://sedra.bethmardutho.org/api/root/417.json"
+        },
+        "words": [
+            {
+                "id": 4158,
+                "uri": "https://sedra.bethmardutho.org/api/word/4158.json"
+            },
+            {
+                "id": 4157,
+                "uri": "https://sedra.bethmardutho.org/api/word/4157.json"
+            },
+            {
+                "id": 4156,
+                "uri": "https://sedra.bethmardutho.org/api/word/4156.json"
+            },
+            {
+                "id": 4155,
+                "uri": "https://sedra.bethmardutho.org/api/word/4155.json"
+            },
+            {
+                "id": 4154,
+                "uri": "https://sedra.bethmardutho.org/api/word/4154.json"
+            },
+            {
+                "id": 4153,
+                "uri": "https://sedra.bethmardutho.org/api/word/4153.json"
+            },
+            {
+                "id": 4152,
+                "uri": "https://sedra.bethmardutho.org/api/word/4152.json"
+            },
+            {
+                "id": 4151,
+                "uri": "https://sedra.bethmardutho.org/api/word/4151.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

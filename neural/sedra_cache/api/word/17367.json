@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0728\u0718\u0715\u0718\u0722\u071d\u0717\u071d",
+        "western": "\u0715\u0741\u0730\u0722\u0728\u073d\u0718\u0715\u0742\u073d\u0718\u0722\u0733\u071d\u0717\u0331\u071d",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2667,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2667.json"
+        },
+        "stem": "\u0728\u0718\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "catch",
+                "Ia, IIa <span class=\"selectableFont\">\u0728\u0730\u071d\u0736\u0715</span>, IIIa <span class=\"selectableFont\">\u0710\u0730\u0728\u073a\u071d\u0715</span> to hunt, fish, capture.",
+                "take"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 17367,
+            "uri": "https://sedra.bethmardutho.org/api/word/17367.json"
+        }
+    }
+]

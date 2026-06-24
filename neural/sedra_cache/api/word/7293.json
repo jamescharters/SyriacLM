@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u071a\u0722\u0726\u0710",
+        "western": "\u071a\u0730\u0722\u0726\u0742\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1096,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1096.json"
+        },
+        "stem": "\u071a\u0722\u0726\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u062b\u0646\u064a",
+                "\u0643\u0627\u0641\u0631"
+            ],
+            "eng": [
+                "godless",
+                "Gentile",
+                "foreigner",
+                "heathen",
+                "profane",
+                "heathen, godless, profane, pagan."
+            ],
+            "fre": [
+                "Pa\u00efen",
+                "Impie"
+            ]
+        },
+        "word": {
+            "id": 7293,
+            "uri": "https://sedra.bethmardutho.org/api/word/7293.json"
+        }
+    }
+]

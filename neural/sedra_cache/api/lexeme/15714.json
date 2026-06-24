@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15714,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15714.json"
+        },
+        "syriac": "\u0722\u0726\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0631\u062c (\u0645\u0636) \u0647\u0648\u0627\u0621 \u0631\u0626\u062a\u064a\u0647",
+                "\u0631\u063a\u0628 \u0641\u064a"
+            ],
+            "French": [
+                "expirer",
+                "d\u00e9sirer"
+            ],
+            "English": [
+                "Ip to take breathe, revive",
+                "Ia to breathe, have life, respire",
+                "IIp.",
+                "IIa to refresh",
+                "to animate"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2079,
+            "uri": "https://sedra.bethmardutho.org/api/root/2079.json"
+        },
+        "words": [
+            {
+                "id": 41870,
+                "uri": "https://sedra.bethmardutho.org/api/word/41870.json"
+            },
+            {
+                "id": 40082,
+                "uri": "https://sedra.bethmardutho.org/api/word/40082.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

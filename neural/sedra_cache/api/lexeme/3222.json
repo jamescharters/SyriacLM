@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 3222,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3222.json"
+        },
+        "syriac": "\u072b\u0720\u071d\u0721\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Solomon"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1878,
+            "uri": "https://sedra.bethmardutho.org/api/root/1878.json"
+        },
+        "words": [
+            {
+                "id": 29614,
+                "uri": "https://sedra.bethmardutho.org/api/word/29614.json"
+            },
+            {
+                "id": 21144,
+                "uri": "https://sedra.bethmardutho.org/api/word/21144.json"
+            },
+            {
+                "id": 21143,
+                "uri": "https://sedra.bethmardutho.org/api/word/21143.json"
+            },
+            {
+                "id": 21145,
+                "uri": "https://sedra.bethmardutho.org/api/word/21145.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

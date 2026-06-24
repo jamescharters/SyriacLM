@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0712\u0723\u072c\u072a\u071d",
+        "western": "\u0712\u0741\u0736\u0723\u072c\u0741\u0730\u072a\u071d",
+        "state": "absolute",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 423,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/423.json"
+        },
+        "stem": "\u0712\u0723\u072c\u072a\u0710",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "behind",
+                "back part, posterior.",
+                "backwards",
+                "the back"
+            ]
+        },
+        "word": {
+            "id": 2937,
+            "uri": "https://sedra.bethmardutho.org/api/word/2937.json"
+        }
+    }
+]

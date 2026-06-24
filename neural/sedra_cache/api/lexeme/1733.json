@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 1733,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1733.json"
+        },
+        "syriac": "\u0721\u071d\u072c\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0648\u062a",
+                "\u0645\u064a\u062a\u0648\u062a\u0629"
+            ],
+            "French": [
+                "mort",
+                "mortalit\u00e9"
+            ],
+            "English": [
+                "mortality",
+                "death",
+                "deadness.",
+                "mortality"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1036,
+            "uri": "https://sedra.bethmardutho.org/api/root/1036.json"
+        },
+        "words": [
+            {
+                "id": 11353,
+                "uri": "https://sedra.bethmardutho.org/api/word/11353.json"
+            },
+            {
+                "id": 11352,
+                "uri": "https://sedra.bethmardutho.org/api/word/11352.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

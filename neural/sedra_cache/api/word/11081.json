@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u072c\u0720\u0721\u071d\u0715\u0710",
+        "western": "\u0718\u072c\u0742\u0730\u0720\u0721\u073a\u071d\u0715\u0742\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1681,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1681.json"
+        },
+        "stem": "\u072c\u0720\u0721\u071d\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0644\u0645\u064a\u0630"
+            ],
+            "eng": [
+                "disciple",
+                "pupil, disciple."
+            ],
+            "fre": [
+                "disciple"
+            ]
+        },
+        "word": {
+            "id": 11081,
+            "uri": "https://sedra.bethmardutho.org/api/word/11081.json"
+        }
+    }
+]

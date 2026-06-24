@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0712\u0723\u0726\u072a\u0710",
+        "western": "\u0712\u0741\u0723\u0736\u0726\u0742\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2187,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2187.json"
+        },
+        "stem": "\u0723\u0726\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "language",
+                "book",
+                "scroll",
+                "roll",
+                "literature",
+                "book",
+                "art of writing, script",
+                "Kth. <span class=\"selectableFont\">\u0723\u0726\u0730\u072a \u0721\u0308</span><span class=\"selectableFont\">\u0736\u0720\u0736\u0710</span> dictionary."
+            ]
+        },
+        "word": {
+            "id": 14539,
+            "uri": "https://sedra.bethmardutho.org/api/word/14539.json"
+        }
+    }
+]

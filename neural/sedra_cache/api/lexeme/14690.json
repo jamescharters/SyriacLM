@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14690,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14690.json"
+        },
+        "syriac": "\u072b\u0726\u0720\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0631\u062f"
+            ],
+            "French": [
+                "expulser"
+            ],
+            "English": [
+                "IVa to expel."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2418,
+            "uri": "https://sedra.bethmardutho.org/api/root/2418.json"
+        },
+        "words": [
+            {
+                "id": 40332,
+                "uri": "https://sedra.bethmardutho.org/api/word/40332.json"
+            },
+            {
+                "id": 40230,
+                "uri": "https://sedra.bethmardutho.org/api/word/40230.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

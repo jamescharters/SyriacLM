@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0719\u0712\u0722\u071d",
+        "western": "\u0719\u0730\u0712\u0742\u0722\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 839,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/839.json"
+        },
+        "stem": "\u0719\u0712\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "<span class=\"selectableFont\">\u0712\u071f\u073d\u0720\u0719\u0712\u0730\u0722</span> always",
+                "<span class=\"selectableFont\">\u0712\u0730\u0719\u0712\u0730\u0722</span> sometimes",
+                "<span class=\"selectableFont\">\u071f\u0721\u0733\u0710 \u0719\u0730\u0712\u0722\u073a\u071d\u0308</span><span class=\"selectableFont\">\u0722</span> often.",
+                "time, season",
+                "period",
+                "season",
+                "time",
+                "time",
+                "t. gramm. tense",
+                "fragility",
+                "temporality"
+            ]
+        },
+        "word": {
+            "id": 5473,
+            "uri": "https://sedra.bethmardutho.org/api/word/5473.json"
+        }
+    }
+]

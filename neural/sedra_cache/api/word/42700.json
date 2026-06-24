@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u0722\u0713\u0710",
+        "western": "\u0710\u073d\u0718\u072a\u0722\u0733\u0713\u0733\u0710",
+        "lexeme": {
+            "id": 28606,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28606.json"
+        },
+        "stem": "\u0710\u0718\u072a\u0722\u0713\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "organy"
+            ],
+            "grc": [
+                "\u1f40\u03c1\u03af\u03b3\u03b1\u03bd\u03bf\u03c2 (a form of \u1f40\u03c1\u03af\u03b3\u03b1\u03bd\u03bf\u03bd)"
+            ],
+            "lat": [
+                "Origanum heracleoticum"
+            ]
+        },
+        "word": {
+            "id": 42700,
+            "uri": "https://sedra.bethmardutho.org/api/word/42700.json"
+        }
+    }
+]

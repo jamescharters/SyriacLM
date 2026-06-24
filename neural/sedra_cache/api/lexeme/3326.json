@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 3326,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3326.json"
+        },
+        "syriac": "\u072b\u072a\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0642\u064a, \u062a\u0631\u0643 (\u0645\u062c)",
+                "\u0648\u0635\u0644",
+                "\u062d\u0636\u0631"
+            ],
+            "French": [
+                "rester, \u00eatre laiss\u00e9",
+                "arriver",
+                "\u00eatre pr\u00e9sent"
+            ],
+            "English": [
+                "left",
+                "to survive",
+                "to remain, persist",
+                "to turn out, to be reduced to",
+                "Ia to end up, result in",
+                "IIIp.",
+                "IIIa to commit, to leave"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1932,
+            "uri": "https://sedra.bethmardutho.org/api/root/1932.json"
+        },
+        "words": [
+            {
+                "id": 22171,
+                "uri": "https://sedra.bethmardutho.org/api/word/22171.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

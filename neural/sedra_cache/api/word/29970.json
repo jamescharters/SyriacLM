@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u0713\u071d\u072b\u072c\u0710",
+        "western": "\u072b\u0713\u073a\u071d\u072b\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7775,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7775.json"
+        },
+        "stem": "\u072b\u0713\u071d\u072b\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0648\u0636\u0627\u0621"
+            ],
+            "eng": [
+                "uproar."
+            ],
+            "fre": [
+                "tumulte"
+            ]
+        },
+        "word": {
+            "id": 29970,
+            "uri": "https://sedra.bethmardutho.org/api/word/29970.json"
+        }
+    }
+]

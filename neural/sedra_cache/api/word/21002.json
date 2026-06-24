@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u072b\u071f\u072a\u0710",
+        "western": "\u0721\u072b\u0730\u071f\u0742\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3196,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3196.json"
+        },
+        "stem": "\u0721\u072b\u071f\u072a\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0628\u064a\u062d, \u0634\u0646\u064a\u0639"
+            ],
+            "eng": [
+                "shameful",
+                "disgraceful"
+            ],
+            "fre": [
+                "honteux, hideux"
+            ]
+        },
+        "word": {
+            "id": 21002,
+            "uri": "https://sedra.bethmardutho.org/api/word/21002.json"
+        }
+    }
+]

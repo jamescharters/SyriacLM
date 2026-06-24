@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 435,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/435.json"
+        },
+        "syriac": "\u0712\u0725\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0632\u0648\u062c (\u0631\u062c\u0644)",
+                "\u0646\u0636\u062c"
+            ],
+            "French": [
+                "\u00e9pouser ( homme)",
+                "m\u00fbrir"
+            ],
+            "English": [
+                "Ia to take in marriage",
+                "marry",
+                "Ip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 297,
+            "uri": "https://sedra.bethmardutho.org/api/root/297.json"
+        },
+        "words": [
+            {
+                "id": 3034,
+                "uri": "https://sedra.bethmardutho.org/api/word/3034.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

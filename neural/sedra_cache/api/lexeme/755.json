@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 755,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/755.json"
+        },
+        "syriac": "\u0715\u072a\u0715\u072a\u0710",
+        "glosses": {
+            "English": [
+                "thistles",
+                "thistle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 476,
+            "uri": "https://sedra.bethmardutho.org/api/root/476.json"
+        },
+        "words": [
+            {
+                "id": 4848,
+                "uri": "https://sedra.bethmardutho.org/api/word/4848.json"
+            },
+            {
+                "id": 4847,
+                "uri": "https://sedra.bethmardutho.org/api/word/4847.json"
+            },
+            {
+                "id": 4849,
+                "uri": "https://sedra.bethmardutho.org/api/word/4849.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

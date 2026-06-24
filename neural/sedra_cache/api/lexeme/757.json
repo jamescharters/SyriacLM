@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 757,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/757.json"
+        },
+        "syriac": "\u0715\u0718\u072a\u071f\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0637\u0648\u0629",
+                "\u062f\u0648\u0633",
+                "\u0623\u0631\u0636"
+            ],
+            "French": [
+                "pas",
+                "foulage",
+                "sol"
+            ],
+            "English": [
+                "pace",
+                "step",
+                "footstep",
+                "pavement."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 478,
+            "uri": "https://sedra.bethmardutho.org/api/root/478.json"
+        },
+        "words": [
+            {
+                "id": 4852,
+                "uri": "https://sedra.bethmardutho.org/api/word/4852.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

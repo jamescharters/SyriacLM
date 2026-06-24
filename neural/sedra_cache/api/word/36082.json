@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072c\u0718\u0720\u071a\u0710",
+        "western": "\u072c\u073d\u0718\u0720\u0733\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8473,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8473.json"
+        },
+        "stem": "\u072c\u0718\u0720\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0645\u0632\u064a\u0642"
+            ],
+            "eng": [
+                "rupture, tearing apart."
+            ],
+            "fre": [
+                "mise en pi\u00e8ces"
+            ]
+        },
+        "word": {
+            "id": 36082,
+            "uri": "https://sedra.bethmardutho.org/api/word/36082.json"
+        }
+    }
+]

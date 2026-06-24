@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0710\u0723\u071b\u0718\u0722\u0710",
+        "western": "\u0710\u0736\u0723\u071b\u073d\u0718\u0722\u0733\u0710",
+        "eastern": "\u0710\u0738\u0723\u071b\u0718\u073f\u0722\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13748,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13748.json"
+        },
+        "stem": "\u0710\u0723\u071b\u0718\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645\u0648\u062f"
+            ],
+            "eng": [
+                "column, pillar.",
+                "column"
+            ],
+            "fre": [
+                "colonne"
+            ]
+        },
+        "word": {
+            "id": 30628,
+            "uri": "https://sedra.bethmardutho.org/api/word/30628.json"
+        }
+    }
+]

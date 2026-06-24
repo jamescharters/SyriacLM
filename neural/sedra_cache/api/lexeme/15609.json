@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15609,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15609.json"
+        },
+        "syriac": "\u0713\u071a\u072a",
+        "glosses": {
+            "English": [
+                "to discharge (pus)",
+                "Ia to wipe away."
+            ],
+            "Arabic": [
+                "\u062d\u0643"
+            ],
+            "French": [
+                "racler"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2872,
+            "uri": "https://sedra.bethmardutho.org/api/root/2872.json"
+        },
+        "words": [
+            {
+                "id": 45186,
+                "uri": "https://sedra.bethmardutho.org/api/word/45186.json"
+            },
+            {
+                "id": 41722,
+                "uri": "https://sedra.bethmardutho.org/api/word/41722.json"
+            },
+            {
+                "id": 40902,
+                "uri": "https://sedra.bethmardutho.org/api/word/40902.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u0720\u0717\u071d\u0710",
+        "western": "\u0710\u0730\u0720\u0733\u0717\u0733\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 132,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/132.json"
+        },
+        "stem": "\u0710\u0720\u0717\u071d\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0625\u0644\u0647\u064a"
+            ],
+            "eng": [
+                "divine, godly, God-like, holy.",
+                "divine"
+            ],
+            "fre": [
+                "divin"
+            ]
+        },
+        "word": {
+            "id": 937,
+            "uri": "https://sedra.bethmardutho.org/api/word/937.json"
+        }
+    }
+]

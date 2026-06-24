@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15373,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15373.json"
+        },
+        "syriac": "\u0713\u0717\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0641\u0644\u062a",
+                "\u062a\u0644\u0627\u0634\u0649"
+            ],
+            "French": [
+                "s&#39;\u00e9chapper",
+                "dispara\u00eetre"
+            ],
+            "English": [
+                "Ia to flee, escape",
+                "to be delivered, escape from.",
+                "to get rid of",
+                "IIIa to deliver, set free"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2220,
+            "uri": "https://sedra.bethmardutho.org/api/root/2220.json"
+        },
+        "words": [
+            {
+                "id": 41682,
+                "uri": "https://sedra.bethmardutho.org/api/word/41682.json"
+            },
+            {
+                "id": 41455,
+                "uri": "https://sedra.bethmardutho.org/api/word/41455.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

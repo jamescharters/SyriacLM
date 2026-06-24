@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u072b\u0720\u0717\u0712\u071d\u072c\u0710",
+        "western": "\u072b\u0730\u0720\u0717\u0736\u0712\u0742\u073a\u071d\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3208,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3208.json"
+        },
+        "stem": "\u072b\u0720\u0717\u0712\u071d\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0647\u064a\u0628",
+                "\u062a\u0644\u0623\u0644\u0624",
+                "\u0634\u0641\u0631\u0629"
+            ],
+            "eng": [
+                "flash.",
+                "flame",
+                "flame, blaze"
+            ],
+            "fre": [
+                "flamme",
+                "lame",
+                "scintillement"
+            ]
+        },
+        "word": {
+            "id": 21049,
+            "uri": "https://sedra.bethmardutho.org/api/word/21049.json"
+        }
+    }
+]

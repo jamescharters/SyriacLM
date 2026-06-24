@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15524,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15524.json"
+        },
+        "syriac": "\u0726\u071b\u0722",
+        "glosses": {
+            "English": [
+                "Ia to perceive, understand, recognize."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2891,
+            "uri": "https://sedra.bethmardutho.org/api/root/2891.json"
+        },
+        "words": [
+            {
+                "id": 41615,
+                "uri": "https://sedra.bethmardutho.org/api/word/41615.json"
+            },
+            {
+                "id": 41215,
+                "uri": "https://sedra.bethmardutho.org/api/word/41215.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

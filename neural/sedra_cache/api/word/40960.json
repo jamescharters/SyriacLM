@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072b\u0725",
+        "western": "\u072b\u0733\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15433,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15433.json"
+        },
+        "stem": "\u072b\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to stop up",
+                "Ia to smear, daub",
+                "Ip",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072b\u073a\u071d\u0725</span>."
+            ]
+        },
+        "word": {
+            "id": 40960,
+            "uri": "https://sedra.bethmardutho.org/api/word/40960.json"
+        }
+    }
+]

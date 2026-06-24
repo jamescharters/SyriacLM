@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15531,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15531.json"
+        },
+        "syriac": "\u0721\u072a\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0635\u0631",
+                "\u0636\u0631\u0628",
+                ""
+            ],
+            "French": [
+                "presser",
+                "frapper",
+                ""
+            ],
+            "English": [
+                "IIa to bruise, batter",
+                "to repress (thoughts etc.)",
+                "IIp.",
+                "Ia to crush, bruise, steep"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3164,
+            "uri": "https://sedra.bethmardutho.org/api/root/3164.json"
+        },
+        "words": [
+            {
+                "id": 42008,
+                "uri": "https://sedra.bethmardutho.org/api/word/42008.json"
+            },
+            {
+                "id": 41421,
+                "uri": "https://sedra.bethmardutho.org/api/word/41421.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

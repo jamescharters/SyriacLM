@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0729\u072a\u071b\u0720\u0710",
+        "western": "\u0729\u0730\u072a\u071b\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 7352,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7352.json"
+        },
+        "stem": "\u0729\u072a\u071b\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0644\u0629"
+            ],
+            "eng": [
+                "basket."
+            ],
+            "fre": [
+                "corbeille"
+            ]
+        },
+        "word": {
+            "id": 36988,
+            "uri": "https://sedra.bethmardutho.org/api/word/36988.json"
+        }
+    }
+]

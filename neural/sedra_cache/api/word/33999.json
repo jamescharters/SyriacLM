@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u0726\u0723\u0710",
+        "western": "\u071f\u0736\u0726\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12289,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12289.json"
+        },
+        "stem": "\u071f\u0726\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u064a\u0636"
+            ],
+            "eng": [
+                "menstruation."
+            ],
+            "fre": [
+                "menstrues"
+            ]
+        },
+        "word": {
+            "id": 33999,
+            "uri": "https://sedra.bethmardutho.org/api/word/33999.json"
+        }
+    }
+]

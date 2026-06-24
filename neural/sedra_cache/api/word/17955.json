@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0729\u0715\u0718\u072b",
+        "western": "\u0729\u0715\u0742\u073d\u0718\u072b",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2759,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2759.json"
+        },
+        "stem": "\u0729\u0718\u0715\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "holiness",
+                "holy things",
+                "holiness",
+                "sanctuary",
+                "consecration",
+                "<span class=\"selectableFont\">\u072a\u073d\u0718\u071a\u0733\u0710 \u0715\u0729\u073d\u0718\u0715\u072b\u0733\u0710</span> Holy Spirit."
+            ]
+        },
+        "word": {
+            "id": 17955,
+            "uri": "https://sedra.bethmardutho.org/api/word/17955.json"
+        }
+    }
+]

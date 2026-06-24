@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 512,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/512.json"
+        },
+        "syriac": "\u0713\u0715\u0718\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0627\u0628 \u0623\u0639\u0632\u0628"
+            ],
+            "French": [
+                "jeune homme non mari\u00e9"
+            ],
+            "English": [
+                "man",
+                "youth",
+                "youth."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 342,
+            "uri": "https://sedra.bethmardutho.org/api/root/342.json"
+        },
+        "words": [
+            {
+                "id": 52850,
+                "uri": "https://sedra.bethmardutho.org/api/word/52850.json"
+            },
+            {
+                "id": 24144,
+                "uri": "https://sedra.bethmardutho.org/api/word/24144.json"
+            },
+            {
+                "id": 3491,
+                "uri": "https://sedra.bethmardutho.org/api/word/3491.json"
+            },
+            {
+                "id": 3490,
+                "uri": "https://sedra.bethmardutho.org/api/word/3490.json"
+            },
+            {
+                "id": 23362,
+                "uri": "https://sedra.bethmardutho.org/api/word/23362.json"
+            },
+            {
+                "id": 3489,
+                "uri": "https://sedra.bethmardutho.org/api/word/3489.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

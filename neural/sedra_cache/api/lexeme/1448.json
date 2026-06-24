@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 1448,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1448.json"
+        },
+        "syriac": "\u0721\u071d\u072c\u072a\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "excellence",
+                "virtue",
+                "virtue, excellence."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 858,
+            "uri": "https://sedra.bethmardutho.org/api/root/858.json"
+        },
+        "words": [
+            {
+                "id": 9648,
+                "uri": "https://sedra.bethmardutho.org/api/word/9648.json"
+            },
+            {
+                "id": 9649,
+                "uri": "https://sedra.bethmardutho.org/api/word/9649.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

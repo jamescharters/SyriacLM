@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0720\u0722\u071d\u0718\u072c\u0710",
+        "western": "\u071f\u073d\u0718\u0720\u0733\u0722\u0733\u071d\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6159,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6159.json"
+        },
+        "stem": "\u071f\u0718\u0720\u0722\u071d\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645\u0648\u0645"
+            ],
+            "eng": [
+                "totality, whole."
+            ],
+            "fre": [
+                "universalit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 34518,
+            "uri": "https://sedra.bethmardutho.org/api/word/34518.json"
+        }
+    }
+]

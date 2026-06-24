@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 3209,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3209.json"
+        },
+        "syriac": "\u072b\u0720\u0718\u0721",
+        "glosses": {
+            "English": [
+                "Salome"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1871,
+            "uri": "https://sedra.bethmardutho.org/api/root/1871.json"
+        },
+        "words": [
+            {
+                "id": 21050,
+                "uri": "https://sedra.bethmardutho.org/api/word/21050.json"
+            },
+            {
+                "id": 21051,
+                "uri": "https://sedra.bethmardutho.org/api/word/21051.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

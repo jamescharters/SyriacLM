@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0723\u0712\u0725",
+        "western": "\u0715\u0741\u0722\u0736\u0723\u0712\u0741\u0730\u0725",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 2052,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2052.json"
+        },
+        "stem": "\u0723\u0712\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be full",
+                "IIp",
+                "IIIa to fulfill, to satisfy.",
+                "Ip to be filled",
+                "Ia to be full, satisfied, sated",
+                "IIa to satisfy, to sate",
+                "satisfy",
+                "be satisfied"
+            ]
+        },
+        "word": {
+            "id": 13487,
+            "uri": "https://sedra.bethmardutho.org/api/word/13487.json"
+        }
+    }
+]

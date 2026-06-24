@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 15483,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15483.json"
+        },
+        "syriac": "\u071a\u072a",
+        "glosses": {
+            "English": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u073d\u0718\u072a</span>, Ia, IIa to liberate",
+                "IIp.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u071a\u073d\u0718\u072a</span>, Ia to be dry (of throat)."
+            ],
+            "Arabic": [
+                "\u0628\u062d (\u062d\u0644\u0642)"
+            ],
+            "French": [
+                "\u00eatre enrou\u00e9e ( gorge)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2154,
+            "uri": "https://sedra.bethmardutho.org/api/root/2154.json"
+        },
+        "words": [
+            {
+                "id": 41052,
+                "uri": "https://sedra.bethmardutho.org/api/word/41052.json"
+            },
+            {
+                "id": 42096,
+                "uri": "https://sedra.bethmardutho.org/api/word/42096.json"
+            },
+            {
+                "id": 41885,
+                "uri": "https://sedra.bethmardutho.org/api/word/41885.json"
+            },
+            {
+                "id": 41510,
+                "uri": "https://sedra.bethmardutho.org/api/word/41510.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

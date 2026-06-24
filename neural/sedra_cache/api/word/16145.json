@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0720\u0726\u0713\u0718\u0715\u0710",
+        "western": "\u0720\u0730\u0726\u0742\u0713\u0742\u073d\u0718\u0715\u0742\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2449,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2449.json"
+        },
+        "stem": "\u0726\u0713\u0718\u0715\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0644\u0642",
+                "\u0631\u062f\u0639"
+            ],
+            "eng": [
+                "bridle.",
+                "bridle"
+            ],
+            "fre": [
+                "fermeture",
+                "refr\u00e8nement"
+            ]
+        },
+        "word": {
+            "id": 16145,
+            "uri": "https://sedra.bethmardutho.org/api/word/16145.json"
+        }
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15652,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15652.json"
+        },
+        "syriac": "\u072a\u072b\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u062d\u0641"
+            ],
+            "French": [
+                "ramper"
+            ],
+            "English": [
+                "Ia to crawl, creep",
+                "IIIa to make to crawl, to humiliate."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c0\u03b5\u03b6\u03cc\u03c2"
+            ]
+        },
+        "root": {
+            "id": 2948,
+            "uri": "https://sedra.bethmardutho.org/api/root/2948.json"
+        },
+        "words": [
+            {
+                "id": 41831,
+                "uri": "https://sedra.bethmardutho.org/api/word/41831.json"
+            },
+            {
+                "id": 41495,
+                "uri": "https://sedra.bethmardutho.org/api/word/41495.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

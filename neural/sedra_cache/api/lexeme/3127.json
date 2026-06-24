@@ -1,0 +1,64 @@
+[
+    {
+        "lexeme": {
+            "id": 3127,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3127.json"
+        },
+        "syriac": "\u072b\u0717\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0647\u0631"
+            ],
+            "French": [
+                "veiller"
+            ],
+            "English": [
+                "watch",
+                "IIIa to cause to watch",
+                "IIa to keep careful watch",
+                "to be wakeful.",
+                "Ia to keep watch, vigil"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1821,
+            "uri": "https://sedra.bethmardutho.org/api/root/1821.json"
+        },
+        "words": [
+            {
+                "id": 20502,
+                "uri": "https://sedra.bethmardutho.org/api/word/20502.json"
+            },
+            {
+                "id": 20501,
+                "uri": "https://sedra.bethmardutho.org/api/word/20501.json"
+            },
+            {
+                "id": 28920,
+                "uri": "https://sedra.bethmardutho.org/api/word/28920.json"
+            },
+            {
+                "id": 28919,
+                "uri": "https://sedra.bethmardutho.org/api/word/28919.json"
+            },
+            {
+                "id": 20506,
+                "uri": "https://sedra.bethmardutho.org/api/word/20506.json"
+            },
+            {
+                "id": 20505,
+                "uri": "https://sedra.bethmardutho.org/api/word/20505.json"
+            },
+            {
+                "id": 20504,
+                "uri": "https://sedra.bethmardutho.org/api/word/20504.json"
+            },
+            {
+                "id": 20503,
+                "uri": "https://sedra.bethmardutho.org/api/word/20503.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

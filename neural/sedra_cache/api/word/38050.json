@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0729\u0715\u072b\u0710",
+        "western": "\u0729\u0715\u0733\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15915,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15915.json"
+        },
+        "stem": "\u0729\u0715\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0646\u0641",
+                "\u062d\u0644\u0642\u0629"
+            ],
+            "eng": [
+                "earring, nosering."
+            ],
+            "fre": [
+                "anneau",
+                "pendant d&#39;oreille"
+            ]
+        },
+        "word": {
+            "id": 38050,
+            "uri": "https://sedra.bethmardutho.org/api/word/38050.json"
+        }
+    }
+]

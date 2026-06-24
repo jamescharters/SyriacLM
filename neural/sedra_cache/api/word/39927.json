@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0715\u0720",
+        "western": "\u0715\u0730\u0722\u0715\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14808,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14808.json"
+        },
+        "stem": "\u0715\u0722\u0715\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0632"
+            ],
+            "eng": [
+                "IVa to shake",
+                "IVp to dangle."
+            ],
+            "fre": [
+                "secouer"
+            ]
+        },
+        "word": {
+            "id": 39927,
+            "uri": "https://sedra.bethmardutho.org/api/word/39927.json"
+        }
+    }
+]

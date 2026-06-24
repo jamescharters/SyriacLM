@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1243,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1243.json"
+        },
+        "syriac": "\u072c\u071b\u0720\u071d\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0642\u0641",
+                "\u0633\u0642\u0641"
+            ],
+            "French": [
+                "toit",
+                "plafond"
+            ],
+            "English": [
+                "roof",
+                "rafter",
+                "roof, ceiling."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 733,
+            "uri": "https://sedra.bethmardutho.org/api/root/733.json"
+        },
+        "words": [
+            {
+                "id": 8127,
+                "uri": "https://sedra.bethmardutho.org/api/word/8127.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

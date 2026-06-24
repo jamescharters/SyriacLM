@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15080,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15080.json"
+        },
+        "syriac": "\u0715\u071f\u072a",
+        "glosses": {
+            "English": [
+                "2 IIa to assign masculine gender",
+                "IIp to be of masculine gender."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3091,
+            "uri": "https://sedra.bethmardutho.org/api/root/3091.json"
+        },
+        "words": [
+            {
+                "id": 40505,
+                "uri": "https://sedra.bethmardutho.org/api/word/40505.json"
+            },
+            {
+                "id": 40489,
+                "uri": "https://sedra.bethmardutho.org/api/word/40489.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

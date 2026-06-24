@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15790,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15790.json"
+        },
+        "syriac": "\u0726\u072a\u0725",
+        "glosses": {
+            "English": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0726\u072a\u073d\u0718\u0725</span>, Ia to uncover (the head). {new}"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3018,
+            "uri": "https://sedra.bethmardutho.org/api/root/3018.json"
+        },
+        "words": [
+            {
+                "id": 41726,
+                "uri": "https://sedra.bethmardutho.org/api/word/41726.json"
+            },
+            {
+                "id": 39888,
+                "uri": "https://sedra.bethmardutho.org/api/word/39888.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

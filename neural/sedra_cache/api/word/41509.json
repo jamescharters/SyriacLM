@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u071f\u072b\u0710",
+        "western": "\u071f\u072b\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15835,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15835.json"
+        },
+        "stem": "\u071f\u072b\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0643\u062a\u0644",
+                "\u062a\u0643\u062a\u0644"
+            ],
+            "eng": [
+                "Ia to pile up, heap",
+                "IIa, IIp.",
+                "Ip"
+            ],
+            "fre": [
+                "\u00a0",
+                "entasser",
+                "\u00eatre entass\u00e9"
+            ]
+        },
+        "word": {
+            "id": 41509,
+            "uri": "https://sedra.bethmardutho.org/api/word/41509.json"
+        }
+    }
+]

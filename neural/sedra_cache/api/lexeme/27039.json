@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 27039,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27039.json"
+        },
+        "syriac": "\u0710\u0718\u0722\u0718\u0723 \u0712\u0718\u0722\u071d\u071b\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03bf\u1f36\u03bd\u03bf\u03c2 \u03b2\u03bf\u03c5\u03bd\u03af\u03c4\u03b7\u03c2"
+            ],
+            "English": [
+                "wine made in the mountains"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b2\u03bf\u03c5\u03bd\u03af\u03c4\u03b7\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 48827,
+                "uri": "https://sedra.bethmardutho.org/api/word/48827.json"
+            },
+            {
+                "id": 53413,
+                "uri": "https://sedra.bethmardutho.org/api/word/53413.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

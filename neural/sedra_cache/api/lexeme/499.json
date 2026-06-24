@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 499,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/499.json"
+        },
+        "syriac": "\u0713\u0712\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "election",
+                "election."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 334,
+            "uri": "https://sedra.bethmardutho.org/api/root/334.json"
+        },
+        "words": [
+            {
+                "id": 3445,
+                "uri": "https://sedra.bethmardutho.org/api/word/3445.json"
+            },
+            {
+                "id": 3444,
+                "uri": "https://sedra.bethmardutho.org/api/word/3444.json"
+            },
+            {
+                "id": 3443,
+                "uri": "https://sedra.bethmardutho.org/api/word/3443.json"
+            },
+            {
+                "id": 3442,
+                "uri": "https://sedra.bethmardutho.org/api/word/3442.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

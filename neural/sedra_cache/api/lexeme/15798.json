@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15798,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15798.json"
+        },
+        "syriac": "\u0712\u072a",
+        "glosses": {
+            "English": [
+                "IIIa to leave uncultivated.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0712\u073d\u0718\u072a</span>, Ia to lie uncultivated, neglected"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2140,
+            "uri": "https://sedra.bethmardutho.org/api/root/2140.json"
+        },
+        "words": [
+            {
+                "id": 41694,
+                "uri": "https://sedra.bethmardutho.org/api/word/41694.json"
+            },
+            {
+                "id": 40050,
+                "uri": "https://sedra.bethmardutho.org/api/word/40050.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

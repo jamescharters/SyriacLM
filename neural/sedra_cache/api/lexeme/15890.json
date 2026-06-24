@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15890,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15890.json"
+        },
+        "syriac": "\u0713\u072a\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0647\u0644\u0643"
+            ],
+            "French": [
+                "p\u00e9rir"
+            ],
+            "English": [
+                "IIp",
+                "IIIa to destroy, annihilate.",
+                "Ip to be vanquished",
+                "Ia to perish, to be broken in pieces",
+                "IIa to break in pieces, do away with, devour"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2076,
+            "uri": "https://sedra.bethmardutho.org/api/root/2076.json"
+        },
+        "words": [
+            {
+                "id": 42139,
+                "uri": "https://sedra.bethmardutho.org/api/word/42139.json"
+            },
+            {
+                "id": 41929,
+                "uri": "https://sedra.bethmardutho.org/api/word/41929.json"
+            },
+            {
+                "id": 40173,
+                "uri": "https://sedra.bethmardutho.org/api/word/40173.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

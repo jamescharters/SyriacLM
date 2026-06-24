@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0715\u0718\u0715\u0710",
+        "western": "\u072b\u072a\u0730\u0715\u073d\u0718\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12406,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12406.json"
+        },
+        "stem": "\u072b\u072a\u0715\u0718\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u062b\u0629"
+            ],
+            "eng": [
+                "skeleton, corpse."
+            ],
+            "fre": [
+                "cadavre"
+            ]
+        },
+        "word": {
+            "id": 36720,
+            "uri": "https://sedra.bethmardutho.org/api/word/36720.json"
+        }
+    }
+]

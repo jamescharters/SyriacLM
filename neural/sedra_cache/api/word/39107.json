@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072a\u072c\u071d\u071a\u0710",
+        "western": "\u072a\u0730\u072c\u073a\u071d\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12481,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12481.json"
+        },
+        "stem": "\u072a\u072c\u071d\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062a\u0623\u062c\u062c"
+            ],
+            "eng": [
+                "boiling.",
+                "fervent"
+            ],
+            "fre": [
+                "enflamm\u00e9"
+            ]
+        },
+        "word": {
+            "id": 39107,
+            "uri": "https://sedra.bethmardutho.org/api/word/39107.json"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15685,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15685.json"
+        },
+        "syriac": "\u0719\u0720\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0632\u0627\u063a",
+                "\u0623\u0641\u0633\u062f"
+            ],
+            "French": [
+                "induire en erreur",
+                "pervertir"
+            ],
+            "English": [
+                "Ia to make crooked, pervert, turn aside",
+                "Ip to be distorted."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2810,
+            "uri": "https://sedra.bethmardutho.org/api/root/2810.json"
+        },
+        "words": [
+            {
+                "id": 41850,
+                "uri": "https://sedra.bethmardutho.org/api/word/41850.json"
+            },
+            {
+                "id": 39979,
+                "uri": "https://sedra.bethmardutho.org/api/word/39979.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0726\u072c\u071d\u0717",
+        "western": "\u0726\u0741\u072c\u0742\u0733\u071d\u0733\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 2641,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2641.json"
+        },
+        "stem": "\u0726\u072c\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "breadth",
+                "breadth",
+                "latitude."
+            ]
+        },
+        "word": {
+            "id": 17156,
+            "uri": "https://sedra.bethmardutho.org/api/word/17156.json"
+        }
+    }
+]

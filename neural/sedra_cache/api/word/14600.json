@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u072a\u071d\u0729\u072c\u0710",
+        "western": "\u0723\u072a\u073a\u071d\u0729\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2208,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2208.json"
+        },
+        "stem": "\u0723\u072a\u071d\u0729\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "empty",
+                "empty, vain, worthless",
+                "carded, combed.",
+                "void",
+                "vacant",
+                "vain"
+            ]
+        },
+        "word": {
+            "id": 14600,
+            "uri": "https://sedra.bethmardutho.org/api/word/14600.json"
+        }
+    }
+]

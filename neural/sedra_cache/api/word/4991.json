@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0718\u071f\u0715\u0718",
+        "western": "\u0718\u071f\u0742\u0730\u0715\u0741\u073d\u0718",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3481,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3481.json"
+        },
+        "stem": "\u071f\u0715\u0718",
+        "category": "pronoun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0627\u0641",
+                "\u0642\u0628\u0644\u0627\u064b, \u0645\u0646\u0630 \u0632\u0645\u0646 \u0628\u0639\u064a\u062f"
+            ],
+            "eng": [
+                "it suffices",
+                "it suffice",
+                "sufficient, enough",
+                "<span class=\"selectableFont\">\u0721\u0736\u0722 \u071f\u0730\u0715\u073d\u0718</span> already, for some time.",
+                "already"
+            ],
+            "fre": [
+                "assez",
+                "d\u00e9j\u00e0, depuis longtemps"
+            ]
+        },
+        "word": {
+            "id": 4991,
+            "uri": "https://sedra.bethmardutho.org/api/word/4991.json"
+        }
+    }
+]

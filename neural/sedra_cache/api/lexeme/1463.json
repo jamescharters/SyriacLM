@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 1463,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1463.json"
+        },
+        "syriac": "\u071f\u0712\u072a",
+        "glosses": {
+            "English": [
+                "perhaps/perchance/doubtless/may be",
+                "perhaps",
+                "long ago",
+                "perhaps."
+            ],
+            "Arabic": [
+                "\u062a\u0643\u062b\u0631, \u0643\u062b\u0631",
+                "\u0631\u0628\u0645\u0627",
+                "\u0645\u0646 \u0632\u0645\u0627\u0646 \u0628\u0639\u064a\u062f",
+                "\u0625\u0644\u0627 \u0642\u0644\u064a\u0644\u0627\u064b"
+            ],
+            "French": [
+                "se multiplier, \u00eatre nombreux",
+                "peut-\u00eatre",
+                "d\u00e9j\u00e0, depuis longtemps",
+                "presque"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 867,
+            "uri": "https://sedra.bethmardutho.org/api/root/867.json"
+        },
+        "words": [
+            {
+                "id": 45449,
+                "uri": "https://sedra.bethmardutho.org/api/word/45449.json"
+            },
+            {
+                "id": 9716,
+                "uri": "https://sedra.bethmardutho.org/api/word/9716.json"
+            },
+            {
+                "id": 9715,
+                "uri": "https://sedra.bethmardutho.org/api/word/9715.json"
+            },
+            {
+                "id": 9717,
+                "uri": "https://sedra.bethmardutho.org/api/word/9717.json"
+            }
+        ],
+        "category": "particle",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0713\u0720\u0718\u071a",
+        "western": "\u0722\u0736\u0713\u0720\u073d\u0718\u071a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15852,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15852.json"
+        },
+        "stem": "\u0713\u0720\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0631\u062d",
+                "\u0628\u0633\u0637"
+            ],
+            "eng": [
+                "IIa, IIIa to declare, show forth, manifest.",
+                "Ia to spread out",
+                "show, explain"
+            ],
+            "fre": [
+                "\u00e9tendre",
+                "exposer"
+            ]
+        },
+        "word": {
+            "id": 42046,
+            "uri": "https://sedra.bethmardutho.org/api/word/42046.json"
+        }
+    }
+]

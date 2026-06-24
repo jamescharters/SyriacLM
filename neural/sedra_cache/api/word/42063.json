@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0723\u0729\u0725",
+        "western": "\u0722\u0736\u0723\u0729\u0730\u0725",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15506,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15506.json"
+        },
+        "stem": "\u0723\u0729\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to crouch, to squat",
+                "IIa to crouch down, to cower",
+                "to lay snares."
+            ]
+        },
+        "word": {
+            "id": 42063,
+            "uri": "https://sedra.bethmardutho.org/api/word/42063.json"
+        }
+    }
+]

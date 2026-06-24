@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0715\u072a\u0722\u071d\u0722\u0722",
+        "western": "\u0715\u0741\u072a\u0733\u0722\u0736\u071d\u0722\u0730\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "plural",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 3036,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3036.json"
+        },
+        "stem": "\u072a\u0722\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to attend to",
+                "IIIa to direct the thoughts.",
+                "Ip to be considered",
+                "IIp to consider, to reflect",
+                "Ia to think, reflect",
+                "to conceive",
+                "plan",
+                "consider",
+                "think",
+                "meditate"
+            ]
+        },
+        "word": {
+            "id": 28650,
+            "uri": "https://sedra.bethmardutho.org/api/word/28650.json"
+        }
+    }
+]

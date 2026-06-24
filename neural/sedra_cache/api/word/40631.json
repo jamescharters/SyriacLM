@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u072c\u0722",
+        "western": "\u072c\u0730\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15840,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15840.json"
+        },
+        "stem": "\u072c\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to stiffen.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u072c\u0730\u0722</span>, Ia to be numb, rigid"
+            ]
+        },
+        "word": {
+            "id": 40631,
+            "uri": "https://sedra.bethmardutho.org/api/word/40631.json"
+        }
+    }
+]

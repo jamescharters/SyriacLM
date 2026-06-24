@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 11205,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11205.json"
+        },
+        "syriac": "\u0723\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "sire, sir",
+                "thread, string, cord."
+            ],
+            "Arabic": [
+                "\u062e\u064a\u0637",
+                "\u062d\u0628\u0644 \u062f\u0642\u064a\u0642",
+                "\u0633\u0644\u0633\u0644\u0629"
+            ],
+            "French": [
+                "fil",
+                "cordelette",
+                "cha\u00eene"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03b5\u03b9\u03c1\u03ac"
+            ]
+        },
+        "words": [
+            {
+                "id": 43850,
+                "uri": "https://sedra.bethmardutho.org/api/word/43850.json"
+            },
+            {
+                "id": 39629,
+                "uri": "https://sedra.bethmardutho.org/api/word/39629.json"
+            }
+        ]
+    }
+]

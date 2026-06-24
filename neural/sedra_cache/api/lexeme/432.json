@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 432,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/432.json"
+        },
+        "syriac": "\u0712\u0725\u071d\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0648\u0627\u0628"
+            ],
+            "French": [
+                "b\u00eates de somme"
+            ],
+            "English": [
+                "cattle",
+                "beasts",
+                "cattle, domestic animals."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 296,
+            "uri": "https://sedra.bethmardutho.org/api/root/296.json"
+        },
+        "words": [
+            {
+                "id": 3029,
+                "uri": "https://sedra.bethmardutho.org/api/word/3029.json"
+            },
+            {
+                "id": 3030,
+                "uri": "https://sedra.bethmardutho.org/api/word/3030.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

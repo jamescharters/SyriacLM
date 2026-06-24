@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15811,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15811.json"
+        },
+        "syriac": "\u0722\u072c\u071f",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0636\u0631 \u0628\u0640"
+            ],
+            "French": [
+                "causer un dommage \u00e0"
+            ],
+            "English": [
+                "Ia to hurt, harm."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2558,
+            "uri": "https://sedra.bethmardutho.org/api/root/2558.json"
+        },
+        "words": [
+            {
+                "id": 42109,
+                "uri": "https://sedra.bethmardutho.org/api/word/42109.json"
+            },
+            {
+                "id": 41034,
+                "uri": "https://sedra.bethmardutho.org/api/word/41034.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0722\u071d\u0710",
+        "western": "\u071f\u073d\u0718\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7662,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7662.json"
+        },
+        "stem": "\u071f\u0718\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0642\u0628",
+                "\u062a\u0633\u0645\u064a\u0629",
+                "\u0627\u0633\u0645"
+            ],
+            "eng": [
+                "name, appellation, Kth. family name, last name, surname",
+                "appellative."
+            ],
+            "fre": [
+                "surnom",
+                "nom",
+                "action d&#39;appeler"
+            ]
+        },
+        "word": {
+            "id": 37956,
+            "uri": "https://sedra.bethmardutho.org/api/word/37956.json"
+        }
+    }
+]

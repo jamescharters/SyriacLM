@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 607,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/607.json"
+        },
+        "syriac": "\u0713\u0722\u0723\u0710",
+        "glosses": {
+            "English": [
+                "kind",
+                "offspring",
+                "Gram. gender",
+                "species, kind",
+                "family, race",
+                "<span class=\"selectableFont\">\u0713\u0722\u0736\u0723 \u0713\u0722\u0736\u0723</span> various."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b3\u03ad\u03bd\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 389,
+            "uri": "https://sedra.bethmardutho.org/api/root/389.json"
+        },
+        "words": [
+            {
+                "id": 3910,
+                "uri": "https://sedra.bethmardutho.org/api/word/3910.json"
+            },
+            {
+                "id": 3909,
+                "uri": "https://sedra.bethmardutho.org/api/word/3909.json"
+            },
+            {
+                "id": 3911,
+                "uri": "https://sedra.bethmardutho.org/api/word/3911.json"
+            },
+            {
+                "id": 42302,
+                "uri": "https://sedra.bethmardutho.org/api/word/42302.json"
+            },
+            {
+                "id": 42306,
+                "uri": "https://sedra.bethmardutho.org/api/word/42306.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

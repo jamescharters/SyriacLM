@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1070,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1070.json"
+        },
+        "syriac": "\u071a\u0721\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u062e\u062a\u0645\u0631"
+            ],
+            "French": [
+                "fermenter"
+            ],
+            "English": [
+                "leaven",
+                "make leaven",
+                "Ia to ferment, leaven",
+                "IIIa to cause to ferment, to leaven."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 644,
+            "uri": "https://sedra.bethmardutho.org/api/root/644.json"
+        },
+        "words": [
+            {
+                "id": 7203,
+                "uri": "https://sedra.bethmardutho.org/api/word/7203.json"
+            },
+            {
+                "id": 24872,
+                "uri": "https://sedra.bethmardutho.org/api/word/24872.json"
+            },
+            {
+                "id": 24871,
+                "uri": "https://sedra.bethmardutho.org/api/word/24871.json"
+            },
+            {
+                "id": 7204,
+                "uri": "https://sedra.bethmardutho.org/api/word/7204.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

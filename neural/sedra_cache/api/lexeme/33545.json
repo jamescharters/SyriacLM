@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 33545,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33545.json"
+        },
+        "syriac": "\u0717\u071d\u0720\u071d\u0722\u0723\u071b\u071d",
+        "glosses": {
+            "English": [
+                "in the Greek language"
+            ],
+            "Latin": [
+                "Graece"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u0395\u0314\u03bb\u03bb\u03b7\u03bd\u03b9\u03c3\u03c4\u03b9\u0301"
+            ]
+        },
+        "words": [
+            {
+                "id": 59900,
+                "uri": "https://sedra.bethmardutho.org/api/word/59900.json"
+            }
+        ],
+        "category": "adverb"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0713\u0722\u0712\u071d",
+        "western": "\u0713\u0741\u0733\u0722\u0712\u0741\u0730\u071d",
+        "state": "construct",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 599,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/599.json"
+        },
+        "stem": "\u0713\u0722\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0627\u0631\u0642"
+            ],
+            "eng": [
+                "thief.",
+                "thief"
+            ],
+            "fre": [
+                "voleur"
+            ]
+        },
+        "word": {
+            "id": 3896,
+            "uri": "https://sedra.bethmardutho.org/api/word/3896.json"
+        }
+    }
+]

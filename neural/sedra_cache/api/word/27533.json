@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0726\u0723",
+        "western": "\u0715\u0741\u0730\u0721\u0726\u0741\u0733\u0723",
+        "tense": "passive participle",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2506,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2506.json"
+        },
+        "stem": "\u0726\u071d\u0723",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "persuade",
+                "to instruct",
+                "to intercede.",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u071b\u0726\u073a\u071d\u0723</span>, <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0726\u073a\u071d\u0723</span> to be persuaded, to obey",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u073a\u071d\u0723</span> to urge, to petition, to persuade",
+                "convince"
+            ]
+        },
+        "word": {
+            "id": 27533,
+            "uri": "https://sedra.bethmardutho.org/api/word/27533.json"
+        }
+    }
+]

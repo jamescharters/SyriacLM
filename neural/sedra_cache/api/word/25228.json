@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0721\u072c\u071b\u072a\u0726\u071d\u0722",
+        "western": "\u0721\u0736\u072c\u0741\u071b\u0730\u072a\u0726\u0742\u073a\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1281,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1281.json"
+        },
+        "stem": "\u071b\u072a\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0631\u0643 (\u0645\u0636) (\u0623\u062c\u0646\u062d\u062a\u0647)",
+                "\u0636\u0631\u0628"
+            ],
+            "eng": [
+                "to harass",
+                "beat",
+                "to shake to and fro",
+                "to wag (tail).",
+                "to stagger",
+                "to glance",
+                "IIIa to shake violently",
+                "smite",
+                "IIa to buffet, treat roughly",
+                "IIp to be harassed, shaken, agitated",
+                "to be exhausted, worn out",
+                "Ia to buffet, hit, smite"
+            ],
+            "fre": [
+                "frapper",
+                "agiter ( les ailes)"
+            ]
+        },
+        "word": {
+            "id": 25228,
+            "uri": "https://sedra.bethmardutho.org/api/word/25228.json"
+        }
+    }
+]

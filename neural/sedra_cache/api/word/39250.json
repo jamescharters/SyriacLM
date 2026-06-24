@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072b\u0726\u0725\u0710",
+        "western": "\u072b\u0736\u0726\u0725\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5559,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5559.json"
+        },
+        "stem": "\u072b\u0726\u0725\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0631\u064a\u0627\u0646, \u0633\u064a\u0644\u0627\u0646",
+                "\u0641\u064a\u0636\u0627\u0646",
+                "\u0634\u0644\u0627\u0644",
+                "\u063a\u0632\u0627\u0631\u0629",
+                "\u0628\u0627\u0628"
+            ],
+            "eng": [
+                "flow (of water)",
+                "inundation."
+            ],
+            "fre": [
+                "porte",
+                "cataracte",
+                "inondation",
+                "\u00e9coulement, flot",
+                "abondance"
+            ]
+        },
+        "word": {
+            "id": 39250,
+            "uri": "https://sedra.bethmardutho.org/api/word/39250.json"
+        }
+    }
+]

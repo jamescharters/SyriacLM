@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 960,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/960.json"
+        },
+        "syriac": "\u071a\u0715\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u062d\u0627\u0630"
+            ],
+            "French": [
+                "mendiant"
+            ],
+            "English": [
+                "mendicant",
+                "vagrant",
+                "mendicant, vagrant, beggar."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 598,
+            "uri": "https://sedra.bethmardutho.org/api/root/598.json"
+        },
+        "words": [
+            {
+                "id": 6281,
+                "uri": "https://sedra.bethmardutho.org/api/word/6281.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

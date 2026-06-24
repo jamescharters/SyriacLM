@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3042,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3042.json"
+        },
+        "syriac": "\u072a\u0725",
+        "glosses": {
+            "English": [
+                "broken",
+                "Ip to be bruised",
+                "Ia to break in pieces",
+                "IIp to be fractured, shattered.",
+                "to beat",
+                "to confute"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1773,
+            "uri": "https://sedra.bethmardutho.org/api/root/1773.json"
+        },
+        "words": [
+            {
+                "id": 19832,
+                "uri": "https://sedra.bethmardutho.org/api/word/19832.json"
+            },
+            {
+                "id": 19831,
+                "uri": "https://sedra.bethmardutho.org/api/word/19831.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

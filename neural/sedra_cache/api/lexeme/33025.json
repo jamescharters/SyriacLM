@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 33025,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/33025.json"
+        },
+        "syriac": "\u0710\u0726\u071b\u071d\u0718\u0722\u0710",
+        "glosses": {
+            "English": [
+                "officer"
+            ],
+            "Syriac": [
+                "liar, pretender"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03c0\u03b1\u03c4\u03ad\u03c9\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 59560,
+                "uri": "https://sedra.bethmardutho.org/api/word/59560.json"
+            },
+            {
+                "id": 59399,
+                "uri": "https://sedra.bethmardutho.org/api/word/59399.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

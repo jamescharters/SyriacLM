@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 2169,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2169.json"
+        },
+        "syriac": "\u0723\u0722\u071d\u0729\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u0631\u0648\u0631\u0629"
+            ],
+            "French": [
+                "p\u00e9nurie"
+            ],
+            "English": [
+                "need",
+                "necessity",
+                "lack",
+                "want",
+                "need, indigence, dearth."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1295,
+            "uri": "https://sedra.bethmardutho.org/api/root/1295.json"
+        },
+        "words": [
+            {
+                "id": 14416,
+                "uri": "https://sedra.bethmardutho.org/api/word/14416.json"
+            },
+            {
+                "id": 26484,
+                "uri": "https://sedra.bethmardutho.org/api/word/26484.json"
+            },
+            {
+                "id": 14420,
+                "uri": "https://sedra.bethmardutho.org/api/word/14420.json"
+            },
+            {
+                "id": 14415,
+                "uri": "https://sedra.bethmardutho.org/api/word/14415.json"
+            },
+            {
+                "id": 14419,
+                "uri": "https://sedra.bethmardutho.org/api/word/14419.json"
+            },
+            {
+                "id": 14418,
+                "uri": "https://sedra.bethmardutho.org/api/word/14418.json"
+            },
+            {
+                "id": 14417,
+                "uri": "https://sedra.bethmardutho.org/api/word/14417.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

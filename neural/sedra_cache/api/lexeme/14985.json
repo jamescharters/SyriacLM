@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14985,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14985.json"
+        },
+        "syriac": "\u0715\u0726\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0646\u0641\u0642"
+            ],
+            "French": [
+                "d\u00e9penser"
+            ],
+            "English": [
+                "IIa to spend."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2403,
+            "uri": "https://sedra.bethmardutho.org/api/root/2403.json"
+        },
+        "words": [
+            {
+                "id": 41044,
+                "uri": "https://sedra.bethmardutho.org/api/word/41044.json"
+            },
+            {
+                "id": 40909,
+                "uri": "https://sedra.bethmardutho.org/api/word/40909.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

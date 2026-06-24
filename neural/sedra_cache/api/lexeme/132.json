@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 132,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/132.json"
+        },
+        "syriac": "\u0710\u0720\u0717\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u0644\u0647\u064a"
+            ],
+            "French": [
+                "divin"
+            ],
+            "English": [
+                "divine",
+                "divine, godly, God-like, holy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 98,
+            "uri": "https://sedra.bethmardutho.org/api/root/98.json"
+        },
+        "words": [
+            {
+                "id": 937,
+                "uri": "https://sedra.bethmardutho.org/api/word/937.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

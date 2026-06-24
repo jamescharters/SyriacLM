@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0720\u071d\u0721\u071d\u071b\u0718\u0722",
+        "western": "\u0720\u073a\u071d\u0721\u073a\u071d\u071b\u0733\u0718\u0722",
+        "number": "singular",
+        "lexeme": {
+            "id": 5099,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5099.json"
+        },
+        "stem": "\u0720\u071d\u0721\u071d\u071b\u0718\u0722",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u062e\u0645"
+            ],
+            "eng": [
+                "borders, frontier."
+            ],
+            "fre": [
+                "fronti\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 37715,
+            "uri": "https://sedra.bethmardutho.org/api/word/37715.json"
+        }
+    }
+]

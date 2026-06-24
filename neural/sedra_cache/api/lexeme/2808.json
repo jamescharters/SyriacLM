@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2808,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2808.json"
+        },
+        "syriac": "\u0729\u0722\u0715\u071d\u0722\u0718\u0723",
+        "glosses": {
+            "English": [
+                "peril",
+                "danger"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 1656,
+            "uri": "https://sedra.bethmardutho.org/api/root/1656.json"
+        },
+        "words": [
+            {
+                "id": 18329,
+                "uri": "https://sedra.bethmardutho.org/api/word/18329.json"
+            },
+            {
+                "id": 18330,
+                "uri": "https://sedra.bethmardutho.org/api/word/18330.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

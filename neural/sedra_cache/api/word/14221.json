@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0721\u0723\u072c\u0720\u071d\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u0723\u072c\u0741\u0730\u0720\u071d\u0733\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2136,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2136.json"
+        },
+        "stem": "\u0721\u0723\u072c\u0720\u071d\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "rejection",
+                "reprobation",
+                "Gram. passive.",
+                "rejection"
+            ]
+        },
+        "word": {
+            "id": 14221,
+            "uri": "https://sedra.bethmardutho.org/api/word/14221.json"
+        }
+    }
+]

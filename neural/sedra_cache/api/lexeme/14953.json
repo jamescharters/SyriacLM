@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 14953,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14953.json"
+        },
+        "syriac": "\u0723\u0722\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u0643 (\u0645\u0636) \u0631\u0623\u0633\u0647"
+            ],
+            "French": [
+                "mouvoir ( la t\u00eate)"
+            ],
+            "English": [
+                "IIa to nod, to shake the head",
+                "IIp to put on a helmet."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3156,
+            "uri": "https://sedra.bethmardutho.org/api/root/3156.json"
+        },
+        "words": [
+            {
+                "id": 40776,
+                "uri": "https://sedra.bethmardutho.org/api/word/40776.json"
+            },
+            {
+                "id": 40692,
+                "uri": "https://sedra.bethmardutho.org/api/word/40692.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

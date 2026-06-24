@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15042,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15042.json"
+        },
+        "syriac": "\u0715\u0721\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0646\u0649"
+            ],
+            "French": [
+                "\u00e9difier"
+            ],
+            "English": [
+                "IIa to lay the foundations, to build."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2791,
+            "uri": "https://sedra.bethmardutho.org/api/root/2791.json"
+        },
+        "words": [
+            {
+                "id": 40205,
+                "uri": "https://sedra.bethmardutho.org/api/word/40205.json"
+            },
+            {
+                "id": 40136,
+                "uri": "https://sedra.bethmardutho.org/api/word/40136.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

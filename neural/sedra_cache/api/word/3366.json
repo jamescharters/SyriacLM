@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0712\u072a\u0729\u0710",
+        "western": "\u0718\u0712\u0742\u0730\u072a\u0729\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 486,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/486.json"
+        },
+        "stem": "\u0712\u072a\u0729\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0627\u0639\u0642\u0629"
+            ],
+            "eng": [
+                "lightning",
+                "lightning."
+            ],
+            "fre": [
+                "foudre"
+            ]
+        },
+        "word": {
+            "id": 3366,
+            "uri": "https://sedra.bethmardutho.org/api/word/3366.json"
+        }
+    }
+]

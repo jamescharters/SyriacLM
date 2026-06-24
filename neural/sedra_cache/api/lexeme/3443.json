@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3443,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3443.json"
+        },
+        "syriac": "\u072c\u072a\u0722\u0713\u0718\u0720\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u062c\u0627\u062c\u0629"
+            ],
+            "French": [
+                "poule"
+            ],
+            "English": [
+                "hen",
+                "cock, hen."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1998,
+            "uri": "https://sedra.bethmardutho.org/api/root/1998.json"
+        },
+        "words": [
+            {
+                "id": 22696,
+                "uri": "https://sedra.bethmardutho.org/api/word/22696.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

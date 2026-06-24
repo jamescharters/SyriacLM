@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3300,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3300.json"
+        },
+        "syriac": "\u072b\u0729\u071d\u0710",
+        "glosses": {
+            "English": [
+                "cup-bearer",
+                "cupbearer, butler."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1921,
+            "uri": "https://sedra.bethmardutho.org/api/root/1921.json"
+        },
+        "words": [
+            {
+                "id": 21848,
+                "uri": "https://sedra.bethmardutho.org/api/word/21848.json"
+            },
+            {
+                "id": 42219,
+                "uri": "https://sedra.bethmardutho.org/api/word/42219.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

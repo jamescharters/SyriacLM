@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0725\u0720\u0725\u0720",
+        "western": "\u0725\u0730\u0720\u0725\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "palpel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2334,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2334.json"
+        },
+        "stem": "\u0725\u0720\u0725\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVp.",
+                "to shake up, disturb",
+                "shake",
+                "toss",
+                "IVa to blow away"
+            ]
+        },
+        "word": {
+            "id": 15547,
+            "uri": "https://sedra.bethmardutho.org/api/word/15547.json"
+        }
+    }
+]

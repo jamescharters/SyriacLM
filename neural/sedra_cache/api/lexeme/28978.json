@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28978,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28978.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u071d\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03ac\u03bc\u03bd\u03cc\u03c2"
+            ],
+            "English": [
+                "lamb"
+            ],
+            "Latin": [
+                "agnus"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ac\u03bc\u03bd\u03cc\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49470,
+                "uri": "https://sedra.bethmardutho.org/api/word/49470.json"
+            },
+            {
+                "id": 55352,
+                "uri": "https://sedra.bethmardutho.org/api/word/55352.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

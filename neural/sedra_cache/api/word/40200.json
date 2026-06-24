@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0710\u072a\u072c\u0729",
+        "western": "\u0710\u0730\u072a\u072c\u0736\u0729",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15218,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15218.json"
+        },
+        "stem": "\u072a\u072c\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072a\u072c\u0736\u0729</span> to prick, to puncture."
+            ]
+        },
+        "word": {
+            "id": 40200,
+            "uri": "https://sedra.bethmardutho.org/api/word/40200.json"
+        }
+    }
+]

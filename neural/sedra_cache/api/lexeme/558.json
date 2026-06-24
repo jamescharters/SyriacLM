@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 558,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/558.json"
+        },
+        "syriac": "\u0713\u071d\u0713\u0720\u0710",
+        "glosses": {
+            "English": [
+                "wheel",
+                "cycle",
+                "cycle.",
+                "wheel, circle, disk"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 367,
+            "uri": "https://sedra.bethmardutho.org/api/root/367.json"
+        },
+        "words": [
+            {
+                "id": 22775,
+                "uri": "https://sedra.bethmardutho.org/api/word/22775.json"
+            },
+            {
+                "id": 3678,
+                "uri": "https://sedra.bethmardutho.org/api/word/3678.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

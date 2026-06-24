@@ -1,0 +1,79 @@
+[
+    {
+        "lexeme": {
+            "id": 15,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15.json"
+        },
+        "syriac": "\u0710\u0712\u0720",
+        "glosses": {
+            "English": [
+                "grieve",
+                "mourn"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 11,
+            "uri": "https://sedra.bethmardutho.org/api/root/11.json"
+        },
+        "words": [
+            {
+                "id": 151,
+                "uri": "https://sedra.bethmardutho.org/api/word/151.json"
+            },
+            {
+                "id": 150,
+                "uri": "https://sedra.bethmardutho.org/api/word/150.json"
+            },
+            {
+                "id": 149,
+                "uri": "https://sedra.bethmardutho.org/api/word/149.json"
+            },
+            {
+                "id": 148,
+                "uri": "https://sedra.bethmardutho.org/api/word/148.json"
+            },
+            {
+                "id": 147,
+                "uri": "https://sedra.bethmardutho.org/api/word/147.json"
+            },
+            {
+                "id": 142,
+                "uri": "https://sedra.bethmardutho.org/api/word/142.json"
+            },
+            {
+                "id": 141,
+                "uri": "https://sedra.bethmardutho.org/api/word/141.json"
+            },
+            {
+                "id": 152,
+                "uri": "https://sedra.bethmardutho.org/api/word/152.json"
+            },
+            {
+                "id": 157,
+                "uri": "https://sedra.bethmardutho.org/api/word/157.json"
+            },
+            {
+                "id": 156,
+                "uri": "https://sedra.bethmardutho.org/api/word/156.json"
+            },
+            {
+                "id": 155,
+                "uri": "https://sedra.bethmardutho.org/api/word/155.json"
+            },
+            {
+                "id": 154,
+                "uri": "https://sedra.bethmardutho.org/api/word/154.json"
+            },
+            {
+                "id": 153,
+                "uri": "https://sedra.bethmardutho.org/api/word/153.json"
+            },
+            {
+                "id": 145,
+                "uri": "https://sedra.bethmardutho.org/api/word/145.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0722\u0728\u072a\u0722\u0710",
+        "western": "\u0721\u0722\u0730\u0728\u072a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14293,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14293.json"
+        },
+        "stem": "\u0721\u0722\u0728\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0645\u0627\u0644\u0642"
+            ],
+            "eng": [
+                "coaxing, wheedling."
+            ],
+            "fre": [
+                "caressant"
+            ]
+        },
+        "word": {
+            "id": 33108,
+            "uri": "https://sedra.bethmardutho.org/api/word/33108.json"
+        }
+    }
+]

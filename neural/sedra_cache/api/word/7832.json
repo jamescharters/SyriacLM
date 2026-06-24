@@ -1,0 +1,60 @@
+[
+    {
+        "syriac": "\u072c\u071a\u072c\u0718\u0721",
+        "western": "\u072c\u0741\u0736\u071a\u072c\u0741\u073d\u0718\u0721",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1187,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1187.json"
+        },
+        "stem": "\u071a\u072c\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u063a\u0644\u0642",
+                "\u0623\u0646\u0647\u0649",
+                "\u0631\u0633\u0645 \u0625\u0634\u0627\u0631\u0629 \u0627\u0644\u0635\u0644\u064a\u0628 \u0623\u0648 \u0639\u0644\u0645 \u0639\u0644\u0649 \u0630\u0627\u062a\u0647",
+                "\u062e\u062a\u0645, \u0623\u0645\u0636\u0649",
+                " \u0627\u0646\u062f\u0645\u0644"
+            ],
+            "eng": [
+                "IIp to be consummated, accomplished",
+                "IIa to seal, sign, subscribe",
+                "Kth. to print, publish",
+                "to certify",
+                "to ratify, confirm",
+                "Kth. to be printed, published",
+                "Ia to seal",
+                "to mark, sign with the cross",
+                "to be printed.",
+                "to make the sign of the cross",
+                "to stop up, close",
+                "impress",
+                "stamp",
+                "seal",
+                "to be closed",
+                "Ip to be sealed, signed",
+                "to finish, conclude"
+            ],
+            "fre": [
+                "fermer",
+                "se refermer (plaie)",
+                "marquer , ou se signer , de la croix",
+                "finir",
+                "sceller , signer"
+            ]
+        },
+        "word": {
+            "id": 7832,
+            "uri": "https://sedra.bethmardutho.org/api/word/7832.json"
+        }
+    }
+]

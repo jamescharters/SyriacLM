@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1181,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1181.json"
+        },
+        "syriac": "\u071a\u072b\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "ornament",
+                "jewel",
+                "ornament, graven image",
+                "metalcasting."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 696,
+            "uri": "https://sedra.bethmardutho.org/api/root/696.json"
+        },
+        "words": [
+            {
+                "id": 7795,
+                "uri": "https://sedra.bethmardutho.org/api/word/7795.json"
+            },
+            {
+                "id": 7797,
+                "uri": "https://sedra.bethmardutho.org/api/word/7797.json"
+            },
+            {
+                "id": 7796,
+                "uri": "https://sedra.bethmardutho.org/api/word/7796.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

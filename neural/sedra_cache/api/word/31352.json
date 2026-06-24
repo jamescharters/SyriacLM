@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072c\u0720\u0721\u0715\u0722\u0710",
+        "western": "\u0721\u072c\u0730\u0720\u0721\u0715\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5231,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5231.json"
+        },
+        "stem": "\u0721\u072c\u0720\u0721\u0715\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0644\u0645"
+            ],
+            "eng": [
+                "teacher, instructor."
+            ],
+            "fre": [
+                "ma\u00eetre, instructeur"
+            ]
+        },
+        "word": {
+            "id": 31352,
+            "uri": "https://sedra.bethmardutho.org/api/word/31352.json"
+        }
+    }
+]

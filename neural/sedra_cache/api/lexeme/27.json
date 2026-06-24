@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 27,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27.json"
+        },
+        "syriac": "\u0710\u0713\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0642\u0641"
+            ],
+            "French": [
+                "toit"
+            ],
+            "English": [
+                "roof",
+                "housetop",
+                "roof",
+                "<span class=\"selectableFont\">\u0712\u0730\u072a \u0710\u0736\u0713\u0733\u072a\u0733\u0710</span> lunatic, epileptic."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 20,
+            "uri": "https://sedra.bethmardutho.org/api/root/20.json"
+        },
+        "words": [
+            {
+                "id": 203,
+                "uri": "https://sedra.bethmardutho.org/api/word/203.json"
+            },
+            {
+                "id": 206,
+                "uri": "https://sedra.bethmardutho.org/api/word/206.json"
+            },
+            {
+                "id": 205,
+                "uri": "https://sedra.bethmardutho.org/api/word/205.json"
+            },
+            {
+                "id": 204,
+                "uri": "https://sedra.bethmardutho.org/api/word/204.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

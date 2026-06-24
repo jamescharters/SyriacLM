@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0715\u0718\u0720",
+        "western": "\u0722\u0715\u073d\u0718\u0720",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15741,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15741.json"
+        },
+        "stem": "\u0715\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u062a\u0636\u0639"
+            ],
+            "eng": [
+                "to quake",
+                "Ia to stir, move",
+                "IIa <span class=\"selectableFont\">\u0715\u0730\u071d\u0736\u0720</span> to serve, wait upon",
+                "Ip, IIp to be shaken",
+                "IIIa to stir, arouse, set in motion."
+            ],
+            "fre": [
+                "s&#39;abaisser"
+            ]
+        },
+        "word": {
+            "id": 41966,
+            "uri": "https://sedra.bethmardutho.org/api/word/41966.json"
+        }
+    }
+]

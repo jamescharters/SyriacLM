@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1143,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1143.json"
+        },
+        "syriac": "\u071a\u072a\u0715\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0631\u062f\u0644"
+            ],
+            "French": [
+                "s\u00e9nev\u00e9"
+            ],
+            "English": [
+                "mustard",
+                "mustard seed."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 682,
+            "uri": "https://sedra.bethmardutho.org/api/root/682.json"
+        },
+        "words": [
+            {
+                "id": 7538,
+                "uri": "https://sedra.bethmardutho.org/api/word/7538.json"
+            },
+            {
+                "id": 7539,
+                "uri": "https://sedra.bethmardutho.org/api/word/7539.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

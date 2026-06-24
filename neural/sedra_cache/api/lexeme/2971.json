@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2971,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2971.json"
+        },
+        "syriac": "\u072a\u0718\u0719\u0710",
+        "glosses": {
+            "English": [
+                "gladness",
+                "exultation",
+                "exultation, happiness.",
+                "exultation",
+                "rejoicing"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1743,
+            "uri": "https://sedra.bethmardutho.org/api/root/1743.json"
+        },
+        "words": [
+            {
+                "id": 19352,
+                "uri": "https://sedra.bethmardutho.org/api/word/19352.json"
+            },
+            {
+                "id": 19351,
+                "uri": "https://sedra.bethmardutho.org/api/word/19351.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

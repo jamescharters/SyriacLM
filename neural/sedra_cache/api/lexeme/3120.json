@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3120,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3120.json"
+        },
+        "syriac": "\u072b\u0713\u0718\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0634\u0627\u063a\u0628"
+            ],
+            "French": [
+                "perturbateur"
+            ],
+            "English": [
+                "rioter",
+                "seditious.",
+                "disturbing, troublesome"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1817,
+            "uri": "https://sedra.bethmardutho.org/api/root/1817.json"
+        },
+        "words": [
+            {
+                "id": 22853,
+                "uri": "https://sedra.bethmardutho.org/api/word/22853.json"
+            },
+            {
+                "id": 20359,
+                "uri": "https://sedra.bethmardutho.org/api/word/20359.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

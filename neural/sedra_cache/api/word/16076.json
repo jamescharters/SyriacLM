@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0725\u072c\u071d\u0729\u072c\u0710",
+        "western": "\u0725\u0730\u072c\u0741\u073a\u071d\u0729\u072c\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2435,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2435.json"
+        },
+        "stem": "\u0725\u072c\u071d\u0729\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062a\u064a\u0642, \u0642\u062f\u064a\u0645, \u0634\u064a\u062e",
+                "\u062e\u0645\u0631 \u0639\u062a\u064a\u0642\u0629"
+            ],
+            "eng": [
+                "ancient",
+                "old",
+                "old, ancient, aged."
+            ],
+            "fre": [
+                "vin vieux",
+                "vieux, ancien, vieillard"
+            ]
+        },
+        "word": {
+            "id": 16076,
+            "uri": "https://sedra.bethmardutho.org/api/word/16076.json"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u0721\u072c\u0710",
+        "western": "\u0725\u0730\u0721\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5241,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5241.json"
+        },
+        "stem": "\u0725\u0721\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645\u0629"
+            ],
+            "eng": [
+                "(paternal) aunt."
+            ],
+            "fre": [
+                "tante paternelle"
+            ]
+        },
+        "word": {
+            "id": 39042,
+            "uri": "https://sedra.bethmardutho.org/api/word/39042.json"
+        }
+    }
+]

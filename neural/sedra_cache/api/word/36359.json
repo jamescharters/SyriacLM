@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0729\u0722\u0718\u0712\u071d\u0722",
+        "western": "\u0729\u0736\u0722\u073d\u0718\u0712\u073a\u071d\u0722",
+        "number": "singular",
+        "lexeme": {
+            "id": 9789,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9789.json"
+        },
+        "stem": "\u0729\u0722\u0718\u0712\u071d\u0722",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u064a\u0631"
+            ],
+            "eng": [
+                "monastery."
+            ],
+            "fre": [
+                "monast\u00e8re"
+            ]
+        },
+        "word": {
+            "id": 36359,
+            "uri": "https://sedra.bethmardutho.org/api/word/36359.json"
+        }
+    }
+]

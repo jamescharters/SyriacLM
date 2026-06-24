@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 14703,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14703.json"
+        },
+        "syriac": "\u0712\u0720\u0717\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u062f\u0647\u0634",
+                "\u0623\u0630\u0639\u0631, \u0623\u0642\u0644\u0642",
+                "\u0639\u062c\u0644"
+            ],
+            "French": [
+                "stup\u00e9faire",
+                "effrayer, troubler",
+                "h\u00e2ter"
+            ],
+            "English": [
+                "IVp to hurry.",
+                "IVa to terrify, dismay",
+                "to hasten on (+ object)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2650,
+            "uri": "https://sedra.bethmardutho.org/api/root/2650.json"
+        },
+        "words": [
+            {
+                "id": 41266,
+                "uri": "https://sedra.bethmardutho.org/api/word/41266.json"
+            },
+            {
+                "id": 40672,
+                "uri": "https://sedra.bethmardutho.org/api/word/40672.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

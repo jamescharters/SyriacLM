@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072a\u071f\u0712\u0710",
+        "western": "\u072a\u0733\u071f\u0742\u0712\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3026,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3026.json"
+        },
+        "stem": "\u072a\u071f\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0627\u0631\u0633",
+                "\u0641\u0631\u0633\u0627\u0646"
+            ],
+            "eng": [
+                "rider, horseman.",
+                "fastening",
+                "band"
+            ],
+            "fre": [
+                "cavalier",
+                "cavaliers"
+            ]
+        },
+        "word": {
+            "id": 19726,
+            "uri": "https://sedra.bethmardutho.org/api/word/19726.json"
+        }
+    }
+]

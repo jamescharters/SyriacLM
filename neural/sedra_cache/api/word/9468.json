@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0718\u071d\u072a\u072c\u0710",
+        "western": "\u0718\u071d\u0733\u072a\u072c\u0741\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3500,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3500.json"
+        },
+        "stem": "\u071d\u072a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "heir",
+                "heir, inheritor."
+            ]
+        },
+        "word": {
+            "id": 9468,
+            "uri": "https://sedra.bethmardutho.org/api/word/9468.json"
+        }
+    }
+]

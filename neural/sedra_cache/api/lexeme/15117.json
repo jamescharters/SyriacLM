@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15117,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15117.json"
+        },
+        "syriac": "\u072b\u071d\u0713",
+        "glosses": {
+            "English": [
+                "IIa to wash",
+                "to sour",
+                "IIIa to wash, wash away",
+                "IIIp.",
+                "to purify"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3135,
+            "uri": "https://sedra.bethmardutho.org/api/root/3135.json"
+        },
+        "words": [
+            {
+                "id": 41090,
+                "uri": "https://sedra.bethmardutho.org/api/word/41090.json"
+            },
+            {
+                "id": 40881,
+                "uri": "https://sedra.bethmardutho.org/api/word/40881.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

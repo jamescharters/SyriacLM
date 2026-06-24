@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 883,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/883.json"
+        },
+        "syriac": "\u0719\u071f\u072a\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Zacharias"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 563,
+            "uri": "https://sedra.bethmardutho.org/api/root/563.json"
+        },
+        "words": [
+            {
+                "id": 5738,
+                "uri": "https://sedra.bethmardutho.org/api/word/5738.json"
+            },
+            {
+                "id": 5739,
+                "uri": "https://sedra.bethmardutho.org/api/word/5739.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

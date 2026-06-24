@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 3243,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3243.json"
+        },
+        "syriac": "\u0721\u072b\u0721\u0725\u0710",
+        "glosses": {
+            "English": [
+                "hearing",
+                "obedience",
+                "hearing, obedience."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1888,
+            "uri": "https://sedra.bethmardutho.org/api/root/1888.json"
+        },
+        "words": [
+            {
+                "id": 21376,
+                "uri": "https://sedra.bethmardutho.org/api/word/21376.json"
+            },
+            {
+                "id": 21375,
+                "uri": "https://sedra.bethmardutho.org/api/word/21375.json"
+            },
+            {
+                "id": 21374,
+                "uri": "https://sedra.bethmardutho.org/api/word/21374.json"
+            },
+            {
+                "id": 21378,
+                "uri": "https://sedra.bethmardutho.org/api/word/21378.json"
+            },
+            {
+                "id": 21377,
+                "uri": "https://sedra.bethmardutho.org/api/word/21377.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

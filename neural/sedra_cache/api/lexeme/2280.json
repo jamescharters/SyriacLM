@@ -1,0 +1,60 @@
+[
+    {
+        "lexeme": {
+            "id": 2280,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2280.json"
+        },
+        "syriac": "\u0725\u0729\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0631\u0628\u0629",
+                "\u0635\u0639\u0648\u0628\u0629, \u062e\u0637\u0631",
+                "\u063a\u0636\u0628"
+            ],
+            "French": [
+                "affliction",
+                "difficult\u00e9, danger",
+                "col\u00e8re"
+            ],
+            "English": [
+                "sorrow",
+                "distress",
+                "adversity, harm.",
+                "grief, distress"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1357,
+            "uri": "https://sedra.bethmardutho.org/api/root/1357.json"
+        },
+        "words": [
+            {
+                "id": 45966,
+                "uri": "https://sedra.bethmardutho.org/api/word/45966.json"
+            },
+            {
+                "id": 15182,
+                "uri": "https://sedra.bethmardutho.org/api/word/15182.json"
+            },
+            {
+                "id": 15185,
+                "uri": "https://sedra.bethmardutho.org/api/word/15185.json"
+            },
+            {
+                "id": 15184,
+                "uri": "https://sedra.bethmardutho.org/api/word/15184.json"
+            },
+            {
+                "id": 15183,
+                "uri": "https://sedra.bethmardutho.org/api/word/15183.json"
+            },
+            {
+                "id": 15186,
+                "uri": "https://sedra.bethmardutho.org/api/word/15186.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

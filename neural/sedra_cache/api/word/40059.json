@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0723\u071a\u072a",
+        "western": "\u0723\u0730\u071a\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15326,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15326.json"
+        },
+        "stem": "\u0723\u071a\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to be a beggar.",
+                "IIa to beg"
+            ]
+        },
+        "word": {
+            "id": 40059,
+            "uri": "https://sedra.bethmardutho.org/api/word/40059.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15707,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15707.json"
+        },
+        "syriac": "\u0723\u0713\u072a",
+        "glosses": {
+            "English": [
+                "Ia to confine, to shut in",
+                "to seclude",
+                "Ip, IIp to be held back.",
+                "to restrain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2789,
+            "uri": "https://sedra.bethmardutho.org/api/root/2789.json"
+        },
+        "words": [
+            {
+                "id": 41743,
+                "uri": "https://sedra.bethmardutho.org/api/word/41743.json"
+            },
+            {
+                "id": 41441,
+                "uri": "https://sedra.bethmardutho.org/api/word/41441.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

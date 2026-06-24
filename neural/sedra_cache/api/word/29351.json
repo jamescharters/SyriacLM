@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0715\u072b\u071a\u0729\u072c",
+        "western": "\u0715\u0741\u072b\u0736\u071a\u0729\u0730\u072c",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3169,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3169.json"
+        },
+        "stem": "\u072b\u071a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u062d\u0642",
+                "\u0645\u0631\u0646 (\u0645\u0636)",
+                "\u0623\u062a\u0639\u0628",
+                "\u062c\u0627\u0631 \u0639\u0644\u0649",
+                "\u0639\u0630\u0628 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to take trouble",
+                "Ip",
+                "break",
+                "IIa",
+                "to vex, to importune",
+                "harass",
+                "to wear oneself out",
+                "IIp.",
+                "Ia to shatter, to pound"
+            ],
+            "fre": [
+                "opprimer",
+                "broyer",
+                "tourmenter",
+                "exercer",
+                "fatiguer"
+            ]
+        },
+        "word": {
+            "id": 29351,
+            "uri": "https://sedra.bethmardutho.org/api/word/29351.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14693,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14693.json"
+        },
+        "syriac": "\u072b\u0718\u072b\u071b",
+        "glosses": {
+            "English": [
+                "IVa to cause to advance, grow",
+                "IVp to advance, make progress",
+                "to grow up."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2204,
+            "uri": "https://sedra.bethmardutho.org/api/root/2204.json"
+        },
+        "words": [
+            {
+                "id": 46888,
+                "uri": "https://sedra.bethmardutho.org/api/word/46888.json"
+            },
+            {
+                "id": 41147,
+                "uri": "https://sedra.bethmardutho.org/api/word/41147.json"
+            },
+            {
+                "id": 40905,
+                "uri": "https://sedra.bethmardutho.org/api/word/40905.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

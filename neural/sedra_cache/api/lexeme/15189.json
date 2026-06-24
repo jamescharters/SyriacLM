@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15189,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15189.json"
+        },
+        "syriac": "\u0720\u0720\u0720",
+        "glosses": {
+            "English": [
+                "IIa to speak foolishly",
+                "speak foolishly",
+                "IIp to be, become foolish, stupid",
+                "to act foolishly."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2254,
+            "uri": "https://sedra.bethmardutho.org/api/root/2254.json"
+        },
+        "words": [
+            {
+                "id": 11048,
+                "uri": "https://sedra.bethmardutho.org/api/word/11048.json"
+            },
+            {
+                "id": 40379,
+                "uri": "https://sedra.bethmardutho.org/api/word/40379.json"
+            },
+            {
+                "id": 40234,
+                "uri": "https://sedra.bethmardutho.org/api/word/40234.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

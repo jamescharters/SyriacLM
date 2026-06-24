@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 1411,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1411.json"
+        },
+        "syriac": "\u0728\u0726\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0635\u064a\u0631\u0629",
+                "\u00a0",
+                "\u00a0"
+            ],
+            "French": [
+                "natte",
+                "soin\u2026",
+                "ornament\u2026"
+            ],
+            "English": [
+                "care",
+                "anxiety"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 841,
+            "uri": "https://sedra.bethmardutho.org/api/root/841.json"
+        },
+        "words": [
+            {
+                "id": 9339,
+                "uri": "https://sedra.bethmardutho.org/api/word/9339.json"
+            },
+            {
+                "id": 23688,
+                "uri": "https://sedra.bethmardutho.org/api/word/23688.json"
+            },
+            {
+                "id": 9342,
+                "uri": "https://sedra.bethmardutho.org/api/word/9342.json"
+            },
+            {
+                "id": 9341,
+                "uri": "https://sedra.bethmardutho.org/api/word/9341.json"
+            },
+            {
+                "id": 9340,
+                "uri": "https://sedra.bethmardutho.org/api/word/9340.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

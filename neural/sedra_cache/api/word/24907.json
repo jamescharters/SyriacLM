@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0718\u0721\u072c\u071a\u0723\u0715\u071d\u0722",
+        "western": "\u0718\u0721\u0736\u072c\u0742\u071a\u0730\u0723\u0715\u0742\u073a\u071d\u0722",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1100,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1100.json"
+        },
+        "stem": "\u071a\u0723\u0715",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "revile",
+                "upbraid",
+                "reproach"
+            ]
+        },
+        "word": {
+            "id": 24907,
+            "uri": "https://sedra.bethmardutho.org/api/word/24907.json"
+        }
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2558,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2558.json"
+        },
+        "syriac": "\u0726\u0725\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u063a\u0627\u0631\u0629"
+            ],
+            "French": [
+                "caverne"
+            ],
+            "English": [
+                "cavern",
+                "hole",
+                "cave",
+                "cleft, gap."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1516,
+            "uri": "https://sedra.bethmardutho.org/api/root/1516.json"
+        },
+        "words": [
+            {
+                "id": 26106,
+                "uri": "https://sedra.bethmardutho.org/api/word/26106.json"
+            },
+            {
+                "id": 16674,
+                "uri": "https://sedra.bethmardutho.org/api/word/16674.json"
+            },
+            {
+                "id": 16673,
+                "uri": "https://sedra.bethmardutho.org/api/word/16673.json"
+            },
+            {
+                "id": 16672,
+                "uri": "https://sedra.bethmardutho.org/api/word/16672.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

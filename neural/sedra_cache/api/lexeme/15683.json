@@ -1,0 +1,68 @@
+[
+    {
+        "lexeme": {
+            "id": 15683,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15683.json"
+        },
+        "syriac": "\u0715\u0712\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u063a\u0637"
+            ],
+            "French": [
+                "presser"
+            ],
+            "English": [
+                "IIIa to make to adhere, to join together.",
+                "remain with",
+                "adhere",
+                "to bind (a book)",
+                "IIa to join, fasten together",
+                "Ip to be joined to",
+                "IIp",
+                "to glue",
+                "& <span class=\"selectableFont\">\u0715\u0712\u0736\u0729</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0715\u0712\u0730\u0729</span>, imp. <span class=\"selectableFont\">\u0715\u0712\u073d\u0718\u0729</span>, Ia to adhere, keep close to"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2228,
+            "uri": "https://sedra.bethmardutho.org/api/root/2228.json"
+        },
+        "words": [
+            {
+                "id": 4044,
+                "uri": "https://sedra.bethmardutho.org/api/word/4044.json"
+            },
+            {
+                "id": 4047,
+                "uri": "https://sedra.bethmardutho.org/api/word/4047.json"
+            },
+            {
+                "id": 4048,
+                "uri": "https://sedra.bethmardutho.org/api/word/4048.json"
+            },
+            {
+                "id": 4045,
+                "uri": "https://sedra.bethmardutho.org/api/word/4045.json"
+            },
+            {
+                "id": 4046,
+                "uri": "https://sedra.bethmardutho.org/api/word/4046.json"
+            },
+            {
+                "id": 41618,
+                "uri": "https://sedra.bethmardutho.org/api/word/41618.json"
+            },
+            {
+                "id": 41043,
+                "uri": "https://sedra.bethmardutho.org/api/word/41043.json"
+            },
+            {
+                "id": 42199,
+                "uri": "https://sedra.bethmardutho.org/api/word/42199.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

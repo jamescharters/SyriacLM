@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1032,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1032.json"
+        },
+        "syriac": "\u071a\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0644"
+            ],
+            "French": [
+                "vinaigre"
+            ],
+            "English": [
+                "vinegar",
+                "vinegar."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 624,
+            "uri": "https://sedra.bethmardutho.org/api/root/624.json"
+        },
+        "words": [
+            {
+                "id": 7050,
+                "uri": "https://sedra.bethmardutho.org/api/word/7050.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

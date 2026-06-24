@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0725\u0718\u0720\u0718\u072c\u0710",
+        "western": "\u0725\u0730\u0718\u0733\u0720\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2274,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2274.json"
+        },
+        "stem": "\u0725\u0718\u0720\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0641\u0627\u0647\u0629",
+                "\u0643\u0641\u0631"
+            ],
+            "eng": [
+                "iniquity",
+                "wickedness.",
+                "depravity",
+                "unrighteousness"
+            ],
+            "fre": [
+                "impi\u00e9t\u00e9",
+                "insolence"
+            ]
+        },
+        "word": {
+            "id": 15160,
+            "uri": "https://sedra.bethmardutho.org/api/word/15160.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0723\u0726\u0723\u071b",
+        "western": "\u0723\u0730\u0726\u0723\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14847,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14847.json"
+        },
+        "stem": "\u0723\u0726\u0723\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0627\u0648\u0644 \u0623\u0646 \u064a\u0628\u064a\u0646"
+            ],
+            "eng": [
+                "IVa to treat in a sophistic manner."
+            ],
+            "fre": [
+                "chercher \u00e0 d\u00e9montrer"
+            ]
+        },
+        "word": {
+            "id": 40362,
+            "uri": "https://sedra.bethmardutho.org/api/word/40362.json"
+        }
+    }
+]

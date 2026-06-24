@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u072b\u071f\u0710",
+        "western": "\u0721\u0736\u072b\u071f\u0741\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1875,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1875.json"
+        },
+        "stem": "\u0721\u072b\u071f\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0644\u062f"
+            ],
+            "eng": [
+                "skin, hide, rind",
+                "leather",
+                "skin",
+                "leather.",
+                "hide"
+            ],
+            "fre": [
+                "peau, cuir"
+            ]
+        },
+        "word": {
+            "id": 12345,
+            "uri": "https://sedra.bethmardutho.org/api/word/12345.json"
+        }
+    }
+]

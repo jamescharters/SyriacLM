@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0726\u0718\u071b\u0721\u0710",
+        "western": "\u0726\u073d\u0718\u071b\u0733\u0721\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7389,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7389.json"
+        },
+        "stem": "\u0726\u0718\u071b\u0721\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0633\u0645\u064a\u0646",
+                "\u0636\u062e\u0627\u0645\u0629, \u062a\u0633\u0645\u0646"
+            ],
+            "eng": [
+                "fattening."
+            ],
+            "fre": [
+                "engraissement",
+                "grosseur, graisse"
+            ]
+        },
+        "word": {
+            "id": 31079,
+            "uri": "https://sedra.bethmardutho.org/api/word/31079.json"
+        }
+    }
+]

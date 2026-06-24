@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 2729,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2729.json"
+        },
+        "syriac": "\u0729\u0718\u0712\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0642\u062d\u0648\u0627\u0646"
+            ],
+            "French": [
+                "camomille"
+            ],
+            "English": [
+                "far away",
+                "camomile.",
+                "visage, aspect"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1615,
+            "uri": "https://sedra.bethmardutho.org/api/root/1615.json"
+        },
+        "words": [
+            {
+                "id": 17678,
+                "uri": "https://sedra.bethmardutho.org/api/word/17678.json"
+            },
+            {
+                "id": 29615,
+                "uri": "https://sedra.bethmardutho.org/api/word/29615.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

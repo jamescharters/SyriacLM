@@ -1,0 +1,104 @@
+[
+    {
+        "lexeme": {
+            "id": 1168,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1168.json"
+        },
+        "syriac": "\u071a\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0633",
+                "\u0623\u0644\u0645",
+                "\u0627\u0644\u0622\u0644\u0627\u0645",
+                "\u062d\u0632\u0646",
+                "\u0647\u064a\u062c\u0627\u0646 \u0627\u0644\u0646\u0641\u0633",
+                "\u0631\u063a\u0628\u0629",
+                "\u0645\u064a\u0644, \u0647\u0648\u0649",
+                "\u063a\u064a\u0631\u0629"
+            ],
+            "French": [
+                "sentiment",
+                "souffrance",
+                "la Passion",
+                "tristesse",
+                "trouble , mouvement de l&#39;\u00e2me",
+                "d\u00e9sir",
+                "affection , passion",
+                "z\u00e8le"
+            ],
+            "English": [
+                "feeling",
+                "suffering",
+                "experience",
+                "affection",
+                "passion",
+                "lust",
+                "sorrow, sadness",
+                "passion, affection",
+                "the Passion.",
+                "suffering, pain"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 692,
+            "uri": "https://sedra.bethmardutho.org/api/root/692.json"
+        },
+        "words": [
+            {
+                "id": 7684,
+                "uri": "https://sedra.bethmardutho.org/api/word/7684.json"
+            },
+            {
+                "id": 7679,
+                "uri": "https://sedra.bethmardutho.org/api/word/7679.json"
+            },
+            {
+                "id": 7677,
+                "uri": "https://sedra.bethmardutho.org/api/word/7677.json"
+            },
+            {
+                "id": 7674,
+                "uri": "https://sedra.bethmardutho.org/api/word/7674.json"
+            },
+            {
+                "id": 23981,
+                "uri": "https://sedra.bethmardutho.org/api/word/23981.json"
+            },
+            {
+                "id": 7681,
+                "uri": "https://sedra.bethmardutho.org/api/word/7681.json"
+            },
+            {
+                "id": 7680,
+                "uri": "https://sedra.bethmardutho.org/api/word/7680.json"
+            },
+            {
+                "id": 7685,
+                "uri": "https://sedra.bethmardutho.org/api/word/7685.json"
+            },
+            {
+                "id": 7678,
+                "uri": "https://sedra.bethmardutho.org/api/word/7678.json"
+            },
+            {
+                "id": 7676,
+                "uri": "https://sedra.bethmardutho.org/api/word/7676.json"
+            },
+            {
+                "id": 7675,
+                "uri": "https://sedra.bethmardutho.org/api/word/7675.json"
+            },
+            {
+                "id": 7683,
+                "uri": "https://sedra.bethmardutho.org/api/word/7683.json"
+            },
+            {
+                "id": 7682,
+                "uri": "https://sedra.bethmardutho.org/api/word/7682.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

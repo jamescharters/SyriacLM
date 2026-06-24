@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 744,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/744.json"
+        },
+        "syriac": "\u0715\u0729\u0715\u0729\u0710",
+        "glosses": {
+            "English": [
+                "insignificant",
+                "small",
+                "trifling",
+                "minute",
+                "<span class=\"selectableFont\">\u0715\u0730\u0729\u0715\u0308\u0729\u0736\u0710</span> common people."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 469,
+            "uri": "https://sedra.bethmardutho.org/api/root/469.json"
+        },
+        "words": [
+            {
+                "id": 4812,
+                "uri": "https://sedra.bethmardutho.org/api/word/4812.json"
+            },
+            {
+                "id": 4811,
+                "uri": "https://sedra.bethmardutho.org/api/word/4811.json"
+            },
+            {
+                "id": 4682,
+                "uri": "https://sedra.bethmardutho.org/api/word/4682.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "palpel"
+    }
+]

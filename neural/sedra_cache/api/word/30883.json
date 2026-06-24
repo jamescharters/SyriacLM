@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u071d\u0715\u0710",
+        "western": "\u0723\u0730\u071d\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8427,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8427.json"
+        },
+        "stem": "\u0723\u071d\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0644\u0633"
+            ],
+            "eng": [
+                "plaster.",
+                "lime"
+            ],
+            "fre": [
+                "chaux"
+            ]
+        },
+        "word": {
+            "id": 30883,
+            "uri": "https://sedra.bethmardutho.org/api/word/30883.json"
+        }
+    }
+]

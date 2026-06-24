@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15424,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15424.json"
+        },
+        "syriac": "\u0721\u072a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0638\u0641 (\u0645\u0636), \u062c\u0644\u0627",
+                ""
+            ],
+            "French": [
+                "nettoyer, polir",
+                ""
+            ],
+            "English": [
+                "Ip, IIp, IIIp.",
+                "Ia to scour, polish, cleanse"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2793,
+            "uri": "https://sedra.bethmardutho.org/api/root/2793.json"
+        },
+        "words": [
+            {
+                "id": 41710,
+                "uri": "https://sedra.bethmardutho.org/api/word/41710.json"
+            },
+            {
+                "id": 40963,
+                "uri": "https://sedra.bethmardutho.org/api/word/40963.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

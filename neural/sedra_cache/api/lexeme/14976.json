@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 14976,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14976.json"
+        },
+        "syriac": "\u0726\u0713\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0646\u0639"
+            ],
+            "French": [
+                "emp\u00eacher"
+            ],
+            "English": [
+                "IIp.",
+                "IIa to hinder"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2671,
+            "uri": "https://sedra.bethmardutho.org/api/root/2671.json"
+        },
+        "words": [
+            {
+                "id": 40113,
+                "uri": "https://sedra.bethmardutho.org/api/word/40113.json"
+            },
+            {
+                "id": 40020,
+                "uri": "https://sedra.bethmardutho.org/api/word/40020.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

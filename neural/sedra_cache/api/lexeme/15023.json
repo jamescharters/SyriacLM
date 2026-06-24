@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15023,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15023.json"
+        },
+        "syriac": "\u0719\u071d\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u064a\u0641",
+                "\u0643\u0630\u0628 (\u0645\u0636)"
+            ],
+            "French": [
+                "falsifier",
+                "accuser de mensonge"
+            ],
+            "English": [
+                "Ip.",
+                "IIa to falsify"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2610,
+            "uri": "https://sedra.bethmardutho.org/api/root/2610.json"
+        },
+        "words": [
+            {
+                "id": 40837,
+                "uri": "https://sedra.bethmardutho.org/api/word/40837.json"
+            },
+            {
+                "id": 40632,
+                "uri": "https://sedra.bethmardutho.org/api/word/40632.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

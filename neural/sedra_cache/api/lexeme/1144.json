@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1144,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1144.json"
+        },
+        "syriac": "\u071a\u072a\u0718\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0641\u0631",
+                "\u0641\u0627\u0631\u063a",
+                "\u0645\u0639\u0641\u0646 (\u0645\u0636)"
+            ],
+            "French": [
+                "d\u00e9sert",
+                "vide",
+                "pourri"
+            ],
+            "English": [
+                "husk",
+                "carob",
+                "carob tree",
+                "<span class=\"selectableFont\">\u071a\u0730\u072a\u0308\u073d\u0718\u0712\u0736\u0710</span> wild grapes."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 683,
+            "uri": "https://sedra.bethmardutho.org/api/root/683.json"
+        },
+        "words": [
+            {
+                "id": 7540,
+                "uri": "https://sedra.bethmardutho.org/api/word/7540.json"
+            },
+            {
+                "id": 7265,
+                "uri": "https://sedra.bethmardutho.org/api/word/7265.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

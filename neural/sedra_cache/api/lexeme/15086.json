@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15086,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15086.json"
+        },
+        "syriac": "\u0726\u072b\u071f",
+        "glosses": {
+            "English": [
+                "IIp to hesitate, to be in doubt.",
+                "IIa to cause to doubt"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3166,
+            "uri": "https://sedra.bethmardutho.org/api/root/3166.json"
+        },
+        "words": [
+            {
+                "id": 41192,
+                "uri": "https://sedra.bethmardutho.org/api/word/41192.json"
+            },
+            {
+                "id": 41130,
+                "uri": "https://sedra.bethmardutho.org/api/word/41130.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

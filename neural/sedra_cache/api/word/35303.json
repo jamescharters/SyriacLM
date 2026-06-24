@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u0725\u0712\u072a\u0722\u0710",
+        "western": "\u0721\u0730\u0725\u0712\u072a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14419,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14419.json"
+        },
+        "stem": "\u0721\u0725\u0712\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0639\u0628\u0631",
+                "\u0645\u062a\u0631\u062c\u0645",
+                "\u0645\u0639\u0628\u0631"
+            ],
+            "eng": [
+                "Kth. translator.",
+                "one who causes to pass over",
+                "passage, duct"
+            ],
+            "fre": [
+                "passeur",
+                "interpr\u00e8te",
+                "passage"
+            ]
+        },
+        "word": {
+            "id": 35303,
+            "uri": "https://sedra.bethmardutho.org/api/word/35303.json"
+        }
+    }
+]

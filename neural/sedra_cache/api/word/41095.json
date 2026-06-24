@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0723\u0722\u0713\u072a",
+        "western": "\u0723\u0722\u0713\u072a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15014,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15014.json"
+        },
+        "stem": "\u0723\u0722\u0713\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to ask for intercession.",
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u0723\u072c\u0730\u0722\u0713\u0730\u072a</span> to be interceded for"
+            ]
+        },
+        "word": {
+            "id": 41095,
+            "uri": "https://sedra.bethmardutho.org/api/word/41095.json"
+        }
+    }
+]

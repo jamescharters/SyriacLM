@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14874,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14874.json"
+        },
+        "syriac": "\u0712\u0720\u0712\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0644\u0637, , \u0628\u0644\u0628\u0644",
+                "\u00a0"
+            ],
+            "French": [
+                "troubler, confondre",
+                "\u00a0"
+            ],
+            "English": [
+                "IVp.",
+                "IVa to confound, confuse"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2550,
+            "uri": "https://sedra.bethmardutho.org/api/root/2550.json"
+        },
+        "words": [
+            {
+                "id": 41361,
+                "uri": "https://sedra.bethmardutho.org/api/word/41361.json"
+            },
+            {
+                "id": 40423,
+                "uri": "https://sedra.bethmardutho.org/api/word/40423.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

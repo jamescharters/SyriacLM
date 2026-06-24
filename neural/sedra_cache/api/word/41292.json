@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0712\u071a\u0722",
+        "western": "\u0712\u071a\u0730\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15410,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15410.json"
+        },
+        "stem": "\u0712\u071a\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp.",
+                "Ia to test (metals), to try",
+                "IIa to examine"
+            ]
+        },
+        "word": {
+            "id": 41292,
+            "uri": "https://sedra.bethmardutho.org/api/word/41292.json"
+        }
+    }
+]

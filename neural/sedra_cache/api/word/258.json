@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0710",
+        "western": "\u0710\u0718\u0710",
+        "eastern": "\u0710\u0718\u0735\u0710",
+        "lexeme": {
+            "id": 40,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/40.json"
+        },
+        "stem": "\u0710\u0718\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to breed hybrids",
+                "IIa <span class=\"selectableFont\">\u0710\u0730\u0718\u073a\u071d</span> to harmonize, to reconcile",
+                "<span class=\"selectableFont\">\u0710\u0733\u0718\u0736\u0710</span>, <span class=\"selectableFont\">\u0710\u0733\u0718\u071d\u0733\u0710</span> in agreement, harmony",
+                "Ia to agree, consent",
+                "IIp.",
+                "be reconciled",
+                "agree",
+                "to make an alliance with"
+            ]
+        },
+        "word": {
+            "id": 258,
+            "uri": "https://sedra.bethmardutho.org/api/word/258.json"
+        }
+    }
+]

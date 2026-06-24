@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0725\u0726",
+        "western": "\u0723\u0730\u072a\u0725\u0736\u0726",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14698,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14698.json"
+        },
+        "stem": "\u0723\u072a\u0725\u0726",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0628\u062a",
+                "\u0635\u0631\u0641",
+                "\u0623\u0646\u0628\u062a"
+            ],
+            "eng": [
+                "to be derived.",
+                "IVa to branch out",
+                "Gram. to conjugate",
+                "Gram. to be conjugated",
+                "IVp to put forth branches",
+                "to subdivide"
+            ],
+            "fre": [
+                "faire germer",
+                "conjuguer",
+                "germer"
+            ]
+        },
+        "word": {
+            "id": 41562,
+            "uri": "https://sedra.bethmardutho.org/api/word/41562.json"
+        }
+    }
+]

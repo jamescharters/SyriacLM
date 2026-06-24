@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 150,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/150.json"
+        },
+        "syriac": "\u0710\u0720\u0726",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0631\u0641 \u0627\u0644\u0623\u0644\u0641"
+            ],
+            "French": [
+                "lettre \u00f4laf"
+            ],
+            "English": [
+                "Beginning",
+                "Olaph",
+                "the letter Olaph (glottal stop)",
+                "numerical value: 1."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 114,
+            "uri": "https://sedra.bethmardutho.org/api/root/114.json"
+        },
+        "words": [
+            {
+                "id": 980,
+                "uri": "https://sedra.bethmardutho.org/api/word/980.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

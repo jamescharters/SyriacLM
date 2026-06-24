@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 15682,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15682.json"
+        },
+        "syriac": "\u0719\u072a\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u062f\u062f, \u0634\u062a\u062a",
+                "\u0623\u0631\u062e\u0649",
+                "\u00a0"
+            ],
+            "French": [
+                "disperser, r\u00e9pandre",
+                "rel\u00e2cher",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa, IIIa to disperse.",
+                "Ip",
+                "Ia to scatter, sprinkle"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2781,
+            "uri": "https://sedra.bethmardutho.org/api/root/2781.json"
+        },
+        "words": [
+            {
+                "id": 41896,
+                "uri": "https://sedra.bethmardutho.org/api/word/41896.json"
+            },
+            {
+                "id": 40685,
+                "uri": "https://sedra.bethmardutho.org/api/word/40685.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 3202,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3202.json"
+        },
+        "syriac": "\u072b\u071f\u072a\u0710",
+        "glosses": {
+            "English": [
+                "drink",
+                "strong (alcoholic) drink.",
+                "sugar"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1867,
+            "uri": "https://sedra.bethmardutho.org/api/root/1867.json"
+        },
+        "words": [
+            {
+                "id": 21017,
+                "uri": "https://sedra.bethmardutho.org/api/word/21017.json"
+            },
+            {
+                "id": 21018,
+                "uri": "https://sedra.bethmardutho.org/api/word/21018.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

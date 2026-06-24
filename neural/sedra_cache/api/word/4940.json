@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u0717\u0715\u0721",
+        "western": "\u0717\u0730\u0715\u0741\u0733\u0721",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 778,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/778.json"
+        },
+        "stem": "\u0717\u0715\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0632\u0621",
+                "\u0639\u0636\u0648"
+            ],
+            "eng": [
+                "limb",
+                "member",
+                "piece",
+                "limb",
+                "spec. membrum virile",
+                "limb, member.",
+                "(met.) of the church",
+                "word",
+                "t. gramm. part of speech",
+                "member",
+                "form",
+                "fragment"
+            ],
+            "fre": [
+                "membre",
+                "morceau"
+            ],
+            "grc": [
+                "\u03ba\u1ff6\u03bb\u03bf\u03bd (of words)"
+            ]
+        },
+        "word": {
+            "id": 4940,
+            "uri": "https://sedra.bethmardutho.org/api/word/4940.json"
+        }
+    }
+]

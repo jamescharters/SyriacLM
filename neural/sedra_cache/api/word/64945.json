@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0721\u0718\u0719\u0722\u0710",
+        "western": "\u0721\u0718\u0719\u0730\u0722\u0736\u0710",
+        "lexeme": {
+            "id": 38590,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/38590.json"
+        },
+        "stem": "\u0721\u0718\u0719\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "pair of scales"
+            ],
+            "lat": [
+                "bilances",
+                "trutina"
+            ]
+        },
+        "word": {
+            "id": 64945,
+            "uri": "https://sedra.bethmardutho.org/api/word/64945.json"
+        }
+    }
+]

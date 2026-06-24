@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u072a\u071d\u072b\u0710",
+        "western": "\u0715\u072a\u073a\u071d\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14393,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14393.json"
+        },
+        "stem": "\u0715\u072a\u071d\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062a\u0639\u0644\u0645",
+                "\u0645\u0633\u062a\u0639\u0645\u0644"
+            ],
+            "eng": [
+                "trite, trodden, worn",
+                "learned."
+            ],
+            "fre": [
+                "instruit",
+                "usit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 32747,
+            "uri": "https://sedra.bethmardutho.org/api/word/32747.json"
+        }
+    }
+]

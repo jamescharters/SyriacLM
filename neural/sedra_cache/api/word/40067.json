@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072b\u071a\u0722\u0722",
+        "western": "\u072b\u071a\u0722\u0722",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14965,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14965.json"
+        },
+        "stem": "\u072b\u071a\u0722\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072b\u072c\u0730\u071a\u0722\u0730\u0722</span> to suffer from ulcers."
+            ]
+        },
+        "word": {
+            "id": 40067,
+            "uri": "https://sedra.bethmardutho.org/api/word/40067.json"
+        }
+    }
+]

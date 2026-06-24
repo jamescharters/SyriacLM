@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0725\u071b",
+        "western": "\u0722\u0725\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15397,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15397.json"
+        },
+        "stem": "\u0722\u0725\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0631\u0628"
+            ],
+            "eng": [
+                "Ia to strike, beat."
+            ],
+            "fre": [
+                "battre"
+            ]
+        },
+        "word": {
+            "id": 41497,
+            "uri": "https://sedra.bethmardutho.org/api/word/41497.json"
+        }
+    }
+]

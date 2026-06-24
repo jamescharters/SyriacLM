@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0728\u0720\u071a",
+        "western": "\u0728\u0720\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15880,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15880.json"
+        },
+        "stem": "\u0728\u0720\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIp.",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u0720\u0730\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0728\u0720\u073d\u0718\u071a</span>, Ia, IIa to split, cleave"
+            ]
+        },
+        "word": {
+            "id": 40513,
+            "uri": "https://sedra.bethmardutho.org/api/word/40513.json"
+        }
+    }
+]

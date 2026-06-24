@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 20240,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20240.json"
+        },
+        "syriac": "\u0710\u0710\u072a\u0713\u0718\u0723",
+        "glosses": {
+            "English": [
+                "idle"
+            ],
+            "Latin": [
+                "otiosus, iners"
+            ],
+            "Greek": [
+                "\u1f00\u03b5\u03c1\u03b3\u03cc\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03b5\u03c1\u03b3\u03cc\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 46614,
+                "uri": "https://sedra.bethmardutho.org/api/word/46614.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u0720\u071d\u0718\u072c\u0717",
+        "western": "\u0721\u0730\u0720\u071d\u073d\u0718\u072c\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1768,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1768.json"
+        },
+        "stem": "\u0721\u0720\u071d\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fullness",
+                "patch",
+                "fullness.",
+                "supplement"
+            ]
+        },
+        "word": {
+            "id": 11680,
+            "uri": "https://sedra.bethmardutho.org/api/word/11680.json"
+        }
+    }
+]

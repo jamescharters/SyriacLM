@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u071d\u071a\u071b\u0710",
+        "western": "\u071d\u0730\u071a\u071b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1367,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1367.json"
+        },
+        "stem": "\u071d\u071a\u071b\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0642\u0637"
+            ],
+            "eng": [
+                "still-born child.",
+                "abortion",
+                "untimely birth"
+            ],
+            "fre": [
+                "avorton"
+            ]
+        },
+        "word": {
+            "id": 9005,
+            "uri": "https://sedra.bethmardutho.org/api/word/9005.json"
+        }
+    }
+]

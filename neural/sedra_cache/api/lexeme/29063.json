@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 29063,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29063.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u072a\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f04\u03c3\u03b1\u03c1\u03bf\u03bd"
+            ],
+            "English": [
+                "hazelwort"
+            ],
+            "Latin": [
+                "Asarum europaeum"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f04\u03c3\u03b1\u03c1\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 42465,
+                "uri": "https://sedra.bethmardutho.org/api/word/42465.json"
+            },
+            {
+                "id": 55437,
+                "uri": "https://sedra.bethmardutho.org/api/word/55437.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "syriac": "\u0723\u072a\u071d\u0729\u0722",
+        "western": "\u0723\u072a\u073a\u071d\u0729\u0733\u0722",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2211,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2211.json"
+        },
+        "stem": "\u0723\u072a\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0647\u0628",
+                "\u0646\u062c\u062f (\u0645\u0636)",
+                "(\u0631\u062c\u0644) \u0634\u0642\u064a",
+                "\u00a0",
+                "\u0628\u0627\u0637\u0644",
+                "\u0645\u0632\u0642",
+                "\u0641\u0627\u0631\u063a"
+            ],
+            "eng": [
+                "to renounce the world",
+                "IIp to be emptied out, to be deprived",
+                "to become empty, bare",
+                "Ia to comb, to card",
+                "to render void",
+                "to strip bare",
+                "to divest oneself (of possessions)",
+                "to renounce",
+                "to torture with an iron comb",
+                "to despoil, to deprive",
+                "IIa to empty",
+                "make void",
+                "make empty",
+                "Ip to be tortured with an iron comb",
+                "to be made null.",
+                "to bereave"
+            ],
+            "fre": [
+                "spolier",
+                "\u00a0",
+                "carder",
+                "d\u00e9chirer",
+                "( homme ) de rien",
+                "vain",
+                "vide"
+            ]
+        },
+        "word": {
+            "id": 14601,
+            "uri": "https://sedra.bethmardutho.org/api/word/14601.json"
+        }
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0712\u0725\u072c",
+        "western": "\u0710\u0730\u072a\u0712\u0741\u0725\u0733\u072c\u0742",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 267,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/267.json"
+        },
+        "stem": "\u0710\u072a\u0712\u0725\u0710",
+        "category": "numeral",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0631\u0636",
+                "\u00a0",
+                "\u0623\u0631\u0628\u0636, \u0623\u0642\u0639\u062f"
+            ],
+            "eng": [
+                "four",
+                "four."
+            ],
+            "fre": [
+                "faire coucher",
+                "quatre\u2026",
+                "imposer"
+            ]
+        },
+        "word": {
+            "id": 1828,
+            "uri": "https://sedra.bethmardutho.org/api/word/1828.json"
+        }
+    }
+]

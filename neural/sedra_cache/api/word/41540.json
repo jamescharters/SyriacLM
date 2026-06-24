@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071a\u0718\u071a",
+        "western": "\u071a\u0718\u071a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15213,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15213.json"
+        },
+        "stem": "\u071a\u0718\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u071a\u0730\u0718\u0730\u071a</span> to be cheerful",
+                "to be ready, prompt."
+            ]
+        },
+        "word": {
+            "id": 41540,
+            "uri": "https://sedra.bethmardutho.org/api/word/41540.json"
+        }
+    }
+]

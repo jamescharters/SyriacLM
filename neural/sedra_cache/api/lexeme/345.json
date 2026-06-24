@@ -1,0 +1,93 @@
+[
+    {
+        "lexeme": {
+            "id": 345,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/345.json"
+        },
+        "syriac": "\u072b\u0718\u0712\u0717\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062c\u062f, \u0643\u0628\u0631\u064a\u0627\u0621, \u0641\u062e\u0641\u062e\u0629"
+            ],
+            "French": [
+                "gloire, orgueil, jactance"
+            ],
+            "English": [
+                "glorying",
+                "vainglory",
+                "vaunting",
+                "pride, boast",
+                "ostentation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 249,
+            "uri": "https://sedra.bethmardutho.org/api/root/249.json"
+        },
+        "words": [
+            {
+                "id": 2372,
+                "uri": "https://sedra.bethmardutho.org/api/word/2372.json"
+            },
+            {
+                "id": 2369,
+                "uri": "https://sedra.bethmardutho.org/api/word/2369.json"
+            },
+            {
+                "id": 2366,
+                "uri": "https://sedra.bethmardutho.org/api/word/2366.json"
+            },
+            {
+                "id": 2375,
+                "uri": "https://sedra.bethmardutho.org/api/word/2375.json"
+            },
+            {
+                "id": 22926,
+                "uri": "https://sedra.bethmardutho.org/api/word/22926.json"
+            },
+            {
+                "id": 2374,
+                "uri": "https://sedra.bethmardutho.org/api/word/2374.json"
+            },
+            {
+                "id": 2373,
+                "uri": "https://sedra.bethmardutho.org/api/word/2373.json"
+            },
+            {
+                "id": 2371,
+                "uri": "https://sedra.bethmardutho.org/api/word/2371.json"
+            },
+            {
+                "id": 2370,
+                "uri": "https://sedra.bethmardutho.org/api/word/2370.json"
+            },
+            {
+                "id": 2368,
+                "uri": "https://sedra.bethmardutho.org/api/word/2368.json"
+            },
+            {
+                "id": 2367,
+                "uri": "https://sedra.bethmardutho.org/api/word/2367.json"
+            },
+            {
+                "id": 2379,
+                "uri": "https://sedra.bethmardutho.org/api/word/2379.json"
+            },
+            {
+                "id": 2378,
+                "uri": "https://sedra.bethmardutho.org/api/word/2378.json"
+            },
+            {
+                "id": 2377,
+                "uri": "https://sedra.bethmardutho.org/api/word/2377.json"
+            },
+            {
+                "id": 2376,
+                "uri": "https://sedra.bethmardutho.org/api/word/2376.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "shaph\u02bfel"
+    }
+]

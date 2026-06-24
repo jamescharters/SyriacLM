@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u071a\u072b\u071f\u072c",
+        "western": "\u071a\u0736\u072b\u071f\u0741\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1179,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1179.json"
+        },
+        "stem": "\u071a\u072b\u071f",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0645\u0633\u0649",
+                "\u0638\u0644\u0645, \u062f\u062c\u0646"
+            ],
+            "eng": [
+                "IIIp.",
+                "grow dark",
+                "darken",
+                "be darkened",
+                "IIIa to darken",
+                "Ia to grow dark, become darkened",
+                "to do something at evening",
+                "IIa to darken",
+                "IIp to be obscured, darkened"
+            ],
+            "fre": [
+                "\u00eatre obscurci , s&#39;assombrir",
+                "\u00eatre au soir"
+            ]
+        },
+        "word": {
+            "id": 7786,
+            "uri": "https://sedra.bethmardutho.org/api/word/7786.json"
+        }
+    }
+]

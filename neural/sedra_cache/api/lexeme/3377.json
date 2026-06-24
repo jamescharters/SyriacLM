@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 3377,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3377.json"
+        },
+        "syriac": "\u072c\u0718\u0720\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0648\u062f\u0629",
+                "\u062f\u0648\u062f"
+            ],
+            "French": [
+                "ver",
+                "vers"
+            ],
+            "English": [
+                "worm",
+                "worm, grub",
+                "murex, scarlet."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1960,
+            "uri": "https://sedra.bethmardutho.org/api/root/1960.json"
+        },
+        "words": [
+            {
+                "id": 22429,
+                "uri": "https://sedra.bethmardutho.org/api/word/22429.json"
+            },
+            {
+                "id": 22427,
+                "uri": "https://sedra.bethmardutho.org/api/word/22427.json"
+            },
+            {
+                "id": 22430,
+                "uri": "https://sedra.bethmardutho.org/api/word/22430.json"
+            },
+            {
+                "id": 27654,
+                "uri": "https://sedra.bethmardutho.org/api/word/27654.json"
+            },
+            {
+                "id": 22428,
+                "uri": "https://sedra.bethmardutho.org/api/word/22428.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

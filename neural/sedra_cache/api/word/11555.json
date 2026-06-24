@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0721\u071f\u072a\u072c\u071f\u0718\u0722",
+        "western": "\u0721\u071f\u0742\u0730\u072a\u072c\u0741\u071f\u0742\u073d\u0718\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1763,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1763.json"
+        },
+        "stem": "\u0721\u071f\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0634\u062a\u0631\u0649",
+                "\u062e\u0637\u0628, \u062a\u0632\u0648\u062c (\u0631\u062c\u0644)",
+                "\u0632\u0648\u062c",
+                "",
+                "\u062e\u0627\u0637\u0628, \u0645\u062a\u0632\u0648\u062c"
+            ],
+            "eng": [
+                "espouse",
+                "Ip, IIp",
+                "Ia to betroth",
+                "be engaged",
+                "IIIa to give in marriage."
+            ],
+            "fre": [
+                "fianc\u00e9, mari\u00e9",
+                "se fiancer avec, \u00e9pouser (homme)",
+                "",
+                "acheter",
+                "fiancer, faire \u00e9pouser"
+            ]
+        },
+        "word": {
+            "id": 11555,
+            "uri": "https://sedra.bethmardutho.org/api/word/11555.json"
+        }
+    }
+]

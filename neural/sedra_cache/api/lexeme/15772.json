@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 15772,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15772.json"
+        },
+        "syriac": "\u0721\u072a",
+        "glosses": {
+            "English": [
+                "to sell.",
+                "Ip to be conveyed, transported",
+                "Ia to supply, transport, import corn, provisions",
+                "IIIa to sell corn."
+            ],
+            "Arabic": [
+                "\u0628\u0627\u0639",
+                "\u063a\u0630\u0649",
+                ""
+            ],
+            "French": [
+                "vendre",
+                "nourrir",
+                ""
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2142,
+            "uri": "https://sedra.bethmardutho.org/api/root/2142.json"
+        },
+        "words": [
+            {
+                "id": 41898,
+                "uri": "https://sedra.bethmardutho.org/api/word/41898.json"
+            },
+            {
+                "id": 41248,
+                "uri": "https://sedra.bethmardutho.org/api/word/41248.json"
+            },
+            {
+                "id": 40865,
+                "uri": "https://sedra.bethmardutho.org/api/word/40865.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u071d\u071a",
+        "western": "\u0722\u071d\u0733\u071a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1927,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1927.json"
+        },
+        "stem": "\u0722\u071d\u071a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "quiet",
+                "refreshment.",
+                "rest, calm, quiet",
+                "pleasure, satisfaction, enjoyment",
+                "calm",
+                "relief",
+                "rest",
+                "restful"
+            ]
+        },
+        "word": {
+            "id": 12638,
+            "uri": "https://sedra.bethmardutho.org/api/word/12638.json"
+        }
+    }
+]

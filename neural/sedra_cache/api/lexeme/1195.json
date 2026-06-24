@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 1195,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1195.json"
+        },
+        "syriac": "\u071b\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0628\u0631, \u0646\u0628\u0623",
+                "\u0642\u0635\u0629",
+                "\u0623\u0645\u0631",
+                "\u062e\u0628\u0631"
+            ],
+            "French": [
+                "bruit qui court, nouvelle",
+                "histoire",
+                "affaire",
+                "pr\u00e9dicat"
+            ],
+            "English": [
+                "fame",
+                "rumour",
+                "report",
+                "news, tidings, report, fame",
+                "rumor",
+                "Gram. attribute."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 703,
+            "uri": "https://sedra.bethmardutho.org/api/root/703.json"
+        },
+        "words": [
+            {
+                "id": 7862,
+                "uri": "https://sedra.bethmardutho.org/api/word/7862.json"
+            },
+            {
+                "id": 7863,
+                "uri": "https://sedra.bethmardutho.org/api/word/7863.json"
+            },
+            {
+                "id": 7865,
+                "uri": "https://sedra.bethmardutho.org/api/word/7865.json"
+            },
+            {
+                "id": 7864,
+                "uri": "https://sedra.bethmardutho.org/api/word/7864.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

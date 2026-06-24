@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2890,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2890.json"
+        },
+        "syriac": "\u0729\u072a\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0631\u0635",
+                "\u0637\u0631\u0641 \u0628\u0639\u064a\u0646\u0647"
+            ],
+            "French": [
+                "piquer",
+                "cligner de l&#39;\u0153il"
+            ],
+            "English": [
+                "Ia to prick, sting",
+                "sting",
+                "IIIa to accuse."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1714,
+            "uri": "https://sedra.bethmardutho.org/api/root/1714.json"
+        },
+        "words": [
+            {
+                "id": 18846,
+                "uri": "https://sedra.bethmardutho.org/api/word/18846.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

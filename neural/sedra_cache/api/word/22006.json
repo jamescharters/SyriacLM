@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0720\u0721\u072b\u072a\u071d\u0710",
+        "western": "\u0720\u0730\u0721\u072b\u0730\u072a\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3312,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3312.json"
+        },
+        "stem": "\u0721\u072b\u072a\u071d\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sick",
+                "paralytic",
+                "paralytic."
+            ]
+        },
+        "word": {
+            "id": 22006,
+            "uri": "https://sedra.bethmardutho.org/api/word/22006.json"
+        }
+    }
+]

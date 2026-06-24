@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 649,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/649.json"
+        },
+        "syriac": "\u0721\u0715\u0712\u072a\u0710",
+        "glosses": {
+            "English": [
+                "wilderness",
+                "desert",
+                "wilderness, desert."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 415,
+            "uri": "https://sedra.bethmardutho.org/api/root/415.json"
+        },
+        "words": [
+            {
+                "id": 4125,
+                "uri": "https://sedra.bethmardutho.org/api/word/4125.json"
+            },
+            {
+                "id": 4124,
+                "uri": "https://sedra.bethmardutho.org/api/word/4124.json"
+            },
+            {
+                "id": 4123,
+                "uri": "https://sedra.bethmardutho.org/api/word/4123.json"
+            },
+            {
+                "id": 4122,
+                "uri": "https://sedra.bethmardutho.org/api/word/4122.json"
+            },
+            {
+                "id": 4126,
+                "uri": "https://sedra.bethmardutho.org/api/word/4126.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

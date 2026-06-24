@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u072a\u0725",
+        "western": "\u0710\u0730\u072a\u0730\u0725",
+        "lexeme": {
+            "id": 301,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/301.json"
+        },
+        "stem": "\u0710\u072a\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to happen, befall",
+                "Ia to meet, encounter",
+                "meet",
+                "encounter",
+                "IIIa to intercept."
+            ]
+        },
+        "word": {
+            "id": 42755,
+            "uri": "https://sedra.bethmardutho.org/api/word/42755.json"
+        }
+    }
+]

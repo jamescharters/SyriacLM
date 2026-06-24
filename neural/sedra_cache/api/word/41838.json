@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0728\u0720\u071a",
+        "western": "\u0722\u0736\u0728\u0720\u0730\u071a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15891,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15891.json"
+        },
+        "stem": "\u0728\u0720\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u0720\u0730\u071a</span> & <span class=\"selectableFont\">\u0722\u0736\u0728\u0720\u073d\u0718\u071a</span>, Ia, IIp to be successful",
+                "to grant success.",
+                "IIIa to succeed, flourish, prosper"
+            ]
+        },
+        "word": {
+            "id": 41838,
+            "uri": "https://sedra.bethmardutho.org/api/word/41838.json"
+        }
+    }
+]

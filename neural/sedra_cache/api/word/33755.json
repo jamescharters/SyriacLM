@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0729\u071d\u072a\u0710",
+        "western": "\u0723\u0729\u073a\u071d\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14176,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14176.json"
+        },
+        "stem": "\u0723\u0729\u071d\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0642\u064a\u062a"
+            ],
+            "eng": [
+                "odious."
+            ],
+            "fre": [
+                "odieux"
+            ]
+        },
+        "word": {
+            "id": 33755,
+            "uri": "https://sedra.bethmardutho.org/api/word/33755.json"
+        }
+    }
+]

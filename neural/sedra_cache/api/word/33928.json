@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u0729\u0729\u0710",
+        "western": "\u0726\u0730\u0729\u0733\u0729\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11280,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11280.json"
+        },
+        "stem": "\u0726\u0729\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0631\u062b\u0627\u0631"
+            ],
+            "eng": [
+                "garrulous, talkative."
+            ],
+            "fre": [
+                "bavard"
+            ]
+        },
+        "word": {
+            "id": 33928,
+            "uri": "https://sedra.bethmardutho.org/api/word/33928.json"
+        }
+    }
+]

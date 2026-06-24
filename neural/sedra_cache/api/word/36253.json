@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u071f\u072c\u0710",
+        "western": "\u071a\u0736\u071f\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11618,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11618.json"
+        },
+        "stem": "\u071a\u071f\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0631\u0628"
+            ],
+            "eng": [
+                "scab."
+            ],
+            "fre": [
+                "gale"
+            ]
+        },
+        "word": {
+            "id": 36253,
+            "uri": "https://sedra.bethmardutho.org/api/word/36253.json"
+        }
+    }
+]

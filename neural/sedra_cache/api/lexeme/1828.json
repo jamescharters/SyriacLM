@@ -1,0 +1,74 @@
+[
+    {
+        "lexeme": {
+            "id": 1828,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1828.json"
+        },
+        "syriac": "\u0721\u0728\u0725\u072c\u0710",
+        "glosses": {
+            "English": [
+                "among, between.",
+                "interval",
+                "middle",
+                "midst",
+                "middle, centre, midst"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1095,
+            "uri": "https://sedra.bethmardutho.org/api/root/1095.json"
+        },
+        "words": [
+            {
+                "id": 12109,
+                "uri": "https://sedra.bethmardutho.org/api/word/12109.json"
+            },
+            {
+                "id": 12108,
+                "uri": "https://sedra.bethmardutho.org/api/word/12108.json"
+            },
+            {
+                "id": 12106,
+                "uri": "https://sedra.bethmardutho.org/api/word/12106.json"
+            },
+            {
+                "id": 12105,
+                "uri": "https://sedra.bethmardutho.org/api/word/12105.json"
+            },
+            {
+                "id": 12103,
+                "uri": "https://sedra.bethmardutho.org/api/word/12103.json"
+            },
+            {
+                "id": 12111,
+                "uri": "https://sedra.bethmardutho.org/api/word/12111.json"
+            },
+            {
+                "id": 12110,
+                "uri": "https://sedra.bethmardutho.org/api/word/12110.json"
+            },
+            {
+                "id": 12107,
+                "uri": "https://sedra.bethmardutho.org/api/word/12107.json"
+            },
+            {
+                "id": 12104,
+                "uri": "https://sedra.bethmardutho.org/api/word/12104.json"
+            },
+            {
+                "id": 12112,
+                "uri": "https://sedra.bethmardutho.org/api/word/12112.json"
+            },
+            {
+                "id": 12114,
+                "uri": "https://sedra.bethmardutho.org/api/word/12114.json"
+            },
+            {
+                "id": 12113,
+                "uri": "https://sedra.bethmardutho.org/api/word/12113.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

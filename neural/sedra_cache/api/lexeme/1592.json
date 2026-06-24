@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1592,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1592.json"
+        },
+        "syriac": "\u071f\u072a\u071f\u0710",
+        "glosses": {
+            "English": [
+                "volume",
+                "scroll",
+                "codex",
+                "eddy.",
+                "roll",
+                "scroll"
+            ],
+            "Arabic": [
+                "\u062f\u0631\u062c, \u0625\u0637\u0627\u0631",
+                "\u062f\u0627\u0631\u0629, \u0625\u0637\u0627\u0631"
+            ],
+            "French": [
+                "rouleau, volume",
+                "cercle"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 933,
+            "uri": "https://sedra.bethmardutho.org/api/root/933.json"
+        },
+        "words": [
+            {
+                "id": 22804,
+                "uri": "https://sedra.bethmardutho.org/api/word/22804.json"
+            },
+            {
+                "id": 10521,
+                "uri": "https://sedra.bethmardutho.org/api/word/10521.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

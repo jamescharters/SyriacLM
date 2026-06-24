@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 3280,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3280.json"
+        },
+        "syriac": "\u072b\u0722\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0648\u0645"
+            ],
+            "French": [
+                "sommeil"
+            ],
+            "English": [
+                "sleep.",
+                "sleep"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1911,
+            "uri": "https://sedra.bethmardutho.org/api/root/1911.json"
+        },
+        "words": [
+            {
+                "id": 21715,
+                "uri": "https://sedra.bethmardutho.org/api/word/21715.json"
+            },
+            {
+                "id": 21714,
+                "uri": "https://sedra.bethmardutho.org/api/word/21714.json"
+            },
+            {
+                "id": 28689,
+                "uri": "https://sedra.bethmardutho.org/api/word/28689.json"
+            },
+            {
+                "id": 21719,
+                "uri": "https://sedra.bethmardutho.org/api/word/21719.json"
+            },
+            {
+                "id": 21716,
+                "uri": "https://sedra.bethmardutho.org/api/word/21716.json"
+            },
+            {
+                "id": 21718,
+                "uri": "https://sedra.bethmardutho.org/api/word/21718.json"
+            },
+            {
+                "id": 21717,
+                "uri": "https://sedra.bethmardutho.org/api/word/21717.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

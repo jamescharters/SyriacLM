@@ -1,0 +1,81 @@
+[
+    {
+        "lexeme": {
+            "id": 15029,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15029.json"
+        },
+        "syriac": "\u0725\u0713\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u062d\u0631\u062c"
+            ],
+            "French": [
+                "rouler (tr.)"
+            ],
+            "English": [
+                "IIa to roll away.",
+                "roll"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2075,
+            "uri": "https://sedra.bethmardutho.org/api/root/2075.json"
+        },
+        "words": [
+            {
+                "id": 14955,
+                "uri": "https://sedra.bethmardutho.org/api/word/14955.json"
+            },
+            {
+                "id": 14956,
+                "uri": "https://sedra.bethmardutho.org/api/word/14956.json"
+            },
+            {
+                "id": 14957,
+                "uri": "https://sedra.bethmardutho.org/api/word/14957.json"
+            },
+            {
+                "id": 22831,
+                "uri": "https://sedra.bethmardutho.org/api/word/22831.json"
+            },
+            {
+                "id": 27244,
+                "uri": "https://sedra.bethmardutho.org/api/word/27244.json"
+            },
+            {
+                "id": 27245,
+                "uri": "https://sedra.bethmardutho.org/api/word/27245.json"
+            },
+            {
+                "id": 14952,
+                "uri": "https://sedra.bethmardutho.org/api/word/14952.json"
+            },
+            {
+                "id": 14953,
+                "uri": "https://sedra.bethmardutho.org/api/word/14953.json"
+            },
+            {
+                "id": 14954,
+                "uri": "https://sedra.bethmardutho.org/api/word/14954.json"
+            },
+            {
+                "id": 27242,
+                "uri": "https://sedra.bethmardutho.org/api/word/27242.json"
+            },
+            {
+                "id": 27243,
+                "uri": "https://sedra.bethmardutho.org/api/word/27243.json"
+            },
+            {
+                "id": 40607,
+                "uri": "https://sedra.bethmardutho.org/api/word/40607.json"
+            },
+            {
+                "id": 40399,
+                "uri": "https://sedra.bethmardutho.org/api/word/40399.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

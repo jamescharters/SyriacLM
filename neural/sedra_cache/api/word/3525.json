@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0713\u0718\u0715\u0726\u0717",
+        "western": "\u0713\u0741\u073d\u0718\u0715\u0741\u0733\u0726\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 520,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/520.json"
+        },
+        "stem": "\u0713\u0718\u0715\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u062a\u064a\u0645\u0629, \u0644\u0639\u0646\u0629"
+            ],
+            "eng": [
+                "blasphemy.",
+                "blasphemy"
+            ],
+            "fre": [
+                "insulte, mal\u00e9diction"
+            ]
+        },
+        "word": {
+            "id": 3525,
+            "uri": "https://sedra.bethmardutho.org/api/word/3525.json"
+        }
+    }
+]

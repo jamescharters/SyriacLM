@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 2908,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2908.json"
+        },
+        "syriac": "\u072a\u0712 \u0712\u071d\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0647\u0631\u0645\u0627\u0646"
+            ],
+            "French": [
+                "\u00e9conome"
+            ],
+            "English": [
+                "steward"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1722,
+            "uri": "https://sedra.bethmardutho.org/api/root/1722.json"
+        },
+        "words": [
+            {
+                "id": 2718,
+                "uri": "https://sedra.bethmardutho.org/api/word/2718.json"
+            },
+            {
+                "id": 2721,
+                "uri": "https://sedra.bethmardutho.org/api/word/2721.json"
+            },
+            {
+                "id": 2720,
+                "uri": "https://sedra.bethmardutho.org/api/word/2720.json"
+            },
+            {
+                "id": 2719,
+                "uri": "https://sedra.bethmardutho.org/api/word/2719.json"
+            },
+            {
+                "id": 18956,
+                "uri": "https://sedra.bethmardutho.org/api/word/18956.json"
+            }
+        ],
+        "category": "idiom",
+        "kaylo": "p\u02bfal"
+    }
+]

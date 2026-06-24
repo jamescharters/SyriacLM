@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15115,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15115.json"
+        },
+        "syriac": "\u0729\u071d\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0645\u0644 \u0645\u0646 \u062e\u0634\u0628",
+                "\u0628\u0646\u0649"
+            ],
+            "French": [
+                "faire en bois",
+                "construire"
+            ],
+            "English": [
+                "IIp to stiffen, become rigid",
+                "to be convulsed.",
+                "to shatter",
+                "to convulse",
+                "IIa to make from wood",
+                "to cover with boards"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2274,
+            "uri": "https://sedra.bethmardutho.org/api/root/2274.json"
+        },
+        "words": [
+            {
+                "id": 40306,
+                "uri": "https://sedra.bethmardutho.org/api/word/40306.json"
+            },
+            {
+                "id": 40281,
+                "uri": "https://sedra.bethmardutho.org/api/word/40281.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 378,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/378.json"
+        },
+        "syriac": "\u0721\u0712\u071d\u0710\u0722\u0710",
+        "glosses": {
+            "English": [
+                "comforter",
+                "consoler",
+                "exhorter",
+                "consolatory.",
+                "comforter, consoler"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 262,
+            "uri": "https://sedra.bethmardutho.org/api/root/262.json"
+        },
+        "words": [
+            {
+                "id": 2624,
+                "uri": "https://sedra.bethmardutho.org/api/word/2624.json"
+            },
+            {
+                "id": 2625,
+                "uri": "https://sedra.bethmardutho.org/api/word/2625.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

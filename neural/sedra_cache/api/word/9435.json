@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0718\u0710\u0718\u072a\u0712",
+        "western": "\u0718\u0730\u0710\u0718\u072a\u0736\u0712\u0742",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "first",
+        "gender": "common",
+        "lexeme": {
+            "id": 1422,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1422.json"
+        },
+        "stem": "\u071d\u072a\u0712",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be great",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u072a\u0736\u0712</span> to magnify, extol",
+                "to enlarge.",
+                "Ia to be, become great",
+                "to increase",
+                "be superior",
+                "magnify",
+                "make great",
+                "to grow up"
+            ]
+        },
+        "word": {
+            "id": 9435,
+            "uri": "https://sedra.bethmardutho.org/api/word/9435.json"
+        }
+    }
+]

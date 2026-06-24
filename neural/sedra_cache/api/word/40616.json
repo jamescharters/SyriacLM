@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u071b\u0713\u0722",
+        "western": "\u071b\u0730\u0713\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15138,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15138.json"
+        },
+        "stem": "\u071b\u0713\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0642\u0644\u0649",
+                "\u0639\u0630\u0628 (\u0645\u0636)"
+            ],
+            "eng": [
+                "IIp.",
+                "to torment",
+                "IIa to roast"
+            ],
+            "fre": [
+                "\u00a0",
+                "tourmenter",
+                "frire"
+            ]
+        },
+        "word": {
+            "id": 40616,
+            "uri": "https://sedra.bethmardutho.org/api/word/40616.json"
+        }
+    }
+]

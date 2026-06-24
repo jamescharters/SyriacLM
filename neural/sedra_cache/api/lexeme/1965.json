@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 1965,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1965.json"
+        },
+        "syriac": "\u0722\u071f\u071d\u0720\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0634"
+            ],
+            "French": [
+                "tromperie"
+            ],
+            "English": [
+                "deception",
+                "craftiness",
+                "deceit",
+                "cunning, deception."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1176,
+            "uri": "https://sedra.bethmardutho.org/api/root/1176.json"
+        },
+        "words": [
+            {
+                "id": 29674,
+                "uri": "https://sedra.bethmardutho.org/api/word/29674.json"
+            },
+            {
+                "id": 12862,
+                "uri": "https://sedra.bethmardutho.org/api/word/12862.json"
+            },
+            {
+                "id": 12861,
+                "uri": "https://sedra.bethmardutho.org/api/word/12861.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0712\u0725\u0713\u0720",
+        "western": "\u0712\u0741\u0730\u0725\u0713\u0742\u0730\u0720",
+        "lexeme": {
+            "id": 2238,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2238.json"
+        },
+        "stem": "\u0725\u0713\u0720",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0639\u062c\u0644",
+                "\u062d\u0627\u0644\u0627\u064b",
+                "\u0628\u0633\u0647\u0648\u0644\u0629"
+            ],
+            "eng": [
+                "quickly"
+            ],
+            "fre": [
+                "vite",
+                "facilement",
+                "aussit\u00f4t"
+            ]
+        },
+        "word": {
+            "id": 14958,
+            "uri": "https://sedra.bethmardutho.org/api/word/14958.json"
+        }
+    }
+]

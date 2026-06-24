@@ -1,0 +1,27 @@
+[
+    {
+        "lexeme": {
+            "id": 1500,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1500.json"
+        },
+        "syriac": "\u071f\u0718\u072b",
+        "glosses": {
+            "English": [
+                "Ethiopia",
+                "Cush"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 887,
+            "uri": "https://sedra.bethmardutho.org/api/root/887.json"
+        },
+        "words": [
+            {
+                "id": 9874,
+                "uri": "https://sedra.bethmardutho.org/api/word/9874.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

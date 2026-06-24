@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 1603,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1603.json"
+        },
+        "syriac": "\u071f\u072c\u0712\u072c\u0710",
+        "glosses": {
+            "English": [
+                "handwriting",
+                "handwriting."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 938,
+            "uri": "https://sedra.bethmardutho.org/api/root/938.json"
+        },
+        "words": [
+            {
+                "id": 10652,
+                "uri": "https://sedra.bethmardutho.org/api/word/10652.json"
+            },
+            {
+                "id": 10654,
+                "uri": "https://sedra.bethmardutho.org/api/word/10654.json"
+            },
+            {
+                "id": 10653,
+                "uri": "https://sedra.bethmardutho.org/api/word/10653.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

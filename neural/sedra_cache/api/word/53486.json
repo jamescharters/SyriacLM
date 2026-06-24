@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0723\u071b\u0710\u071d\u0729\u0710",
+        "western": "\u0710\u0718\u0723\u0308\u071b\u0710\u071d\u0729\u0710",
+        "lexeme": {
+            "id": 27112,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/27112.json"
+        },
+        "stem": "\u0710\u0718\u0723\u071b\u0710\u071d\u0729\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "\u03bff or belonging to the Stoic philosophy or to the Stoics, Stoic"
+            ],
+            "grc": [
+                "\u03a3\u03c4\u03c9\u03b9\u03ba\u03bf\u03af (pl. of \u03a3\u03c4\u03c9\u03b9\u03ba\u03cc\u03c2)"
+            ],
+            "lat": [
+                "Stoici"
+            ]
+        },
+        "word": {
+            "id": 53486,
+            "uri": "https://sedra.bethmardutho.org/api/word/53486.json"
+        }
+    }
+]

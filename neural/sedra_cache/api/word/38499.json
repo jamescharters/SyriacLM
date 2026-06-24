@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0720\u0726\u0718\u072c",
+        "western": "\u0720\u0726\u073d\u0718\u072c",
+        "number": "singular",
+        "lexeme": {
+            "id": 13895,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13895.json"
+        },
+        "stem": "\u0720\u0726\u0718\u072c",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0633\u0628"
+            ],
+            "eng": [
+                "-<span class=\"selectableFont\">\u0720\u0726\u073d\u0718\u072c \u0715</span> on account of.",
+                "according to, corresponding to"
+            ],
+            "fre": [
+                "selon"
+            ]
+        },
+        "word": {
+            "id": 38499,
+            "uri": "https://sedra.bethmardutho.org/api/word/38499.json"
+        }
+    }
+]

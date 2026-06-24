@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2197,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2197.json"
+        },
+        "syriac": "\u0723\u072a\u071d\u0713\u072c\u0710",
+        "glosses": {
+            "English": [
+                "mat, basket, network, lattice.",
+                "net",
+                "basket"
+            ],
+            "Arabic": [
+                "\u062d\u0635\u064a\u0631\u0629",
+                "\u0634\u0628\u0643\u0629",
+                "\u0633\u0644\u0629",
+                "\u0639\u0635\u0627\u0628\u0629"
+            ],
+            "French": [
+                "natte",
+                "rets",
+                "corbeille",
+                "bandeau"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1314,
+            "uri": "https://sedra.bethmardutho.org/api/root/1314.json"
+        },
+        "words": [
+            {
+                "id": 14574,
+                "uri": "https://sedra.bethmardutho.org/api/word/14574.json"
+            },
+            {
+                "id": 14575,
+                "uri": "https://sedra.bethmardutho.org/api/word/14575.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2212,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2212.json"
+        },
+        "syriac": "\u0723\u072a\u0729\u0718\u0723\u0710",
+        "glosses": {
+            "English": [
+                "Syracuse"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1323,
+            "uri": "https://sedra.bethmardutho.org/api/root/1323.json"
+        },
+        "words": [
+            {
+                "id": 14615,
+                "uri": "https://sedra.bethmardutho.org/api/word/14615.json"
+            },
+            {
+                "id": 14616,
+                "uri": "https://sedra.bethmardutho.org/api/word/14616.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

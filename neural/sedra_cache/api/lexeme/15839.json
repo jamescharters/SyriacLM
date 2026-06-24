@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 15839,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15839.json"
+        },
+        "syriac": "\u0721\u071b\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u062d\u0633"
+            ],
+            "French": [
+                "l\u00e9cher"
+            ],
+            "English": [
+                "IIa to lick up. IIIa to swallow.",
+                "Ia to lick",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3160,
+            "uri": "https://sedra.bethmardutho.org/api/root/3160.json"
+        },
+        "words": [
+            {
+                "id": 41978,
+                "uri": "https://sedra.bethmardutho.org/api/word/41978.json"
+            },
+            {
+                "id": 39963,
+                "uri": "https://sedra.bethmardutho.org/api/word/39963.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

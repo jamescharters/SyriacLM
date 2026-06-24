@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0721\u0720\u071d\u0718\u072c\u0710",
+        "western": "\u0721\u0730\u0720\u071d\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1768,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1768.json"
+        },
+        "stem": "\u0721\u0720\u071d\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fullness",
+                "patch",
+                "fullness.",
+                "supplement"
+            ]
+        },
+        "word": {
+            "id": 11681,
+            "uri": "https://sedra.bethmardutho.org/api/word/11681.json"
+        }
+    }
+]

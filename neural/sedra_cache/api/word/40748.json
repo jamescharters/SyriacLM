@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0726\u072a\u0726\u072a",
+        "western": "\u0726\u0730\u072a\u0726\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14890,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14890.json"
+        },
+        "stem": "\u0726\u072a\u0726\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVp to writhe",
+                "to expire.",
+                "IVa to flutter, to quiver"
+            ]
+        },
+        "word": {
+            "id": 40748,
+            "uri": "https://sedra.bethmardutho.org/api/word/40748.json"
+        }
+    }
+]

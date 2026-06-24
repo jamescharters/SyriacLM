@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 3189,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3189.json"
+        },
+        "syriac": "\u072b\u071d\u072b\u0710",
+        "glosses": {
+            "English": [
+                "marble",
+                "marble.",
+                "marble",
+                "alabaster vase"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1858,
+            "uri": "https://sedra.bethmardutho.org/api/root/1858.json"
+        },
+        "words": [
+            {
+                "id": 20886,
+                "uri": "https://sedra.bethmardutho.org/api/word/20886.json"
+            },
+            {
+                "id": 20887,
+                "uri": "https://sedra.bethmardutho.org/api/word/20887.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

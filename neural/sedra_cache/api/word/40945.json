@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u072b\u0725\u072b\u0725",
+        "western": "\u072b\u0730\u0725\u072b\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14775,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14775.json"
+        },
+        "stem": "\u072b\u0725\u072b\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to plane, to make smooth."
+            ]
+        },
+        "word": {
+            "id": 40945,
+            "uri": "https://sedra.bethmardutho.org/api/word/40945.json"
+        }
+    }
+]

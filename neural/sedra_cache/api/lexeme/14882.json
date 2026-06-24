@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14882,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14882.json"
+        },
+        "syriac": "\u0717\u0718\u0722\u0722",
+        "glosses": {
+            "English": [
+                "to comprehend",
+                "to be mindful of.",
+                "IVa to act wisely",
+                "IVp to understand"
+            ],
+            "Arabic": [
+                "\u0639\u0645\u0644 \u0628\u062d\u0643\u0645\u0629"
+            ],
+            "French": [
+                "agir sagement"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2303,
+            "uri": "https://sedra.bethmardutho.org/api/root/2303.json"
+        },
+        "words": [
+            {
+                "id": 41041,
+                "uri": "https://sedra.bethmardutho.org/api/word/41041.json"
+            },
+            {
+                "id": 39855,
+                "uri": "https://sedra.bethmardutho.org/api/word/39855.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

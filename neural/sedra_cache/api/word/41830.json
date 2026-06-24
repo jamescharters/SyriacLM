@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0722\u0725\u0718\u072a",
+        "western": "\u0722\u0736\u0725\u073d\u0718\u072a",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15475,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15475.json"
+        },
+        "stem": "\u0722\u0725\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0632\u0623\u0631"
+            ],
+            "eng": [
+                "to creak",
+                "to roar.",
+                "Ia to bray, to growl"
+            ],
+            "fre": [
+                "rugire"
+            ]
+        },
+        "word": {
+            "id": 41830,
+            "uri": "https://sedra.bethmardutho.org/api/word/41830.json"
+        }
+    }
+]

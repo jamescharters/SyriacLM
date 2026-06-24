@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 23222,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/23222.json"
+        },
+        "syriac": "\u0710\u071d\u0729\u0717\u071b\u071d\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f31\u03ba\u03ad\u03c4\u03b7\u03c2"
+            ],
+            "English": [
+                "one who comes to seek aid or protection, suppliant"
+            ],
+            "Latin": [
+                "supplex"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f31\u03ba\u03ad\u03c4\u03b7\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55511,
+                "uri": "https://sedra.bethmardutho.org/api/word/55511.json"
+            },
+            {
+                "id": 49597,
+                "uri": "https://sedra.bethmardutho.org/api/word/49597.json"
+            }
+        ]
+    }
+]

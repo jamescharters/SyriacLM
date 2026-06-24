@@ -1,0 +1,76 @@
+[
+    {
+        "lexeme": {
+            "id": 1245,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1245.json"
+        },
+        "syriac": "\u071b\u0720\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0642\u0636, \u062a\u0644\u0627\u0634\u0649, \u0647\u0644\u0643",
+                "\u062a\u0645"
+            ],
+            "French": [
+                "manqu\u00e9, dispara\u00eetre, p\u00e9rir",
+                "\u00eatre accompli"
+            ],
+            "English": [
+                "IIa to use up, finish off",
+                "IIp to consume away, to fail, to be finished, consumed.",
+                "vanish",
+                "finished",
+                "disappear",
+                "Ip to vanish, disappear, to be dispersed",
+                "to perish",
+                "to fail, vanish away",
+                "to destroy, get rid of",
+                "to spend, waste",
+                "& <span class=\"selectableFont\">\u071b\u0720\u0730\u0729</span> fut. <span class=\"selectableFont\">\u0722\u0736\u071b\u0720\u0730\u0729</span>, Ia to be spent, used up"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 735,
+            "uri": "https://sedra.bethmardutho.org/api/root/735.json"
+        },
+        "words": [
+            {
+                "id": 25135,
+                "uri": "https://sedra.bethmardutho.org/api/word/25135.json"
+            },
+            {
+                "id": 25134,
+                "uri": "https://sedra.bethmardutho.org/api/word/25134.json"
+            },
+            {
+                "id": 8139,
+                "uri": "https://sedra.bethmardutho.org/api/word/8139.json"
+            },
+            {
+                "id": 8138,
+                "uri": "https://sedra.bethmardutho.org/api/word/8138.json"
+            },
+            {
+                "id": 25137,
+                "uri": "https://sedra.bethmardutho.org/api/word/25137.json"
+            },
+            {
+                "id": 25136,
+                "uri": "https://sedra.bethmardutho.org/api/word/25136.json"
+            },
+            {
+                "id": 8142,
+                "uri": "https://sedra.bethmardutho.org/api/word/8142.json"
+            },
+            {
+                "id": 8141,
+                "uri": "https://sedra.bethmardutho.org/api/word/8141.json"
+            },
+            {
+                "id": 8140,
+                "uri": "https://sedra.bethmardutho.org/api/word/8140.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2047,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2047.json"
+        },
+        "syriac": "\u0723\u0710\u072c\u0710",
+        "glosses": {
+            "English": [
+                "vine, trailing plant",
+                "measure",
+                "bushel",
+                "peck",
+                "seah (dry measure)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1225,
+            "uri": "https://sedra.bethmardutho.org/api/root/1225.json"
+        },
+        "words": [
+            {
+                "id": 13473,
+                "uri": "https://sedra.bethmardutho.org/api/word/13473.json"
+            },
+            {
+                "id": 13472,
+                "uri": "https://sedra.bethmardutho.org/api/word/13472.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

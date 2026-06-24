@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14740,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14740.json"
+        },
+        "syriac": "\u0712\u0713\u0712\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0631\u062b\u0631"
+            ],
+            "French": [
+                "jaser"
+            ],
+            "English": [
+                "IVa to gurgle."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2515,
+            "uri": "https://sedra.bethmardutho.org/api/root/2515.json"
+        },
+        "words": [
+            {
+                "id": 40580,
+                "uri": "https://sedra.bethmardutho.org/api/word/40580.json"
+            },
+            {
+                "id": 40066,
+                "uri": "https://sedra.bethmardutho.org/api/word/40066.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

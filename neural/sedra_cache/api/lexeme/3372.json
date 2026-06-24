@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 3372,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3372.json"
+        },
+        "syriac": "\u072c\u071d\u0712\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "backsliding.",
+                "repentance",
+                "repentance",
+                "return"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1957,
+            "uri": "https://sedra.bethmardutho.org/api/root/1957.json"
+        },
+        "words": [
+            {
+                "id": 22417,
+                "uri": "https://sedra.bethmardutho.org/api/word/22417.json"
+            },
+            {
+                "id": 22415,
+                "uri": "https://sedra.bethmardutho.org/api/word/22415.json"
+            },
+            {
+                "id": 22418,
+                "uri": "https://sedra.bethmardutho.org/api/word/22418.json"
+            },
+            {
+                "id": 22416,
+                "uri": "https://sedra.bethmardutho.org/api/word/22416.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

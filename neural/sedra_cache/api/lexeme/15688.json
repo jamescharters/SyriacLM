@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15688,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15688.json"
+        },
+        "syriac": "\u0723\u0722\u071b",
+        "glosses": {
+            "English": [
+                "Ia to shake, quiver",
+                "Ip to be afraid."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2188,
+            "uri": "https://sedra.bethmardutho.org/api/root/2188.json"
+        },
+        "words": [
+            {
+                "id": 41887,
+                "uri": "https://sedra.bethmardutho.org/api/word/41887.json"
+            },
+            {
+                "id": 40330,
+                "uri": "https://sedra.bethmardutho.org/api/word/40330.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

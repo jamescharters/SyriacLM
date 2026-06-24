@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3554,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3554.json"
+        },
+        "syriac": "\u072b\u0729\u0720\u0710",
+        "glosses": {
+            "English": [
+                "magistrate",
+                "orderly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1923,
+            "uri": "https://sedra.bethmardutho.org/api/root/1923.json"
+        },
+        "words": [
+            {
+                "id": 21885,
+                "uri": "https://sedra.bethmardutho.org/api/word/21885.json"
+            },
+            {
+                "id": 28663,
+                "uri": "https://sedra.bethmardutho.org/api/word/28663.json"
+            },
+            {
+                "id": 21905,
+                "uri": "https://sedra.bethmardutho.org/api/word/21905.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

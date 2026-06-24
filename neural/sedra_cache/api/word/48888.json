@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0718\u0726\u071d\u0723\u0718",
+        "western": "\u0710\u073d\u0718\u0726\u073a\u071d\u0723\u073d\u0718",
+        "eastern": "\u0710\u0718\u0726\u071d\u073c\u0723\u0718\u073f",
+        "lexeme": {
+            "id": 28450,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28450.json"
+        },
+        "stem": "\u0710\u0718\u0726\u071d\u0723\u0718",
+        "category": "adverb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "(of Place) backwards, (of Time) hereafter"
+            ],
+            "grc": [
+                "\u1f40\u03c0\u03af\u03c3\u03c9"
+            ]
+        },
+        "word": {
+            "id": 48888,
+            "uri": "https://sedra.bethmardutho.org/api/word/48888.json"
+        }
+    }
+]

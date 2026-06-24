@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0722\u0715\u0718\u0722",
+        "western": "\u0722\u0715\u0742\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 691,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/691.json"
+        },
+        "stem": "\u0715\u0722",
+        "category": "denominative",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "judge",
+                "to contend with.",
+                "to go to law",
+                "Ip, IIIp to be judged",
+                "Ia to judge, to administer justice",
+                "to debate (with)"
+            ]
+        },
+        "word": {
+            "id": 4422,
+            "uri": "https://sedra.bethmardutho.org/api/word/4422.json"
+        }
+    }
+]

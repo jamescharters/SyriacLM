@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u072a\u0721\u072a\u0721",
+        "western": "\u072a\u0730\u0721\u072a\u0736\u0721",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14941,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14941.json"
+        },
+        "stem": "\u072a\u0721\u072a\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0638\u0645 (\u0645\u0636)",
+                "\u062b\u0642\u0641 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "eng": [
+                "to become great.",
+                "IVa to exalt, to extol",
+                "IVp to be extolled"
+            ],
+            "fre": [
+                "exalter",
+                "\u00e9duquer",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 41531,
+            "uri": "https://sedra.bethmardutho.org/api/word/41531.json"
+        }
+    }
+]

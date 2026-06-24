@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0722\u0715\u0712\u071a",
+        "western": "\u0722\u0715\u0742\u0730\u0712\u0741\u0730\u071a",
+        "tense": "imperfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 639,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/639.json"
+        },
+        "stem": "\u0715\u0712\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "",
+                "\u0630\u0628\u062d, \u0636\u062d\u0649 (\u0645\u0636)"
+            ],
+            "eng": [
+                "IIa to offer sacrifice.",
+                "sacrifice",
+                "immolate",
+                "Ia to sacrifice, immolate",
+                "Ip"
+            ],
+            "fre": [
+                "immoler , sacrifier",
+                ""
+            ]
+        },
+        "word": {
+            "id": 4017,
+            "uri": "https://sedra.bethmardutho.org/api/word/4017.json"
+        }
+    }
+]

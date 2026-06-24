@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0723\u0710",
+        "western": "\u0710\u0736\u0723\u0308\u0736\u0710",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 3464,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3464.json"
+        },
+        "stem": "\u0710\u0723\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "wall",
+                "wall, partition."
+            ]
+        },
+        "word": {
+            "id": 42291,
+            "uri": "https://sedra.bethmardutho.org/api/word/42291.json"
+        }
+    }
+]

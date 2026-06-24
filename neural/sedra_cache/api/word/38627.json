@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0719\u0717\u072a\u071d\u072a\u0710",
+        "western": "\u0719\u0730\u0717\u072a\u073a\u071d\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6587,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6587.json"
+        },
+        "stem": "\u0719\u0717\u072a\u071d\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0647\u0627\u0621",
+                "\u0634\u0639\u0627\u0639",
+                "\u0645\u0634\u0639\u0644",
+                "\u0628\u0647\u064a"
+            ],
+            "eng": [
+                "flash of light."
+            ],
+            "fre": [
+                "splendeur",
+                "torche",
+                "rayon",
+                "splendide"
+            ]
+        },
+        "word": {
+            "id": 38627,
+            "uri": "https://sedra.bethmardutho.org/api/word/38627.json"
+        }
+    }
+]

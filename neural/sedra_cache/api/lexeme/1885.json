@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1885,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1885.json"
+        },
+        "syriac": "\u0721\u072c\u0722",
+        "glosses": {
+            "English": [
+                "Matthan"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1127,
+            "uri": "https://sedra.bethmardutho.org/api/root/1127.json"
+        },
+        "words": [
+            {
+                "id": 12373,
+                "uri": "https://sedra.bethmardutho.org/api/word/12373.json"
+            },
+            {
+                "id": 12374,
+                "uri": "https://sedra.bethmardutho.org/api/word/12374.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

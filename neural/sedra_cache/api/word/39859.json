@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0717\u072a\u0713",
+        "western": "\u0717\u072a\u0730\u0713",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15797,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15797.json"
+        },
+        "stem": "\u0717\u072a\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "",
+                "\u0634\u063a\u0644 \u0627\u0644\u0628\u0627\u0644"
+            ],
+            "eng": [
+                "Kth. to study.",
+                "to occupy the mind",
+                "Ia to muse on"
+            ],
+            "fre": [
+                "",
+                "occuper l&#39;esprit"
+            ]
+        },
+        "word": {
+            "id": 39859,
+            "uri": "https://sedra.bethmardutho.org/api/word/39859.json"
+        }
+    }
+]

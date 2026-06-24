@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 3237,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3237.json"
+        },
+        "syriac": "\u072b\u0721\u071b",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0632\u0639, \u0646\u0634\u0644, \u0627\u0633\u062a\u0644",
+                "\u0642\u0644\u0639"
+            ],
+            "French": [
+                "extraire, tirer hors",
+                "arracher"
+            ],
+            "English": [
+                "draw",
+                "Ia to draw out, unsheathe",
+                "Ip",
+                "IIp to disengage oneself",
+                "to pluck out, to pull off",
+                "IIIa to take off (shoes)."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1885,
+            "uri": "https://sedra.bethmardutho.org/api/root/1885.json"
+        },
+        "words": [
+            {
+                "id": 21350,
+                "uri": "https://sedra.bethmardutho.org/api/word/21350.json"
+            },
+            {
+                "id": 21352,
+                "uri": "https://sedra.bethmardutho.org/api/word/21352.json"
+            },
+            {
+                "id": 21351,
+                "uri": "https://sedra.bethmardutho.org/api/word/21351.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "lexeme": {
+            "id": 3397,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3397.json"
+        },
+        "syriac": "\u072c\u0718\u0720\u072c\u0710",
+        "glosses": {
+            "English": [
+                "three-year old.",
+                "third",
+                "third part."
+            ],
+            "Arabic": [
+                "\u0639\u0645\u0631\u0647 \u062b\u0644\u0627\u062b \u0633\u0646\u064a\u0646",
+                "\u0627\u0644\u062c\u0632\u0621 \u0627\u0644\u062b\u0627\u0644\u062b"
+            ],
+            "French": [
+                "\u00e2ge de trios ans",
+                "la troisi\u00e8me partie"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1973,
+            "uri": "https://sedra.bethmardutho.org/api/root/1973.json"
+        },
+        "words": [
+            {
+                "id": 31871,
+                "uri": "https://sedra.bethmardutho.org/api/word/31871.json"
+            },
+            {
+                "id": 32252,
+                "uri": "https://sedra.bethmardutho.org/api/word/32252.json"
+            },
+            {
+                "id": 38477,
+                "uri": "https://sedra.bethmardutho.org/api/word/38477.json"
+            },
+            {
+                "id": 22508,
+                "uri": "https://sedra.bethmardutho.org/api/word/22508.json"
+            },
+            {
+                "id": 22505,
+                "uri": "https://sedra.bethmardutho.org/api/word/22505.json"
+            },
+            {
+                "id": 22509,
+                "uri": "https://sedra.bethmardutho.org/api/word/22509.json"
+            },
+            {
+                "id": 22507,
+                "uri": "https://sedra.bethmardutho.org/api/word/22507.json"
+            },
+            {
+                "id": 22506,
+                "uri": "https://sedra.bethmardutho.org/api/word/22506.json"
+            },
+            {
+                "id": 22511,
+                "uri": "https://sedra.bethmardutho.org/api/word/22511.json"
+            },
+            {
+                "id": 22510,
+                "uri": "https://sedra.bethmardutho.org/api/word/22510.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

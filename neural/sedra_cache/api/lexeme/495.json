@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 495,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/495.json"
+        },
+        "syriac": "\u0713\u0710\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0647\u0645"
+            ],
+            "French": [
+                "fl\u00e8che"
+            ],
+            "English": [
+                "arrow",
+                "dart",
+                "spine.",
+                "arrow, dart"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 333,
+            "uri": "https://sedra.bethmardutho.org/api/root/333.json"
+        },
+        "words": [
+            {
+                "id": 52816,
+                "uri": "https://sedra.bethmardutho.org/api/word/52816.json"
+            },
+            {
+                "id": 3389,
+                "uri": "https://sedra.bethmardutho.org/api/word/3389.json"
+            },
+            {
+                "id": 3388,
+                "uri": "https://sedra.bethmardutho.org/api/word/3388.json"
+            },
+            {
+                "id": 3387,
+                "uri": "https://sedra.bethmardutho.org/api/word/3387.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

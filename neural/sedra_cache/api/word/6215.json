@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u071a\u0715\u0710",
+        "western": "\u0721\u0736\u071a\u0715\u0742\u0733\u0710",
+        "lexeme": {
+            "id": 954,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/954.json"
+        },
+        "stem": "\u0721\u071a\u0715\u0710",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "immediately",
+                "at once",
+                "immediately, at once."
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 6215,
+            "uri": "https://sedra.bethmardutho.org/api/word/6215.json"
+        }
+    }
+]

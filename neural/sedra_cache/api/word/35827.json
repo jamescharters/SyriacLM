@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u072b\u072c\u071d\u0729\u0718\u072c\u0710",
+        "western": "\u072b\u0730\u072c\u073a\u071d\u0729\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10747,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10747.json"
+        },
+        "stem": "\u072b\u072c\u071d\u0729\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0643\u0648\u062a"
+            ],
+            "eng": [
+                "silence",
+                "taciturnity."
+            ],
+            "fre": [
+                "silence"
+            ]
+        },
+        "word": {
+            "id": 35827,
+            "uri": "https://sedra.bethmardutho.org/api/word/35827.json"
+        }
+    }
+]

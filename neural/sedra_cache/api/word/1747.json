@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0726\u0710",
+        "western": "\u0710\u0730\u0726\u0741\u0736\u0710",
+        "eastern": "\u0710\u0732\u0726\u0741\u0739\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 245,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/245.json"
+        },
+        "stem": "\u0710\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "presence-bread",
+                "face",
+                "hypocrite"
+            ]
+        },
+        "word": {
+            "id": 1747,
+            "uri": "https://sedra.bethmardutho.org/api/word/1747.json"
+        }
+    }
+]

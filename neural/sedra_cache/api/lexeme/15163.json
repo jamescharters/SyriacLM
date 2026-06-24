@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15163,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15163.json"
+        },
+        "syriac": "\u0713\u071d\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0647\u0628"
+            ],
+            "French": [
+                "piller"
+            ],
+            "English": [
+                "IIa to plunder, seize."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3054,
+            "uri": "https://sedra.bethmardutho.org/api/root/3054.json"
+        },
+        "words": [
+            {
+                "id": 40844,
+                "uri": "https://sedra.bethmardutho.org/api/word/40844.json"
+            },
+            {
+                "id": 40630,
+                "uri": "https://sedra.bethmardutho.org/api/word/40630.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

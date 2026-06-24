@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0726\u072a\u0715",
+        "western": "\u0726\u0741\u072a\u0730\u0715\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2577,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2577.json"
+        },
+        "stem": "\u0726\u072a\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0631\u0628, \u0637\u0627\u0631"
+            ],
+            "eng": [
+                "Ia to flee away",
+                "IIIa to make to flutter",
+                "to put to flight.",
+                "IIa to scare away",
+                "Ip to be crushed, reduced to grains",
+                "flee",
+                "to disturb"
+            ],
+            "fre": [
+                "fuir, s&#39;envoler"
+            ]
+        },
+        "word": {
+            "id": 16830,
+            "uri": "https://sedra.bethmardutho.org/api/word/16830.json"
+        }
+    }
+]

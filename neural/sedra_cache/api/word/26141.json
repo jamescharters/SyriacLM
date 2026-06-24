@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0726\u0720\u071b",
+        "western": "\u0726\u0741\u0730\u0720\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2532,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2532.json"
+        },
+        "stem": "\u0726\u0720\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u062a\u0641\u0631\u063a",
+                "\u0648\u0644\u062f (\u0645\u0636)",
+                "\u062e\u0631\u062c"
+            ],
+            "eng": [
+                "deliver",
+                "escape"
+            ],
+            "fre": [
+                "rejeter",
+                "enfanter",
+                "sortir"
+            ]
+        },
+        "word": {
+            "id": 26141,
+            "uri": "https://sedra.bethmardutho.org/api/word/26141.json"
+        }
+    }
+]

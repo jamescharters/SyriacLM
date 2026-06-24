@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1271,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1271.json"
+        },
+        "syriac": "\u071b\u072a\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0631\u062f",
+                "\u0639\u062c\u0644 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "expulser",
+                "acc\u00e9l\u00e9rer",
+                "\u00a0"
+            ],
+            "English": [
+                "Ip.",
+                "Ia to drive out, expel",
+                "expel",
+                "drive away"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 749,
+            "uri": "https://sedra.bethmardutho.org/api/root/749.json"
+        },
+        "words": [
+            {
+                "id": 8332,
+                "uri": "https://sedra.bethmardutho.org/api/word/8332.json"
+            },
+            {
+                "id": 8333,
+                "uri": "https://sedra.bethmardutho.org/api/word/8333.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

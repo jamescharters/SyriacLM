@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0729\u071d\u0710",
+        "western": "\u0723\u0730\u072a\u0729\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5609,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5609.json"
+        },
+        "stem": "\u0723\u072a\u0729\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0631\u0642\u064a"
+            ],
+            "eng": [
+                "<span class=\"selectableFont\">\u0720\u0736\u072b\u0733\u0722\u0733\u0710 \u0723\u0730\u072a\u0729\u0733\u071d\u0733\u0710</span> the Arabic language.",
+                "Saracen, an Arab"
+            ],
+            "fre": [
+                "arabe"
+            ]
+        },
+        "word": {
+            "id": 31326,
+            "uri": "https://sedra.bethmardutho.org/api/word/31326.json"
+        }
+    }
+]

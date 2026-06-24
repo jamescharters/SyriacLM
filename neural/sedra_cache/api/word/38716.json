@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0719\u0721\u071d\u072c\u0710",
+        "western": "\u0719\u0721\u0733\u071d\u072c\u0733\u0710",
+        "eastern": "\u0719\u0721\u0735\u071d\u072c\u0735\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9584,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9584.json"
+        },
+        "stem": "\u0719\u0721\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0642\u064a\u0639",
+                "\u062b\u0644\u062c"
+            ],
+            "eng": [
+                "hoar-frost",
+                "hoar-frost."
+            ],
+            "fre": [
+                "gel\u00e9e blanche",
+                "neige"
+            ]
+        },
+        "word": {
+            "id": 38716,
+            "uri": "https://sedra.bethmardutho.org/api/word/38716.json"
+        }
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 2208,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2208.json"
+        },
+        "syriac": "\u0723\u072a\u071d\u0729\u0710",
+        "glosses": {
+            "English": [
+                "vain",
+                "empty",
+                "vacant",
+                "void",
+                "carded, combed.",
+                "empty, vain, worthless"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1322,
+            "uri": "https://sedra.bethmardutho.org/api/root/1322.json"
+        },
+        "words": [
+            {
+                "id": 14600,
+                "uri": "https://sedra.bethmardutho.org/api/word/14600.json"
+            },
+            {
+                "id": 14599,
+                "uri": "https://sedra.bethmardutho.org/api/word/14599.json"
+            },
+            {
+                "id": 14598,
+                "uri": "https://sedra.bethmardutho.org/api/word/14598.json"
+            },
+            {
+                "id": 14597,
+                "uri": "https://sedra.bethmardutho.org/api/word/14597.json"
+            },
+            {
+                "id": 14596,
+                "uri": "https://sedra.bethmardutho.org/api/word/14596.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

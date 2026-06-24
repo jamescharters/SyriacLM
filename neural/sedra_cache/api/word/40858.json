@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0729\u0718\u0729\u071d",
+        "western": "\u0729\u0730\u0718\u0729\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14942,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14942.json"
+        },
+        "stem": "\u0729\u0718\u0729\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to caw.",
+                "IVa to croak"
+            ]
+        },
+        "word": {
+            "id": 40858,
+            "uri": "https://sedra.bethmardutho.org/api/word/40858.json"
+        }
+    }
+]

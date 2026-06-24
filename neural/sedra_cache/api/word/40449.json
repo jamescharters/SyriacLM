@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u072c\u071d\u072a",
+        "western": "\u0710\u0730\u072c\u073a\u071d\u072a",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15349,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15349.json"
+        },
+        "stem": "\u072c\u0718\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072c\u0718\u0730\u072a</span> to daze, bewilder",
+                "(for <span class=\"selectableFont\">\u072c\u0718\u072a</span>, IIIa <span class=\"selectableFont\">\u0710\u0730\u072c\u073a\u071d\u072a</span>, see <span class=\"selectableFont\">\u072c\u0733\u072a</span>).",
+                "be amazed"
+            ]
+        },
+        "word": {
+            "id": 40449,
+            "uri": "https://sedra.bethmardutho.org/api/word/40449.json"
+        }
+    }
+]

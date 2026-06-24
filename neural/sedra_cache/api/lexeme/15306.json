@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15306,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15306.json"
+        },
+        "syriac": "\u0726\u072b\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0631\u062d",
+                "\u062a\u0631\u062c\u0645",
+                "\u0623\u0639\u0644\u0646"
+            ],
+            "French": [
+                "expliquer",
+                "traduire",
+                "d\u00e9clarer"
+            ],
+            "English": [
+                "IIp.",
+                "IIa to explain, to translate, to interpret"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2343,
+            "uri": "https://sedra.bethmardutho.org/api/root/2343.json"
+        },
+        "words": [
+            {
+                "id": 41065,
+                "uri": "https://sedra.bethmardutho.org/api/word/41065.json"
+            },
+            {
+                "id": 40914,
+                "uri": "https://sedra.bethmardutho.org/api/word/40914.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

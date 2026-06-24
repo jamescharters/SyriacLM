@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u071f\u0723\u0710",
+        "western": "\u0721\u0733\u071f\u0723\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1760,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1760.json"
+        },
+        "stem": "\u0721\u071f\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0643\u0627\u0633, \u062c\u0627\u0628, \u0639\u0634\u0627\u0631"
+            ],
+            "eng": [
+                "tax-collector.",
+                "tax collector",
+                "publican"
+            ],
+            "fre": [
+                "douanier, percepteur, publicain"
+            ]
+        },
+        "word": {
+            "id": 11547,
+            "uri": "https://sedra.bethmardutho.org/api/word/11547.json"
+        }
+    }
+]

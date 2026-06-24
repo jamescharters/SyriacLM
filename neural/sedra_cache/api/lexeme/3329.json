@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3329,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3329.json"
+        },
+        "syriac": "\u072b\u0718\u072a\u0725\u072c\u0710",
+        "glosses": {
+            "English": [
+                "stumbling",
+                "offense",
+                "trespass",
+                "fault",
+                "slip, offence."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1933,
+            "uri": "https://sedra.bethmardutho.org/api/root/1933.json"
+        },
+        "words": [
+            {
+                "id": 22181,
+                "uri": "https://sedra.bethmardutho.org/api/word/22181.json"
+            },
+            {
+                "id": 22182,
+                "uri": "https://sedra.bethmardutho.org/api/word/22182.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15621,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15621.json"
+        },
+        "syriac": "\u071a\u071f",
+        "glosses": {
+            "English": [
+                "IIa to perforate",
+                "to re-open (a topic).",
+                "Ia to rub, scratch, scrape",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2466,
+            "uri": "https://sedra.bethmardutho.org/api/root/2466.json"
+        },
+        "words": [
+            {
+                "id": 42045,
+                "uri": "https://sedra.bethmardutho.org/api/word/42045.json"
+            },
+            {
+                "id": 40221,
+                "uri": "https://sedra.bethmardutho.org/api/word/40221.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

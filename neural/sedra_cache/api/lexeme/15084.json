@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 15084,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15084.json"
+        },
+        "syriac": "\u072b\u072a\u071a",
+        "glosses": {
+            "English": [
+                "IIIa to fascinate",
+                "to inflame with passion",
+                "to captivate, enrapture.",
+                "IIa to refresh, restore",
+                "to run riot",
+                "IIp to be overjoyed",
+                "to incite excess",
+                "to commit excess"
+            ],
+            "Arabic": [
+                "\u0641\u0631\u062d (\u0645\u0636)",
+                "\u0648\u0644\u0639 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "r\u00e9jouir",
+                "enflammer de passion",
+                "\u00a0"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2205,
+            "uri": "https://sedra.bethmardutho.org/api/root/2205.json"
+        },
+        "words": [
+            {
+                "id": 40570,
+                "uri": "https://sedra.bethmardutho.org/api/word/40570.json"
+            },
+            {
+                "id": 40467,
+                "uri": "https://sedra.bethmardutho.org/api/word/40467.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

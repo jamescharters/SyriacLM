@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0718\u0710\u072b\u072c\u0713\u072b",
+        "western": "\u0718\u0736\u0710\u072b\u072c\u0741\u0713\u0742\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3122,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3122.json"
+        },
+        "stem": "\u072b\u0713\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062b\u0627\u0631 \u0627\u0644\u0641\u062a\u0646\u0629",
+                "\u0647\u0627\u062c, \u062a\u0634\u0627\u0648\u0634",
+                "\u0623\u062b\u0627\u0631",
+                "\u062a\u0645\u0644\u0642",
+                "\u0647\u064a\u062c"
+            ],
+            "eng": [
+                "IIa to throw into confusion",
+                "Ia to trouble, to stir up",
+                "IIp.",
+                "to be boisterous",
+                "trouble",
+                "to coax, to wheedle",
+                "to coax",
+                "stir up",
+                "Ip"
+            ],
+            "fre": [
+                "jeter la discorde",
+                "exciter",
+                "flatter",
+                "\u00eatre soulev\u00e9, en tumulte",
+                "troubler"
+            ]
+        },
+        "word": {
+            "id": 20371,
+            "uri": "https://sedra.bethmardutho.org/api/word/20371.json"
+        }
+    }
+]

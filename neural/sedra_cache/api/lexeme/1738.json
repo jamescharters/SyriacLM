@@ -1,0 +1,48 @@
+[
+    {
+        "lexeme": {
+            "id": 1738,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1738.json"
+        },
+        "syriac": "\u0721\u071a\u071d\u0720\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "weakness, infirmity, instability",
+                "weakness",
+                "impotence",
+                "weakness, infirmity."
+            ],
+            "Arabic": [
+                "\u0636\u0639\u0641, \u0648\u0647\u0646"
+            ],
+            "French": [
+                "faiblesse, infirmit\u00e9"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1039,
+            "uri": "https://sedra.bethmardutho.org/api/root/1039.json"
+        },
+        "words": [
+            {
+                "id": 43306,
+                "uri": "https://sedra.bethmardutho.org/api/word/43306.json"
+            },
+            {
+                "id": 11416,
+                "uri": "https://sedra.bethmardutho.org/api/word/11416.json"
+            },
+            {
+                "id": 11418,
+                "uri": "https://sedra.bethmardutho.org/api/word/11418.json"
+            },
+            {
+                "id": 11417,
+                "uri": "https://sedra.bethmardutho.org/api/word/11417.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

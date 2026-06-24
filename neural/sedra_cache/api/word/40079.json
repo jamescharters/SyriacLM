@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0728\u071a",
+        "western": "\u0710\u0730\u0728\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14990,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14990.json"
+        },
+        "stem": "\u0728\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "dictate",
+                "to edit IIIp to be edited, corrected (of editions).",
+                "declare, express",
+                "2 IIIa <span class=\"selectableFont\">\u0710\u0730\u0728\u0730\u071a</span> to write down"
+            ]
+        },
+        "word": {
+            "id": 40079,
+            "uri": "https://sedra.bethmardutho.org/api/word/40079.json"
+        }
+    }
+]

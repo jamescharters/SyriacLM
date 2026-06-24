@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072c\u072c\u0710",
+        "western": "\u072c\u0736\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11092,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11092.json"
+        },
+        "stem": "\u072c\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u0627\u0621"
+            ],
+            "eng": [
+                "glue."
+            ],
+            "fre": [
+                "colle"
+            ]
+        },
+        "word": {
+            "id": 35317,
+            "uri": "https://sedra.bethmardutho.org/api/word/35317.json"
+        }
+    }
+]

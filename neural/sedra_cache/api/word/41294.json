@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0728\u0725\u0728\u0725",
+        "western": "\u0728\u0725\u0728\u0725",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15000,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15000.json"
+        },
+        "stem": "\u0728\u0725\u0728\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u0728\u071b\u0730\u0725\u0728\u0730\u0725</span> to be polluted."
+            ]
+        },
+        "word": {
+            "id": 41294,
+            "uri": "https://sedra.bethmardutho.org/api/word/41294.json"
+        }
+    }
+]

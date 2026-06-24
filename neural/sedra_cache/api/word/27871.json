@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0718\u0728\u0712\u0710",
+        "western": "\u0718\u0728\u0733\u0712\u0742\u0736\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2652,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2652.json"
+        },
+        "stem": "\u0728\u0712\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0631\u062a\u0636\u0649  ",
+                "\u0623\u062d\u0628, \u0631\u063a\u0628 \u0641\u064a, \u0623\u0631\u0627\u062f"
+            ],
+            "eng": [
+                "pat. \u0728\u0733\u0712\u0736\u0710 to dry up, wither. Cf. \u0728\u0718\u0733\u0710",
+                "desire",
+                "will",
+                "Ia to be willing, wish, want",
+                "IIIa to will.",
+                "+ <span class=\"selectableFont\">\u0712\u200d</span> to take pleasure in",
+                "+ <span class=\"selectableFont\">\u0712\u200d</span> to be pleased with",
+                "Ip to consent"
+            ],
+            "fre": [
+                "aimer, d\u00e9sirer, vouloir",
+                "se complaire"
+            ]
+        },
+        "word": {
+            "id": 27871,
+            "uri": "https://sedra.bethmardutho.org/api/word/27871.json"
+        }
+    }
+]

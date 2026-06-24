@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 161,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/161.json"
+        },
+        "syriac": "\u0710\u0721\u0718\u072c\u0723\u0723",
+        "glosses": {
+            "English": [
+                "amethyst"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03bc\u03ad\u03b8\u03c5\u03c3\u03c4\u03bf\u03c2"
+            ]
+        },
+        "root": {
+            "id": 120,
+            "uri": "https://sedra.bethmardutho.org/api/root/120.json"
+        },
+        "words": [
+            {
+                "id": 1105,
+                "uri": "https://sedra.bethmardutho.org/api/word/1105.json"
+            },
+            {
+                "id": 1104,
+                "uri": "https://sedra.bethmardutho.org/api/word/1104.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

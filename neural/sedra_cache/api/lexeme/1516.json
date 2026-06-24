@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1516,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1516.json"
+        },
+        "syriac": "\u071f\u071f\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0646\u0637\u0627\u0631, \u062b\u0642\u0644 \u0648\u0632\u0646\u0629",
+                "\u0642\u0631\u064a\u062d\u0629"
+            ],
+            "French": [
+                "talent",
+                "aptitude"
+            ],
+            "English": [
+                "talent.",
+                "talent"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 897,
+            "uri": "https://sedra.bethmardutho.org/api/root/897.json"
+        },
+        "words": [
+            {
+                "id": 9916,
+                "uri": "https://sedra.bethmardutho.org/api/word/9916.json"
+            },
+            {
+                "id": 9914,
+                "uri": "https://sedra.bethmardutho.org/api/word/9914.json"
+            },
+            {
+                "id": 9918,
+                "uri": "https://sedra.bethmardutho.org/api/word/9918.json"
+            },
+            {
+                "id": 9917,
+                "uri": "https://sedra.bethmardutho.org/api/word/9917.json"
+            },
+            {
+                "id": 9915,
+                "uri": "https://sedra.bethmardutho.org/api/word/9915.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

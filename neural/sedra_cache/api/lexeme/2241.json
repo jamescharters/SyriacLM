@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2241,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2241.json"
+        },
+        "syriac": "\u0725\u0718\u072a\u0713\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u062d\u0631\u062c\u0629, \u062a\u062f\u062d\u0631\u062c"
+            ],
+            "French": [
+                "action de rouler, de se rouler"
+            ],
+            "English": [
+                "rolling",
+                "wallowing",
+                "fomentation.",
+                "wallowing, rolling"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1335,
+            "uri": "https://sedra.bethmardutho.org/api/root/1335.json"
+        },
+        "words": [
+            {
+                "id": 14968,
+                "uri": "https://sedra.bethmardutho.org/api/word/14968.json"
+            },
+            {
+                "id": 14969,
+                "uri": "https://sedra.bethmardutho.org/api/word/14969.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p"
+    }
+]

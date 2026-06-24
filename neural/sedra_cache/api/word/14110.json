@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0723\u071d\u0725",
+        "western": "\u0723\u071d\u0725",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15155,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15155.json"
+        },
+        "stem": "\u0723\u071d\u0725",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0639\u0627\u0646"
+            ],
+            "eng": [
+                "help",
+                "aid",
+                "IIa to assist, help, succour",
+                "IIp."
+            ],
+            "fre": [
+                "aider"
+            ]
+        },
+        "word": {
+            "id": 14110,
+            "uri": "https://sedra.bethmardutho.org/api/word/14110.json"
+        }
+    }
+]

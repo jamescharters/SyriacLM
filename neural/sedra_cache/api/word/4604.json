@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0715\u0718\u0720\u0720\u0710",
+        "western": "\u0715\u0741\u073d\u0718\u0720\u0733\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 708,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/708.json"
+        },
+        "stem": "\u0715\u0718\u0720\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0644\u0627\u0642"
+            ],
+            "eng": [
+                "separation",
+                "repudiation",
+                "divorce",
+                "divorcement",
+                "<span class=\"selectableFont\">\u071f\u072c\u0733\u0712\u0733\u0710 \u0715\u0715\u073d\u0718\u0720\u0733\u0720\u0733\u0710</span> document of divorce."
+            ],
+            "fre": [
+                "r\u00e9pudiation"
+            ]
+        },
+        "word": {
+            "id": 4604,
+            "uri": "https://sedra.bethmardutho.org/api/word/4604.json"
+        }
+    }
+]

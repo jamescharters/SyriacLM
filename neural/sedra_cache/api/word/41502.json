@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071f\u072b",
+        "western": "\u0710\u0730\u071f\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "aph\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15257,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15257.json"
+        },
+        "stem": "\u071f\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u071f\u0736\u072b</span> to drive away (birds etc.).",
+                "to scare away (birds etc.)."
+            ]
+        },
+        "word": {
+            "id": 41502,
+            "uri": "https://sedra.bethmardutho.org/api/word/41502.json"
+        }
+    }
+]

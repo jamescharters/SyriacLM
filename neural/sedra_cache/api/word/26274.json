@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0715\u0721\u0725\u0720\u0722\u0710",
+        "western": "\u0715\u0741\u0721\u0730\u0725\u0720\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2313,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2313.json"
+        },
+        "stem": "\u0721\u0725\u0720\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062f\u062e\u0644, \u062f\u062e\u0648\u0644",
+                "\u0631\u062c\u0648\u0639"
+            ],
+            "eng": [
+                "entry, entrance.",
+                "ingress",
+                "entrance"
+            ],
+            "fre": [
+                "entr\u00e9e",
+                "retour"
+            ]
+        },
+        "word": {
+            "id": 26274,
+            "uri": "https://sedra.bethmardutho.org/api/word/26274.json"
+        }
+    }
+]

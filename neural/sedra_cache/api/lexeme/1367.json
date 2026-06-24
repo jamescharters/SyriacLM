@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1367,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1367.json"
+        },
+        "syriac": "\u071d\u071a\u071b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0642\u0637"
+            ],
+            "French": [
+                "avorton"
+            ],
+            "English": [
+                "birth",
+                "abortion",
+                "still-born child."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 818,
+            "uri": "https://sedra.bethmardutho.org/api/root/818.json"
+        },
+        "words": [
+            {
+                "id": 9004,
+                "uri": "https://sedra.bethmardutho.org/api/word/9004.json"
+            },
+            {
+                "id": 9005,
+                "uri": "https://sedra.bethmardutho.org/api/word/9005.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

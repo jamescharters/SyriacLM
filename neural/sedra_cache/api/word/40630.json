@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0713\u071d\u0723",
+        "western": "\u0713\u0730\u071d\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15163,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15163.json"
+        },
+        "stem": "\u0713\u071d\u0723",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0646\u0647\u0628"
+            ],
+            "eng": [
+                "IIa to plunder, seize."
+            ],
+            "fre": [
+                "piller"
+            ]
+        },
+        "word": {
+            "id": 40630,
+            "uri": "https://sedra.bethmardutho.org/api/word/40630.json"
+        }
+    }
+]

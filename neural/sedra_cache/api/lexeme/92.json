@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 92,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/92.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Jason"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 74,
+            "uri": "https://sedra.bethmardutho.org/api/root/74.json"
+        },
+        "words": [
+            {
+                "id": 687,
+                "uri": "https://sedra.bethmardutho.org/api/word/687.json"
+            },
+            {
+                "id": 686,
+                "uri": "https://sedra.bethmardutho.org/api/word/686.json"
+            },
+            {
+                "id": 685,
+                "uri": "https://sedra.bethmardutho.org/api/word/685.json"
+            },
+            {
+                "id": 684,
+                "uri": "https://sedra.bethmardutho.org/api/word/684.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

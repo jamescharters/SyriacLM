@@ -1,0 +1,52 @@
+[
+    {
+        "lexeme": {
+            "id": 644,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/644.json"
+        },
+        "syriac": "\u0715\u0712\u071d\u0729\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u062a\u0635\u0644, \u0645\u0644\u062a\u062d\u0645"
+            ],
+            "French": [
+                "adh\u00e9rent , contigu"
+            ],
+            "English": [
+                "follower",
+                "attendant",
+                "adherent",
+                "contiguous."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 414,
+            "uri": "https://sedra.bethmardutho.org/api/root/414.json"
+        },
+        "words": [
+            {
+                "id": 4041,
+                "uri": "https://sedra.bethmardutho.org/api/word/4041.json"
+            },
+            {
+                "id": 4040,
+                "uri": "https://sedra.bethmardutho.org/api/word/4040.json"
+            },
+            {
+                "id": 4043,
+                "uri": "https://sedra.bethmardutho.org/api/word/4043.json"
+            },
+            {
+                "id": 4042,
+                "uri": "https://sedra.bethmardutho.org/api/word/4042.json"
+            },
+            {
+                "id": 4039,
+                "uri": "https://sedra.bethmardutho.org/api/word/4039.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

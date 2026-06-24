@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0720\u0718",
+        "western": "\u0720\u0730\u0718",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1633,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1633.json"
+        },
+        "stem": "\u0720\u0718",
+        "category": "particle",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u0644 \u0644\u0627 \u061f",
+                "\u0644\u0627"
+            ],
+            "eng": [
+                "no",
+                "no, not.",
+                "not",
+                "not",
+                "no"
+            ],
+            "fre": [
+                "est-ce-que ne\u2026pas?",
+                "non, ni"
+            ]
+        },
+        "word": {
+            "id": 4995,
+            "uri": "https://sedra.bethmardutho.org/api/word/4995.json"
+        }
+    }
+]

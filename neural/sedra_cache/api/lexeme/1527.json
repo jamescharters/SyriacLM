@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 1527,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1527.json"
+        },
+        "syriac": "\u071f\u0720\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0632\u0648\u062c\u0629",
+                "\u0643\u0646\u0629"
+            ],
+            "French": [
+                "\u00e9pouse",
+                "belle-fille"
+            ],
+            "English": [
+                "bride",
+                "daughter-in-law",
+                "daughter-in-law.",
+                "bride"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 899,
+            "uri": "https://sedra.bethmardutho.org/api/root/899.json"
+        },
+        "words": [
+            {
+                "id": 10040,
+                "uri": "https://sedra.bethmardutho.org/api/word/10040.json"
+            },
+            {
+                "id": 10037,
+                "uri": "https://sedra.bethmardutho.org/api/word/10037.json"
+            },
+            {
+                "id": 10036,
+                "uri": "https://sedra.bethmardutho.org/api/word/10036.json"
+            },
+            {
+                "id": 10038,
+                "uri": "https://sedra.bethmardutho.org/api/word/10038.json"
+            },
+            {
+                "id": 10039,
+                "uri": "https://sedra.bethmardutho.org/api/word/10039.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

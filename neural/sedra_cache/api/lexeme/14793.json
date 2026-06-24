@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14793,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14793.json"
+        },
+        "syriac": "\u0723\u072a\u0713\u0715",
+        "glosses": {
+            "English": [
+                "IVa to write lines."
+            ],
+            "Arabic": [
+                "\u0643\u062a\u0628"
+            ],
+            "French": [
+                "\u00e9crire"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2289,
+            "uri": "https://sedra.bethmardutho.org/api/root/2289.json"
+        },
+        "words": [
+            {
+                "id": 41377,
+                "uri": "https://sedra.bethmardutho.org/api/word/41377.json"
+            },
+            {
+                "id": 40606,
+                "uri": "https://sedra.bethmardutho.org/api/word/40606.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

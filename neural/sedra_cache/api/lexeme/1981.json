@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 1981,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1981.json"
+        },
+        "syriac": "\u0722\u0721\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0647\u062f"
+            ],
+            "French": [
+                "l\u00e9opard"
+            ],
+            "English": [
+                "leopard",
+                "leopard."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1182,
+            "uri": "https://sedra.bethmardutho.org/api/root/1182.json"
+        },
+        "words": [
+            {
+                "id": 12949,
+                "uri": "https://sedra.bethmardutho.org/api/word/12949.json"
+            },
+            {
+                "id": 12948,
+                "uri": "https://sedra.bethmardutho.org/api/word/12948.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

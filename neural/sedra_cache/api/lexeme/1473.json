@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 1473,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1473.json"
+        },
+        "syriac": "\u071f\u0715\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u0627\u0633\u062a\u0639\u0628\u062f, \u0623\u062e\u0636\u0639",
+                "\u062c\u0645\u0639",
+                "\u062d\u0631\u062b",
+                "\u00a0"
+            ],
+            "French": [
+                "subjuguer, soumettre",
+                "joindre",
+                "labourer",
+                "\u00a0"
+            ],
+            "English": [
+                "subdue",
+                "subjugate",
+                "Ia to join, yoke, couple",
+                "Ip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 873,
+            "uri": "https://sedra.bethmardutho.org/api/root/873.json"
+        },
+        "words": [
+            {
+                "id": 9744,
+                "uri": "https://sedra.bethmardutho.org/api/word/9744.json"
+            },
+            {
+                "id": 9743,
+                "uri": "https://sedra.bethmardutho.org/api/word/9743.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

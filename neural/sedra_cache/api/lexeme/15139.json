@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 15139,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15139.json"
+        },
+        "syriac": "\u072a\u0713\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0644\u0644",
+                "\u0644\u064a\u0646"
+            ],
+            "French": [
+                "mouiller",
+                "amollir"
+            ],
+            "English": [
+                "IIIa.",
+                "IIp",
+                "IIa to moisten, to soften"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2640,
+            "uri": "https://sedra.bethmardutho.org/api/root/2640.json"
+        },
+        "words": [
+            {
+                "id": 46690,
+                "uri": "https://sedra.bethmardutho.org/api/word/46690.json"
+            },
+            {
+                "id": 40384,
+                "uri": "https://sedra.bethmardutho.org/api/word/40384.json"
+            },
+            {
+                "id": 40249,
+                "uri": "https://sedra.bethmardutho.org/api/word/40249.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

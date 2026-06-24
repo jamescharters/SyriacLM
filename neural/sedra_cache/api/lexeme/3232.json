@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 3232,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3232.json"
+        },
+        "syriac": "\u072b\u0720\u072c\u0710\u071d\u0720",
+        "glosses": {
+            "English": [
+                "Salathiel"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1881,
+            "uri": "https://sedra.bethmardutho.org/api/root/1881.json"
+        },
+        "words": [
+            {
+                "id": 21291,
+                "uri": "https://sedra.bethmardutho.org/api/word/21291.json"
+            },
+            {
+                "id": 21292,
+                "uri": "https://sedra.bethmardutho.org/api/word/21292.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

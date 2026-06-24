@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0726\u0720\u0726\u0720",
+        "western": "\u0726\u0730\u0720\u0726\u0736\u0720",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14875,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14875.json"
+        },
+        "stem": "\u0726\u0720\u0726\u0720",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0631\u0634, \u0644\u0648\u062b"
+            ],
+            "eng": [
+                "to wallow",
+                "IVa to bespatter, to defile",
+                "IVp."
+            ],
+            "fre": [
+                "\u00a0",
+                "asperger, souiller"
+            ]
+        },
+        "word": {
+            "id": 39891,
+            "uri": "https://sedra.bethmardutho.org/api/word/39891.json"
+        }
+    }
+]

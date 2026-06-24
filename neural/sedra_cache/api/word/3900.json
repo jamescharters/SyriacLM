@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0713\u0712\u0710",
+        "western": "\u0713\u0730\u0712\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 601,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/601.json"
+        },
+        "stem": "\u0713\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "part (of a ship)",
+                "side",
+                "party",
+                "<span class=\"selectableFont\">\u0725\u0730\u0720 \u0713\u0736\u0722\u0331</span><span class=\"selectableFont\">\u0712</span> beside.",
+                "party",
+                "side, edge",
+                "sect"
+            ],
+            "fre": [
+                "c\u00f4t\u00e9\u2026"
+            ]
+        },
+        "word": {
+            "id": 3900,
+            "uri": "https://sedra.bethmardutho.org/api/word/3900.json"
+        }
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0710\u0721\u072a\u0722\u0710",
+        "western": "\u0710\u0733\u0721\u0730\u072a\u0722\u0733\u0710",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "suffixType": "contraction",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 171,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/171.json"
+        },
+        "stem": "\u0710\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to say, speak",
+                "announce",
+                "affirm",
+                "Ip.",
+                "say",
+                "speak"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 1249,
+            "uri": "https://sedra.bethmardutho.org/api/word/1249.json"
+        }
+    }
+]

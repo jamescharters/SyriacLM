@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0725\u0718\u072c\u0710",
+        "western": "\u0713\u0730\u072a\u0733\u0725\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 5909,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5909.json"
+        },
+        "stem": "\u0713\u072a\u0725\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0644\u0627\u0642\u0629"
+            ],
+            "eng": [
+                "shaving."
+            ],
+            "fre": [
+                "m\u00e9tier de coiffeur"
+            ]
+        },
+        "word": {
+            "id": 39156,
+            "uri": "https://sedra.bethmardutho.org/api/word/39156.json"
+        }
+    }
+]

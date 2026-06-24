@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 3364,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3364.json"
+        },
+        "syriac": "\u072c\u0717\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "amazed",
+                "wonderful",
+                "astonished."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1954,
+            "uri": "https://sedra.bethmardutho.org/api/root/1954.json"
+        },
+        "words": [
+            {
+                "id": 29471,
+                "uri": "https://sedra.bethmardutho.org/api/word/29471.json"
+            },
+            {
+                "id": 29470,
+                "uri": "https://sedra.bethmardutho.org/api/word/29470.json"
+            },
+            {
+                "id": 29469,
+                "uri": "https://sedra.bethmardutho.org/api/word/29469.json"
+            },
+            {
+                "id": 22373,
+                "uri": "https://sedra.bethmardutho.org/api/word/22373.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

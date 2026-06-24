@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 3379,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3379.json"
+        },
+        "syriac": "\u072c\u0718\u071d\u072a\u0710",
+        "glosses": {
+            "English": [
+                "amazed",
+                "dazed, confounded."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1962,
+            "uri": "https://sedra.bethmardutho.org/api/root/1962.json"
+        },
+        "words": [
+            {
+                "id": 22436,
+                "uri": "https://sedra.bethmardutho.org/api/word/22436.json"
+            },
+            {
+                "id": 22438,
+                "uri": "https://sedra.bethmardutho.org/api/word/22438.json"
+            },
+            {
+                "id": 22437,
+                "uri": "https://sedra.bethmardutho.org/api/word/22437.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

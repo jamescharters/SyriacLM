@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 222,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/222.json"
+        },
+        "syriac": "\u0710\u0723\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "English": [
+                "healing",
+                "cure",
+                "healing, medicine, cure."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 166,
+            "uri": "https://sedra.bethmardutho.org/api/root/166.json"
+        },
+        "words": [
+            {
+                "id": 1624,
+                "uri": "https://sedra.bethmardutho.org/api/word/1624.json"
+            },
+            {
+                "id": 1623,
+                "uri": "https://sedra.bethmardutho.org/api/word/1623.json"
+            },
+            {
+                "id": 1622,
+                "uri": "https://sedra.bethmardutho.org/api/word/1622.json"
+            },
+            {
+                "id": 1621,
+                "uri": "https://sedra.bethmardutho.org/api/word/1621.json"
+            },
+            {
+                "id": 1625,
+                "uri": "https://sedra.bethmardutho.org/api/word/1625.json"
+            },
+            {
+                "id": 1620,
+                "uri": "https://sedra.bethmardutho.org/api/word/1620.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

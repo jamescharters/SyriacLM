@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072c\u0718\u071f\u0723\u0710",
+        "western": "\u072c\u073d\u0718\u071f\u0733\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5288,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5288.json"
+        },
+        "stem": "\u072c\u0718\u071f\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0645\u0646\u0639"
+            ],
+            "eng": [
+                "holding back.",
+                "reproof"
+            ],
+            "fre": [
+                "\u00a0",
+                "retenue"
+            ]
+        },
+        "word": {
+            "id": 36865,
+            "uri": "https://sedra.bethmardutho.org/api/word/36865.json"
+        }
+    }
+]

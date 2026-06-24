@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15926,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15926.json"
+        },
+        "syriac": "\u0712\u0720\u0729",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0631\u0632, \u0637\u0631\u0623"
+            ],
+            "French": [
+                "appara\u00eetre, survenir"
+            ],
+            "English": [
+                "IIp to be eager, strive for.",
+                "Ia to come, happen unawares",
+                "IIa to stir up, incite",
+                "to urge"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2490,
+            "uri": "https://sedra.bethmardutho.org/api/root/2490.json"
+        },
+        "words": [
+            {
+                "id": 42017,
+                "uri": "https://sedra.bethmardutho.org/api/word/42017.json"
+            },
+            {
+                "id": 41037,
+                "uri": "https://sedra.bethmardutho.org/api/word/41037.json"
+            },
+            {
+                "id": 42196,
+                "uri": "https://sedra.bethmardutho.org/api/word/42196.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

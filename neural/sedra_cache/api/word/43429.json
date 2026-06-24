@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0721\u0725\u0719\u0720\u0710",
+        "western": "\u0721\u0730\u0725\u0719\u0733\u0720\u0733\u0710",
+        "lexeme": {
+            "id": 17055,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/17055.json"
+        },
+        "stem": "\u0721\u0725\u0719\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u063a\u0632\u0644"
+            ],
+            "eng": [
+                "spindle"
+            ],
+            "fre": [
+                "fuseau"
+            ]
+        },
+        "word": {
+            "id": 43429,
+            "uri": "https://sedra.bethmardutho.org/api/word/43429.json"
+        }
+    }
+]

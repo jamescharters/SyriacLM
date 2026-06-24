@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 2511,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2511.json"
+        },
+        "syriac": "\u0726\u071f\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u0643",
+                "\u062e\u062f",
+                "\u062c\u0646\u0628",
+                "\u0636\u0631\u0628\u0629 \u0628\u0627\u0644\u0643\u0641"
+            ],
+            "French": [
+                "m\u00e2choire",
+                "joue",
+                "c\u00f4t\u00e9",
+                "soufflet"
+            ],
+            "English": [
+                "cheek",
+                "jaw",
+                "jaw, cheek.",
+                "blow, slay"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1492,
+            "uri": "https://sedra.bethmardutho.org/api/root/1492.json"
+        },
+        "words": [
+            {
+                "id": 16392,
+                "uri": "https://sedra.bethmardutho.org/api/word/16392.json"
+            },
+            {
+                "id": 16391,
+                "uri": "https://sedra.bethmardutho.org/api/word/16391.json"
+            },
+            {
+                "id": 16390,
+                "uri": "https://sedra.bethmardutho.org/api/word/16390.json"
+            },
+            {
+                "id": 16389,
+                "uri": "https://sedra.bethmardutho.org/api/word/16389.json"
+            },
+            {
+                "id": 16388,
+                "uri": "https://sedra.bethmardutho.org/api/word/16388.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0720\u071a\u071d\u0721\u0718\u072c\u0710",
+        "western": "\u0720\u071a\u073a\u071d\u0721\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 11547,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11547.json"
+        },
+        "stem": "\u0720\u071a\u071d\u0721\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0647\u062f\u064a\u062f\u0627\u062a"
+            ],
+            "eng": [
+                "threat",
+                "indignation.",
+                "threatening, indignation"
+            ],
+            "fre": [
+                "menaces"
+            ]
+        },
+        "word": {
+            "id": 37167,
+            "uri": "https://sedra.bethmardutho.org/api/word/37167.json"
+        }
+    }
+]

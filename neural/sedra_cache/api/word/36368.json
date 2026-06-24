@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0718\u071b\u0720\u0710",
+        "western": "\u0722\u073d\u0718\u071b\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 12985,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12985.json"
+        },
+        "stem": "\u0722\u0718\u071b\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u0643"
+            ],
+            "eng": [
+                "hesitation."
+            ],
+            "fre": [
+                "doute"
+            ]
+        },
+        "word": {
+            "id": 36368,
+            "uri": "https://sedra.bethmardutho.org/api/word/36368.json"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0721\u0715\u071d\u0722",
+        "western": "\u0721\u0733\u0715\u0742\u0736\u071d\u0722",
+        "lexeme": {
+            "id": 1713,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1713.json"
+        },
+        "stem": "\u0721\u0715\u071d\u0722",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0630\u0644\u0643"
+            ],
+            "eng": [
+                "then, so then, therefore.",
+                "therefore",
+                "then",
+                "therefore",
+                "then"
+            ],
+            "fre": [
+                "c&#39;est pourquoi"
+            ]
+        },
+        "word": {
+            "id": 11236,
+            "uri": "https://sedra.bethmardutho.org/api/word/11236.json"
+        }
+    }
+]

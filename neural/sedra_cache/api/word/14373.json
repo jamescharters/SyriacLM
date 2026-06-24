@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0723\u0722",
+        "western": "\u0723\u0730\u0722",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2160,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2160.json"
+        },
+        "stem": "\u0723\u0722",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "purge",
+                "Ia to filter, to clarify.",
+                "strain"
+            ]
+        },
+        "word": {
+            "id": 14373,
+            "uri": "https://sedra.bethmardutho.org/api/word/14373.json"
+        }
+    }
+]

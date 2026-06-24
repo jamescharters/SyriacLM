@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3333,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3333.json"
+        },
+        "syriac": "\u072b\u072c\u071d\u072c\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0627\u062f\u0633"
+            ],
+            "French": [
+                "sixi\u00e8me"
+            ],
+            "English": [
+                "sixth",
+                "hexagonal.",
+                "consisting of six",
+                "sixth"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1934,
+            "uri": "https://sedra.bethmardutho.org/api/root/1934.json"
+        },
+        "words": [
+            {
+                "id": 22199,
+                "uri": "https://sedra.bethmardutho.org/api/word/22199.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

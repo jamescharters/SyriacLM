@@ -1,0 +1,58 @@
+[
+    {
+        "syriac": "\u0715\u071b\u0725\u071d\u0722\u0710",
+        "western": "\u0715\u0741\u0730\u071b\u0725\u073a\u071d\u0722\u0733\u0710",
+        "tense": "passive participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1265,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1265.json"
+        },
+        "stem": "\u071b\u0725\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0628\u0644",
+                "\u062d\u0645\u0644 (\u0645\u0636)",
+                "\u0623\u062e\u0630",
+                "\u0627\u062d\u062a\u0645\u0644",
+                "\u0631\u0641\u0639",
+                "\u062d\u0645\u0644"
+            ],
+            "eng": [
+                "to endure, put up with, tolerate",
+                "to be put on the scales",
+                "to be laden, loaded",
+                "IIIa to load, make to carry",
+                "IIIp to be loaded",
+                "Ip to be carried",
+                "make carry",
+                "carry",
+                "bear",
+                "Ia to carry, bear",
+                "to carry (a load)",
+                "to be made to bear.",
+                "to be endured"
+            ],
+            "fre": [
+                "supporter",
+                "devenir enceinte",
+                "emporter",
+                "porter",
+                "faire porter, charger",
+                "lever"
+            ]
+        },
+        "word": {
+            "id": 25204,
+            "uri": "https://sedra.bethmardutho.org/api/word/25204.json"
+        }
+    }
+]

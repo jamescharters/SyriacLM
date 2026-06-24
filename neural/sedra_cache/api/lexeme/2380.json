@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2380,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2380.json"
+        },
+        "syriac": "\u0725\u0726",
+        "glosses": {
+            "English": [
+                "fold up",
+                "Ia to fold, to double, to increase",
+                "Ip to be repeated",
+                "IIa <span class=\"selectableFont\">\u0725\u0730\u0726\u0736\u0726</span>, IIIa <span class=\"selectableFont\">\u0710\u0730\u0725\u0736\u0726</span> to double, to repeat, to multiply",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0725\u0730\u0726\u0730\u0726</span>, IIIp <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0730\u0725\u0730\u0726</span>."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1411,
+            "uri": "https://sedra.bethmardutho.org/api/root/1411.json"
+        },
+        "words": [
+            {
+                "id": 15860,
+                "uri": "https://sedra.bethmardutho.org/api/word/15860.json"
+            },
+            {
+                "id": 15859,
+                "uri": "https://sedra.bethmardutho.org/api/word/15859.json"
+            },
+            {
+                "id": 42325,
+                "uri": "https://sedra.bethmardutho.org/api/word/42325.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

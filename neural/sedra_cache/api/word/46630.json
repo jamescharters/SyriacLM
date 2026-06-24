@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0712\u0718\u071f\u0720\u0712\u0723\u071d\u0723",
+        "western": "\u0710\u0730\u0712\u073d\u0718\u071f\u0720\u0730\u0712\u0723\u073a\u071d\u0723",
+        "lexeme": {
+            "id": 20256,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20256.json"
+        },
+        "stem": "\u0710\u0712\u0718\u071f\u0720\u0712\u0723\u071d\u0723",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "revelation"
+            ],
+            "grc": [
+                "\u1f00\u03c0\u03bf\u03ba\u03ac\u03bb\u03c5\u03c8\u03b9\u03c2"
+            ],
+            "lat": [
+                "apocalypsis, revelatio"
+            ]
+        },
+        "word": {
+            "id": 46630,
+            "uri": "https://sedra.bethmardutho.org/api/word/46630.json"
+        }
+    }
+]

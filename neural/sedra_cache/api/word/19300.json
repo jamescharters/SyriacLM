@@ -1,0 +1,52 @@
+[
+    {
+        "syriac": "\u0722\u072a\u0717\u071b\u071d\u0718\u0717\u071d",
+        "western": "\u0722\u0736\u072a\u0717\u071b\u073a\u071d\u0718\u0717\u0331\u071d",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "common",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2959,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2959.json"
+        },
+        "stem": "\u072a\u0717\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0633\u0631\u0639",
+                "\u0631\u0643\u0636",
+                "\u0627\u062c\u062a\u0627\u0632"
+            ],
+            "eng": [
+                "to occur",
+                "IIp",
+                "IIIa to dispatch",
+                "IIIp.",
+                "to act in haste",
+                "Ia to run, make haste",
+                "to bring in haste",
+                "run",
+                "IIa to cultivate"
+            ],
+            "fre": [
+                "se h\u00e2ter",
+                "parcourir",
+                "courir"
+            ]
+        },
+        "word": {
+            "id": 19300,
+            "uri": "https://sedra.bethmardutho.org/api/word/19300.json"
+        }
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u072b\u0722\u071d\u0718\u072c\u0710",
+        "western": "\u072b\u0733\u0722\u071d\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10583,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10583.json"
+        },
+        "stem": "\u072b\u0722\u071d\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "madness, insanity",
+                "senseless rage."
+            ]
+        },
+        "word": {
+            "id": 30889,
+            "uri": "https://sedra.bethmardutho.org/api/word/30889.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15575,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15575.json"
+        },
+        "syriac": "\u0717\u0726\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u062b\u0631\u062b\u0631"
+            ],
+            "French": [
+                "bavarder"
+            ],
+            "English": [
+                "Ia to chatter, babble."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2473,
+            "uri": "https://sedra.bethmardutho.org/api/root/2473.json"
+        },
+        "words": [
+            {
+                "id": 42075,
+                "uri": "https://sedra.bethmardutho.org/api/word/42075.json"
+            },
+            {
+                "id": 40626,
+                "uri": "https://sedra.bethmardutho.org/api/word/40626.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

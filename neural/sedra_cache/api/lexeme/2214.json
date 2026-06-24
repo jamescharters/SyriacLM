@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2214,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2214.json"
+        },
+        "syriac": "\u0723\u072c\u0718\u0710",
+        "glosses": {
+            "English": [
+                "winter",
+                "weather",
+                "tempest",
+                "winter."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1324,
+            "uri": "https://sedra.bethmardutho.org/api/root/1324.json"
+        },
+        "words": [
+            {
+                "id": 14628,
+                "uri": "https://sedra.bethmardutho.org/api/word/14628.json"
+            },
+            {
+                "id": 14627,
+                "uri": "https://sedra.bethmardutho.org/api/word/14627.json"
+            },
+            {
+                "id": 14626,
+                "uri": "https://sedra.bethmardutho.org/api/word/14626.json"
+            },
+            {
+                "id": 14630,
+                "uri": "https://sedra.bethmardutho.org/api/word/14630.json"
+            },
+            {
+                "id": 14629,
+                "uri": "https://sedra.bethmardutho.org/api/word/14629.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

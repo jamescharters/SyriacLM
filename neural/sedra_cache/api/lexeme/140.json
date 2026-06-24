@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 140,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/140.json"
+        },
+        "syriac": "\u0710\u0720\u071d\u0725\u0719\u072a",
+        "glosses": {
+            "English": [
+                "Eleazar"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 105,
+            "uri": "https://sedra.bethmardutho.org/api/root/105.json"
+        },
+        "words": [
+            {
+                "id": 959,
+                "uri": "https://sedra.bethmardutho.org/api/word/959.json"
+            },
+            {
+                "id": 960,
+                "uri": "https://sedra.bethmardutho.org/api/word/960.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

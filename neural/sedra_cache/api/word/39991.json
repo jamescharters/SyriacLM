@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0726\u072a\u072b\u071a",
+        "western": "\u0726\u0730\u072a\u072b\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14671,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14671.json"
+        },
+        "stem": "\u0726\u072a\u072b\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to straddle."
+            ]
+        },
+        "word": {
+            "id": 39991,
+            "uri": "https://sedra.bethmardutho.org/api/word/39991.json"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u072a\u071b\u0718\u0722\u071d\u0710",
+        "western": "\u072a\u071b\u073d\u0718\u0722\u071d\u0733\u0710",
+        "lexeme": {
+            "id": 16698,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16698.json"
+        },
+        "stem": "\u072a\u071b\u0718\u0722\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "disparagement",
+                "contradiction",
+                "gainsaying",
+                "murmuring"
+            ]
+        },
+        "word": {
+            "id": 43072,
+            "uri": "https://sedra.bethmardutho.org/api/word/43072.json"
+        }
+    }
+]

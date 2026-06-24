@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 14656,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14656.json"
+        },
+        "syriac": "\u0713\u0720\u0718\u071d",
+        "glosses": {
+            "English": [
+                "emigrate.",
+                "IVa to take into captivity",
+                "IVp to go into exile"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2597,
+            "uri": "https://sedra.bethmardutho.org/api/root/2597.json"
+        },
+        "words": [
+            {
+                "id": 41190,
+                "uri": "https://sedra.bethmardutho.org/api/word/41190.json"
+            },
+            {
+                "id": 40987,
+                "uri": "https://sedra.bethmardutho.org/api/word/40987.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

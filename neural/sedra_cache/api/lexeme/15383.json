@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 15383,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15383.json"
+        },
+        "syriac": "\u072c\u0718\u0719",
+        "glosses": {
+            "English": [
+                "Ia to leap."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2454,
+            "uri": "https://sedra.bethmardutho.org/api/root/2454.json"
+        },
+        "words": [
+            {
+                "id": 41820,
+                "uri": "https://sedra.bethmardutho.org/api/word/41820.json"
+            },
+            {
+                "id": 41438,
+                "uri": "https://sedra.bethmardutho.org/api/word/41438.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

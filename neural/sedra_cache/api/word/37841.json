@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071f\u0718\u072b\u072a\u0710",
+        "western": "\u071f\u073d\u0718\u072b\u0733\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 5831,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5831.json"
+        },
+        "stem": "\u071f\u0718\u072b\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0647\u0627\u0631\u0629",
+                "\u0646\u062c\u0627\u062d"
+            ],
+            "eng": [
+                "ability.",
+                "success, prosperity"
+            ],
+            "fre": [
+                "prosp\u00e9rit\u00e9",
+                "habilet\u00e9"
+            ]
+        },
+        "word": {
+            "id": 37841,
+            "uri": "https://sedra.bethmardutho.org/api/word/37841.json"
+        }
+    }
+]

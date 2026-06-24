@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u0710\u071d\u072a\u0710",
+        "western": "\u0710\u0730\u0710\u071d\u073a\u072a\u0733\u0710",
+        "lexeme": {
+            "id": 20236,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/20236.json"
+        },
+        "stem": "\u0710\u0710\u071d\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "hammer"
+            ],
+            "grc": [
+                "\u03b1\u1f36\u03c1\u03b1"
+            ],
+            "lat": [
+                "folium temulentum"
+            ]
+        },
+        "word": {
+            "id": 46610,
+            "uri": "https://sedra.bethmardutho.org/api/word/46610.json"
+        }
+    }
+]

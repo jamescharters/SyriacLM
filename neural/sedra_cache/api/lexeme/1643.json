@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 1643,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1643.json"
+        },
+        "syriac": "\u0720\u0718\u071b\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0639\u0646\u0629"
+            ],
+            "French": [
+                "mal\u00e9diction"
+            ],
+            "English": [
+                "curse",
+                "malediction",
+                "curse, malediction, imprecation."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 967,
+            "uri": "https://sedra.bethmardutho.org/api/root/967.json"
+        },
+        "words": [
+            {
+                "id": 10950,
+                "uri": "https://sedra.bethmardutho.org/api/word/10950.json"
+            },
+            {
+                "id": 10949,
+                "uri": "https://sedra.bethmardutho.org/api/word/10949.json"
+            },
+            {
+                "id": 10952,
+                "uri": "https://sedra.bethmardutho.org/api/word/10952.json"
+            },
+            {
+                "id": 10951,
+                "uri": "https://sedra.bethmardutho.org/api/word/10951.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

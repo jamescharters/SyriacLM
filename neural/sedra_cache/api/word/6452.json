@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u071a\u0710\u071b",
+        "western": "\u0718\u071a\u0733\u0710\u0736\u071b",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 979,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/979.json"
+        },
+        "stem": "\u071a\u0718\u071b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sew",
+                "stitch",
+                "Ip to sewn on",
+                "IIp.",
+                "to join, come together",
+                "Ia to sew, stitch up, patch, mend",
+                "IIa <span class=\"selectableFont\">\u071a\u0730\u071d\u0736\u071b</span> to sew together, piece together"
+            ]
+        },
+        "word": {
+            "id": 6452,
+            "uri": "https://sedra.bethmardutho.org/api/word/6452.json"
+        }
+    }
+]

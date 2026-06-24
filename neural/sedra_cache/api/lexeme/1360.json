@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 1360,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1360.json"
+        },
+        "syriac": "\u071d\u0718\u072a\u0715\u0722\u0722",
+        "glosses": {
+            "English": [
+                "Jordan",
+                "baptismal font.",
+                "Jordan"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 811,
+            "uri": "https://sedra.bethmardutho.org/api/root/811.json"
+        },
+        "words": [
+            {
+                "id": 8988,
+                "uri": "https://sedra.bethmardutho.org/api/word/8988.json"
+            },
+            {
+                "id": 8986,
+                "uri": "https://sedra.bethmardutho.org/api/word/8986.json"
+            },
+            {
+                "id": 8985,
+                "uri": "https://sedra.bethmardutho.org/api/word/8985.json"
+            },
+            {
+                "id": 8987,
+                "uri": "https://sedra.bethmardutho.org/api/word/8987.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

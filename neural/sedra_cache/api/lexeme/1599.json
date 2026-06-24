@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 1599,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1599.json"
+        },
+        "syriac": "\u0721\u071f\u072b\u0718\u0720\u0710",
+        "glosses": {
+            "English": [
+                "offense",
+                "scandal",
+                "offence, scandal."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 937,
+            "uri": "https://sedra.bethmardutho.org/api/root/937.json"
+        },
+        "words": [
+            {
+                "id": 10576,
+                "uri": "https://sedra.bethmardutho.org/api/word/10576.json"
+            },
+            {
+                "id": 10575,
+                "uri": "https://sedra.bethmardutho.org/api/word/10575.json"
+            },
+            {
+                "id": 10578,
+                "uri": "https://sedra.bethmardutho.org/api/word/10578.json"
+            },
+            {
+                "id": 10577,
+                "uri": "https://sedra.bethmardutho.org/api/word/10577.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

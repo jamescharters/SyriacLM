@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 1931,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1931.json"
+        },
+        "syriac": "\u0722\u0718\u0721",
+        "glosses": {
+            "English": [
+                "sleep",
+                "slumber",
+                "Ia to slumber, to sleep heavily",
+                "IIa <span class=\"selectableFont\">\u0722\u0730\u0718\u0736\u0721</span>",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0722\u073a\u071d\u0721</span> to put to sleep."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1150,
+            "uri": "https://sedra.bethmardutho.org/api/root/1150.json"
+        },
+        "words": [
+            {
+                "id": 26493,
+                "uri": "https://sedra.bethmardutho.org/api/word/26493.json"
+            },
+            {
+                "id": 26494,
+                "uri": "https://sedra.bethmardutho.org/api/word/26494.json"
+            },
+            {
+                "id": 12658,
+                "uri": "https://sedra.bethmardutho.org/api/word/12658.json"
+            },
+            {
+                "id": 12657,
+                "uri": "https://sedra.bethmardutho.org/api/word/12657.json"
+            },
+            {
+                "id": 12656,
+                "uri": "https://sedra.bethmardutho.org/api/word/12656.json"
+            },
+            {
+                "id": 42368,
+                "uri": "https://sedra.bethmardutho.org/api/word/42368.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

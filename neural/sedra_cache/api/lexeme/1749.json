@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1749,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1749.json"
+        },
+        "syriac": "\u0721\u071d\u071b\u0718\u0720\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "Mitylene"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1048,
+            "uri": "https://sedra.bethmardutho.org/api/root/1048.json"
+        },
+        "words": [
+            {
+                "id": 11490,
+                "uri": "https://sedra.bethmardutho.org/api/word/11490.json"
+            },
+            {
+                "id": 11491,
+                "uri": "https://sedra.bethmardutho.org/api/word/11491.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

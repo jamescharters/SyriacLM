@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0710\u0722\u071b\u071d\u071f\u072a\u071d\u0723\u071b\u0718\u0723",
+        "western": "\u0710\u0730\u0722\u071b\u073a\u071d\u071f\u0742\u072a\u073a\u071d\u0723\u071b\u0733\u0718\u0723",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 188,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/188.json"
+        },
+        "stem": "\u0710\u0722\u071b\u071d\u071f\u072a\u071d\u0723\u071b\u0718\u0723",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "antichrist"
+            ]
+        },
+        "word": {
+            "id": 1407,
+            "uri": "https://sedra.bethmardutho.org/api/word/1407.json"
+        }
+    }
+]

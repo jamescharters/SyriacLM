@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072a\u0726\u072b\u0710",
+        "western": "\u072a\u0730\u0726\u0742\u072b\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3064,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3064.json"
+        },
+        "stem": "\u072a\u0726\u072b\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0641\u0634",
+                "\u0643\u062a\u0641",
+                "\u0645\u0630\u0631\u0649"
+            ],
+            "eng": [
+                "winnowing fan",
+                "<span class=\"selectableFont\">\u072a\u0308\u0730\u0726\u072b\u0736\u0710</span> shoulder blades.",
+                "shovel",
+                "winnowing fan"
+            ],
+            "fre": [
+                "\u00e9paule",
+                "pelle",
+                "van"
+            ]
+        },
+        "word": {
+            "id": 19964,
+            "uri": "https://sedra.bethmardutho.org/api/word/19964.json"
+        }
+    }
+]

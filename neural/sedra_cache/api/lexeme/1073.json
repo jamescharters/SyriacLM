@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 1073,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1073.json"
+        },
+        "syriac": "\u071a\u0721\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0645\u0639 \u0628\u0639\u062f \u0639\u062f\u062f",
+                "\u062d\u0645\u0627\u0631"
+            ],
+            "French": [
+                "( pl. apr\u00e8s nombre)",
+                "\u00e2ne"
+            ],
+            "English": [
+                "ass",
+                "ass, donkey."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 646,
+            "uri": "https://sedra.bethmardutho.org/api/root/646.json"
+        },
+        "words": [
+            {
+                "id": 7211,
+                "uri": "https://sedra.bethmardutho.org/api/word/7211.json"
+            },
+            {
+                "id": 7208,
+                "uri": "https://sedra.bethmardutho.org/api/word/7208.json"
+            },
+            {
+                "id": 7209,
+                "uri": "https://sedra.bethmardutho.org/api/word/7209.json"
+            },
+            {
+                "id": 42232,
+                "uri": "https://sedra.bethmardutho.org/api/word/42232.json"
+            },
+            {
+                "id": 42209,
+                "uri": "https://sedra.bethmardutho.org/api/word/42209.json"
+            },
+            {
+                "id": 7210,
+                "uri": "https://sedra.bethmardutho.org/api/word/7210.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

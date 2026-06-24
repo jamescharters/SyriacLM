@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14687,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14687.json"
+        },
+        "syriac": "\u0726\u0720\u0723\u0726",
+        "glosses": {
+            "English": [
+                "IVa to practice philosophy",
+                "IVp to profess philosophy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2867,
+            "uri": "https://sedra.bethmardutho.org/api/root/2867.json"
+        },
+        "words": [
+            {
+                "id": 41364,
+                "uri": "https://sedra.bethmardutho.org/api/word/41364.json"
+            },
+            {
+                "id": 40429,
+                "uri": "https://sedra.bethmardutho.org/api/word/40429.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

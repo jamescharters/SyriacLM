@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 14826,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14826.json"
+        },
+        "syriac": "\u0713\u0722\u0715\u072a",
+        "glosses": {
+            "English": [
+                "IVp to roll, to rotate.",
+                "IVa to roll away"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2057,
+            "uri": "https://sedra.bethmardutho.org/api/root/2057.json"
+        },
+        "words": [
+            {
+                "id": 41291,
+                "uri": "https://sedra.bethmardutho.org/api/word/41291.json"
+            },
+            {
+                "id": 40854,
+                "uri": "https://sedra.bethmardutho.org/api/word/40854.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

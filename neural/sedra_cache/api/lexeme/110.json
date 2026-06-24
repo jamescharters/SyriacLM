@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 110,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/110.json"
+        },
+        "syriac": "\u0710\u071f\u071d\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0644\u0642, \u0643\u0648\u0646",
+                "\u00a0"
+            ],
+            "French": [
+                "cr\u00e9er, constituer",
+                "\u00a0"
+            ],
+            "English": [
+                "Achim"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 88,
+            "uri": "https://sedra.bethmardutho.org/api/root/88.json"
+        },
+        "words": [
+            {
+                "id": 784,
+                "uri": "https://sedra.bethmardutho.org/api/word/784.json"
+            },
+            {
+                "id": 785,
+                "uri": "https://sedra.bethmardutho.org/api/word/785.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0713\u0722\u0712\u072a",
+        "western": "\u0713\u0722\u0712\u072a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15273,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15273.json"
+        },
+        "stem": "\u0713\u0722\u0712\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "to vaunt.",
+                "IVp <span class=\"selectableFont\">\u0710\u0736\u072c\u0713\u0730\u0722\u0331\u0712\u0730\u072a</span> to act mightily, with heroism"
+            ]
+        },
+        "word": {
+            "id": 40387,
+            "uri": "https://sedra.bethmardutho.org/api/word/40387.json"
+        }
+    }
+]

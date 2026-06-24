@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 8136,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8136.json"
+        },
+        "syriac": "\u0729\u0722\u071b\u071d\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0642\u0637\u0629",
+                "\u0647\u0646\u064a\u0647\u0629, \u0648\u0642\u062a"
+            ],
+            "French": [
+                "point",
+                "moment"
+            ],
+            "English": [
+                "point, instant.",
+                "a moment, minute"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03ba\u03ad\u03bd\u03c4\u03b7\u03bc\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 58207,
+                "uri": "https://sedra.bethmardutho.org/api/word/58207.json"
+            },
+            {
+                "id": 38137,
+                "uri": "https://sedra.bethmardutho.org/api/word/38137.json"
+            }
+        ]
+    }
+]

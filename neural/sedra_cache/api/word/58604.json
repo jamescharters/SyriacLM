@@ -1,0 +1,25 @@
+[
+    {
+        "syriac": "\u0725\u0721\u0710",
+        "western": "\u0725\u0721\u0733\u0710",
+        "lexeme": {
+            "id": 32230,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/32230.json"
+        },
+        "stem": "\u0725\u0721\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to blind"
+            ]
+        },
+        "word": {
+            "id": 58604,
+            "uri": "https://sedra.bethmardutho.org/api/word/58604.json"
+        }
+    }
+]

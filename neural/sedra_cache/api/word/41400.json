@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072c\u0721\u072a",
+        "western": "\u072c\u0721\u072a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15272,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15272.json"
+        },
+        "stem": "\u072c\u0721\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u072c\u0721\u0730\u072a</span> to blink."
+            ]
+        },
+        "word": {
+            "id": 41400,
+            "uri": "https://sedra.bethmardutho.org/api/word/41400.json"
+        }
+    }
+]

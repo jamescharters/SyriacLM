@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15326,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15326.json"
+        },
+        "syriac": "\u0723\u071a\u072a",
+        "glosses": {
+            "English": [
+                "IIa to beg",
+                "to be a beggar."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2248,
+            "uri": "https://sedra.bethmardutho.org/api/root/2248.json"
+        },
+        "words": [
+            {
+                "id": 40077,
+                "uri": "https://sedra.bethmardutho.org/api/word/40077.json"
+            },
+            {
+                "id": 40059,
+                "uri": "https://sedra.bethmardutho.org/api/word/40059.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

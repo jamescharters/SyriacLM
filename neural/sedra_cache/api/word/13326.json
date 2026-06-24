@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0722\u0728\u071a",
+        "western": "\u0722\u0728\u0730\u071a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2016,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2016.json"
+        },
+        "stem": "\u0722\u0728\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be famous",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0728\u0730\u071a</span> to glorify",
+                "IIp to be celebrated, renowned",
+                "to triumph",
+                "to excel",
+                "IIa to render celebrated",
+                "to adorn, to celebrate",
+                "Ia to shine out",
+                "to shine out.",
+                "shine",
+                "strive to excel",
+                "to be distinguished"
+            ]
+        },
+        "word": {
+            "id": 13326,
+            "uri": "https://sedra.bethmardutho.org/api/word/13326.json"
+        }
+    }
+]

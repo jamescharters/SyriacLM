@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 2287,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2287.json"
+        },
+        "syriac": "\u0725\u0718\u072a\u0720\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u0631\u0644\u0629"
+            ],
+            "French": [
+                "pr\u00e9puce"
+            ],
+            "English": [
+                "uncircumcision",
+                "uncircumcision",
+                "foreskin."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1360,
+            "uri": "https://sedra.bethmardutho.org/api/root/1360.json"
+        },
+        "words": [
+            {
+                "id": 15211,
+                "uri": "https://sedra.bethmardutho.org/api/word/15211.json"
+            },
+            {
+                "id": 15215,
+                "uri": "https://sedra.bethmardutho.org/api/word/15215.json"
+            },
+            {
+                "id": 15213,
+                "uri": "https://sedra.bethmardutho.org/api/word/15213.json"
+            },
+            {
+                "id": 15212,
+                "uri": "https://sedra.bethmardutho.org/api/word/15212.json"
+            },
+            {
+                "id": 15210,
+                "uri": "https://sedra.bethmardutho.org/api/word/15210.json"
+            },
+            {
+                "id": 15209,
+                "uri": "https://sedra.bethmardutho.org/api/word/15209.json"
+            },
+            {
+                "id": 15208,
+                "uri": "https://sedra.bethmardutho.org/api/word/15208.json"
+            },
+            {
+                "id": 15214,
+                "uri": "https://sedra.bethmardutho.org/api/word/15214.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

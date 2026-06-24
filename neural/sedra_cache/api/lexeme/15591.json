@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15591,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15591.json"
+        },
+        "syriac": "\u071b\u0718\u0710",
+        "glosses": {
+            "English": [
+                "IIa to roast, bake, scorch.",
+                "Ia to be parched"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2734,
+            "uri": "https://sedra.bethmardutho.org/api/root/2734.json"
+        },
+        "words": [
+            {
+                "id": 41907,
+                "uri": "https://sedra.bethmardutho.org/api/word/41907.json"
+            },
+            {
+                "id": 41332,
+                "uri": "https://sedra.bethmardutho.org/api/word/41332.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

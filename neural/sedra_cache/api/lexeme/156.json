@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 156,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/156.json"
+        },
+        "syriac": "\u0710\u0720\u071d\u0728\u0710",
+        "glosses": {
+            "English": [
+                "narrow",
+                "urgent",
+                "narrow",
+                "strait",
+                "afflicted",
+                "requisite",
+                "afflicted."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 117,
+            "uri": "https://sedra.bethmardutho.org/api/root/117.json"
+        },
+        "words": [
+            {
+                "id": 1039,
+                "uri": "https://sedra.bethmardutho.org/api/word/1039.json"
+            },
+            {
+                "id": 1042,
+                "uri": "https://sedra.bethmardutho.org/api/word/1042.json"
+            },
+            {
+                "id": 1031,
+                "uri": "https://sedra.bethmardutho.org/api/word/1031.json"
+            }
+        ],
+        "category": "participle adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

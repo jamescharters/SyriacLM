@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 105,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/105.json"
+        },
+        "syriac": "\u0710\u071f\u0710\u071d\u0729\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Achaicus"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f08\u03c7\u03b1\u03ca\u03ba\u03cc\u03c2"
+            ]
+        },
+        "root": {
+            "id": 85,
+            "uri": "https://sedra.bethmardutho.org/api/root/85.json"
+        },
+        "words": [
+            {
+                "id": 49673,
+                "uri": "https://sedra.bethmardutho.org/api/word/49673.json"
+            },
+            {
+                "id": 766,
+                "uri": "https://sedra.bethmardutho.org/api/word/766.json"
+            },
+            {
+                "id": 767,
+                "uri": "https://sedra.bethmardutho.org/api/word/767.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "lexeme": {
+            "id": 3469,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3469.json"
+        },
+        "syriac": "\u0720\u0712\u072c\u072a\u0710",
+        "glosses": [],
+        "etymologies": [],
+        "root": {
+            "id": 239,
+            "uri": "https://sedra.bethmardutho.org/api/root/239.json"
+        },
+        "words": [
+            {
+                "id": 2211,
+                "uri": "https://sedra.bethmardutho.org/api/word/2211.json"
+            },
+            {
+                "id": 2212,
+                "uri": "https://sedra.bethmardutho.org/api/word/2212.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

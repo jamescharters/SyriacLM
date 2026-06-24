@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0715\u072b",
+        "western": "\u0713\u0730\u072a\u0715\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14610,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14610.json"
+        },
+        "stem": "\u0713\u072a\u0715\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to gnaw (bones)",
+                "IVp to be broken, torn."
+            ]
+        },
+        "word": {
+            "id": 41069,
+            "uri": "https://sedra.bethmardutho.org/api/word/41069.json"
+        }
+    }
+]

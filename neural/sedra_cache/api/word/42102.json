@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0722\u0728\u0721\u0718\u0715",
+        "western": "\u0722\u0736\u0728\u0721\u073d\u0718\u0715",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15615,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15615.json"
+        },
+        "stem": "\u0728\u0721\u0715",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u062a\u0631",
+                "\u0631\u0628\u0637, \u0639\u0635\u0628"
+            ],
+            "eng": [
+                "IIa, IIIa to fasten, tie on",
+                "IIp.",
+                "Ia to bind up, join closely"
+            ],
+            "fre": [
+                "lier, bander",
+                "voiler"
+            ]
+        },
+        "word": {
+            "id": 42102,
+            "uri": "https://sedra.bethmardutho.org/api/word/42102.json"
+        }
+    }
+]

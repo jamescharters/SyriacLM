@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0722\u072c\u072a\u0710",
+        "western": "\u0722\u0736\u072c\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 6631,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6631.json"
+        },
+        "stem": "\u0722\u072c\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0639\u0646",
+                "\u0641\u0633\u0627\u062f",
+                "\u0646\u062b\u0627\u0631, \u0642\u0637\u0639\u0629 \u0635\u063a\u064a\u0631\u0629"
+            ],
+            "eng": [
+                "fallen fruit",
+                "decomposition",
+                "crumb",
+                "niter."
+            ],
+            "fre": [
+                "anath\u00e8me",
+                "d\u00e9composition",
+                "chose tomb\u00e9e , parcelle"
+            ]
+        },
+        "word": {
+            "id": 39541,
+            "uri": "https://sedra.bethmardutho.org/api/word/39541.json"
+        }
+    }
+]

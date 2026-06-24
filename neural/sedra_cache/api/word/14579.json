@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0723\u0718\u072a\u0715\u0710",
+        "western": "\u0723\u073d\u0718\u072a\u0733\u0715\u0742\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2199,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2199.json"
+        },
+        "stem": "\u0723\u0718\u072a\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0632\u0639"
+            ],
+            "eng": [
+                "terror, fright.",
+                "terror"
+            ],
+            "fre": [
+                "terreur"
+            ]
+        },
+        "word": {
+            "id": 14579,
+            "uri": "https://sedra.bethmardutho.org/api/word/14579.json"
+        }
+    }
+]

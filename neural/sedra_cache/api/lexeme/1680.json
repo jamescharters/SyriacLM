@@ -1,0 +1,92 @@
+[
+    {
+        "lexeme": {
+            "id": 1680,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1680.json"
+        },
+        "syriac": "\u072c\u0720\u0721\u0715",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0644\u0645 (\u0645\u0636)"
+            ],
+            "French": [
+                "enseigner"
+            ],
+            "English": [
+                "teach",
+                "instruct",
+                "to make disciples",
+                "IVa to give instruction",
+                "IVp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 996,
+            "uri": "https://sedra.bethmardutho.org/api/root/996.json"
+        },
+        "words": [
+            {
+                "id": 26024,
+                "uri": "https://sedra.bethmardutho.org/api/word/26024.json"
+            },
+            {
+                "id": 26023,
+                "uri": "https://sedra.bethmardutho.org/api/word/26023.json"
+            },
+            {
+                "id": 11067,
+                "uri": "https://sedra.bethmardutho.org/api/word/11067.json"
+            },
+            {
+                "id": 26028,
+                "uri": "https://sedra.bethmardutho.org/api/word/26028.json"
+            },
+            {
+                "id": 26027,
+                "uri": "https://sedra.bethmardutho.org/api/word/26027.json"
+            },
+            {
+                "id": 26026,
+                "uri": "https://sedra.bethmardutho.org/api/word/26026.json"
+            },
+            {
+                "id": 26025,
+                "uri": "https://sedra.bethmardutho.org/api/word/26025.json"
+            },
+            {
+                "id": 11073,
+                "uri": "https://sedra.bethmardutho.org/api/word/11073.json"
+            },
+            {
+                "id": 11071,
+                "uri": "https://sedra.bethmardutho.org/api/word/11071.json"
+            },
+            {
+                "id": 11068,
+                "uri": "https://sedra.bethmardutho.org/api/word/11068.json"
+            },
+            {
+                "id": 11065,
+                "uri": "https://sedra.bethmardutho.org/api/word/11065.json"
+            },
+            {
+                "id": 11066,
+                "uri": "https://sedra.bethmardutho.org/api/word/11066.json"
+            },
+            {
+                "id": 11072,
+                "uri": "https://sedra.bethmardutho.org/api/word/11072.json"
+            },
+            {
+                "id": 11070,
+                "uri": "https://sedra.bethmardutho.org/api/word/11070.json"
+            },
+            {
+                "id": 11069,
+                "uri": "https://sedra.bethmardutho.org/api/word/11069.json"
+            }
+        ],
+        "category": "denominative"
+    }
+]

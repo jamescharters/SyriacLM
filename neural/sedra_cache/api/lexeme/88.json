@@ -1,0 +1,27 @@
+[
+    {
+        "lexeme": {
+            "id": 88,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/88.json"
+        },
+        "syriac": "\u0710\u071d\u0721\u071f\u0710",
+        "glosses": {
+            "English": [
+                "whence?",
+                "whence?"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 70,
+            "uri": "https://sedra.bethmardutho.org/api/root/70.json"
+        },
+        "words": [
+            {
+                "id": 647,
+                "uri": "https://sedra.bethmardutho.org/api/word/647.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

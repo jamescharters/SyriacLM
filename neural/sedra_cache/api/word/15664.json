@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0725\u0721\u0718\u0715\u0710",
+        "western": "\u0725\u0730\u0721\u073d\u0718\u0715\u0742\u0736\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2342,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2342.json"
+        },
+        "stem": "\u0725\u0721\u0718\u0715\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0645\u0648\u062f"
+            ],
+            "eng": [
+                "pillar",
+                "pillar, column."
+            ],
+            "fre": [
+                "colonne"
+            ]
+        },
+        "word": {
+            "id": 15664,
+            "uri": "https://sedra.bethmardutho.org/api/word/15664.json"
+        }
+    }
+]

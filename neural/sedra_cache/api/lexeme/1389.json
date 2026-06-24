@@ -1,0 +1,72 @@
+[
+    {
+        "lexeme": {
+            "id": 1389,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1389.json"
+        },
+        "syriac": "\u071d\u0721\u071d\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u064a\u0645\u064a\u0646\u064a",
+                "\u064a\u0645\u064a\u0646, \u064a\u062f \u064a\u0645\u0646\u0649",
+                "\u062d\u0644\u0641",
+                "\u0633\u064a\u0627\u0645\u0629"
+            ],
+            "French": [
+                "de droite",
+                "droite, main droite",
+                "serment",
+                "ordination"
+            ],
+            "English": [
+                "right, right hand",
+                "right",
+                "pledge, promise."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 827,
+            "uri": "https://sedra.bethmardutho.org/api/root/827.json"
+        },
+        "words": [
+            {
+                "id": 9240,
+                "uri": "https://sedra.bethmardutho.org/api/word/9240.json"
+            },
+            {
+                "id": 9238,
+                "uri": "https://sedra.bethmardutho.org/api/word/9238.json"
+            },
+            {
+                "id": 9236,
+                "uri": "https://sedra.bethmardutho.org/api/word/9236.json"
+            },
+            {
+                "id": 9241,
+                "uri": "https://sedra.bethmardutho.org/api/word/9241.json"
+            },
+            {
+                "id": 9244,
+                "uri": "https://sedra.bethmardutho.org/api/word/9244.json"
+            },
+            {
+                "id": 9239,
+                "uri": "https://sedra.bethmardutho.org/api/word/9239.json"
+            },
+            {
+                "id": 9237,
+                "uri": "https://sedra.bethmardutho.org/api/word/9237.json"
+            },
+            {
+                "id": 9243,
+                "uri": "https://sedra.bethmardutho.org/api/word/9243.json"
+            },
+            {
+                "id": 9242,
+                "uri": "https://sedra.bethmardutho.org/api/word/9242.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

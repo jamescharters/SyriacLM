@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0728\u0721\u0715\u0710",
+        "western": "\u0728\u0736\u0721\u0715\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9853,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9853.json"
+        },
+        "stem": "\u0728\u0721\u0715\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0635\u0627\u0628\u0629"
+            ],
+            "eng": [
+                "purse",
+                "Kth. bag, handbag, briefcase."
+            ],
+            "fre": [
+                "bandeau"
+            ]
+        },
+        "word": {
+            "id": 38224,
+            "uri": "https://sedra.bethmardutho.org/api/word/38224.json"
+        }
+    }
+]

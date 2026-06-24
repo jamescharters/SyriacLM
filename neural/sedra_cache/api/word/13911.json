@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0723\u0713",
+        "western": "\u0723\u0733\u0713\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2085,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2085.json"
+        },
+        "stem": "\u0723\u0718\u0713",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "to put the blame (on)",
+                "to repair, stop up",
+                "Ia to fence in, to enclose",
+                "Ip to be blocked up",
+                "enclose",
+                "IIa, IIIa to fence around, to repair."
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 13911,
+            "uri": "https://sedra.bethmardutho.org/api/word/13911.json"
+        }
+    }
+]

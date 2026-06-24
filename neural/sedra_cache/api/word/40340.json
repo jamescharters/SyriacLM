@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0725\u0718\u0729\u0715",
+        "western": "\u0725\u0730\u0718\u0729\u0736\u0715",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14869,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14869.json"
+        },
+        "stem": "\u0725\u0718\u0729\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to coil, to bend",
+                "to be perplexed.",
+                "IVp to twist around, to writhe"
+            ]
+        },
+        "word": {
+            "id": 40340,
+            "uri": "https://sedra.bethmardutho.org/api/word/40340.json"
+        }
+    }
+]

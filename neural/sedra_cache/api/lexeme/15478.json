@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15478,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15478.json"
+        },
+        "syriac": "\u072b\u071b\u071a",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0633\u0637",
+                "\u00a0"
+            ],
+            "French": [
+                "\u00e9tendre",
+                "\u00a0"
+            ],
+            "English": [
+                "Ia, IIa to spread out",
+                "IIp to be laid flat, spread out."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2921,
+            "uri": "https://sedra.bethmardutho.org/api/root/2921.json"
+        },
+        "words": [
+            {
+                "id": 42031,
+                "uri": "https://sedra.bethmardutho.org/api/word/42031.json"
+            },
+            {
+                "id": 41557,
+                "uri": "https://sedra.bethmardutho.org/api/word/41557.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

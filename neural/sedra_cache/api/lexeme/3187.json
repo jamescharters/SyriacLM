@@ -1,0 +1,70 @@
+[
+    {
+        "lexeme": {
+            "id": 3187,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3187.json"
+        },
+        "syriac": "\u072b\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "peace",
+                "tranquility",
+                "domesticated (animal).",
+                "peace, tranquility",
+                "truce",
+                "cultivated land",
+                "cultivated land (opp. to desert)",
+                "lucky",
+                "wealth",
+                "peace",
+                "tame",
+                "domestic",
+                "love of peace"
+            ],
+            "Syriac": [
+                "\u0715\u072b\u0732\u071d\u0722\u0735\u0710 <strong>d-s\u030cyn\u02be</strong> <em>d</em>-<em>s\u030cayn\u0101</em>"
+            ],
+            "Greek": [
+                "\u1f25\u03bc\u03b5\u03c1\u03bf\u03c2",
+                "\u03b5\u1f50\u03bc\u1f73\u03bd\u03b5\u03b9\u03b1"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f50\u03bc\u03ad\u03bd\u03b5\u03b9\u03b1"
+            ]
+        },
+        "root": {
+            "id": 1856,
+            "uri": "https://sedra.bethmardutho.org/api/root/1856.json"
+        },
+        "words": [
+            {
+                "id": 20878,
+                "uri": "https://sedra.bethmardutho.org/api/word/20878.json"
+            },
+            {
+                "id": 20877,
+                "uri": "https://sedra.bethmardutho.org/api/word/20877.json"
+            },
+            {
+                "id": 20876,
+                "uri": "https://sedra.bethmardutho.org/api/word/20876.json"
+            },
+            {
+                "id": 20875,
+                "uri": "https://sedra.bethmardutho.org/api/word/20875.json"
+            },
+            {
+                "id": 20879,
+                "uri": "https://sedra.bethmardutho.org/api/word/20879.json"
+            },
+            {
+                "id": 20880,
+                "uri": "https://sedra.bethmardutho.org/api/word/20880.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

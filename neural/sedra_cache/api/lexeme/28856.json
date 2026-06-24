@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28856,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28856.json"
+        },
+        "syriac": "\u0710\u071d\u0718\u0726\u0723\u0718\u072c\u071d\u071b\u0718",
+        "glosses": {
+            "Greek": [
+                "\u1f51\u03c8\u03c9\u03b8\u03ae\u03c4\u03c9"
+            ],
+            "Latin": [
+                "elevatus est"
+            ],
+            "English": [
+                "lift high, raise up, to elevate, exalt"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f51\u03c8\u03cc\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 49358,
+                "uri": "https://sedra.bethmardutho.org/api/word/49358.json"
+            },
+            {
+                "id": 55230,
+                "uri": "https://sedra.bethmardutho.org/api/word/55230.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

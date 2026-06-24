@@ -1,0 +1,56 @@
+[
+    {
+        "lexeme": {
+            "id": 3386,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3386.json"
+        },
+        "syriac": "\u072c\u071a\u072c\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u062d\u062a\u0627\u0646\u064a, \u0633\u0641\u0644\u064a",
+                "\u0628\u0627\u0637\u0646 \u0627\u0644\u0642\u062f\u0645"
+            ],
+            "French": [
+                "inf\u00e9rieur, d\u2019en bas",
+                "plante (du pied)"
+            ],
+            "English": [
+                "lower",
+                "low",
+                "inferior."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1966,
+            "uri": "https://sedra.bethmardutho.org/api/root/1966.json"
+        },
+        "words": [
+            {
+                "id": 23015,
+                "uri": "https://sedra.bethmardutho.org/api/word/23015.json"
+            },
+            {
+                "id": 22465,
+                "uri": "https://sedra.bethmardutho.org/api/word/22465.json"
+            },
+            {
+                "id": 22464,
+                "uri": "https://sedra.bethmardutho.org/api/word/22464.json"
+            },
+            {
+                "id": 22468,
+                "uri": "https://sedra.bethmardutho.org/api/word/22468.json"
+            },
+            {
+                "id": 22467,
+                "uri": "https://sedra.bethmardutho.org/api/word/22467.json"
+            },
+            {
+                "id": 22466,
+                "uri": "https://sedra.bethmardutho.org/api/word/22466.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

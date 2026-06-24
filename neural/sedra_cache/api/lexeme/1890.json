@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1890,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1890.json"
+        },
+        "syriac": "\u0722\u0710\u0729\u0718\u0720\u071d\u071b\u0710",
+        "glosses": {
+            "English": [
+                "Nicolaitan"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1132,
+            "uri": "https://sedra.bethmardutho.org/api/root/1132.json"
+        },
+        "words": [
+            {
+                "id": 12380,
+                "uri": "https://sedra.bethmardutho.org/api/word/12380.json"
+            },
+            {
+                "id": 12382,
+                "uri": "https://sedra.bethmardutho.org/api/word/12382.json"
+            },
+            {
+                "id": 12381,
+                "uri": "https://sedra.bethmardutho.org/api/word/12381.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

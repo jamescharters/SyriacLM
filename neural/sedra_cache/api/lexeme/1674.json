@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 1674,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1674.json"
+        },
+        "syriac": "\u0720\u0720\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0646\u0648\u0646"
+            ],
+            "French": [
+                "folie"
+            ],
+            "English": [
+                "foolishness",
+                "foolishness, folly, stupidity."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 992,
+            "uri": "https://sedra.bethmardutho.org/api/root/992.json"
+        },
+        "words": [
+            {
+                "id": 11050,
+                "uri": "https://sedra.bethmardutho.org/api/word/11050.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

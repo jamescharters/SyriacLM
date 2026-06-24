@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 3028,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3028.json"
+        },
+        "syriac": "\u072a\u071f\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0631\u0628\u0637"
+            ],
+            "French": [
+                "lier"
+            ],
+            "English": [
+                "bind",
+                "IIp.",
+                "Ia to bind"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1764,
+            "uri": "https://sedra.bethmardutho.org/api/root/1764.json"
+        },
+        "words": [
+            {
+                "id": 19731,
+                "uri": "https://sedra.bethmardutho.org/api/word/19731.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

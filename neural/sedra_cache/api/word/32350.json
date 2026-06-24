@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u072a\u0713\u0718\u072b\u072c\u0710",
+        "western": "\u0715\u0730\u072a\u0713\u073d\u0718\u072b\u072c\u0733\u0710",
+        "eastern": "\u0715\u0732\u072a\u0713\u0718\u073c\u072b\u072c\u0735\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 8665,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8665.json"
+        },
+        "stem": "\u0715\u072a\u0713\u0718\u072b\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u062f\u0627\u062c\u0629"
+            ],
+            "eng": [
+                "litter, cradle.",
+                "sedan-chair",
+                "litter"
+            ],
+            "fre": [
+                "chaise \u00e0 porteurs"
+            ]
+        },
+        "word": {
+            "id": 32350,
+            "uri": "https://sedra.bethmardutho.org/api/word/32350.json"
+        }
+    }
+]

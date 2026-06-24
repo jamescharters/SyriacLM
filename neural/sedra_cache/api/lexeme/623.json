@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 623,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/623.json"
+        },
+        "syriac": "\u0713\u072a\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0628\u0631\u0635"
+            ],
+            "French": [
+                "l\u00e8pre"
+            ],
+            "English": [
+                "leper"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 400,
+            "uri": "https://sedra.bethmardutho.org/api/root/400.json"
+        },
+        "words": [
+            {
+                "id": 3963,
+                "uri": "https://sedra.bethmardutho.org/api/word/3963.json"
+            },
+            {
+                "id": 3961,
+                "uri": "https://sedra.bethmardutho.org/api/word/3961.json"
+            },
+            {
+                "id": 3962,
+                "uri": "https://sedra.bethmardutho.org/api/word/3962.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

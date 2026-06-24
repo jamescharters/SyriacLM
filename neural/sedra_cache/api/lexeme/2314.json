@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 2314,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2314.json"
+        },
+        "syriac": "\u0721\u0725\u0720\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u062e\u0648\u0644"
+            ],
+            "French": [
+                "entr\u00e9e"
+            ],
+            "English": [
+                "entrance",
+                "introduction",
+                "access",
+                "access, admittance, entry."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1378,
+            "uri": "https://sedra.bethmardutho.org/api/root/1378.json"
+        },
+        "words": [
+            {
+                "id": 15364,
+                "uri": "https://sedra.bethmardutho.org/api/word/15364.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "aph\u02bfel"
+    }
+]

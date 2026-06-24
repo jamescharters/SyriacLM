@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0718\u0723\u0723\u0710",
+        "western": "\u0718\u0723\u0733\u0723\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "common",
+        "lexeme": {
+            "id": 2171,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2171.json"
+        },
+        "stem": "\u0723\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "maggot, worm",
+                "decay.",
+                "moth",
+                "moth"
+            ]
+        },
+        "word": {
+            "id": 14434,
+            "uri": "https://sedra.bethmardutho.org/api/word/14434.json"
+        }
+    }
+]

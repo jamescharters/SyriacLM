@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071a\u0722\u0729\u0710",
+        "western": "\u071a\u0722\u0733\u0729\u0733\u0710",
+        "lexeme": {
+            "id": 19397,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/19397.json"
+        },
+        "stem": "\u071a\u0722\u0729\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0639\u0630\u064a\u0628, \u062a\u0623\u0644\u064a\u0645",
+                "\u0642\u064a\u062f",
+                "\u062e\u0646\u0642, \u063a\u0635\u0635"
+            ],
+            "eng": [
+                "bond",
+                "band"
+            ],
+            "fre": [
+                "lien",
+                "supplice, torture",
+                "\u00e9tranglement, suffocation"
+            ]
+        },
+        "word": {
+            "id": 45771,
+            "uri": "https://sedra.bethmardutho.org/api/word/45771.json"
+        }
+    }
+]

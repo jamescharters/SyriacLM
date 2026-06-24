@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0723\u0729",
+        "western": "\u0723\u0733\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15515,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15515.json"
+        },
+        "stem": "\u0723\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0723\u073a\u071d\u0729</span> to be smelt",
+                "to hiss",
+                "IIa <span class=\"selectableFont\">\u0723\u0730\u0718\u0736\u0729</span> to smell at.",
+                "to suck in",
+                "Ia to breathe, to inhale",
+                "to smell"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 41265,
+            "uri": "https://sedra.bethmardutho.org/api/word/41265.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0710\u0722\u0723",
+        "western": "\u0710\u0736\u072c\u0742\u0736\u0710\u0722\u0736\u0723",
+        "tense": "perfect",
+        "kaylo": "ethp\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 193,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/193.json"
+        },
+        "stem": "\u0710\u0722\u0723",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "compel",
+                "Ip",
+                "Ia to press, compel",
+                "IIa."
+            ]
+        },
+        "word": {
+            "id": 1416,
+            "uri": "https://sedra.bethmardutho.org/api/word/1416.json"
+        }
+    }
+]

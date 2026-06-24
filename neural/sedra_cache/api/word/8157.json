@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071b\u0721\u0710\u071d\u0722",
+        "western": "\u071b\u0730\u0721\u073a\u0710\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1250,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1250.json"
+        },
+        "stem": "\u071b\u0721\u0710\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "unclean",
+                "unclean, impure, defiled, polluted.",
+                "impure"
+            ]
+        },
+        "word": {
+            "id": 8157,
+            "uri": "https://sedra.bethmardutho.org/api/word/8157.json"
+        }
+    }
+]

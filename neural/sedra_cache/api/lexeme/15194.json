@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 15194,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15194.json"
+        },
+        "syriac": "\u0723\u071b\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0637\u0649 (\u0645\u0636)"
+            ],
+            "French": [
+                "d\u00e9pecer"
+            ],
+            "English": [
+                "IIa to cut in two",
+                "IIp to have divisions, to dispute",
+                "to turn aside",
+                "IIIa to ascribe."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2644,
+            "uri": "https://sedra.bethmardutho.org/api/root/2644.json"
+        },
+        "words": [
+            {
+                "id": 40209,
+                "uri": "https://sedra.bethmardutho.org/api/word/40209.json"
+            },
+            {
+                "id": 40149,
+                "uri": "https://sedra.bethmardutho.org/api/word/40149.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

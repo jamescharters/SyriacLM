@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2672,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2672.json"
+        },
+        "syriac": "\u0728\u071d\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0635\u0627\u0626\u0645",
+                "\u0635\u0627\u0626\u0645"
+            ],
+            "French": [
+                "\u00e0 jeun",
+                "je\u00fbneur"
+            ],
+            "English": [
+                "one who fasts.",
+                "hungry",
+                "fasting",
+                "jejunum"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1582,
+            "uri": "https://sedra.bethmardutho.org/api/root/1582.json"
+        },
+        "words": [
+            {
+                "id": 59084,
+                "uri": "https://sedra.bethmardutho.org/api/word/59084.json"
+            },
+            {
+                "id": 17406,
+                "uri": "https://sedra.bethmardutho.org/api/word/17406.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

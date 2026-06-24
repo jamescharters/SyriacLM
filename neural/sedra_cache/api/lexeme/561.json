@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 561,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/561.json"
+        },
+        "syriac": "\u0713\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0648\u062c",
+                "\u0644\u0628\u0633",
+                "\u0645\u0639\u0637\u0641",
+                "\u063a\u0637\u0627\u0621",
+                "\u0631\u0635\u064a\u0641",
+                "\u0633\u0644\u062d\u0641\u0627\u0629"
+            ],
+            "French": [
+                "flot",
+                "v\u00eatement",
+                "manteau",
+                "couverture",
+                "remblai",
+                "tortue"
+            ],
+            "English": [
+                "wave"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 370,
+            "uri": "https://sedra.bethmardutho.org/api/root/370.json"
+        },
+        "words": [
+            {
+                "id": 3689,
+                "uri": "https://sedra.bethmardutho.org/api/word/3689.json"
+            },
+            {
+                "id": 3687,
+                "uri": "https://sedra.bethmardutho.org/api/word/3687.json"
+            },
+            {
+                "id": 3686,
+                "uri": "https://sedra.bethmardutho.org/api/word/3686.json"
+            },
+            {
+                "id": 3688,
+                "uri": "https://sedra.bethmardutho.org/api/word/3688.json"
+            },
+            {
+                "id": 3685,
+                "uri": "https://sedra.bethmardutho.org/api/word/3685.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0723\u0718\u071a\u072c",
+        "western": "\u0723\u0736\u0718\u071a\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2089,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2089.json"
+        },
+        "stem": "\u0723\u0718\u071a",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "desire",
+                "= IIp.",
+                "IIa to long for",
+                "Ia to desire earnestly",
+                "long for"
+            ]
+        },
+        "word": {
+            "id": 13924,
+            "uri": "https://sedra.bethmardutho.org/api/word/13924.json"
+        }
+    }
+]

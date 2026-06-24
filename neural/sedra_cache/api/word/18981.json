@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u072a\u0712\u071d\u0722\u0718\u0717\u071d",
+        "western": "\u0721\u072a\u0730\u0712\u0741\u071d\u0733\u0722\u0730\u0718\u0717\u0331\u071d",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2919,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2919.json"
+        },
+        "stem": "\u0721\u072a\u0712\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "causing growth",
+                "nurse",
+                "guardian",
+                "rearer",
+                "Kth. educator.",
+                "foster-parent",
+                "m., <span class=\"selectableFont\">\u0721\u072a\u0730\u0712\u071d\u0733\u0722\u073a\u071d\u072c\u0733\u0710</span> f. one who brings up"
+            ]
+        },
+        "word": {
+            "id": 18981,
+            "uri": "https://sedra.bethmardutho.org/api/word/18981.json"
+        }
+    }
+]

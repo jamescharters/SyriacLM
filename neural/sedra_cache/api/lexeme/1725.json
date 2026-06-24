@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 1725,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1725.json"
+        },
+        "syriac": "\u0721\u0718\u072b",
+        "glosses": {
+            "English": [
+                "Ia to feel, grope, touch",
+                "touch",
+                "search",
+                "examine",
+                "to search out, explore",
+                "Ip",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0721\u073a\u071d\u072b</span> to cause to touch.",
+                "IIa <span class=\"selectableFont\">\u0721\u0730\u0718\u0736\u072b</span> to pry, search closely"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1034,
+            "uri": "https://sedra.bethmardutho.org/api/root/1034.json"
+        },
+        "words": [
+            {
+                "id": 26060,
+                "uri": "https://sedra.bethmardutho.org/api/word/26060.json"
+            },
+            {
+                "id": 26059,
+                "uri": "https://sedra.bethmardutho.org/api/word/26059.json"
+            },
+            {
+                "id": 11264,
+                "uri": "https://sedra.bethmardutho.org/api/word/11264.json"
+            },
+            {
+                "id": 26062,
+                "uri": "https://sedra.bethmardutho.org/api/word/26062.json"
+            },
+            {
+                "id": 26061,
+                "uri": "https://sedra.bethmardutho.org/api/word/26061.json"
+            },
+            {
+                "id": 11267,
+                "uri": "https://sedra.bethmardutho.org/api/word/11267.json"
+            },
+            {
+                "id": 11266,
+                "uri": "https://sedra.bethmardutho.org/api/word/11266.json"
+            },
+            {
+                "id": 11265,
+                "uri": "https://sedra.bethmardutho.org/api/word/11265.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

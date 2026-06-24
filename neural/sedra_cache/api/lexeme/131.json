@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 131,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/131.json"
+        },
+        "syriac": "\u0710\u0720\u0717\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0644\u0627\u0647\u0648\u062a"
+            ],
+            "French": [
+                "divinit\u00e9"
+            ],
+            "English": [
+                "Godhead",
+                "divinity",
+                "divinity, Godhead."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 98,
+            "uri": "https://sedra.bethmardutho.org/api/root/98.json"
+        },
+        "words": [
+            {
+                "id": 934,
+                "uri": "https://sedra.bethmardutho.org/api/word/934.json"
+            },
+            {
+                "id": 935,
+                "uri": "https://sedra.bethmardutho.org/api/word/935.json"
+            },
+            {
+                "id": 22901,
+                "uri": "https://sedra.bethmardutho.org/api/word/22901.json"
+            },
+            {
+                "id": 936,
+                "uri": "https://sedra.bethmardutho.org/api/word/936.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

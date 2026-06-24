@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072c\u0718\u071a",
+        "western": "\u072c\u0718\u071a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15340,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15340.json"
+        },
+        "stem": "\u072c\u0718\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u072c\u0730\u0718\u0730\u071a</span> to sigh, regret."
+            ]
+        },
+        "word": {
+            "id": 40891,
+            "uri": "https://sedra.bethmardutho.org/api/word/40891.json"
+        }
+    }
+]

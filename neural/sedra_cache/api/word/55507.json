@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0726\u072a\u071f\u071d\u0710",
+        "western": "\u0710\u073a\u071d\u0726\u0730\u072a\u071f\u073a\u071d\u0730\u0710",
+        "lexeme": {
+            "id": 29133,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29133.json"
+        },
+        "stem": "\u0710\u071d\u0726\u072a\u071f\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "the government of a commander,  the district governed by \u03b1 commander"
+            ],
+            "grc": [
+                "\u1f10\u03c0\u03b1\u03c1\u03c7\u03af\u03b1"
+            ],
+            "lat": [
+                "praefectura"
+            ]
+        },
+        "word": {
+            "id": 55507,
+            "uri": "https://sedra.bethmardutho.org/api/word/55507.json"
+        }
+    }
+]

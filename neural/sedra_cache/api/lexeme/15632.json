@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15632,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15632.json"
+        },
+        "syriac": "\u0728\u072a\u0726",
+        "glosses": {
+            "English": [
+                "IIp.",
+                "Ip",
+                "2 & <span class=\"selectableFont\">\u0728\u072a\u0736\u0726</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0728\u072a\u073d\u0718\u0726</span>, Ia to refine, purge"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3103,
+            "uri": "https://sedra.bethmardutho.org/api/root/3103.json"
+        },
+        "words": [
+            {
+                "id": 42165,
+                "uri": "https://sedra.bethmardutho.org/api/word/42165.json"
+            },
+            {
+                "id": 41527,
+                "uri": "https://sedra.bethmardutho.org/api/word/41527.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

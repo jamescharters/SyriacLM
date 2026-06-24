@@ -1,0 +1,63 @@
+[
+    {
+        "syriac": "\u0718\u0721\u072c\u0721\u0720\u0710",
+        "western": "\u0718\u0721\u0736\u072c\u0742\u0721\u0730\u0720\u0736\u0710",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1765,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1765.json"
+        },
+        "stem": "\u0721\u0720\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0631\u0641",
+                "\u0639\u0645\u0644",
+                "\u0645\u0644\u0623",
+                "\u0627\u0646\u0642\u0636\u0649 (\u0648\u0642\u062a)",
+                "\u0643\u0641\u0649",
+                "\u062a\u0645",
+                "\u0627\u0645\u062a\u0644\u0623",
+                "\u062c\u0647\u0632 (\u0645\u0636( \u0627\u0644\u0642\u0648\u0633",
+                "\u0623\u0635\u0644\u062d",
+                "\u0642\u0636\u0649 (\u0627\u0644\u0648\u0642\u062a)",
+                "\u0623\u0646\u0647\u0649"
+            ],
+            "eng": [
+                "IIa to fill up, fulfill, complete",
+                "Ia to fill, complete",
+                "IIp",
+                "fill",
+                "III to fill up.",
+                "to be full",
+                "complete",
+                "Ip to be filled, completed"
+            ],
+            "fre": [
+                "faire ",
+                "\u00eatre plein",
+                "achever",
+                "passer ( le temps)",
+                "remplir",
+                "suffire \u00e0",
+                "puiser",
+                "charger (l&#39;arc)",
+                "\u00eatre pass\u00e9 ( temps)",
+                "r\u00e9parer",
+                "\u00eatre achev\u00e9"
+            ]
+        },
+        "word": {
+            "id": 26225,
+            "uri": "https://sedra.bethmardutho.org/api/word/26225.json"
+        }
+    }
+]

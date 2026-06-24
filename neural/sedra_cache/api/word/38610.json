@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0729\u0715\u0723\u0710",
+        "western": "\u0729\u0730\u0715\u0723\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8171,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8171.json"
+        },
+        "stem": "\u0729\u0715\u0723\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0631\u062c\u0644",
+                "\u062e\u0648\u0630\u0629"
+            ],
+            "eng": [
+                "cauldron",
+                "helmet."
+            ],
+            "fre": [
+                "chaudron",
+                "casque"
+            ]
+        },
+        "word": {
+            "id": 38610,
+            "uri": "https://sedra.bethmardutho.org/api/word/38610.json"
+        }
+    }
+]

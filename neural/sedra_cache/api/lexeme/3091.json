@@ -1,0 +1,70 @@
+[
+    {
+        "lexeme": {
+            "id": 3091,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3091.json"
+        },
+        "syriac": "\u072b\u0710\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u064a\u0637\u0627\u0646"
+            ],
+            "French": [
+                "d\u00e9mon"
+            ],
+            "English": [
+                "demon",
+                "spirit",
+                "demon, evil spirit."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1797,
+            "uri": "https://sedra.bethmardutho.org/api/root/1797.json"
+        },
+        "words": [
+            {
+                "id": 20063,
+                "uri": "https://sedra.bethmardutho.org/api/word/20063.json"
+            },
+            {
+                "id": 20062,
+                "uri": "https://sedra.bethmardutho.org/api/word/20062.json"
+            },
+            {
+                "id": 20060,
+                "uri": "https://sedra.bethmardutho.org/api/word/20060.json"
+            },
+            {
+                "id": 20059,
+                "uri": "https://sedra.bethmardutho.org/api/word/20059.json"
+            },
+            {
+                "id": 20068,
+                "uri": "https://sedra.bethmardutho.org/api/word/20068.json"
+            },
+            {
+                "id": 20065,
+                "uri": "https://sedra.bethmardutho.org/api/word/20065.json"
+            },
+            {
+                "id": 20064,
+                "uri": "https://sedra.bethmardutho.org/api/word/20064.json"
+            },
+            {
+                "id": 20061,
+                "uri": "https://sedra.bethmardutho.org/api/word/20061.json"
+            },
+            {
+                "id": 20067,
+                "uri": "https://sedra.bethmardutho.org/api/word/20067.json"
+            },
+            {
+                "id": 20066,
+                "uri": "https://sedra.bethmardutho.org/api/word/20066.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

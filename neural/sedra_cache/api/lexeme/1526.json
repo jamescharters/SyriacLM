@@ -1,0 +1,61 @@
+[
+    {
+        "lexeme": {
+            "id": 1526,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1526.json"
+        },
+        "syriac": "\u071f\u0720\u071d\u0720\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0625\u0643\u0644\u064a\u0644, \u062a\u0627\u062c"
+            ],
+            "French": [
+                "couronne, diad\u00e8me"
+            ],
+            "English": [
+                "crown",
+                "wreath",
+                "circle (of people).",
+                "rim",
+                "crown, garland"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 899,
+            "uri": "https://sedra.bethmardutho.org/api/root/899.json"
+        },
+        "words": [
+            {
+                "id": 10032,
+                "uri": "https://sedra.bethmardutho.org/api/word/10032.json"
+            },
+            {
+                "id": 10030,
+                "uri": "https://sedra.bethmardutho.org/api/word/10030.json"
+            },
+            {
+                "id": 10029,
+                "uri": "https://sedra.bethmardutho.org/api/word/10029.json"
+            },
+            {
+                "id": 10033,
+                "uri": "https://sedra.bethmardutho.org/api/word/10033.json"
+            },
+            {
+                "id": 10035,
+                "uri": "https://sedra.bethmardutho.org/api/word/10035.json"
+            },
+            {
+                "id": 10031,
+                "uri": "https://sedra.bethmardutho.org/api/word/10031.json"
+            },
+            {
+                "id": 10034,
+                "uri": "https://sedra.bethmardutho.org/api/word/10034.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

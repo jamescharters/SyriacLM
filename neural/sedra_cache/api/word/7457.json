@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u071a\u0728\u071d\u0717",
+        "western": "\u071a\u0728\u073a\u071d\u0717",
+        "tense": "imperative",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "second",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 1127,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1127.json"
+        },
+        "stem": "\u071a\u0728\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0642\u0644\u0639"
+            ],
+            "eng": [
+                "Ia to tear, knock out",
+                "pluck out",
+                "IIa to tear out.",
+                "Ip, IIp to be plucked out (of eyes)"
+            ],
+            "fre": [
+                "\u00a0",
+                "arracher"
+            ]
+        },
+        "word": {
+            "id": 7457,
+            "uri": "https://sedra.bethmardutho.org/api/word/7457.json"
+        }
+    }
+]

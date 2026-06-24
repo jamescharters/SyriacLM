@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0728\u0710",
+        "western": "\u0722\u0736\u0728\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7848,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7848.json"
+        },
+        "stem": "\u0722\u0728\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0627\u0634\u0642"
+            ],
+            "eng": [
+                "hawk."
+            ],
+            "fre": [
+                "\u00e9pervier"
+            ]
+        },
+        "word": {
+            "id": 39465,
+            "uri": "https://sedra.bethmardutho.org/api/word/39465.json"
+        }
+    }
+]

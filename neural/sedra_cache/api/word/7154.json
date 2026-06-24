@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u072b\u0718\u071a\u0720\u0726\u0710",
+        "western": "\u072b\u073d\u0718\u071a\u0720\u0733\u0726\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1055,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1055.json"
+        },
+        "stem": "\u072b\u0718\u071a\u0720\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u063a\u064a\u064a\u0631",
+                "\u062d\u0627\u0644\u0629 \u0627\u0644\u0646\u0641\u0633",
+                "\u0644\u062d\u0646",
+                "\u062f\u0631\u062c\u0629",
+                "\u0646\u0648\u0639, \u062c\u0646\u0633, \u0634\u0643\u0644",
+                "\u0641\u0631\u0642",
+                "\u0641\u0635\u0644",
+                "\u062a\u0639\u0648\u064a\u0636"
+            ],
+            "eng": [
+                "change",
+                "variation",
+                "change, alteration, variation, transformation."
+            ],
+            "fre": [
+                "ton",
+                "diff\u00e9rence",
+                "compensation",
+                "\u00e9tat d&#39;\u00e2me",
+                "changement",
+                "degr\u00e9",
+                "saison",
+                "sorte, esp\u00e8ce, vari\u00e9t\u00e9"
+            ]
+        },
+        "word": {
+            "id": 7154,
+            "uri": "https://sedra.bethmardutho.org/api/word/7154.json"
+        }
+    }
+]

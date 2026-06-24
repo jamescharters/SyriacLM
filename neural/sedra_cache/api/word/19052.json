@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072a\u0713\u071d\u0713\u072c\u0710",
+        "western": "\u072a\u0713\u0742\u073a\u071d\u0713\u0742\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2927,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2927.json"
+        },
+        "stem": "\u072a\u0713\u071d\u0713\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0630\u0629",
+                "\u0634\u0647\u0648\u0629, \u0637\u0645\u0639"
+            ],
+            "eng": [
+                "lust",
+                "desire, lust."
+            ],
+            "fre": [
+                "volupt\u00e9",
+                "d\u00e9sir, convoitise"
+            ]
+        },
+        "word": {
+            "id": 19052,
+            "uri": "https://sedra.bethmardutho.org/api/word/19052.json"
+        }
+    }
+]

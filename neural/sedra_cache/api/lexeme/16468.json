@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 16468,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16468.json"
+        },
+        "syriac": "\u0710\u071d\u072a\u0710\u071b\u071d\u0718\u0722",
+        "glosses": {
+            "English": [
+                "sanctuary",
+                "sanctuary"
+            ],
+            "Greek": [
+                "\u1f31\u03b5\u03c1\u03b1\u03c4\u03b5\u1fd6\u03bf\u03bd"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f31\u03b5\u03c1\u03b1\u03c4\u03b5\u1fd6\u03bf\u03bd",
+                "\u1f31\u03b5\u03c1\u03b1\u03c4\u03b5\u1fd6\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 55527,
+                "uri": "https://sedra.bethmardutho.org/api/word/55527.json"
+            },
+            {
+                "id": 49632,
+                "uri": "https://sedra.bethmardutho.org/api/word/49632.json"
+            },
+            {
+                "id": 42842,
+                "uri": "https://sedra.bethmardutho.org/api/word/42842.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

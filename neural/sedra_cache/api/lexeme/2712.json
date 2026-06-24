@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 2712,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2712.json"
+        },
+        "syriac": "\u0728\u0726\u072a\u0710",
+        "glosses": {
+            "English": [
+                "small bird.",
+                "bird",
+                "sparrow"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1604,
+            "uri": "https://sedra.bethmardutho.org/api/root/1604.json"
+        },
+        "words": [
+            {
+                "id": 17609,
+                "uri": "https://sedra.bethmardutho.org/api/word/17609.json"
+            },
+            {
+                "id": 17611,
+                "uri": "https://sedra.bethmardutho.org/api/word/17611.json"
+            },
+            {
+                "id": 17610,
+                "uri": "https://sedra.bethmardutho.org/api/word/17610.json"
+            },
+            {
+                "id": 17536,
+                "uri": "https://sedra.bethmardutho.org/api/word/17536.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "syriac": "\u0710\u0712\u071d\u072c\u072a",
+        "western": "\u0710\u0730\u0712\u0742\u073a\u071d\u072c\u0742\u0733\u072a",
+        "eastern": "\u0710\u0732\u0712\u071d\u073c\u072c\u0735\u072a",
+        "lexeme": {
+            "id": 13,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13.json"
+        },
+        "stem": "\u0710\u0712\u071d\u072c\u072a",
+        "category": "proper noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Abiathar"
+            ]
+        },
+        "word": {
+            "id": 140,
+            "uri": "https://sedra.bethmardutho.org/api/word/140.json"
+        }
+    }
+]

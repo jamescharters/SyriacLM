@@ -1,0 +1,50 @@
+[
+    {
+        "lexeme": {
+            "id": 2741,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2741.json"
+        },
+        "syriac": "\u0720\u0718\u0729\u0715\u0721",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0628\u0644\u0627\u064b, \u0623\u0648\u0644\u0627\u064b",
+                "\u00a0"
+            ],
+            "French": [
+                "auparavant, d&#39;abord",
+                "avant, devant\u2026"
+            ],
+            "English": [
+                "before",
+                "formerly",
+                "first of all, before",
+                "<span class=\"selectableFont\">\u0721\u0736\u0722 \u0720\u073d\u0718\u0729\u0715\u0730\u0721</span> formerly."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1621,
+            "uri": "https://sedra.bethmardutho.org/api/root/1621.json"
+        },
+        "words": [
+            {
+                "id": 17812,
+                "uri": "https://sedra.bethmardutho.org/api/word/17812.json"
+            },
+            {
+                "id": 17811,
+                "uri": "https://sedra.bethmardutho.org/api/word/17811.json"
+            },
+            {
+                "id": 17810,
+                "uri": "https://sedra.bethmardutho.org/api/word/17810.json"
+            },
+            {
+                "id": 17813,
+                "uri": "https://sedra.bethmardutho.org/api/word/17813.json"
+            }
+        ],
+        "category": "particle",
+        "kaylo": "p\u02bfal"
+    }
+]

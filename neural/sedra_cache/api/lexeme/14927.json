@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 14927,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14927.json"
+        },
+        "syriac": "\u0729\u072c\u072a\u0723",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0632\u0644",
+                "\u00a0"
+            ],
+            "French": [
+                "d\u00e9poser",
+                "\u00a0"
+            ],
+            "English": [
+                "IVa to depose, remove from office",
+                "IVp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2536,
+            "uri": "https://sedra.bethmardutho.org/api/root/2536.json"
+        },
+        "words": [
+            {
+                "id": 41444,
+                "uri": "https://sedra.bethmardutho.org/api/word/41444.json"
+            },
+            {
+                "id": 40242,
+                "uri": "https://sedra.bethmardutho.org/api/word/40242.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

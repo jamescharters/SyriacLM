@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071f\u071a\u0715",
+        "western": "\u071f\u0741\u071a\u0730\u0715\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1506,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1506.json"
+        },
+        "stem": "\u071f\u071a\u0715",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "fear",
+                "reverence"
+            ]
+        },
+        "word": {
+            "id": 9893,
+            "uri": "https://sedra.bethmardutho.org/api/word/9893.json"
+        }
+    }
+]

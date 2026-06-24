@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 16479,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16479.json"
+        },
+        "syriac": "\u0712\u0710\u072a\u0718\u0715",
+        "glosses": {
+            "English": [
+                "salpetre",
+                "saltpetre"
+            ]
+        },
+        "etymologies": {
+            "Persian": [
+                "b\u008car\u016bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 47634,
+                "uri": "https://sedra.bethmardutho.org/api/word/47634.json"
+            },
+            {
+                "id": 42853,
+                "uri": "https://sedra.bethmardutho.org/api/word/42853.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

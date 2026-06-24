@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15407,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15407.json"
+        },
+        "syriac": "\u0722\u0729\u0719",
+        "glosses": {
+            "English": [
+                "Gram. to add vowel points, to punctuate",
+                "IIa to peck.",
+                "Ia to prick"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2574,
+            "uri": "https://sedra.bethmardutho.org/api/root/2574.json"
+        },
+        "words": [
+            {
+                "id": 42099,
+                "uri": "https://sedra.bethmardutho.org/api/word/42099.json"
+            },
+            {
+                "id": 41472,
+                "uri": "https://sedra.bethmardutho.org/api/word/41472.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

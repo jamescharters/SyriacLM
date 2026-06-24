@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2778,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2778.json"
+        },
+        "syriac": "\u0729\u0718\u072a\u071b\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0633\u0643"
+            ],
+            "French": [
+                "chardon"
+            ],
+            "English": [
+                "thistle",
+                "thornbush",
+                "thistle, thorn."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1638,
+            "uri": "https://sedra.bethmardutho.org/api/root/1638.json"
+        },
+        "words": [
+            {
+                "id": 22849,
+                "uri": "https://sedra.bethmardutho.org/api/word/22849.json"
+            },
+            {
+                "id": 18156,
+                "uri": "https://sedra.bethmardutho.org/api/word/18156.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

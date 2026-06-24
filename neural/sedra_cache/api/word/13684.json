@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u0715\u0723\u0713\u071d\u0718",
+        "western": "\u0715\u0741\u0730\u0723\u0713\u0742\u073a\u071d\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2063,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2063.json"
+        },
+        "stem": "\u0723\u0713\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u062b\u0631, \u0648\u0641\u0631"
+            ],
+            "eng": [
+                "to sing a sughitho",
+                "multiply",
+                "increase",
+                "& <span class=\"selectableFont\">\u0723\u0713\u073a\u071d</span> fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u0713\u0736\u0710</span>, Ia to abound",
+                "be great",
+                "to do often",
+                "to increase",
+                "to do much.",
+                "IIIa to increase, to multiply",
+                "IIa to multiply, increase (+ object)",
+                "Gram. to form a plural"
+            ],
+            "fre": [
+                "\u00eatre nombreux, abonder"
+            ]
+        },
+        "word": {
+            "id": 13684,
+            "uri": "https://sedra.bethmardutho.org/api/word/13684.json"
+        }
+    }
+]

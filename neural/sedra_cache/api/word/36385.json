@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0721\u0728\u0725\u071d\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u0728\u0725\u0733\u071d\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 6382,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6382.json"
+        },
+        "stem": "\u0721\u0728\u0725\u071d\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0633\u0637",
+                "\u0634\u0641\u0627\u0639\u0629",
+                "\u0625\u0628\u0647\u0627\u0645"
+            ],
+            "eng": [
+                "mediation, intervention",
+                "mediocrity.",
+                "middle position"
+            ],
+            "fre": [
+                "milieu",
+                "ambiguit\u00e9",
+                "m\u00e9diation"
+            ]
+        },
+        "word": {
+            "id": 36385,
+            "uri": "https://sedra.bethmardutho.org/api/word/36385.json"
+        }
+    }
+]

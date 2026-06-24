@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u071a\u0715\u072c\u0718\u072c\u0710",
+        "western": "\u071a\u0730\u0715\u0742\u0331\u072c\u0742\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 967,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/967.json"
+        },
+        "stem": "\u071a\u0715\u072c\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "newness",
+                "newness, novelty, innovation."
+            ]
+        },
+        "word": {
+            "id": 6332,
+            "uri": "https://sedra.bethmardutho.org/api/word/6332.json"
+        }
+    }
+]

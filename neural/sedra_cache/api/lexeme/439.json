@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 439,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/439.json"
+        },
+        "syriac": "\u0712\u0725\u0720\u0715\u071d\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062e\u0635\u0645",
+                ""
+            ],
+            "French": [
+                "adversaire",
+                "adversaire\u2026"
+            ],
+            "English": [
+                "adversary",
+                "adversary."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 297,
+            "uri": "https://sedra.bethmardutho.org/api/root/297.json"
+        },
+        "words": [
+            {
+                "id": 3076,
+                "uri": "https://sedra.bethmardutho.org/api/word/3076.json"
+            },
+            {
+                "id": 3038,
+                "uri": "https://sedra.bethmardutho.org/api/word/3038.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 752,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/752.json"
+        },
+        "syriac": "\u0715\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u062b\u0631, \u0641\u0631\u0642",
+                "\u0630\u0631\u0649"
+            ],
+            "French": [
+                "r\u00e9pandre, disperser",
+                "vanner"
+            ],
+            "English": [
+                "scatter",
+                "winnow",
+                "to winnow",
+                "Ia to scatter, sprinkle",
+                "to lavish",
+                "Ip."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 473,
+            "uri": "https://sedra.bethmardutho.org/api/root/473.json"
+        },
+        "words": [
+            {
+                "id": 29637,
+                "uri": "https://sedra.bethmardutho.org/api/word/29637.json"
+            },
+            {
+                "id": 4839,
+                "uri": "https://sedra.bethmardutho.org/api/word/4839.json"
+            },
+            {
+                "id": 4838,
+                "uri": "https://sedra.bethmardutho.org/api/word/4838.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

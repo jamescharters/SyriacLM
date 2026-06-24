@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0718\u0722\u0710",
+        "western": "\u0710\u0730\u072c\u0741\u073d\u0718\u0722\u0733\u0710",
+        "eastern": "\u0710\u0732\u072c\u0741\u0718\u073f\u0722\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 319,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/319.json"
+        },
+        "stem": "\u0710\u072c\u0718\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u062a\u0648\u0646"
+            ],
+            "eng": [
+                "oven, furnace.",
+                "furnace"
+            ],
+            "fre": [
+                "fournaise"
+            ]
+        },
+        "word": {
+            "id": 2169,
+            "uri": "https://sedra.bethmardutho.org/api/word/2169.json"
+        }
+    }
+]

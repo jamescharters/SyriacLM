@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 2676,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2676.json"
+        },
+        "syriac": "\u0728\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0639\u0646\u0642",
+                "\u0638\u0647\u0631 \u062c\u0628\u0644"
+            ],
+            "French": [
+                "cou",
+                "dos de montagne"
+            ],
+            "English": [
+                "neck, throat",
+                "neck",
+                "hump (of camel)",
+                "<span class=\"selectableFont\">\u0712\u0730\u072a \u0728\u0730\u0718\u072a\u0733\u0710</span> collar."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1584,
+            "uri": "https://sedra.bethmardutho.org/api/root/1584.json"
+        },
+        "words": [
+            {
+                "id": 26047,
+                "uri": "https://sedra.bethmardutho.org/api/word/26047.json"
+            },
+            {
+                "id": 17418,
+                "uri": "https://sedra.bethmardutho.org/api/word/17418.json"
+            },
+            {
+                "id": 17417,
+                "uri": "https://sedra.bethmardutho.org/api/word/17417.json"
+            },
+            {
+                "id": 17414,
+                "uri": "https://sedra.bethmardutho.org/api/word/17414.json"
+            },
+            {
+                "id": 17416,
+                "uri": "https://sedra.bethmardutho.org/api/word/17416.json"
+            },
+            {
+                "id": 17415,
+                "uri": "https://sedra.bethmardutho.org/api/word/17415.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

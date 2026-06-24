@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14668,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14668.json"
+        },
+        "syriac": "\u072b\u071d\u071a\u0722",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0646\u0646 (\u0645\u0636)",
+                "\u00a0"
+            ],
+            "French": [
+                "rendre fou",
+                "\u00a0"
+            ],
+            "English": [
+                "IVa to enrage",
+                "IVp to rave, rage."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2249,
+            "uri": "https://sedra.bethmardutho.org/api/root/2249.json"
+        },
+        "words": [
+            {
+                "id": 46981,
+                "uri": "https://sedra.bethmardutho.org/api/word/46981.json"
+            },
+            {
+                "id": 41139,
+                "uri": "https://sedra.bethmardutho.org/api/word/41139.json"
+            },
+            {
+                "id": 40868,
+                "uri": "https://sedra.bethmardutho.org/api/word/40868.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

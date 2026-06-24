@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0722\u0719\u0720\u0718\u0721",
+        "western": "\u0722\u0736\u0719\u0720\u073d\u0718\u0721",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15685,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15685.json"
+        },
+        "stem": "\u0719\u0720\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0632\u0627\u063a",
+                "\u0623\u0641\u0633\u062f"
+            ],
+            "eng": [
+                "Ia to make crooked, pervert, turn aside",
+                "Ip to be distorted."
+            ],
+            "fre": [
+                "induire en erreur",
+                "pervertir"
+            ]
+        },
+        "word": {
+            "id": 41850,
+            "uri": "https://sedra.bethmardutho.org/api/word/41850.json"
+        }
+    }
+]

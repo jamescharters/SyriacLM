@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15500,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15500.json"
+        },
+        "syriac": "\u072a\u072b",
+        "glosses": {
+            "English": [
+                "Ip",
+                "Ia to pound",
+                "IIa to crush",
+                "IIIp to be broken up small.",
+                "to chew",
+                "IIp",
+                "to husk"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3043,
+            "uri": "https://sedra.bethmardutho.org/api/root/3043.json"
+        },
+        "words": [
+            {
+                "id": 41634,
+                "uri": "https://sedra.bethmardutho.org/api/word/41634.json"
+            },
+            {
+                "id": 40678,
+                "uri": "https://sedra.bethmardutho.org/api/word/40678.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

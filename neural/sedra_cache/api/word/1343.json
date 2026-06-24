@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0710\u0721\u072c\u071d",
+        "western": "\u0710\u0736\u0721\u0730\u072c\u0742\u071d",
+        "eastern": "\u0710\u0738\u0721\u0732\u072c\u0742\u071d",
+        "lexeme": {
+            "id": 175,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/175.json"
+        },
+        "stem": "\u0710\u0721\u072c\u071d",
+        "category": "particle",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "when?",
+                "<span class=\"selectableFont\">\u0712\u071f\u073d\u0720 \u0710\u0736\u0721\u0730\u072c\u071d</span> at all times, every time",
+                "when? -<span class=\"selectableFont\">\u071f\u073d\u0720 \u0710\u0736\u0721\u0730\u072c\u071d \u0715</span>. whenever",
+                "<span class=\"selectableFont\">\u0710\u073a\u071d\u072c \u0710\u0736\u0721\u0730\u072c\u071d</span> sometimes."
+            ]
+        },
+        "word": {
+            "id": 1343,
+            "uri": "https://sedra.bethmardutho.org/api/word/1343.json"
+        }
+    }
+]

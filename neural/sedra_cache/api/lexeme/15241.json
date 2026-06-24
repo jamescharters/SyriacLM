@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 15241,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15241.json"
+        },
+        "syriac": "\u071f\u0720\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u0643\u0644\u0644",
+                "\u00a0"
+            ],
+            "French": [
+                "couronner",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa to crown",
+                "IIp",
+                "IIIa to fancy, imagine."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2570,
+            "uri": "https://sedra.bethmardutho.org/api/root/2570.json"
+        },
+        "words": [
+            {
+                "id": 41209,
+                "uri": "https://sedra.bethmardutho.org/api/word/41209.json"
+            },
+            {
+                "id": 41111,
+                "uri": "https://sedra.bethmardutho.org/api/word/41111.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

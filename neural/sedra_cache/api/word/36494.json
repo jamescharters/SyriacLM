@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0721\u071a\u072a\u0718\u0729\u071d\u072c\u0710",
+        "western": "\u0721\u0730\u071a\u072a\u073d\u0718\u0729\u073a\u071d\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 9906,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9906.json"
+        },
+        "stem": "\u0721\u071a\u072a\u0718\u0729\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "dog-collar",
+                "band of dogs."
+            ]
+        },
+        "word": {
+            "id": 36494,
+            "uri": "https://sedra.bethmardutho.org/api/word/36494.json"
+        }
+    }
+]

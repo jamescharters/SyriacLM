@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0720\u0712\u0712",
+        "western": "\u0720\u0730\u0712\u0736\u0712",
+        "lexeme": {
+            "id": 1618,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1618.json"
+        },
+        "stem": "\u0720\u0712\u0712",
+        "category": "denominative",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0634\u062c\u0639 (\u0645\u0636)"
+            ],
+            "eng": [
+                "encourage",
+                "IIp to take heart, be encouraged.",
+                "IIa to encourage, exhort"
+            ],
+            "fre": [
+                "r\u00e9conforter"
+            ]
+        },
+        "word": {
+            "id": 29300,
+            "uri": "https://sedra.bethmardutho.org/api/word/29300.json"
+        }
+    }
+]

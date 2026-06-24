@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0712\u0715\u0729",
+        "western": "\u0712\u0741\u0715\u0741\u0730\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 338,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/338.json"
+        },
+        "stem": "\u0712\u0715\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0631\u0627\u062f",
+                "\u0623\u0638\u0647\u0631",
+                "\u0633\u0646",
+                "\u0623\u0635\u0644\u062d"
+            ],
+            "eng": [
+                "show",
+                "make known"
+            ],
+            "fre": [
+                "explorer",
+                "montrer",
+                "\u00e9tablir",
+                "r\u00e9parer"
+            ]
+        },
+        "word": {
+            "id": 22764,
+            "uri": "https://sedra.bethmardutho.org/api/word/22764.json"
+        }
+    }
+]

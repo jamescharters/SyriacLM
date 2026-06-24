@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0728\u071a\u0722\u0718\u072c\u0710",
+        "western": "\u0728\u0730\u071a\u0722\u073d\u0718\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2684,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2684.json"
+        },
+        "stem": "\u0728\u071a\u0722\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0633\u0642"
+            ],
+            "eng": [
+                "filthiness",
+                "licentiousness, immodesty.",
+                "lasciviousness"
+            ],
+            "fre": [
+                "impudicit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 17437,
+            "uri": "https://sedra.bethmardutho.org/api/word/17437.json"
+        }
+    }
+]

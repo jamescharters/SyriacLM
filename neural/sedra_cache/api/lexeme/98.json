@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 98,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/98.json"
+        },
+        "syriac": "\u0710\u071d\u0729\u0722\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Iconium"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 79,
+            "uri": "https://sedra.bethmardutho.org/api/root/79.json"
+        },
+        "words": [
+            {
+                "id": 711,
+                "uri": "https://sedra.bethmardutho.org/api/word/711.json"
+            },
+            {
+                "id": 710,
+                "uri": "https://sedra.bethmardutho.org/api/word/710.json"
+            },
+            {
+                "id": 709,
+                "uri": "https://sedra.bethmardutho.org/api/word/709.json"
+            },
+            {
+                "id": 708,
+                "uri": "https://sedra.bethmardutho.org/api/word/708.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

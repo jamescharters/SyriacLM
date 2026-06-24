@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1752,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1752.json"
+        },
+        "syriac": "\u0721\u071d\u0720\u071d\u071b\u0710",
+        "glosses": {
+            "English": [
+                "Melita"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1051,
+            "uri": "https://sedra.bethmardutho.org/api/root/1051.json"
+        },
+        "words": [
+            {
+                "id": 11495,
+                "uri": "https://sedra.bethmardutho.org/api/word/11495.json"
+            },
+            {
+                "id": 11494,
+                "uri": "https://sedra.bethmardutho.org/api/word/11494.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

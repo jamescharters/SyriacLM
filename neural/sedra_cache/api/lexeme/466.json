@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 466,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/466.json"
+        },
+        "syriac": "\u0712\u072a \u072b\u0725\u072c\u0710",
+        "glosses": {
+            "English": [
+                "at once",
+                "straightway"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 314,
+            "uri": "https://sedra.bethmardutho.org/api/root/314.json"
+        },
+        "words": [
+            {
+                "id": 3194,
+                "uri": "https://sedra.bethmardutho.org/api/word/3194.json"
+            },
+            {
+                "id": 3193,
+                "uri": "https://sedra.bethmardutho.org/api/word/3193.json"
+            }
+        ],
+        "category": "idiom"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0721\u0720\u0710",
+        "western": "\u0721\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13366,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13366.json"
+        },
+        "stem": "\u0721\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0627\u0644"
+            ],
+            "eng": [
+                "property",
+                "tax money."
+            ],
+            "fre": [
+                "argent"
+            ]
+        },
+        "word": {
+            "id": 35881,
+            "uri": "https://sedra.bethmardutho.org/api/word/35881.json"
+        }
+    }
+]

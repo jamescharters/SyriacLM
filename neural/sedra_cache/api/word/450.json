@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u0710\u071a\u071d\u0722\u071d\u071f\u0718\u0722",
+        "western": "\u0718\u0730\u0710\u0331\u071a\u071d\u0733\u0722\u0730\u071d\u071f\u0741\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 13559,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13559.json"
+        },
+        "stem": "\u0710\u071a\u071d\u0722\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "kinswoman",
+                "related, akin to.",
+                "cousin",
+                "relative",
+                "kinsman"
+            ]
+        },
+        "word": {
+            "id": 450,
+            "uri": "https://sedra.bethmardutho.org/api/word/450.json"
+        }
+    }
+]

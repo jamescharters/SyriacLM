@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 1348,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1348.json"
+        },
+        "syriac": "\u071d\u0718\u0723\u0710",
+        "glosses": {
+            "English": [
+                "Joses"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 799,
+            "uri": "https://sedra.bethmardutho.org/api/root/799.json"
+        },
+        "words": [
+            {
+                "id": 8961,
+                "uri": "https://sedra.bethmardutho.org/api/word/8961.json"
+            },
+            {
+                "id": 8960,
+                "uri": "https://sedra.bethmardutho.org/api/word/8960.json"
+            },
+            {
+                "id": 8959,
+                "uri": "https://sedra.bethmardutho.org/api/word/8959.json"
+            },
+            {
+                "id": 8962,
+                "uri": "https://sedra.bethmardutho.org/api/word/8962.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

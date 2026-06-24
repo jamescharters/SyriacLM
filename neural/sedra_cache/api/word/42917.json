@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0723\u072a",
+        "western": "\u0710\u0730\u071f\u0723\u0730\u072a",
+        "lexeme": {
+            "id": 16543,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/16543.json"
+        },
+        "stem": "\u0710\u071f\u0723\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0",
+                "\u0646\u0641\u0649",
+                "\u00a0"
+            ],
+            "eng": [
+                "to exile, banish"
+            ],
+            "fre": [
+                "exiler",
+                "\u00a0",
+                "exiler"
+            ]
+        },
+        "word": {
+            "id": 42917,
+            "uri": "https://sedra.bethmardutho.org/api/word/42917.json"
+        }
+    }
+]

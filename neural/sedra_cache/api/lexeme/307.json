@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 307,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/307.json"
+        },
+        "syriac": "\u0710\u072b\u071d\u072a",
+        "glosses": {
+            "English": [
+                "Asher"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 227,
+            "uri": "https://sedra.bethmardutho.org/api/root/227.json"
+        },
+        "words": [
+            {
+                "id": 1995,
+                "uri": "https://sedra.bethmardutho.org/api/word/1995.json"
+            },
+            {
+                "id": 1994,
+                "uri": "https://sedra.bethmardutho.org/api/word/1994.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

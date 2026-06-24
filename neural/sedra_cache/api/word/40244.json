@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0720\u0717\u0729",
+        "western": "\u0720\u0717\u0730\u0729",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15587,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15587.json"
+        },
+        "stem": "\u0720\u0717\u0729",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0645\u062a\u0639 \u0628\u0640"
+            ],
+            "eng": [
+                "Ia to be eager",
+                "IIp to desire eagerly, to thirst after",
+                "IIIa to inflame with desire."
+            ],
+            "fre": [
+                "jouir de"
+            ]
+        },
+        "word": {
+            "id": 40244,
+            "uri": "https://sedra.bethmardutho.org/api/word/40244.json"
+        }
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "lexeme": {
+            "id": 449,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/449.json"
+        },
+        "syriac": "\u0712\u0718\u0729\u071d\u0710",
+        "glosses": {
+            "English": [
+                "proof",
+                "probation",
+                "trial, test, proof."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 304,
+            "uri": "https://sedra.bethmardutho.org/api/root/304.json"
+        },
+        "words": [
+            {
+                "id": 52275,
+                "uri": "https://sedra.bethmardutho.org/api/word/52275.json"
+            },
+            {
+                "id": 3125,
+                "uri": "https://sedra.bethmardutho.org/api/word/3125.json"
+            },
+            {
+                "id": 3123,
+                "uri": "https://sedra.bethmardutho.org/api/word/3123.json"
+            },
+            {
+                "id": 3122,
+                "uri": "https://sedra.bethmardutho.org/api/word/3122.json"
+            },
+            {
+                "id": 3120,
+                "uri": "https://sedra.bethmardutho.org/api/word/3120.json"
+            },
+            {
+                "id": 3124,
+                "uri": "https://sedra.bethmardutho.org/api/word/3124.json"
+            },
+            {
+                "id": 3121,
+                "uri": "https://sedra.bethmardutho.org/api/word/3121.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

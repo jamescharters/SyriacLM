@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 1866,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1866.json"
+        },
+        "syriac": "\u0721\u072a\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0631\u064a\u0636, \u0636\u0639\u064a\u0641",
+                "\u0645\u0631\u0636"
+            ],
+            "French": [
+                "malade, faible",
+                "maladie"
+            ],
+            "English": [
+                "weak",
+                "sick",
+                "infirm",
+                "sickly, ill, infirm."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1114,
+            "uri": "https://sedra.bethmardutho.org/api/root/1114.json"
+        },
+        "words": [
+            {
+                "id": 22813,
+                "uri": "https://sedra.bethmardutho.org/api/word/22813.json"
+            },
+            {
+                "id": 12281,
+                "uri": "https://sedra.bethmardutho.org/api/word/12281.json"
+            },
+            {
+                "id": 12280,
+                "uri": "https://sedra.bethmardutho.org/api/word/12280.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

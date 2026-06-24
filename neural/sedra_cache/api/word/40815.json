@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u072b\u0717\u071d",
+        "western": "\u072b\u0717\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15853,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15853.json"
+        },
+        "stem": "\u072b\u0717\u0710",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0639\u0641, \u062e\u0645\u062f, \u062e\u0627\u0631\u062a \u0642\u0648\u0627\u0647"
+            ],
+            "eng": [
+                "to be still",
+                "Ia to grow cool, to abate",
+                "IIa to cool, moderate",
+                "to be worn out",
+                "IIIa.",
+                "IIp to be cooled, abated"
+            ],
+            "fre": [
+                "s&#39;affaiblir, s&#39;\u00e9teindre, d\u00e9faillir"
+            ]
+        },
+        "word": {
+            "id": 40815,
+            "uri": "https://sedra.bethmardutho.org/api/word/40815.json"
+        }
+    }
+]

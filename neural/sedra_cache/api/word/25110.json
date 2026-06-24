@@ -1,0 +1,45 @@
+[
+    {
+        "syriac": "\u0721\u072c\u071b\u0718\u072b\u0710",
+        "western": "\u0721\u0736\u072c\u0741\u071b\u0730\u0718\u072b\u0733\u0710",
+        "tense": "participle",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "singular",
+        "person": "first",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1220,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1220.json"
+        },
+        "stem": "\u071b\u0718\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "IIp.",
+                "pollute",
+                "besmear",
+                "defile",
+                "soil",
+                "anoint",
+                "Ip",
+                "IIa <span class=\"selectableFont\">\u071b\u0730\u0718\u0736\u072b</span> to defile, pollute, profane",
+                "Ia to besmear, anoint",
+                "to ascribe"
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 25110,
+            "uri": "https://sedra.bethmardutho.org/api/word/25110.json"
+        }
+    }
+]

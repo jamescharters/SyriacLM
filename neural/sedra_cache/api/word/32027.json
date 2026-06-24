@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u072c\u071f\u0720\u0710",
+        "western": "\u072c\u071f\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7747,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7747.json"
+        },
+        "stem": "\u072c\u071f\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062b\u0643\u0644"
+            ],
+            "eng": [
+                "loss of children",
+                "barrenness.",
+                "bereavement"
+            ],
+            "fre": [
+                "perte des enfants"
+            ]
+        },
+        "word": {
+            "id": 32027,
+            "uri": "https://sedra.bethmardutho.org/api/word/32027.json"
+        }
+    }
+]

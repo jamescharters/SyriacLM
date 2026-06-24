@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0713\u072a\u0713",
+        "western": "\u072b\u072a\u0730\u0713\u072a\u0736\u0713",
+        "number": "singular",
+        "lexeme": {
+            "id": 8082,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8082.json"
+        },
+        "stem": "\u072b\u072a\u0713\u072a\u0713",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0638\u0627\u0647\u0631 \u0628\u0640"
+            ],
+            "eng": [
+                "Va to seem to do",
+                "Vp to imagine, to be imagined",
+                "to long for.",
+                "to have hallucinations",
+                "imagine"
+            ],
+            "fre": [
+                "faire en apparence, sembler faire"
+            ]
+        },
+        "word": {
+            "id": 31695,
+            "uri": "https://sedra.bethmardutho.org/api/word/31695.json"
+        }
+    }
+]

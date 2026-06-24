@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28757,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28757.json"
+        },
+        "syriac": "\u0710\u071d\u0713\u0722\u0721",
+        "glosses": {
+            "Latin": [
+                "ignem"
+            ],
+            "English": [
+                "fire"
+            ]
+        },
+        "etymologies": {
+            "Latin": [
+                "ignis"
+            ]
+        },
+        "words": [
+            {
+                "id": 49255,
+                "uri": "https://sedra.bethmardutho.org/api/word/49255.json"
+            },
+            {
+                "id": 55131,
+                "uri": "https://sedra.bethmardutho.org/api/word/55131.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

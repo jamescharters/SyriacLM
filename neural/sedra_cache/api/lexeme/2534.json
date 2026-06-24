@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 2534,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2534.json"
+        },
+        "syriac": "\u0726\u0720\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0628\u0639\u062f"
+            ],
+            "French": [
+                "\u00e9carter"
+            ],
+            "English": [
+                "put aside",
+                "Ip",
+                "IIIa to shake off, to shake free.",
+                "Ia, IIa to shake off, to put aside"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1502,
+            "uri": "https://sedra.bethmardutho.org/api/root/1502.json"
+        },
+        "words": [
+            {
+                "id": 16548,
+                "uri": "https://sedra.bethmardutho.org/api/word/16548.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

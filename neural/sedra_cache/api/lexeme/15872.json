@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15872,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15872.json"
+        },
+        "syriac": "\u0729\u0720\u0729",
+        "glosses": {
+            "English": [
+                "Ia to look askance",
+                "to squint."
+            ],
+            "Arabic": [
+                "\u0623\u062d\u0648\u0644 (\u0639\u064a\u0646\u064a\u0647)"
+            ],
+            "French": [
+                "faire loucher ( les yeux)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3154,
+            "uri": "https://sedra.bethmardutho.org/api/root/3154.json"
+        },
+        "words": [
+            {
+                "id": 42156,
+                "uri": "https://sedra.bethmardutho.org/api/word/42156.json"
+            },
+            {
+                "id": 41880,
+                "uri": "https://sedra.bethmardutho.org/api/word/41880.json"
+            },
+            {
+                "id": 41207,
+                "uri": "https://sedra.bethmardutho.org/api/word/41207.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

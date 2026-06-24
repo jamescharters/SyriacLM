@@ -1,0 +1,41 @@
+[
+    {
+        "lexeme": {
+            "id": 15642,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15642.json"
+        },
+        "syriac": "\u0719\u0729\u072c",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u062e\u0633",
+                "\u00a0"
+            ],
+            "French": [
+                "aiguillonner",
+                "\u00a0"
+            ],
+            "English": [
+                "IIa.",
+                "Ip",
+                "Ia to prick, goad",
+                "to provoke"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2576,
+            "uri": "https://sedra.bethmardutho.org/api/root/2576.json"
+        },
+        "words": [
+            {
+                "id": 41638,
+                "uri": "https://sedra.bethmardutho.org/api/word/41638.json"
+            },
+            {
+                "id": 40974,
+                "uri": "https://sedra.bethmardutho.org/api/word/40974.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

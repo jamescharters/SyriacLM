@@ -1,0 +1,62 @@
+[
+    {
+        "lexeme": {
+            "id": 354,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/354.json"
+        },
+        "syriac": "\u0712\u0718\u072a\u071f\u072c\u0710",
+        "glosses": {
+            "English": [
+                "blessing",
+                "benediction",
+                "blessing",
+                "Lit. blessed bread.",
+                "present, gift"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 254,
+            "uri": "https://sedra.bethmardutho.org/api/root/254.json"
+        },
+        "words": [
+            {
+                "id": 2431,
+                "uri": "https://sedra.bethmardutho.org/api/word/2431.json"
+            },
+            {
+                "id": 2430,
+                "uri": "https://sedra.bethmardutho.org/api/word/2430.json"
+            },
+            {
+                "id": 2429,
+                "uri": "https://sedra.bethmardutho.org/api/word/2429.json"
+            },
+            {
+                "id": 2428,
+                "uri": "https://sedra.bethmardutho.org/api/word/2428.json"
+            },
+            {
+                "id": 2423,
+                "uri": "https://sedra.bethmardutho.org/api/word/2423.json"
+            },
+            {
+                "id": 2426,
+                "uri": "https://sedra.bethmardutho.org/api/word/2426.json"
+            },
+            {
+                "id": 2425,
+                "uri": "https://sedra.bethmardutho.org/api/word/2425.json"
+            },
+            {
+                "id": 2424,
+                "uri": "https://sedra.bethmardutho.org/api/word/2424.json"
+            },
+            {
+                "id": 2427,
+                "uri": "https://sedra.bethmardutho.org/api/word/2427.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 812,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/812.json"
+        },
+        "syriac": "\u0717\u072a\u0718\u0715\u071d\u0710",
+        "glosses": {
+            "English": [
+                "Herodias"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 515,
+            "uri": "https://sedra.bethmardutho.org/api/root/515.json"
+        },
+        "words": [
+            {
+                "id": 5322,
+                "uri": "https://sedra.bethmardutho.org/api/word/5322.json"
+            },
+            {
+                "id": 5323,
+                "uri": "https://sedra.bethmardutho.org/api/word/5323.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

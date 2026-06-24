@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u071a\u0720\u072b",
+        "western": "\u071a\u0730\u0720\u0736\u072b",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15077,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15077.json"
+        },
+        "stem": "\u071a\u0720\u072b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "IIa to weaken",
+                "IIp to be enfeebled, discouraged."
+            ]
+        },
+        "word": {
+            "id": 40164,
+            "uri": "https://sedra.bethmardutho.org/api/word/40164.json"
+        }
+    }
+]

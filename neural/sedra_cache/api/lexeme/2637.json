@@ -1,0 +1,45 @@
+[
+    {
+        "lexeme": {
+            "id": 2637,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2637.json"
+        },
+        "syriac": "\u0726\u072b\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0641\u0633\u0631 (\u0623\u062d\u0644\u0627\u0645)",
+                "\u0647\u0636\u0627\u0645",
+                "\u0628\u0627\u0637\u0644",
+                "\u0641\u0627\u0631\u063a \u0645\u0646 \u0627\u0644\u0623\u0634\u063a\u0627\u0644"
+            ],
+            "French": [
+                "interpr\u00e8te (de songes)",
+                "digestif",
+                "vain",
+                "libre d&#39;affaires"
+            ],
+            "English": [
+                "lukewarm",
+                "tepid",
+                "silly.",
+                "lukewarm",
+                "dream interpreter",
+                "explainer",
+                "digestive"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1563,
+            "uri": "https://sedra.bethmardutho.org/api/root/1563.json"
+        },
+        "words": [
+            {
+                "id": 17147,
+                "uri": "https://sedra.bethmardutho.org/api/word/17147.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "p\u02bfal"
+    }
+]

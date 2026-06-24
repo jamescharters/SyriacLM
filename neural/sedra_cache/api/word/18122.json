@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0729\u071d\u0718\u0721\u0710",
+        "western": "\u0729\u0733\u071d\u073d\u0718\u0721\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2769,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2769.json"
+        },
+        "stem": "\u0729\u071d\u0718\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0648\u0635\u064a\u0629",
+                "\u0645\u0633\u0627\u0639\u062f",
+                "\u062d\u0627\u0643\u0645, \u0645\u062f\u064a\u0631, \u0645\u0631\u0627\u0642\u0628"
+            ],
+            "eng": [
+                "supporter",
+                "succourer",
+                "Kth. locum tenens to the Patriarchate.",
+                "upholder",
+                "president, superintendent, manager"
+            ],
+            "fre": [
+                "aide",
+                "pr\u00e9fet, administrateur, inspecteur",
+                "pr\u00e9cepte"
+            ]
+        },
+        "word": {
+            "id": 18122,
+            "uri": "https://sedra.bethmardutho.org/api/word/18122.json"
+        }
+    }
+]

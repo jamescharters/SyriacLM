@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2306,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2306.json"
+        },
+        "syriac": "\u0725\u071d\u0722 \u071d\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Aenon"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1373,
+            "uri": "https://sedra.bethmardutho.org/api/root/1373.json"
+        },
+        "words": [
+            {
+                "id": 15286,
+                "uri": "https://sedra.bethmardutho.org/api/word/15286.json"
+            },
+            {
+                "id": 15285,
+                "uri": "https://sedra.bethmardutho.org/api/word/15285.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

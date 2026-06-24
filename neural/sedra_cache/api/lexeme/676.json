@@ -1,0 +1,73 @@
+[
+    {
+        "lexeme": {
+            "id": 676,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/676.json"
+        },
+        "syriac": "\u0715\u071a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0641\u0639, \u062f\u062d\u0642",
+                "\u0635\u062f\u0645",
+                ""
+            ],
+            "French": [
+                "pousser , repousser",
+                "heurter",
+                ""
+            ],
+            "English": [
+                "IIa, IIp.",
+                "push away",
+                "Ip to be hurled",
+                "to drive off, repel",
+                "to be cast out",
+                "Ia to push, thrust"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 431,
+            "uri": "https://sedra.bethmardutho.org/api/root/431.json"
+        },
+        "words": [
+            {
+                "id": 23952,
+                "uri": "https://sedra.bethmardutho.org/api/word/23952.json"
+            },
+            {
+                "id": 23951,
+                "uri": "https://sedra.bethmardutho.org/api/word/23951.json"
+            },
+            {
+                "id": 4255,
+                "uri": "https://sedra.bethmardutho.org/api/word/4255.json"
+            },
+            {
+                "id": 23954,
+                "uri": "https://sedra.bethmardutho.org/api/word/23954.json"
+            },
+            {
+                "id": 23953,
+                "uri": "https://sedra.bethmardutho.org/api/word/23953.json"
+            },
+            {
+                "id": 4259,
+                "uri": "https://sedra.bethmardutho.org/api/word/4259.json"
+            },
+            {
+                "id": 4258,
+                "uri": "https://sedra.bethmardutho.org/api/word/4258.json"
+            },
+            {
+                "id": 4257,
+                "uri": "https://sedra.bethmardutho.org/api/word/4257.json"
+            },
+            {
+                "id": 4256,
+                "uri": "https://sedra.bethmardutho.org/api/word/4256.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

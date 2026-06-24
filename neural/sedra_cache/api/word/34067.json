@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0713\u0720\u0718\u0722\u0710",
+        "western": "\u0721\u0730\u0713\u0720\u073d\u0718\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8013,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8013.json"
+        },
+        "stem": "\u0721\u0713\u0720\u0718\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0631\u0629 \u0645\u0646 \u0637\u064a\u0646"
+            ],
+            "eng": [
+                "clod (of earth)."
+            ],
+            "fre": [
+                "boule d&#39;argile"
+            ]
+        },
+        "word": {
+            "id": 34067,
+            "uri": "https://sedra.bethmardutho.org/api/word/34067.json"
+        }
+    }
+]

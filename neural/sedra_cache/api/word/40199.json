@@ -1,0 +1,46 @@
+[
+    {
+        "syriac": "\u071a\u0712\u071f",
+        "western": "\u071a\u0712\u0730\u071f",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15453,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15453.json"
+        },
+        "stem": "\u071a\u0712\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0632\u062c, \u062e\u0644\u0637",
+                "\u00a0",
+                "\u062c\u0645\u0639",
+                "\u00a0"
+            ],
+            "eng": [
+                "IIa to intermix, amalgamate, confuse",
+                "Ip",
+                "IIp.",
+                "Ia to mix, mingle, blend",
+                "confuse, confound"
+            ],
+            "fre": [
+                "\u00a0",
+                "m\u00ealer, confondre",
+                "unir",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 40199,
+            "uri": "https://sedra.bethmardutho.org/api/word/40199.json"
+        }
+    }
+]

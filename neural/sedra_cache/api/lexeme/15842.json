@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 15842,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15842.json"
+        },
+        "syriac": "\u072a\u072b\u0720",
+        "glosses": {
+            "English": [
+                "Ia to be feeble",
+                "to give way to",
+                "IIp to grow feeble",
+                "to falter",
+                "Ip to be paralyzed, to be disabled",
+                "IIIa to give up, to let go."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2932,
+            "uri": "https://sedra.bethmardutho.org/api/root/2932.json"
+        },
+        "words": [
+            {
+                "id": 42103,
+                "uri": "https://sedra.bethmardutho.org/api/word/42103.json"
+            },
+            {
+                "id": 40565,
+                "uri": "https://sedra.bethmardutho.org/api/word/40565.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

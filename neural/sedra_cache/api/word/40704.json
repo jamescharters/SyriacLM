@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072b\u072a\u0712",
+        "western": "\u072b\u072a\u0736\u0712",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15657,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15657.json"
+        },
+        "stem": "\u072b\u072a\u0712",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u062c\u0641\u0641, \u0646\u0634\u0641"
+            ],
+            "eng": [
+                "IIa to dry.",
+                "Ip to be dried up",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u072b\u072a\u0730\u0712</span>, Ia to become dry, sapless"
+            ],
+            "fre": [
+                "se dess\u00e9cher, s\u00e9cher"
+            ]
+        },
+        "word": {
+            "id": 40704,
+            "uri": "https://sedra.bethmardutho.org/api/word/40704.json"
+        }
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 5566,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/5566.json"
+        },
+        "syriac": "\u0710\u071f\u0721\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u00a0",
+                ""
+            ],
+            "French": [
+                "comme, combien",
+                ""
+            ],
+            "English": [
+                "as long as",
+                "<span class=\"selectableFont\">\u0710\u0730\u071f\u0721\u0733\u0710 \u0719\u0730\u0712\u0308</span><span class=\"selectableFont\">\u0722\u073a\u071d\u0722</span> sometimes."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 620,
+                "uri": "https://sedra.bethmardutho.org/api/word/620.json"
+            },
+            {
+                "id": 38981,
+                "uri": "https://sedra.bethmardutho.org/api/word/38981.json"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15781,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15781.json"
+        },
+        "syriac": "\u0712\u072a\u0721",
+        "glosses": {
+            "English": [
+                "Ip.",
+                "to corrode",
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0712\u072a\u073d\u0718\u0721</span>, Ia to gnaw, eat into (of insects)"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2095,
+            "uri": "https://sedra.bethmardutho.org/api/root/2095.json"
+        },
+        "words": [
+            {
+                "id": 40094,
+                "uri": "https://sedra.bethmardutho.org/api/word/40094.json"
+            },
+            {
+                "id": 42192,
+                "uri": "https://sedra.bethmardutho.org/api/word/42192.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

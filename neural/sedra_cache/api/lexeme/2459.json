@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 2459,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2459.json"
+        },
+        "syriac": "\u0726\u0718\u0712\u0710",
+        "glosses": {
+            "English": [
+                "Phoebe"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1453,
+            "uri": "https://sedra.bethmardutho.org/api/root/1453.json"
+        },
+        "words": [
+            {
+                "id": 16204,
+                "uri": "https://sedra.bethmardutho.org/api/word/16204.json"
+            },
+            {
+                "id": 16205,
+                "uri": "https://sedra.bethmardutho.org/api/word/16205.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

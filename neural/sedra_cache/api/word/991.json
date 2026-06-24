@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0720\u0726\u0710",
+        "western": "\u0715\u0741\u0736\u0710\u0720\u0726\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 152,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/152.json"
+        },
+        "stem": "\u0710\u0720\u0726\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "boat",
+                "ship, boat.",
+                "ship"
+            ]
+        },
+        "word": {
+            "id": 991,
+            "uri": "https://sedra.bethmardutho.org/api/word/991.json"
+        }
+    }
+]

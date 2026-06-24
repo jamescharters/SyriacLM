@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u072c\u071f\u071d\u0722\u0722\u0710",
+        "western": "\u0721\u0736\u072c\u071f\u0730\u071d\u0722\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10139,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10139.json"
+        },
+        "stem": "\u0721\u072c\u071f\u071d\u0722\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0644\u064a\u0642\u0629"
+            ],
+            "eng": [
+                "natural creature."
+            ],
+            "fre": [
+                "cr\u00e9ature"
+            ]
+        },
+        "word": {
+            "id": 34143,
+            "uri": "https://sedra.bethmardutho.org/api/word/34143.json"
+        }
+    }
+]

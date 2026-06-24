@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 1242,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1242.json"
+        },
+        "syriac": "\u0721\u071b\u0720\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0638\u0644\u0629"
+            ],
+            "French": [
+                "tente"
+            ],
+            "English": [
+                "booth",
+                "tabernacle",
+                "shade",
+                "shed",
+                "tent",
+                "Transfiguration (feast of).",
+                "pl. heavenly abodes",
+                "Sukkot"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 733,
+            "uri": "https://sedra.bethmardutho.org/api/root/733.json"
+        },
+        "words": [
+            {
+                "id": 8122,
+                "uri": "https://sedra.bethmardutho.org/api/word/8122.json"
+            },
+            {
+                "id": 8126,
+                "uri": "https://sedra.bethmardutho.org/api/word/8126.json"
+            },
+            {
+                "id": 8125,
+                "uri": "https://sedra.bethmardutho.org/api/word/8125.json"
+            },
+            {
+                "id": 8123,
+                "uri": "https://sedra.bethmardutho.org/api/word/8123.json"
+            },
+            {
+                "id": 42258,
+                "uri": "https://sedra.bethmardutho.org/api/word/42258.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

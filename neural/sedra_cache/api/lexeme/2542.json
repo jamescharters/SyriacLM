@@ -1,0 +1,38 @@
+[
+    {
+        "lexeme": {
+            "id": 2542,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2542.json"
+        },
+        "syriac": "\u0726\u0722\u071b\u0729\u0718\u0723\u071b\u0710",
+        "glosses": {
+            "English": [
+                "Pentecost"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c0\u03b5\u03bd\u03c4\u03b7\u03ba\u03bf\u03c3\u03c4\u03ae"
+            ]
+        },
+        "root": {
+            "id": 1508,
+            "uri": "https://sedra.bethmardutho.org/api/root/1508.json"
+        },
+        "words": [
+            {
+                "id": 16603,
+                "uri": "https://sedra.bethmardutho.org/api/word/16603.json"
+            },
+            {
+                "id": 16602,
+                "uri": "https://sedra.bethmardutho.org/api/word/16602.json"
+            },
+            {
+                "id": 16604,
+                "uri": "https://sedra.bethmardutho.org/api/word/16604.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

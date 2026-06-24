@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0723\u0718\u072a\u071a\u0710",
+        "western": "\u0723\u073d\u0718\u072a\u0733\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7425,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7425.json"
+        },
+        "stem": "\u0723\u0718\u072a\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0630\u0649, \u0636\u0631\u0631"
+            ],
+            "eng": [
+                "injury",
+                "laceration."
+            ],
+            "fre": [
+                "dommage, mal"
+            ]
+        },
+        "word": {
+            "id": 35125,
+            "uri": "https://sedra.bethmardutho.org/api/word/35125.json"
+        }
+    }
+]

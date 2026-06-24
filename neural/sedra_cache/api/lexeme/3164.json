@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 3164,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3164.json"
+        },
+        "syriac": "\u0721\u072b\u071a\u071b\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0627\u0639\u0648\u0646"
+            ],
+            "French": [
+                "peste"
+            ],
+            "English": [
+                "corrupter",
+                "spoiler",
+                "corruptor, corrupting, vicious."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1842,
+            "uri": "https://sedra.bethmardutho.org/api/root/1842.json"
+        },
+        "words": [
+            {
+                "id": 20786,
+                "uri": "https://sedra.bethmardutho.org/api/word/20786.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

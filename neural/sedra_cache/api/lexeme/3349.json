@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 3349,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3349.json"
+        },
+        "syriac": "\u072c\u0712\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0628\u0646",
+                "\u0639\u0644\u0641"
+            ],
+            "French": [
+                "paille",
+                "foin"
+            ],
+            "English": [
+                "chaff",
+                "straw",
+                "straw, hay."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1945,
+            "uri": "https://sedra.bethmardutho.org/api/root/1945.json"
+        },
+        "words": [
+            {
+                "id": 22295,
+                "uri": "https://sedra.bethmardutho.org/api/word/22295.json"
+            },
+            {
+                "id": 22296,
+                "uri": "https://sedra.bethmardutho.org/api/word/22296.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

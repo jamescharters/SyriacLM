@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0726\u0729\u0718\u0725\u0710",
+        "western": "\u0726\u0741\u0730\u0729\u073d\u0718\u0725\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2571,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2571.json"
+        },
+        "stem": "\u0726\u0729\u0718\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u0646\u0638\u0644",
+                "\u062a\u064a\u0646\u0629 \u0645\u062d\u0629"
+            ],
+            "eng": [
+                "wild gourd",
+                "unripe fig",
+                "unripe fig",
+                "bow-legged."
+            ],
+            "fre": [
+                "coloquinte",
+                "figue verte"
+            ]
+        },
+        "word": {
+            "id": 16815,
+            "uri": "https://sedra.bethmardutho.org/api/word/16815.json"
+        }
+    }
+]

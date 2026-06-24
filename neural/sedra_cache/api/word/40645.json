@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0729\u071d\u0722\u0722",
+        "western": "\u0729\u0730\u071d\u0722\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14675,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14675.json"
+        },
+        "stem": "\u0729\u071d\u0722\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IVa to work as a smith, to forge."
+            ]
+        },
+        "word": {
+            "id": 40645,
+            "uri": "https://sedra.bethmardutho.org/api/word/40645.json"
+        }
+    }
+]

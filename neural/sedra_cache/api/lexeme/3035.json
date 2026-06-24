@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 3035,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3035.json"
+        },
+        "syriac": "\u072a\u0721\u072c\u0710",
+        "glosses": {
+            "English": [
+                "Ramah"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1769,
+            "uri": "https://sedra.bethmardutho.org/api/root/1769.json"
+        },
+        "words": [
+            {
+                "id": 19807,
+                "uri": "https://sedra.bethmardutho.org/api/word/19807.json"
+            },
+            {
+                "id": 19808,
+                "uri": "https://sedra.bethmardutho.org/api/word/19808.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

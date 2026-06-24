@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28639,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28639.json"
+        },
+        "syriac": "\u0710\u0718\u072a\u072c\u0726\u0718\u0722\u071d\u0710",
+        "glosses": {
+            "Greek": [
+                "\u1f40\u03c1\u03b8\u03cc\u03c0\u03bd\u03bf\u03b9\u03b1"
+            ],
+            "English": [
+                "breathing only in an upright posture, orthopnoea"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f40\u03c1\u03b8\u03cc\u03c0\u03bd\u03bf\u03b9\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 49034,
+                "uri": "https://sedra.bethmardutho.org/api/word/49034.json"
+            },
+            {
+                "id": 55013,
+                "uri": "https://sedra.bethmardutho.org/api/word/55013.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

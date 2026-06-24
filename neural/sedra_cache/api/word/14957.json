@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0725\u0713\u0720\u0718",
+        "western": "\u0725\u0730\u0713\u0741\u0736\u0720\u0718",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15029,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15029.json"
+        },
+        "stem": "\u0725\u0713\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u062d\u0631\u062c"
+            ],
+            "eng": [
+                "IIa to roll away.",
+                "roll"
+            ],
+            "fre": [
+                "rouler (tr.)"
+            ]
+        },
+        "word": {
+            "id": 14957,
+            "uri": "https://sedra.bethmardutho.org/api/word/14957.json"
+        }
+    }
+]

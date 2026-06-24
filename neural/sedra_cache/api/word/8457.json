@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0718\u071d\u0712\u072b\u0718",
+        "western": "\u0718\u073a\u071d\u0712\u0742\u0736\u072b\u0718",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1296,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1296.json"
+        },
+        "stem": "\u071d\u0712\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "IIa to desiccate, to parch",
+                "dry up",
+                "wither",
+                "cause to wither",
+                "to wither, droop",
+                "IIp",
+                "Ia to dry up, to be arid",
+                "to cause to dry up.",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0718\u0712\u0736\u072b</span> to dry up, to shrivel."
+            ]
+        },
+        "word": {
+            "id": 8457,
+            "uri": "https://sedra.bethmardutho.org/api/word/8457.json"
+        }
+    }
+]

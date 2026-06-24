@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0710\u0720\u0726\u071d\u0710",
+        "western": "\u0710\u0730\u0720\u0726\u0730\u071d\u0308\u0733\u0710",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 151,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/151.json"
+        },
+        "stem": "\u0710\u0720\u0726\u0710",
+        "category": "numeral",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "thousand",
+                "a thousand."
+            ]
+        },
+        "word": {
+            "id": 42237,
+            "uri": "https://sedra.bethmardutho.org/api/word/42237.json"
+        }
+    }
+]

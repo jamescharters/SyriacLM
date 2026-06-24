@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u072b\u0722\u0718\u0719\u071d\u0710",
+        "western": "\u072b\u0722\u073d\u0718\u0719\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8385,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8385.json"
+        },
+        "stem": "\u072b\u0722\u0718\u0719\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Gram. exception, anomaly.",
+                "aberration",
+                "redemption of a pledge"
+            ]
+        },
+        "word": {
+            "id": 34830,
+            "uri": "https://sedra.bethmardutho.org/api/word/34830.json"
+        }
+    }
+]

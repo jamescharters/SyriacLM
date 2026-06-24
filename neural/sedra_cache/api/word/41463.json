@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u072b\u0725\u071b",
+        "western": "\u072b\u0725\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15490,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15490.json"
+        },
+        "stem": "\u072b\u0725\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0637\u0627\u0631"
+            ],
+            "eng": [
+                "Ia to float, swim",
+                "to crawl",
+                "to fly."
+            ],
+            "fre": [
+                "voler"
+            ]
+        },
+        "word": {
+            "id": 41463,
+            "uri": "https://sedra.bethmardutho.org/api/word/41463.json"
+        }
+    }
+]

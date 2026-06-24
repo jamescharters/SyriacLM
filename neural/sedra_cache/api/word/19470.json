@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0718\u072a\u0721\u072c\u0710",
+        "western": "\u0718\u072a\u0733\u0721\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2985,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2985.json"
+        },
+        "stem": "\u072a\u0721\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0644\u0629",
+                "\u063a\u062f\u064a\u0631"
+            ],
+            "eng": [
+                "hill"
+            ],
+            "fre": [
+                "colline",
+                "\u00e9tang"
+            ]
+        },
+        "word": {
+            "id": 19470,
+            "uri": "https://sedra.bethmardutho.org/api/word/19470.json"
+        }
+    }
+]

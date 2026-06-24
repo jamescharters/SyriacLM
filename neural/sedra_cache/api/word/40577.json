@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0723\u072a\u0723\u071b",
+        "western": "\u0723\u0730\u072a\u0723\u0736\u071b",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14834,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14834.json"
+        },
+        "stem": "\u0723\u072a\u0723\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0633\u0627\u0621 \u0627\u0644\u0643\u062a\u0627\u0628\u0629"
+            ],
+            "eng": [
+                "IVa to scrawl, to write badly."
+            ],
+            "fre": [
+                "\u00e9crire mal"
+            ]
+        },
+        "word": {
+            "id": 40577,
+            "uri": "https://sedra.bethmardutho.org/api/word/40577.json"
+        }
+    }
+]

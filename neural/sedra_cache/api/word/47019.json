@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072a\u0725\u071d",
+        "western": "\u072a\u0730\u0725\u073a\u071d",
+        "lexeme": {
+            "id": 6259,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/6259.json"
+        },
+        "stem": "\u072a\u0725\u071d",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0647\u062f\u0623",
+                "\u0623\u0635\u0644\u062d",
+                "\u00a0",
+                "\u0623\u0631\u0636\u0649"
+            ],
+            "eng": [
+                "see <span class=\"selectableFont\">\u072a\u0725\u0733\u0710</span>.",
+                "Pael conj. of verb \u072a\u0725\u0733\u0710"
+            ],
+            "fre": [
+                "\u00a0",
+                "r\u00e9concilier",
+                "contenter",
+                "apaiser"
+            ]
+        },
+        "word": {
+            "id": 47019,
+            "uri": "https://sedra.bethmardutho.org/api/word/47019.json"
+        }
+    }
+]

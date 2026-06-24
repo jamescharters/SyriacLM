@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071a\u0721\u072a\u071d\u0710",
+        "western": "\u071a\u0721\u0733\u072a\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9790,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9790.json"
+        },
+        "stem": "\u071a\u0721\u072a\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "(\u0631\u062d\u0649) \u064a\u062f\u064a\u0631\u0647 \u062d\u0645\u0627\u0631"
+            ],
+            "eng": [
+                "pertaining to a donkey."
+            ],
+            "fre": [
+                "mue par un \u00e2ne ( meule)"
+            ]
+        },
+        "word": {
+            "id": 36446,
+            "uri": "https://sedra.bethmardutho.org/api/word/36446.json"
+        }
+    }
+]

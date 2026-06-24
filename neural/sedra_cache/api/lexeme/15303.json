@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15303,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15303.json"
+        },
+        "syriac": "\u0721\u0715\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0641\u0633\u062f"
+            ],
+            "French": [
+                "corrompre"
+            ],
+            "English": [
+                "IIa to go bad (of eggs, fruit)",
+                "IIIa to crumble to dust."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2342,
+            "uri": "https://sedra.bethmardutho.org/api/root/2342.json"
+        },
+        "words": [
+            {
+                "id": 40510,
+                "uri": "https://sedra.bethmardutho.org/api/word/40510.json"
+            },
+            {
+                "id": 40485,
+                "uri": "https://sedra.bethmardutho.org/api/word/40485.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

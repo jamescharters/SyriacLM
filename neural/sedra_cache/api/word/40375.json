@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0721\u0720\u071b",
+        "western": "\u0721\u0720\u0730\u071b",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15428,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15428.json"
+        },
+        "stem": "\u0721\u0720\u071b",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0647\u0646",
+                "\u0637\u0644\u0649"
+            ],
+            "eng": [
+                "1 fut. <span class=\"selectableFont\">\u0722\u0736\u0721\u0720\u073d\u0718\u071b</span>, Ia to smear",
+                "Ip."
+            ],
+            "fre": [
+                "enduire",
+                "oindre"
+            ]
+        },
+        "word": {
+            "id": 40375,
+            "uri": "https://sedra.bethmardutho.org/api/word/40375.json"
+        }
+    }
+]

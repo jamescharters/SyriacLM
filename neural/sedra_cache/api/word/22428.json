@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0715\u072c\u0718\u0720\u0725\u0717\u0718\u0722",
+        "western": "\u0715\u0741\u072c\u0742\u0730\u0718\u0720\u0730\u0725\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 3377,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3377.json"
+        },
+        "stem": "\u072c\u0718\u0720\u0725\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062f\u0648\u062f",
+                "\u062f\u0648\u062f\u0629"
+            ],
+            "eng": [
+                "murex, scarlet.",
+                "worm",
+                "worm, grub"
+            ],
+            "fre": [
+                "vers",
+                "ver"
+            ]
+        },
+        "word": {
+            "id": 22428,
+            "uri": "https://sedra.bethmardutho.org/api/word/22428.json"
+        }
+    }
+]

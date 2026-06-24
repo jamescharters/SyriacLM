@@ -1,0 +1,40 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0718\u072c\u0710",
+        "western": "\u0710\u0733\u072c\u0742\u073d\u0718\u072c\u0742\u0733\u0710",
+        "eastern": "\u0710\u0735\u072c\u0742\u0718\u073c\u072c\u0742\u0735\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 315,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/315.json"
+        },
+        "stem": "\u0710\u072c\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u0644\u0627\u0645\u0629",
+                "\u062d\u0631\u0641"
+            ],
+            "eng": [
+                "Gram. particle",
+                "letter",
+                "sign, character, letter (of alphabet)",
+                "pl. Kth. print type, computer font."
+            ],
+            "fre": [
+                "letter",
+                "signe"
+            ]
+        },
+        "word": {
+            "id": 2039,
+            "uri": "https://sedra.bethmardutho.org/api/word/2039.json"
+        }
+    }
+]

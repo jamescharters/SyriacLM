@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 1982,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1982.json"
+        },
+        "syriac": "\u0722\u0722\u0725\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0639\u0646\u0639"
+            ],
+            "French": [
+                "menthe"
+            ],
+            "English": [
+                "mint",
+                "mint."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1183,
+            "uri": "https://sedra.bethmardutho.org/api/root/1183.json"
+        },
+        "words": [
+            {
+                "id": 12950,
+                "uri": "https://sedra.bethmardutho.org/api/word/12950.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

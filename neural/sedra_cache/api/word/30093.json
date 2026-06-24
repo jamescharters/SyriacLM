@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u071d\u0718\u0729\u072a\u0722\u0710",
+        "western": "\u071d\u073d\u0718\u0729\u072a\u0733\u0722\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 8288,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/8288.json"
+        },
+        "stem": "\u071d\u0718\u0729\u072a\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u063a\u0644\u0627\u0621"
+            ],
+            "eng": [
+                "scarcity, dearth."
+            ],
+            "fre": [
+                "chert\u00e9"
+            ]
+        },
+        "word": {
+            "id": 30093,
+            "uri": "https://sedra.bethmardutho.org/api/word/30093.json"
+        }
+    }
+]

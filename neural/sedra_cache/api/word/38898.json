@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072c\u0718\u0722\u071d\u0710",
+        "western": "\u072c\u073d\u0718\u0722\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13667,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13667.json"
+        },
+        "stem": "\u072c\u0718\u0722\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0635\u0629, \u062e\u0628\u0631",
+                "\u062d\u062f\u064a\u062b"
+            ],
+            "eng": [
+                "narrative.",
+                "tale, story, narration"
+            ],
+            "fre": [
+                "histoire, r\u00e9cit",
+                "propos, conversation"
+            ]
+        },
+        "word": {
+            "id": 38898,
+            "uri": "https://sedra.bethmardutho.org/api/word/38898.json"
+        }
+    }
+]

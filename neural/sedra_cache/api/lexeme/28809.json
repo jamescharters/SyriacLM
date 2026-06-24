@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 28809,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28809.json"
+        },
+        "syriac": "\u0710\u071d\u0718\u0720\u0712\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u03b5\u1f50\u03bb\u03b1\u03b2\u03ae\u03c2",
+                "\u03b5\u03cd\u03bb\u03b1\u03b2\u03ae\u03c2"
+            ],
+            "English": [
+                "reverent, pious",
+                "reverent, pious"
+            ],
+            "Latin": [
+                "castus, pudicus",
+                "castus, pudicus"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03b5\u1f50\u03bb\u03b1\u03b2\u03ae\u03c2",
+                "\u03b5\u03cd\u03bb\u03b1\u03b2\u03ae\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55226,
+                "uri": "https://sedra.bethmardutho.org/api/word/55226.json"
+            },
+            {
+                "id": 55183,
+                "uri": "https://sedra.bethmardutho.org/api/word/55183.json"
+            }
+        ],
+        "category": "adjective"
+    }
+]

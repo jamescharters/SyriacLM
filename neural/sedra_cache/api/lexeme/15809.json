@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 15809,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15809.json"
+        },
+        "syriac": "\u0726\u071a",
+        "glosses": {
+            "English": [
+                "Ia to blow, to breathe",
+                "to give off scent",
+                "to smell",
+                "IIIa <span class=\"selectableFont\">\u0710\u0730\u0726\u073a\u071d\u071a</span> to cause to pant, to cause to exhale.",
+                "IIa <span class=\"selectableFont\">\u0726\u0730\u071d\u0730\u071a</span> to exhale",
+                "IIp <span class=\"selectableFont\">\u0710\u0736\u072c\u0726\u0730\u0718\u0730\u071a</span> to be exhaled"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3219,
+            "uri": "https://sedra.bethmardutho.org/api/root/3219.json"
+        },
+        "words": [
+            {
+                "id": 41594,
+                "uri": "https://sedra.bethmardutho.org/api/word/41594.json"
+            },
+            {
+                "id": 41131,
+                "uri": "https://sedra.bethmardutho.org/api/word/41131.json"
+            },
+            {
+                "id": 40133,
+                "uri": "https://sedra.bethmardutho.org/api/word/40133.json"
+            },
+            {
+                "id": 40127,
+                "uri": "https://sedra.bethmardutho.org/api/word/40127.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

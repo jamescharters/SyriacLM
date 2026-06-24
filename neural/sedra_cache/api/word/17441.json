@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0728\u0710\u0715\u071d",
+        "western": "\u0728\u0736\u0710\u0715\u0742\u0730\u071d",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2685,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2685.json"
+        },
+        "stem": "\u0728\u071d\u0715",
+        "category": "preposition",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "with",
+                "to, towards.",
+                "at",
+                "near"
+            ]
+        },
+        "word": {
+            "id": 17441,
+            "uri": "https://sedra.bethmardutho.org/api/word/17441.json"
+        }
+    }
+]

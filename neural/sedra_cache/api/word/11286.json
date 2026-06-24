@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0721\u071d\u072c\u0718\u0722\u071d\u0717\u071d",
+        "western": "\u0715\u0741\u0730\u0722\u0721\u073a\u071d\u072c\u0742\u073d\u0718\u0722\u0733\u071d\u0717\u0331\u071d",
+        "tense": "imperfect",
+        "kaylo": "aph\u02bfel",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1727,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1727.json"
+        },
+        "stem": "\u0721\u0718\u072c",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be dead",
+                "die",
+                "put to death"
+            ]
+        },
+        "word": {
+            "id": 11286,
+            "uri": "https://sedra.bethmardutho.org/api/word/11286.json"
+        }
+    }
+]

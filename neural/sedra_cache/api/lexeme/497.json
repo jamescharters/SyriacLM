@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 497,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/497.json"
+        },
+        "syriac": "\u0713\u0712\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0631\u0637\u064a",
+                "\u062c\u0627\u0628\u064a (\u0627\u0644\u062e\u0631\u0627\u062c)"
+            ],
+            "French": [
+                "appariteur",
+                "percepteur"
+            ],
+            "English": [
+                "officer",
+                "collector",
+                "exactor",
+                "tax-collector."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 334,
+            "uri": "https://sedra.bethmardutho.org/api/root/334.json"
+        },
+        "words": [
+            {
+                "id": 3429,
+                "uri": "https://sedra.bethmardutho.org/api/word/3429.json"
+            },
+            {
+                "id": 3428,
+                "uri": "https://sedra.bethmardutho.org/api/word/3428.json"
+            },
+            {
+                "id": 3430,
+                "uri": "https://sedra.bethmardutho.org/api/word/3430.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u072c\u0715\u0721\u072a\u072c\u0710",
+        "western": "\u072c\u0741\u0736\u0715\u0742\u0721\u072a\u0733\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "plural",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 731,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/731.json"
+        },
+        "stem": "\u072c\u0715\u0721\u0718\u072a\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0622\u064a\u0629, \u0623\u0639\u062c\u0648\u0628\u0629"
+            ],
+            "eng": [
+                "wonder, marvel, portent.",
+                "marvel",
+                "wonder",
+                "prodigy"
+            ],
+            "fre": [
+                "merveille , miracle"
+            ]
+        },
+        "word": {
+            "id": 4771,
+            "uri": "https://sedra.bethmardutho.org/api/word/4771.json"
+        }
+    }
+]

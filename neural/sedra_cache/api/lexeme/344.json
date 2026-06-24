@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 344,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/344.json"
+        },
+        "syriac": "\u072b\u0712\u0717\u072a\u0722\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0641\u062e\u0641\u062e\u0629"
+            ],
+            "French": [
+                "jactance"
+            ],
+            "English": [
+                "boastfulness.",
+                "pride"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 249,
+            "uri": "https://sedra.bethmardutho.org/api/root/249.json"
+        },
+        "words": [
+            {
+                "id": 2365,
+                "uri": "https://sedra.bethmardutho.org/api/word/2365.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "shaph\u02bfel"
+    }
+]

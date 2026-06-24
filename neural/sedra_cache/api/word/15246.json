@@ -1,0 +1,50 @@
+[
+    {
+        "syriac": "\u0718\u0725\u071b\u0710",
+        "western": "\u0718\u0730\u0725\u071b\u0733\u0710",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2299,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2299.json"
+        },
+        "stem": "\u0725\u071b\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u062d\u0627",
+                "\u0623\u062a\u0644\u0641, \u062e\u0631\u0628 (\u0645\u0636)",
+                "\u00a0",
+                "\u062d\u062c\u0628"
+            ],
+            "eng": [
+                "Ip",
+                "Ia to efface, to cancel, to blot out",
+                "IIIa to cause to be blotted out.",
+                "cancell",
+                "delete",
+                "hide",
+                "blot out",
+                "to destroy",
+                "IIa to obliterate"
+            ],
+            "fre": [
+                "d\u00e9truire, ruiner",
+                "voiler",
+                "effacer",
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 15246,
+            "uri": "https://sedra.bethmardutho.org/api/word/15246.json"
+        }
+    }
+]

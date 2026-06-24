@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0720\u0713\u0721\u072a",
+        "western": "\u0720\u0730\u0713\u0742\u0721\u0733\u072a",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 593,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/593.json"
+        },
+        "stem": "\u0713\u0721\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0643\u0645\u0627\u0644",
+                "\u00a0"
+            ],
+            "eng": [
+                "perfection",
+                "perfecting",
+                "<span class=\"selectableFont\">\u0720\u0730\u0713\u0721\u0733\u072a</span> completely, entirely, utterly.",
+                "entirely, completely."
+            ],
+            "fre": [
+                "perfection",
+                "absolument\u2026"
+            ]
+        },
+        "word": {
+            "id": 3871,
+            "uri": "https://sedra.bethmardutho.org/api/word/3871.json"
+        }
+    }
+]

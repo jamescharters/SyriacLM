@@ -1,0 +1,28 @@
+[
+    {
+        "syriac": "\u0721\u0713\u0720\u0710",
+        "western": "\u0721\u0730\u0713\u0741\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1708,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1708.json"
+        },
+        "stem": "\u0721\u0713\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "sickle",
+                "sickle."
+            ]
+        },
+        "word": {
+            "id": 38668,
+            "uri": "https://sedra.bethmardutho.org/api/word/38668.json"
+        }
+    }
+]

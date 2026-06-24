@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u072a\u0725\u071d\u072c\u0710",
+        "western": "\u072a\u0725\u073a\u071d\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 10941,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10941.json"
+        },
+        "stem": "\u072a\u0725\u071d\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0637\u064a\u0639",
+                "\u0645\u0631\u0639\u0649"
+            ],
+            "eng": [
+                "pasture.",
+                "flock"
+            ],
+            "fre": [
+                "troupeau",
+                "p\u00e2turage"
+            ]
+        },
+        "word": {
+            "id": 31631,
+            "uri": "https://sedra.bethmardutho.org/api/word/31631.json"
+        }
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1213,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1213.json"
+        },
+        "syriac": "\u071b\u0718\u0726",
+        "glosses": {
+            "English": [
+                "overflow",
+                "flood",
+                "submerge",
+                "to travel by sea",
+                "IIIa to make to float",
+                "to make to overflow",
+                "Ia to float, swim, sail",
+                "to rise (of water), overflow",
+                "to overwhelm.",
+                "to be soaked"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 713,
+            "uri": "https://sedra.bethmardutho.org/api/root/713.json"
+        },
+        "words": [
+            {
+                "id": 59255,
+                "uri": "https://sedra.bethmardutho.org/api/word/59255.json"
+            },
+            {
+                "id": 8017,
+                "uri": "https://sedra.bethmardutho.org/api/word/8017.json"
+            },
+            {
+                "id": 42339,
+                "uri": "https://sedra.bethmardutho.org/api/word/42339.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

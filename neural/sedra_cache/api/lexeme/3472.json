@@ -1,0 +1,39 @@
+[
+    {
+        "lexeme": {
+            "id": 3472,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3472.json"
+        },
+        "syriac": "\u0712\u071d\u072c",
+        "glosses": {
+            "English": [
+                "between",
+                "3 see under <span class=\"selectableFont\">\u0712\u0730\u071d\u072c\u0733\u0710</span>."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 264,
+            "uri": "https://sedra.bethmardutho.org/api/root/264.json"
+        },
+        "words": [
+            {
+                "id": 2644,
+                "uri": "https://sedra.bethmardutho.org/api/word/2644.json"
+            },
+            {
+                "id": 2643,
+                "uri": "https://sedra.bethmardutho.org/api/word/2643.json"
+            },
+            {
+                "id": 2640,
+                "uri": "https://sedra.bethmardutho.org/api/word/2640.json"
+            },
+            {
+                "id": 2639,
+                "uri": "https://sedra.bethmardutho.org/api/word/2639.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

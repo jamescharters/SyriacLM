@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0722\u0725\u0710",
+        "western": "\u0722\u0733\u0725\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10005,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10005.json"
+        },
+        "stem": "\u0722\u0725\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u062f\u0631"
+            ],
+            "eng": [
+                "breast (of animal)."
+            ],
+            "fre": [
+                "poitrine"
+            ]
+        },
+        "word": {
+            "id": 34507,
+            "uri": "https://sedra.bethmardutho.org/api/word/34507.json"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "lexeme": {
+            "id": 10399,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10399.json"
+        },
+        "syriac": "\u0729\u0715\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0642\u0629",
+                "\u0634\u0633\u0639"
+            ],
+            "French": [
+                "bande ( d&#39;\u00e9toffe)",
+                "courroie (de sandale)"
+            ],
+            "English": [
+                "band of cloth",
+                "rectangular basket.",
+                "sandal, shoe strap"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 30060,
+                "uri": "https://sedra.bethmardutho.org/api/word/30060.json"
+            },
+            {
+                "id": 37336,
+                "uri": "https://sedra.bethmardutho.org/api/word/37336.json"
+            }
+        ]
+    }
+]

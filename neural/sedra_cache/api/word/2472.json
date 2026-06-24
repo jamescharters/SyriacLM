@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0712\u0719",
+        "western": "\u0712\u0741\u0730\u0719",
+        "eastern": "\u0712\u0741\u0732\u0719",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 358,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/358.json"
+        },
+        "stem": "\u0712\u0719",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "spoil",
+                "Ia to plunder, take spoil",
+                "IIIa to give over to plunder.",
+                "Ip",
+                "plunder",
+                "IIa"
+            ]
+        },
+        "word": {
+            "id": 2472,
+            "uri": "https://sedra.bethmardutho.org/api/word/2472.json"
+        }
+    }
+]

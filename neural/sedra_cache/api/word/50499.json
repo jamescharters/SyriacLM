@@ -1,0 +1,27 @@
+[
+    {
+        "syriac": "\u0710\u0723\u0726\u071d\u072a\u0710",
+        "western": "\u0710\u0736\u0723\u0726\u073a\u071d\u072a\u0308\u0736\u0710",
+        "eastern": "\u0710\u0738\u0723\u0726\u071d\u073c\u072a\u0308\u0710",
+        "lexeme": {
+            "id": 228,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/228.json"
+        },
+        "stem": "\u0710\u0723\u0726\u071d\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "cohort",
+                "ball, sphere."
+            ]
+        },
+        "word": {
+            "id": 50499,
+            "uri": "https://sedra.bethmardutho.org/api/word/50499.json"
+        }
+    }
+]

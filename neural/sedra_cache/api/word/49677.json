@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0710\u071f\u0715\u0722\u0710",
+        "western": "\u0710\u0733\u071f\u0323\u0730\u0715\u0722\u0736\u0710",
+        "eastern": "\u0710\u0735\u071f\u0323\u0715\u0308\u0722\u0738\u0710",
+        "lexeme": {
+            "id": 106,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/106.json"
+        },
+        "stem": "\u0710\u071f\u0715\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0641\u0639\u0649",
+                "\u0635\u0644"
+            ],
+            "eng": [
+                "viper",
+                "viper."
+            ],
+            "fre": [
+                "vip\u00e8re",
+                "aspic"
+            ]
+        },
+        "word": {
+            "id": 49677,
+            "uri": "https://sedra.bethmardutho.org/api/word/49677.json"
+        }
+    }
+]

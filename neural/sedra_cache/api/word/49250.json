@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0710\u071d\u0713\u071d\u0718\u0723\u071b\u0718\u0723",
+        "western": "\u0710\u073a\u071d\u0713\u071d\u0733\u0718\u0723\u071b\u0733\u0718\u0723",
+        "lexeme": {
+            "id": 28753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28753.json"
+        },
+        "stem": "\u0710\u071d\u0713\u071d\u0718\u0723\u071b\u0718\u0723",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "reader, an officer in the Christian Church"
+            ],
+            "grc": [
+                "\u1f00\u03bd\u03b1\u03b3\u03bd\u03ce\u03c3\u03c4\u03b7\u03c2"
+            ],
+            "lat": [
+                "lector"
+            ]
+        },
+        "word": {
+            "id": 49250,
+            "uri": "https://sedra.bethmardutho.org/api/word/49250.json"
+        }
+    }
+]

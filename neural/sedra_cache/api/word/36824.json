@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0723\u0718\u0721\u0725\u0720\u0710",
+        "western": "\u0723\u073d\u0718\u0721\u0725\u0733\u0720\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7911,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7911.json"
+        },
+        "stem": "\u0723\u0718\u0721\u0725\u0720\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0646\u0633\u0643, \u062a\u0639\u0641\u0641",
+                "\u062b\u0648\u0628 \u0627\u0644\u0646\u0627\u0633\u0643",
+                "\u0632\u0647\u062f"
+            ],
+            "eng": [
+                "voluntary poverty.",
+                "asceticism"
+            ],
+            "fre": [
+                "v\u00eatement monastique",
+                "asc\u00e9tisme, continence",
+                "aust\u00e9rit\u00e9"
+            ]
+        },
+        "word": {
+            "id": 36824,
+            "uri": "https://sedra.bethmardutho.org/api/word/36824.json"
+        }
+    }
+]

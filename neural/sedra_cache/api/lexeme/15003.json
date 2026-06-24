@@ -1,0 +1,32 @@
+[
+    {
+        "lexeme": {
+            "id": 15003,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15003.json"
+        },
+        "syriac": "\u072c\u0720\u0713",
+        "glosses": {
+            "English": [
+                "IIp to glitter like snow",
+                "IIa to cover with snow",
+                "IIIa to make shining white."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2489,
+            "uri": "https://sedra.bethmardutho.org/api/root/2489.json"
+        },
+        "words": [
+            {
+                "id": 40761,
+                "uri": "https://sedra.bethmardutho.org/api/word/40761.json"
+            },
+            {
+                "id": 40733,
+                "uri": "https://sedra.bethmardutho.org/api/word/40733.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

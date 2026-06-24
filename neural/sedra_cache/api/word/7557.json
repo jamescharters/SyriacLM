@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0715\u0712\u071a\u072a\u0725\u0718\u072c\u0717\u0718\u0722",
+        "western": "\u0715\u0741\u0730\u0712\u0742\u071a\u0733\u072a\u0725\u073d\u0718\u072c\u0742\u0717\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1149,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1149.json"
+        },
+        "stem": "\u071a\u072a\u0725\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062d\u064a\u0644\u0629"
+            ],
+            "eng": [
+                "cunning",
+                "craftiness",
+                "cunning, craftiness",
+                "biliousness.",
+                "astuteness"
+            ],
+            "fre": [
+                "ruse"
+            ]
+        },
+        "word": {
+            "id": 7557,
+            "uri": "https://sedra.bethmardutho.org/api/word/7557.json"
+        }
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u071a\u0720\u071d\u0728\u0710",
+        "western": "\u071a\u0720\u073a\u071d\u0728\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1048,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1048.json"
+        },
+        "stem": "\u071a\u0720\u071d\u0728\u0710",
+        "category": "participle adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "valiant, strong",
+                "skin bottle.",
+                "strong"
+            ]
+        },
+        "word": {
+            "id": 7101,
+            "uri": "https://sedra.bethmardutho.org/api/word/7101.json"
+        }
+    }
+]

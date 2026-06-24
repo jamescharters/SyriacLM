@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0713\u0715\u0722\u0710",
+        "western": "\u0713\u0730\u0715\u0733\u0722\u0733\u0710",
+        "eastern": "\u0713\u0732\u0715\u0735\u0722\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 9461,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/9461.json"
+        },
+        "stem": "\u0713\u0715\u0722\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0633\u0639\u064a\u062f"
+            ],
+            "eng": [
+                "fortunate, happy."
+            ],
+            "fre": [
+                "heureux"
+            ]
+        },
+        "word": {
+            "id": 39580,
+            "uri": "https://sedra.bethmardutho.org/api/word/39580.json"
+        }
+    }
+]

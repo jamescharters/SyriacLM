@@ -1,0 +1,31 @@
+[
+    {
+        "syriac": "\u0722\u0718\u0719",
+        "western": "\u0722\u0718\u0730\u0719",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15535,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15535.json"
+        },
+        "stem": "\u0722\u0718\u0719",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Ia to be restive, to kick",
+                "IIIa to spurn."
+            ]
+        },
+        "word": {
+            "id": 40208,
+            "uri": "https://sedra.bethmardutho.org/api/word/40208.json"
+        }
+    }
+]

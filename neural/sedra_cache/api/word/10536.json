@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0712\u071f\u072a\u0723\u0717",
+        "western": "\u0712\u0741\u071f\u0742\u0730\u072a\u0723\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 1595,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1595.json"
+        },
+        "stem": "\u071f\u072a\u0723\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "womb",
+                "womb",
+                "ventricle.",
+                "belly",
+                "cavity",
+                "belly"
+            ]
+        },
+        "word": {
+            "id": 10536,
+            "uri": "https://sedra.bethmardutho.org/api/word/10536.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0721\u0725\u071f",
+        "western": "\u0721\u0725\u0730\u071f",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15623,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15623.json"
+        },
+        "stem": "\u0721\u0725\u071f",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0644\u0628\u0644"
+            ],
+            "eng": [
+                "Ia to disturb greatly."
+            ],
+            "fre": [
+                "troubler fortement"
+            ]
+        },
+        "word": {
+            "id": 40985,
+            "uri": "https://sedra.bethmardutho.org/api/word/40985.json"
+        }
+    }
+]

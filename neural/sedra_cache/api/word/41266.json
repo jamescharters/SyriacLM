@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0712\u0720\u0717\u071d",
+        "western": "\u0712\u0730\u0720\u0717\u073a\u071d",
+        "tense": "perfect",
+        "kaylo": "IVa",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14703,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14703.json"
+        },
+        "stem": "\u0712\u0720\u0717\u071d",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0639\u062c\u0644",
+                "\u0623\u062f\u0647\u0634",
+                "\u0623\u0630\u0639\u0631, \u0623\u0642\u0644\u0642"
+            ],
+            "eng": [
+                "IVa to terrify, dismay",
+                "IVp to hurry.",
+                "to hasten on (+ object)"
+            ],
+            "fre": [
+                "h\u00e2ter",
+                "stup\u00e9faire",
+                "effrayer, troubler"
+            ]
+        },
+        "word": {
+            "id": 41266,
+            "uri": "https://sedra.bethmardutho.org/api/word/41266.json"
+        }
+    }
+]

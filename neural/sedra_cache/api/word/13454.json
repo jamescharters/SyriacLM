@@ -1,0 +1,41 @@
+[
+    {
+        "syriac": "\u0718\u0723\u0710\u0721\u071f\u0718\u0722",
+        "western": "\u0718\u0723\u073a\u0710\u0721\u071f\u0742\u073d\u0718\u0722",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "plural",
+        "suffixPerson": "second",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 2043,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2043.json"
+        },
+        "stem": "\u0723\u0710\u0721\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0636\u0629"
+            ],
+            "eng": [
+                "silver.",
+                "silver",
+                "money",
+                "silver"
+            ],
+            "fre": [
+                "argent ( m\u00e9tal)"
+            ]
+        },
+        "word": {
+            "id": 13454,
+            "uri": "https://sedra.bethmardutho.org/api/word/13454.json"
+        }
+    }
+]

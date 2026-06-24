@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0712\u0713\u0730\u071a",
+        "western": "\u0712\u0713\u0730\u071a",
+        "tense": "perfect",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15329,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15329.json"
+        },
+        "stem": "\u0712\u0713\u071a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "eng": [
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0712\u0713\u0730\u071a</span> to be hindered."
+            ]
+        },
+        "word": {
+            "id": 40434,
+            "uri": "https://sedra.bethmardutho.org/api/word/40434.json"
+        }
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 2885,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2885.json"
+        },
+        "syriac": "\u0729\u072a\u071d\u072c\u0710",
+        "glosses": {
+            "English": [
+                "beam",
+                "plank",
+                "beam, plank",
+                "weevil."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1709,
+            "uri": "https://sedra.bethmardutho.org/api/root/1709.json"
+        },
+        "words": [
+            {
+                "id": 18829,
+                "uri": "https://sedra.bethmardutho.org/api/word/18829.json"
+            },
+            {
+                "id": 18830,
+                "uri": "https://sedra.bethmardutho.org/api/word/18830.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

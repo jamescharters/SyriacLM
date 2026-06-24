@@ -1,0 +1,30 @@
+[
+    {
+        "syriac": "\u0712\u0725\u072a\u071d\u0710",
+        "western": "\u0712\u0741\u0725\u0730\u072a\u071d\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2404,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2404.json"
+        },
+        "stem": "\u0725\u072a\u071d\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "cold, frost.",
+                "severe weather",
+                "coldness"
+            ]
+        },
+        "word": {
+            "id": 15945,
+            "uri": "https://sedra.bethmardutho.org/api/word/15945.json"
+        }
+    }
+]

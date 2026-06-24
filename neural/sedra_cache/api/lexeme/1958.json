@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 1958,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1958.json"
+        },
+        "syriac": "\u0722\u071d\u0729\u0720\u0710\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Nicolas"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1170,
+            "uri": "https://sedra.bethmardutho.org/api/root/1170.json"
+        },
+        "words": [
+            {
+                "id": 12842,
+                "uri": "https://sedra.bethmardutho.org/api/word/12842.json"
+            },
+            {
+                "id": 12843,
+                "uri": "https://sedra.bethmardutho.org/api/word/12843.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

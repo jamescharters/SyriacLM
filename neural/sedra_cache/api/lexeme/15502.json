@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 15502,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15502.json"
+        },
+        "syriac": "\u0721\u0719\u072a",
+        "glosses": {
+            "English": [
+                "to sit (on a mule)",
+                "to stretch the limbs.",
+                "Ip to stretch oneself",
+                "Ia to stretch out"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2988,
+            "uri": "https://sedra.bethmardutho.org/api/root/2988.json"
+        },
+        "words": [
+            {
+                "id": 41699,
+                "uri": "https://sedra.bethmardutho.org/api/word/41699.json"
+            },
+            {
+                "id": 41201,
+                "uri": "https://sedra.bethmardutho.org/api/word/41201.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

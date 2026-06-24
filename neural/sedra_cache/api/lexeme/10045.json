@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 10045,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10045.json"
+        },
+        "syriac": "\u0726\u072a\u0715\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0628\u0629 \u0628\u0630\u0631\u0629",
+                "\u0630\u0631\u0629"
+            ],
+            "French": [
+                "grain, graine",
+                "atome"
+            ],
+            "English": [
+                "grain",
+                "grain, seed."
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 16833,
+                "uri": "https://sedra.bethmardutho.org/api/word/16833.json"
+            },
+            {
+                "id": 16831,
+                "uri": "https://sedra.bethmardutho.org/api/word/16831.json"
+            },
+            {
+                "id": 16832,
+                "uri": "https://sedra.bethmardutho.org/api/word/16832.json"
+            },
+            {
+                "id": 37379,
+                "uri": "https://sedra.bethmardutho.org/api/word/37379.json"
+            }
+        ]
+    }
+]

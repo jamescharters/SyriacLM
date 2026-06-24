@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0729\u072a\u0718\u0723\u071b\u0720\u0718\u0723",
+        "western": "\u0729\u072a\u073d\u0718\u0723\u071b\u0730\u0720\u0733\u0718\u0723",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2880,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2880.json"
+        },
+        "stem": "\u0729\u072a\u0718\u0723\u071b\u0720\u0718\u0723",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0644\u0648\u0631"
+            ],
+            "eng": [
+                "crystal",
+                "rock crystal."
+            ],
+            "fre": [
+                "cristal"
+            ]
+        },
+        "word": {
+            "id": 18802,
+            "uri": "https://sedra.bethmardutho.org/api/word/18802.json"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 1255,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1255.json"
+        },
+        "syriac": "\u071b\u0722\u0722\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u063a\u064a\u0648\u0631",
+                "\u062d\u0633\u0648\u062f"
+            ],
+            "French": [
+                "z\u00e9l\u00e9",
+                "jaloux"
+            ],
+            "English": [
+                "zealot",
+                "zealous",
+                "jealous.",
+                "zealous"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 740,
+            "uri": "https://sedra.bethmardutho.org/api/root/740.json"
+        },
+        "words": [
+            {
+                "id": 8188,
+                "uri": "https://sedra.bethmardutho.org/api/word/8188.json"
+            },
+            {
+                "id": 8190,
+                "uri": "https://sedra.bethmardutho.org/api/word/8190.json"
+            },
+            {
+                "id": 8189,
+                "uri": "https://sedra.bethmardutho.org/api/word/8189.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

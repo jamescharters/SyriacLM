@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0719\u0725\u0729\u072c\u0710",
+        "western": "\u0719\u0725\u0733\u0729\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13213,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13213.json"
+        },
+        "stem": "\u0719\u0725\u0729\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u0631\u0627\u062e"
+            ],
+            "eng": [
+                "shout, outcry, clamor."
+            ],
+            "fre": [
+                "clameur"
+            ]
+        },
+        "word": {
+            "id": 33209,
+            "uri": "https://sedra.bethmardutho.org/api/word/33209.json"
+        }
+    }
+]

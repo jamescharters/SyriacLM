@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u0713\u071d\u072a\u0710",
+        "western": "\u0722\u0730\u0713\u0741\u073a\u071d\u072a\u0733\u0710",
+        "state": "absolute",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1905,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1905.json"
+        },
+        "stem": "\u0722\u0713\u071d\u072a\u0710",
+        "category": "adjective",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0633\u062a\u0645\u0631",
+                "\u0628\u0637\u064a\u0621"
+            ],
+            "eng": [
+                "lasting, long, lengthy.",
+                "long suffering"
+            ],
+            "fre": [
+                "lent",
+                "qui dure"
+            ]
+        },
+        "word": {
+            "id": 12493,
+            "uri": "https://sedra.bethmardutho.org/api/word/12493.json"
+        }
+    }
+]

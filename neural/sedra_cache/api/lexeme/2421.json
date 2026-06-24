@@ -1,0 +1,42 @@
+[
+    {
+        "lexeme": {
+            "id": 2421,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2421.json"
+        },
+        "syriac": "\u0725\u072a\u0728\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0645\u0633\u062a\u0648\u0637\u0646",
+                "\u063a\u0631\u064a\u0628"
+            ],
+            "French": [
+                "immigrant",
+                "\u00e9tranger"
+            ],
+            "English": [
+                "foreigner",
+                "stranger",
+                "sojourner",
+                "foreigner, immigrant, stranger, alien."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1433,
+            "uri": "https://sedra.bethmardutho.org/api/root/1433.json"
+        },
+        "words": [
+            {
+                "id": 16001,
+                "uri": "https://sedra.bethmardutho.org/api/word/16001.json"
+            },
+            {
+                "id": 15900,
+                "uri": "https://sedra.bethmardutho.org/api/word/15900.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

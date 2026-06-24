@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 14779,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14779.json"
+        },
+        "syriac": "\u0729\u0728\u0729\u0728",
+        "glosses": {
+            "Arabic": [
+                "\u062d\u0630\u0645"
+            ],
+            "French": [
+                "trancher"
+            ],
+            "English": [
+                "IVa to cut off."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2457,
+            "uri": "https://sedra.bethmardutho.org/api/root/2457.json"
+        },
+        "words": [
+            {
+                "id": 40901,
+                "uri": "https://sedra.bethmardutho.org/api/word/40901.json"
+            },
+            {
+                "id": 39847,
+                "uri": "https://sedra.bethmardutho.org/api/word/39847.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 12679,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12679.json"
+        },
+        "syriac": "\u0710\u0723\u071b\u072a\u071b\u071d\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u064a\u0634",
+                "\u062e\u062f\u0645\u0629 \u0639\u0633\u0643\u0631\u064a\u0629"
+            ],
+            "French": [
+                "arm\u00e9e",
+                "service militaire"
+            ],
+            "English": [
+                "army",
+                "soldiery",
+                "band",
+                "military service."
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03c3\u03c4\u03c1\u03b1\u03c4\u03b5\u03af\u03b1"
+            ]
+        },
+        "words": [
+            {
+                "id": 1551,
+                "uri": "https://sedra.bethmardutho.org/api/word/1551.json"
+            },
+            {
+                "id": 38132,
+                "uri": "https://sedra.bethmardutho.org/api/word/38132.json"
+            }
+        ]
+    }
+]

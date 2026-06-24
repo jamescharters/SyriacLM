@@ -1,0 +1,58 @@
+[
+    {
+        "lexeme": {
+            "id": 1894,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1894.json"
+        },
+        "syriac": "\u0722\u0712\u071d\u0718\u072c\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0646\u0628\u0648\u0621\u0629",
+                "\u062a\u0646\u0628\u0624",
+                "\u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621"
+            ],
+            "French": [
+                "proph\u00e9tie",
+                "proph\u00e9tisme",
+                "les proph\u00e8tes"
+            ],
+            "English": [
+                "prophecy",
+                "prophecy."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1134,
+            "uri": "https://sedra.bethmardutho.org/api/root/1134.json"
+        },
+        "words": [
+            {
+                "id": 12427,
+                "uri": "https://sedra.bethmardutho.org/api/word/12427.json"
+            },
+            {
+                "id": 12426,
+                "uri": "https://sedra.bethmardutho.org/api/word/12426.json"
+            },
+            {
+                "id": 12430,
+                "uri": "https://sedra.bethmardutho.org/api/word/12430.json"
+            },
+            {
+                "id": 12429,
+                "uri": "https://sedra.bethmardutho.org/api/word/12429.json"
+            },
+            {
+                "id": 12428,
+                "uri": "https://sedra.bethmardutho.org/api/word/12428.json"
+            },
+            {
+                "id": 12431,
+                "uri": "https://sedra.bethmardutho.org/api/word/12431.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

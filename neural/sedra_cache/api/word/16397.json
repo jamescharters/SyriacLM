@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0726\u071f\u071d\u0717\u0710",
+        "western": "\u0726\u0741\u0730\u071f\u0741\u073a\u071d\u0717\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2513,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2513.json"
+        },
+        "stem": "\u0726\u071f\u071d\u0717\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062a\u0641\u0647",
+                "\u0623\u063a\u0628\u0631"
+            ],
+            "eng": [
+                "foolish",
+                "foolish.",
+                "sycamore",
+                "insipid"
+            ],
+            "fre": [
+                "terne",
+                "insipide"
+            ]
+        },
+        "word": {
+            "id": 16397,
+            "uri": "https://sedra.bethmardutho.org/api/word/16397.json"
+        }
+    }
+]

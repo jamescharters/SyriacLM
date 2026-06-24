@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u072b\u0713\u072a",
+        "western": "\u072b\u0713\u0730\u072a",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15418,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15418.json"
+        },
+        "stem": "\u072b\u0713\u072a",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "to let down.",
+                "2 fut. <span class=\"selectableFont\">\u0722\u0736\u072b\u0713\u073d\u0718\u072a</span>, Ia to flow, to pour forth",
+                "IIa to make to flow"
+            ]
+        },
+        "word": {
+            "id": 39915,
+            "uri": "https://sedra.bethmardutho.org/api/word/39915.json"
+        }
+    }
+]

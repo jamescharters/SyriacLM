@@ -1,0 +1,30 @@
+[
+    {
+        "lexeme": {
+            "id": 160,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/160.json"
+        },
+        "syriac": "\u0710\u0721\u0718\u0722",
+        "glosses": {
+            "English": [
+                "Amon"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 119,
+            "uri": "https://sedra.bethmardutho.org/api/root/119.json"
+        },
+        "words": [
+            {
+                "id": 1103,
+                "uri": "https://sedra.bethmardutho.org/api/word/1103.json"
+            },
+            {
+                "id": 1102,
+                "uri": "https://sedra.bethmardutho.org/api/word/1102.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

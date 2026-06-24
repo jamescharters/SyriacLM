@@ -1,0 +1,42 @@
+[
+    {
+        "syriac": "\u0723\u0722\u071d\u0729\u0718\u072c\u071d",
+        "western": "\u0723\u0722\u073a\u071d\u0729\u073d\u0718\u072c\u0742\u071d",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "first",
+        "suffixGender": "common",
+        "lexeme": {
+            "id": 2169,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2169.json"
+        },
+        "stem": "\u0723\u0722\u071d\u0729\u0718\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0636\u0631\u0648\u0631\u0629"
+            ],
+            "eng": [
+                "necessity",
+                "need, indigence, dearth.",
+                "lack",
+                "want",
+                "need"
+            ],
+            "fre": [
+                "p\u00e9nurie"
+            ]
+        },
+        "word": {
+            "id": 14418,
+            "uri": "https://sedra.bethmardutho.org/api/word/14418.json"
+        }
+    }
+]

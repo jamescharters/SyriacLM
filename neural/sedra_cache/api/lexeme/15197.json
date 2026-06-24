@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 15197,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15197.json"
+        },
+        "syriac": "\u072b\u0712\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u062f\u0644\u0644"
+            ],
+            "French": [
+                "caresser"
+            ],
+            "English": [
+                "IIa to wheedle, coax",
+                "IIp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2989,
+            "uri": "https://sedra.bethmardutho.org/api/root/2989.json"
+        },
+        "words": [
+            {
+                "id": 41296,
+                "uri": "https://sedra.bethmardutho.org/api/word/41296.json"
+            },
+            {
+                "id": 41251,
+                "uri": "https://sedra.bethmardutho.org/api/word/41251.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

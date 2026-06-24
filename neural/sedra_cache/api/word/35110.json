@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u072a\u0717\u0718\u0721\u071d\u0710",
+        "western": "\u072a\u0717\u073d\u0718\u0721\u0733\u071d\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 7739,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/7739.json"
+        },
+        "stem": "\u072a\u0717\u0718\u0721\u071d\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "Roman",
+                "Roman, Latin",
+                "soldier.",
+                "Byzantine"
+            ]
+        },
+        "word": {
+            "id": 35110,
+            "uri": "https://sedra.bethmardutho.org/api/word/35110.json"
+        }
+    }
+]

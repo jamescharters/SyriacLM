@@ -1,0 +1,47 @@
+[
+    {
+        "lexeme": {
+            "id": 15155,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15155.json"
+        },
+        "syriac": "\u0723\u071d\u0725",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0639\u0627\u0646"
+            ],
+            "French": [
+                "aider"
+            ],
+            "English": [
+                "IIp.",
+                "IIa to assist, help, succour",
+                "help",
+                "aid"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3088,
+            "uri": "https://sedra.bethmardutho.org/api/root/3088.json"
+        },
+        "words": [
+            {
+                "id": 14110,
+                "uri": "https://sedra.bethmardutho.org/api/word/14110.json"
+            },
+            {
+                "id": 14109,
+                "uri": "https://sedra.bethmardutho.org/api/word/14109.json"
+            },
+            {
+                "id": 40265,
+                "uri": "https://sedra.bethmardutho.org/api/word/40265.json"
+            },
+            {
+                "id": 40320,
+                "uri": "https://sedra.bethmardutho.org/api/word/40320.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

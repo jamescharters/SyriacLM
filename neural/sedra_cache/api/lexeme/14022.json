@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14022,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14022.json"
+        },
+        "syriac": "\u0710\u071d\u071f\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f34\u03c7\u03bd\u03bf\u03c2"
+            ],
+            "English": [
+                "track, footstep",
+                "tone (in music), = <span class=\"selectableFont\">\u0729\u073a\u071d\u0722\u072c\u0733\u0710</span>.",
+                "sound",
+                "tonus, modulatio"
+            ],
+            "Latin": [
+                "\u1f26\u03c7\u03bf\u03c2"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f26\u03c7\u03bf\u03c2",
+                "\u1f34\u03c7\u03bd\u03bf\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 55280,
+                "uri": "https://sedra.bethmardutho.org/api/word/55280.json"
+            },
+            {
+                "id": 55274,
+                "uri": "https://sedra.bethmardutho.org/api/word/55274.json"
+            },
+            {
+                "id": 36701,
+                "uri": "https://sedra.bethmardutho.org/api/word/36701.json"
+            }
+        ]
+    }
+]

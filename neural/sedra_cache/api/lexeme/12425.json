@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 12425,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/12425.json"
+        },
+        "syriac": "\u072a\u0726\u071d",
+        "glosses": {
+            "English": [
+                "Pael conj. of \u072a\u0726\u0733\u0710",
+                "see <span class=\"selectableFont\">\u072a\u0726\u0733\u0710</span> 2."
+            ],
+            "Arabic": [
+                "\u0623\u0631\u062e\u0649",
+                "\u062e\u0644\u0649 (\u0645\u0636)",
+                "\u0633\u0645\u062d"
+            ],
+            "French": [
+                "rel\u00e2cher",
+                "l\u00e2cher",
+                "permettre"
+            ]
+        },
+        "etymologies": [],
+        "words": [
+            {
+                "id": 47033,
+                "uri": "https://sedra.bethmardutho.org/api/word/47033.json"
+            },
+            {
+                "id": 37973,
+                "uri": "https://sedra.bethmardutho.org/api/word/37973.json"
+            }
+        ]
+    }
+]

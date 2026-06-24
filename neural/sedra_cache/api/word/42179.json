@@ -1,0 +1,49 @@
+[
+    {
+        "syriac": "\u0722\u0729\u0720\u0710",
+        "western": "\u0722\u0736\u0729\u0720\u0736\u0710",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15792,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15792.json"
+        },
+        "stem": "\u0729\u0720\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0642\u0644\u0649, \u0634\u0648\u0649",
+                "\u0642\u062a\u0644"
+            ],
+            "eng": [
+                "to be displeased",
+                "to be scorned",
+                "IIIa to fry",
+                "Ia to fry, to toast",
+                "to scorn",
+                "to be inflamed",
+                "to excite",
+                "IIp to be burnt up",
+                "IIa to fry",
+                "to kill",
+                "to provoke, vex.",
+                "Ip to perish"
+            ],
+            "fre": [
+                "tuer",
+                "frire, griller"
+            ]
+        },
+        "word": {
+            "id": 42179,
+            "uri": "https://sedra.bethmardutho.org/api/word/42179.json"
+        }
+    }
+]

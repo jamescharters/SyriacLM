@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 28903,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28903.json"
+        },
+        "syriac": "\u0710\u071d\u071f\u071d\u0723\u0710\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f24\u03c7\u03b7\u03c3\u03b1\u03bd"
+            ],
+            "English": [
+                "hey sounded, ringed, pealed"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f20\u03c7\u03ad\u03c9"
+            ]
+        },
+        "words": [
+            {
+                "id": 49407,
+                "uri": "https://sedra.bethmardutho.org/api/word/49407.json"
+            },
+            {
+                "id": 55277,
+                "uri": "https://sedra.bethmardutho.org/api/word/55277.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

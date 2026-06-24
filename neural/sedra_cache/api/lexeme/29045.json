@@ -1,0 +1,33 @@
+[
+    {
+        "lexeme": {
+            "id": 29045,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/29045.json"
+        },
+        "syriac": "\u0710\u071d\u0723\u071d\u0723\u071b\u072a\u071d\u0722",
+        "glosses": {
+            "Greek": [
+                "\u1f11\u03c3\u03c4\u03b9\u03b1\u03c4\u03cc\u03c1\u03b9\u03bf\u03bd, \u1f11\u03c3\u03c4\u03b9\u03b1\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd"
+            ],
+            "English": [
+                "banqueting-hall"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f11\u03c3\u03c4\u03b9\u03b1\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd"
+            ]
+        },
+        "words": [
+            {
+                "id": 49534,
+                "uri": "https://sedra.bethmardutho.org/api/word/49534.json"
+            },
+            {
+                "id": 55419,
+                "uri": "https://sedra.bethmardutho.org/api/word/55419.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

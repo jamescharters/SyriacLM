@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u071a\u0720\u0710",
+        "western": "\u071a\u0730\u0720\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1032,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1032.json"
+        },
+        "stem": "\u071a\u0720\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062e\u0644"
+            ],
+            "eng": [
+                "vinegar",
+                "vinegar."
+            ],
+            "fre": [
+                "vinaigre"
+            ]
+        },
+        "word": {
+            "id": 7050,
+            "uri": "https://sedra.bethmardutho.org/api/word/7050.json"
+        }
+    }
+]

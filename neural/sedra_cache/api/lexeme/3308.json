@@ -1,0 +1,40 @@
+[
+    {
+        "lexeme": {
+            "id": 3308,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3308.json"
+        },
+        "syriac": "\u072b\u072a\u071d\u072a\u0710\u071d\u072c",
+        "glosses": {
+            "English": [
+                "truly, indeed.",
+                "truly"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1924,
+            "uri": "https://sedra.bethmardutho.org/api/root/1924.json"
+        },
+        "words": [
+            {
+                "id": 30265,
+                "uri": "https://sedra.bethmardutho.org/api/word/30265.json"
+            },
+            {
+                "id": 21983,
+                "uri": "https://sedra.bethmardutho.org/api/word/21983.json"
+            },
+            {
+                "id": 21982,
+                "uri": "https://sedra.bethmardutho.org/api/word/21982.json"
+            },
+            {
+                "id": 21984,
+                "uri": "https://sedra.bethmardutho.org/api/word/21984.json"
+            }
+        ],
+        "category": "adverb ending with aiyt",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

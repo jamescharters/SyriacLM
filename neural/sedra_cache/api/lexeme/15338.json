@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15338,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15338.json"
+        },
+        "syriac": "\u0720\u0717\u072c",
+        "glosses": {
+            "English": [
+                "IIa to pant, breathe hard",
+                "IIIa to pant, gasp."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2444,
+            "uri": "https://sedra.bethmardutho.org/api/root/2444.json"
+        },
+        "words": [
+            {
+                "id": 41375,
+                "uri": "https://sedra.bethmardutho.org/api/word/41375.json"
+            },
+            {
+                "id": 41348,
+                "uri": "https://sedra.bethmardutho.org/api/word/41348.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

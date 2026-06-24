@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u072b\u071d\u0722\u0710",
+        "western": "\u072b\u0730\u071d\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3187,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3187.json"
+        },
+        "stem": "\u072b\u071d\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "love of peace",
+                "wealth",
+                "peace",
+                "tame",
+                "domestic",
+                "tranquility",
+                "peace",
+                "cultivated land",
+                "cultivated land (opp. to desert)",
+                "lucky",
+                "domesticated (animal).",
+                "peace, tranquility",
+                "truce"
+            ],
+            "grc": [
+                "\u03b5\u1f50\u03bc\u1f73\u03bd\u03b5\u03b9\u03b1",
+                "\u1f25\u03bc\u03b5\u03c1\u03bf\u03c2"
+            ],
+            "syr": [
+                "\u0715\u072b\u0732\u071d\u0722\u0735\u0710 <strong>d-s\u030cyn\u02be</strong> <em>d</em>-<em>s\u030cayn\u0101</em>"
+            ]
+        },
+        "word": {
+            "id": 20879,
+            "uri": "https://sedra.bethmardutho.org/api/word/20879.json"
+        }
+    }
+]

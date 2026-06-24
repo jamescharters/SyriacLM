@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 2298,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2298.json"
+        },
+        "syriac": "\u0725\u0719\u072a\u0718\u072a\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0623\u0642\u0645\u0637\u0629"
+            ],
+            "French": [
+                "langes"
+            ],
+            "English": [
+                "clothes",
+                "bandages",
+                "cradle",
+                "<span class=\"selectableFont\">\u0725\u0730\u0719\u072a\u073d\u0718\u072a\u0308\u0736\u0710</span> swaddling-clothes."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1367,
+            "uri": "https://sedra.bethmardutho.org/api/root/1367.json"
+        },
+        "words": [
+            {
+                "id": 15242,
+                "uri": "https://sedra.bethmardutho.org/api/word/15242.json"
+            },
+            {
+                "id": 15244,
+                "uri": "https://sedra.bethmardutho.org/api/word/15244.json"
+            },
+            {
+                "id": 15243,
+                "uri": "https://sedra.bethmardutho.org/api/word/15243.json"
+            },
+            {
+                "id": 42285,
+                "uri": "https://sedra.bethmardutho.org/api/word/42285.json"
+            },
+            {
+                "id": 42316,
+                "uri": "https://sedra.bethmardutho.org/api/word/42316.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

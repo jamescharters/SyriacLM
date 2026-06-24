@@ -1,0 +1,44 @@
+[
+    {
+        "syriac": "\u0722\u072c\u0729\u071b\u0720\u0718\u0722",
+        "western": "\u0722\u0736\u072c\u0742\u0729\u0730\u071b\u0720\u073d\u0718\u0722",
+        "tense": "imperfect",
+        "kaylo": "ethpa\u02bf\u02bfal",
+        "number": "plural",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 2788,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2788.json"
+        },
+        "stem": "\u0729\u071b\u0720",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0630\u0628\u062d",
+                "\u0642\u062a\u0644",
+                "\u00a0"
+            ],
+            "eng": [
+                "Ia to kill",
+                "IIa to murder, slay",
+                "kill",
+                "Ip",
+                "IIp."
+            ],
+            "fre": [
+                "immoler",
+                "\u00a0",
+                "tuer"
+            ]
+        },
+        "word": {
+            "id": 18235,
+            "uri": "https://sedra.bethmardutho.org/api/word/18235.json"
+        }
+    }
+]

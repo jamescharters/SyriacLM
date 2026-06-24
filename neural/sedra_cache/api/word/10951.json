@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0720\u0718\u071b\u072c\u0710",
+        "western": "\u0720\u0730\u0718\u071b\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 1643,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1643.json"
+        },
+        "stem": "\u0720\u0718\u071b\u072c\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0644\u0639\u0646\u0629"
+            ],
+            "eng": [
+                "curse, malediction, imprecation.",
+                "curse",
+                "malediction"
+            ],
+            "fre": [
+                "mal\u00e9diction"
+            ]
+        },
+        "word": {
+            "id": 10951,
+            "uri": "https://sedra.bethmardutho.org/api/word/10951.json"
+        }
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "lexeme": {
+            "id": 2451,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2451.json"
+        },
+        "syriac": "\u0726\u0713\u0725",
+        "glosses": {
+            "English": [
+                "IIIa to fall upon, to attack",
+                "meet",
+                "Ia to meet, encounter, happen upon",
+                "to befall",
+                "to cause to happen."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1448,
+            "uri": "https://sedra.bethmardutho.org/api/root/1448.json"
+        },
+        "words": [
+            {
+                "id": 16150,
+                "uri": "https://sedra.bethmardutho.org/api/word/16150.json"
+            },
+            {
+                "id": 16152,
+                "uri": "https://sedra.bethmardutho.org/api/word/16152.json"
+            },
+            {
+                "id": 27513,
+                "uri": "https://sedra.bethmardutho.org/api/word/27513.json"
+            },
+            {
+                "id": 27512,
+                "uri": "https://sedra.bethmardutho.org/api/word/27512.json"
+            },
+            {
+                "id": 16151,
+                "uri": "https://sedra.bethmardutho.org/api/word/16151.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

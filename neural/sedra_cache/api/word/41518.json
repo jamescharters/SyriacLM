@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0715\u0722\u0729",
+        "western": "\u0715\u0730\u0722\u0736\u0729",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15013,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15013.json"
+        },
+        "stem": "\u0715\u0722\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "",
+                "\u0639\u0630\u0628 (\u0645\u0636)"
+            ],
+            "eng": [
+                "IIa to torment",
+                "IIp to be in pain."
+            ],
+            "fre": [
+                "",
+                "tourmenter"
+            ]
+        },
+        "word": {
+            "id": 41518,
+            "uri": "https://sedra.bethmardutho.org/api/word/41518.json"
+        }
+    }
+]

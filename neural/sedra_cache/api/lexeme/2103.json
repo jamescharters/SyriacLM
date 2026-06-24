@@ -1,0 +1,29 @@
+[
+    {
+        "lexeme": {
+            "id": 2103,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2103.json"
+        },
+        "syriac": "\u0723\u071a\u0718\u0710",
+        "glosses": {
+            "English": [
+                "swimming",
+                "swimming",
+                "<span class=\"selectableFont\">\u0712\u0736\u071d\u072c \u0723\u0730\u071a\u0718\u0733\u0710</span> bathing pool."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1257,
+            "uri": "https://sedra.bethmardutho.org/api/root/1257.json"
+        },
+        "words": [
+            {
+                "id": 13976,
+                "uri": "https://sedra.bethmardutho.org/api/word/13976.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

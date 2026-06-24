@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u0723\u0721\u0729\u072c",
+        "western": "\u0723\u0736\u0721\u0729\u0730\u072c\u0742",
+        "tense": "perfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 2159,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2159.json"
+        },
+        "stem": "\u0723\u0721\u0729",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be red",
+                "to glow.",
+                "IIp to become red",
+                "to turn red",
+                "IIa to redden",
+                "to cause to blush",
+                "to blush",
+                "IIIa to make red",
+                "(W. Syr. <span class=\"selectableFont\">\u0723\u0721\u0736\u0729</span>) fut. <span class=\"selectableFont\">\u0722\u0736\u0723\u0721\u0730\u0729</span>, Ia to be, turn red"
+            ]
+        },
+        "word": {
+            "id": 14371,
+            "uri": "https://sedra.bethmardutho.org/api/word/14371.json"
+        }
+    }
+]

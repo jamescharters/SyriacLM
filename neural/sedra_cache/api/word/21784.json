@@ -1,0 +1,47 @@
+[
+    {
+        "syriac": "\u072b\u0718\u0726\u072a\u0710",
+        "western": "\u072b\u073d\u0718\u0726\u0742\u072a\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3294,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3294.json"
+        },
+        "stem": "\u072b\u0718\u0726\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u0627\u0644",
+                "\u0645\u062c\u062f",
+                "\u0623\u062d\u0633\u0646 (\u0627\u0644\u0640... )",
+                "\u0634\u0627\u0637\u0626",
+                "\u0641\u062c\u0631"
+            ],
+            "eng": [
+                "virtue.",
+                "elegance",
+                "grace",
+                "beauty",
+                "beauty",
+                "favor"
+            ],
+            "fre": [
+                "aurore",
+                "rivage",
+                "le meilleur ( de\u2026)",
+                "gloire",
+                "beaut\u00e9"
+            ]
+        },
+        "word": {
+            "id": 21784,
+            "uri": "https://sedra.bethmardutho.org/api/word/21784.json"
+        }
+    }
+]

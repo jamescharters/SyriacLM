@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u071f\u0718\u0722\u072b\u0710",
+        "western": "\u071f\u073d\u0718\u0722\u0733\u072b\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 13168,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13168.json"
+        },
+        "stem": "\u071f\u0718\u0722\u072b\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u062c\u0645\u0639, \u0627\u062c\u062a\u0645\u0627\u0639",
+                "\u0645\u062c\u0645\u0648\u0639\u0629",
+                "\u062c\u0645\u0639 \u0627\u0644\u0623\u0641\u0643\u0627\u0631",
+                "\u0646\u062a\u064a\u062c\u0629"
+            ],
+            "eng": [
+                "gathering, collection, convoking",
+                "conclusion."
+            ],
+            "fre": [
+                "recueillement",
+                "conclusion",
+                "r\u00e9union",
+                "collection"
+            ]
+        },
+        "word": {
+            "id": 30406,
+            "uri": "https://sedra.bethmardutho.org/api/word/30406.json"
+        }
+    }
+]

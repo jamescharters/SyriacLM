@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0715\u0726\u0722",
+        "western": "\u0715\u0730\u0726\u0736\u0722",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 14985,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14985.json"
+        },
+        "stem": "\u0715\u0726\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0646\u0641\u0642"
+            ],
+            "eng": [
+                "IIa to spend."
+            ],
+            "fre": [
+                "d\u00e9penser"
+            ]
+        },
+        "word": {
+            "id": 41044,
+            "uri": "https://sedra.bethmardutho.org/api/word/41044.json"
+        }
+    }
+]

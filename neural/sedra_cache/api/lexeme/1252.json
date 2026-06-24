@@ -1,0 +1,73 @@
+[
+    {
+        "lexeme": {
+            "id": 1252,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1252.json"
+        },
+        "syriac": "\u071b\u0721\u072a",
+        "glosses": {
+            "Arabic": [
+                "\u0637\u0645\u0631, \u063a\u0637\u0649, \u062e\u0628\u0623",
+                "\u0648\u0644\u062c",
+                "\u00a0"
+            ],
+            "French": [
+                "enfouir, recouvrir, cacher",
+                "p\u00e9n\u00e9trer",
+                "\u00a0"
+            ],
+            "English": [
+                "hide",
+                "cover",
+                "bury",
+                "to be covered, overwhelmed",
+                "to be irrigated",
+                "to cover",
+                "Ia to hide, bury under the earth",
+                "to overwhelm, to rush headlong upon",
+                "IIp to be buried with earth, to be overwhelmed.",
+                "Ip to hide oneself"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 739,
+            "uri": "https://sedra.bethmardutho.org/api/root/739.json"
+        },
+        "words": [
+            {
+                "id": 25143,
+                "uri": "https://sedra.bethmardutho.org/api/word/25143.json"
+            },
+            {
+                "id": 25142,
+                "uri": "https://sedra.bethmardutho.org/api/word/25142.json"
+            },
+            {
+                "id": 8165,
+                "uri": "https://sedra.bethmardutho.org/api/word/8165.json"
+            },
+            {
+                "id": 8164,
+                "uri": "https://sedra.bethmardutho.org/api/word/8164.json"
+            },
+            {
+                "id": 25145,
+                "uri": "https://sedra.bethmardutho.org/api/word/25145.json"
+            },
+            {
+                "id": 25144,
+                "uri": "https://sedra.bethmardutho.org/api/word/25144.json"
+            },
+            {
+                "id": 8167,
+                "uri": "https://sedra.bethmardutho.org/api/word/8167.json"
+            },
+            {
+                "id": 8166,
+                "uri": "https://sedra.bethmardutho.org/api/word/8166.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

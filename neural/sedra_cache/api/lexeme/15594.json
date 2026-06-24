@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 15594,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15594.json"
+        },
+        "syriac": "\u072a\u0725\u0710",
+        "glosses": {
+            "English": [
+                "to be pleasing. {new}",
+                "to make content, to please",
+                "IIIa to pacify",
+                "IIa to reconcile, to appease",
+                "3 fut. <span class=\"selectableFont\">\u0722\u0736\u072a\u0725\u0736\u0710</span>, Ia part. <span class=\"selectableFont\">\u072a\u0725\u0736\u0710</span> content with"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 3024,
+            "uri": "https://sedra.bethmardutho.org/api/root/3024.json"
+        },
+        "words": [
+            {
+                "id": 41908,
+                "uri": "https://sedra.bethmardutho.org/api/word/41908.json"
+            },
+            {
+                "id": 41542,
+                "uri": "https://sedra.bethmardutho.org/api/word/41542.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

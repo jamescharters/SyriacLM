@@ -1,0 +1,38 @@
+[
+    {
+        "syriac": "\u071b\u0718\u072a\u071d\u0722",
+        "western": "\u071b\u073d\u0718\u072a\u073a\u071d\u0722",
+        "state": "absolute",
+        "number": "plural",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 1218,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1218.json"
+        },
+        "stem": "\u071b\u0718\u072a\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0628\u0631\u064a\u0629",
+                "\u062c\u0628\u0644"
+            ],
+            "eng": [
+                "hill",
+                "mountain.",
+                "mountain"
+            ],
+            "fre": [
+                "campagne",
+                "montagne"
+            ]
+        },
+        "word": {
+            "id": 8034,
+            "uri": "https://sedra.bethmardutho.org/api/word/8034.json"
+        }
+    }
+]

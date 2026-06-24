@@ -1,0 +1,44 @@
+[
+    {
+        "lexeme": {
+            "id": 556,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/556.json"
+        },
+        "syriac": "\u0713\u0718\u071a\u071f\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u062d\u0643"
+            ],
+            "French": [
+                "rire"
+            ],
+            "English": [
+                "laughter",
+                "jesting",
+                "ridicule.",
+                "laughter"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 366,
+            "uri": "https://sedra.bethmardutho.org/api/root/366.json"
+        },
+        "words": [
+            {
+                "id": 3671,
+                "uri": "https://sedra.bethmardutho.org/api/word/3671.json"
+            },
+            {
+                "id": 23351,
+                "uri": "https://sedra.bethmardutho.org/api/word/23351.json"
+            },
+            {
+                "id": 3670,
+                "uri": "https://sedra.bethmardutho.org/api/word/3670.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

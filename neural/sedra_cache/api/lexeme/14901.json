@@ -1,0 +1,37 @@
+[
+    {
+        "lexeme": {
+            "id": 14901,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14901.json"
+        },
+        "syriac": "\u072a\u0713\u072a\u0713",
+        "glosses": {
+            "Arabic": [
+                "\u0634\u0648\u0642, \u062c\u0630\u0628"
+            ],
+            "French": [
+                "exciter le d\u00e9sir de, attirer"
+            ],
+            "English": [
+                "IVp to yearn for, to desire earnestly.",
+                "IVa to incite desire"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2606,
+            "uri": "https://sedra.bethmardutho.org/api/root/2606.json"
+        },
+        "words": [
+            {
+                "id": 41394,
+                "uri": "https://sedra.bethmardutho.org/api/word/41394.json"
+            },
+            {
+                "id": 40511,
+                "uri": "https://sedra.bethmardutho.org/api/word/40511.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

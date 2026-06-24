@@ -1,0 +1,29 @@
+[
+    {
+        "syriac": "\u0712\u071b\u0722\u072c\u0710",
+        "western": "\u0712\u0741\u0730\u071b\u0722\u072c\u0742\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 375,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/375.json"
+        },
+        "stem": "\u0712\u071b\u0722\u072c\u0710",
+        "category": "adjective",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "pregnant",
+                "pregnant woman."
+            ]
+        },
+        "word": {
+            "id": 2575,
+            "uri": "https://sedra.bethmardutho.org/api/word/2575.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15860,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15860.json"
+        },
+        "syriac": "\u0712\u0720\u0710",
+        "glosses": {
+            "English": [
+                "Ia to grow old, wear out",
+                "IIa to ruin, destroy.",
+                "Ip"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2805,
+            "uri": "https://sedra.bethmardutho.org/api/root/2805.json"
+        },
+        "words": [
+            {
+                "id": 42054,
+                "uri": "https://sedra.bethmardutho.org/api/word/42054.json"
+            },
+            {
+                "id": 41303,
+                "uri": "https://sedra.bethmardutho.org/api/word/41303.json"
+            },
+            {
+                "id": 39939,
+                "uri": "https://sedra.bethmardutho.org/api/word/39939.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 28753,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/28753.json"
+        },
+        "syriac": "\u0710\u071d\u0713\u071d\u0718\u0723\u071b\u0718\u0723",
+        "glosses": {
+            "Greek": [
+                "\u1f00\u03bd\u03b1\u03b3\u03bd\u03ce\u03c3\u03c4\u03b7\u03c2"
+            ],
+            "Latin": [
+                "lector"
+            ],
+            "English": [
+                "reader, an officer in the Christian Church"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u1f00\u03bd\u03b1\u03b3\u03bd\u03ce\u03c3\u03c4\u03b7\u03c2"
+            ]
+        },
+        "words": [
+            {
+                "id": 49250,
+                "uri": "https://sedra.bethmardutho.org/api/word/49250.json"
+            },
+            {
+                "id": 55127,
+                "uri": "https://sedra.bethmardutho.org/api/word/55127.json"
+            }
+        ],
+        "category": "noun"
+    }
+]

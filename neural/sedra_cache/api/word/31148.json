@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0721\u072c\u072c\u0728\u071d\u0715\u0722\u0718\u072c\u0710",
+        "western": "\u0721\u0736\u072c\u072c\u0728\u073a\u071d\u0715\u0733\u0722\u073d\u0718\u072c\u0733\u0710",
+        "number": "singular",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 13140,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/13140.json"
+        },
+        "stem": "\u0721\u072c\u072c\u0728\u071d\u0715\u0722\u0718\u072c\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0635\u064a\u062f",
+                "\u0625\u0645\u0633\u0627\u0643"
+            ],
+            "eng": [
+                "hunting, capturing."
+            ],
+            "fre": [
+                "chasse",
+                "capture"
+            ]
+        },
+        "word": {
+            "id": 31148,
+            "uri": "https://sedra.bethmardutho.org/api/word/31148.json"
+        }
+    }
+]

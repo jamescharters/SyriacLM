@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 2576,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2576.json"
+        },
+        "syriac": "\u0726\u072a\u0713\u0721\u0718\u0723",
+        "glosses": {
+            "English": [
+                "Pergamos"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1526,
+            "uri": "https://sedra.bethmardutho.org/api/root/1526.json"
+        },
+        "words": [
+            {
+                "id": 16828,
+                "uri": "https://sedra.bethmardutho.org/api/word/16828.json"
+            },
+            {
+                "id": 16827,
+                "uri": "https://sedra.bethmardutho.org/api/word/16827.json"
+            },
+            {
+                "id": 16829,
+                "uri": "https://sedra.bethmardutho.org/api/word/16829.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

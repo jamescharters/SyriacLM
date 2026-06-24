@@ -1,0 +1,54 @@
+[
+    {
+        "lexeme": {
+            "id": 599,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/599.json"
+        },
+        "syriac": "\u0713\u0722\u0712\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0633\u0627\u0631\u0642"
+            ],
+            "French": [
+                "voleur"
+            ],
+            "English": [
+                "thief",
+                "thief."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 385,
+            "uri": "https://sedra.bethmardutho.org/api/root/385.json"
+        },
+        "words": [
+            {
+                "id": 3895,
+                "uri": "https://sedra.bethmardutho.org/api/word/3895.json"
+            },
+            {
+                "id": 3894,
+                "uri": "https://sedra.bethmardutho.org/api/word/3894.json"
+            },
+            {
+                "id": 3893,
+                "uri": "https://sedra.bethmardutho.org/api/word/3893.json"
+            },
+            {
+                "id": 3896,
+                "uri": "https://sedra.bethmardutho.org/api/word/3896.json"
+            },
+            {
+                "id": 3892,
+                "uri": "https://sedra.bethmardutho.org/api/word/3892.json"
+            },
+            {
+                "id": 3891,
+                "uri": "https://sedra.bethmardutho.org/api/word/3891.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "pa\u02bf\u02bfel"
+    }
+]

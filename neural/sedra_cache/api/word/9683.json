@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0718\u071f\u0710\u0712\u0722\u0710",
+        "western": "\u0718\u071f\u0742\u073a\u0710\u0712\u0742\u0733\u0722\u0733\u0710",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 11628,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/11628.json"
+        },
+        "stem": "\u071f\u0710\u0712\u0722\u0710",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0624\u0644\u0645"
+            ],
+            "eng": [
+                "diseased.",
+                "diseased.",
+                "painful"
+            ],
+            "fre": [
+                "douloureux"
+            ]
+        },
+        "word": {
+            "id": 9683,
+            "uri": "https://sedra.bethmardutho.org/api/word/9683.json"
+        }
+    }
+]

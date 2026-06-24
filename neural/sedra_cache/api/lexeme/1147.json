@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 1147,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1147.json"
+        },
+        "syriac": "\u071a\u072a\u0722",
+        "glosses": {
+            "English": [
+                "Charrhae",
+                "Harran"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 685,
+            "uri": "https://sedra.bethmardutho.org/api/root/685.json"
+        },
+        "words": [
+            {
+                "id": 7552,
+                "uri": "https://sedra.bethmardutho.org/api/word/7552.json"
+            },
+            {
+                "id": 7553,
+                "uri": "https://sedra.bethmardutho.org/api/word/7553.json"
+            }
+        ],
+        "category": "proper noun"
+    }
+]

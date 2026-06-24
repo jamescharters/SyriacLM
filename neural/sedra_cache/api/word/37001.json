@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0721\u0723\u0726\u072a\u0710",
+        "western": "\u0721\u0730\u0723\u0726\u072a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10420,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10420.json"
+        },
+        "stem": "\u0721\u0723\u0726\u072a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u00a0"
+            ],
+            "eng": [
+                "scissors, shears."
+            ],
+            "fre": [
+                "\u00a0"
+            ]
+        },
+        "word": {
+            "id": 37001,
+            "uri": "https://sedra.bethmardutho.org/api/word/37001.json"
+        }
+    }
+]

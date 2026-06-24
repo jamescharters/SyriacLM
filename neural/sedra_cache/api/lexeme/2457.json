@@ -1,0 +1,55 @@
+[
+    {
+        "lexeme": {
+            "id": 2457,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2457.json"
+        },
+        "syriac": "\u0726\u0717\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0627\u0647",
+                "\u0636\u0644",
+                "\u0627\u0647\u062a\u0632"
+            ],
+            "French": [
+                "errer",
+                "s&#39;\u00e9garer",
+                "\u00eatre ballott\u00e9"
+            ],
+            "English": [
+                "wander",
+                "distracted",
+                "Ia to wander, roam",
+                "IIIa to mislead."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1451,
+            "uri": "https://sedra.bethmardutho.org/api/root/1451.json"
+        },
+        "words": [
+            {
+                "id": 27515,
+                "uri": "https://sedra.bethmardutho.org/api/word/27515.json"
+            },
+            {
+                "id": 27514,
+                "uri": "https://sedra.bethmardutho.org/api/word/27514.json"
+            },
+            {
+                "id": 16197,
+                "uri": "https://sedra.bethmardutho.org/api/word/16197.json"
+            },
+            {
+                "id": 16196,
+                "uri": "https://sedra.bethmardutho.org/api/word/16196.json"
+            },
+            {
+                "id": 16195,
+                "uri": "https://sedra.bethmardutho.org/api/word/16195.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

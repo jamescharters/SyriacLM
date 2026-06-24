@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15468,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15468.json"
+        },
+        "syriac": "\u0725\u072c",
+        "glosses": {
+            "English": [
+                "Ia to defraud",
+                "Ip to deal fraudulently."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2147,
+            "uri": "https://sedra.bethmardutho.org/api/root/2147.json"
+        },
+        "words": [
+            {
+                "id": 41691,
+                "uri": "https://sedra.bethmardutho.org/api/word/41691.json"
+            },
+            {
+                "id": 40257,
+                "uri": "https://sedra.bethmardutho.org/api/word/40257.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

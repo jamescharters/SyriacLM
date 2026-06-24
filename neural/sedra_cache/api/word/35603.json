@@ -1,0 +1,34 @@
+[
+    {
+        "syriac": "\u0715\u0720\u0718\u071a\u0710",
+        "western": "\u0715\u0733\u0720\u073d\u0718\u071a\u0733\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10371,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10371.json"
+        },
+        "stem": "\u0715\u0720\u0718\u071a\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0634\u0627\u063a\u0628",
+                "\u062d\u0627\u062b"
+            ],
+            "eng": [
+                "agitator, disturber."
+            ],
+            "fre": [
+                "instigateur",
+                "perturbateur"
+            ]
+        },
+        "word": {
+            "id": 35603,
+            "uri": "https://sedra.bethmardutho.org/api/word/35603.json"
+        }
+    }
+]

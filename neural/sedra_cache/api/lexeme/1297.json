@@ -1,0 +1,51 @@
+[
+    {
+        "lexeme": {
+            "id": 1297,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1297.json"
+        },
+        "syriac": "\u071d\u0712\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u064a\u0628\u0633"
+            ],
+            "French": [
+                "terre"
+            ],
+            "English": [
+                "land",
+                "earth",
+                "dry land."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 766,
+            "uri": "https://sedra.bethmardutho.org/api/root/766.json"
+        },
+        "words": [
+            {
+                "id": 8468,
+                "uri": "https://sedra.bethmardutho.org/api/word/8468.json"
+            },
+            {
+                "id": 8467,
+                "uri": "https://sedra.bethmardutho.org/api/word/8467.json"
+            },
+            {
+                "id": 8466,
+                "uri": "https://sedra.bethmardutho.org/api/word/8466.json"
+            },
+            {
+                "id": 8465,
+                "uri": "https://sedra.bethmardutho.org/api/word/8465.json"
+            },
+            {
+                "id": 8469,
+                "uri": "https://sedra.bethmardutho.org/api/word/8469.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

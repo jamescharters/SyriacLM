@@ -1,0 +1,36 @@
+[
+    {
+        "lexeme": {
+            "id": 15886,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15886.json"
+        },
+        "syriac": "\u072c\u0726\u072b",
+        "glosses": {
+            "English": [
+                "to waken.",
+                "Ia to arouse",
+                "IIa to knock, to tap"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2481,
+            "uri": "https://sedra.bethmardutho.org/api/root/2481.json"
+        },
+        "words": [
+            {
+                "id": 42107,
+                "uri": "https://sedra.bethmardutho.org/api/word/42107.json"
+            },
+            {
+                "id": 41373,
+                "uri": "https://sedra.bethmardutho.org/api/word/41373.json"
+            },
+            {
+                "id": 42187,
+                "uri": "https://sedra.bethmardutho.org/api/word/42187.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

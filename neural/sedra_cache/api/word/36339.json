@@ -1,0 +1,33 @@
+[
+    {
+        "syriac": "\u0710\u0718\u072a\u0713\u0710",
+        "western": "\u0710\u073d\u0718\u072a\u0733\u0713\u0733\u0710",
+        "eastern": "\u0710\u0718\u073c\u072a\u0735\u0713\u0735\u0710",
+        "number": "singular",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 10043,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/10043.json"
+        },
+        "stem": "\u0710\u0718\u072a\u0713\u0710",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0623\u0646\u0645\u0631"
+            ],
+            "eng": [
+                "piebald, striped."
+            ],
+            "fre": [
+                "tigr\u00e9"
+            ]
+        },
+        "word": {
+            "id": 36339,
+            "uri": "https://sedra.bethmardutho.org/api/word/36339.json"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "syriac": "\u0715\u0710\u0718\u0721\u0722\u0717",
+        "western": "\u0715\u0741\u073d\u0710\u0718\u0721\u0733\u0722\u0733\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "feminine",
+        "lexeme": {
+            "id": 47,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/47.json"
+        },
+        "stem": "\u0710\u0718\u0721\u0722\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "craftsman.",
+                "builder",
+                "artificer",
+                "craftsman"
+            ]
+        },
+        "word": {
+            "id": 273,
+            "uri": "https://sedra.bethmardutho.org/api/word/273.json"
+        }
+    }
+]

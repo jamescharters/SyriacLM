@@ -1,0 +1,43 @@
+[
+    {
+        "syriac": "\u0710\u0720\u071d\u0722",
+        "western": "\u0710\u0733\u0720\u071d\u0733\u0722",
+        "tense": "active participle",
+        "kaylo": "p\u02bfal",
+        "number": "plural",
+        "person": "first",
+        "gender": "feminine",
+        "lexeme": {
+            "id": 128,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/128.json"
+        },
+        "stem": "\u0710\u0720\u0710",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "true",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0641\u0642\u0637",
+                "\u0648\u0644\u0643\u0646, \u0645\u0639 \u0630\u0644\u0643",
+                "\u0646\u0627\u062d"
+            ],
+            "eng": [
+                "howl",
+                "Ia to mourn, lament.",
+                "wail",
+                "lament aloud"
+            ],
+            "fre": [
+                "mais, cependant",
+                "seulement",
+                "se lamenter"
+            ]
+        },
+        "word": {
+            "id": 23096,
+            "uri": "https://sedra.bethmardutho.org/api/word/23096.json"
+        }
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "syriac": "\u0722\u0710\u071f\u0721",
+        "western": "\u0722\u073a\u0710\u071f\u0730\u0721",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15436,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15436.json"
+        },
+        "stem": "\u071d\u071f\u0721",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0627\u0633\u0648\u062f"
+            ],
+            "eng": [
+                "Ia to become black."
+            ],
+            "fre": [
+                "\u00eatre ou devenir noir"
+            ]
+        },
+        "word": {
+            "id": 41795,
+            "uri": "https://sedra.bethmardutho.org/api/word/41795.json"
+        }
+    }
+]

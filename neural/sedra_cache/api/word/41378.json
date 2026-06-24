@@ -1,0 +1,39 @@
+[
+    {
+        "syriac": "\u0728\u0722\u0725",
+        "western": "\u0728\u0730\u0722\u0730\u0725",
+        "tense": "perfect",
+        "kaylo": "pa\u02bf\u02bfel",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15050,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15050.json"
+        },
+        "stem": "\u0728\u0722\u0725",
+        "category": "verb",
+        "isLexicalForm": "true",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "true",
+        "glosses": {
+            "ara": [
+                "\u0627\u062d\u062a\u0627\u0644"
+            ],
+            "eng": [
+                "IIa to act craftily",
+                "to defraud, cheat",
+                "IIIa to devise artifices.",
+                "IIp to plot, contrive"
+            ],
+            "fre": [
+                "agir avec ruse"
+            ]
+        },
+        "word": {
+            "id": 41378,
+            "uri": "https://sedra.bethmardutho.org/api/word/41378.json"
+        }
+    }
+]

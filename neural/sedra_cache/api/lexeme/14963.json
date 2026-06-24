@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 14963,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/14963.json"
+        },
+        "syriac": "\u0721\u0720\u0720",
+        "glosses": {
+            "Arabic": [
+                "\u062a\u0643\u0644\u0645",
+                "\u062f\u0648\u0649",
+                "\u0635\u0627\u062a"
+            ],
+            "French": [
+                "parler",
+                "retentir",
+                "produire un son"
+            ],
+            "English": [
+                "IIp to be spoken, told, said.",
+                "IIa to speak, talk",
+                "<span class=\"selectableFont\">\u0721\u0721\u0730\u0720\u0736\u0720 \u0710\u0730\u0720\u0733\u0717\u071d\u0308</span><span class=\"selectableFont\">\u0733\u072c\u0733\u0710</span> theologian",
+                "<span class=\"selectableFont\">\u0721\u0721\u0730\u0720\u0736\u0720 \u071f\u071d\u0733\u0722\u0308</span><span class=\"selectableFont\">\u071d\u0733\u072c\u0733\u0710</span> physiologist etc."
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2201,
+            "uri": "https://sedra.bethmardutho.org/api/root/2201.json"
+        },
+        "words": [
+            {
+                "id": 40053,
+                "uri": "https://sedra.bethmardutho.org/api/word/40053.json"
+            },
+            {
+                "id": 40068,
+                "uri": "https://sedra.bethmardutho.org/api/word/40068.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

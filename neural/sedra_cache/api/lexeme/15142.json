@@ -1,0 +1,31 @@
+[
+    {
+        "lexeme": {
+            "id": 15142,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15142.json"
+        },
+        "syriac": "\u0723\u0721\u0721",
+        "glosses": {
+            "English": [
+                "IIp.",
+                "IIa to poison"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 2281,
+            "uri": "https://sedra.bethmardutho.org/api/root/2281.json"
+        },
+        "words": [
+            {
+                "id": 40507,
+                "uri": "https://sedra.bethmardutho.org/api/word/40507.json"
+            },
+            {
+                "id": 40487,
+                "uri": "https://sedra.bethmardutho.org/api/word/40487.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "lexeme": {
+            "id": 1262,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1262.json"
+        },
+        "syriac": "\u0721\u071b\u0725\u071d\u0722\u0710",
+        "glosses": {
+            "English": [
+                "deceiver",
+                "impostor",
+                "wandering.",
+                "deceiver, impostor, seducer",
+                "leading astray, deceiving"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 742,
+            "uri": "https://sedra.bethmardutho.org/api/root/742.json"
+        },
+        "words": [
+            {
+                "id": 8274,
+                "uri": "https://sedra.bethmardutho.org/api/word/8274.json"
+            },
+            {
+                "id": 8276,
+                "uri": "https://sedra.bethmardutho.org/api/word/8276.json"
+            },
+            {
+                "id": 8275,
+                "uri": "https://sedra.bethmardutho.org/api/word/8275.json"
+            },
+            {
+                "id": 8277,
+                "uri": "https://sedra.bethmardutho.org/api/word/8277.json"
+            }
+        ],
+        "category": "adjective",
+        "kaylo": "aph\u02bfel"
+    }
+]

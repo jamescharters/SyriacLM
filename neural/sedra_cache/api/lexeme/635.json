@@ -1,0 +1,49 @@
+[
+    {
+        "lexeme": {
+            "id": 635,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/635.json"
+        },
+        "syriac": "\u0713\u072b\u0718\u072b\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u062c\u0633\u0627\u0633"
+            ],
+            "French": [
+                "espion"
+            ],
+            "English": [
+                "spy",
+                "scout",
+                "explorer",
+                "searching.",
+                "spy, scout, explorer"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 409,
+            "uri": "https://sedra.bethmardutho.org/api/root/409.json"
+        },
+        "words": [
+            {
+                "id": 53320,
+                "uri": "https://sedra.bethmardutho.org/api/word/53320.json"
+            },
+            {
+                "id": 4003,
+                "uri": "https://sedra.bethmardutho.org/api/word/4003.json"
+            },
+            {
+                "id": 22779,
+                "uri": "https://sedra.bethmardutho.org/api/word/22779.json"
+            },
+            {
+                "id": 4002,
+                "uri": "https://sedra.bethmardutho.org/api/word/4002.json"
+            }
+        ],
+        "category": "noun",
+        "kaylo": "p\u02bfal"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0713\u072a\u0712\u0717",
+        "western": "\u0713\u0741\u0730\u072a\u0712\u0742\u0736\u0717",
+        "state": "emphatic",
+        "number": "singular",
+        "gender": "masculine",
+        "suffixType": "suffix",
+        "suffixNumber": "singular",
+        "suffixPerson": "third",
+        "suffixGender": "masculine",
+        "lexeme": {
+            "id": 624,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/624.json"
+        },
+        "stem": "\u0713\u072a\u0712\u0710",
+        "category": "noun",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "leprosy"
+            ]
+        },
+        "word": {
+            "id": 3965,
+            "uri": "https://sedra.bethmardutho.org/api/word/3965.json"
+        }
+    }
+]

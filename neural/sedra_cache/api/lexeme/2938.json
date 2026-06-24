@@ -1,0 +1,95 @@
+[
+    {
+        "lexeme": {
+            "id": 2938,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/2938.json"
+        },
+        "syriac": "\u072a\u0713\u072b",
+        "glosses": {
+            "Arabic": [
+                "\u0636\u062c, \u0627\u0631\u062a\u062c",
+                "\u0647\u0627\u062c",
+                "\u0623\u062d\u0633 \u0628\u0640 , \u0641\u0647\u0645",
+                "\u00a0"
+            ],
+            "French": [
+                "\u00eatre en tumulte, s&#39;agiter",
+                "\u00eatre excit\u00e9",
+                "sentir, comprendre",
+                "\u00a0"
+            ],
+            "English": [
+                "to make aware.",
+                "rage",
+                "feel",
+                "perceive",
+                "know",
+                "IIa to think up, devise",
+                "Ia to rage",
+                "Ip to be in a commotion",
+                "to feel, perceive",
+                "IIIa to feel, perceive, be aware of"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 1730,
+            "uri": "https://sedra.bethmardutho.org/api/root/1730.json"
+        },
+        "words": [
+            {
+                "id": 19166,
+                "uri": "https://sedra.bethmardutho.org/api/word/19166.json"
+            },
+            {
+                "id": 19171,
+                "uri": "https://sedra.bethmardutho.org/api/word/19171.json"
+            },
+            {
+                "id": 28450,
+                "uri": "https://sedra.bethmardutho.org/api/word/28450.json"
+            },
+            {
+                "id": 28449,
+                "uri": "https://sedra.bethmardutho.org/api/word/28449.json"
+            },
+            {
+                "id": 19170,
+                "uri": "https://sedra.bethmardutho.org/api/word/19170.json"
+            },
+            {
+                "id": 19169,
+                "uri": "https://sedra.bethmardutho.org/api/word/19169.json"
+            },
+            {
+                "id": 19167,
+                "uri": "https://sedra.bethmardutho.org/api/word/19167.json"
+            },
+            {
+                "id": 19165,
+                "uri": "https://sedra.bethmardutho.org/api/word/19165.json"
+            },
+            {
+                "id": 19164,
+                "uri": "https://sedra.bethmardutho.org/api/word/19164.json"
+            },
+            {
+                "id": 19163,
+                "uri": "https://sedra.bethmardutho.org/api/word/19163.json"
+            },
+            {
+                "id": 28452,
+                "uri": "https://sedra.bethmardutho.org/api/word/28452.json"
+            },
+            {
+                "id": 28451,
+                "uri": "https://sedra.bethmardutho.org/api/word/28451.json"
+            },
+            {
+                "id": 19168,
+                "uri": "https://sedra.bethmardutho.org/api/word/19168.json"
+            }
+        ],
+        "category": "verb"
+    }
+]

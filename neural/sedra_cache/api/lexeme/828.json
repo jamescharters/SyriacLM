@@ -1,0 +1,34 @@
+[
+    {
+        "lexeme": {
+            "id": 828,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/828.json"
+        },
+        "syriac": "\u0718\u071d",
+        "glosses": {
+            "Arabic": [
+                "\u0648\u064a\u0644 !"
+            ],
+            "French": [
+                "malheur !"
+            ],
+            "English": [
+                "woe!",
+                "alas for!",
+                "alas!, woe!"
+            ]
+        },
+        "etymologies": [],
+        "root": {
+            "id": 529,
+            "uri": "https://sedra.bethmardutho.org/api/root/529.json"
+        },
+        "words": [
+            {
+                "id": 5356,
+                "uri": "https://sedra.bethmardutho.org/api/word/5356.json"
+            }
+        ],
+        "category": "particle"
+    }
+]

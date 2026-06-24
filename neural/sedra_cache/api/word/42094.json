@@ -1,0 +1,37 @@
+[
+    {
+        "syriac": "\u0722\u072a\u0725\u072b",
+        "western": "\u0722\u0736\u072a\u0725\u0730\u072b",
+        "tense": "imperfect",
+        "kaylo": "p\u02bfal",
+        "number": "singular",
+        "person": "third",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 15377,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/15377.json"
+        },
+        "stem": "\u072a\u0725\u072b",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "ara": [
+                "\u0645\u0632\u0642 (\u0645\u0636), \u062d\u0637\u0645 (\u0645\u0636)"
+            ],
+            "eng": [
+                "to convulse, to tear in pieces.",
+                "Ia to trample"
+            ],
+            "fre": [
+                "mettre en pi\u00e8ces"
+            ]
+        },
+        "word": {
+            "id": 42094,
+            "uri": "https://sedra.bethmardutho.org/api/word/42094.json"
+        }
+    }
+]

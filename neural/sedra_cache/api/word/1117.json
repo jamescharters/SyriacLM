@@ -1,0 +1,32 @@
+[
+    {
+        "syriac": "\u0710\u072c\u0710\u0721\u0722\u0718",
+        "western": "\u0710\u0736\u072c\u0742\u0730\u0710\u0721\u0331\u0722\u0718",
+        "tense": "imperative",
+        "kaylo": "ethp\u02bfel",
+        "number": "plural",
+        "person": "second",
+        "gender": "masculine",
+        "lexeme": {
+            "id": 3558,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/3558.json"
+        },
+        "stem": "\u0710\u0721\u0722",
+        "category": "verb",
+        "isLexicalForm": "false",
+        "isEnclitic": "false",
+        "hasSeyame": "false",
+        "isTheoretical": "false",
+        "glosses": {
+            "eng": [
+                "be constant",
+                "Ip <span class=\"selectableFont\">\u0710\u0736\u072c\u0736\u0710\u0721\u0736\u0722</span> to persevere, continue in.",
+                "be firm"
+            ]
+        },
+        "word": {
+            "id": 1117,
+            "uri": "https://sedra.bethmardutho.org/api/word/1117.json"
+        }
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "lexeme": {
+            "id": 1683,
+            "uri": "https://sedra.bethmardutho.org/api/lexeme/1683.json"
+        },
+        "syriac": "\u0720\u0721\u0726\u0710\u0715\u0710",
+        "glosses": {
+            "Arabic": [
+                "\u0642\u0646\u062f\u064a\u0644, \u0645\u0634\u0639\u0644",
+                "\u0646\u0648\u0631",
+                "\u0628\u0631\u0642"
+            ],
+            "French": [
+                "lampe, torche",
+                "lumi\u00e8re",
+                "\u00e9clair"
+            ],
+            "English": [
+                "lamp",
+                "light"
+            ]
+        },
+        "etymologies": {
+            "Greek": [
+                "\u03bb\u03b1\u03bc\u03c0\u03ac\u03c2"
+            ]
+        },
+        "root": {
+            "id": 998,
+            "uri": "https://sedra.bethmardutho.org/api/root/998.json"
+        },
+        "words": [
+            {
+                "id": 11100,
+                "uri": "https://sedra.bethmardutho.org/api/word/11100.json"
+            },
+            {
+                "id": 11097,
+                "uri": "https://sedra.bethmardutho.org/api/word/11097.json"
+            },
+            {
+                "id": 10917,
+                "uri": "https://sedra.bethmardutho.org/api/word/10917.json"
+            },
+            {
+                "id": 11099,
+                "uri": "https://sedra.bethmardutho.org/api/word/11099.json"
+            },
+            {
+                "id": 11098,
+                "uri": "https://sedra.bethmardutho.org/api/word/11098.json"
+            }
+        ],
+        "category": "noun"
+    }
+]
