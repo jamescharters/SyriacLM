@@ -198,6 +198,7 @@ class Trainer:
 
         correct_root = 0
         correct_templ = 0
+        correct_templ_exact = 0
         correct_edge = 0
         correct_full = 0
         n_evaluated = 0
@@ -223,6 +224,7 @@ class Trainer:
                 n_steps=20,
                 condition_root=batch['root_nodes'],   # give it the unseen root
                 condition_templ=None,                  # generate template
+                morph=batch['morph'],                  # + the target feature spec
             )
 
             # Compare predictions to ground truth
@@ -231,11 +233,13 @@ class Trainer:
             re_mask = r_mask.unsqueeze(1) & t_mask.unsqueeze(0)
 
             root_acc = (result['root_nodes'][0][r_mask] == batch['root_nodes'][0][r_mask]).float().mean()
-            templ_acc = (result['templ_nodes'][0][t_mask] == batch['templ_nodes'][0][t_mask]).float().mean()
+            templ_match = (result['templ_nodes'][0][t_mask] == batch['templ_nodes'][0][t_mask])
+            templ_acc = templ_match.float().mean()
             edge_acc = (result['edges'][0][re_mask] == batch['edges'][0][re_mask]).float().mean()
 
             correct_root += root_acc.item()
             correct_templ += templ_acc.item()
+            correct_templ_exact += float(templ_match.all())   # whole pattern correct
             correct_edge += edge_acc.item()
             correct_full += float(root_acc > 0.99 and templ_acc > 0.99 and edge_acc > 0.99)
             n_evaluated += 1
@@ -246,6 +250,7 @@ class Trainer:
         return {
             'zs_root_acc':  correct_root / n_evaluated,
             'zs_templ_acc': correct_templ / n_evaluated,
+            'zs_templ_exact': correct_templ_exact / n_evaluated,
             'zs_edge_acc':  correct_edge / n_evaluated,
             'zs_full_acc':  correct_full / n_evaluated,
             'n_zeroshot':   n_evaluated,
@@ -277,7 +282,8 @@ class Trainer:
                     f"(R={train_losses['root']:.3f} T={train_losses['templ']:.3f} E={train_losses['edge']:.3f}) | "
                     f"Val {val_losses['total']:.3f} | "
                     f"ZS-templ {zs_metrics.get('zs_templ_acc', 0):.3f} "
-                    f"ZS-full {zs_metrics.get('zs_full_acc', 0):.3f}"
+                    f"ZS-exact {zs_metrics.get('zs_templ_exact', 0):.3f} "
+                    f"ZS-edge {zs_metrics.get('zs_edge_acc', 0):.3f}"
                 )
             else:
                 print(
@@ -356,7 +362,8 @@ def print_generation_example(
     condition_templ = batch_d['templ_nodes'] if mode == 'templ_conditioned' else None
 
     result = sample(model, batch_d['root_mask'], batch_d['templ_mask'], device,
-                    condition_root=condition_root, condition_templ=condition_templ)
+                    condition_root=condition_root, condition_templ=condition_templ,
+                    morph=batch_d['morph'])
     result['root_mask'] = batch_d['root_mask']
     result['templ_mask'] = batch_d['templ_mask']
 
@@ -365,6 +372,7 @@ def print_generation_example(
 
     print(f"  Surface:    {item['surface']}")
     print(f"  Root:       {item['root_syriac']}  {item['root_consonants']}")
+    print(f"  Features:   {item.get('morphology', {})}")
     print(f"  Template:   {item.get('template_name', '?')}  {item['template']}")
     print(f"  True slots: {truth['slots']}")
     print(f"  Pred slots: {pred['slots']}")

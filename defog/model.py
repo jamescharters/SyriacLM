@@ -49,7 +49,8 @@ import torch.nn.functional as F
 from .graph import (
     N_CONSONANTS, N_SLOTS, N_EDGE_TYPES,
     MAX_ROOT_LEN, MAX_TEMPL_LEN,
-    CONSONANT_VOCAB, SLOT_VOCAB, EDGE_VOCAB
+    CONSONANT_VOCAB, SLOT_VOCAB, EDGE_VOCAB,
+    MORPH_FIELD_SIZES,
 )
 
 
@@ -244,6 +245,29 @@ class EdgePredictor(nn.Module):
         return self.mlp(torch.cat([r_exp, t_exp], dim=-1)) # [B, R, T, E]
 
 
+# ── Morphological Conditioning ───────────────────────────────────
+
+class MorphConditioning(nn.Module):
+    """Embed the morphosyntactic feature spec (the 'pattern' the form must realise)
+    into one conditioning vector. Each field is embedded independently and summed,
+    so an absent field ('<none>', index 0) contributes a learnable bias and the
+    present features compose additively. This is the signal that makes
+    template generation well-posed: the template is a function of the features,
+    while the root supplies the consonants to interdigitate into it."""
+
+    def __init__(self, d_model: int):
+        super().__init__()
+        self.embeds = nn.ModuleList(
+            [nn.Embedding(n, d_model) for n in MORPH_FIELD_SIZES])
+        self.mlp = nn.Sequential(
+            nn.Linear(d_model, d_model), nn.SiLU(), nn.Linear(d_model, d_model))
+
+    def forward(self, morph: torch.Tensor) -> torch.Tensor:
+        # morph: [B, F] int -> [B, D]
+        h = sum(emb(morph[:, i]) for i, emb in enumerate(self.embeds))
+        return self.mlp(h)
+
+
 # ── BipartiteDeFoG (full model) ───────────────────────────────────────────
 
 class BipartiteDeFoG(nn.Module):
@@ -267,9 +291,11 @@ class BipartiteDeFoG(nn.Module):
         n_heads: int = 4,
         n_coupling_layers: int = 3,
         dropout: float = 0.1,
+        use_morph: bool = True,
     ):
         super().__init__()
         self.d_model = d_model
+        self.use_morph = use_morph
 
         # Encoders
         self.root_encoder = DeepSetsRootEncoder(d_model, n_layers=2)
@@ -284,6 +310,14 @@ class BipartiteDeFoG(nn.Module):
         # Time conditioning projection
         self.time_proj_r = nn.Linear(d_model, d_model)
         self.time_proj_t = nn.Linear(d_model, d_model)
+
+        # Morphological-feature conditioning (the 'pattern' specification). When
+        # disabled (ablation), root -> template is underdetermined and template
+        # generation collapses to the marginal pattern distribution.
+        if use_morph:
+            self.morph_cond = MorphConditioning(d_model)
+            self.morph_proj_r = nn.Linear(d_model, d_model)
+            self.morph_proj_t = nn.Linear(d_model, d_model)
 
         # Cross-attention coupling layers
         self.coupling_layers = nn.ModuleList([
@@ -346,6 +380,14 @@ class BipartiteDeFoG(nn.Module):
         t_emb = self.time_embed(t, self.d_model)    # [B, D]
         r_feats = r_feats + self.time_proj_r(t_emb).unsqueeze(1)   # broadcast [B,1,D]
         t_feats = t_feats + self.time_proj_t(t_emb).unsqueeze(1)
+
+        # 4b. Morphological-feature conditioning (broadcast over nodes). The
+        # feature spec specifies the target pattern; root + features then
+        # determine the interdigitated form.
+        if self.use_morph and batch.get('morph') is not None:
+            m_emb = self.morph_cond(batch['morph'])     # [B, D]
+            r_feats = r_feats + self.morph_proj_r(m_emb).unsqueeze(1)
+            t_feats = t_feats + self.morph_proj_t(m_emb).unsqueeze(1)
 
         # 5. Coupled cross-attention
         for layer in self.coupling_layers:
@@ -477,6 +519,7 @@ def sample(
     n_steps: int = 20,
     condition_root: torch.Tensor = None,   # [B, R] if we want to condition on root
     condition_templ: torch.Tensor = None,  # [B, T] if we want to condition on template
+    morph: torch.Tensor = None,            # [B, F] morphosyntactic feature spec
 ) -> dict:
     """
     Sample from the model by iterative denoising from t=1 (fully masked) to t=0.
@@ -486,7 +529,9 @@ def sample(
       2. Root-conditioned: given root consonants, generate template
       3. Template-conditioned: given template, generate root consonants (novel!)
 
-    Zero-shot root transfer is mode 1 or 3 with a new unseen root.
+    Conditioning on ``morph`` (the feature spec) makes mode 2 well-posed:
+    (root, features) -> interdigitated form. Zero-shot root transfer is this with
+    a new unseen root.
     """
     B = root_mask.shape[0]
     R = root_mask.shape[1]
@@ -499,6 +544,7 @@ def sample(
         'edges':       torch.full((B, R, T), EDGE_VOCAB['mask'], dtype=torch.long, device=device),
         'root_mask':   root_mask.to(device),
         'templ_mask':  templ_mask.to(device),
+        'morph':       morph.to(device) if morph is not None else None,
     }
 
     # If conditioning on known root, fix it

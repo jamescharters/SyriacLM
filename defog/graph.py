@@ -68,6 +68,59 @@ MAX_ROOT_LEN = 5    # max radicals
 MAX_TEMPL_LEN = 8   # max template slots
 
 
+# ── Morphological feature schema (the conditioning / "pattern" signal) ──────────
+# In root-and-pattern morphology the TEMPLATE is determined by morphosyntactic
+# features, not by the root. Conditioning generation on these features turns the
+# otherwise underdetermined "root -> template" map (a root realises ~9 templates)
+# into the well-posed compositional task "(root, features) -> interdigitated
+# form". Each field is embedded independently; index 0 is always '<none>' (the
+# feature is absent for this word, e.g. tense on a noun). Values are the SEDRA IV
+# morphology tags; rare/garbled category strings collapse to '<other>'.
+MORPH_SCHEMA: dict[str, list[str]] = {
+    'category': ['<none>', 'verb', 'noun', 'adjective', 'proper noun',
+                 'denominative', 'participle adjective', 'particle', 'preposition',
+                 'numeral', 'pronoun', 'adjective of place', 'substantive',
+                 'adverb', '<other>'],
+    'number':   ['<none>', 'singular', 'plural'],
+    'gender':   ['<none>', 'masculine', 'feminine', 'common'],
+    'state':    ['<none>', 'emphatic', 'absolute', 'construct'],
+    'person':   ['<none>', 'first', 'second', 'third'],
+    'tense':    ['<none>', 'perfect', 'active participle', 'imperfect',
+                 'passive participle', 'participle', 'imperative', 'infinitive'],
+}
+MORPH_FIELDS: list[str] = list(MORPH_SCHEMA)
+MORPH_FIELD_SIZES: list[int] = [len(MORPH_SCHEMA[f]) for f in MORPH_FIELDS]
+N_MORPH_FIELDS = len(MORPH_FIELDS)
+_MORPH_INDEX = {f: {v: i for i, v in enumerate(MORPH_SCHEMA[f])} for f in MORPH_FIELDS}
+
+
+def encode_morph(morphology: dict) -> torch.Tensor:
+    """Map a SEDRA morphology dict to a ``[N_MORPH_FIELDS]`` tensor of value
+    indices. An unknown value for a field falls back to '<other>' if that field
+    defines one, otherwise to '<none>' (index 0)."""
+    out: list[int] = []
+    for f in MORPH_FIELDS:
+        table = _MORPH_INDEX[f]
+        v = (morphology or {}).get(f)
+        if v in table:
+            out.append(table[v])
+        elif '<other>' in table:
+            out.append(table['<other>'])
+        else:
+            out.append(0)
+    return torch.tensor(out, dtype=torch.long)
+
+
+def describe_morph(morph: torch.Tensor) -> str:
+    """Human-readable feature spec from a ``[N_MORPH_FIELDS]`` index tensor."""
+    parts = []
+    for i, f in enumerate(MORPH_FIELDS):
+        val = MORPH_SCHEMA[f][int(morph[i])]
+        if val != '<none>':
+            parts.append(f"{f}={val}")
+    return ", ".join(parts) or "(no features)"
+
+
 # ── Graph Data Structure ──────────────────────────────────────────────────
 
 @dataclass
@@ -94,6 +147,7 @@ class BipartiteMorphGraph:
     edges: torch.Tensor         # [MAX_ROOT_LEN, MAX_TEMPL_LEN]
     root_pos: torch.Tensor      # [MAX_ROOT_LEN]
     templ_pos: torch.Tensor     # [MAX_TEMPL_LEN]
+    morph: torch.Tensor         # [N_MORPH_FIELDS] morphosyntactic feature indices
     label: str = ''
     root_id: int = -1
     template_name: str = ''
@@ -107,6 +161,7 @@ class BipartiteMorphGraph:
             edges=self.edges.to(device),
             root_pos=self.root_pos.to(device),
             templ_pos=self.templ_pos.to(device),
+            morph=self.morph.to(device),
             label=self.label,
             root_id=self.root_id,
             template_name=self.template_name,
@@ -186,6 +241,7 @@ def build_graph(item: dict) -> Optional[BipartiteMorphGraph]:
         edges=edges,
         root_pos=root_pos,
         templ_pos=templ_pos,
+        morph=encode_morph(item.get('morphology', {})),
         label=surface,
         root_id=item.get('root_id', -1),
         template_name=item.get('template_name', ''),
@@ -202,6 +258,7 @@ def graphs_to_batch(graphs: list[BipartiteMorphGraph]) -> dict:
         'edges':       torch.stack([g.edges for g in graphs]),        # [B, R, T]
         'root_pos':    torch.stack([g.root_pos for g in graphs]),     # [B, R]
         'templ_pos':   torch.stack([g.templ_pos for g in graphs]),    # [B, T]
+        'morph':       torch.stack([g.morph for g in graphs]),        # [B, F]
         'labels':      [g.label for g in graphs],
         'root_ids':    [g.root_id for g in graphs],
     }

@@ -11,6 +11,8 @@ Run as a package from the repository root:
 
 import argparse
 import random
+from collections import Counter
+
 import torch
 from torch.utils.data import DataLoader
 
@@ -46,6 +48,9 @@ def main():
                         help='Eval only (load best.pt)')
     parser.add_argument('--demo', action='store_true',
                         help='Print qualitative generation examples')
+    parser.add_argument('--no-morph', action='store_true',
+                        help='Ablation: disable morphological-feature conditioning '
+                             '(makes root->template underdetermined)')
     parser.add_argument('--seed', type=int, default=42)
     args = parser.parse_args()
 
@@ -97,8 +102,10 @@ def main():
         n_heads=4,
         n_coupling_layers=args.n_coupling,
         dropout=0.1,
+        use_morph=not args.no_morph,
     )
-    print(f"\nModel: {sum(p.numel() for p in model.parameters()):,} parameters")
+    print(f"\nModel: {sum(p.numel() for p in model.parameters()):,} parameters "
+          f"| morph-conditioning: {'OFF (ablation)' if args.no_morph else 'ON'}")
 
     # ── Trainer ──────────────────────────────────────────────────────────────
     trainer = Trainer(
@@ -121,14 +128,28 @@ def main():
         trainer.train(n_epochs=args.epochs, eval_every=5)
 
     # ── Final zero-shot eval ─────────────────────────────────────────────────
+    # Per-slot majority baseline: predict the single most common slot label for
+    # every slot. The compositional claim is that conditioning on (root,
+    # features) beats this marginal-pattern floor on roots never seen in training.
+    slot_counts = Counter(s for it in train_items for s in it['template'])
+    maj_label = slot_counts.most_common(1)[0][0] if slot_counts else None
+    zs_templates = [it['template'] for it in zeroshot_items if it['template']]
+    base_slot = (sum(sum(s == maj_label for s in t) / len(t) for t in zs_templates)
+                 / len(zs_templates)) if zs_templates else 0.0
+    base_exact = (sum(all(s == maj_label for s in t) for t in zs_templates)
+                  / len(zs_templates)) if zs_templates else 0.0
+
     print("\n── Zero-Shot Root Transfer Evaluation ──")
-    zs = trainer.zero_shot_eval(n_samples=100)
+    print(f"  (novel roots, unseen in training; generation conditioned on "
+          f"root + morphological features)")
+    zs = trainer.zero_shot_eval(n_samples=200)
     if zs:
         print(f"  Samples evaluated:      {zs['n_zeroshot']}")
-        print(f"  Root accuracy:          {zs['zs_root_acc']:.3f}  (should be ~1.0, root is conditioned)")
-        print(f"  Template accuracy:      {zs['zs_templ_acc']:.3f}  (KEY metric — novel root → correct template)")
-        print(f"  Edge accuracy:          {zs['zs_edge_acc']:.3f}  (interdigitation pattern)")
-        print(f"  Full graph accuracy:    {zs['zs_full_acc']:.3f}  (all three correct)")
+        print(f"  Root accuracy:          {zs['zs_root_acc']:.3f}  (conditioned, should be ~1.0)")
+        print(f"  Template per-slot acc:  {zs['zs_templ_acc']:.3f}  (vs majority baseline {base_slot:.3f})")
+        print(f"  Template EXACT match:   {zs['zs_templ_exact']:.3f}  (whole pattern; baseline {base_exact:.3f})")
+        print(f"  Edge (interdigitation): {zs['zs_edge_acc']:.3f}  (binds unseen root into the pattern)")
+        print(f"  Full graph accuracy:    {zs['zs_full_acc']:.3f}  (root+template+edges all correct)")
     else:
         print("  (no zero-shot items available)")
 
