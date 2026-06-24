@@ -130,7 +130,7 @@ class Attention(nn.Module):
         e = e.masked_fill(~mask, float("-inf"))
         a = F.softmax(e, dim=-1)
         ctx = (a.unsqueeze(-1) * enc_out).sum(1)   # [B,2d]
-        return ctx
+        return ctx, a
 
 
 class Decoder(nn.Module):
@@ -140,33 +140,53 @@ class Decoder(nn.Module):
         self.attn = Attention(d)
         self.gru = nn.GRUCell(d + 2 * d, d)
         self.out = nn.Linear(d + 2 * d, n_out)
+        self.p_gen = nn.Linear(d + 2 * d + d, 1)   # [h ; ctx ; emb] -> copy gate
 
     def step(self, tok, h, enc_out, mask):
         emb = self.embed(tok)                       # [B,d]
-        ctx = self.attn(h, enc_out, mask)           # [B,2d]
+        ctx, a = self.attn(h, enc_out, mask)        # [B,2d], [B,S]
         h = self.gru(torch.cat([emb, ctx], dim=-1), h)
-        logits = self.out(torch.cat([h, ctx], dim=-1))
-        return logits, h
+        feats = torch.cat([h, ctx], dim=-1)
+        logits = self.out(feats)
+        p_gen = torch.sigmoid(self.p_gen(torch.cat([feats, emb], dim=-1)))  # [B,1]
+        return logits, a, p_gen, h
 
 
 class Seq2Seq(nn.Module):
-    def __init__(self, vocab: Vocab, d: int = 128):
+    def __init__(self, vocab: Vocab, d: int = 128, copy: bool = False):
         super().__init__()
         self.enc = Encoder(vocab.n_in, d)
         self.dec = Decoder(vocab.n_out, d)
         self.d = d
+        self.copy = copy
+        self.n_out = vocab.n_out
+
+    def _logp(self, gen_logits, a, p_gen, src):
+        """Final per-step log-probabilities. Plain softmax, or a pointer-generator
+        mixture that can COPY a source character (token ids in [n_special, n_out))."""
+        if not self.copy:
+            return F.log_softmax(gen_logits, dim=-1)
+        B, V = gen_logits.shape
+        gen = F.softmax(gen_logits, dim=-1)
+        copyable = (src >= len(_SPECIAL)) & (src < self.n_out)   # only chars
+        a_copy = a * copyable.float()
+        idx = src.clamp(min=0, max=V - 1)
+        copy_dist = torch.zeros(B, V, device=gen.device).scatter_add(1, idx, a_copy)
+        final = p_gen * gen + (1.0 - p_gen) * copy_dist
+        return (final + 1e-9).log()
 
     def forward(self, src, src_len, tgt, teacher_forcing: float = 1.0):
         enc_out, h = self.enc(src, src_len)
         mask = (src != PAD)
         B, T = tgt.shape
-        logits = []
+        logps = []
         tok = tgt[:, 0]
         for t in range(1, T):
-            lg, h = self.dec.step(tok, h, enc_out, mask)
-            logits.append(lg)
-            tok = tgt[:, t] if random.random() < teacher_forcing else lg.argmax(-1)
-        return torch.stack(logits, dim=1)           # [B,T-1,V]
+            lg, a, pg, h = self.dec.step(tok, h, enc_out, mask)
+            logp = self._logp(lg, a, pg, src)
+            logps.append(logp)
+            tok = tgt[:, t] if random.random() < teacher_forcing else logp.argmax(-1)
+        return torch.stack(logps, dim=1)            # [B,T-1,V] log-probs
 
     @torch.no_grad()
     def greedy(self, src, src_len, max_len: int = 24):
@@ -177,8 +197,8 @@ class Seq2Seq(nn.Module):
         done = torch.zeros(B, dtype=torch.bool, device=src.device)
         seqs = [[] for _ in range(B)]
         for _ in range(max_len):
-            lg, h = self.dec.step(tok, h, enc_out, mask)
-            tok = lg.argmax(-1)
+            lg, a, pg, h = self.dec.step(tok, h, enc_out, mask)
+            tok = self._logp(lg, a, pg, src).argmax(-1)
             for i in range(B):
                 if not done[i]:
                     if tok[i].item() == EOS:
@@ -228,6 +248,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--batch-size", type=int, default=64)
     ap.add_argument("--d-model", type=int, default=128)
     ap.add_argument("--lr", type=float, default=1e-3)
+    ap.add_argument("--copy", action="store_true",
+                    help="Pointer-generator copy mechanism (radicals copied from input)")
     ap.add_argument("--seed", type=int, default=42)
     args = ap.parse_args(argv)
 
@@ -254,8 +276,9 @@ def main(argv: list[str] | None = None) -> int:
     seen_loader = DataLoader(ReinflectDataset(val_items, vocab),
                              batch_size=args.batch_size, shuffle=False, collate_fn=collate)
 
-    model = Seq2Seq(vocab, d=args.d_model).to(device)
-    print(f"Seq2Seq: {sum(p.numel() for p in model.parameters()):,} parameters")
+    model = Seq2Seq(vocab, d=args.d_model, copy=args.copy).to(device)
+    kind = "copy-seq2seq (pointer-generator)" if args.copy else "seq2seq"
+    print(f"{kind}: {sum(p.numel() for p in model.parameters()):,} parameters")
     opt = torch.optim.AdamW(model.parameters(), lr=args.lr)
 
     for epoch in range(1, args.epochs + 1):
@@ -265,9 +288,9 @@ def main(argv: list[str] | None = None) -> int:
         nb = 0
         for src, src_len, tgt, _surf in train_loader:
             src, tgt = src.to(device), tgt.to(device)
-            logits = model(src, src_len, tgt, teacher_forcing=tf)
-            loss = F.cross_entropy(
-                logits.reshape(-1, logits.size(-1)), tgt[:, 1:].reshape(-1),
+            logp = model(src, src_len, tgt, teacher_forcing=tf)
+            loss = F.nll_loss(
+                logp.reshape(-1, logp.size(-1)), tgt[:, 1:].reshape(-1),
                 ignore_index=PAD)
             opt.zero_grad()
             loss.backward()
@@ -282,7 +305,7 @@ def main(argv: list[str] | None = None) -> int:
 
     seen = evaluate(model, seen_loader, vocab, device)
     zs = evaluate(model, zs_loader, vocab, device)
-    print("\n── Char-seq2seq reinflection (root + features -> consonantal form) ──")
+    print(f"\n── {kind} reinflection (root + features -> consonantal form) ──")
     print(f"  Seen roots (val):   exact {seen['exact']:.3f}  char {seen['char_acc']:.3f}  (n={seen['n']})")
     print(f"  HELD-OUT roots:     exact {zs['exact']:.3f}  char {zs['char_acc']:.3f}  (n={zs['n']})")
     print("  (feature+length lookup baseline on held-out roots: exact 0.000)")
