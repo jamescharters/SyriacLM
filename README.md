@@ -6,11 +6,11 @@ of 632 TEI/XML texts (the *Digital Syriac Corpus*). The project builds a
 character **n-gram FastText** model of Classical Syriac and uses the resulting
 embeddings to study **authorial style**: whether texts cluster by author, how
 the embeddings compare to the classic **Burrows's Delta** baseline, what the
-pipeline says about **disputed/pseudonymous texts**, and how much of the signal
+aaapipeline says about **disputed/pseudonymous texts**, and how much of the signal
 is a **genre** confound.
 
 > Full methodology, decisions, and a session-by-session lab notebook live in
-> [`docs/NOTES.md`](docs/NOTES.md). Start there to resume the project.
+> [`stylometry/docs/NOTES.md`](stylometry/docs/NOTES.md). Start there to resume the project.
 
 ---
 
@@ -35,21 +35,20 @@ away diacritics (seyame, vowel points) so forms align by consonantal root.
 
 ## Repository layout
 
-| File | Purpose |
-| --- | --- |
-| [`script.py`](script.py) | Clone/cache the corpus; report authors, texts-per-author, vocabulary size. Shared helpers (`ensure_corpus`, `iter_words`, `strip_marks`, `extract_authors`, `extract_series`, …) reused everywhere. |
-| [`vocab_stats.py`](vocab_stats.py) | Frequency statistics: total tokens, unique forms, hapax, rare forms, mean frequency. |
-| [`fasttext_model.py`](fasttext_model.py) | Train the character n-gram FastText model (`min_count=1`) and run a **morphological coherence** test (root-sharing pairs vs. controls). |
-| [`stylometry.py`](stylometry.py) | **Same- vs cross-author** separation (AUC) for all-words vs function-words, full vs restricted cohorts, plus an Ephrem **false-positive control**. |
-| [`authorship.py`](authorship.py) | **FastText vs Burrows's Delta**, **disputed-text attribution**, and a **genre control** within Ephrem. |
-| [`nn_baselines.py`](nn_baselines.py) | From-scratch **byte-LM** (LSTM) and **char-Transformer** causal language models (PyTorch) used as representation baselines. |
-| [`av_head.py`](av_head.py) | Small **supervised contrastive authorship-verification head** over the FastText vectors, evaluated leave-one-author-out (PyTorch, CPU). |
-| [`etcbc_corpus.py`](etcbc_corpus.py) | Loads two independent **ETCBC** corpora (Syriac NT, Peshitta OT) for cross-corpus OOV + translationese validation. |
-| [`paper_experiments.py`](paper_experiments.py) | Produces every paper table: subword ablation, OOV, hyperparameter sweep, bootstrap CIs, multi-seed variance, representation bake-off, genre-matched test, LM quality. |
-| [`paper/`](paper/) | The arXiv preprint: `main.tex` (XeLaTeX), `references.bib`, and `tables/`. |
+The repository hosts three papers on a shared foundation. The dependency arrows
+point inward (`disentangle → neural → core ← stylometry`); run everything from the
+repository root with `-m`.
 
-The core pipeline depends only on **gensim + numpy**; the neural baselines add an
-optional **PyTorch** dependency.
+| Package | Purpose |
+| --- | --- |
+| [`core/`](core/) | **Shared library** reused by every paper: corpus access + Syriac tokenizer (`script`), stylometric features/AUC (`stylometry`), authorship (`authorship`), the supervised AV head (`av_head`), the FastText encoder (`fasttext_model`), ETCBC loaders (`etcbc_corpus`), and the author-cluster bootstrap (`bootstrap`). |
+| [`stylometry/`](stylometry/) | **Paper 1** — FastText stylometry & authorship: `paper_experiments` (every table number), `nn_baselines` (byte-LM + char-Transformer), `vocab_stats`, the preprint in [`stylometry/paper/`](stylometry/paper/), and the lab notebook in `stylometry/docs/`. |
+| [`neural/`](neural/) | **Paper 2** — a self-supervised vocaliser and cross-script transfer for a zero-resource abjad (CANINE / Hebrew transfer, SEDRA, LoRA). Its own `paper/` and `docs/`. |
+| [`disentangle/`](disentangle/) | **Paper 3** — root/pattern disentanglement: does a frozen encoder store lexical identity and morphosyntactic pattern in separable linear subspaces? Builds on `neural`. |
+
+The core pipeline depends only on **gensim + numpy**; the neural baselines and the
+`neural`/`disentangle` packages add an optional **PyTorch** (and Transformers)
+dependency.
 
 ---
 
@@ -64,8 +63,8 @@ python3.13 -m venv .venv
 
 The corpus is downloaded automatically on first run.
 
-For the neural baselines (`nn_baselines.py`, the neural rows of
-`paper_experiments.py`), also install PyTorch:
+For the neural baselines (`stylometry.nn_baselines`, the neural rows of
+`stylometry.paper_experiments`), also install PyTorch:
 
 ```bash
 .venv/bin/python -m pip install -r requirements-nn.txt
@@ -75,29 +74,30 @@ For the neural baselines (`nn_baselines.py`, the neural rows of
 
 ## Usage
 
-Run any script with `.venv/bin/python`. Common flags: `--normalize/--no-normalize`,
-`--refresh`/`--update` (re-clone / git-pull the corpus), `--help` on each script.
+Run modules from the repository root with `.venv/bin/python -m <package>.<module>`.
+Common flags: `--normalize/--no-normalize`, `--refresh`/`--update` (re-clone /
+git-pull the corpus), `--help` on each module.
 
 ```bash
 # 1. Corpus + vocabulary overview
-.venv/bin/python script.py --top 10
-.venv/bin/python vocab_stats.py --normalize
+.venv/bin/python -m core.script --top 10
+.venv/bin/python -m stylometry.vocab_stats --normalize
 
 # 2. Train the FastText model (saves syriac_fasttext.model) + morphology test
-.venv/bin/python fasttext_model.py --save syriac_fasttext.model
+.venv/bin/python -m core.fasttext_model --save syriac_fasttext.model
 
 # 3. Stylometric separation + false-positive control
-.venv/bin/python stylometry.py
+.venv/bin/python -m core.stylometry
 
 # 4. Delta comparison, disputed texts, genre control
-.venv/bin/python authorship.py
+.venv/bin/python -m core.authorship
 #   subset / tweak:
-.venv/bin/python authorship.py --analyses delta --min-tokens 1000,2000
-.venv/bin/python authorship.py --analyses genre  --genre-min-tokens 0,500,1000
+.venv/bin/python -m core.authorship --analyses delta --min-tokens 1000,2000
+.venv/bin/python -m core.authorship --analyses genre  --genre-min-tokens 0,500,1000
 ```
 
 The trained model (`syriac_fasttext.model*`, ~190 MB) is **git-ignored** and
-regenerated by step 2. `stylometry.py` and `authorship.py` load it automatically
+regenerated by step 2. `core.stylometry` and `core.authorship` load it automatically
 (and will train one if it is missing).
 
 ---
@@ -150,19 +150,25 @@ with like.
 - A benign `Exception ignored in: '…our_dot_float'` from gensim+numpy is
   suppressed during training; it does not affect the vectors.
 
-See [`docs/NOTES.md`](docs/NOTES.md) for the complete record.
+See [`stylometry/docs/NOTES.md`](stylometry/docs/NOTES.md) for the complete record.
 
-## Paper
+## Papers
 
-A preprint write-up lives in [`paper/`](paper/) (`main.tex` + `references.bib`).
-It is **XeLaTeX**-based (for native Syriac script via Noto Sans Syriac, always
-paired with transliteration). Regenerate the table numbers with
-`paper_experiments.py`, then build:
+Three preprints live in the repository, each with its own `paper/` source
+(**XeLaTeX**, native Syriac via Noto Sans Syriac paired with transliteration):
+
+- **Paper 1 — stylometry** in [`stylometry/paper/`](stylometry/paper/). Regenerate
+  the table numbers with `python -m stylometry.paper_experiments`, then build:
 
 ```bash
-cd paper
+cd stylometry/paper
 xelatex main && bibtex main && xelatex main && xelatex main
 ```
+
+- **Paper 2 — neural vocaliser / transfer** in [`neural/paper/`](neural/paper/)
+  (tables regenerated by `python -m neural.results`).
+- **Paper 3 — disentanglement** in [`disentangle/`](disentangle/) (run
+  `python -m disentangle.disentangle --demo`).
 
 If Noto Sans Syriac is unavailable, comment out the `\newfontfamily\syriacfont`
 line in `main.tex`; transliterations still render.

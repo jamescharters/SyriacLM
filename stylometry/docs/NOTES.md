@@ -15,8 +15,8 @@ A full arXiv-style write-up lives in [`paper/`](../paper/) (`main.tex`,
 Syriac, always paired with transliteration). All table numbers are produced by
 [`paper_experiments.py`](../paper_experiments.py) (reproducible, seeded), the
 neural baselines by [`nn_baselines.py`](../nn_baselines.py) (PyTorch; byte-LM +
-char-Transformer), the supervised AV head by [`av_head.py`](../av_head.py), and
-the cross-corpus validation by [`etcbc_corpus.py`](../etcbc_corpus.py). Headline
+char-Transformer), the supervised AV head by [`av_head.py`](../../core/av_head.py), and
+the cross-corpus validation by [`etcbc_corpus.py`](../../core/etcbc_corpus.py). Headline
 additions beyond the sections below:
 
 - **Subword ablation (vs. word2vec):** word2vec's morphology margin *degrades for

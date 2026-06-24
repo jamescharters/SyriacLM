@@ -31,7 +31,7 @@ model collapse). New information enters through exactly three doors:
 
 The unifying insight: **Syriac's script is *defective*** — consonants are
 written, vowels/pointing are optional and usually absent. The published pipeline
-*discards* the pointing ([`strip_marks`](../script.py)); we **invert** that.
+*discards* the pointing ([`strip_marks`](../core/script.py)); we **invert** that.
 
 1. **Pointing restoration as morphological self-supervision** *(non-obvious, lead).*
    A word = root (consonants) + pattern (vocalization). Predicting the pointing is
@@ -135,11 +135,12 @@ they live in `~/.cache` and are git-ignored ([`.gitignore`](.gitignore)); they a
 
 - **All files and docs live under `neural/`.** No file outside this folder is
   created or modified.
-- The only outward dependency is **read-only imports** of the parent project's
-  tokenizer/loaders ([`script.py`](../script.py), [`etcbc_corpus.py`](../etcbc_corpus.py))
-  and metric helpers ([`stylometry.py`](../stylometry.py)). This guarantees a
+- The only outward dependency is **read-only imports** of the shared `core`
+  package's tokenizer/loaders ([`core/script.py`](../core/script.py),
+  [`core/etcbc_corpus.py`](../core/etcbc_corpus.py)) and metric helpers
+  ([`core/stylometry.py`](../core/stylometry.py)). This guarantees a
   neural model is compared against the released FastText baseline on
-  byte-for-byte the same tokenization. Parent modules are never modified.
+  byte-for-byte the same tokenization. Shared modules are never modified.
 - Optional heavy deps are isolated in [`requirements-neural.txt`](requirements-neural.txt);
   the parent `requirements.txt` is untouched.
 
