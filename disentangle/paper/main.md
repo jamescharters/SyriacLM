@@ -248,21 +248,25 @@ the use.
 
 ## 8. Cross-lingual replication
 
-Running the identical design on Hebrew (AlephBERT) with factors and minimal pairs from
-UniMorph reproduces the matrix — and on native Hebrew it is *sharper* than on Syriac:
-number is decodable at **0.92** and erases to chance (0.50) while identity retrieval
-survives (0.640 → 0.725); erasing identity sends retrieval to 0.00 while number stays at
-0.88. Gender behaves identically. The construction extends unchanged to Arabic
-(CAMeLBERT on diacritised UniMorph, which also restores the consonantal control); we
-report Hebrew here and treat Arabic as the same instrument applied to a further language.
+Running the identical design on Hebrew (AlephBERT) and Arabic (CAMeLBERT) with factors
+and minimal pairs from UniMorph reproduces the matrix — and on native Hebrew it is
+*sharper* than on Syriac: number is decodable at **0.92** and erases to chance (0.50)
+while identity retrieval survives (0.640 → 0.725); erasing identity sends retrieval to
+0.00 while number stays at 0.88. Gender behaves identically. Arabic shows the same clean
+off-diagonal. One caveat fixes the Arabic surface: CAMeLBERT is trained on undiacritised
+Classical Arabic and its tokeniser maps every fully-vocalised UniMorph form to a single
+`<unk>`, so we feed it the undiacritised surface it actually reads — which makes Arabic
+parallel to unvocalised Hebrew (consonantal control vacuous in both).
 
 | Language | Factor | P | P·−factor | P·−lex | R | R·−factor | R·−lex |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Hebrew | number | 0.918 | 0.495 | 0.876 | 0.640 | 0.725 | 0.002 |
 | Hebrew | gender | 0.899 | 0.511 | 0.871 | 0.633 | 0.713 | 0.001 |
+| Arabic | number | 0.876 | 0.547 | 0.575 | 0.370 | 0.436 | 0.002 |
+| Arabic | gender | 0.846 | 0.507 | 0.750 | 0.581 | 0.605 | 0.003 |
 
 That the same balanced-grid, cross-erasure measurement transfers from a zero-resource
-abjad to a well-resourced relative, across byte, subword, and transfer encoders,
+abjad to two well-resourced relatives, across byte, subword, and transfer encoders,
 supports treating templatic morphology as a general instrument.
 
 ---

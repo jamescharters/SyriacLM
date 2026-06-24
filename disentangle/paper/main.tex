@@ -73,8 +73,8 @@ model's own masked-LM head---shows a clean double dissociation in the pretrained
 model (erasing number collapses number agreement to chance while sparing gender,
 and vice versa) that is \emph{absent} from the random network, which has no
 agreement to break. The separability is surface-carried, but the \emph{use} of it
-is learned. The design replicates on Hebrew via UniMorph and extends to Arabic. We
-argue that templatic morphology is a reusable instrument for representation-geometry
+is learned. The design replicates on Hebrew and Arabic via UniMorph. We argue that
+templatic morphology is a reusable instrument for representation-geometry
 questions, that its random-network baseline is as much of the result as the effect,
 and that a behavioural intervention is what separates shape from use.
 \end{abstract}
@@ -440,16 +440,20 @@ the random network is a foil that has the shape without the use.
 \label{sec:crosslang}
 
 To show the instrument is not Syriac-specific, Table~\ref{tab:crosslang} runs the
-identical design on Hebrew (AlephBERT) with factors and minimal pairs drawn from
-UniMorph. On native Hebrew the matrix is not only clean but sharper than the Syriac
-cells: number is decodable at $0.92$ and erases to chance ($0.50$) while identity
-retrieval survives ($0.64\!\to\!0.73$), and erasing identity sends retrieval to
-$0.00$ while number stays at $0.88$; gender behaves identically. The grids and
-chance levels are in Table~\ref{tab:grids}. The construction extends unchanged to
-Arabic (CAMeLBERT on diacritised UniMorph forms, which additionally restore the
-consonantal control); we report Hebrew here and treat Arabic as the same instrument
-applied to a further language. That the same balanced-grid, cross-erasure
-measurement transfers from a zero-resource abjad to a well-resourced relative,
+identical design on Hebrew (AlephBERT) and Arabic (CAMeLBERT) with factors and
+minimal pairs drawn from UniMorph. On native Hebrew the matrix is not only clean but
+sharper than the Syriac cells: number is decodable at $0.92$ and erases to chance
+($0.50$) while identity retrieval survives ($0.64\!\to\!0.73$), and erasing identity
+sends retrieval to $0.00$ while number stays at $0.88$; gender behaves identically.
+Arabic shows the same clean off-diagonal ($0.88\!\to\!0.55$ for number under
+erasure with identity surviving, retrieval $0.37\!\to\!0.00$ under lexeme erasure
+with number retained). One practical caveat fixes the surface for Arabic: CAMeLBERT
+is trained on undiacritised Classical Arabic and its tokeniser maps every
+fully-vocalised UniMorph form to a single \texttt{<unk>}, so we feed it the
+undiacritised surface it actually reads---which makes Arabic parallel to unvocalised
+Hebrew and leaves the consonantal control vacuous in both. The grids and chance
+levels are in Table~\ref{tab:grids}. That the same balanced-grid, cross-erasure
+measurement transfers from a zero-resource abjad to two well-resourced relatives,
 across byte, subword, and transfer encoders, supports treating templatic morphology
 as a general instrument for this question.
 
@@ -457,9 +461,9 @@ as a general instrument for this question.
   \centering
   \small
   \input{tables/TD6_crosslang}
-  \caption{Cross-lingual replication (vocalised surface; mean${}\pm{}$SD over five
-  seeds). The same cross-erasure selectivity holds for native Hebrew, more sharply
-  than for Syriac.}
+  \caption{Cross-lingual replication (model-facing surface; mean${}\pm{}$SD over
+  five seeds). The same cross-erasure selectivity holds for native Hebrew and
+  Arabic; on Hebrew it is sharper than for Syriac.}
   \label{tab:crosslang}
 \end{table}
 

@@ -107,12 +107,20 @@ def _parse(path: str):
 
 
 def load_grid_unimorph(lang: str, factor: str = "number",
-                       max_lines: int | None = None, seed: int = 0) -> list[dict]:
+                       max_lines: int | None = None, seed: int = 0,
+                       keep_diacritics: bool = True) -> list[dict]:
     """Balanced minimal-pair grid for ``lang`` and ``factor``.
 
-    Each item: ``{lexeme, label(0/1), voc, cons}`` where ``voc`` is the surface
-    form and ``cons`` the diacritics-stripped form. Identity (lemma) is held
-    independent of the factor by taking one minimal pair per lemma.
+    Each item: ``{lexeme, label(0/1), voc, cons}`` where ``voc`` is the
+    model-facing surface and ``cons`` the diacritics-stripped form. Identity
+    (lemma) is held independent of the factor by taking one minimal pair per lemma.
+
+    ``keep_diacritics=False`` puts the stripped form in *both* ``voc`` and
+    ``cons``. This is required when the encoder's tokenizer does not cover
+    diacritised text: CAMeLBERT-CA, trained on undiacritised Classical Arabic,
+    maps every fully-vocalised UniMorph form to a single ``<unk>``, so the
+    undiacritised form is the real surface for it (and the consonantal control is
+    then vacuous, as for unvocalised Hebrew).
     """
     if factor not in FACTORS:
         raise ValueError(f"unknown factor {factor!r}; choose from {list(FACTORS)}")
@@ -149,8 +157,10 @@ def load_grid_unimorph(lang: str, factor: str = "number",
     for lemma, pairs in by_lemma.items():
         a, b = pairs[int(rng.integers(len(pairs)))]
         lid = lemma_id.setdefault(lemma, len(lemma_id))
-        grid.append({"lexeme": lid, "label": 0, "voc": a, "cons": _strip(a, lang)})
-        grid.append({"lexeme": lid, "label": 1, "voc": b, "cons": _strip(b, lang)})
+        sa, sb = _strip(a, lang), _strip(b, lang)
+        va, vb = (a, b) if keep_diacritics else (sa, sb)
+        grid.append({"lexeme": lid, "label": 0, "voc": va, "cons": sa})
+        grid.append({"lexeme": lid, "label": 1, "voc": vb, "cons": sb})
     return grid
 
 

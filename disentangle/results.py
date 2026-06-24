@@ -133,7 +133,11 @@ def compute_crosslang(seeds=SEEDS, langs=None, prior=None) -> dict:
                   f"{str(exc)[:120]}", file=sys.stderr)
             continue
         for f in factors:
-            g = U.load_grid_unimorph(lang, f)
+            # CAMeLBERT-CA cannot tokenise diacritised Arabic (every fully-vocalised
+            # UniMorph form -> <unk>); use the undiacritised surface it actually
+            # reads, which makes Arabic parallel to (unvocalised) Hebrew.
+            keep_diac = lang not in ("ara",)
+            g = U.load_grid_unimorph(lang, f, keep_diacritics=keep_diac)
             block["grids"][f"{lang}|{f}"] = {
                 "n_pairs": len(g) // 2,
                 "n_lexemes": len({x["lexeme"] for x in g}),
