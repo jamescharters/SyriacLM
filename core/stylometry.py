@@ -63,7 +63,7 @@ from xml.etree import ElementTree as ET
 
 import numpy as np
 
-from script import (
+from core.script import (
     DEFAULT_CACHE,
     ensure_corpus,
     extract_authors,
@@ -431,9 +431,9 @@ def get_model(model_path: Path, data_dir: Path, normalize: bool):
 
     print(f"No model at {model_path}; training a new one ...", file=sys.stderr)
     try:
-        from fasttext_model import build_sentences, train_model
+        from core.fasttext_model import build_sentences, train_model
     except ImportError:
-        sys.exit("error: cannot import fasttext_model.py to train a model.")
+        sys.exit("error: cannot import core.fasttext_model to train a model.")
     import os
 
     sentences, _, _ = build_sentences(data_dir, normalize, 0)

@@ -305,7 +305,7 @@ class NeuralEncoder:
 
 def build_corpus_text(data_dir: Path, normalize: bool, exclude_ids=None) -> str:
     """One whitespace-joined string of the whole corpus, for LM training."""
-    from stylometry import load_texts
+    from core.stylometry import load_texts
     texts = load_texts(data_dir, normalize, exclude_ids=exclude_ids or set())
     # Reconstruct a token stream per document; join documents with newlines.
     docs = []
@@ -330,7 +330,7 @@ def default_models(vocab_byte: int, char_tok: "CharTokenizer"):
 # --------------------------------------------------------------------------- #
 def _smoke(argv: list[str] | None = None) -> int:
     import argparse
-    from script import DEFAULT_CACHE, ensure_corpus
+    from core.script import DEFAULT_CACHE, ensure_corpus
 
     if not _TORCH:
         print("error: PyTorch is not installed; cannot run neural baselines.")

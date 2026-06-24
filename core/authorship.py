@@ -40,8 +40,8 @@ from pathlib import Path
 
 import numpy as np
 
-from script import DEFAULT_CACHE, ensure_corpus
-from stylometry import (
+from core.script import DEFAULT_CACHE, ensure_corpus
+from core.stylometry import (
     DEFAULT_MODEL,
     Text,
     auc_same_higher,

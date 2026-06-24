@@ -47,7 +47,7 @@ import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from script import DEFAULT_CACHE, ensure_corpus, find_body, iter_words, strip_marks
+from core.script import DEFAULT_CACHE, ensure_corpus, find_body, iter_words, strip_marks
 from neural import sedra
 from neural.transliterate import syriac_to_cal
 

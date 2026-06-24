@@ -43,8 +43,8 @@ structured ``number``/``gender``/``state`` plus the consonantal (``syriac``) and
 vocalised (``western``) surface forms. SEDRA is licence-restricted (cite Kiraz);
 no data is committed. See ``neural/docs/DATA.md``.
 
-    .venv/bin/python -m neural.disentangle --demo
-    .venv/bin/python -m neural.disentangle --demo --factors number,gender,state \
+    .venv/bin/python -m disentangle.disentangle --demo
+    .venv/bin/python -m disentangle.disentangle --demo --factors number,gender,state \
         --encoders canine,canine-syriac,hebrew
 """
 
@@ -60,12 +60,22 @@ import numpy as np
 
 try:
     import torch  # noqa: F401  (only needed via the encoder)
+    import neural  # the SEDRA cache lives beside the neural package that owns it
     from neural.canine_encoder import load_canine, CanineWordVectors, _device
     _HF = True
 except Exception:  # pragma: no cover - heavy deps optional
     _HF = False
 
-API_WORD_DIR = os.path.join(os.path.dirname(__file__), "sedra_cache", "api", "word")
+# The SEDRA API word records are downloaded under the ``neural`` package
+# (``neural/sedra_cache/``); this module reads them from there rather than from
+# its own directory.
+try:
+    API_WORD_DIR = os.path.join(
+        os.path.dirname(neural.__file__), "sedra_cache", "api", "word")
+except NameError:  # neural not importable (heavy deps absent); only used in --demo
+    API_WORD_DIR = os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        "neural", "sedra_cache", "api", "word")
 
 # Morphosyntactic factors P that VARY WITHIN a lexeme, so a balanced grid can hold
 # lexical identity R fixed while P flips -> R independent of P by construction.

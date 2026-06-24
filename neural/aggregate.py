@@ -40,7 +40,7 @@ from pathlib import Path
 from xml.etree import ElementTree as ET
 
 # --- read-only reuse of the parent project (never modified) ---------------- #
-from script import (
+from core.script import (
     DEFAULT_CACHE,
     ensure_corpus,
     find_body,
@@ -50,7 +50,7 @@ from script import (
 )
 
 try:
-    from etcbc_corpus import ETCBC_SOURCES, ensure_etcbc
+    from core.etcbc_corpus import ETCBC_SOURCES, ensure_etcbc
     _ETCBC = True
 except Exception:  # pragma: no cover - etcbc optional
     _ETCBC = False

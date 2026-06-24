@@ -21,7 +21,7 @@ from collections import Counter
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-from script import DEFAULT_CACHE, ensure_corpus, find_body, iter_words, strip_marks
+from core.script import DEFAULT_CACHE, ensure_corpus, find_body, iter_words, strip_marks
 
 
 def build_frequencies(data_dir: Path, normalize: bool) -> tuple[Counter[str], int]:

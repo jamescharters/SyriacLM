@@ -37,9 +37,9 @@ try:  # pragma: no cover - environment dependent
 except Exception:
     pass
 
-from script import DEFAULT_CACHE, ensure_corpus
-from stylometry import load_texts, filter_min_texts, filter_min_tokens
-from authorship import parse_ids
+from core.script import DEFAULT_CACHE, ensure_corpus
+from core.stylometry import load_texts, filter_min_texts, filter_min_tokens
+from core.authorship import parse_ids
 # reuse the exact scoring pipeline (cohort + centering + AUC + AV head + CI)
 from neural.canine_encoder import authorship_auc, DISPUTED_DEFAULT
 from neural.transliterate import syriac_to_hebrew, syriac_to_latin

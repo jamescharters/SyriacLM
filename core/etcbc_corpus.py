@@ -26,8 +26,8 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-from script import iter_words_text, run_git, strip_marks
-from stylometry import Text
+from core.script import iter_words_text, run_git, strip_marks
+from core.stylometry import Text
 
 DEFAULT_ETCBC_CACHE = Path.home() / ".cache"
 

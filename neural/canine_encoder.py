@@ -39,21 +39,21 @@ except Exception:
     pass
 
 # read-only reuse of the parent cohort + metric stack (never modified)
-from script import DEFAULT_CACHE, ensure_corpus
-from stylometry import (
+from core.script import DEFAULT_CACHE, ensure_corpus
+from core.stylometry import (
     load_texts, filter_min_texts, filter_min_tokens, remove_common_component,
     separation,
 )
-from authorship import doc_matrix, key_labels, parse_ids
+from core.authorship import doc_matrix, key_labels, parse_ids
 
 try:
-    import av_head            # parent supervised AV head (read-only reuse)
+    from core import av_head            # parent supervised AV head (read-only reuse)
     _AVHEAD = av_head._TORCH
 except Exception:  # pragma: no cover
     _AVHEAD = False
 
 try:
-    from paper_experiments import bootstrap_auc_ci
+    from core.bootstrap import bootstrap_auc_ci
     _BOOT = True
 except Exception:  # pragma: no cover
     _BOOT = False

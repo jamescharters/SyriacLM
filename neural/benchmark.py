@@ -29,7 +29,7 @@ from pathlib import Path
 import numpy as np
 
 # read-only reuse of the parent metric stack (never modified)
-from stylometry import l2_normalize, remove_common_component, separation
+from core.stylometry import l2_normalize, remove_common_component, separation
 
 try:
     import torch
