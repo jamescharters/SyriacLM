@@ -36,8 +36,8 @@
 \usepackage{bidi}
 
 \title{Templatic Morphology as a Disentanglement Probe:\\
-Measuring Root/Pattern Separability in Frozen Encoders,\\
-with a Random-Network Control}
+Separability, a Random-Network Control, and a Causal Test of Use\\
+in Frozen Encoders}
 
 \author{Anonymous\\ \texttt{TODO: affiliation} \and Anonymous\\ \texttt{TODO: affiliation}}
 \date{\today}
@@ -67,11 +67,16 @@ discovers---a control-task caution that the instrument makes quantifiable. What
 pretraining and in-language adaptation \emph{do} add is measurable but modest:
 higher absolute decodability and a sharper relocation of number into the vocalic
 channel (a consonantal control localises each factor to where the script writes
-it). The design replicates on Arabic and Hebrew via UniMorph. We argue that
-templatic morphology is a reusable instrument for representation-geometry
-questions, and that its random-network baseline is as much of the result as the
-effect. Code is released; the lexicons are regenerated locally under their
-licences.
+it). The geometry, however, is not the whole story: a causal intervention on
+Hebrew agreement---erasing a feature's subspace and reading the effect off the
+model's own masked-LM head---shows a clean double dissociation in the pretrained
+model (erasing number collapses number agreement to chance while sparing gender,
+and vice versa) that is \emph{absent} from the random network, which has no
+agreement to break. The separability is surface-carried, but the \emph{use} of it
+is learned. The design replicates on Hebrew via UniMorph and extends to Arabic. We
+argue that templatic morphology is a reusable instrument for representation-geometry
+questions, that its random-network baseline is as much of the result as the effect,
+and that a behavioural intervention is what separates shape from use.
 \end{abstract}
 
 % ===================================================================== %
@@ -135,6 +140,12 @@ a consonantal control isolates.
   surface-carried; we quantify what pretraining and Syriac adaptation add on top---a
   modest sharpening and a relocation of number into the vocalic channel, the latter
   isolated by a consonantal control (\S\ref{sec:controls}).
+  \item \textbf{A causal dissociation that separates shape from use.} On Hebrew
+  agreement, read from the model's own masked-LM head, erasing a feature's subspace
+  collapses \emph{only} that feature's agreement to chance in the pretrained model
+  (a double dissociation), while a rank-matched random direction spares both and the
+  random-init network has no agreement to break (\S\ref{sec:causal}). The geometry is
+  surface-carried; the function is learned.
   \item \textbf{Cross-lingual replication.} The design transfers unchanged to
   Hebrew (with a native encoder, on UniMorph labels) and extends to Arabic by the
   same minimal-pair construction, supporting the claim that this is a reusable
@@ -368,6 +379,63 @@ perfectly uniform one.
 \end{figure}
 
 % ===================================================================== %
+\section{The Subspace Is Causally Used---and Only When Trained}
+\label{sec:causal}
+
+So far the matrix is geometry: it shows the factor is \emph{decodable} and linearly
+\emph{removable}. The random-network control warns that decodability alone is weak
+evidence about a trained model. The decisive question is therefore behavioural---does
+the model \emph{use} the subspace?---and it is the one place the random network should
+diverge. We test it with a causal intervention on morphological agreement, the
+standard behavioural probe for whether a model represents a feature functionally
+\citep{linzen2016assessing,goldberg2019assessing}, made causal by erasing the
+candidate subspace and re-measuring the behaviour
+\citep{elazar2021amnesic,ravfogel2021counterfactual}.
+
+\paragraph{Set-up.}
+We use Hebrew subject--verb and modifier agreement, read off \emph{the model's own
+masked-language-model head}---no probe is trained, so there is no classifier to
+fish a metric from. Each item is a minimal pair (a correctly- and an
+incorrectly-inflected single-token verb form completing a number- or
+gender-marked subject context); agreement accuracy is the fraction of items on
+which the head assigns higher probability to the grammatical form. We then fit a
+LEACE eraser for each feature on subject-context representations and apply it to
+the hidden state before the head. We cross two agreement tasks (number, gender) with
+four interventions---none, erase-number, erase-gender, and a rank-matched
+\emph{random} direction---and run the whole thing on the pretrained model and on a
+random-init model of the same architecture.
+
+\paragraph{A double dissociation, only in the trained model.}
+Table~\ref{tab:causal} is the result. In the pretrained model, erasing
+\emph{number} drives \emph{number} agreement from $0.97$ to exactly chance while
+leaving \emph{gender} agreement intact ($0.94\!\to\!0.93$); erasing \emph{gender}
+does the mirror image ($0.94\!\to\!0.50$ for gender, $0.97\!\to\!0.96$ for number).
+The rank-matched random direction harms neither, so the collapse is the targeted
+feature's removal, not generic damage. And the random-init model has no agreement
+to break: every cell sits at chance regardless of intervention. The dissociation is
+stable across seeds (standard deviations $\le 0.01$).
+
+\begin{table}[t]
+  \centering
+  \small
+  \input{tables/TD7_behavior}
+  \caption{Causal agreement test (mean${}\pm{}$SD over three seeds). Agreement
+  accuracy is read from AlephBERT's masked-LM head (no trained probe). In the
+  pretrained model each eraser collapses \emph{only} its own agreement task to
+  chance while a rank-matched random direction spares both; the random-init model
+  has no agreement to begin with. Geometry is necessary for separability, but only
+  the trained model \emph{uses} the subspace.}
+  \label{tab:causal}
+\end{table}
+
+This is the complement to the random-network control. The control showed the
+\emph{separability geometry} is largely surface-carried and present without training;
+the intervention shows the \emph{function}---using that geometry to drive
+agreement---is learned, feature-specific, and absent from the untrained network. The
+same subspace the instrument isolates is the one the model causally relies on, and
+the random network is a foil that has the shape without the use.
+
+% ===================================================================== %
 \section{Cross-Lingual Replication}
 \label{sec:crosslang}
 
@@ -425,27 +493,35 @@ representation.
 The positive contribution is methodological. Where disentanglement studies usually
 rely on synthetic generative factors, a labelled templatic lexicon supplies real,
 naturally occurring, independently labelled factors at scale, and the same design
-runs across languages and encoders without modification. The geometry it exposes is
-also linguistically legible: the consonantal control recovers, from the model's
-internal arrangement, the same division of labour between vowels and consonants that
-a grammar of the script would state.
+runs across languages and encoders without modification. And the pairing of a
+random-network control with a causal agreement intervention is what lets the
+instrument separate the two questions it is easy to conflate: whether a feature is
+\emph{linearly present} (it is, largely from the surface) and whether the model
+\emph{uses} it (it does, and only after training). The geometry it exposes is also
+linguistically legible: the consonantal control recovers, from the model's internal
+arrangement, the same division of labour between vowels and consonants that a grammar
+of the script would state.
 
 % ===================================================================== %
 \section{Limitations}
 \label{sec:limitations}
 
-The result is observational geometry: it shows that factor and identity occupy
-separable linear subspaces, not that a downstream computation \emph{uses} them
-separately. Effect sizes are modest---the Hebrew-transfer number probe is only
-$\sim$$0.62$, and identity retrieval is well below ceiling---so the matrix supports
-qualitative separability claims rather than precise capacity estimates. We test
-binary contrasts on three factors, so ``word $=$ root $\times$ pattern'' as a full
-algebra remains aspirational. The Syriac labels are the New-Testament-scoped SEDRA
-lexicon; the UniMorph grids inherit that resource's coverage and its mix of
-inflectional types. The identity-erasure direction is transductive (fit on the test
-lexemes whose retrieval it measures), appropriate for a per-form quantity but weaker
-than the inductive factor-erasure direction. Finally, the random-network control
-shows the surface baseline is high; we therefore report what adaptation adds as a
+The selectivity matrix is observational geometry: on its own it shows that factor
+and identity occupy separable linear subspaces, not that a computation uses them.
+The agreement intervention (\S\ref{sec:causal}) supplies the causal step for two
+features in one language; we have not shown the same for every factor or language,
+and the behavioural test relies on single-token agreement forms, which filters the
+item set. Effect sizes for the geometry are modest---the Hebrew-transfer number
+probe is only $\sim$$0.62$, and identity retrieval is well below ceiling---so the
+matrix supports qualitative separability claims rather than precise capacity
+estimates. We test binary contrasts on three factors, so ``word $=$ root $\times$
+pattern'' as a full algebra remains aspirational. The Syriac labels are the
+New-Testament-scoped SEDRA lexicon; the UniMorph grids inherit that resource's
+coverage and its mix of inflectional types. The identity-erasure direction is
+transductive (fit on the test lexemes whose retrieval it measures), appropriate for
+a per-form quantity but weaker than the inductive factor-erasure direction. Finally,
+the random-network control shows the surface baseline is high; we therefore report
+what adaptation adds as a
 small, directional effect rather than a large one.
 
 % ===================================================================== %
@@ -459,14 +535,19 @@ find that frozen encoders linearly separate morphosyntactic pattern from lexical
 identity across three Semitic languages---but that a random-initialised network of
 the same architecture does too, so the separability is largely surface-carried, with
 pretraining and adaptation adding a measurable sharpening and a relocation of number
-into the vocalic channel. Reporting the random baseline alongside the effect is, we
-argue, the point: the instrument measures both.
+into the vocalic channel. A causal agreement intervention then shows that, despite
+the shared geometry, only the trained model \emph{uses} the subspace: erasing a
+feature collapses exactly its own agreement and nothing else, while the random
+network has no agreement to lose. Pairing a random-network control with a behavioural
+intervention is, we argue, the point---the instrument measures both whether a feature
+is present and whether it is used.
 
 % ===================================================================== %
 \section*{Reproducibility}
 The probes, erasers (INLP and a \textsc{NumPy} LEACE), the balanced-grid
-construction, the cross-language UniMorph loader, and the table/figure generators
-are released. The Syriac labels are regenerated locally from a user-provided SEDRA
+construction, the cross-language UniMorph loader, the agreement intervention on the
+masked-LM head, and the table/figure generators are released. The Syriac labels are
+regenerated locally from a user-provided SEDRA
 source and the UniMorph data is downloaded on demand; neither is redistributed.
 Every number traces to a single regenerable manifest.
 

@@ -211,7 +211,42 @@ state, against ~0.01). The factor is an approximately composable direction.
 
 ---
 
-## 7. Cross-lingual replication
+## 7. The subspace is causally used — and only when trained
+
+The matrix is geometry: the factor is *decodable* and linearly *removable*, but the
+random-network control warns that decodability alone is weak evidence about a trained
+model. The decisive question is behavioural — does the model *use* the subspace? — and
+it is the one place the random network should diverge. We test it with a causal
+intervention on Hebrew agreement (the standard behavioural probe; Linzen et al. 2016,
+Goldberg 2019), read off **the model's own masked-LM head** (no probe trained). Each
+item is a minimal pair: a correctly- and an incorrectly-inflected single-token verb
+completing a number- or gender-marked subject context. We fit a LEACE eraser per
+feature on subject contexts, apply it before the head, and cross two agreement tasks
+× four interventions (none / −number / −gender / rank-matched random) × two models
+(pretrained, random-init).
+
+| Pretrained | none | −number | −gender | −random |
+| --- | --- | --- | --- | --- |
+| number agr. | 0.967 | **0.500** | 0.957 | 0.968 |
+| gender agr. | 0.940 | 0.933 | **0.500** | 0.939 |
+
+| Random-init | none | −number | −gender | −random |
+| --- | --- | --- | --- | --- |
+| number agr. | 0.496 | 0.500 | 0.498 | 0.493 |
+| gender agr. | 0.498 | 0.496 | 0.500 | 0.497 |
+
+A clean **double dissociation**: erasing number collapses *only* number agreement to
+chance, erasing gender collapses *only* gender; the rank-matched random direction
+harms neither (so it is not generic damage); and the random-init model has no
+agreement to break (3 seeds, SD ≤ 0.01). This is the complement to the random control:
+the *separability geometry* is surface-carried and present without training, but the
+*function* — using that geometry to drive agreement — is learned, feature-specific, and
+absent from the untrained network. The random network is a foil with the shape but not
+the use.
+
+---
+
+## 8. Cross-lingual replication
 
 Running the identical design on Hebrew (AlephBERT) with factors and minimal pairs from
 UniMorph reproduces the matrix — and on native Hebrew it is *sharper* than on Syriac:
@@ -232,7 +267,7 @@ supports treating templatic morphology as a general instrument.
 
 ---
 
-## 8. Discussion
+## 9. Discussion
 
 Frozen encoders — byte, subword, transfer, even untrained — store a Semitic language's
 morphosyntactic pattern in a linear subspace separable from lexical identity, cleanly
@@ -253,7 +288,7 @@ of labour a grammar would state.
 
 ---
 
-## 9. Limitations
+## 10. Limitations
 
 Observational geometry, not a causal claim that a computation *uses* the subspaces.
 Effect sizes are modest (Hebrew-transfer number ~0.62; identity retrieval below
@@ -266,7 +301,7 @@ so we report what adaptation adds as a small, directional effect.
 
 ---
 
-## 10. Conclusion
+## 11. Conclusion
 
 Templatic morphology, with a morphological lexicon, is a clean and reusable instrument
 for the disentanglement question. With it we find that frozen encoders linearly separate
