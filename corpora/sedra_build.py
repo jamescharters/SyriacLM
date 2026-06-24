@@ -11,11 +11,11 @@ use only, no redistribution of altered versions, and any publication must cite
 Kiraz (see ``neural.sedra.SEDRA_CITATION``). Accordingly this repo ships **no**
 SEDRA data: you obtain the raw files yourself (e.g. ``git clone
 https://github.com/peshitta/sedrajs`` -> ``sedra/``) and this script writes a
-derived table to the git-ignored ``neural/sedra_cache/`` (or ``~/.cache``). The
+derived table to the git-ignored ``corpora/sedra_cache/`` (or ``~/.cache``). The
 derived JSON is never committed.
 
     # after cloning sedrajs somewhere, e.g. ~/.cache/sedrajs
-    .venv/bin/python -m neural.sedra_build --sedra-dir ~/.cache/sedrajs/sedra
+    .venv/bin/python -m corpora.sedra_build --sedra-dir ~/.cache/sedrajs/sedra
 
 Record formats (from SEDRA3.DOC), comma-separated, fields 0-indexed:
   WORDS.TXT   : id, lexeme_addr, "consonantal", "vocalised", morph_type, attrs
@@ -37,9 +37,9 @@ from neural.sedra import (
 
 DEFAULT_SOURCES = [
     Path.home() / ".cache" / "sedrajs" / "sedra",
-    Path("neural/sedra_cache/sedra"),
+    Path("corpora/sedra_cache/sedra"),
 ]
-DEFAULT_OUT = Path("neural/sedra_cache/words.json")
+DEFAULT_OUT = Path("corpora/sedra_cache/words.json")
 
 
 def _read_csv(path: Path) -> list[list[str]]:

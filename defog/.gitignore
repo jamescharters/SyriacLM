@@ -1,0 +1,11 @@
+# Training artifacts (regenerable; never committed).
+checkpoints/
+*.pt
+history.json
+
+# Memoised SEDRA IV triples built by data.py from the (license-restricted)
+# corpora/sedra_cache; regenerated on demand, so kept out of git.
+_cache/
+
+# Python noise
+__pycache__/

@@ -38,7 +38,7 @@ principled closed-form upgrade for a full study. Probes are plain logistic
 regression. Everything is numpy + the frozen encoder, so there are no new
 dependencies.
 
-Data: the SEDRA IV API word records (``neural/sedra_cache/api/word``), which carry
+Data: the SEDRA IV API word records (``corpora/sedra_cache/api/word``), which carry
 structured ``number``/``gender``/``state`` plus the consonantal (``syriac``) and
 vocalised (``western``) surface forms. SEDRA is licence-restricted (cite Kiraz);
 no data is committed. See ``neural/docs/DATA.md``.
@@ -60,22 +60,20 @@ import numpy as np
 
 try:
     import torch  # noqa: F401  (only needed via the encoder)
-    import neural  # the SEDRA cache lives beside the neural package that owns it
     from neural.canine_encoder import load_canine, CanineWordVectors, _device
     _HF = True
 except Exception:  # pragma: no cover - heavy deps optional
     _HF = False
 
-# The SEDRA API word records are downloaded under the ``neural`` package
-# (``neural/sedra_cache/``); this module reads them from there rather than from
-# its own directory.
+# The SEDRA API word records live in the shared ``corpora`` package
+# (``corpora/sedra_cache/api/word``, git-ignored); import the canonical path from
+# there so every sub-project reads exactly the same data.
 try:
-    API_WORD_DIR = os.path.join(
-        os.path.dirname(neural.__file__), "sedra_cache", "api", "word")
-except NameError:  # neural not importable (heavy deps absent); only used in --demo
+    from corpora import SEDRA_WORD_DIR as API_WORD_DIR
+except Exception:  # corpora not importable (e.g. run outside the repo root)
     API_WORD_DIR = os.path.join(
         os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-        "neural", "sedra_cache", "api", "word")
+        "corpora", "sedra_cache", "api", "word")
 
 # Morphosyntactic factors P that VARY WITHIN a lexeme, so a balanced grid can hold
 # lexical identity R fixed while P flips -> R independent of P by construction.

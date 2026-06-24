@@ -7,7 +7,7 @@ is ``root`` (consonants) + ``pattern`` (vocalisation), so **restoring the pointi
 is recovering the pattern morpheme**. The published pipeline *discards* the
 pointing; here we invert that and learn to *predict* it -- cheap, morphology-aligned
 self-supervision, supervised by the SEDRA vocalised lexicon (``neural.sedra`` /
-``neural.sedra_build``).
+``corpora.sedra_build``).
 
 We frame it as **sequence labelling**, the canonical diacritisation setup: the
 input is the consonant skeleton, and for each consonant slot the model predicts
@@ -57,7 +57,7 @@ def load_pairs() -> list[tuple[str, list[str]]]:
         raise RuntimeError(
             "No SEDRA table found. Build it first:\n"
             "    git clone https://github.com/peshitta/sedrajs ~/.cache/sedrajs\n"
-            "    .venv/bin/python -m neural.sedra_build --sedra-dir ~/.cache/sedrajs/sedra")
+            "    .venv/bin/python -m corpora.sedra_build --sedra-dir ~/.cache/sedrajs/sedra")
     pairs: list[tuple[str, list[str]]] = []
     for f in sedra.load_words(src):
         skel, pts = sedra.split_skeleton_pointing(f.vocalised)

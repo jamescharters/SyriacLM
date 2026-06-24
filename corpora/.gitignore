@@ -1,0 +1,16 @@
+# corpora/ datasets — git tracking policy.
+#
+# The SEDRA IV JSON cache (sedra_cache/api/{word,lexeme,root}/*.json) and the
+# SEDRA 3 words.json are committed to this repo for reproducibility (see commit
+# "neural: add SEDRA IV cache to repo"). SEDRA is license-restricted: academic/
+# personal use, no redistribution of altered versions, cite Kiraz (see
+# corpora.SEDRA_CITATION). Observe those terms if you redistribute.
+#
+# Excluded from git: the large derived SQLite database (~112 MB; rebuild with
+# `-m corpora.sedra_db`), transient scraper temp files, and OS/editor noise.
+sedra_cache/sedra.db
+*.tmp
+.DS_Store
+
+# Python noise
+__pycache__/

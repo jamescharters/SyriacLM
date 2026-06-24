@@ -59,7 +59,7 @@ def load_root_words():
         raise RuntimeError(
             "No SEDRA table found. Build it first:\n"
             "    git clone https://github.com/peshitta/sedrajs ~/.cache/sedrajs\n"
-            "    .venv/bin/python -m neural.sedra_build --sedra-dir ~/.cache/sedrajs/sedra")
+            "    .venv/bin/python -m corpora.sedra_build --sedra-dir ~/.cache/sedrajs/sedra")
     out = []
     for f in sedra.load_words(src):
         if not f.root:

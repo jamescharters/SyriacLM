@@ -14,12 +14,10 @@ data/
 *.jsonl
 *.arrow
 
-# SEDRA-derived training pairs. SEDRA 3 is "MIT with restrictions": academic use
-# only, NO redistribution of altered versions. We never commit SEDRA-derived
-# data; it is regenerated locally from a user-provided SEDRA source. See
-# docs/DATA.md.
-sedra_cache/
-*.sedra.json
+# SEDRA data now lives in the shared corpora/ package (tracked there for
+# reproducibility, except the large corpora/sedra_cache/sedra.db). SEDRA is
+# "MIT with restrictions": academic use only, no redistribution of altered
+# versions, cite Kiraz. See neural/docs/DATA.md and corpora/.
 
 # Results manifest is a regenerable cache (the single source of truth for paper
 # numbers is rebuilt by results.py; the rendered paper/tables/*.tex are committed,

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Build a queryable SQLite database from the scraped SEDRA JSON files.
 
-``neural/sedra_scrape.py`` mirrors the SEDRA API to one ``<id>.json`` file per
-record under ``neural/sedra_cache/api/<endpoint>/`` (``word``, ``lexeme``,
+``corpora/sedra_scrape.py`` mirrors the SEDRA API to one ``<id>.json`` file per
+record under ``corpora/sedra_cache/api/<endpoint>/`` (``word``, ``lexeme``,
 ``root``). That layout is faithful to the API but awkward to query. This script
 loads every ``<id>.json`` into a single SQLite database with a normalised,
 query-friendly schema:
@@ -35,14 +35,14 @@ convenience rebuilt from your own download.
 
 Examples
 --------
-    # build neural/sedra_cache/sedra.db from neural/sedra_cache/api/
-    .venv/bin/python neural/sedra_db.py
+    # build corpora/sedra_cache/sedra.db from corpora/sedra_cache/api/
+    .venv/bin/python -m corpora.sedra_db
 
     # custom locations / no full-text index
-    .venv/bin/python neural/sedra_db.py --src some/dir --out /tmp/sedra.db --no-fts
+    .venv/bin/python -m corpora.sedra_db --src some/dir --out /tmp/sedra.db --no-fts
 
     # an etymology query afterwards
-    sqlite3 neural/sedra_cache/sedra.db \
+    sqlite3 corpora/sedra_cache/sedra.db \
       "SELECT l.syriac, e.lang, e.term FROM lexemes l
        JOIN etymologies e ON e.lexeme_id=l.lexeme_id LIMIT 5;"
 """
@@ -353,7 +353,7 @@ def build(src: Path, db_path: Path, fts: bool) -> dict:
     if not (word_files or lexeme_files or root_files):
         raise SystemExit(
             f"no <id>.json files found under {src}\n"
-            f"run the scraper first: .venv/bin/python neural/sedra_scrape.py"
+            f"run the scraper first: .venv/bin/python -m corpora.sedra_scrape"
         )
 
     db_path.parent.mkdir(parents=True, exist_ok=True)

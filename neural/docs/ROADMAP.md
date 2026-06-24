@@ -64,7 +64,7 @@ a passing leakage assertion; `sedra --selftest`, `morphology --selftest`,
   the Glot lineage's tokenizer, so the same coverage limit is expected; not run.)
 - [x] **Twist 1 — the first neural Syriac vocaliser** ✅. Pointing restoration as
   *morphological self-supervision*: the SEDRA vocalised lexicon
-  ([`sedra_build.py`](../sedra_build.py), 29,699 words, license-aware/git-ignored)
+  ([`sedra_build.py`](../../corpora/sedra_build.py), 29,699 words, license-aware/git-ignored)
   supervises a BiLSTM that predicts the vowel/diacritic of each consonant slot
   ([`vocalizer.py`](../vocalizer.py)). Held-out SEDRA words: **per-position
   pointing accuracy 0.811** (majority baseline 0.507) and **full-word exact match

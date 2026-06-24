@@ -23,8 +23,8 @@ file so the local archive mirrors the API one-to-one.
 
 LICENSE (important). SEDRA is distributed for academic/personal use with
 restrictions (no redistribution of altered versions, must cite Kiraz -- see
-``neural.sedra.SEDRA_CITATION``). Accordingly the download target defaults to a
-**git-ignored** directory under ``neural/sedra_cache/`` and this repo never
+``corpora.SEDRA_CITATION``). Accordingly the download target defaults to a
+**git-ignored** directory under ``corpora/sedra_cache/`` and this repo never
 commits SEDRA-derived data.
 
 Robustness / etiquette
@@ -48,15 +48,15 @@ back to the default context.
 
 Examples
 --------
-    # full word archive into neural/sedra_cache/api/word/ (git-ignored)
-    .venv/bin/python neural/sedra_scrape.py
+    # full word archive into corpora/sedra_cache/api/word/ (git-ignored)
+    .venv/bin/python -m corpora.sedra_scrape
 
     # the lexeme and root endpoints
-    .venv/bin/python neural/sedra_scrape.py --endpoint lexeme
-    .venv/bin/python neural/sedra_scrape.py --endpoint root
+    .venv/bin/python -m corpora.sedra_scrape --endpoint lexeme
+    .venv/bin/python -m corpora.sedra_scrape --endpoint root
 
     # quick smoke test
-    .venv/bin/python neural/sedra_scrape.py --start 1 --end 20 --workers 8
+    .venv/bin/python -m corpora.sedra_scrape --start 1 --end 20 --workers 8
 """
 
 from __future__ import annotations
@@ -101,7 +101,7 @@ def _script_dir() -> Path:
     return Path(__file__).resolve().parent
 
 
-# git-ignored (neural/.gitignore ignores the whole sedra_cache/ tree). Each
+# git-ignored (corpora/.gitignore ignores the whole sedra_cache/ tree). Each
 # endpoint gets its own subdirectory: sedra_cache/api/<endpoint>/.
 DEFAULT_OUT_BASE = _script_dir() / "sedra_cache" / "api"
 

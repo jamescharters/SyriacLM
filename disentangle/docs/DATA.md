@@ -9,14 +9,14 @@ committed.
 
 Factor labels for Syriac (lexeme, number, gender, state) and the vocalised
 (`western`) and consonantal (`syriac`) surface forms come from **SEDRA**, the
-Syriac Electronic Data Research Archive (Beth Mardutho). The records are downloaded
-by `neural/sedra_scrape.py` into `neural/sedra_cache/` (git-ignored) and this
-package reads them from there — it does not keep its own copy.
+Syriac Electronic Data Research Archive (Beth Mardutho). The records are committed
+under `corpora/sedra_cache/` (regenerable with `corpora.sedra_scrape`) and this
+package reads them from there (via `corpora.SEDRA_WORD_DIR`) — it keeps no separate copy.
 
 SEDRA is distributed for academic and personal use with restrictions: no
 redistribution of altered versions, and the work must cite Kiraz (see
-`neural.sedra.SEDRA_CITATION`). We therefore ship the code that regenerates the
-labels from a user-provided SEDRA source, never the labels themselves.
+`corpora.SEDRA_CITATION`). We ship both the regeneration code and, for
+reproducibility, the SEDRA IV cache itself; observe SEDRA's terms if you reuse it.
 
 > Kiraz, G. A. (1994). *Automatic Concordance Generation of Syriac Texts.* VI
 > Symposium Syriacum, Orientalia Christiana Analecta 247: 461–475.

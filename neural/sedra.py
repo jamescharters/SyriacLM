@@ -134,10 +134,13 @@ def consonant_vowel_channels(vocalised: str) -> tuple[str, str]:
 def _default_source_candidates() -> list[Path]:
     """Likely locations of a user-provided / extracted SEDRA word table."""
     here = Path(__file__).resolve().parent          # neural/
+    repo = here.parent                              # repo root
     home = Path.home()
     return [
-        here / "sedra_cache" / "words.json",                 # neural.sedra_build output
-        Path("neural/sedra_cache/words.json"),               # from repo root
+        repo / "corpora" / "sedra_cache" / "words.json",     # corpora.sedra_build output
+        Path("corpora/sedra_cache/words.json"),              # from repo root
+        here / "sedra_cache" / "words.json",                 # legacy in-neural location
+        Path("neural/sedra_cache/words.json"),               # legacy, from repo root
         Path("sedra_cache/words.json"),                      # local, pre-extracted
         home / ".cache" / "sedrajs" / "words.json",
     ]

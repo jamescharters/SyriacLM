@@ -70,13 +70,17 @@ U+073C mark, and a few archaic variant letters left unmapped.
 
 Consequences for this repo:
 
-1. **No SEDRA data and no SEDRA-derived training files are committed.** You obtain
-   SEDRA yourself and point `sedra.py` at it; derived pairs cache under
-   `sedra_cache/` (git-ignored).
-2. We release the **regeneration code**, not the derived data — the same pattern
-   `sedrajs` itself follows.
-3. The SEDRA path is **optional and guarded**, so the core sub-project stays
-   CC-BY/MIT-clean. The DSC + ETCBC pipeline (`aggregate.py`) needs no SEDRA at
+1. **The SEDRA caches are committed to this repo for reproducibility** (the
+   SEDRA IV JSON under `corpora/sedra_cache/api/` and the SEDRA 3
+   `corpora/sedra_cache/words.json`). SEDRA is license-restricted, so cite Kiraz
+   and observe its terms (no redistribution of altered versions) if you reuse
+   them. The large derived SQLite DB (`sedra_cache/sedra.db`) is git-ignored for
+   size — rebuild it with `-m corpora.sedra_db`.
+2. We also release the **regeneration code** (`corpora.sedra_scrape` /
+   `sedra_db` / `sedra_build`), so the caches can be rebuilt from your own SEDRA
+   source.
+3. The SEDRA path is **optional and guarded**, so the core sub-project does not
+   require SEDRA. The DSC + ETCBC pipeline (`aggregate.py`) needs no SEDRA at
    all.
 
 ## Obtaining SEDRA (user-run, not automated here)
@@ -88,5 +92,5 @@ SEDRA is intentionally **not** auto-downloaded. To enable Twists 1–2 locally:
 2. Export word records to a JSON list of
    `{"word"/"skeleton", "vocalised", "root", "lexeme", "features"}` objects.
 3. Place it where `sedra.find_sedra_source()` looks (e.g.
-   `neural/sedra_cache/words.json`) — it is git-ignored.
-4. Verify: `python -m neural.sedra --source neural/sedra_cache/words.json`.
+   `corpora/sedra_cache/words.json`) — the committed copy already lives there.
+4. Verify: `python -m neural.sedra --source corpora/sedra_cache/words.json`.

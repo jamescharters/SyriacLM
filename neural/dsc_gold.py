@@ -114,7 +114,7 @@ def _sedra_skeleton_index() -> tuple[dict[str, str], set[str]]:
     if src is None:
         raise RuntimeError(
             "No SEDRA table found. Build it first (see neural/docs/DATA.md):\n"
-            "    .venv/bin/python -m neural.sedra_build --sedra-dir ~/.cache/sedrajs/sedra")
+            "    .venv/bin/python -m corpora.sedra_build --sedra-dir ~/.cache/sedrajs/sedra")
     skel_to_voc: dict[str, set[str]] = defaultdict(set)
     for f in sedra.load_words(src):
         if not f.vocalised:
