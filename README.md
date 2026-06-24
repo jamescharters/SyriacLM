@@ -1,180 +1,47 @@
-# Syriac Corpus Stylometry
+# Syriac Bipartite DeFoG — Toy Implementation
 
-Computational stylometry and authorship experiments on the
-[srophe/syriac-corpus](https://github.com/srophe/syriac-corpus) — a collection
-of 632 TEI/XML texts (the *Digital Syriac Corpus*). The project builds a
-character **n-gram FastText** model of Classical Syriac and uses the resulting
-embeddings to study **authorial style**: whether texts cluster by author, how
-the embeddings compare to the classic **Burrows's Delta** baseline, what the
-aaapipeline says about **disputed/pseudonymous texts**, and how much of the signal
-is a **genre** confound.
+## What this is
 
-> Full methodology, decisions, and a session-by-session lab notebook live in
-> [`stylometry/docs/NOTES.md`](stylometry/docs/NOTES.md). Start there to resume the project.
+A proof-of-concept for **coupled discrete flow matching over bipartite root-template graphs**,
+motivated by Semitic non-concatenative morphology.
 
----
+The core claim: Syriac/Semitic word generation is structurally a *bipartite graph co-generation*
+problem, not a sequence transduction problem. A surface form like ܟܬܒ (ktb, "he wrote") is the
+product of a consonantal root set R={k,t,b} and a positional template T=[C1aC2aC3], interdigitated.
 
-## Corpus at a glance
+This toy:
+1. Fetches real data from the SEDRA IV API (3284 roots, 61445 words)
+2. Parses Syriac words into (root_consonants, template_slots, surface) triples
+3. Builds bipartite graphs: root-consonant nodes ↔ template-slot nodes
+4. Trains a bipartite discrete flow model (DeFoG-style) over these graphs
+5. Evaluates zero-shot generalisation to unseen roots
 
-| Metric | Value |
-| --- | --- |
-| TEI files parsed | 632 |
-| Single-author texts | 631 |
-| Distinct authors | 45 (22 with ≥2 texts) |
-| Syriac word tokens | 2,179,065 |
-| Surface word forms | 371,922 |
-| Forms (diacritics stripped) | 141,595 |
-| Hapax legomena | 70,870 (50.0% of vocab) |
-| Rare forms (≤5) | 111,911 (79.0% of vocab) |
+## Architecture
 
-The corpus is cloned once into `~/.cache/syriac-corpus` and reused. Texts are
-tokenized into runs of Syriac letters + combining marks; "normalized" mode folds
-away diacritics (seyame, vowel points) so forms align by consonantal root.
+### Asymmetric Equivariance
+- Root encoder: Deep Sets (permutation-invariant over consonant set)
+- Template encoder: positional transformer (order-sensitive over slots)
+- Coupling: cross-attention between R and T representations
+- Flow: discrete CTMC (continuous-time Markov chain) over joint (R,T) state
 
----
-
-## Repository layout
-
-The repository hosts three papers on a shared foundation. The dependency arrows
-point inward (`disentangle → neural → core ← stylometry`); run everything from the
-repository root with `-m`.
-
-| Package | Purpose |
-| --- | --- |
-| [`core/`](core/) | **Shared library** reused by every paper: corpus access + Syriac tokenizer (`script`), stylometric features/AUC (`stylometry`), authorship (`authorship`), the supervised AV head (`av_head`), the FastText encoder (`fasttext_model`), ETCBC loaders (`etcbc_corpus`), and the author-cluster bootstrap (`bootstrap`). |
-| [`stylometry/`](stylometry/) | **Paper 1** — FastText stylometry & authorship: `paper_experiments` (every table number), `nn_baselines` (byte-LM + char-Transformer), `vocab_stats`, the preprint in [`stylometry/paper/`](stylometry/paper/), and the lab notebook in `stylometry/docs/`. |
-| [`neural/`](neural/) | **Paper 2** — a self-supervised vocaliser and cross-script transfer for a zero-resource abjad (CANINE / Hebrew transfer, SEDRA, LoRA). Its own `paper/` and `docs/`. |
-| [`disentangle/`](disentangle/) | **Paper 3** — root/pattern disentanglement: does a frozen encoder store lexical identity and morphosyntactic pattern in separable linear subspaces? Builds on `neural`. |
-
-The core pipeline depends only on **gensim + numpy**; the neural baselines and the
-`neural`/`disentangle` packages add an optional **PyTorch** (and Transformers)
-dependency.
-
----
-
-## Setup
-
-Requires **Python 3.13** (not 3.14 — no gensim/scipy wheels yet) and `git`.
-
-```bash
-python3.13 -m venv .venv
-.venv/bin/python -m pip install -r requirements.txt
+### Data pipeline
+```
+SEDRA API → root/word JSON → Syriac consonant extraction →
+(root_consonants, template_pattern, surface_form) triples →
+BipartiteMorphGraph objects → DataLoader
 ```
 
-The corpus is downloaded automatically on first run.
-
-For the neural baselines (`stylometry.nn_baselines`, the neural rows of
-`stylometry.paper_experiments`), also install PyTorch:
-
-```bash
-.venv/bin/python -m pip install -r requirements-nn.txt
-```
-
----
+## Files
+- `data.py`      — SEDRA API fetcher + morphological parser
+- `graph.py`     — BipartiteMorphGraph construction
+- `model.py`     — Bipartite DeFoG architecture
+- `train.py`     — Training loop + zero-shot eval
+- `run.py`       — Entry point
 
 ## Usage
-
-Run modules from the repository root with `.venv/bin/python -m <package>.<module>`.
-Common flags: `--normalize/--no-normalize`, `--refresh`/`--update` (re-clone /
-git-pull the corpus), `--help` on each module.
-
 ```bash
-# 1. Corpus + vocabulary overview
-.venv/bin/python -m core.script --top 10
-.venv/bin/python -m stylometry.vocab_stats --normalize
-
-# 2. Train the FastText model (saves syriac_fasttext.model) + morphology test
-.venv/bin/python -m core.fasttext_model --save syriac_fasttext.model
-
-# 3. Stylometric separation + false-positive control
-.venv/bin/python -m core.stylometry
-
-# 4. Delta comparison, disputed texts, genre control
-.venv/bin/python -m core.authorship
-#   subset / tweak:
-.venv/bin/python -m core.authorship --analyses delta --min-tokens 1000,2000
-.venv/bin/python -m core.authorship --analyses genre  --genre-min-tokens 0,500,1000
+pip install torch torch-geometric requests tqdm
+python run.py --fetch      # fetch SEDRA data (needs internet)
+python run.py --train      # train on cached data
+python run.py --eval       # zero-shot root transfer eval
 ```
-
-The trained model (`syriac_fasttext.model*`, ~190 MB) is **git-ignored** and
-regenerated by step 2. `core.stylometry` and `core.authorship` load it automatically
-(and will train one if it is missing).
-
----
-
-## Key findings
-
-**Morphology.** The embeddings are morphologically coherent: root-sharing pairs
-beat semantic controls — king/kingdom `+0.69` vs king/father `+0.38`; write/book
-`+0.75` vs write/read `+0.30`.
-
-**Stylometric signal (same- vs cross-author AUC, mean-centered).** AUC =
-P(a same-author pair is more similar than a cross-author pair); 0.5 = no signal.
-
-| Cohort | all words | function words |
-| --- | --- | --- |
-| Full (≥2 texts, 22 authors) | 0.830 | 0.784 |
-| Restricted (≥3 texts, ≥2000 tok) | 0.898 | 0.885 |
-
-A **false-positive control** (split Ephrem into two pseudo-authors, 20 random
-half-splits) gives mean AUC ≈ **0.51** → the signal is genuine, not an artefact.
-Raw (uncentered) cosines are badly inflated by embedding **anisotropy** (cross-
-author mean ≈ 0.95); mean-centering removes the shared component and is required.
-
-**FastText vs Burrows's Delta** (restricted cohort; AUC + leave-one-out top-1):
-the two are comparable — Delta edges attribution (top-1 ≈ 0.95–0.98), FastText is
-competitive on AUC. LOO accuracy on known authors ≈ **0.93**.
-
-**Disputed texts.**
-- **690** — letter transmitted under Ephrem's name (Papa bar Aggai dossier): the
-  pipeline puts Ephrem **last (#11/11)**, 0th percentile of his genuine texts →
-  *not* his style.
-- **219–227** — Pseudo-Clementines: nearest to Paul/Eusebius (other Greek→Syriac
-  translations) more than to each other → style dominated by *translationese*.
-- **519** — Chronicle of Zuqnin (Anonymous): nearest to Eusebius (historiography).
-
-**Genre confound.** Within Ephrem, madrāšē (hymns) vs prose separation is
-**length-dependent**: AUC 0.59 with short hymns included, but **0.86** once
-lengths are matched. Genre/register is therefore a real confound — compare like
-with like.
-
----
-
-## Notes & caveats
-
-- **Anisotropy:** always mean-center averaged document vectors before cosine.
-- **Length:** short texts give noisy vectors; results are reported across token
-  floors as a sensitivity analysis.
-- **"Anonymous"** is not a real author (it collapses many texts); it is excluded
-  from author centroids.
-- A benign `Exception ignored in: '…our_dot_float'` from gensim+numpy is
-  suppressed during training; it does not affect the vectors.
-
-See [`stylometry/docs/NOTES.md`](stylometry/docs/NOTES.md) for the complete record.
-
-## Papers
-
-Three preprints live in the repository, each with its own `paper/` source
-(**XeLaTeX**, native Syriac via Noto Sans Syriac paired with transliteration):
-
-- **Paper 1 — stylometry** in [`stylometry/paper/`](stylometry/paper/). Regenerate
-  the table numbers with `python -m stylometry.paper_experiments`, then build:
-
-```bash
-cd stylometry/paper
-xelatex main && bibtex main && xelatex main && xelatex main
-```
-
-- **Paper 2 — neural vocaliser / transfer** in [`neural/paper/`](neural/paper/)
-  (tables regenerated by `python -m neural.results`).
-- **Paper 3 — disentanglement** in [`disentangle/`](disentangle/) (run
-  `python -m disentangle.disentangle --demo`).
-
-If Noto Sans Syriac is unavailable, comment out the `\newfontfamily\syriacfont`
-line in `main.tex`; transliterations still render.
-
-## License / data
-
-Corpus texts are © the Digital Syriac Corpus contributors, released under
-**CC BY 4.0** (see the upstream [srophe/syriac-corpus](https://github.com/srophe/syriac-corpus)).
-This repository contains only analysis code.
